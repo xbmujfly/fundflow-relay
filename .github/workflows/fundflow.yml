@@ -1,15 +1,16 @@
 name: fundflow-relay
 
-# 东财资金流中转抓取（GitHub Actions 矩阵 · 重叠冗余版）
+# 东财资金流中转抓取（GitHub Actions 矩阵 · 重叠冗余 · 跨轮自愈）
 #
-# 为什么长这样（全部来自 2026-09-27 实测）
-# =======================================
+# 全部设计来自 2026-09-27 实测：
+# =====================================
 # · 东财 push2 对**每个网络出口**只放行极少几次请求 → 本机(校园网)、手机热点 IPv4/IPv6 全都发几发就被拒
-# · GitHub Actions 矩阵**每个 job 一个独立 runner = 独立公网 IP**，天然绕开这个约束
-# · 但实测 Azure IP **约 43% 可用**（其余返回 502），**可用的那个 IP 能吃约 7 页**
-# · 全市场 5561 只、单页硬顶 100 行 → 需要 56 页
-# → 所以每页派 SPAN(默认 8) 个不同 job 各抓一次（环形重叠窗口），
-#   单页缺失概率 = 0.57^8 ≈ 1%，一次跑基本抓全；merge 端按股票代码去重。
+# · GitHub Actions 矩阵**每个 job 一个独立 runner = 独立公网 IP**
+# · 但实测 Azure IP **约 43% 可用**（其余 502），可用的那个只吃得下约 3-7 页
+# · 全市场 5561 只、单页硬顶 100 行 → 需要 56 页 → 一轮必然缺页
+# → 三重设计：① 每页派 SPAN 个不同 job 各抓一次（环形重叠，提高单轮命中）
+#             ② merge 端**跨轮累积**（仓库里的 _accum.json.gz，按代码去重，重跑不浪费）
+#             ③ 缺页自动再触发一轮（只抓缺的页），直到抓全才落正式产物
 
 on:
   workflow_dispatch:
@@ -23,15 +24,20 @@ on:
         required: false
         default: '8'
       pages_list:
-        description: '定向补缺页：逗号分隔页码，如 7,23,41（填了就只抓这些页）'
+        description: '定向补缺页：逗号分隔页码，如 5,6,28（填了就只抓这些页）'
         required: false
         default: ''
+      round:
+        description: '第几轮（自动递增，用于限制最多补跑轮数）'
+        required: false
+        default: '1'
   schedule:
     - cron: '20 7 * * 1-5'    # UTC 07:20 = 北京 15:20（收盘后立刻抓）
-    - cron: '40 9 * * 1-5'    # UTC 09:40 = 北京 17:40（补一轮，防上一轮 IP 全被拒）
+    - cron: '40 9 * * 1-5'    # UTC 09:40 = 北京 17:40（兜底第二轮）
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: fundflow-relay
@@ -89,7 +95,7 @@ jobs:
           path: parts
           merge-multiple: true
 
-      - name: 汇总（缺页台账 + 落正式产物）
+      - name: 累积合并（跨轮去重 + 台账）
         continue-on-error: true
         run: python3 relay/gha/merge_parts.py --parts parts --out relay/data
 
@@ -109,3 +115,11 @@ jobs:
             git commit -m "relay: fundflow $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
           fi
+
+      - name: 还缺页 → 自动再跑一轮（只抓缺的页）
+        if: always()
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          ROUND: ${{ github.event.inputs.round || '1' }}
+          MAX_ROUND: '6'
+        run: python3 relay/gha/next_round.py

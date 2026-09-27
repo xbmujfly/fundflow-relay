@@ -123,6 +123,13 @@ def main():
         universe = [l.strip() for l in open(a.universe, encoding="utf-8") if l.strip()]
     done = load_done(a.skip_file, a.target) if a.target else set()
     todo = [c for c in universe if str(c).zfill(6) not in done]
+    # 分片轮换：所有 job 用同一个 seed（由「目标日 + 已完成数量」决定）→ 分片仍互不重叠，
+    # 但每轮重新划分 → 某个 IP 反复死的 job 不会一直压着同一小片股票（否则收敛很慢）。
+    if todo:
+        import hashlib
+        import random as _rnd
+        seed = int(hashlib.md5(f"{a.target}|{len(done)}".encode()).hexdigest()[:8], 16)
+        _rnd.Random(seed).shuffle(todo)
     mine = todo[a.job::a.jobs][:a.limit]
     print(f"== job={a.job}/{a.jobs} 目标={a.target}｜universe {len(universe)}｜已完成 {len(done)}"
           f"｜本 job 待抓 {len(mine)} 只｜出口 IP={egress_ip()} ==", flush=True)

@@ -115,21 +115,27 @@ def main():
             else:
                 miss.append(c)
     print(f"耗时 {time.time()-t0:.0f}s｜成功 {len(items)}｜失败 {len(miss)}")
-    # 补一轮：东财对同一出口偶发限流，间隔重试常能追回几只（串行+间隔，只补缺的）
-    if miss:
-        _todo = list(miss)[:25]        # 只补前 25 只（防被限流时整 job 拖过 12 分钟超时）
-        print(f"补抓 {len(_todo)}/{len(miss)} 只（间隔 1.2s）…", flush=True)
-        still = [c for c in miss if c not in _todo]
-        for c in _todo:
+    # 多轮补抓（最多 3 轮，总预算 480s）——目标是**抓全**：
+    #   2026-09-27 用户"确定这样不会漏吧？不保险就按前面" → 名单回退全量 + 这里把"抓全"做成机制。
+    #   东财对同一出口偶发限流（实测首轮 43/63），间隔重试能追回（一轮 → 62/63，再轮可望全）。
+    #   ⚠️ 宁可多花 1-2 分钟，也不要结构性漏票。
+    _rnd, _t_start = 0, time.time()
+    while miss and _rnd < 3 and (time.time() - _t_start) < 480:
+        _rnd += 1
+        print(f"补抓第 {_rnd} 轮（{len(miss)} 只，间隔 1.2s）…", flush=True)
+        still = []
+        for c in miss:
             r = one(c)
             if r:
                 items[c] = r
-                print(f"  ✔ {c} cum={r['cum']/1e8:+.3f}亿（补抓成功）", flush=True)
+                print(f"  ✔ {c} cum={r['cum']/1e8:+.3f}亿", flush=True)
             else:
                 still.append(c)
             time.sleep(1.2)
         miss = still
-        print(f"补抓后：成功 {len(items)}｜仍失败 {len(miss)}")
+        print(f"第 {_rnd} 轮后：成功 {len(items)}｜仍缺 {len(miss)}", flush=True)
+    if miss:
+        print(f"⚠️ 仍有 {len(miss)} 只未抓到（东财对本 runner 拒连）→ 下一轮 cron（10 分钟后）换 IP 重试")
     if not items:
         print("❌ 全部失败（东财对本 runner IP 拒连）→ 非零退出，让工作流重跑换 IP")
         return 2

@@ -80,7 +80,13 @@ def fetch(pn, pz=100, tries=2):
 
 def resolve_pages(a):
     if a.pages_list:
-        return [int(x) for x in a.pages_list.replace(" ", "").split(",") if x], 0
+        import random
+        ps = [int(x) for x in a.pages_list.replace(" ", "").split(",") if x]
+        # 关键：每个 job 用自己的种子打乱顺序。
+        # 若都按原顺序抓，IP 只能活 3-7 发 → 列表头部被反复重试、尾部永远轮不到。
+        rnd = random.Random(a.job or 0)
+        rnd.shuffle(ps)
+        return ps, 0
     if a.job is not None:
         # 环形重叠：job i → i+1 … i+span（模 pages）
         return [((a.job + k) % a.pages) + 1 for k in range(a.span)], a.pages
@@ -101,6 +107,7 @@ def main():
     ap.add_argument("--per-job", type=int, default=2)
     ap.add_argument("--total-pages", type=int, default=90)
     ap.add_argument("--pz", type=int, default=100)
+    ap.add_argument("--max-fail", type=int, default=3, help="连续几页失败就收工（IP 已死）")
     ap.add_argument("--out", default="parts")
     a = ap.parse_args()
 
@@ -115,12 +122,18 @@ def main():
     tag = a.job if a.job is not None else (a.chunk if a.chunk is not None else "pl")
     print(f"== job={tag} 要抓 {len(pages)} 页: {pages}｜出口 IP={egress_ip()} ==", flush=True)
 
-    rows, ok_pages, total = [], [], None
+    rows, ok_pages, total, streak = [], [], None, 0
     for i, pn in enumerate(pages):
         diff, t = fetch(pn, a.pz)
         if diff:
             rows += diff
             ok_pages.append(pn)
+            streak = 0
+        else:
+            streak += 1
+            if streak >= a.max_fail:
+                print(f"  连续 {streak} 页失败 → 本 IP 已死，收工（还剩 {len(pages)-i-1} 页没试）", flush=True)
+                break
         if t:
             total = t
         if i + 1 < len(pages):

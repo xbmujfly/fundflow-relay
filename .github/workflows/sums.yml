@@ -1,0 +1,91 @@
+name: relay-sums
+on: workflow_dispatch
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        job:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+          - 9
+          - 10
+          - 11
+          - 12
+          - 13
+          - 14
+          - 15
+          - 16
+          - 17
+          - 18
+          - 19
+          - 20
+          - 21
+          - 22
+          - 23
+          - 24
+          - 25
+          - 26
+          - 27
+          - 28
+          - 29
+          - 30
+          - 31
+          - 32
+          - 33
+          - 34
+          - 35
+          - 36
+          - 37
+          - 38
+          - 39
+          - 40
+          - 41
+          - 42
+          - 43
+          - 44
+          - 45
+          - 46
+          - 47
+          - 48
+          - 49
+          - 50
+          - 51
+          - 52
+          - 53
+          - 54
+          - 55
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 relay/gha/fetch_sums.py --job ${{ matrix.job }} --jobs 56 --pages 56 --span 8 --out parts
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: sums-${{ matrix.job }}
+          path: parts
+          if-no-files-found: ignore
+  merge:
+    needs: grab
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: sums-*
+          merge-multiple: true
+          path: parts
+      - run: python3 relay/gha/merge_sums.py --in parts --out sums_latest.json.gz
+      - uses: actions/upload-artifact@v4
+        with:
+          name: sums-merged
+          path: sums_latest.json.gz

@@ -33,8 +33,10 @@ from datetime import datetime, timedelta, timezone
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36")
 FS = "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23"
-FIELDS = ("f12,f14,f2,f3,f62,f184,f267,f268,f269,f270,f271,"   # 当日 + 3日(主力/4档)
-              "f164,f165,f166,f167,f168,f174,f175,f176,f177,f178")  # 5日 + 10日 分档
+FIELDS = ("f12,f14,f2,f3,f62,f184,"                      # 当日
+              "f267,f269,f271,f273,f275,"                  # 3日 主力/超大/大/中/小
+              "f164,f166,f168,f170,f172,"                  # 5日 主力/超大/大/中/小
+              "f174,f176,f178,f180,f182")                 # 10日 主力/超大/大/中/小
 BASE = "https://push2delay.eastmoney.com/api/qt/clist/get"
 CST = timezone(timedelta(hours=8))
 

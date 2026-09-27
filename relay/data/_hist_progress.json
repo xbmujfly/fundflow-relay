@@ -1,9 +1,9 @@
 {
  "target": "2026-09-23",
- "rows": 1162,
- "codes_ok": 1162,
+ "rows": 1186,
+ "codes_ok": 1186,
  "universe": 5218,
- "codes_missing": 4056,
+ "codes_missing": 4032,
  "miss_sample": [
   "000001",
   "000009",
@@ -26,7 +26,7 @@
   "000055",
   "000059"
  ],
- "accum_rows": 21172,
+ "accum_rows": 21528,
  "parts": 220,
- "built_at": "2026-09-27T20:45:36+08:00"
+ "built_at": "2026-09-27T20:51:37+08:00"
 }

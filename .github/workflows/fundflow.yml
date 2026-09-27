@@ -1,0 +1,90 @@
+name: fundflow-relay
+
+# 东财资金流中转抓取（GitHub Actions 矩阵版）
+#
+# 为什么用矩阵：实测东财 push2 对**每个网络出口**只放行极少几次请求（校园网/手机热点 IPv4/热点 IPv6 全都是发几发就被 RST），
+# 而单页硬顶 100 行、全市场 5561 只 → 必须 56 次请求。
+# GitHub Actions 矩阵里**每个 job 跑在独立 runner 上（独立公网 IP）**，天然满足「每出口只发一两次」的约束。
+#
+# 抓完由 merge job 汇总成 relay/data/fundflow_<日期>.json.gz 并 commit 回仓库；
+# 本机用 raw.githubusercontent.com 直接取回（public 仓库无需 token），再入 fundflow_history.db。
+
+on:
+  workflow_dispatch:
+    inputs:
+      total_pages:
+        description: '总页数（56 页 = 全市场 5561 只；测试可填 2）'
+        required: false
+        default: '56'
+      per_job:
+        description: '每个 job 抓几页（东财按出口限流，建议 2）'
+        required: false
+        default: '2'
+  schedule:
+    - cron: '20 7 * * 1-5'    # UTC 07:20 = 北京 15:20（收盘后立刻抓）
+    - cron: '40 9 * * 1-5'    # UTC 09:40 = 北京 17:40（补一轮，防上一轮抓空）
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fundflow-relay
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    strategy:
+      fail-fast: false
+      max-parallel: 28
+      matrix:
+        chunk: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13,
+                14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 抓取本分片
+        run: |
+          python3 relay/gha/fetch_range.py \
+            --chunk ${{ matrix.chunk }} \
+            --per-job ${{ github.event.inputs.per_job || '2' }} \
+            --total-pages ${{ github.event.inputs.total_pages || '56' }} \
+            --out parts
+
+      - name: 上传分片
+        uses: actions/upload-artifact@v4
+        with:
+          name: part-${{ matrix.chunk }}
+          path: parts/
+          if-no-files-found: ignore
+          retention-days: 7
+
+  merge:
+    needs: fetch
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 下载全部分片
+        uses: actions/download-artifact@v4
+        with:
+          path: parts
+          merge-multiple: true
+
+      - name: 汇总
+        run: python3 relay/gha/merge_parts.py --parts parts --out relay/data
+
+      - name: 提交数据
+        run: |
+          git config user.name  "fundflow-relay-bot"
+          git config user.email "relay@users.noreply.github.com"
+          git add -A relay/data
+          if git diff --cached --quiet; then
+            echo "无新数据，跳过提交"
+          else
+            git commit -m "relay: fundflow $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

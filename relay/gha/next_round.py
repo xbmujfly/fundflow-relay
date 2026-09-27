@@ -16,10 +16,14 @@ import urllib.request
 
 ROUND = int(os.environ.get("ROUND", "1"))
 MAX_ROUND = int(os.environ.get("MAX_ROUND", "6"))
-PROG = os.environ.get("PROGRESS", "relay/data/_progress.json")
+MODE = os.environ.get("MODE", "snapshot")          # snapshot | history
+TARGET = os.environ.get("TARGET", "")
+PROG = os.environ.get("PROGRESS",
+                      "relay/data/_hist_progress.json" if MODE == "history"
+                      else "relay/data/_progress.json")
 REPO = os.environ.get("GITHUB_REPOSITORY", "")
 TOK = os.environ.get("GITHUB_TOKEN", "")
-WF = "fundflow.yml"
+WF = os.environ.get("WF", "history.yml" if MODE == "history" else "fundflow.yml")
 
 
 def main():
@@ -27,20 +31,28 @@ def main():
         print("没有台账文件 → 跳过")
         return 0
     p = json.load(open(PROG, encoding="utf-8"))
-    miss = p.get("pages_missing") or []
-    print(f"台账：{p.get('rows')}/{p.get('total')} 只｜缺 {len(miss)} 页 {miss[:20]}｜当前第 {ROUND} 轮")
-    if not miss:
+    if MODE == "history":
+        miss_n = p.get("codes_missing") or 0
+        miss = p.get("miss_sample") or []
+    else:
+        miss = p.get("pages_missing") or []
+        miss_n = len(miss)
+    print(f"[{MODE}] 台账：{p.get('rows')}/{p.get('total') or p.get('universe')}"
+          f"｜缺 {miss_n}｜当前第 {ROUND} 轮")
+    if not miss_n:
         print("✅ 已抓全，无需补跑")
         return 0
     if ROUND >= MAX_ROUND:
-        print(f"⛔ 已达最大轮次 {MAX_ROUND}，停止补跑（缺页 {miss}）")
+        print(f"⛔ 已达最大轮次 {MAX_ROUND}，停止补跑")
         return 0
     if not (REPO and TOK):
         print("缺 GITHUB_REPOSITORY / GITHUB_TOKEN → 跳过")
         return 0
-    body = json.dumps({"ref": "main",
-                       "inputs": {"round": str(ROUND + 1),
-                                  "pages_list": ",".join(str(x) for x in miss)}}).encode()
+    if MODE == "history":
+        inputs = {"round": str(ROUND + 1), "target": TARGET}
+    else:
+        inputs = {"round": str(ROUND + 1), "pages_list": ",".join(str(x) for x in miss)}
+    body = json.dumps({"ref": "main", "inputs": inputs}).encode()
     req = urllib.request.Request(
         f"https://api.github.com/repos/{REPO}/actions/workflows/{WF}/dispatches",
         data=body, method="POST",

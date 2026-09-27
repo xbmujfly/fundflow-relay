@@ -66,12 +66,20 @@ def main():
         p = fetch("relay/data/" + a.progress)
         if isinstance(p, bytes) and p and not p.startswith(b"__"):
             d = json.loads(p.decode("utf-8"))
-            cur = (d.get("rows"), len(d.get("pages_ok") or []), tuple(d.get("pages_missing") or []))
-            if cur != last:
-                print(f"[{datetime.now():%H:%M:%S}] 台账：{d.get('rows')}/{d.get('total')} 只"
-                      f"｜页 {len(d.get('pages_ok') or [])}/{d.get('pages_total')}"
-                      f"｜缺 {d.get('pages_missing')}", flush=True)
-                last = cur
+            if "codes_missing" in d:      # 历史回补台账
+                cur = (d.get("rows"), d.get("codes_missing"), d.get("accum_rows"))
+                if cur != last:
+                    print(f"[{datetime.now():%H:%M:%S}] 历史回补台账：目标日 {d.get('rows')} 行 / {d.get('codes_ok')} 只"
+                          f"｜universe {d.get('universe')}｜缺 {d.get('codes_missing')} 只"
+                          f"｜累加器共 {d.get('accum_rows')} 行", flush=True)
+                    last = cur
+            else:
+                cur = (d.get("rows"), len(d.get("pages_ok") or []), tuple(d.get("pages_missing") or []))
+                if cur != last:
+                    print(f"[{datetime.now():%H:%M:%S}] 台账：{d.get('rows')}/{d.get('total')} 只"
+                          f"｜页 {len(d.get('pages_ok') or [])}/{d.get('pages_total')}"
+                          f"｜缺 {d.get('pages_missing')}", flush=True)
+                    last = cur
         time.sleep(a.interval)
     print("超时：还没有正式产物", flush=True)
     return 4

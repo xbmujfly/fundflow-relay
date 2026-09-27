@@ -21,8 +21,8 @@ on:
         description: '只抓这些代码（逗号分隔，留空=按 universe 全市场）'
         required: false
         default: ''
-  schedule:
-    - cron: '0 11 * * 6'      # 周六 UTC 11:00 = 北京 19:00，做一次历史补缺巡检
+  # 无定时触发：target 必须显式指定（定时跑会因输入为空导致 merge 失败）。
+  # 需要补历史缺口时手动触发，或由 daily_pull/gap_check 告警后人工发起。
 
 permissions:
   contents: write

@@ -112,7 +112,9 @@ jobs:
           if git diff --cached --quiet; then
             echo "无新数据，跳过提交"
           else
+            git pull --rebase --autostash || true
             git commit -m "relay: fundflow $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase --autostash || true
             git push
           fi
 

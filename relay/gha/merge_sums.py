@@ -15,6 +15,9 @@ for p in sorted(glob.glob(os.path.join(a.ind, "**", "sumpart_*.json.gz"), recurs
         if c: rows[c] = r
     for pn in j.get("ok_pages") or []: pages[pn] = 1
     total = j.get("total") or total
-out = {"date": None, "total": total, "n": len(rows), "pages": sorted(pages), "rows": list(rows.values())}
+from datetime import datetime, timedelta, timezone
+ts = [r.get("f124") for r in rows.values() if isinstance(r.get("f124"), (int, float)) and r.get("f124")]
+sdate = datetime.fromtimestamp(max(ts), timezone(timedelta(hours=8))).strftime("%Y-%m-%d") if ts else None
+out = {"date": sdate, "total": total, "n": len(rows), "pages": sorted(pages), "rows": list(rows.values())}
 with gzip.open(a.out, "wt", encoding="utf-8") as f: json.dump(out, f, ensure_ascii=False)
 print(f"合并 {len(rows)} 只 / 页 {len(pages)}/{56} total={total} → {a.out}")

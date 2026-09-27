@@ -1,28 +1,34 @@
 name: fundflow-relay
 
-# 东财资金流中转抓取（GitHub Actions 矩阵版）
+# 东财资金流中转抓取（GitHub Actions 矩阵 · 重叠冗余版）
 #
-# 为什么用矩阵：实测东财 push2 对**每个网络出口**只放行极少几次请求（校园网/手机热点 IPv4/热点 IPv6 全都是发几发就被 RST），
-# 而单页硬顶 100 行、全市场 5561 只 → 必须 56 次请求。
-# GitHub Actions 矩阵里**每个 job 跑在独立 runner 上（独立公网 IP）**，天然满足「每出口只发一两次」的约束。
-#
-# 抓完由 merge job 汇总成 relay/data/fundflow_<日期>.json.gz 并 commit 回仓库；
-# 本机用 raw.githubusercontent.com 直接取回（public 仓库无需 token），再入 fundflow_history.db。
+# 为什么长这样（全部来自 2026-09-27 实测）
+# =======================================
+# · 东财 push2 对**每个网络出口**只放行极少几次请求 → 本机(校园网)、手机热点 IPv4/IPv6 全都发几发就被拒
+# · GitHub Actions 矩阵**每个 job 一个独立 runner = 独立公网 IP**，天然绕开这个约束
+# · 但实测 Azure IP **约 43% 可用**（其余返回 502），**可用的那个 IP 能吃约 7 页**
+# · 全市场 5561 只、单页硬顶 100 行 → 需要 56 页
+# → 所以每页派 SPAN(默认 8) 个不同 job 各抓一次（环形重叠窗口），
+#   单页缺失概率 = 0.57^8 ≈ 1%，一次跑基本抓全；merge 端按股票代码去重。
 
 on:
   workflow_dispatch:
     inputs:
-      total_pages:
-        description: '总页数（56 页 = 全市场 5561 只；测试可填 2）'
+      pages:
+        description: '总页数（56 页 ≈ 全市场 5561 只）'
         required: false
         default: '56'
-      per_job:
-        description: '每个 job 抓几页（东财按出口限流，建议 2）'
+      span:
+        description: '每个 job 抓几页（重叠冗余宽度）'
         required: false
-        default: '2'
+        default: '8'
+      pages_list:
+        description: '定向补缺页：逗号分隔页码，如 7,23,41（填了就只抓这些页）'
+        required: false
+        default: ''
   schedule:
     - cron: '20 7 * * 1-5'    # UTC 07:20 = 北京 15:20（收盘后立刻抓）
-    - cron: '40 9 * * 1-5'    # UTC 09:40 = 北京 17:40（补一轮，防上一轮抓空）
+    - cron: '40 9 * * 1-5'    # UTC 09:40 = 北京 17:40（补一轮，防上一轮 IP 全被拒）
 
 permissions:
   contents: write
@@ -37,25 +43,34 @@ jobs:
     timeout-minutes: 12
     strategy:
       fail-fast: false
-      max-parallel: 28
+      max-parallel: 24
       matrix:
-        chunk: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13,
-                14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]
+        job: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+              20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37,
+              38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55]
     steps:
       - uses: actions/checkout@v4
 
-      - name: 抓取本分片
+      - name: 抓取本 job 的页窗口
         run: |
-          python3 relay/gha/fetch_range.py \
-            --chunk ${{ matrix.chunk }} \
-            --per-job ${{ github.event.inputs.per_job || '2' }} \
-            --total-pages ${{ github.event.inputs.total_pages || '56' }} \
-            --out parts
+          if [ -n "${{ github.event.inputs.pages_list }}" ]; then
+            python3 relay/gha/fetch_range.py \
+              --job ${{ matrix.job }} --jobs 56 \
+              --pages-list "${{ github.event.inputs.pages_list }}" \
+              --out parts
+          else
+            python3 relay/gha/fetch_range.py \
+              --job ${{ matrix.job }} --jobs 56 \
+              --pages ${{ github.event.inputs.pages || '56' }} \
+              --span ${{ github.event.inputs.span || '8' }} \
+              --out parts
+          fi
 
       - name: 上传分片
+        if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: part-${{ matrix.chunk }}
+          name: part-${{ matrix.job }}
           path: parts/
           if-no-files-found: ignore
           retention-days: 7
@@ -74,10 +89,16 @@ jobs:
           path: parts
           merge-multiple: true
 
-      - name: 汇总
+      - name: 汇总（缺页台账 + 落正式产物）
+        continue-on-error: true
         run: python3 relay/gha/merge_parts.py --parts parts --out relay/data
 
-      - name: 提交数据
+      - name: 回显台账
+        if: always()
+        run: cat relay/data/_progress.json || true
+
+      - name: 提交
+        if: always()
         run: |
           git config user.name  "fundflow-relay-bot"
           git config user.email "relay@users.noreply.github.com"

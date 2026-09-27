@@ -1,0 +1,51 @@
+name: relay-intraday
+
+# 盘中「当日主力净额 + 日内累计曲线」中转（2026-09-27 建）
+# 背景：本机(校园网出口)被东财 push2 整族拒连 → 盘中真资金口径只能走 runner。
+# 只抓「监控名单」relay/intraday_watch.json（持仓+观察池+分层池 T1-T4），几十个请求/次 → 可每 10 分钟跑。
+# 产出 relay/data/intraday_<date>.json（半场比分；本机 common/intraday_relay.py 取回，
+# 由 intraday_weak_watch.py 判「B4/B5 资金转弱」）。
+#
+# ⚠️ 盘中数据是**进行时**（半场比分），绝不入库 fundflow_history.db，只做当日预警。
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/10 1-7 * * 1-5'    # UTC 1:00-7:50 = 北京 9:00-15:50（盘中每 10 分钟）
+
+permissions:
+  contents: write
+
+concurrency:
+  group: relay-intraday
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 抓盘中资金（监控名单）
+        run: python3 relay/gha/fetch_intraday.py --watch relay/intraday_watch.json --out relay/data
+
+      - name: 清理 3 天前的盘中分片（防仓库膨胀）
+        if: always()
+        run: |
+          ls relay/data/intraday_*.json 2>/dev/null | head -n -6 | xargs -r rm -f || true
+
+      - name: 提交
+        if: always()
+        run: |
+          git config user.name  "fundflow-relay-bot"
+          git config user.email "relay@users.noreply.github.com"
+          git add -A relay/data
+          if git diff --cached --quiet; then
+            echo "无新数据，跳过提交"
+          else
+            git pull --rebase --autostash || true
+            git commit -m "relay: intraday $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase --autostash || true
+            git push
+          fi

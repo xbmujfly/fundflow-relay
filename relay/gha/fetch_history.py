@@ -31,7 +31,10 @@ from datetime import datetime
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36")
-BASE = "https://push2his.eastmoney.com/api/qt/stock/fflow/daykline/get"
+# 2026-09-27 探针实测：同一族 fflow/daykline 接口在 push2delay 主机上也存在，
+# 而 push2delay 在 Azure IP 上通过率 ~43%、push2his 仅 ~3% → 默认先打 push2delay，失败再退 push2his。
+DEFAULT_HOSTS = ["push2delay.eastmoney.com", "push2his.eastmoney.com"]
+HOSTS = list(DEFAULT_HOSTS)
 F1 = "f1,f2,f3,f7"
 F2 = "f51,f52,f53,f54,f55,f56,f57,f58,f59,f60,f61,f62,f63"
 
@@ -55,36 +58,36 @@ def egress_ip():
     return "?"
 
 
-def fetch_one(code, lmt=15, tries=2):
-    """取单只股票的历史资金流。返回 [[code,date,main,small,mid,big,super,main_pct,close,pct], ...]"""
-    url = f"{BASE}?lmt={lmt}&klt=101&secid={secid(code)}&fields1={F1}&fields2={F2}"
+def fetch_one(code, lmt=15, tries=1):
+    """取单只股票的历史资金流（多 host 依次试）。
+    返回 [[code,date,main,small,mid,big,super,main_pct,close,pct], ...]"""
     code6 = str(code).zfill(6)
-    for k in range(tries):
-        try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA,
-                                                      "Referer": "https://quote.eastmoney.com/"})
-            with urllib.request.urlopen(req, timeout=18) as r:
-                j = json.loads(r.read().decode("utf-8", "replace"))
-            d = j.get("data") or {}
-            kl = d.get("klines") or []
-            out = []
-            for line in kl:
-                p = line.split(",")
-                if len(p) < 13:
-                    continue
-                out.append([code6, p[0], float(p[1]), float(p[2]), float(p[3]), float(p[4]),
-                            float(p[5]), float(p[6]), float(p[11]), float(p[12])])
-            if out:
-                return out
-            return []          # 有响应但没数据（停牌/退市）→ 不算失败
-        except urllib.error.HTTPError as e:
-            if k + 1 < tries:
-                time.sleep(1.5)
-            last = f"HTTP {e.code}"
-        except Exception as e:
-            last = type(e).__name__
-            if k + 1 < tries:
-                time.sleep(1.5)
+    last = "no-host"
+    for host in HOSTS:
+        url = (f"https://{host}/api/qt/stock/fflow/daykline/get"
+               f"?lmt={lmt}&klt=101&secid={secid(code)}&fields1={F1}&fields2={F2}")
+        for k in range(tries):
+            try:
+                req = urllib.request.Request(url, headers={"User-Agent": UA,
+                                                          "Referer": "https://quote.eastmoney.com/"})
+                with urllib.request.urlopen(req, timeout=15) as r:
+                    j = json.loads(r.read().decode("utf-8", "replace"))
+                d = j.get("data") or {}
+                kl = d.get("klines") or []
+                out = []
+                for line in kl:
+                    p = line.split(",")
+                    if len(p) < 13:
+                        continue
+                    out.append([code6, p[0], float(p[1]), float(p[2]), float(p[3]), float(p[4]),
+                                float(p[5]), float(p[6]), float(p[11]), float(p[12])])
+                if out:
+                    return out
+                return []      # 有响应但没数据（停牌/退市）→ 不算失败
+            except urllib.error.HTTPError as e:
+                last = f"{host.split('.')[0]}:HTTP {e.code}"
+            except Exception as e:
+                last = f"{host.split('.')[0]}:{type(e).__name__}"
     raise RuntimeError(last)
 
 
@@ -111,9 +114,13 @@ def main():
     ap.add_argument("--limit", type=int, default=8, help="本 job 最多抓几只（省 IP 配额）")
     ap.add_argument("--max-fail", type=int, default=3, help="连续失败几次就收工（IP 已死）")
     ap.add_argument("--lmt", type=int, default=15, help="每股取多少天历史")
+    ap.add_argument("--hosts", default=",".join(DEFAULT_HOSTS),
+                    help="按顺序试的主机（push2delay 通过率高，优先）")
     ap.add_argument("--out", default="parts")
     a = ap.parse_args()
 
+    global HOSTS
+    HOSTS = [h.strip() for h in a.hosts.split(",") if h.strip()]
     if a.codes:
         universe = [c.strip() for c in a.codes.split(",") if c.strip()]
     else:
@@ -132,7 +139,7 @@ def main():
         _rnd.Random(seed).shuffle(todo)
     mine = todo[a.job::a.jobs][:a.limit]
     print(f"== job={a.job}/{a.jobs} 目标={a.target}｜universe {len(universe)}｜已完成 {len(done)}"
-          f"｜本 job 待抓 {len(mine)} 只｜出口 IP={egress_ip()} ==", flush=True)
+          f"｜本 job 待抓 {len(mine)} 只｜hosts={HOSTS}｜出口 IP={egress_ip()} ==", flush=True)
     if not mine:
         print("本 job 没有要抓的（已完成或用例为空）→ 跳过", flush=True)
         return 0

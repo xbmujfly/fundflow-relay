@@ -1,10 +1,15 @@
 name: relay-probe
 
-# 单 job 通道探针：在海外 runner 上把"拿历史资金流"的候选 URL 一次试完，日志即结果。
-# 用途：矩阵回补卡住时，先探清哪条路真能走（别拿 240 个 job 去试错）。
+# 单 job 通道探针：在海外 runner 上把候选 URL 一次试完，日志即结果。
+# 矩阵回补卡住时先探清楚哪条路能走（别拿 240 个 job 试错）。
 
 on:
   workflow_dispatch:
+    inputs:
+      script:
+        description: '要跑的探针脚本'
+        required: false
+        default: 'relay/gha/probe.py'
 
 permissions:
   contents: read
@@ -16,7 +21,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: 跑探针
-        run: python3 relay/gha/probe.py
-      - name: 回显（便于日志抓取）
-        if: always()
-        run: echo "probe done"
+        run: python3 ${{ github.event.inputs.script || 'relay/gha/probe.py' }}

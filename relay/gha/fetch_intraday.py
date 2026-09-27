@@ -115,6 +115,21 @@ def main():
             else:
                 miss.append(c)
     print(f"耗时 {time.time()-t0:.0f}s｜成功 {len(items)}｜失败 {len(miss)}")
+    # 补一轮：东财对同一出口偶发限流，间隔重试常能追回几只（串行+间隔，只补缺的）
+    if miss:
+        _todo = list(miss)[:25]        # 只补前 25 只（防被限流时整 job 拖过 12 分钟超时）
+        print(f"补抓 {len(_todo)}/{len(miss)} 只（间隔 1.2s）…", flush=True)
+        still = [c for c in miss if c not in _todo]
+        for c in _todo:
+            r = one(c)
+            if r:
+                items[c] = r
+                print(f"  ✔ {c} cum={r['cum']/1e8:+.3f}亿（补抓成功）", flush=True)
+            else:
+                still.append(c)
+            time.sleep(1.2)
+        miss = still
+        print(f"补抓后：成功 {len(items)}｜仍失败 {len(miss)}")
     if not items:
         print("❌ 全部失败（东财对本 runner IP 拒连）→ 非零退出，让工作流重跑换 IP")
         return 2

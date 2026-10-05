@@ -33,6 +33,11 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36")
 # 2026-09-27 探针实测：同一族 fflow/daykline 接口在 push2delay 主机上也存在，
 # 而 push2delay 在 Azure IP 上通过率 ~43%、push2his 仅 ~3% → 默认先打 push2delay，失败再退 push2his。
+# ⚠️ 2026-10-05 复测（probe5.py，必须记住）：
+#   · push2delay 的 daykline **无视 lmt**，永远只回 1 天（lmt=0/15/750/2500 全 rows=1，span=最新日）
+#     → 它只能用于「补最新一天的缺日」；想拿历史会被**静默降级成当天**（本轮 lmt=750 就栽在这）。
+#   · push2his 的 daykline **硬顶 120 个交易日**（lmt=0/750/2500 全回 120 行）。
+#   ⇒ 「东财口径的长历史」免费拿不到（>6 个月）；不要在它上面做多年回测的取数方案。
 DEFAULT_HOSTS = ["push2delay.eastmoney.com", "push2his.eastmoney.com"]
 HOSTS = list(DEFAULT_HOSTS)
 F1 = "f1,f2,f3,f7"

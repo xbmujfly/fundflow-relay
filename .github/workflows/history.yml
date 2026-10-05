@@ -22,13 +22,13 @@ on:
         required: false
         default: ''
       lmt:
-        description: '每股取多少天历史（默认 750≈3年；0=全部，数据量很大慎用）'
+        description: '每股取多少天历史（0=全部）｜⚠️2026-10-05 实测：push2delay 无视 lmt 只回 1 天，push2his 硬顶 120 天'
         required: false
-        default: '750'
+        default: '15'
       min_rows:
-        description: '加深历史模式：该股累积行数≥此值即算完成（默认 400；留 0 = 旧口径按 target 日跳过）'
+        description: '加深历史模式：该股累积行数≥此值即算完成（默认 0 = 旧口径按 target 日跳过）'
         required: false
-        default: '400'
+        default: '0'
   # 无定时触发：target 必须显式指定（定时跑会因输入为空导致 merge 失败）。
   # 需要补历史缺口时手动触发，或由 daily_pull/gap_check 告警后人工发起。
 

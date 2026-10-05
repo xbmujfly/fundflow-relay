@@ -53,16 +53,26 @@ def main():
     ap.add_argument("--interval", type=int, default=45)
     ap.add_argument("--file", default="latest.json", help="等哪个产物（历史回补用 fundflow_2026-09-23.json.gz）")
     ap.add_argument("--progress", default="_progress.json")
+    ap.add_argument("--date", default="", help="目标日期（YYYY-MM-DD）：只有产物日期 ≥ 它才算就绪。"
+                                               "⭐ 不加这个参数会踩坑：latest.json 常年存在（是上一交易日的），"
+                                               "第一次轮询就 return 0 → 调用方以为产物落地，去 pull 拿到**旧的一天**")
     a = ap.parse_args()
     t0 = time.time()
     last = None
+    stale = 0
     while time.time() - t0 < a.minutes * 60:
         b = fetch("relay/data/" + a.file)
         if isinstance(b, bytes) and b and not b.startswith(b"__"):
             m = json.loads(b.decode("utf-8"))
-            print(f"[{datetime.now():%H:%M:%S}] 🎉 正式产物已就绪：{m['file']}｜{m['date']}｜{m['rows']} 行"
-                  f"｜缺页 {m.get('pages_missing')}", flush=True)
-            return 0
+            if a.date and str(m.get("date") or "") < a.date:
+                stale += 1
+                if stale == 1:
+                    print(f"[{datetime.now():%H:%M:%S}] 产物还是旧的（{m.get('date')} < 目标 {a.date}）"
+                          f"→ 继续等新一轮", flush=True)
+            else:
+                print(f"[{datetime.now():%H:%M:%S}] 🎉 正式产物已就绪：{m['file']}｜{m['date']}｜{m['rows']} 行"
+                      f"｜缺页 {m.get('pages_missing')}", flush=True)
+                return 0
         p = fetch("relay/data/" + a.progress)
         if isinstance(p, bytes) and p and not p.startswith(b"__"):
             d = json.loads(p.decode("utf-8"))

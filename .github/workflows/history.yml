@@ -21,6 +21,10 @@ on:
         description: '只抓这些代码（逗号分隔，留空=按 universe 全市场）'
         required: false
         default: ''
+      lmt:
+        description: '每股取多少天历史（默认 750≈3年；0=全部，数据量很大慎用）'
+        required: false
+        default: '750'
   # 无定时触发：target 必须显式指定（定时跑会因输入为空导致 merge 失败）。
   # 需要补历史缺口时手动触发，或由 daily_pull/gap_check 告警后人工发起。
 
@@ -61,6 +65,7 @@ jobs:
             --job ${{ matrix.job }} --jobs 240 \
             --target "${{ github.event.inputs.target }}" \
             --limit 8 --max-fail 3 \
+            --lmt ${{ github.event.inputs.lmt || '750' }} \
             ${{ github.event.inputs.codes != '' && format('--codes "{0}"', github.event.inputs.codes) || '' }} \
             --out parts
 

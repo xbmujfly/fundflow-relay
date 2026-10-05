@@ -111,6 +111,8 @@ def main():
     ap.add_argument("--universe", default="relay/gha/universe.txt")
     ap.add_argument("--codes", default=None, help="显式代码列表（逗号分隔），优先于 universe")
     ap.add_argument("--skip-file", default="relay/data/_accum_hist.json.gz")
+    ap.add_argument("--min-rows-per-code", type=int, default=0,
+                    help=">0 时：已完成 = 该股累积行数 ≥ 阈值（与 target 日无关）——用于「加深历史」而不是「补某个缺日」")
     ap.add_argument("--limit", type=int, default=8, help="本 job 最多抓几只（省 IP 配额）")
     ap.add_argument("--max-fail", type=int, default=3, help="连续失败几次就收工（IP 已死）")
     ap.add_argument("--lmt", type=int, default=15, help="每股取多少天历史")
@@ -128,7 +130,20 @@ def main():
             print(f"缺 universe 文件 {a.universe}", flush=True)
             return 0
         universe = [l.strip() for l in open(a.universe, encoding="utf-8") if l.strip()]
-    done = load_done(a.skip_file, a.target) if a.target else set()
+    if a.min_rows_per_code > 0:
+        # ⭐ 加深历史模式（2026-10-05）：已完成 = 该股累积行数 ≥ 阈值，**与 target 日无关**。
+        #   旧口径按「target 日已有该股」跳过 → 想让每股从 15 行加深到 750 行时会被整批跳过（实测 parts=0）。
+        cnt = {}
+        if a.skip_file and os.path.exists(a.skip_file):
+            try:
+                with gzip.open(a.skip_file, "rt", encoding="utf-8") as f:
+                    for r in (json.load(f).get("rows") or []):
+                        cnt[r[0]] = cnt.get(r[0], 0) + 1
+            except Exception:
+                cnt = {}
+        done = {c for c, n in cnt.items() if n >= a.min_rows_per_code}
+    else:
+        done = load_done(a.skip_file, a.target) if a.target else set()
     todo = [c for c in universe if str(c).zfill(6) not in done]
     # 分片轮换：所有 job 用同一个 seed（由「目标日 + 已完成数量」决定）→ 分片仍互不重叠，
     # 但每轮重新划分 → 某个 IP 反复死的 job 不会一直压着同一小片股票（否则收敛很慢）。

@@ -1,8 +1,8 @@
 {
- "date": "2026-09-30",
- "file": "fundflow_2026-09-30.json.gz",
+ "date": "2026-10-08",
+ "file": "fundflow_2026-10-08.json.gz",
  "rows": 5562,
- "fetched_at": "2026-10-07T22:35:47+08:00",
+ "fetched_at": "2026-10-08T16:47:30+08:00",
  "pages_total": 56,
  "pages_missing": []
 }

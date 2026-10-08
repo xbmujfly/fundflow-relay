@@ -1,11 +1,10 @@
 {
- "date": "2026-09-30",
- "rows": 5562,
+ "date": "2026-10-08",
+ "rows": 5462,
  "total": 5562,
  "pages_total": 56,
  "pages_ok": [
   1,
-  2,
   3,
   4,
   5,
@@ -61,8 +60,10 @@
   55,
   56
  ],
- "pages_missing": [],
- "run_added": 0,
+ "pages_missing": [
+  2
+ ],
+ "run_added": 5462,
  "parts": 56,
- "built_at": "2026-10-07T22:35:47+08:00"
+ "built_at": "2026-10-08T16:46:44+08:00"
 }

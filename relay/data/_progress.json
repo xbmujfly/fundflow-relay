@@ -1,7 +1,7 @@
 {
- "date": "2026-10-20",
- "rows": 5562,
- "total": 5562,
+ "date": "2026-10-21",
+ "rows": 5563,
+ "total": 5563,
  "pages_total": 56,
  "pages_ok": [
   1,
@@ -62,7 +62,7 @@
   56
  ],
  "pages_missing": [],
- "run_added": 0,
+ "run_added": 5563,
  "parts": 56,
- "built_at": "2026-10-20T22:29:07+08:00"
+ "built_at": "2026-10-21T15:41:50+08:00"
 }

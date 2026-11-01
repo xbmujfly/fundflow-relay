@@ -30,6 +30,21 @@ def rss_items(xml, limit=30):
         out.append({"title": g("title")[:200], "url": g("link"), "ts": g("pubDate") or g("dc:date")})
     return out
 
+
+def fetch_gnews():
+    """Google News 聚合（本地不可达）：抓 Reuters/AP/Bloomberg 的**标题+链接**，不存正文"""
+    q = "tariff+OR+trump+OR+%22federal+reserve%22+OR+china+trade"
+    xml = get(f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en")
+    return rss_items(xml, 25)
+
+def fetch_gdelt():
+    """GDELT 全球新闻索引（本地不可达）：15 分钟级更新，给标题+域名+时间"""
+    u = ("https://api.gdeltproject.org/api/v2/doc/doc?query=(tariff%20OR%20trump%20OR%20%22federal%20reserve%22)"
+         "&mode=artlist&maxrecords=30&format=json&sort=datedesc")
+    d = json.loads(get(u))
+    return [{"title": (a.get("title") or "")[:200], "url": a.get("url") or "", "ts": a.get("seendate") or ""}
+            for a in (d.get("articles") or [])]
+
 SOURCES = {
     "whitehouse": ("https://www.whitehouse.gov/presidential-actions/feed/", "rss"),
     "ustr": ("https://ustr.gov/rss.xml", "rss"),
@@ -37,6 +52,8 @@ SOURCES = {
     "reuters": ("https://www.reuters.com/arc/outboundfeeds/news-sitemap/?outputType=xml", "rss"),
     "ap": ("https://apnews.com/hub/apf-topnews?output=rss", "rss"),
     "truthsocial_api": ("https://truthsocial.com/api/v1/accounts/lookup?acct=realDonaldTrump", "ts"),
+    "gnews": ("", "gnews"),
+    "gdelt": ("", "gdelt"),
 }
 
 def fetch_truthsocial():
@@ -56,7 +73,10 @@ def main():
     res = {"ts": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "sources": {}, "items": []}
     for name, (url, kind) in SOURCES.items():
         try:
-            items = fetch_truthsocial() if kind == "ts" else rss_items(get(url))
+            items = (fetch_truthsocial() if kind == "ts" else
+                     fetch_gnews() if kind == "gnews" else
+                     fetch_gdelt() if kind == "gdelt" else
+                     rss_items(get(url)))
             res["sources"][name] = {"ok": True, "n": len(items)}
             for it in items[:20]:
                 res["items"].append({"src": name, **it})

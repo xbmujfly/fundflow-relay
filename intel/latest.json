@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-01T12:30:35Z",
+ "ts": "2026-11-01T12:45:30Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,6 +341,12 @@
   },
   {
    "src": "gnews",
+   "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
+   "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks - Reuters",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObVJlTmFuVEh3WkZZZS12S0NPTjRoamIzUVJCNURKWHl6QzR5eHpjT0pobGt0b0ZSLWw0TE1seWV0S1ZLRjJOb1ByZWVCVmJEcXRlZ29kbzA0X0ppTmVTZ1M4cHVSRnhWMy1USGxhTmtROFU0V3luU1lsWTlkeVFqU3BwUXlQaTU2NEpPNC1xRTE0TlFyRjJYd1ZCNlhsZHFiaFpFbGNlem9pdm0teVZaUExyY2x6QTFnWUQzamdDYlpVT0hlUXdfY1h0bks0Zw?oc=5",
    "ts": "Sun, 01 Nov 2026 11:14:38 GMT"
@@ -359,15 +365,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney brushes back Trump on trade, Europe and Russia - Politico",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS01LMGQ3UEdRNU5rRUZmb1pzWXBfSlJ0RGFHM1NEVG95cThXMzVhSG9UOXZ4UnZpLTNFSVNfN01ZdGFEMW5vMEFaajhqRW4tRmEyRVNxU0RkZ3dwbTFuQ3Nha19lRm00TkhQejduU29DUDMwQ0NMc2pRRVF2amFHSkF0QkJYNE84T3hzNmR4NXR3Zw?oc=5",
-   "ts": "Fri, 30 Oct 2026 23:35:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "From rifles to radar: China upgrades African arms trade as Russia, West retreat - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRnJtVFFvYS1PSzRPdTh6Qm1nek9jZHpqQTdGeUxsU1hhbWdWUXlQNHMzY2NNeExIa1lQM0pFZWFzZUpJaFhXTU1wVVpESXA2TDBfaHRrT21BMGxjNEk0eXZsSGtkUm1Wd0lmYVZGaFFuR2FQLVpfMHA5c1lyTUwxMkpQaGg4OGxGSG9wWGlaSDU0X3ZnYkw5WDF0ajhJdmxkcWN5S0xfTlVMbU1Ic2lVSkpDaFJHejQxQ3pSelQwQkYwX1lPdzIyQjJBVHXSAcwBQVVfeXFMT1hVZU15TGc2UlpndmtMQ3l2OERSdDhqV1Jwakt1azZXZ1JuUGZTS1V3aUFNN2Y3S0NuaTBNdFh3LUtDdVZWQVVnRVpUbUtUNHkzOUN1QzZmQzAxUGc0Wkh1VHpEc0ZaS1IyM21jTEE1N29QVTJyLW9fTHh1XzJrU0Q2b0dvR3liaElNNi1JUllpTXF3aEVHc0RtQ3RWVFdIbVJDeWI3cV9DV3AteGoyeHJ5NFZpTXFtWDVGMzlkdm00VU1TYWkwMHZlb3di?oc=5",
    "ts": "Sun, 01 Nov 2026 10:00:11 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney brushes back Trump on trade, Europe and Russia - Politico",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS01LMGQ3UEdRNU5rRUZmb1pzWXBfSlJ0RGFHM1NEVG95cThXMzVhSG9UOXZ4UnZpLTNFSVNfN01ZdGFEMW5vMEFaajhqRW4tRmEyRVNxU0RkZ3dwbTFuQ3Nha19lRm00TkhQejduU29DUDMwQ0NMc2pRRVF2amFHSkF0QkJYNE84T3hzNmR4NXR3Zw?oc=5",
+   "ts": "Fri, 30 Oct 2026 23:35:00 GMT"
   },
   {
    "src": "gnews",
@@ -380,12 +386,6 @@
    "title": "China imports millions of donkey hides from Africa every year: new book traces the drivers and impact - The Conversation",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYTBOS2RFeU1UenRUb1o0T2pDbWFFTDkwSmJJQWo4dE5JWjhVS1l2OE52Rk9vekU5R0liN1pqUGMwS0VnRnBXMGdFX09SSFZlOHk1RFZwTU40a005eHktaDI3VEhONkIxd21UamM0dFdtcGR4ZmVIS25iTWx4UDRZY2xNTnRIbDhoVU1pSzM3X25FeXVVUEoteU9RZ0c0WWhHVVdIUGxPS0YxbzZnelBQOFh0d0M1cTFvS1MtYWNzSDNOdTNtcjNrS2pSbXRCc1g5?oc=5",
    "ts": "Sun, 01 Nov 2026 09:11:22 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vVm5vQzBGcmtoX0loMTFPanBEV19TdmNuLThGeXlWV0RjQVJhWjVOd1Zwemw3TnM5TXhkVjhTWUJ5TFhzYmZISjdIYnZTSENQT015NlBxYlQ3alcwUG91b2xybDNTcGVqblB3MnFuSzA0eXJEWjln?oc=5",
-   "ts": "Sun, 01 Nov 2026 12:02:04 GMT"
   },
   {
    "src": "gnews",
@@ -419,15 +419,15 @@
   },
   {
    "src": "gnews",
-   "title": "Xi urges Germany to strengthen China ties amid growing trade tensions with Europe - Philippine Canadian Inquirer",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVk1pd3A3UHhnTDhZQlQ4dUtjQ19BQkhLYWtmT3ZEV0hQeW1oWFBpRF9KeVhsMDd5em96bE9xa0xqemJYZWlVTnJqYVFxQ2RyQWhKcjZOeC1sZXhubEF3cW9YV1hodG13X0dHY1hsOFc2WHd3MFdSTzRBMzQyaFdJR2k5ckljTzhxYmVwYW8wUXFzdmpMZEwwUWtxVTRlU2xNcDJ6OTJDaDJQQno4UkhsWXBMaVA5VGsySXhPRmhKSQ?oc=5",
-   "ts": "Sun, 01 Nov 2026 09:11:15 GMT"
+   "title": "China trade accord with Swiss bucks wider trend towards protectionism - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkQ4YmJ3dHdaYVYzcXlkcUQ1V19QMU9mQ2tFd1RuQ1NEckN3ZTIxSFMzSkJxQzQ1UjdXTDVjRzlwdHNpUE13dUJKS19hQ0hndHlTdThtOEpLU1g5NXcxWnphT0RMME5TVDZLa2MySGZGMGdPVDF2QWdGVmpsN05fRk9jRmJZOFBsakdiT2I1X1lVYkpSUTFROHU0RFZGdnRvOXdYRlc4VnZRTzIyWG4xUU50SzRVRl8zaEZJS2lUaS1EZw?oc=5",
+   "ts": "Thu, 29 Oct 2026 23:06:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump's tariffs fail to cut US trade deficit, IW report shows - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQXAtelVIRmlkeEJiVmJ1VDVNTWFNOW5Yc3pQQjZFVVVmaGJaRjVzbjdWRlpKNlBKYWVXMmpOV3J4WldwRUs1U3hnalZ2d0wxRnlYbkZ3SVlnSGpfa2RWWE5LQ05GdlNnSmVSeEZsekVPSFNpZTd4QVpNTmcyc2tlRHNuWFlDMXZyUl9SN0hrejlpc3FSSXJMZkVCV296WU51bXZJ?oc=5",
-   "ts": "Fri, 30 Oct 2026 07:07:43 GMT"
+   "title": "Xi urges Germany to strengthen China ties amid growing trade tensions with Europe - Philippine Canadian Inquirer",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVk1pd3A3UHhnTDhZQlQ4dUtjQ19BQkhLYWtmT3ZEV0hQeW1oWFBpRF9KeVhsMDd5em96bE9xa0xqemJYZWlVTnJqYVFxQ2RyQWhKcjZOeC1sZXhubEF3cW9YV1hodG13X0dHY1hsOFc2WHd3MFdSTzRBMzQyaFdJR2k5ckljTzhxYmVwYW8wUXFzdmpMZEwwUWtxVTRlU2xNcDJ6OTJDaDJQQno4UkhsWXBMaVA5VGsySXhPRmhKSQ?oc=5",
+   "ts": "Sun, 01 Nov 2026 09:11:15 GMT"
   },
   {
    "src": "gnews",
@@ -443,15 +443,15 @@
   },
   {
    "src": "gnews",
-   "title": "China's Xi, Swiss president praise trade deal that boosts access - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVF9pNjc4bUNhTHhCaVFuSUo2ZGpJN1lUYlpQdzdnZDd5bHd6V2hzeWdSUDFVRXZDQ3p5VzUzbjE1ZVQtRTFqMkxRcGZHd1lMdGhUVU9OeEhTMXRCeDlyaGZydG1qdlZjMzBUazdLSTBoWFRMajlDT1lHbS0waVA3NFFkNl92OHk2UFZWUTNnX1hvNGUxTkdPV2VuMGJTTmcyWWdwSkxnMGktdXRCV1Vj?oc=5",
-   "ts": "Fri, 30 Oct 2026 09:50:43 GMT"
+   "title": "Trump's tariffs fail to cut US trade deficit, IW report shows - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQXAtelVIRmlkeEJiVmJ1VDVNTWFNOW5Yc3pQQjZFVVVmaGJaRjVzbjdWRlpKNlBKYWVXMmpOV3J4WldwRUs1U3hnalZ2d0wxRnlYbkZ3SVlnSGpfa2RWWE5LQ05GdlNnSmVSeEZsekVPSFNpZTd4QVpNTmcyc2tlRHNuWFlDMXZyUl9SN0hrejlpc3FSSXJMZkVCV296WU51bXZJ?oc=5",
+   "ts": "Fri, 30 Oct 2026 07:07:43 GMT"
   },
   {
    "src": "gnews",
-   "title": "China trade accord with Swiss bucks wider trend towards protectionism - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkQ4YmJ3dHdaYVYzcXlkcUQ1V19QMU9mQ2tFd1RuQ1NEckN3ZTIxSFMzSkJxQzQ1UjdXTDVjRzlwdHNpUE13dUJKS19hQ0hndHlTdThtOEpLU1g5NXcxWnphT0RMME5TVDZLa2MySGZGMGdPVDF2QWdGVmpsN05fRk9jRmJZOFBsakdiT2I1X1lVYkpSUTFROHU0RFZGdnRvOXdYRlc4VnZRTzIyWG4xUU50SzRVRl8zaEZJS2lUaS1EZw?oc=5",
-   "ts": "Thu, 29 Oct 2026 23:06:00 GMT"
+   "title": "China's Xi, Swiss president praise trade deal that boosts access - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVF9pNjc4bUNhTHhCaVFuSUo2ZGpJN1lUYlpQdzdnZDd5bHd6V2hzeWdSUDFVRXZDQ3p5VzUzbjE1ZVQtRTFqMkxRcGZHd1lMdGhUVU9OeEhTMXRCeDlyaGZydG1qdlZjMzBUazdLSTBoWFRMajlDT1lHbS0waVA3NFFkNl92OHk2UFZWUTNnX1hvNGUxTkdPV2VuMGJTTmcyWWdwSkxnMGktdXRCV1Vj?oc=5",
+   "ts": "Fri, 30 Oct 2026 09:50:43 GMT"
   },
   {
    "src": "gnews",

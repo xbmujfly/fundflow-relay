@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-01T14:30:29Z",
+ "ts": "2026-11-01T14:45:30Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -389,12 +389,6 @@
   },
   {
    "src": "gnews",
-   "title": "Washing away the US: Tariff evasion on the other side of the US–China trade war - CEPR",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdXFOOE9ybUFrVGNraFdvaWNEdDM1YXlVdU1xTVNFdW1aTUVlYkNyeUtoRGJVNXJkeUF3WXE4Y3c0ZVJsTldybDA4UFEydDdEcUN0TnBlTHVJcnhDb1ZPSTBMcFBLSU5fdERrRlNONEx4bUItMEZiaVRLMzBmbnFBLVRLTTR4MlZzNFl2UE1IMlc0VURjeUE?oc=5",
-   "ts": "Mon, 26 Oct 2026 00:55:04 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks - The Star",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUDNjRDN5bkg1VUFtc005bXpPRVZrZnNSRlNRZ1pUYzlNZWh4T0lMTElvdVBHRTFLY2NlcnVrMUV0WHZxR085dEZpQy12UEIzaFRtYWZiLUw0TmdFM3VNQnJWRUVLTnY0eE01aHJxcXNEVkRyTm5wQzdmVWFacUxqcEpoR0dSZmpFWnhWQmN5cElDTmFSc0s4ekx2bUx1aXRERm9ETTJyTmtra0VMSmtDbTM5UEVpaEl6ZWhPUDVxb3o5aENTUWNxQ01pSExhcnlJM2dkRjRB?oc=5",
    "ts": "Sun, 01 Nov 2026 11:18:00 GMT"
@@ -404,12 +398,6 @@
    "title": "Trump opts for trade talks over tariffs for robotics, industrial machinery - Supply Chain Dive",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaHpUMzRMSUxsTkxuWkl1eWZPVlZURlI2QTVaY2xqZE1yLUp5X2hqZXZnM0VodXIyV3JrOENGUzd3dWRJcmRyX2tiSUxMY3otZmhfaU1ELXMxSDVrQW9DM01Ta0xEODExejVmaFlSWEJDYXh6X2VwZ0JWdWNTWUYxRFdmMlpadU1EQnFCRlMxaDJMTHZlbmUzRUh4QVFGSm50dzJuWTluTXFPNHVaRDhFaFNLWnBhN2RvWWc?oc=5",
    "ts": "Thu, 29 Oct 2026 15:31:06 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s trade surplus nears record as pressure mounts from trading partners - AP News",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQVdkTHZ3MkRKMEQybkpwQml2QmtLYmZOWjFGVVhfeWo4RVVNNk1wc0FScjBQZERDOTgxYUJpNVhfeW5nZjZqbGtCb1FTbTJQQklnOGZnRnBDZk9vV0J5WXlxU0xvZlBDQWlkNFhKY3h2LUdSWTZTeW9pYkgwM2tQNl9iNVpHUQ?oc=5",
-   "ts": "Wed, 14 Oct 2026 07:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -428,6 +416,18 @@
    "title": "Obama, Trump trade Cheesecake Factory jabs in midterm campaign | Daily Sabah - Daily Sabah",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbFAzTWI4ME82MVJwNnFiWWxmbk5hQXlQZ2ptUU1RQVFMdHNBSFNqa0FHcU4yRm9iWFpZRHktMUZmUm5RZnQ1RmE1YUtfLUpjdVhsY0cwNmVhSl8yR3NGeXUweHg3bTNUOXhXbkR5ZUdzV2RaM2h2aGowNDFQWllnYmVNeXhTZ0ZVcUZZR2hORUswd3pXZVZaSDdheW9jRnNneGRpR0lB0gGrAUFVX3lxTFA2OGRjMkx6OXFOa01HY2hmcUtqZlNlM05oZ0pmSWhabWU3QnJFeHVSNVh1b0ZtRm9zMnkwRW9MZU9YZjBORWd0TnFWY3l5Y1pULW8zckF5VFBZdjhfNU1hWHc3ODNuT0NTb2w5T1hiOURpSmNkN0RvcGV1dHFvOXVxeU9RZUNHUEpHTnZxd0pId1V3ZWd4eTE0enE3SG01bkp3WVRXS1BoYk4yYw?oc=5",
    "ts": "Sat, 31 Oct 2026 11:29:34 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVUVReEtZMld0ZmVaLW9LX1Izc3RvVXYxdDZCVkhQWEJodnNLQ0dRTFZzWG1fWVdHaFVCRHRtMVJrbWdsLTJCUTRseEVpOUd3RWYzZk84ZmZhODAxcUs5eWpJZkh2aXR6UFhGTW1uZFE2cUhkVW5kSlE4eVZfbjhqWXNSTWxOTktYMjJ4cnpoNktsZFBrcWRsVW5PM29DNjFnMTgxcnVpUDRmNXNUdVVpa2g5V08wbDhOMU9tNjVZMTJmZ2E0MEkxT2FIYy1TaGFxaWNXUUxweVhhVWJ1SUdlMVMxQVZLY0lHVGJldzF3?oc=5",
+   "ts": "Sun, 01 Nov 2026 11:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Mark Carney Says Canada Can Wait for a New US President Rather Than Accept a Bad Trump Trade Deal: 'We Ha - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORFE3alk2TS1YQmdMLXNtZW9XcXZBSW5rM3RoVWJKUWhJT1lUeUhNNGd4VGpCSWVuZFBfRC04OGg4YzlVelVCU2ZiZm53QnhNdFZtVXhZNU1TX3JxaE43MExHemg4S0ZjUk1MNmVQaW1HQ2ZFUHQyQjlOR3lnVzY2YnQzMll1MEI3TlZPUVRnYW5KSzlkSk1TS2RnTTl2VDNVNzdoMWJkd2dIdWtGdE1LTmRsSWpyY2tkSzc3djdTODFfUlE4UmVYNHNPYzg3VGZCZzl2amYtV09zV19WOFdTX2ZGSHdOOXZTLWdic3Ffczk2N3RtaXFpUzh6dw?oc=5",
+   "ts": "Sun, 01 Nov 2026 06:13:25 GMT"
   },
   {
    "src": "gnews",

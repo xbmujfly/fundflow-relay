@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-01T13:30:31Z",
+ "ts": "2026-11-01T13:45:29Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -377,39 +376,15 @@
   },
   {
    "src": "gnews",
-   "title": "China imports millions of donkey hides from Africa every year: new book traces the drivers and impact - The Conversation",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYTBOS2RFeU1UenRUb1o0T2pDbWFFTDkwSmJJQWo4dE5JWjhVS1l2OE52Rk9vekU5R0liN1pqUGMwS0VnRnBXMGdFX09SSFZlOHk1RFZwTU40a005eHktaDI3VEhONkIxd21UamM0dFdtcGR4ZmVIS25iTWx4UDRZY2xNTnRIbDhoVU1pSzM3X25FeXVVUEoteU9RZ0c0WWhHVVdIUGxPS0YxbzZnelBQOFh0d0M1cTFvS1MtYWNzSDNOdTNtcjNrS2pSbXRCc1g5?oc=5",
-   "ts": "Sun, 01 Nov 2026 09:11:22 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s ‘Upgraded’ Peru Trade Deal Takes Effect, Widening Ties - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaHc1WGNITmJSTDNObWtJSDlPd0ZPYktkemdIMFlkUkZ6Y3I0VFdkU3ROc0M1SnQ4OWYxOXp5TXgyWnBMU281LVpnV3hkdGgwMUxUbUtOYnFLNXE1cUsyNC13QlowVzlOdl9tN0otcWsxU0p5bWJYWGpzckRramE2M2NxbjhxY01XZ2QtTkV2SFlCY2lkV2N3aTlubTNONGI1U1FWam9lbUxpSWJHTFpB?oc=5",
    "ts": "Sun, 01 Nov 2026 03:33:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "EU-China Relations: Finding the Right Balance Between Engagement and Stronger Trade Action - Teneo",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeTYtdkRva3BYQmNIRDNUS1ZvcjhULW9Cc0thNkgtc3pXR084RVhmcjFVV2oyRjlwNVRMdXBWR1dDVnE3OUlCVFp3eU5Ia0t2WHRfVWpaM3BndEpSVVhaTE1HME8zU1g2dVBqN05heW5uVE5USGEwQnZmTkpXZHU2YmJqQXVwb2hIb3lid1NYTzl1VndUVG1GWG4zX1QwMnBvYzZMUy1SQS1Nenk5OVJUb2UyVmpnSXZJMjFkTjFyeXRubVBtTkVZOUhB?oc=5",
-   "ts": "Thu, 29 Oct 2026 14:21:35 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump opts for trade talks over tariffs for robotics, industrial machinery - Supply Chain Dive",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaHpUMzRMSUxsTkxuWkl1eWZPVlZURlI2QTVaY2xqZE1yLUp5X2hqZXZnM0VodXIyV3JrOENGUzd3dWRJcmRyX2tiSUxMY3otZmhfaU1ELXMxSDVrQW9DM01Ta0xEODExejVmaFlSWEJDYXh6X2VwZ0JWdWNTWUYxRFdmMlpadU1EQnFCRlMxaDJMTHZlbmUzRUh4QVFGSm50dzJuWTluTXFPNHVaRDhFaFNLWnBhN2RvWWc?oc=5",
-   "ts": "Thu, 29 Oct 2026 15:31:06 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Upgraded China-Peru free trade agreement takes effect - China Daily",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zcndGTGFEMDhPbHFBQXpfWXdVU1lJcGNUTFNpXzdJYVBFeWVvUnFfZHdDVm44Vjk1YTAyeWJDNUtsXzR1eS1Db1FBTTJteU1ham1fZm1NVVJTN3pjNWw5SWdkNW5KNlI5c3VBWlo2ZVZUQzctMFZmM05zUGlBQQ?oc=5",
-   "ts": "Sun, 01 Nov 2026 05:21:38 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Obama, Trump trade Cheesecake Factory jabs in midterm campaign | Daily Sabah - Daily Sabah",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbFAzTWI4ME82MVJwNnFiWWxmbk5hQXlQZ2ptUU1RQVFMdHNBSFNqa0FHcU4yRm9iWFpZRHktMUZmUm5RZnQ1RmE1YUtfLUpjdVhsY0cwNmVhSl8yR3NGeXUweHg3bTNUOXhXbkR5ZUdzV2RaM2h2aGowNDFQWllnYmVNeXhTZ0ZVcUZZR2hORUswd3pXZVZaSDdheW9jRnNneGRpR0lB0gGrAUFVX3lxTFA2OGRjMkx6OXFOa01HY2hmcUtqZlNlM05oZ0pmSWhabWU3QnJFeHVSNVh1b0ZtRm9zMnkwRW9MZU9YZjBORWd0TnFWY3l5Y1pULW8zckF5VFBZdjhfNU1hWHc3ODNuT0NTb2w5T1hiOURpSmNkN0RvcGV1dHFvOXVxeU9RZUNHUEpHTnZxd0pId1V3ZWd4eTE0enE3SG01bkp3WVRXS1BoYk4yYw?oc=5",
-   "ts": "Sat, 31 Oct 2026 11:29:34 GMT"
+   "title": "China imports millions of donkey hides from Africa every year: new book traces the drivers and impact - The Conversation",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYTBOS2RFeU1UenRUb1o0T2pDbWFFTDkwSmJJQWo4dE5JWjhVS1l2OE52Rk9vekU5R0liN1pqUGMwS0VnRnBXMGdFX09SSFZlOHk1RFZwTU40a005eHktaDI3VEhONkIxd21UamM0dFdtcGR4ZmVIS25iTWx4UDRZY2xNTnRIbDhoVU1pSzM3X25FeXVVUEoteU9RZ0c0WWhHVVdIUGxPS0YxbzZnelBQOFh0d0M1cTFvS1MtYWNzSDNOdTNtcjNrS2pSbXRCc1g5?oc=5",
+   "ts": "Sun, 01 Nov 2026 09:11:22 GMT"
   },
   {
    "src": "gnews",
@@ -419,9 +394,33 @@
   },
   {
    "src": "gnews",
+   "title": "Trump opts for trade talks over tariffs for robotics, industrial machinery - Supply Chain Dive",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaHpUMzRMSUxsTkxuWkl1eWZPVlZURlI2QTVaY2xqZE1yLUp5X2hqZXZnM0VodXIyV3JrOENGUzd3dWRJcmRyX2tiSUxMY3otZmhfaU1ELXMxSDVrQW9DM01Ta0xEODExejVmaFlSWEJDYXh6X2VwZ0JWdWNTWUYxRFdmMlpadU1EQnFCRlMxaDJMTHZlbmUzRUh4QVFGSm50dzJuWTluTXFPNHVaRDhFaFNLWnBhN2RvWWc?oc=5",
+   "ts": "Thu, 29 Oct 2026 15:31:06 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "EU-China Relations: Finding the Right Balance Between Engagement and Stronger Trade Action - Teneo",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeTYtdkRva3BYQmNIRDNUS1ZvcjhULW9Cc0thNkgtc3pXR084RVhmcjFVV2oyRjlwNVRMdXBWR1dDVnE3OUlCVFp3eU5Ia0t2WHRfVWpaM3BndEpSVVhaTE1HME8zU1g2dVBqN05heW5uVE5USGEwQnZmTkpXZHU2YmJqQXVwb2hIb3lid1NYTzl1VndUVG1GWG4zX1QwMnBvYzZMUy1SQS1Nenk5OVJUb2UyVmpnSXZJMjFkTjFyeXRubVBtTkVZOUhB?oc=5",
+   "ts": "Thu, 29 Oct 2026 14:21:35 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China-Peru FTA upgrade takes effect, boosting trade efficiency, investment opportunities and regional economic co-op - Global Times",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KcWdvMWM2Zk14cFFrTmRrazJhMGhyS0RRTjBRMW9CbXdESjJIeVlvalI1cFhEYTdRRkEwZHRELVZlX3BDcTkySUtBdXhCWWJpRnlPbkFjUG9IS2huOEJ5NUJ3?oc=5",
    "ts": "Sun, 01 Nov 2026 13:12:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Obama, Trump trade Cheesecake Factory jabs in midterm campaign | Daily Sabah - Daily Sabah",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbFAzTWI4ME82MVJwNnFiWWxmbk5hQXlQZ2ptUU1RQVFMdHNBSFNqa0FHcU4yRm9iWFpZRHktMUZmUm5RZnQ1RmE1YUtfLUpjdVhsY0cwNmVhSl8yR3NGeXUweHg3bTNUOXhXbkR5ZUdzV2RaM2h2aGowNDFQWllnYmVNeXhTZ0ZVcUZZR2hORUswd3pXZVZaSDdheW9jRnNneGRpR0lB0gGrAUFVX3lxTFA2OGRjMkx6OXFOa01HY2hmcUtqZlNlM05oZ0pmSWhabWU3QnJFeHVSNVh1b0ZtRm9zMnkwRW9MZU9YZjBORWd0TnFWY3l5Y1pULW8zckF5VFBZdjhfNU1hWHc3ODNuT0NTb2w5T1hiOURpSmNkN0RvcGV1dHFvOXVxeU9RZUNHUEpHTnZxd0pId1V3ZWd4eTE0enE3SG01bkp3WVRXS1BoYk4yYw?oc=5",
+   "ts": "Sat, 31 Oct 2026 11:29:34 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVUVReEtZMld0ZmVaLW9LX1Izc3RvVXYxdDZCVkhQWEJodnNLQ0dRTFZzWG1fWVdHaFVCRHRtMVJrbWdsLTJCUTRseEVpOUd3RWYzZk84ZmZhODAxcUs5eWpJZkh2aXR6UFhGTW1uZFE2cUhkVW5kSlE4eVZfbjhqWXNSTWxOTktYMjJ4cnpoNktsZFBrcWRsVW5PM29DNjFnMTgxcnVpUDRmNXNUdVVpa2g5V08wbDhOMU9tNjVZMTJmZ2E0MEkxT2FIYy1TaGFxaWNXUUxweVhhVWJ1SUdlMVMxQVZLY0lHVGJldzF3?oc=5",
+   "ts": "Sun, 01 Nov 2026 11:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +457,126 @@
    "title": "China's Xi hails new chapter with Germany, urges friendly policy towards Beijing - Reuters",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXVrYU5aZnNQc2p4R2ZDOEVtdmtqb3lQWTIyQVFVb1MtSldsZWJFT2FwcUV6eXpaTmlvdERVZ2Y5WlRISnBwbDNtZE9LSTVMOEloWlVla0RjTGxCam0yZ0ZEV091dDEyRHFZQmp4bjdEVnhmUUlkTHRkUWhWZ3J1YV9PMUsyaGNNQTBTQmVmcGV1UUFGRGpaaEJ0SEExMXljQkU1ZE9QUEVSVFNiOVdJ?oc=5",
    "ts": "Fri, 30 Oct 2026 15:41:38 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Asian Markets Trade Mixed",
+   "url": "https://www.rttnews.com/3703088/asian-markets-trade-mixed.aspx",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump says White House needed repainting and repairs , blasts Obama over upkeep",
+   "url": "https://fox56.com/news/nation-world/president-donald-trump-says-white-house-needed-repainting-and-repairs-blasts-barack-obama-over-upkeep-ballroom-the-cheesecake-factories-rose-garden-north-portico-east-wing-x-socials-menu",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump says White House needed repainting and repairs , blasts Obama over upkeep",
+   "url": "https://fox17.com/news/nation-world/president-donald-trump-says-white-house-needed-repainting-and-repairs-blasts-barack-obama-over-upkeep-ballroom-the-cheesecake-factories-rose-garden-north-portico-east-wing-x-socials-menu",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "New Details of Allegation Against Trump in House Democrat Epstein Report",
+   "url": "https://drudge.com/news/295178/new-details-allegation-against-trump",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "전쟁 · 관세 청구서 받아든 유권자 ... 트럼프 외교 심판대 올라 [ 11 · 3 중간선거 … 미국의 선택은 ]( 3 ) ",
+   "url": "https://www.fnnews.com/news/202610241838147461",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Melania Trump - brokered one - city ceasefire between Russia and Ukraine takes effect",
+   "url": "https://cyprusnews.eu/cnn-kosmos/melania-trump-brokered-one-city-ceasefire-between-russia-and-ukraine-takes-effect/",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US consumer sentiment near record low as inflation fears persist",
+   "url": "http://www.myanmarnews.net/news/279395118/us-consumer-sentiment-near-record-low-as-inflation-fears-persist",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Oil Companies Warned Over Russian Diesel Imports | Newstalk 1400 , 104 . 5 , and 105 . 9 WJMX",
+   "url": "https://newstalk1400online.iheart.com/content/2026-10-27-oil-companies-warned-over-russian-diesel-imports/",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Money Flows To SD Senate Race As Independent Challenges Republican Incumbent",
+   "url": "https://www.yankton.net/community/article_df41d1ce-0cf2-4aba-9774-73f3157980fc.html",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Early voting counts down as candidates are hot on the campaign trail",
+   "url": "https://www.atlantanewsfirst.com/2026/10/27/early-voting-counts-down-candidates-are-hot-campaign-trail/",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Σε μια εβδομάδα να τελειώνουμε με τις παλαβομάρες ... ",
+   "url": "https://www.politis.com.cy/apopseis/1058493/se-mia-evdomada-na-teleiwnoyme-me-tis-palavomares",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Seven days to the midterms . What at stake in Pennsylvania . | Local News",
+   "url": "https://www.phillytrib.com/news/local_news/seven-days-to-the-midterms-what-s-at-stake-in-pennsylvania/article_26a06a2a-8000-4051-8cce-3077283a2fe8.html",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Venäjän miehittämässä Oleshkyssa alkoi Melania Trumpin ilmoittama aselepo",
+   "url": "https://www.kouvolansanomat.fi/uutissuomalainen/9903628",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Дмитриев посоветовал чиновникам ЕС учиться миротворчеству у Трампа :: Новости дня / ВЗГЛЯД",
+   "url": "https://vz.ru/news/2026/10/27/1468282.html",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Lula wins Brazil vote despite Bolsonaro challenge",
+   "url": "http://www.milwaukeesun.com/news/279398697/lula-wins-brazil-vote-despite-bolsonaro-challenge",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "ట్రంప్ యంత్రాంగం నుంచి వైదొలగనున్న సీడీసీ డిప్యూటీ డైరెక్టర్ జెన్నిఫర్ షుఫోర్డ్",
+   "url": "https://www.suryaa.com/telugu-news/international/trmp-ymtramgm-numchi-vaidolaganunna-seedeesee-dipyootee-dairektar-jenniphar-shuphord",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
+   "url": "https://www.wuft.org/2026-10-26/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Neil Young Sues Trump PAC For $10M Over Song Use | Newstalk 1400 , 104 . 5 , and 105 . 9 WJMX",
+   "url": "https://newstalk1400online.iheart.com/content/2026-10-27-neil-young-sues-trump-pac-for-10m-over-song-use/",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "5 things to watch from the Federal Reserve next meeting",
+   "url": "https://www.thesunchronicle.com/business/5-things-to-watch-from-the-federal-reserves-next-meeting/article_7fe45c06-8782-5837-af1d-665ff6a49949.html",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  증시 본격 반등은 11월 중순 이후부터 … 美 중간선거 불확실성 여전",
+   "url": "https://www.fnnews.com/news/202610271143363910",
+   "ts": "20261027T051500Z"
   }
  ]
 }

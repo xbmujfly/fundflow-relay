@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-01T23:15:29Z",
+ "ts": "2026-11-01T23:30:31Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -383,27 +383,27 @@
   },
   {
    "src": "gnews",
-   "title": "Carney has 'good conversation' with Trump on future of Canada-U.S. trade as midterms near - CBC",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRl9udWxXWnVkQV9rd0F1c0psMjJ0VEZ3WDVCRks4RGhVN1o1OGVHX2ZobmZVemNIekV5S2xuQWVmRzVLaWhNdFlKaXhnZ2xyeGRFMkxLSG56S2tJVzktTUtOX3lkT1Yyc2xaeXN3ZkJtMzBHdUh5Szc4RG9UdC1ySXhDcw?oc=5",
-   "ts": "Sun, 01 Nov 2026 21:23:24 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump says US, Canada have ‘concept’ of a new trade deal - WTVB",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTU1qNXd2c1ZUcFBQd0ppV0paOXJEaEFqSEZKeC1kT3Y5UE9xNFJuR1JtZ0RpWHp6VWhwNFBPX0NhZ2U1NllkbV84cXVzeUlWUmhSMDNTajNya0dlWE1SS0lHUEVHMlA1RjZ2Mk1hcXV1QjNKVk1SU1hkTlhvQWRDckdXeUVaQk05dWluWA?oc=5",
    "ts": "Sun, 01 Nov 2026 21:19:35 GMT"
   },
   {
    "src": "gnews",
-   "title": "Canada and US to Outline Trade Plan in Coming Weeks, Carney Says - Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0FUU1FQR1dZRDZVcXBERWhJVEFWd0NSZ3hOTDFmZTlTQWRnTWt5eVZPdUR2Q0sxSHp0ZFhOMllONHE0aU04aWxDbndOaU45ZWhnUFFfZ0FVMElMVngyU0F5NzV0ZjJ2dWxHYV9UMGhZeGU1V1liZ0t5M1Rsa3RvVWNOXzlId04tcEplUW96M2JTUUZpSmVnNVRhU2dfaHpIaS1sM2UwbWlzam5Pb21HV04zb3o?oc=5",
-   "ts": "Sun, 01 Nov 2026 22:26:53 GMT"
+   "title": "Carney has 'good conversation' with Trump on future of Canada-U.S. trade as midterms near - CBC",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRl9udWxXWnVkQV9rd0F1c0psMjJ0VEZ3WDVCRks4RGhVN1o1OGVHX2ZobmZVemNIekV5S2xuQWVmRzVLaWhNdFlKaXhnZ2xyeGRFMkxLSG56S2tJVzktTUtOX3lkT1Yyc2xaeXN3ZkJtMzBHdUh5Szc4RG9UdC1ySXhDcw?oc=5",
+   "ts": "Sun, 01 Nov 2026 21:23:24 GMT"
   },
   {
    "src": "gnews",
    "title": "Trump, Carney revive U.S.-Canada trade talks ahead of midterms (CAD:USD:) (CAD:USD:) - Seeking Alpha",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV05COHZXcXkyaDN6YVZzbG5nN1NBZTB4NThLNE9XNEZVTUNjangtM1JPb2FOODZHQlBOWk5mZnI5UDRCOTRPOXBucGxxcERyZk1FWjNfbUpaakl3b1dEWWoxRF9sMldrR0phUGdFTGxpS3o3X2RuRWpldEVHdVpMaVB2ZmVCVUg1U2c4YWh2NXpqSlExdHlJaDJvYkpaekE?oc=5",
    "ts": "Sun, 01 Nov 2026 20:14:56 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Canada and US to Outline Trade Plan in Coming Weeks, Carney Says - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0FUU1FQR1dZRDZVcXBERWhJVEFWd0NSZ3hOTDFmZTlTQWRnTWt5eVZPdUR2Q0sxSHp0ZFhOMllONHE0aU04aWxDbndOaU45ZWhnUFFfZ0FVMElMVngyU0F5NzV0ZjJ2dWxHYV9UMGhZeGU1V1liZ0t5M1Rsa3RvVWNOXzlId04tcEplUW96M2JTUUZpSmVnNVRhU2dfaHpIaS1sM2UwbWlzam5Pb21HV04zb3o?oc=5",
+   "ts": "Sun, 01 Nov 2026 22:26:53 GMT"
   },
   {
    "src": "gnews",

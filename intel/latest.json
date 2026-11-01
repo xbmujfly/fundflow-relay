@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-01T14:00:31Z",
+ "ts": "2026-11-01T14:15:34Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -10,8 +10,9 @@
    "n": 10
   },
   "fed": {
-   "ok": true,
-   "n": 20
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 404: Not Found"
   },
   "reuters": {
    "ok": false,
@@ -33,9 +34,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -220,126 +220,6 @@
    "ts": "Fri, 16 Oct 2026 16:53:59 +0000"
   },
   {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
-   "ts": "Thu, 29 Oct 2026 20:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve issues FOMC statement",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-   "ts": "Wed, 28 Oct 2026 18:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
-   "ts": "Fri, 16 Oct 2026 15:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-   "ts": "Tue, 13 Oct 2026 18:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-   "ts": "Fri, 9 Oct 2026 14:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity rel",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-   "ts": "Thu, 8 Oct 2026 20:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-   "ts": "Wed, 7 Oct 2026 18:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
-   "ts": "Mon, 5 Oct 2026 20:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-   "ts": "Fri, 2 Oct 2026 20:45:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-   "ts": "Fri, 2 Oct 2026 20:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
-   "ts": "Fri, 2 Oct 2026 15:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-   "ts": "Wed, 30 Sep 2026 13:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
-   "ts": "Tue, 29 Sep 2026 20:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
-   "ts": "Fri, 25 Sep 2026 20:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
-   "ts": "Thu, 24 Sep 2026 18:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
-   "ts": "Thu, 24 Sep 2026 15:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
-   "ts": "Tue, 22 Sep 2026 20:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
-   "ts": "Fri, 18 Sep 2026 15:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
-   "ts": "Fri, 18 Sep 2026 15:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve issues FOMC statement",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-   "ts": "Wed, 16 Sep 2026 18:00:00 GMT"
-  },
-  {
    "src": "gnews",
    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
@@ -389,6 +269,12 @@
   },
   {
    "src": "gnews",
+   "title": "Washing away the US: Tariff evasion on the other side of the US–China trade war - CEPR",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdXFOOE9ybUFrVGNraFdvaWNEdDM1YXlVdU1xTVNFdW1aTUVlYkNyeUtoRGJVNXJkeUF3WXE4Y3c0ZVJsTldybDA4UFEydDdEcUN0TnBlTHVJcnhDb1ZPSTBMcFBLSU5fdERrRlNONEx4bUItMEZiaVRLMzBmbnFBLVRLTTR4MlZzNFl2UE1IMlc0VURjeUE?oc=5",
+   "ts": "Mon, 26 Oct 2026 00:55:04 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks - The Star",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUDNjRDN5bkg1VUFtc005bXpPRVZrZnNSRlNRZ1pUYzlNZWh4T0lMTElvdVBHRTFLY2NlcnVrMUV0WHZxR085dEZpQy12UEIzaFRtYWZiLUw0TmdFM3VNQnJWRUVLTnY0eE01aHJxcXNEVkRyTm5wQzdmVWFacUxqcEpoR0dSZmpFWnhWQmN5cElDTmFSc0s4ekx2bUx1aXRERm9ETTJyTmtra0VMSmtDbTM5UEVpaEl6ZWhPUDVxb3o5aENTUWNxQ01pSExhcnlJM2dkRjRB?oc=5",
    "ts": "Sun, 01 Nov 2026 11:18:00 GMT"
@@ -398,6 +284,12 @@
    "title": "Trump opts for trade talks over tariffs for robotics, industrial machinery - Supply Chain Dive",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaHpUMzRMSUxsTkxuWkl1eWZPVlZURlI2QTVaY2xqZE1yLUp5X2hqZXZnM0VodXIyV3JrOENGUzd3dWRJcmRyX2tiSUxMY3otZmhfaU1ELXMxSDVrQW9DM01Ta0xEODExejVmaFlSWEJDYXh6X2VwZ0JWdWNTWUYxRFdmMlpadU1EQnFCRlMxaDJMTHZlbmUzRUh4QVFGSm50dzJuWTluTXFPNHVaRDhFaFNLWnBhN2RvWWc?oc=5",
    "ts": "Thu, 29 Oct 2026 15:31:06 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s trade surplus nears record as pressure mounts from trading partners - AP News",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQVdkTHZ3MkRKMEQybkpwQml2QmtLYmZOWjFGVVhfeWo4RVVNNk1wc0FScjBQZERDOTgxYUJpNVhfeW5nZjZqbGtCb1FTbTJQQklnOGZnRnBDZk9vV0J5WXlxU0xvZlBDQWlkNFhKY3h2LUdSWTZTeW9pYkgwM2tQNl9iNVpHUQ?oc=5",
+   "ts": "Wed, 14 Oct 2026 07:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -416,18 +308,6 @@
    "title": "Obama, Trump trade Cheesecake Factory jabs in midterm campaign | Daily Sabah - Daily Sabah",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbFAzTWI4ME82MVJwNnFiWWxmbk5hQXlQZ2ptUU1RQVFMdHNBSFNqa0FHcU4yRm9iWFpZRHktMUZmUm5RZnQ1RmE1YUtfLUpjdVhsY0cwNmVhSl8yR3NGeXUweHg3bTNUOXhXbkR5ZUdzV2RaM2h2aGowNDFQWllnYmVNeXhTZ0ZVcUZZR2hORUswd3pXZVZaSDdheW9jRnNneGRpR0lB0gGrAUFVX3lxTFA2OGRjMkx6OXFOa01HY2hmcUtqZlNlM05oZ0pmSWhabWU3QnJFeHVSNVh1b0ZtRm9zMnkwRW9MZU9YZjBORWd0TnFWY3l5Y1pULW8zckF5VFBZdjhfNU1hWHc3ODNuT0NTb2w5T1hiOURpSmNkN0RvcGV1dHFvOXVxeU9RZUNHUEpHTnZxd0pId1V3ZWd4eTE0enE3SG01bkp3WVRXS1BoYk4yYw?oc=5",
    "ts": "Sat, 31 Oct 2026 11:29:34 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVUVReEtZMld0ZmVaLW9LX1Izc3RvVXYxdDZCVkhQWEJodnNLQ0dRTFZzWG1fWVdHaFVCRHRtMVJrbWdsLTJCUTRseEVpOUd3RWYzZk84ZmZhODAxcUs5eWpJZkh2aXR6UFhGTW1uZFE2cUhkVW5kSlE4eVZfbjhqWXNSTWxOTktYMjJ4cnpoNktsZFBrcWRsVW5PM29DNjFnMTgxcnVpUDRmNXNUdVVpa2g5V08wbDhOMU9tNjVZMTJmZ2E0MEkxT2FIYy1TaGFxaWNXUUxweVhhVWJ1SUdlMVMxQVZLY0lHVGJldzF3?oc=5",
-   "ts": "Sun, 01 Nov 2026 11:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Mark Carney Says Canada Can Wait for a New US President Rather Than Accept a Bad Trump Trade Deal: 'We Ha - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORFE3alk2TS1YQmdMLXNtZW9XcXZBSW5rM3RoVWJKUWhJT1lUeUhNNGd4VGpCSWVuZFBfRC04OGg4YzlVelVCU2ZiZm53QnhNdFZtVXhZNU1TX3JxaE43MExHemg4S0ZjUk1MNmVQaW1HQ2ZFUHQyQjlOR3lnVzY2YnQzMll1MEI3TlZPUVRnYW5KSzlkSk1TS2RnTTl2VDNVNzdoMWJkd2dIdWtGdE1LTmRsSWpyY2tkSzc3djdTODFfUlE4UmVYNHNPYzg3VGZCZzl2amYtV09zV19WOFdTX2ZGSHdOOXZTLWdic3Ffczk2N3RtaXFpUzh6dw?oc=5",
-   "ts": "Sun, 01 Nov 2026 06:13:25 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +338,126 @@
    "title": "China's Xi hails new chapter with Germany, urges friendly policy towards Beijing - Reuters",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXVrYU5aZnNQc2p4R2ZDOEVtdmtqb3lQWTIyQVFVb1MtSldsZWJFT2FwcUV6eXpaTmlvdERVZ2Y5WlRISnBwbDNtZE9LSTVMOEloWlVla0RjTGxCam0yZ0ZEV091dDEyRHFZQmp4bjdEVnhmUUlkTHRkUWhWZ3J1YV9PMUsyaGNNQTBTQmVmcGV1UUFGRGpaaEJ0SEExMXljQkU1ZE9QUEVSVFNiOVdJ?oc=5",
    "ts": "Fri, 30 Oct 2026 15:41:38 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Asian Markets Trade Mixed",
+   "url": "https://www.rttnews.com/3703088/asian-markets-trade-mixed.aspx",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump says White House needed repainting and repairs , blasts Obama over upkeep",
+   "url": "https://fox56.com/news/nation-world/president-donald-trump-says-white-house-needed-repainting-and-repairs-blasts-barack-obama-over-upkeep-ballroom-the-cheesecake-factories-rose-garden-north-portico-east-wing-x-socials-menu",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump says White House needed repainting and repairs , blasts Obama over upkeep",
+   "url": "https://fox17.com/news/nation-world/president-donald-trump-says-white-house-needed-repainting-and-repairs-blasts-barack-obama-over-upkeep-ballroom-the-cheesecake-factories-rose-garden-north-portico-east-wing-x-socials-menu",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "New Details of Allegation Against Trump in House Democrat Epstein Report",
+   "url": "https://drudge.com/news/295178/new-details-allegation-against-trump",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "전쟁 · 관세 청구서 받아든 유권자 ... 트럼프 외교 심판대 올라 [ 11 · 3 중간선거 … 미국의 선택은 ]( 3 ) ",
+   "url": "https://www.fnnews.com/news/202610241838147461",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Melania Trump - brokered one - city ceasefire between Russia and Ukraine takes effect",
+   "url": "https://cyprusnews.eu/cnn-kosmos/melania-trump-brokered-one-city-ceasefire-between-russia-and-ukraine-takes-effect/",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US consumer sentiment near record low as inflation fears persist",
+   "url": "http://www.myanmarnews.net/news/279395118/us-consumer-sentiment-near-record-low-as-inflation-fears-persist",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Oil Companies Warned Over Russian Diesel Imports | Newstalk 1400 , 104 . 5 , and 105 . 9 WJMX",
+   "url": "https://newstalk1400online.iheart.com/content/2026-10-27-oil-companies-warned-over-russian-diesel-imports/",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Money Flows To SD Senate Race As Independent Challenges Republican Incumbent",
+   "url": "https://www.yankton.net/community/article_df41d1ce-0cf2-4aba-9774-73f3157980fc.html",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Early voting counts down as candidates are hot on the campaign trail",
+   "url": "https://www.atlantanewsfirst.com/2026/10/27/early-voting-counts-down-candidates-are-hot-campaign-trail/",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Σε μια εβδομάδα να τελειώνουμε με τις παλαβομάρες ... ",
+   "url": "https://www.politis.com.cy/apopseis/1058493/se-mia-evdomada-na-teleiwnoyme-me-tis-palavomares",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Seven days to the midterms . What at stake in Pennsylvania . | Local News",
+   "url": "https://www.phillytrib.com/news/local_news/seven-days-to-the-midterms-what-s-at-stake-in-pennsylvania/article_26a06a2a-8000-4051-8cce-3077283a2fe8.html",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Venäjän miehittämässä Oleshkyssa alkoi Melania Trumpin ilmoittama aselepo",
+   "url": "https://www.kouvolansanomat.fi/uutissuomalainen/9903628",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Дмитриев посоветовал чиновникам ЕС учиться миротворчеству у Трампа :: Новости дня / ВЗГЛЯД",
+   "url": "https://vz.ru/news/2026/10/27/1468282.html",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Lula wins Brazil vote despite Bolsonaro challenge",
+   "url": "http://www.milwaukeesun.com/news/279398697/lula-wins-brazil-vote-despite-bolsonaro-challenge",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "ట్రంప్ యంత్రాంగం నుంచి వైదొలగనున్న సీడీసీ డిప్యూటీ డైరెక్టర్ జెన్నిఫర్ షుఫోర్డ్",
+   "url": "https://www.suryaa.com/telugu-news/international/trmp-ymtramgm-numchi-vaidolaganunna-seedeesee-dipyootee-dairektar-jenniphar-shuphord",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
+   "url": "https://www.wuft.org/2026-10-26/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Neil Young Sues Trump PAC For $10M Over Song Use | Newstalk 1400 , 104 . 5 , and 105 . 9 WJMX",
+   "url": "https://newstalk1400online.iheart.com/content/2026-10-27-neil-young-sues-trump-pac-for-10m-over-song-use/",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "5 things to watch from the Federal Reserve next meeting",
+   "url": "https://www.thesunchronicle.com/business/5-things-to-watch-from-the-federal-reserves-next-meeting/article_7fe45c06-8782-5837-af1d-665ff6a49949.html",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  증시 본격 반등은 11월 중순 이후부터 … 美 중간선거 불확실성 여전",
+   "url": "https://www.fnnews.com/news/202610271143363910",
+   "ts": "20261027T051500Z"
   }
  ]
 }

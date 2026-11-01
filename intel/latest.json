@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-01T13:00:31Z",
+ "ts": "2026-11-01T13:15:30Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -347,9 +347,9 @@
   },
   {
    "src": "gnews",
-   "title": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObVJlTmFuVEh3WkZZZS12S0NPTjRoamIzUVJCNURKWHl6QzR5eHpjT0pobGt0b0ZSLWw0TE1seWV0S1ZLRjJOb1ByZWVCVmJEcXRlZ29kbzA0X0ppTmVTZ1M4cHVSRnhWMy1USGxhTmtROFU0V3luU1lsWTlkeVFqU3BwUXlQaTU2NEpPNC1xRTE0TlFyRjJYd1ZCNlhsZHFiaFpFbGNlem9pdm0teVZaUExyY2x6QTFnWUQzamdDYlpVT0hlUXdfY1h0bks0Zw?oc=5",
-   "ts": "Sun, 01 Nov 2026 11:14:38 GMT"
+   "title": "China trade accord with Swiss bucks wider trend towards protectionism - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkQ4YmJ3dHdaYVYzcXlkcUQ1V19QMU9mQ2tFd1RuQ1NEckN3ZTIxSFMzSkJxQzQ1UjdXTDVjRzlwdHNpUE13dUJKS19hQ0hndHlTdThtOEpLU1g5NXcxWnphT0RMME5TVDZLa2MySGZGMGdPVDF2QWdGVmpsN05fRk9jRmJZOFBsakdiT2I1X1lVYkpSUTFROHU0RFZGdnRvOXdYRlc4VnZRTzIyWG4xUU50SzRVRl8zaEZJS2lUaS1EZw?oc=5",
+   "ts": "Thu, 29 Oct 2026 23:06:00 GMT"
   },
   {
    "src": "gnews",
@@ -389,6 +389,12 @@
   },
   {
    "src": "gnews",
+   "title": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks - The Star",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUDNjRDN5bkg1VUFtc005bXpPRVZrZnNSRlNRZ1pUYzlNZWh4T0lMTElvdVBHRTFLY2NlcnVrMUV0WHZxR085dEZpQy12UEIzaFRtYWZiLUw0TmdFM3VNQnJWRUVLTnY0eE01aHJxcXNEVkRyTm5wQzdmVWFacUxqcEpoR0dSZmpFWnhWQmN5cElDTmFSc0s4ekx2bUx1aXRERm9ETTJyTmtra0VMSmtDbTM5UEVpaEl6ZWhPUDVxb3o5aENTUWNxQ01pSExhcnlJM2dkRjRB?oc=5",
+   "ts": "Sun, 01 Nov 2026 11:18:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump opts for trade talks over tariffs for robotics, industrial machinery - Supply Chain Dive",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaHpUMzRMSUxsTkxuWkl1eWZPVlZURlI2QTVaY2xqZE1yLUp5X2hqZXZnM0VodXIyV3JrOENGUzd3dWRJcmRyX2tiSUxMY3otZmhfaU1ELXMxSDVrQW9DM01Ta0xEODExejVmaFlSWEJDYXh6X2VwZ0JWdWNTWUYxRFdmMlpadU1EQnFCRlMxaDJMTHZlbmUzRUh4QVFGSm50dzJuWTluTXFPNHVaRDhFaFNLWnBhN2RvWWc?oc=5",
    "ts": "Thu, 29 Oct 2026 15:31:06 GMT"
@@ -398,12 +404,6 @@
    "title": "EU-China Relations: Finding the Right Balance Between Engagement and Stronger Trade Action - Teneo",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeTYtdkRva3BYQmNIRDNUS1ZvcjhULW9Cc0thNkgtc3pXR084RVhmcjFVV2oyRjlwNVRMdXBWR1dDVnE3OUlCVFp3eU5Ia0t2WHRfVWpaM3BndEpSVVhaTE1HME8zU1g2dVBqN05heW5uVE5USGEwQnZmTkpXZHU2YmJqQXVwb2hIb3lid1NYTzl1VndUVG1GWG4zX1QwMnBvYzZMUy1SQS1Nenk5OVJUb2UyVmpnSXZJMjFkTjFyeXRubVBtTkVZOUhB?oc=5",
    "ts": "Thu, 29 Oct 2026 14:21:35 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Mark Carney Says Canada Can Wait for a New US President Rather Than Accept a Bad Trump Trade Deal: 'We Ha - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORFE3alk2TS1YQmdMLXNtZW9XcXZBSW5rM3RoVWJKUWhJT1lUeUhNNGd4VGpCSWVuZFBfRC04OGg4YzlVelVCU2ZiZm53QnhNdFZtVXhZNU1TX3JxaE43MExHemg4S0ZjUk1MNmVQaW1HQ2ZFUHQyQjlOR3lnVzY2YnQzMll1MEI3TlZPUVRnYW5KSzlkSk1TS2RnTTl2VDNVNzdoMWJkd2dIdWtGdE1LTmRsSWpyY2tkSzc3djdTODFfUlE4UmVYNHNPYzg3VGZCZzl2amYtV09zV19WOFdTX2ZGSHdOOXZTLWdic3Ffczk2N3RtaXFpUzh6dw?oc=5",
-   "ts": "Sun, 01 Nov 2026 06:13:25 GMT"
   },
   {
    "src": "gnews",
@@ -419,15 +419,21 @@
   },
   {
    "src": "gnews",
+   "title": "Mark Carney Says Canada Can Wait for a New US President Rather Than Accept a Bad Trump Trade Deal: 'We Ha - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORFE3alk2TS1YQmdMLXNtZW9XcXZBSW5rM3RoVWJKUWhJT1lUeUhNNGd4VGpCSWVuZFBfRC04OGg4YzlVelVCU2ZiZm53QnhNdFZtVXhZNU1TX3JxaE43MExHemg4S0ZjUk1MNmVQaW1HQ2ZFUHQyQjlOR3lnVzY2YnQzMll1MEI3TlZPUVRnYW5KSzlkSk1TS2RnTTl2VDNVNzdoMWJkd2dIdWtGdE1LTmRsSWpyY2tkSzc3djdTODFfUlE4UmVYNHNPYzg3VGZCZzl2amYtV09zV19WOFdTX2ZGSHdOOXZTLWdic3Ffczk2N3RtaXFpUzh6dw?oc=5",
+   "ts": "Sun, 01 Nov 2026 06:13:25 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Upgraded China-Peru free trade agreement takes effect - China Daily",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zcndGTGFEMDhPbHFBQXpfWXdVU1lJcGNUTFNpXzdJYVBFeWVvUnFfZHdDVm44Vjk1YTAyeWJDNUtsXzR1eS1Db1FBTTJteU1ham1fZm1NVVJTN3pjNWw5SWdkNW5KNlI5c3VBWlo2ZVZUQzctMFZmM05zUGlBQQ?oc=5",
    "ts": "Sun, 01 Nov 2026 05:21:38 GMT"
   },
   {
    "src": "gnews",
-   "title": "China trade accord with Swiss bucks wider trend towards protectionism - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkQ4YmJ3dHdaYVYzcXlkcUQ1V19QMU9mQ2tFd1RuQ1NEckN3ZTIxSFMzSkJxQzQ1UjdXTDVjRzlwdHNpUE13dUJKS19hQ0hndHlTdThtOEpLU1g5NXcxWnphT0RMME5TVDZLa2MySGZGMGdPVDF2QWdGVmpsN05fRk9jRmJZOFBsakdiT2I1X1lVYkpSUTFROHU0RFZGdnRvOXdYRlc4VnZRTzIyWG4xUU50SzRVRl8zaEZJS2lUaS1EZw?oc=5",
-   "ts": "Thu, 29 Oct 2026 23:06:00 GMT"
+   "title": "Trump's tariffs fail to cut US trade deficit, IW report shows - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQXAtelVIRmlkeEJiVmJ1VDVNTWFNOW5Yc3pQQjZFVVVmaGJaRjVzbjdWRlpKNlBKYWVXMmpOV3J4WldwRUs1U3hnalZ2d0wxRnlYbkZ3SVlnSGpfa2RWWE5LQ05GdlNnSmVSeEZsekVPSFNpZTd4QVpNTmcyc2tlRHNuWFlDMXZyUl9SN0hrejlpc3FSSXJMZkVCV296WU51bXZJ?oc=5",
+   "ts": "Fri, 30 Oct 2026 07:07:43 GMT"
   },
   {
    "src": "gnews",
@@ -440,12 +446,6 @@
    "title": "Canada’s PM says he can wait out Trump’s trade war - Politico",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZX0JJcTJUaF9ldTNzc1Bhc1J1TE1OMWxTWG9MdUFHWmh4ZUo5azB0UDhqaWhzTjUtaEIxTldiTmtEbjFuQ09iTWxWUVJ4TENTX2lZeFVrRVlrdE0tREk3MktZWWdlNndaLUhOOTRhOVRaUUlCSXFqbkJaRUs4b00?oc=5",
    "ts": "Fri, 30 Oct 2026 23:41:50 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump's tariffs fail to cut US trade deficit, IW report shows - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQXAtelVIRmlkeEJiVmJ1VDVNTWFNOW5Yc3pQQjZFVVVmaGJaRjVzbjdWRlpKNlBKYWVXMmpOV3J4WldwRUs1U3hnalZ2d0wxRnlYbkZ3SVlnSGpfa2RWWE5LQ05GdlNnSmVSeEZsekVPSFNpZTd4QVpNTmcyc2tlRHNuWFlDMXZyUl9SN0hrejlpc3FSSXJMZkVCV296WU51bXZJ?oc=5",
-   "ts": "Fri, 30 Oct 2026 07:07:43 GMT"
   },
   {
    "src": "gnews",

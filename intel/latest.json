@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-01T13:15:30Z",
+ "ts": "2026-11-01T13:30:31Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -377,27 +377,15 @@
   },
   {
    "src": "gnews",
-   "title": "China’s ‘Upgraded’ Peru Trade Deal Takes Effect, Widening Ties - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaHc1WGNITmJSTDNObWtJSDlPd0ZPYktkemdIMFlkUkZ6Y3I0VFdkU3ROc0M1SnQ4OWYxOXp5TXgyWnBMU281LVpnV3hkdGgwMUxUbUtOYnFLNXE1cUsyNC13QlowVzlOdl9tN0otcWsxU0p5bWJYWGpzckRramE2M2NxbjhxY01XZ2QtTkV2SFlCY2lkV2N3aTlubTNONGI1U1FWam9lbUxpSWJHTFpB?oc=5",
-   "ts": "Sun, 01 Nov 2026 03:33:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China imports millions of donkey hides from Africa every year: new book traces the drivers and impact - The Conversation",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYTBOS2RFeU1UenRUb1o0T2pDbWFFTDkwSmJJQWo4dE5JWjhVS1l2OE52Rk9vekU5R0liN1pqUGMwS0VnRnBXMGdFX09SSFZlOHk1RFZwTU40a005eHktaDI3VEhONkIxd21UamM0dFdtcGR4ZmVIS25iTWx4UDRZY2xNTnRIbDhoVU1pSzM3X25FeXVVUEoteU9RZ0c0WWhHVVdIUGxPS0YxbzZnelBQOFh0d0M1cTFvS1MtYWNzSDNOdTNtcjNrS2pSbXRCc1g5?oc=5",
    "ts": "Sun, 01 Nov 2026 09:11:22 GMT"
   },
   {
    "src": "gnews",
-   "title": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks - The Star",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUDNjRDN5bkg1VUFtc005bXpPRVZrZnNSRlNRZ1pUYzlNZWh4T0lMTElvdVBHRTFLY2NlcnVrMUV0WHZxR085dEZpQy12UEIzaFRtYWZiLUw0TmdFM3VNQnJWRUVLTnY0eE01aHJxcXNEVkRyTm5wQzdmVWFacUxqcEpoR0dSZmpFWnhWQmN5cElDTmFSc0s4ekx2bUx1aXRERm9ETTJyTmtra0VMSmtDbTM5UEVpaEl6ZWhPUDVxb3o5aENTUWNxQ01pSExhcnlJM2dkRjRB?oc=5",
-   "ts": "Sun, 01 Nov 2026 11:18:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump opts for trade talks over tariffs for robotics, industrial machinery - Supply Chain Dive",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaHpUMzRMSUxsTkxuWkl1eWZPVlZURlI2QTVaY2xqZE1yLUp5X2hqZXZnM0VodXIyV3JrOENGUzd3dWRJcmRyX2tiSUxMY3otZmhfaU1ELXMxSDVrQW9DM01Ta0xEODExejVmaFlSWEJDYXh6X2VwZ0JWdWNTWUYxRFdmMlpadU1EQnFCRlMxaDJMTHZlbmUzRUh4QVFGSm50dzJuWTluTXFPNHVaRDhFaFNLWnBhN2RvWWc?oc=5",
-   "ts": "Thu, 29 Oct 2026 15:31:06 GMT"
+   "title": "China’s ‘Upgraded’ Peru Trade Deal Takes Effect, Widening Ties - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaHc1WGNITmJSTDNObWtJSDlPd0ZPYktkemdIMFlkUkZ6Y3I0VFdkU3ROc0M1SnQ4OWYxOXp5TXgyWnBMU281LVpnV3hkdGgwMUxUbUtOYnFLNXE1cUsyNC13QlowVzlOdl9tN0otcWsxU0p5bWJYWGpzckRramE2M2NxbjhxY01XZ2QtTkV2SFlCY2lkV2N3aTlubTNONGI1U1FWam9lbUxpSWJHTFpB?oc=5",
+   "ts": "Sun, 01 Nov 2026 03:33:00 GMT"
   },
   {
    "src": "gnews",
@@ -407,9 +395,15 @@
   },
   {
    "src": "gnews",
-   "title": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVUVReEtZMld0ZmVaLW9LX1Izc3RvVXYxdDZCVkhQWEJodnNLQ0dRTFZzWG1fWVdHaFVCRHRtMVJrbWdsLTJCUTRseEVpOUd3RWYzZk84ZmZhODAxcUs5eWpJZkh2aXR6UFhGTW1uZFE2cUhkVW5kSlE4eVZfbjhqWXNSTWxOTktYMjJ4cnpoNktsZFBrcWRsVW5PM29DNjFnMTgxcnVpUDRmNXNUdVVpa2g5V08wbDhOMU9tNjVZMTJmZ2E0MEkxT2FIYy1TaGFxaWNXUUxweVhhVWJ1SUdlMVMxQVZLY0lHVGJldzF3?oc=5",
-   "ts": "Sun, 01 Nov 2026 11:00:00 GMT"
+   "title": "Trump opts for trade talks over tariffs for robotics, industrial machinery - Supply Chain Dive",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaHpUMzRMSUxsTkxuWkl1eWZPVlZURlI2QTVaY2xqZE1yLUp5X2hqZXZnM0VodXIyV3JrOENGUzd3dWRJcmRyX2tiSUxMY3otZmhfaU1ELXMxSDVrQW9DM01Ta0xEODExejVmaFlSWEJDYXh6X2VwZ0JWdWNTWUYxRFdmMlpadU1EQnFCRlMxaDJMTHZlbmUzRUh4QVFGSm50dzJuWTluTXFPNHVaRDhFaFNLWnBhN2RvWWc?oc=5",
+   "ts": "Thu, 29 Oct 2026 15:31:06 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Upgraded China-Peru free trade agreement takes effect - China Daily",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zcndGTGFEMDhPbHFBQXpfWXdVU1lJcGNUTFNpXzdJYVBFeWVvUnFfZHdDVm44Vjk1YTAyeWJDNUtsXzR1eS1Db1FBTTJteU1ham1fZm1NVVJTN3pjNWw5SWdkNW5KNlI5c3VBWlo2ZVZUQzctMFZmM05zUGlBQQ?oc=5",
+   "ts": "Sun, 01 Nov 2026 05:21:38 GMT"
   },
   {
    "src": "gnews",
@@ -419,15 +413,21 @@
   },
   {
    "src": "gnews",
-   "title": "Mark Carney Says Canada Can Wait for a New US President Rather Than Accept a Bad Trump Trade Deal: 'We Ha - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORFE3alk2TS1YQmdMLXNtZW9XcXZBSW5rM3RoVWJKUWhJT1lUeUhNNGd4VGpCSWVuZFBfRC04OGg4YzlVelVCU2ZiZm53QnhNdFZtVXhZNU1TX3JxaE43MExHemg4S0ZjUk1MNmVQaW1HQ2ZFUHQyQjlOR3lnVzY2YnQzMll1MEI3TlZPUVRnYW5KSzlkSk1TS2RnTTl2VDNVNzdoMWJkd2dIdWtGdE1LTmRsSWpyY2tkSzc3djdTODFfUlE4UmVYNHNPYzg3VGZCZzl2amYtV09zV19WOFdTX2ZGSHdOOXZTLWdic3Ffczk2N3RtaXFpUzh6dw?oc=5",
-   "ts": "Sun, 01 Nov 2026 06:13:25 GMT"
+   "title": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks - The Star",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUDNjRDN5bkg1VUFtc005bXpPRVZrZnNSRlNRZ1pUYzlNZWh4T0lMTElvdVBHRTFLY2NlcnVrMUV0WHZxR085dEZpQy12UEIzaFRtYWZiLUw0TmdFM3VNQnJWRUVLTnY0eE01aHJxcXNEVkRyTm5wQzdmVWFacUxqcEpoR0dSZmpFWnhWQmN5cElDTmFSc0s4ekx2bUx1aXRERm9ETTJyTmtra0VMSmtDbTM5UEVpaEl6ZWhPUDVxb3o5aENTUWNxQ01pSExhcnlJM2dkRjRB?oc=5",
+   "ts": "Sun, 01 Nov 2026 11:18:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Upgraded China-Peru free trade agreement takes effect - China Daily",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zcndGTGFEMDhPbHFBQXpfWXdVU1lJcGNUTFNpXzdJYVBFeWVvUnFfZHdDVm44Vjk1YTAyeWJDNUtsXzR1eS1Db1FBTTJteU1ham1fZm1NVVJTN3pjNWw5SWdkNW5KNlI5c3VBWlo2ZVZUQzctMFZmM05zUGlBQQ?oc=5",
-   "ts": "Sun, 01 Nov 2026 05:21:38 GMT"
+   "title": "China-Peru FTA upgrade takes effect, boosting trade efficiency, investment opportunities and regional economic co-op - Global Times",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KcWdvMWM2Zk14cFFrTmRrazJhMGhyS0RRTjBRMW9CbXdESjJIeVlvalI1cFhEYTdRRkEwZHRELVZlX3BDcTkySUtBdXhCWWJpRnlPbkFjUG9IS2huOEJ5NUJ3?oc=5",
+   "ts": "Sun, 01 Nov 2026 13:12:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Mark Carney Says Canada Can Wait for a New US President Rather Than Accept a Bad Trump Trade Deal: 'We Ha - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORFE3alk2TS1YQmdMLXNtZW9XcXZBSW5rM3RoVWJKUWhJT1lUeUhNNGd4VGpCSWVuZFBfRC04OGg4YzlVelVCU2ZiZm53QnhNdFZtVXhZNU1TX3JxaE43MExHemg4S0ZjUk1MNmVQaW1HQ2ZFUHQyQjlOR3lnVzY2YnQzMll1MEI3TlZPUVRnYW5KSzlkSk1TS2RnTTl2VDNVNzdoMWJkd2dIdWtGdE1LTmRsSWpyY2tkSzc3djdTODFfUlE4UmVYNHNPYzg3VGZCZzl2amYtV09zV19WOFdTX2ZGSHdOOXZTLWdic3Ffczk2N3RtaXFpUzh6dw?oc=5",
+   "ts": "Sun, 01 Nov 2026 06:13:25 GMT"
   },
   {
    "src": "gnews",

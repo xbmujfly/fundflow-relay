@@ -1,0 +1,31 @@
+name: intel-relay
+# 静外一手情报中转：本机出口访问不到的源（truthsocial 真源 / Reuters / AP）由 GHA 代取，
+# 写 intel/latest.json 供本机 cron 拉取。
+# ⚠️ 只用 workflow_dispatch：本项目实测 GitHub 的 schedule **从不触发**（见 gha-relay-fundflow §坑5）。
+on:
+  workflow_dispatch:
+    inputs:
+      note:
+        description: 触发备注
+        required: false
+        default: manual
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: fetch
+        run: python scripts/fetch_intel.py
+      - name: commit
+        run: |
+          git config user.name "intel-relay"
+          git config user.email "intel-relay@users.noreply.github.com"
+          git add intel/
+          git commit -m "intel $(date -u +%Y-%m-%dT%H:%M:%SZ)" || echo "no change"
+          git push

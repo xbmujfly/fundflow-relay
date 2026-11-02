@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-02T01:45:34Z",
+ "ts": "2026-11-02T02:00:38Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -359,7 +359,7 @@
   },
   {
    "src": "gnews",
-   "title": "Mark Carney says U.S., Canada teams will work on trade deal in ‘coming weeks’ - Politico",
+   "title": "Mark Carney says US, Canada teams will work on trade deal in ‘coming weeks’ - Politico",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRl9ZRnBLZVpTOXNpZVMxNmxwX2hvdjgxLWlRWElxMkFkcW52ejNkU3FzU2JLR1h3WnRCMFJ3WGVZSm51VEFlUnc3R2tLazdzUC0xbC1NRmJIcHFZdUQ0VWxnNzkybmppVGVHT2doRkVpanQwQjFkT3FxcUVfMEpGdlp0dw?oc=5",
    "ts": "Sun, 01 Nov 2026 20:06:00 GMT"
   },
@@ -377,15 +377,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney signals progress on Canada-US trade deal talks as midterms loom - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzM2N25iblh4YVR1a2t4RGxRSDB4cFRjMGJGUkJHQlY3OGxHS2ZnVE1jRWxZT0F1S0pIS3pIMV9JZmVwU0ZpOWdKMmxRWG1Ua1h6b2FqdFNqTjhvTTd4TENOQzIxQzlmbTFVcWJqejJWaDVCd1ZKZE9wdkxXN014SWxHU0dUTUVObHo2aUVnVS1kM2gxWTNJM3lqVFB5djkzSHpiTzgyTGphMFE1YWt0bNIBtgFBVV95cUxQYzFEZVNkLXJVT0UyZmRQUEVPYVluVUdvcW1hTUV5TVV4ZjBZNng4WWJXRkZDTEk3bHBxUG91Ym02Q1VSWjF6Zm4yQ3VMZmY4SndEenJ2QnBEcXp1RTJFLUVwN2k1RF94NU9wZlBIZzBDc004UHhiV0tXRmN0M201d3dsNjNQZk5OSEduTGlxVGN0dHBPclo1cnJQbFpMUHBDZnBzXzVBcTJXYl9JX3dXSHdra3VUdw?oc=5",
-   "ts": "Sun, 01 Nov 2026 21:04:46 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Canadian PM Mark Carney had 'good conversation' on trade with Trump - upi",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOVF5NnE3S3NYMkRVQ01IMmotTDhhUjNnXzNQYlNLbWVhVzNwZktGTFI0RllaY0xuWU9CWjBsczBMVkFYd2ZuUGlNYTVSam4zR0N1NTU5VzN6b0VBZUJZMXFRdF9TcFVMWXFtbDh5YXppRk5PUVAzQjctdERXR3ZERFhiU3hhc3Q1WGZJ0gGQAUFVX3lxTE4xNXB5WDFLZmgyV3pfWjZVTHZ0bU15M183YnAzazUxekJBU0FpTTMwZ0Y2dkdGVDJaSjRmZ2owNkxBeXg3UE1qUWlTZjRJZjBEZ2xqSmpMRFdHM184RkpYcWg1d0xtbTBNRjRuOFlzcHZLQWVhR01HSmp3VGh3a2M4ZXhSMjNqcE80MGJQYkpnaA?oc=5",
    "ts": "Mon, 02 Nov 2026 01:02:48 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney signals progress on Canada-US trade deal talks as midterms loom - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzM2N25iblh4YVR1a2t4RGxRSDB4cFRjMGJGUkJHQlY3OGxHS2ZnVE1jRWxZT0F1S0pIS3pIMV9JZmVwU0ZpOWdKMmxRWG1Ua1h6b2FqdFNqTjhvTTd4TENOQzIxQzlmbTFVcWJqejJWaDVCd1ZKZE9wdkxXN014SWxHU0dUTUVObHo2aUVnVS1kM2gxWTNJM3lqVFB5djkzSHpiTzgyTGphMFE1YWt0bNIBtgFBVV95cUxQYzFEZVNkLXJVT0UyZmRQUEVPYVluVUdvcW1hTUV5TVV4ZjBZNng4WWJXRkZDTEk3bHBxUG91Ym02Q1VSWjF6Zm4yQ3VMZmY4SndEenJ2QnBEcXp1RTJFLUVwN2k1RF94NU9wZlBIZzBDc004UHhiV0tXRmN0M201d3dsNjNQZk5OSEduTGlxVGN0dHBPclo1cnJQbFpMUHBDZnBzXzVBcTJXYl9JX3dXSHdra3VUdw?oc=5",
+   "ts": "Sun, 01 Nov 2026 21:04:46 GMT"
   },
   {
    "src": "gnews",
@@ -431,12 +431,6 @@
   },
   {
    "src": "gnews",
-   "title": "Carney says he had 'good conversation' with Trump about trade, talks to continue - Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2UyZjl0aFlBbDM0XzZyeFFqYndLcXpBTjhCNzE0bnVrMmZUQzE4cGExTDVOR2xPaGU0UTVvWnliSDVKQk5HSC1tQ1V2VllHeVltZldxYVhXTDIxWGVSTklrdjA2Q2xkLWJpbXo0aDM1S2N0cFFuQkNrTko5NkpvVE1MYzVCS1VaREE?oc=5",
-   "ts": "Sun, 01 Nov 2026 17:44:07 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "From rifles to radar: China upgrades African arms trade as Russia, West retreat - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRnJtVFFvYS1PSzRPdTh6Qm1nek9jZHpqQTdGeUxsU1hhbWdWUXlQNHMzY2NNeExIa1lQM0pFZWFzZUpJaFhXTU1wVVpESXA2TDBfaHRrT21BMGxjNEk0eXZsSGtkUm1Wd0lmYVZGaFFuR2FQLVpfMHA5c1lyTUwxMkpQaGg4OGxGSG9wWGlaSDU0X3ZnYkw5WDF0ajhJdmxkcWN5S0xfTlVMbU1Ic2lVSkpDaFJHejQxQ3pSelQwQkYwX1lPdzIyQjJBVHXSAcwBQVVfeXFMT1hVZU15TGc2UlpndmtMQ3l2OERSdDhqV1Jwakt1azZXZ1JuUGZTS1V3aUFNN2Y3S0NuaTBNdFh3LUtDdVZWQVVnRVpUbUtUNHkzOUN1QzZmQzAxUGc0Wkh1VHpEc0ZaS1IyM21jTEE1N29QVTJyLW9fTHh1XzJrU0Q2b0dvR3liaElNNi1JUllpTXF3aEVHc0RtQ3RWVFdIbVJDeWI3cV9DV3AteGoyeHJ5NFZpTXFtWDVGMzlkdm00VU1TYWkwMHZlb3di?oc=5",
    "ts": "Sun, 01 Nov 2026 10:00:11 GMT"
@@ -458,6 +452,12 @@
    "title": "Washing away the US: Tariff evasion on the other side of the US–China trade war - CEPR",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdXFOOE9ybUFrVGNraFdvaWNEdDM1YXlVdU1xTVNFdW1aTUVlYkNyeUtoRGJVNXJkeUF3WXE4Y3c0ZVJsTldybDA4UFEydDdEcUN0TnBlTHVJcnhDb1ZPSTBMcFBLSU5fdERrRlNONEx4bUItMEZiaVRLMzBmbnFBLVRLTTR4MlZzNFl2UE1IMlc0VURjeUE?oc=5",
    "ts": "Mon, 26 Oct 2026 00:55:04 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Global Geopolitics Puts American Farming to the Test as Costs Rise and Trade Risks Grow - AgroLatam",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMldjYzZYaWZOeXlxeS1pb2JId1I4RDAzdHpCNUVlb0l3WU9jMlVQLXVReDgwLWRKcXpTdXlzbkE3SjE4ejVqWGg3WUs4MTdFQ1gxZ2FZbDN1eUZweGQ2NnpmV2MtOXR3WHRvc05XSHRwVWNYWE1nUllEbTNtM1dxLU9MMlJISWdqSDR0dDRMUGJKOUZTTURscA?oc=5",
+   "ts": "Sun, 01 Nov 2026 22:13:24 GMT"
   }
  ]
 }

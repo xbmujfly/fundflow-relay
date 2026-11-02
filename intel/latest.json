@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-02T00:00:31Z",
+ "ts": "2026-11-02T00:15:30Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -389,6 +389,12 @@
   },
   {
    "src": "gnews",
+   "title": "Carney has 'good conversation' with Trump on future of Canada-U.S. trade as midterms near - CBC",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRl9udWxXWnVkQV9rd0F1c0psMjJ0VEZ3WDVCRks4RGhVN1o1OGVHX2ZobmZVemNIekV5S2xuQWVmRzVLaWhNdFlKaXhnZ2xyeGRFMkxLSG56S2tJVzktTUtOX3lkT1Yyc2xaeXN3ZkJtMzBHdUh5Szc4RG9UdC1ySXhDcw?oc=5",
+   "ts": "Sun, 01 Nov 2026 21:23:24 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump says US, Canada have ‘concept’ of a new trade deal - WTVB",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTU1qNXd2c1ZUcFBQd0ppV0paOXJEaEFqSEZKeC1kT3Y5UE9xNFJuR1JtZ0RpWHp6VWhwNFBPX0NhZ2U1NllkbV84cXVzeUlWUmhSMDNTajNya0dlWE1SS0lHUEVHMlA1RjZ2Mk1hcXV1QjNKVk1SU1hkTlhvQWRDckdXeUVaQk05dWluWA?oc=5",
    "ts": "Sun, 01 Nov 2026 21:19:35 GMT"
@@ -398,12 +404,6 @@
    "title": "Trump, Carney revive U.S.-Canada trade talks ahead of midterms (CAD:USD:) (CAD:USD:) - Seeking Alpha",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV05COHZXcXkyaDN6YVZzbG5nN1NBZTB4NThLNE9XNEZVTUNjangtM1JPb2FOODZHQlBOWk5mZnI5UDRCOTRPOXBucGxxcERyZk1FWjNfbUpaakl3b1dEWWoxRF9sMldrR0phUGdFTGxpS3o3X2RuRWpldEVHdVpMaVB2ZmVCVUg1U2c4YWh2NXpqSlExdHlJaDJvYkpaekE?oc=5",
    "ts": "Sun, 01 Nov 2026 20:14:56 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney has 'good conversation' with Trump on future of Canada-U.S. trade as midterms near - CBC",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRl9udWxXWnVkQV9rd0F1c0psMjJ0VEZ3WDVCRks4RGhVN1o1OGVHX2ZobmZVemNIekV5S2xuQWVmRzVLaWhNdFlKaXhnZ2xyeGRFMkxLSG56S2tJVzktTUtOX3lkT1Yyc2xaeXN3ZkJtMzBHdUh5Szc4RG9UdC1ySXhDcw?oc=5",
-   "ts": "Sun, 01 Nov 2026 21:23:24 GMT"
   },
   {
    "src": "gnews",
@@ -431,6 +431,12 @@
   },
   {
    "src": "gnews",
+   "title": "Trump says he has ‘concepts of a very good deal’ with Canada - CNN",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb3B3T3NVbWR5bGJwLUpiTDRYbWxKeTRqdGpaVFpPelVtZmtUM1FWOWplakx4bWVjNUJVODM5RnZiOFNvLW5QekZKZElkRU5Jb2VFR2xFODRpVEYzNXFNWVJfUkR5bENWLTZZQk45a2hyUjVBTnpONkhLMVNiaHgwSzA1Sk05SmRGazdwOVJsNlZsdG55LWRZeEJWOXdhOUhq?oc=5",
+   "ts": "Sun, 01 Nov 2026 21:38:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "From rifles to radar: China upgrades African arms trade as Russia, West retreat - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRnJtVFFvYS1PSzRPdTh6Qm1nek9jZHpqQTdGeUxsU1hhbWdWUXlQNHMzY2NNeExIa1lQM0pFZWFzZUpJaFhXTU1wVVpESXA2TDBfaHRrT21BMGxjNEk0eXZsSGtkUm1Wd0lmYVZGaFFuR2FQLVpfMHA5c1lyTUwxMkpQaGg4OGxGSG9wWGlaSDU0X3ZnYkw5WDF0ajhJdmxkcWN5S0xfTlVMbU1Ic2lVSkpDaFJHejQxQ3pSelQwQkYwX1lPdzIyQjJBVHXSAcwBQVVfeXFMT1hVZU15TGc2UlpndmtMQ3l2OERSdDhqV1Jwakt1azZXZ1JuUGZTS1V3aUFNN2Y3S0NuaTBNdFh3LUtDdVZWQVVnRVpUbUtUNHkzOUN1QzZmQzAxUGc0Wkh1VHpEc0ZaS1IyM21jTEE1N29QVTJyLW9fTHh1XzJrU0Q2b0dvR3liaElNNi1JUllpTXF3aEVHc0RtQ3RWVFdIbVJDeWI3cV9DV3AteGoyeHJ5NFZpTXFtWDVGMzlkdm00VU1TYWkwMHZlb3di?oc=5",
    "ts": "Sun, 01 Nov 2026 10:00:11 GMT"
@@ -449,15 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "China imports millions of donkey hides from Africa every year: new book traces the drivers and impact - The Conversation",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYTBOS2RFeU1UenRUb1o0T2pDbWFFTDkwSmJJQWo4dE5JWjhVS1l2OE52Rk9vekU5R0liN1pqUGMwS0VnRnBXMGdFX09SSFZlOHk1RFZwTU40a005eHktaDI3VEhONkIxd21UamM0dFdtcGR4ZmVIS25iTWx4UDRZY2xNTnRIbDhoVU1pSzM3X25FeXVVUEoteU9RZ0c0WWhHVVdIUGxPS0YxbzZnelBQOFh0d0M1cTFvS1MtYWNzSDNOdTNtcjNrS2pSbXRCc1g5?oc=5",
-   "ts": "Sun, 01 Nov 2026 09:11:22 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s ‘Upgraded’ Peru Trade Deal Takes Effect, Widening Ties - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaHc1WGNITmJSTDNObWtJSDlPd0ZPYktkemdIMFlkUkZ6Y3I0VFdkU3ROc0M1SnQ4OWYxOXp5TXgyWnBMU281LVpnV3hkdGgwMUxUbUtOYnFLNXE1cUsyNC13QlowVzlOdl9tN0otcWsxU0p5bWJYWGpzckRramE2M2NxbjhxY01XZ2QtTkV2SFlCY2lkV2N3aTlubTNONGI1U1FWam9lbUxpSWJHTFpB?oc=5",
-   "ts": "Sun, 01 Nov 2026 03:33:00 GMT"
+   "title": "Washing away the US: Tariff evasion on the other side of the US–China trade war - CEPR",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdXFOOE9ybUFrVGNraFdvaWNEdDM1YXlVdU1xTVNFdW1aTUVlYkNyeUtoRGJVNXJkeUF3WXE4Y3c0ZVJsTldybDA4UFEydDdEcUN0TnBlTHVJcnhDb1ZPSTBMcFBLSU5fdERrRlNONEx4bUItMEZiaVRLMzBmbnFBLVRLTTR4MlZzNFl2UE1IMlc0VURjeUE?oc=5",
+   "ts": "Mon, 26 Oct 2026 00:55:04 GMT"
   }
  ]
 }

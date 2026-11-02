@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-02T02:15:28Z",
+ "ts": "2026-11-02T02:30:36Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -382,6 +382,12 @@
   },
   {
    "src": "gnews",
+   "title": "China’s 5,000-Ton Digging Machines Are a Trade War Risk to India - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTd2YzlxNEVRbFZDZU95azllUlVZQ1pSZmpEODdKSl9DS2I3bWhsbWtjcjE5WjRlVG03VnBDY3lyN3hESVluM2RRaXdaX216Q2dzcEVpR0o3UWVZVlFIUFQxRE5qRTdaeHZ3Z0xydEkwX0FBdXRCZFJMaXVwdEdUaERNOXQ5VWNReXJSbGdHQkh6WEU3ZWNCOHl6bHJaV2kzN0c1SEs2Y1IwdEFyaFd6cWpEeVlYdw?oc=5",
+   "ts": "Mon, 02 Nov 2026 02:00:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Carney signals progress on Canada-US trade deal talks as midterms loom - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzM2N25iblh4YVR1a2t4RGxRSDB4cFRjMGJGUkJHQlY3OGxHS2ZnVE1jRWxZT0F1S0pIS3pIMV9JZmVwU0ZpOWdKMmxRWG1Ua1h6b2FqdFNqTjhvTTd4TENOQzIxQzlmbTFVcWJqejJWaDVCd1ZKZE9wdkxXN014SWxHU0dUTUVObHo2aUVnVS1kM2gxWTNJM3lqVFB5djkzSHpiTzgyTGphMFE1YWt0bNIBtgFBVV95cUxQYzFEZVNkLXJVT0UyZmRQUEVPYVluVUdvcW1hTUV5TVV4ZjBZNng4WWJXRkZDTEk3bHBxUG91Ym02Q1VSWjF6Zm4yQ3VMZmY4SndEenJ2QnBEcXp1RTJFLUVwN2k1RF94NU9wZlBIZzBDc004UHhiV0tXRmN0M201d3dsNjNQZk5OSEduTGlxVGN0dHBPclo1cnJQbFpMUHBDZnBzXzVBcTJXYl9JX3dXSHdra3VUdw?oc=5",
    "ts": "Sun, 01 Nov 2026 21:04:46 GMT"
@@ -412,12 +418,6 @@
   },
   {
    "src": "gnews",
-   "title": "Trump, Carney revive U.S.-Canada trade talks ahead of midterms (CAD:USD:) (CAD:USD:) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV05COHZXcXkyaDN6YVZzbG5nN1NBZTB4NThLNE9XNEZVTUNjangtM1JPb2FOODZHQlBOWk5mZnI5UDRCOTRPOXBucGxxcERyZk1FWjNfbUpaakl3b1dEWWoxRF9sMldrR0phUGdFTGxpS3o3X2RuRWpldEVHdVpMaVB2ZmVCVUg1U2c4YWh2NXpqSlExdHlJaDJvYkpaekE?oc=5",
-   "ts": "Sun, 01 Nov 2026 20:14:56 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China trade accord with Swiss bucks wider trend towards protectionism - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkQ4YmJ3dHdaYVYzcXlkcUQ1V19QMU9mQ2tFd1RuQ1NEckN3ZTIxSFMzSkJxQzQ1UjdXTDVjRzlwdHNpUE13dUJKS19hQ0hndHlTdThtOEpLU1g5NXcxWnphT0RMME5TVDZLa2MySGZGMGdPVDF2QWdGVmpsN05fRk9jRmJZOFBsakdiT2I1X1lVYkpSUTFROHU0RFZGdnRvOXdYRlc4VnZRTzIyWG4xUU50SzRVRl8zaEZJS2lUaS1EZw?oc=5",
    "ts": "Thu, 29 Oct 2026 23:06:00 GMT"
@@ -427,12 +427,6 @@
    "title": "China's Ma reverses U.S. job plan due to trade war - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zV2I5eC02ZUw3X3B2ckU3d0YyZW5IMlkyc1JQc3hPa3VDdWFpQlhlUm9id0NQOHJQOUNXNEdicHRxeV9mUzhtODlPcGN5SlFPc3lOOGZsZllxb2dw?oc=5",
    "ts": "Mon, 02 Nov 2026 00:29:14 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s 5,000-Ton Digging Machines Are a Trade War Risk to India - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTd2YzlxNEVRbFZDZU95azllUlVZQ1pSZmpEODdKSl9DS2I3bWhsbWtjcjE5WjRlVG03VnBDY3lyN3hESVluM2RRaXdaX216Q2dzcEVpR0o3UWVZVlFIUFQxRE5qRTdaeHZ3Z0xydEkwX0FBdXRCZFJMaXVwdEdUaERNOXQ5VWNReXJSbGdHQkh6WEU3ZWNCOHl6bHJaV2kzN0c1SEs2Y1IwdEFyaFd6cWpEeVlYdw?oc=5",
-   "ts": "Mon, 02 Nov 2026 02:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -454,9 +448,15 @@
   },
   {
    "src": "gnews",
-   "title": "Washing away the US: Tariff evasion on the other side of the US–China trade war - CEPR",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdXFOOE9ybUFrVGNraFdvaWNEdDM1YXlVdU1xTVNFdW1aTUVlYkNyeUtoRGJVNXJkeUF3WXE4Y3c0ZVJsTldybDA4UFEydDdEcUN0TnBlTHVJcnhDb1ZPSTBMcFBLSU5fdERrRlNONEx4bUItMEZiaVRLMzBmbnFBLVRLTTR4MlZzNFl2UE1IMlc0VURjeUE?oc=5",
-   "ts": "Mon, 26 Oct 2026 00:55:04 GMT"
+   "title": "Global Geopolitics Puts American Farming to the Test as Costs Rise and Trade Risks Grow - AgroLatam",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMldjYzZYaWZOeXlxeS1pb2JId1I4RDAzdHpCNUVlb0l3WU9jMlVQLXVReDgwLWRKcXpTdXlzbkE3SjE4ejVqWGg3WUs4MTdFQ1gxZ2FZbDN1eUZweGQ2NnpmV2MtOXR3WHRvc05XSHRwVWNYWE1nUllEbTNtM1dxLU9MMlJISWdqSDR0dDRMUGJKOUZTTURscA?oc=5",
+   "ts": "Sun, 01 Nov 2026 22:13:24 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Canada's Carney reports progress in trade talks with US. Trump talks up 'concept' of a deal - Ottumwa Courier",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNa1lYejR4YVFqU2VXMDQwMUprOEhqOXVuMGFoWU5hWmY1R2JJZ3JHU0VTVmVBRGZRclJKYXVtaC1UNGlJYWhBZ20wS215UElWODVlMzNld3FvU2JuZTlmTHlhcElTcFNaQlZzZzNSaWE2N3U0ZFVteVo4ZjBoYU5vTW1wN1M0YzlpTUVKRW5MTU9OcFI3X1F3SFpiNF9Nd3NZUW96U3JaeEdtVmNWc2pPQmsydFYyWi03QVhqZF8zWUZWR1JodjNCOGpqOHdObkY4VXFxWGxYUlVTOV9YWW5wRWg3TkVnOGVJaVV5REZ4RGNCeFhlcWVzUHlyRTBvR29tN2NLMDhOejNqSGs5UW5Z?oc=5",
+   "ts": "Sun, 01 Nov 2026 21:24:19 GMT"
   },
   {
    "src": "gdelt",

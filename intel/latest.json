@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-02T23:00:34Z",
+ "ts": "2026-11-02T23:15:28Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -347,6 +347,12 @@
   },
   {
    "src": "gnews",
+   "title": "How Trump’s trade policy is handing Asia to Beijing - Fortune",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWWR6M2dPSURHeDRiNnlycm9fWG9iR3IzU0U1c1R2V2pRYlBEUVNSVDllVDJXMlZiYU13X3drQkpuUVNhT0RPMUotM0tadjFxMlZHVHdqV1d3aXJXREZ5WEF3bzBVZWFMT1VCNjJldGl6SWJUUEpPWmJlS3FkanRlVnFfamk2ZVZMUVE?oc=5",
+   "ts": "Mon, 02 Nov 2026 23:00:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump Removes South Africa From the African Growth and Opportunity Act Trade Program - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFRqMVNkZnhKUEh5MFhnY3NwbDlqMWN2cXM1U2JuZzBYNWNQejFVb1VkVTB4M1BmQzJLOGUzZmNaLThZaV9QRXRwaGVqOUhQT1dxZnpiYnNzYXhRcHBja01jTTRkMzMyVWFzNEpnQTZPVlZsYUVvb2ZSblNWdjVCcnZmc3VYMHR1b1Fsd3gwZmhrOWpG?oc=5",
    "ts": "Mon, 02 Nov 2026 21:01:03 GMT"
@@ -373,7 +379,7 @@
    "src": "gnews",
    "title": "China’s soaring chemical exports threaten new trade war front - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
-   "ts": "Mon, 02 Nov 2026 06:43:12 GMT"
+   "ts": "Mon, 02 Nov 2026 06:42:16 GMT"
   },
   {
    "src": "gnews",
@@ -425,12 +431,6 @@
   },
   {
    "src": "gnews",
-   "title": "Trump administration will cut South Africa and Rwanda from the AGOA trade program - The Killeen Daily Herald",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY1JWZzZ5NHVuU3JiblItLUoxd2F4bGF4RmZQMUhJYnhIX1lTVU15Tl92elRqMnVIMjQ5dmJsRjd5N21tLXRUclB5VzRwWHBwTjFtTWdJTWJhRmJWYzZkdDBoWUd5VFdqTHB1MHZSZmltM3hCaVRfcDlCMUtYVDFSMmlHNmVzYzFUNFByMzdTdWJJQkExZlNhU0ZhaUNhQlFxV0lWNEFrRDJRMWZfdEdlUk5Cb0ZFbTcxT09SZkJYX1RaemV4bzh6WVhYRnNQbndiVllhNFhJNzJaSXVhVXQ5SUozNEdudWhJNUhneFFnNF93U3dx?oc=5",
-   "ts": "Mon, 02 Nov 2026 21:01:07 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump’s Tariffs Are On the Ballot in Michigan - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWkFSTFJEWHAwa1plOTZ6ZTdYX1hoV2xDWXIxbEJZY242Q09aQk5xeUQzbjFoNl9udEJ6VDA1amM0VnBiVzdkaGZ5MWUzSDR6SkVKRGpXM2c5TDBlalNoWEx5M28xeExNWFFuSGZUX3RJSWRneERpOFRxUmNsWFFRVV96NGNSSUlqeXhILS1oX243QQ?oc=5",
    "ts": "Mon, 02 Nov 2026 20:05:13 GMT"
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "World's largest economy shuts out South Africa, Rwanda from trade benefits across its $33 trillion market as Trump finalises AGOA decision - Business Insider Africa",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ3JLMWZVQ2NLMWJvM2x0UnhBT3BMWUR2Tzc5YzlJdHhUWVRLV1Z1eFE5UHRuVndyMmJKdTZ1UExYdC1nT09VOE1wb0NCZFpUZjJLN0Jld3BOeWdZTC1uTUI5eWhMNGRwT3o3ZmdkUjJINWxqdHR3ZVpGamFrbU9XUVNMQ0pGMXFxYVU3aTBGU05SRC1qeGRldm1zU0ZMZHlZdDNzcDFfeVg1ZjBTelAwTmVKaG1zNzdhOFM0R1RTR0g0UWZnSWdjN0kwdjlISkxJMFBMWnVFTQ?oc=5",
-   "ts": "Mon, 02 Nov 2026 18:51:13 GMT"
+   "title": "Trump administration will cut South Africa and Rwanda from the AGOA trade program - The Killeen Daily Herald",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY1JWZzZ5NHVuU3JiblItLUoxd2F4bGF4RmZQMUhJYnhIX1lTVU15Tl92elRqMnVIMjQ5dmJsRjd5N21tLXRUclB5VzRwWHBwTjFtTWdJTWJhRmJWYzZkdDBoWUd5VFdqTHB1MHZSZmltM3hCaVRfcDlCMUtYVDFSMmlHNmVzYzFUNFByMzdTdWJJQkExZlNhU0ZhaUNhQlFxV0lWNEFrRDJRMWZfdEdlUk5Cb0ZFbTcxT09SZkJYX1RaemV4bzh6WVhYRnNQbndiVllhNFhJNzJaSXVhVXQ5SUozNEdudWhJNUhneFFnNF93U3dx?oc=5",
+   "ts": "Mon, 02 Nov 2026 21:01:07 GMT"
   }
  ]
 }

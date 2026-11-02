@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-02T03:30:35Z",
+ "ts": "2026-11-02T03:45:30Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -353,7 +353,7 @@
   },
   {
    "src": "gnews",
-   "title": "Mark Carney says US, Canada teams will work on trade deal in ‘coming weeks’ - Politico",
+   "title": "Mark Carney says U.S., Canada teams will work on trade deal in ‘coming weeks’ - Politico",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRl9ZRnBLZVpTOXNpZVMxNmxwX2hvdjgxLWlRWElxMkFkcW52ejNkU3FzU2JLR1h3WnRCMFJ3WGVZSm51VEFlUnc3R2tLazdzUC0xbC1NRmJIcHFZdUQ0VWxnNzkybmppVGVHT2doRkVpanQwQjFkT3FxcUVfMEpGdlp0dw?oc=5",
    "ts": "Sun, 01 Nov 2026 20:06:00 GMT"
   },
@@ -362,6 +362,12 @@
    "title": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks - Reuters",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObVJlTmFuVEh3WkZZZS12S0NPTjRoamIzUVJCNURKWHl6QzR5eHpjT0pobGt0b0ZSLWw0TE1seWV0S1ZLRjJOb1ByZWVCVmJEcXRlZ29kbzA0X0ppTmVTZ1M4cHVSRnhWMy1USGxhTmtROFU0V3luU1lsWTlkeVFqU3BwUXlQaTU2NEpPNC1xRTE0TlFyRjJYd1ZCNlhsZHFiaFpFbGNlem9pdm0teVZaUExyY2x6QTFnWUQzamdDYlpVT0hlUXdfY1h0bks0Zw?oc=5",
    "ts": "Sun, 01 Nov 2026 11:14:38 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Canadian PM Mark Carney had 'good conversation' on trade with Trump - upi",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOVF5NnE3S3NYMkRVQ01IMmotTDhhUjNnXzNQYlNLbWVhVzNwZktGTFI0RllaY0xuWU9CWjBsczBMVkFYd2ZuUGlNYTVSam4zR0N1NTU5VzN6b0VBZUJZMXFRdF9TcFVMWXFtbDh5YXppRk5PUVAzQjctdERXR3ZERFhiU3hhc3Q1WGZJ0gGQAUFVX3lxTE4xNXB5WDFLZmgyV3pfWjZVTHZ0bU15M183YnAzazUxekJBU0FpTTMwZ0Y2dkdGVDJaSjRmZ2owNkxBeXg3UE1qUWlTZjRJZjBEZ2xqSmpMRFdHM184RkpYcWg1d0xtbTBNRjRuOFlzcHZLQWVhR01HSmp3VGh3a2M4ZXhSMjNqcE80MGJQYkpnaA?oc=5",
+   "ts": "Mon, 02 Nov 2026 01:02:48 GMT"
   },
   {
    "src": "gnews",
@@ -374,12 +380,6 @@
    "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before US midterms - ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaFNDUkpVYzhNa3VKeV9ydVZxcUthc3dLOHBjbE9MUGZBNUxHUzVNV2R6TGl5aU95Rk1kbjdQbEhOYl9iWEJXdno2czNTX1dTbVV4VXdqeTVTbERYcDAxbENTTUdYd1h6cnJLaGlEMUdpbXR5M1FDd19yLTJNZmhjbzM2VlhRZHJzcm9kVng2UUVjOWhzYjBGYmF3aG9PY01NY1BVcVVjdW5Yc05qaG9rd2hXWdIBuAFBVV95cUxPejEtNkwtTDRTVC1RdXZCTTFVdFB0RkROSUFfVTZFel9MQ213b3BlZHZWaG41UTh3WDd6WGt2OGVfWldzb1NvQWVMR0lrbk9nNkozZnFGc2tkLU5NT1RpQ0s5cDdRRnJPcGp3VmZqRkFrRVdKcEwxTENCTVZVMXllVTJpTkdmSWVrZUMyZklYRUJzMXpYZ3RScUN0bFd3dGI0VFY5bXpicTdlLXpOMENEYlFyV2QwUTd1?oc=5",
    "ts": "Sun, 01 Nov 2026 18:15:18 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Canadian PM Mark Carney had 'good conversation' on trade with Trump - upi",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOVF5NnE3S3NYMkRVQ01IMmotTDhhUjNnXzNQYlNLbWVhVzNwZktGTFI0RllaY0xuWU9CWjBsczBMVkFYd2ZuUGlNYTVSam4zR0N1NTU5VzN6b0VBZUJZMXFRdF9TcFVMWXFtbDh5YXppRk5PUVAzQjctdERXR3ZERFhiU3hhc3Q1WGZJ0gGQAUFVX3lxTE4xNXB5WDFLZmgyV3pfWjZVTHZ0bU15M183YnAzazUxekJBU0FpTTMwZ0Y2dkdGVDJaSjRmZ2owNkxBeXg3UE1qUWlTZjRJZjBEZ2xqSmpMRFdHM184RkpYcWg1d0xtbTBNRjRuOFlzcHZLQWVhR01HSmp3VGh3a2M4ZXhSMjNqcE80MGJQYkpnaA?oc=5",
-   "ts": "Mon, 02 Nov 2026 01:02:48 GMT"
   },
   {
    "src": "gnews",
@@ -443,21 +443,21 @@
   },
   {
    "src": "gnews",
+   "title": "Canada's Carney reports progress in trade talks with US. Trump talks up 'concept' of a deal - Oskaloosa Herald",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPV1dxdzl3MTRrR2dzOExjWUlQWnNUZVJCdWV1R0FwNmRKWWR6RXBXa3p3aHlIYnpJWDhCcHZCQ1dwOUFZbFlyTGVsR0NRVTRVaHM5a0hqVlRfVDV5by1ES2c4MklWOGU3UjFfbWlaeERIbEFZbjE0ZVota2pzRGJEZ09NZHJ0R1hxS3MxWTdEX1lOYTA5V1A2YVA1dTd3SGVRV25HQld6NlMyX1pac2E5YkloS2k3ZE9PM21SZlhWUWd6WElUUmwwWVJyTXFsWjJpOGRnVS1GYXJOUGNnT0hpSWF5WTFPMTB4UEVHUnIxbkpVQUtsZHpIRThWX2JCSm4xYUJWYkl5MFU?oc=5",
+   "ts": "Sun, 01 Nov 2026 21:24:19 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Washing away the US: Tariff evasion on the other side of the US–China trade war - CEPR",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdXFOOE9ybUFrVGNraFdvaWNEdDM1YXlVdU1xTVNFdW1aTUVlYkNyeUtoRGJVNXJkeUF3WXE4Y3c0ZVJsTldybDA4UFEydDdEcUN0TnBlTHVJcnhDb1ZPSTBMcFBLSU5fdERrRlNONEx4bUItMEZiaVRLMzBmbnFBLVRLTTR4MlZzNFl2UE1IMlc0VURjeUE?oc=5",
+   "ts": "Mon, 26 Oct 2026 00:55:04 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "From rifles to radar: China upgrades African arms trade as Russia, West retreat - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRnJtVFFvYS1PSzRPdTh6Qm1nek9jZHpqQTdGeUxsU1hhbWdWUXlQNHMzY2NNeExIa1lQM0pFZWFzZUpJaFhXTU1wVVpESXA2TDBfaHRrT21BMGxjNEk0eXZsSGtkUm1Wd0lmYVZGaFFuR2FQLVpfMHA5c1lyTUwxMkpQaGg4OGxGSG9wWGlaSDU0X3ZnYkw5WDF0ajhJdmxkcWN5S0xfTlVMbU1Ic2lVSkpDaFJHejQxQ3pSelQwQkYwX1lPdzIyQjJBVHXSAcwBQVVfeXFMT1hVZU15TGc2UlpndmtMQ3l2OERSdDhqV1Jwakt1azZXZ1JuUGZTS1V3aUFNN2Y3S0NuaTBNdFh3LUtDdVZWQVVnRVpUbUtUNHkzOUN1QzZmQzAxUGc0Wkh1VHpEc0ZaS1IyM21jTEE1N29QVTJyLW9fTHh1XzJrU0Q2b0dvR3liaElNNi1JUllpTXF3aEVHc0RtQ3RWVFdIbVJDeWI3cV9DV3AteGoyeHJ5NFZpTXFtWDVGMzlkdm00VU1TYWkwMHZlb3di?oc=5",
    "ts": "Sun, 01 Nov 2026 10:00:11 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Mark Carney Says He Had a Good Conversation With Donald Trump on Canada-U.S. Trade: 7 outlets compared - NewsCord",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSmRPdV91V2R4QTJ6Mi1KSnJyVjJDSU9rSmJXN3pUYmZqcnRkMUVUQ1pRVDA4TDVfYTgzU29IR3pHZUFoUHdpdkVjWklSX3dlZEtEM1Yxem02LVVuZWEtdXdQMmhnZkdTNjZIcnZ6X1NMUzQzZjFYOUFaT0JoVFR4MjhxMllsdmJJS09BaWoxV1FjTnR0eWQyLVRqRldEd2Y1VVNlMnVTekhIVkNLREZNbmw4a09Lc1ROLVl4ckxSZkk0NmsyTndYbWdLSGN2YjlEXy01ajNRSVE1NE9WUHR3T1FBSmVVa0FjcS0yRDVaNmZSRjd0M1hDWFh0Yw?oc=5",
-   "ts": "Sun, 01 Nov 2026 23:21:51 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Global Geopolitics Puts American Farming to the Test as Costs Rise and Trade Risks Grow - AgroLatam",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMldjYzZYaWZOeXlxeS1pb2JId1I4RDAzdHpCNUVlb0l3WU9jMlVQLXVReDgwLWRKcXpTdXlzbkE3SjE4ejVqWGg3WUs4MTdFQ1gxZ2FZbDN1eUZweGQ2NnpmV2MtOXR3WHRvc05XSHRwVWNYWE1nUllEbTNtM1dxLU9MMlJISWdqSDR0dDRMUGJKOUZTTURscA?oc=5",
-   "ts": "Sun, 01 Nov 2026 22:13:24 GMT"
   }
  ]
 }

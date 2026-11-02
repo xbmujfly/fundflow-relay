@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-02T09:15:33Z",
+ "ts": "2026-11-02T09:30:33Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -383,15 +383,15 @@
   },
   {
    "src": "gnews",
-   "title": "Canadian PM Mark Carney had 'good conversation' on trade with Trump - upi",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOVF5NnE3S3NYMkRVQ01IMmotTDhhUjNnXzNQYlNLbWVhVzNwZktGTFI0RllaY0xuWU9CWjBsczBMVkFYd2ZuUGlNYTVSam4zR0N1NTU5VzN6b0VBZUJZMXFRdF9TcFVMWXFtbDh5YXppRk5PUVAzQjctdERXR3ZERFhiU3hhc3Q1WGZJ0gGQAUFVX3lxTE4xNXB5WDFLZmgyV3pfWjZVTHZ0bU15M183YnAzazUxekJBU0FpTTMwZ0Y2dkdGVDJaSjRmZ2owNkxBeXg3UE1qUWlTZjRJZjBEZ2xqSmpMRFdHM184RkpYcWg1d0xtbTBNRjRuOFlzcHZLQWVhR01HSmp3VGh3a2M4ZXhSMjNqcE80MGJQYkpnaA?oc=5",
-   "ts": "Mon, 02 Nov 2026 01:02:48 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
    "ts": "Thu, 29 Oct 2026 16:23:22 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Canadian PM Mark Carney had 'good conversation' on trade with Trump - upi",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOVF5NnE3S3NYMkRVQ01IMmotTDhhUjNnXzNQYlNLbWVhVzNwZktGTFI0RllaY0xuWU9CWjBsczBMVkFYd2ZuUGlNYTVSam4zR0N1NTU5VzN6b0VBZUJZMXFRdF9TcFVMWXFtbDh5YXppRk5PUVAzQjctdERXR3ZERFhiU3hhc3Q1WGZJ0gGQAUFVX3lxTE4xNXB5WDFLZmgyV3pfWjZVTHZ0bU15M183YnAzazUxekJBU0FpTTMwZ0Y2dkdGVDJaSjRmZ2owNkxBeXg3UE1qUWlTZjRJZjBEZ2xqSmpMRFdHM184RkpYcWg1d0xtbTBNRjRuOFlzcHZLQWVhR01HSmp3VGh3a2M4ZXhSMjNqcE80MGJQYkpnaA?oc=5",
+   "ts": "Mon, 02 Nov 2026 01:02:48 GMT"
   },
   {
    "src": "gnews",

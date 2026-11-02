@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-02T14:45:32Z",
+ "ts": "2026-11-02T15:00:31Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -449,15 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Oman Proposes Preferential Trade and Investment Agreement with China - Politics Today",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMlZ5NWlTbWV1VnItdVN0VThEQXk1Sy1uNTZ4Yno2czBBaktTNk42VndzRFFtRnVqdklwV3ZnSmV4eTVReENObmdET1owYTdiRUwzX1VoX0pzUkRRSW5BQmZIdmthUDVsZU9QVkxaT2RtMTUzam5uZWw3UDRLRE0wR0FremlpODJPeWlrRksyTXJnajFDV1FQVXdyVQ?oc=5",
-   "ts": "Mon, 02 Nov 2026 07:05:34 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump and Carney signal progress toward potential U.S.-Canada trade deal - CBT News",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhRzBGdHFFQWM5TGpSX0syR2NDYU9tOFQxZ19SSy1UclB6ODlfMlNoUW1Bb1NKSXpIMU16eGVFSk8wdkdLOEZKRTZkTUJoV0hhU1hVYldJQ0tCQQ?oc=5",
    "ts": "Mon, 02 Nov 2026 13:22:23 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Oman Proposes Preferential Trade and Investment Agreement with China - Politics Today",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMlZ5NWlTbWV1VnItdVN0VThEQXk1Sy1uNTZ4Yno2czBBaktTNk42VndzRFFtRnVqdklwV3ZnSmV4eTVReENObmdET1owYTdiRUwzX1VoX0pzUkRRSW5BQmZIdmthUDVsZU9QVkxaT2RtMTUzam5uZWw3UDRLRE0wR0FremlpODJPeWlrRksyTXJnajFDV1FQVXdyVQ?oc=5",
+   "ts": "Mon, 02 Nov 2026 07:05:34 GMT"
   }
  ]
 }

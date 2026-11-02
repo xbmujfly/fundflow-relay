@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-02T15:45:30Z",
+ "ts": "2026-11-02T23:00:34Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "err": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   }
  },
  "items": [
@@ -167,6 +167,24 @@
   },
   {
    "src": "ustr",
+   "title": "United States Seeks Mexico’s Review of Alleged Denial of Workers’ Rights at Madobox",
+   "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-madobox",
+   "ts": "Mon, 02 Nov 2026 20:27:17 +0000"
+  },
+  {
+   "src": "ustr",
+   "title": "United States and Mexico Announce Memorandum of Understanding at Industrias Tecnos Facility",
+   "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-and-mexico-announce-memorandum-understanding-industrias-tecnos-facility",
+   "ts": "Mon, 02 Nov 2026 20:13:43 +0000"
+  },
+  {
+   "src": "ustr",
+   "title": "Ambassador Greer Issues Statement on President Trump’s Intent to Terminate Rwanda and South Africa from the AGOA Trade Preference Program",
+   "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ambassador-greer-issues-statement-president-trumps-intent-terminate-rwanda-and-south-africa-agoa",
+   "ts": "Mon, 02 Nov 2026 16:41:12 +0000"
+  },
+  {
+   "src": "ustr",
    "title": "America First Seafood Strategy Charts Course to Restoring U.S. Seafood Dominance",
    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/america-first-seafood-strategy-charts-course-restoring-us-seafood-dominance",
    "ts": "Wed, 28 Oct 2026 13:39:42 +0000"
@@ -200,24 +218,6 @@
    "title": "Ambassador Greer Highlights the Success of President Trump’s Trade Program in Fueling America’s Industrial Resurgence While Touring Utah Plants",
    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial",
    "ts": "Mon, 19 Oct 2026 20:43:36 +0000"
-  },
-  {
-   "src": "ustr",
-   "title": "United States Announces Successful Resolution of Rapid Response Labor Mechanism Matter at Alimentos Grole Facility",
-   "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/united-states-announces-successful-resolution-rapid-response-labor-mechanism-matter-alimentos-grole",
-   "ts": "Mon, 19 Oct 2026 18:41:24 +0000"
-  },
-  {
-   "src": "ustr",
-   "title": "Governments and Faith Communities: Supporting the Economic Fundamentals of “The Good Life”",
-   "url": "https://ustr.gov/about/policy-offices/press-office/speeches-and-remarks/2026/october/governments-and-faith-communities-supporting-economic-fundamentals-good-life",
-   "ts": "Fri, 16 Oct 2026 16:57:10 +0000"
-  },
-  {
-   "src": "ustr",
-   "title": "October",
-   "url": "https://ustr.gov/about/policy-offices/press-office/speeches-and-remarks/2026/october",
-   "ts": "Fri, 16 Oct 2026 16:53:59 +0000"
   },
   {
    "src": "fed",
@@ -341,9 +341,27 @@
   },
   {
    "src": "gnews",
+   "title": "China's slow buying of US farm goods tests $17 billion trade pledge - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGp4TlZzUzhLZkJsbVoyLWVtTVNHUmMtWVNteFpvbE9vYkZhcWxUSTdwQ0JyYi14MzdCN2dqeEU1Rkw5NHZISnhzbVV0Wno3U3M2b3FkRFdlXzBkdW5OT3RKRU5DamhSOWh1WVQyVk5ucG83amhtMDdqNWUwR2xianV2MUNtQ1Y0Qmo1QXJmOWd3SnB3eVZDcHpCZFFXc1MwamktYlRMeVhRc3FlZUlr?oc=5",
+   "ts": "Mon, 02 Nov 2026 10:16:42 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Removes South Africa From the African Growth and Opportunity Act Trade Program - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFRqMVNkZnhKUEh5MFhnY3NwbDlqMWN2cXM1U2JuZzBYNWNQejFVb1VkVTB4M1BmQzJLOGUzZmNaLThZaV9QRXRwaGVqOUhQT1dxZnpiYnNzYXhRcHBja01jTTRkMzMyVWFzNEpnQTZPVlZsYUVvb2ZSblNWdjVCcnZmc3VYMHR1b1Fsd3gwZmhrOWpG?oc=5",
+   "ts": "Mon, 02 Nov 2026 21:01:03 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Canada's Carney reports progress in trade talks with U.S. and Trump talks up 'concept' of a deal - PBS",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXdDTGJYWklRa09zNVZrZGpGa3ptMkN6eTBVbGw5V01RVl9VTktCMVNpSmFFWGR5YWJpUkJmQVUxeUNTSm5tYlJvQ05SNTFUQVZ3Z1NfbE9UVmQydDZ5LTk2YS12S3R3VzY2cHptSktvaUdmR3FOamhENFY5bG1LOFRVQzdGV09iY2Y1VGZ5Vi1oQThBWVQ4Q3V5aG9tajNZXzBwSVBOaTVKd1ZVazhHYkxCb09wVFd2OHlzeE1wSS1fTXJXNlNlaDRuanhwUdIB0wFBVV95cUxOTHBudWVpLWJfSkQ5RkJiay1FeWRtYzJmUnpRMEFzeXZzWlZqcDBqOUNmcE05cm54cnNhU0EwU2prTXg1Ml9tdUdlcGxHbWhXZXliZVV2WjZYWDlGSHVBcG1HNTVuUG1XX3F0a3FwWWQ3NFdDaG1FanlCbFcyT3dlTzZhRGx6TWJpZGxZbWJuVVctQ2tOdjl6NWc5enMwWm9EOWNxcjdYU2xXdU03YVBRa2RWblBkclF4RzNSMGV1MFNHQWxQUm81SmlvX0pGWE9MVW84?oc=5",
    "ts": "Sun, 01 Nov 2026 18:00:43 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump says U.S. and Canada have concept for new trade deal - The Journal Record",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ2UxX053RGZrYUNNOFFtNmEtNWZ4TmdLZHhaZGpFUDBsWjBXdElhRG5zTHlid0x4Rm9nemc2Ql9HUGVzYjMtd2htTGZraHY2WGQ5SGVkdHptTV9lWXFyaGNiQjVndnYtem5keEVjUkFwY0cxRFh0RzItWFlNWW90dnRrTEVPNUpTc3pj?oc=5",
+   "ts": "Mon, 02 Nov 2026 16:41:10 GMT"
   },
   {
    "src": "gnews",
@@ -353,27 +371,9 @@
   },
   {
    "src": "gnews",
-   "title": "China's slow buying of US farm goods tests $17 billion trade pledge - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGp4TlZzUzhLZkJsbVoyLWVtTVNHUmMtWVNteFpvbE9vYkZhcWxUSTdwQ0JyYi14MzdCN2dqeEU1Rkw5NHZISnhzbVV0Wno3U3M2b3FkRFdlXzBkdW5OT3RKRU5DamhSOWh1WVQyVk5ucG83amhtMDdqNWUwR2xianV2MUNtQ1Y0Qmo1QXJmOWd3SnB3eVZDcHpCZFFXc1MwamktYlRMeVhRc3FlZUlr?oc=5",
-   "ts": "Mon, 02 Nov 2026 10:16:42 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s soaring chemical exports threaten new trade war front - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
-   "ts": "Mon, 02 Nov 2026 06:42:16 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump Says US-Canada Trade Deal Is Close After Talks With Carney - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0FUU1FQR1dZRDZVcXBERWhJVEFWd0NSZ3hOTDFmZTlTQWRnTWt5eVZPdUR2Q0sxSHp0ZFhOMllONHE0aU04aWxDbndOaU45ZWhnUFFfZ0FVMElMVngyU0F5NzV0ZjJ2dWxHYV9UMGhZeGU1V1liZ0t5M1Rsa3RvVWNOXzlId04tcEplUW96M2JTUUZpSmVnNVRhU2dfaHpIaS1sM2UwbWlzam5Pb21HV04zb3o?oc=5",
-   "ts": "Sun, 01 Nov 2026 22:26:53 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Surging costs and China trade war test US farmers' loyalty to Trump - Nikkei Asia",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZXJqTFdEbnRiRnVtRTc2dmN0VmNUNzRHYnNNSnlFQ3FJRkVsX05fVE1UX21QMUlaWnNfc3E2Wl9LU2V0Zzd6OEtfdXJITklxZ1ZXcEZxMENrMVRiQTdjbnVEbmc4bzRLWUp5SHFBV3JJeHpGYTVMaFV2N1FrRWpzYWo4dHUwUGNJMnpNeEpVbjVuSnpEWVEtMlFkV3VzUWo4RERkbDg2VVNmaHdKUU42T3FrS0Nidzg5OUF6eVROaw?oc=5",
-   "ts": "Mon, 02 Nov 2026 05:00:00 GMT"
+   "ts": "Mon, 02 Nov 2026 06:43:12 GMT"
   },
   {
    "src": "gnews",
@@ -383,45 +383,57 @@
   },
   {
    "src": "gnews",
-   "title": "Mark Carney says U.S., Canada teams will work on trade deal in ‘coming weeks’ - Politico",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRl9ZRnBLZVpTOXNpZVMxNmxwX2hvdjgxLWlRWElxMkFkcW52ejNkU3FzU2JLR1h3WnRCMFJ3WGVZSm51VEFlUnc3R2tLazdzUC0xbC1NRmJIcHFZdUQ0VWxnNzkybmppVGVHT2doRkVpanQwQjFkT3FxcUVfMEpGdlp0dw?oc=5",
-   "ts": "Sun, 01 Nov 2026 20:06:00 GMT"
+   "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms - MPR News",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHc1QVBGdDlLNXBiZ21Ya3c1bkNzaEdlOXJRUDd0NWhnRFBvcjRZcHFzWnFwdkFUVlNzMkFpQ1VNMkZsMXBQdWJXbnFKbXVxV0ZiaXZwNUtUbUdUdzFIeDlBOW11alBabGZqRFNpd09TZncwX0IxNFM0c2lZbzQ1cmtXbW5GNWVQM1BLVzU2d1RlSnpjUzZSYWE0NEIxTS1FMGxIQTVyano?oc=5",
+   "ts": "Sun, 01 Nov 2026 21:14:58 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump Is Using a Trade Law Relic to Illegally Punish Canada - The Dispatch",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Oc1hFZTByalJ0N19aaWp3cmwxSmNHcXFLRlZlZWtLY2tCdG5sZFJNTlBCcThQUEUzc292YUpGcnB2MjZyUzVSRw?oc=5",
-   "ts": "Mon, 02 Nov 2026 06:02:54 GMT"
+   "title": "Trump says aides have ‘concept’ of Canada trade deal - The Hill",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORlYwR1E4QUkyNXRQV1N3aXBudXFrQVhXb1JfMzVTdldLTEYxdUNidE9UNWxMMmRIa0R5bnZnRFBBT19oNnA2YnU4T1NhNWh3NHR2UzRPSHFkdVBvRkp2YU1TXzZxa3NPTmF5MDR5ZUVOYmduYml3LWtCclZKaEJhcWQ0OU04U0FMYXI0VdIBkgFBVV95cUxNQlRsbUVEUTUtYkNJeC1GemU1SWZYUjl5WWNncmdBSi1sUTdyMm1mSGlYN0h4T0lvdFlsc1plZGRIaElQQjZUYV9NY0dYclBTOGpjQXQ5Smt5aG1JMDl6WGNaR1BQSUVQZW9qUjQ1ZDYtWWV6NDZlRFpicjBGWERxY3g0WVBvaFl6bndtNEUtcnhqdw?oc=5",
+   "ts": "Mon, 02 Nov 2026 16:01:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "TSX futures rise as Trump teases ’Concept’ of Canada trade deal - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHlNOVFLeEctZXN0czBMLUpDS1FXQlVkZ2U0dDNObnktS1BVWlNrRnYzMDl5SGNWd0dUZFZTemhlaFZaY0hGQ09XWU9wV2s4VU0wUDhXMURBUF9hZzQxbGVPMEtDSkQzZW41dnpLU2xiY1FraktIUnA1Q1RDU2l6T2Z0TzRRWGxMX2xvU2NSRXZqcEVNMTl6MjJB?oc=5",
-   "ts": "Mon, 02 Nov 2026 13:04:23 GMT"
+   "title": "Trump and Carney signal progress toward potential U.S.-Canada trade deal - CBT News",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhRzBGdHFFQWM5TGpSX0syR2NDYU9tOFQxZ19SSy1UclB6ODlfMlNoUW1Bb1NKSXpIMU16eGVFSk8wdkdLOEZKRTZkTUJoV0hhU1hVYldJQ0tCQQ?oc=5",
+   "ts": "Mon, 02 Nov 2026 12:13:43 GMT"
   },
   {
    "src": "gnews",
-   "title": "Carney signals progress on Canada-US trade deal talks as midterms loom - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzM2N25iblh4YVR1a2t4RGxRSDB4cFRjMGJGUkJHQlY3OGxHS2ZnVE1jRWxZT0F1S0pIS3pIMV9JZmVwU0ZpOWdKMmxRWG1Ua1h6b2FqdFNqTjhvTTd4TENOQzIxQzlmbTFVcWJqejJWaDVCd1ZKZE9wdkxXN014SWxHU0dUTUVObHo2aUVnVS1kM2gxWTNJM3lqVFB5djkzSHpiTzgyTGphMFE1YWt0bNIBtgFBVV95cUxQYzFEZVNkLXJVT0UyZmRQUEVPYVluVUdvcW1hTUV5TVV4ZjBZNng4WWJXRkZDTEk3bHBxUG91Ym02Q1VSWjF6Zm4yQ3VMZmY4SndEenJ2QnBEcXp1RTJFLUVwN2k1RF94NU9wZlBIZzBDc004UHhiV0tXRmN0M201d3dsNjNQZk5OSEduTGlxVGN0dHBPclo1cnJQbFpMUHBDZnBzXzVBcTJXYl9JX3dXSHdra3VUdw?oc=5",
-   "ts": "Sun, 01 Nov 2026 21:04:46 GMT"
+   "title": "Trump Administration Plans to Cut South Africa and Rwanda From a Trade Program - notus.org",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUEJ3enpUVmRfWVlueG9OU0dtMDhhODQySG9pMGtNYlkyX04xOUpwTjM1ZkdmU0FORG5lVzZDQzIxOEVQSXpiYjd5d3c2UjhrZ0lmMFRFdWNEYmNvV2RuZVY2NGFzYi1DNlZEZUZpd3RiSFNHaDE0VnN5Y0pRQ1g5Qi1pWWdUaUF1WTBsNTYwRkdOTmZQRk9HOEQtSE0?oc=5",
+   "ts": "Mon, 02 Nov 2026 21:44:27 GMT"
   },
   {
    "src": "gnews",
-   "title": "Canadian PM Mark Carney had 'good conversation' on trade with Trump - upi",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOVF5NnE3S3NYMkRVQ01IMmotTDhhUjNnXzNQYlNLbWVhVzNwZktGTFI0RllaY0xuWU9CWjBsczBMVkFYd2ZuUGlNYTVSam4zR0N1NTU5VzN6b0VBZUJZMXFRdF9TcFVMWXFtbDh5YXppRk5PUVAzQjctdERXR3ZERFhiU3hhc3Q1WGZJ0gGQAUFVX3lxTE4xNXB5WDFLZmgyV3pfWjZVTHZ0bU15M183YnAzazUxekJBU0FpTTMwZ0Y2dkdGVDJaSjRmZ2owNkxBeXg3UE1qUWlTZjRJZjBEZ2xqSmpMRFdHM184RkpYcWg1d0xtbTBNRjRuOFlzcHZLQWVhR01HSmp3VGh3a2M4ZXhSMjNqcE80MGJQYkpnaA?oc=5",
-   "ts": "Mon, 02 Nov 2026 01:02:48 GMT"
+   "title": "Surging costs and China trade war test US farmers' loyalty to Trump - Nikkei Asia",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZXJqTFdEbnRiRnVtRTc2dmN0VmNUNzRHYnNNSnlFQ3FJRkVsX05fVE1UX21QMUlaWnNfc3E2Wl9LU2V0Zzd6OEtfdXJITklxZ1ZXcEZxMENrMVRiQTdjbnVEbmc4bzRLWUp5SHFBV3JJeHpGYTVMaFV2N1FrRWpzYWo4dHUwUGNJMnpNeEpVbjVuSnpEWVEtMlFkV3VzUWo4RERkbDg2VVNmaHdKUU42T3FrS0Nidzg5OUF6eVROaw?oc=5",
+   "ts": "Mon, 02 Nov 2026 05:00:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "China's $17 Billion Farm Trade Promise Faces Trouble as American Exports Stall - AgroLatam",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY2paNUJpdC1pTUV4Z1lXTHNDU3pNQ0FSemd1c0pjSUJybjlsdUNRNS1TQjI0Y29tUTJLWVlaUDFrU1l1YzJEUmg4RThjaW1LM0ZLXzZfWVVfd1hoQnRtUWJxbGdXYkhfWVFPOERlOFVmSnNSOWVYREVieGxLZzJDTHVfUTFiYkJQb2lyUDNkUzI?oc=5",
-   "ts": "Mon, 02 Nov 2026 12:15:19 GMT"
+   "title": "Trump To Remove Rwanda, South Africa From Trade Deal - Law360",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTk42dlAxWWYzMldXTm1YQ00ySTlBbWRjSkdkQ3dXZ3Y1cG5lMjJLTy0zaHNUbThEM3Rqbk51ejF1bzhheUs4dFFpQ2NFc1EtWmV2RmVZd2YzMlNnLWFPUFZIZW1LX09uS1FPYVpGUTFfeXJvSXIxdlNxcDJTQkNJQW9fUm90VVU3T0lKWHZQd3JaWU0zWEt4eU56TnM1b1Fwd2xjWFkzWdIBVkFVX3lxTFBiSGNDUmlWYWctWDdYNk55dnA0QnhKOW1sVEZrWTJ1RU5aZ3MyVEFITjNlTXh0bmVjckN4b2Fzb0JSVlBhWkx2SUlOOHFQdWhmWXF6WHZB?oc=5",
+   "ts": "Mon, 02 Nov 2026 22:02:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump says US, Canada have 'concept' of a new trade deal - The Detroit News",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVTZNNW50Z183eGxad3U0RG5zMUZ6UjFTcGpwM204NDFtS1d0S2ZhRFJzZUc2N01EMmQ4b3ZpMHBBbE9HMnlhMmtuTVhWUTdPVVBqVVhRZThrUnFkUlhOenlJWEdJV1M3ajVGQ2JMaW8yQk1waHJqcFJqTHZhVmlzMUIwTmc4ajZZcEluTjFhcXNYTklNLXlMcVM5OVdCcGlzS18tM0JhRmJEbkdiNXcxcmZsck9qckJINWZCVEt3?oc=5",
-   "ts": "Mon, 02 Nov 2026 14:01:39 GMT"
+   "title": "Trump Says US-Canada Trade Deal Is Close After Talks With Carney - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0FUU1FQR1dZRDZVcXBERWhJVEFWd0NSZ3hOTDFmZTlTQWRnTWt5eVZPdUR2Q0sxSHp0ZFhOMllONHE0aU04aWxDbndOaU45ZWhnUFFfZ0FVMElMVngyU0F5NzV0ZjJ2dWxHYV9UMGhZeGU1V1liZ0t5M1Rsa3RvVWNOXzlId04tcEplUW96M2JTUUZpSmVnNVRhU2dfaHpIaS1sM2UwbWlzam5Pb21HV04zb3o?oc=5",
+   "ts": "Sun, 01 Nov 2026 22:26:53 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump administration will cut South Africa and Rwanda from the AGOA trade program - The Killeen Daily Herald",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY1JWZzZ5NHVuU3JiblItLUoxd2F4bGF4RmZQMUhJYnhIX1lTVU15Tl92elRqMnVIMjQ5dmJsRjd5N21tLXRUclB5VzRwWHBwTjFtTWdJTWJhRmJWYzZkdDBoWUd5VFdqTHB1MHZSZmltM3hCaVRfcDlCMUtYVDFSMmlHNmVzYzFUNFByMzdTdWJJQkExZlNhU0ZhaUNhQlFxV0lWNEFrRDJRMWZfdEdlUk5Cb0ZFbTcxT09SZkJYX1RaemV4bzh6WVhYRnNQbndiVllhNFhJNzJaSXVhVXQ5SUozNEdudWhJNUhneFFnNF93U3dx?oc=5",
+   "ts": "Mon, 02 Nov 2026 21:01:07 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump’s Tariffs Are On the Ballot in Michigan - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWkFSTFJEWHAwa1plOTZ6ZTdYX1hoV2xDWXIxbEJZY242Q09aQk5xeUQzbjFoNl9udEJ6VDA1amM0VnBiVzdkaGZ5MWUzSDR6SkVKRGpXM2c5TDBlalNoWEx5M28xeExNWFFuSGZUX3RJSWRneERpOFRxUmNsWFFRVV96NGNSSUlqeXhILS1oX243QQ?oc=5",
+   "ts": "Mon, 02 Nov 2026 20:05:13 GMT"
   },
   {
    "src": "gnews",
@@ -437,27 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Oman and China sign deals to boost trade and investment - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQVR2RGF2bGZuR2xIcld3bTExZkZwdEVJdXpwa3pldExpZkZfdXVkN19NbGRia1hGcjRkZUkxcmtEdThWZ3c3NERKSG95TGtCQmlpVkViZExTa21EWnRJWE8yeVJRaFFib1F6NGtkZW11TWFULVV1Y3Z5Y2t3dm5mSFBtQ3BfSXcxbTdiNml5bkN6Y3RhaDEtanNOUmtyOEhETlN5U3c5V0ZBQdIBrwFBVV95cUxNMWVzbDQtS0pIYzZZZXkwT2FXUjhReXNVYmNXMnVBNEZ6Yk1UUG5uUG5EZFM0VHN4ejdfZEljclAxUDZQS0xkb3R2TEREQjlNMVZ0RDY5ZGNCZDcwaFVuMlZTc2h1RldhMUtpUWF5ZG9aUDJEM3F3d2M2M0tnZG5zMWFDQlZDejNMZjF0Sy0xMFozX3JmM3RaeURWVzVmY0ZZWXMwUDNkUGdoektlU2ZR?oc=5",
-   "ts": "Mon, 02 Nov 2026 12:19:37 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China's Xi says Middle East should not become battleground for great power rivalry - Reuters",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaldCWTJJZTNHNW8xTDdVZkxtWkdkazhTeWRnVWxsbFNKRU13RlhzdndMQ21JVC1KMzBXalQzZllxT2J3SkVGdmQtVXBVRGJ6Y2tEbFRiT29IWEVjZ0ZrUnlIcnVfTk9WTllKdWdnWkJFRXJwYjNsWmV6dm1rTXlZQnV4OHRaZ1V2WEpWNklNWGQ2WDd5a1hQT3QxQjllX2VO?oc=5",
    "ts": "Mon, 02 Nov 2026 04:32:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump and Carney signal progress toward potential U.S.-Canada trade deal - CBT News",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhRzBGdHFFQWM5TGpSX0syR2NDYU9tOFQxZ19SSy1UclB6ODlfMlNoUW1Bb1NKSXpIMU16eGVFSk8wdkdLOEZKRTZkTUJoV0hhU1hVYldJQ0tCQQ?oc=5",
-   "ts": "Mon, 02 Nov 2026 13:22:23 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Oman Proposes Preferential Trade and Investment Agreement with China - Politics Today",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMlZ5NWlTbWV1VnItdVN0VThEQXk1Sy1uNTZ4Yno2czBBaktTNk42VndzRFFtRnVqdklwV3ZnSmV4eTVReENObmdET1owYTdiRUwzX1VoX0pzUkRRSW5BQmZIdmthUDVsZU9QVkxaT2RtMTUzam5uZWw3UDRLRE0wR0FremlpODJPeWlrRksyTXJnajFDV1FQVXdyVQ?oc=5",
-   "ts": "Mon, 02 Nov 2026 07:05:34 GMT"
+   "title": "World's largest economy shuts out South Africa, Rwanda from trade benefits across its $33 trillion market as Trump finalises AGOA decision - Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ3JLMWZVQ2NLMWJvM2x0UnhBT3BMWUR2Tzc5YzlJdHhUWVRLV1Z1eFE5UHRuVndyMmJKdTZ1UExYdC1nT09VOE1wb0NCZFpUZjJLN0Jld3BOeWdZTC1uTUI5eWhMNGRwT3o3ZmdkUjJINWxqdHR3ZVpGamFrbU9XUVNMQ0pGMXFxYVU3aTBGU05SRC1qeGRldm1zU0ZMZHlZdDNzcDFfeVg1ZjBTelAwTmVKaG1zNzdhOFM0R1RTR0g0UWZnSWdjN0kwdjlISkxJMFBMWnVFTQ?oc=5",
+   "ts": "Mon, 02 Nov 2026 18:51:13 GMT"
   }
  ]
 }

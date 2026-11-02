@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-02T13:15:34Z",
+ "ts": "2026-11-02T13:30:33Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -383,15 +383,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Is Using a Trade Law Relic to Illegally Punish Canada - The Dispatch",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Oc1hFZTByalJ0N19aaWp3cmwxSmNHcXFLRlZlZWtLY2tCdG5sZFJNTlBCcThQUEUzc292YUpGcnB2MjZyUzVSRw?oc=5",
-   "ts": "Mon, 02 Nov 2026 06:02:54 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
    "ts": "Thu, 29 Oct 2026 16:23:22 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Is Using a Trade Law Relic to Illegally Punish Canada - The Dispatch",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Oc1hFZTByalJ0N19aaWp3cmwxSmNHcXFLRlZlZWtLY2tCdG5sZFJNTlBCcThQUEUzc292YUpGcnB2MjZyUzVSRw?oc=5",
+   "ts": "Mon, 02 Nov 2026 06:02:54 GMT"
   },
   {
    "src": "gnews",
@@ -407,6 +407,12 @@
   },
   {
    "src": "gnews",
+   "title": "TSX futures rise as Trump teases ’Concept’ of Canada trade deal - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHlNOVFLeEctZXN0czBMLUpDS1FXQlVkZ2U0dDNObnktS1BVWlNrRnYzMDl5SGNWd0dUZFZTemhlaFZaY0hGQ09XWU9wV2s4VU0wUDhXMURBUF9hZzQxbGVPMEtDSkQzZW41dnpLU2xiY1FraktIUnA1Q1RDU2l6T2Z0TzRRWGxMX2xvU2NSRXZqcEVNMTl6MjJB?oc=5",
+   "ts": "Mon, 02 Nov 2026 13:04:23 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China's $17 Billion Farm Trade Promise Faces Trouble as American Exports Stall - AgroLatam",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY2paNUJpdC1pTUV4Z1lXTHNDU3pNQ0FSemd1c0pjSUJybjlsdUNRNS1TQjI0Y29tUTJLWVlaUDFrU1l1YzJEUmg4RThjaW1LM0ZLXzZfWVVfd1hoQnRtUWJxbGdXYkhfWVFPOERlOFVmSnNSOWVYREVieGxLZzJDTHVfUTFiYkJQb2lyUDNkUzI?oc=5",
    "ts": "Mon, 02 Nov 2026 12:15:19 GMT"
@@ -416,12 +422,6 @@
    "title": "Oman Proposes Preferential Trade and Investment Agreement with China - Politics Today",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMlZ5NWlTbWV1VnItdVN0VThEQXk1Sy1uNTZ4Yno2czBBaktTNk42VndzRFFtRnVqdklwV3ZnSmV4eTVReENObmdET1owYTdiRUwzX1VoX0pzUkRRSW5BQmZIdmthUDVsZU9QVkxaT2RtMTUzam5uZWw3UDRLRE0wR0FremlpODJPeWlrRksyTXJnajFDV1FQVXdyVQ?oc=5",
    "ts": "Mon, 02 Nov 2026 07:05:34 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump says he has ‘concepts of a very good deal’ with Canada - CNN",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb3B3T3NVbWR5bGJwLUpiTDRYbWxKeTRqdGpaVFpPelVtZmtUM1FWOWplakx4bWVjNUJVODM5RnZiOFNvLW5QekZKZElkRU5Jb2VFR2xFODRpVEYzNXFNWVJfUkR5bENWLTZZQk45a2hyUjVBTnpONkhLMVNiaHgwSzA1Sk05SmRGazdwOVJsNlZsdG55LWRZeEJWOXdhOUhq?oc=5",
-   "ts": "Sun, 01 Nov 2026 21:38:00 GMT"
   },
   {
    "src": "gnews",
@@ -449,15 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Democratic Strategies to Challenge Trump's Tariffs - GV Wire",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcU5rTV9kZkY2bGExMjJCX0tUOU5zUV82bjg4MmJxN0J3T1hvZG9GZXhFRlVNT2NFbkl1WnVnU0ZRU1RFbFhWRm5YbTNWdmhTTEMxRUFKcnJ0bXFzUmQtQlpSQXlwYTc0UWpzWmZtb1dpY1E3RENLRTgtWFZSV2d5czVwZk9ld3pPWE9OeGpwVExvXzZsRmJPVmNzbVJFdkp4aHZtUkIwbnJwUURCUGd6Ui1hOEpuZGFTZHc?oc=5",
-   "ts": "Sun, 01 Nov 2026 19:06:41 GMT"
+   "title": "Trump says he has ‘concepts of a very good deal’ with Canada - CNN",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb3B3T3NVbWR5bGJwLUpiTDRYbWxKeTRqdGpaVFpPelVtZmtUM1FWOWplakx4bWVjNUJVODM5RnZiOFNvLW5QekZKZElkRU5Jb2VFR2xFODRpVEYzNXFNWVJfUkR5bENWLTZZQk45a2hyUjVBTnpONkhLMVNiaHgwSzA1Sk05SmRGazdwOVJsNlZsdG55LWRZeEJWOXdhOUhq?oc=5",
+   "ts": "Sun, 01 Nov 2026 21:38:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "U.S. and Canada Eye Trade Deal as Trump Revives Keystone XL Pipeline - La Voce di New York",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPem1LcTJwb2pwWGZDcUh3R2RyQVdHeUJ3a20xd1NLUGVId1I2RDFKQWhOdHN6NXJuRHZEanE3VG04ZF9PYjFacF95d2tuOHFNUmM1MHBUQkY0VG1JZGRsV3pqNmc5VThXSDJpZ2NaeUk0U2FudktkWGtmVHVXRFJ5NW13bVdmaXFJMlA2X19FMVhoN2dsRTJQdXpKcFVsUWxfa2Z5RUpBUEd5TkdaNFVaQnNBc3JrMFEwX1FZ?oc=5",
-   "ts": "Mon, 02 Nov 2026 11:10:22 GMT"
+   "title": "Democratic Strategies to Challenge Trump's Tariffs - GV Wire",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcU5rTV9kZkY2bGExMjJCX0tUOU5zUV82bjg4MmJxN0J3T1hvZG9GZXhFRlVNT2NFbkl1WnVnU0ZRU1RFbFhWRm5YbTNWdmhTTEMxRUFKcnJ0bXFzUmQtQlpSQXlwYTc0UWpzWmZtb1dpY1E3RENLRTgtWFZSV2d5czVwZk9ld3pPWE9OeGpwVExvXzZsRmJPVmNzbVJFdkp4aHZtUkIwbnJwUURCUGd6Ui1hOEpuZGFTZHc?oc=5",
+   "ts": "Sun, 01 Nov 2026 19:06:41 GMT"
   }
  ]
 }

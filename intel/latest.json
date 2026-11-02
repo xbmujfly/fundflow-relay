@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-02T06:30:36Z",
+ "ts": "2026-11-02T06:45:31Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -370,6 +371,18 @@
   },
   {
    "src": "gnews",
+   "title": "Carney signals progress on Canada-US trade deal talks as midterms loom - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzM2N25iblh4YVR1a2t4RGxRSDB4cFRjMGJGUkJHQlY3OGxHS2ZnVE1jRWxZT0F1S0pIS3pIMV9JZmVwU0ZpOWdKMmxRWG1Ua1h6b2FqdFNqTjhvTTd4TENOQzIxQzlmbTFVcWJqejJWaDVCd1ZKZE9wdkxXN014SWxHU0dUTUVObHo2aUVnVS1kM2gxWTNJM3lqVFB5djkzSHpiTzgyTGphMFE1YWt0bNIBtgFBVV95cUxQYzFEZVNkLXJVT0UyZmRQUEVPYVluVUdvcW1hTUV5TVV4ZjBZNng4WWJXRkZDTEk3bHBxUG91Ym02Q1VSWjF6Zm4yQ3VMZmY4SndEenJ2QnBEcXp1RTJFLUVwN2k1RF94NU9wZlBIZzBDc004UHhiV0tXRmN0M201d3dsNjNQZk5OSEduTGlxVGN0dHBPclo1cnJQbFpMUHBDZnBzXzVBcTJXYl9JX3dXSHdra3VUdw?oc=5",
+   "ts": "Sun, 01 Nov 2026 21:04:46 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Is Using a Trade Law Relic to Illegally Punish Canada - The Dispatch",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Oc1hFZTByalJ0N19aaWp3cmwxSmNHcXFLRlZlZWtLY2tCdG5sZFJNTlBCcThQUEUzc292YUpGcnB2MjZyUzVSRw?oc=5",
+   "ts": "Mon, 02 Nov 2026 06:02:54 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
    "ts": "Thu, 29 Oct 2026 16:23:22 GMT"
@@ -388,21 +401,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Is Using a Trade Law Relic to Illegally Punish Canada - The Dispatch",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vSkhheFFpcEVKVXV1dGFWZndTNFBvQXVrdE9vaWZHcjRESnExZDJRYnU3eThIUmUwSVdzS3NYQUVLUm9wYWx6LWNmX3dhV3NIOUNDYzZnNjJnSENSVE4wZmlBUmVHNDBkUUNveHB1VEFfdDFXRktjWmpwcWV0QQ?oc=5",
-   "ts": "Mon, 02 Nov 2026 06:02:54 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Democratic Strategies to Challenge Trump's Tariffs - GV Wire",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcU5rTV9kZkY2bGExMjJCX0tUOU5zUV82bjg4MmJxN0J3T1hvZG9GZXhFRlVNT2NFbkl1WnVnU0ZRU1RFbFhWRm5YbTNWdmhTTEMxRUFKcnJ0bXFzUmQtQlpSQXlwYTc0UWpzWmZtb1dpY1E3RENLRTgtWFZSV2d5czVwZk9ld3pPWE9OeGpwVExvXzZsRmJPVmNzbVJFdkp4aHZtUkIwbnJwUURCUGd6Ui1hOEpuZGFTZHc?oc=5",
    "ts": "Sun, 01 Nov 2026 19:06:41 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney signals progress on Canada-US trade deal talks as midterms loom - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzM2N25iblh4YVR1a2t4RGxRSDB4cFRjMGJGUkJHQlY3OGxHS2ZnVE1jRWxZT0F1S0pIS3pIMV9JZmVwU0ZpOWdKMmxRWG1Ua1h6b2FqdFNqTjhvTTd4TENOQzIxQzlmbTFVcWJqejJWaDVCd1ZKZE9wdkxXN014SWxHU0dUTUVObHo2aUVnVS1kM2gxWTNJM3lqVFB5djkzSHpiTzgyTGphMFE1YWt0bNIBtgFBVV95cUxQYzFEZVNkLXJVT0UyZmRQUEVPYVluVUdvcW1hTUV5TVV4ZjBZNng4WWJXRkZDTEk3bHBxUG91Ym02Q1VSWjF6Zm4yQ3VMZmY4SndEenJ2QnBEcXp1RTJFLUVwN2k1RF94NU9wZlBIZzBDc004UHhiV0tXRmN0M201d3dsNjNQZk5OSEduTGlxVGN0dHBPclo1cnJQbFpMUHBDZnBzXzVBcTJXYl9JX3dXSHdra3VUdw?oc=5",
-   "ts": "Sun, 01 Nov 2026 21:04:46 GMT"
   },
   {
    "src": "gnews",
@@ -412,9 +413,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump, Carney revive U.S.-Canada trade talks ahead of midterms (CAD:USD:) (CAD:USD:) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV05COHZXcXkyaDN6YVZzbG5nN1NBZTB4NThLNE9XNEZVTUNjangtM1JPb2FOODZHQlBOWk5mZnI5UDRCOTRPOXBucGxxcERyZk1FWjNfbUpaakl3b1dEWWoxRF9sMldrR0phUGdFTGxpS3o3X2RuRWpldEVHdVpMaVB2ZmVCVUg1U2c4YWh2NXpqSlExdHlJaDJvYkpaekE?oc=5",
-   "ts": "Sun, 01 Nov 2026 20:14:56 GMT"
+   "title": "China’s soaring chemical exports threaten new trade war front - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
+   "ts": "Mon, 02 Nov 2026 06:43:12 GMT"
   },
   {
    "src": "gnews",
@@ -442,141 +443,21 @@
   },
   {
    "src": "gnews",
+   "title": "Trump, Carney revive U.S.-Canada trade talks ahead of midterms (CAD:USD:) (CAD:USD:) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV05COHZXcXkyaDN6YVZzbG5nN1NBZTB4NThLNE9XNEZVTUNjangtM1JPb2FOODZHQlBOWk5mZnI5UDRCOTRPOXBucGxxcERyZk1FWjNfbUpaakl3b1dEWWoxRF9sMldrR0phUGdFTGxpS3o3X2RuRWpldEVHdVpMaVB2ZmVCVUg1U2c4YWh2NXpqSlExdHlJaDJvYkpaekE?oc=5",
+   "ts": "Sun, 01 Nov 2026 20:14:56 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Carney has 'good conversation' with Trump on future of Canada-U.S. trade as midterms near - CBC",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRl9udWxXWnVkQV9rd0F1c0psMjJ0VEZ3WDVCRks4RGhVN1o1OGVHX2ZobmZVemNIekV5S2xuQWVmRzVLaWhNdFlKaXhnZ2xyeGRFMkxLSG56S2tJVzktTUtOX3lkT1Yyc2xaeXN3ZkJtMzBHdUh5Szc4RG9UdC1ySXhDcw?oc=5",
    "ts": "Sun, 01 Nov 2026 16:47:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms - Washington Times",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVVlKTG1kTmtuSVI0MFBKVTVJZDk5VGpLcXZZeWNIbFJBcHNFNVdISXFWSmF5SG5tNHM0c2ExbTFUbEhKanVXYVA4RWtVSzFmQ0M2R1oyRGxvMjVhV0Y1dzM2dzRHOVR3bS03WEwxaUVaczFaaEhobk5ybm4wamFIaUxsR29DaTBucWR0dUZBajJBbGxiWTNOR3VJSkNGeXpVT2wzLWJRcGZQSU9vWXV0UVFB?oc=5",
-   "ts": "Sun, 01 Nov 2026 18:39:11 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney says he had 'good conversation' with Trump about trade, talks to continue - Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2UyZjl0aFlBbDM0XzZyeFFqYndLcXpBTjhCNzE0bnVrMmZUQzE4cGExTDVOR2xPaGU0UTVvWnliSDVKQk5HSC1tQ1V2VllHeVltZldxYVhXTDIxWGVSTklrdjA2Q2xkLWJpbXo0aDM1S2N0cFFuQkNrTko5NkpvVE1MYzVCS1VaREE?oc=5",
-   "ts": "Sun, 01 Nov 2026 17:44:07 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Asian Markets Trade Mixed",
-   "url": "https://www.rttnews.com/3703088/asian-markets-trade-mixed.aspx",
-   "ts": "20261027T051500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says White House needed repainting and repairs , blasts Obama over upkeep",
-   "url": "https://fox56.com/news/nation-world/president-donald-trump-says-white-house-needed-repainting-and-repairs-blasts-barack-obama-over-upkeep-ballroom-the-cheesecake-factories-rose-garden-north-portico-east-wing-x-socials-menu",
-   "ts": "20261027T051500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says White House needed repainting and repairs , blasts Obama over upkeep",
-   "url": "https://fox17.com/news/nation-world/president-donald-trump-says-white-house-needed-repainting-and-repairs-blasts-barack-obama-over-upkeep-ballroom-the-cheesecake-factories-rose-garden-north-portico-east-wing-x-socials-menu",
-   "ts": "20261027T051500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "New Details of Allegation Against Trump in House Democrat Epstein Report",
-   "url": "https://drudge.com/news/295178/new-details-allegation-against-trump",
-   "ts": "20261027T051500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "전쟁 · 관세 청구서 받아든 유권자 ... 트럼프 외교 심판대 올라 [ 11 · 3 중간선거 … 미국의 선택은 ]( 3 ) ",
-   "url": "https://www.fnnews.com/news/202610241838147461",
-   "ts": "20261027T051500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Melania Trump - brokered one - city ceasefire between Russia and Ukraine takes effect",
-   "url": "https://cyprusnews.eu/cnn-kosmos/melania-trump-brokered-one-city-ceasefire-between-russia-and-ukraine-takes-effect/",
-   "ts": "20261027T051500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US consumer sentiment near record low as inflation fears persist",
-   "url": "http://www.myanmarnews.net/news/279395118/us-consumer-sentiment-near-record-low-as-inflation-fears-persist",
-   "ts": "20261027T051500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Oil Companies Warned Over Russian Diesel Imports | Newstalk 1400 , 104 . 5 , and 105 . 9 WJMX",
-   "url": "https://newstalk1400online.iheart.com/content/2026-10-27-oil-companies-warned-over-russian-diesel-imports/",
-   "ts": "20261027T051500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Money Flows To SD Senate Race As Independent Challenges Republican Incumbent",
-   "url": "https://www.yankton.net/community/article_df41d1ce-0cf2-4aba-9774-73f3157980fc.html",
-   "ts": "20261027T051500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Early voting counts down as candidates are hot on the campaign trail",
-   "url": "https://www.atlantanewsfirst.com/2026/10/27/early-voting-counts-down-candidates-are-hot-campaign-trail/",
-   "ts": "20261027T051500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Σε μια εβδομάδα να τελειώνουμε με τις παλαβομάρες ... ",
-   "url": "https://www.politis.com.cy/apopseis/1058493/se-mia-evdomada-na-teleiwnoyme-me-tis-palavomares",
-   "ts": "20261027T051500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Seven days to the midterms . What at stake in Pennsylvania . | Local News",
-   "url": "https://www.phillytrib.com/news/local_news/seven-days-to-the-midterms-what-s-at-stake-in-pennsylvania/article_26a06a2a-8000-4051-8cce-3077283a2fe8.html",
-   "ts": "20261027T051500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Venäjän miehittämässä Oleshkyssa alkoi Melania Trumpin ilmoittama aselepo",
-   "url": "https://www.kouvolansanomat.fi/uutissuomalainen/9903628",
-   "ts": "20261027T051500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Дмитриев посоветовал чиновникам ЕС учиться миротворчеству у Трампа :: Новости дня / ВЗГЛЯД",
-   "url": "https://vz.ru/news/2026/10/27/1468282.html",
-   "ts": "20261027T051500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Lula wins Brazil vote despite Bolsonaro challenge",
-   "url": "http://www.milwaukeesun.com/news/279398697/lula-wins-brazil-vote-despite-bolsonaro-challenge",
-   "ts": "20261027T051500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ట్రంప్ యంత్రాంగం నుంచి వైదొలగనున్న సీడీసీ డిప్యూటీ డైరెక్టర్ జెన్నిఫర్ షుఫోర్డ్",
-   "url": "https://www.suryaa.com/telugu-news/international/trmp-ymtramgm-numchi-vaidolaganunna-seedeesee-dipyootee-dairektar-jenniphar-shuphord",
-   "ts": "20261027T051500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
-   "url": "https://www.wuft.org/2026-10-26/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
-   "ts": "20261027T051500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Neil Young Sues Trump PAC For $10M Over Song Use | Newstalk 1400 , 104 . 5 , and 105 . 9 WJMX",
-   "url": "https://newstalk1400online.iheart.com/content/2026-10-27-neil-young-sues-trump-pac-for-10m-over-song-use/",
-   "ts": "20261027T051500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "5 things to watch from the Federal Reserve next meeting",
-   "url": "https://www.thesunchronicle.com/business/5-things-to-watch-from-the-federal-reserves-next-meeting/article_7fe45c06-8782-5837-af1d-665ff6a49949.html",
-   "ts": "20261027T051500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  증시 본격 반등은 11월 중순 이후부터 … 美 중간선거 불확실성 여전",
-   "url": "https://www.fnnews.com/news/202610271143363910",
-   "ts": "20261027T051500Z"
+   "title": "UK making up China policy ‘as it goes along’, MPs warn - The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWG1rM1VkUjU2bUdnYWVZSlZnbjVfS092ZGIwRnNkaWpKMkpocmtMamcydjFHM1AySWtKU2l3ejIzNWdEdFVTQThEbkZjeENKUXB3RTdoeWFFOW9uUmsycEZ1VTNtekNNcWJsQkdoUlZLMGhVNzJWd2JFM1lNMHJoR2ltT05tSjlMTEhpT21hN0U2ZnNlX3NRNHRtUQ?oc=5",
+   "ts": "Mon, 02 Nov 2026 05:00:00 GMT"
   }
  ]
 }

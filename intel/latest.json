@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-02T06:45:31Z",
+ "ts": "2026-11-02T07:00:38Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,12 +341,6 @@
   },
   {
    "src": "gnews",
-   "title": "Trump floats 'concept' of US-Canada deal that includes pipeline talking to Carney - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2ZUM3VWU2twNlU5YnJfamYzWWJtaDV3bm5WTFZMNHpWWVdwSk1BY1REWjl2cEsweU5UQ3ZjbkZkWVlkNFZKZFRDb0tNUFJ0bXVBczAwdWNsV19uMFNCUnNWRHZ0T1NNQ1ZoV2lvY0piVFgzY1lJWnN4bWE0eU16cllQUW9WSGJKSUJQY3FGeDhqN2JJdmJnZkt1MjdXc1hscE1zdGxqQ1NIeFJsUVRvLUxjTlA?oc=5",
-   "ts": "Sun, 01 Nov 2026 18:44:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Canada's Carney reports progress in trade talks with U.S. and Trump talks up 'concept' of a deal - PBS",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXdDTGJYWklRa09zNVZrZGpGa3ptMkN6eTBVbGw5V01RVl9VTktCMVNpSmFFWGR5YWJpUkJmQVUxeUNTSm5tYlJvQ05SNTFUQVZ3Z1NfbE9UVmQydDZ5LTk2YS12S3R3VzY2cHptSktvaUdmR3FOamhENFY5bG1LOFRVQzdGV09iY2Y1VGZ5Vi1oQThBWVQ4Q3V5aG9tajNZXzBwSVBOaTVKd1ZVazhHYkxCb09wVFd2OHlzeE1wSS1fTXJXNlNlaDRuanhwUdIB0wFBVV95cUxOTHBudWVpLWJfSkQ5RkJiay1FeWRtYzJmUnpRMEFzeXZzWlZqcDBqOUNmcE05cm54cnNhU0EwU2prTXg1Ml9tdUdlcGxHbWhXZXliZVV2WjZYWDlGSHVBcG1HNTVuUG1XX3F0a3FwWWQ3NFdDaG1FanlCbFcyT3dlTzZhRGx6TWJpZGxZbWJuVVctQ2tOdjl6NWc5enMwWm9EOWNxcjdYU2xXdU03YVBRa2RWblBkclF4RzNSMGV1MFNHQWxQUm81SmlvX0pGWE9MVW84?oc=5",
    "ts": "Sun, 01 Nov 2026 18:00:43 GMT"
@@ -365,21 +359,27 @@
   },
   {
    "src": "gnews",
+   "title": "Oman proposes preferential trade, investment deal with China - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaldCWTJJZTNHNW8xTDdVZkxtWkdkazhTeWRnVWxsbFNKRU13RlhzdndMQ21JVC1KMzBXalQzZllxT2J3SkVGdmQtVXBVRGJ6Y2tEbFRiT29IWEVjZ0ZrUnlIcnVfTk9WTllKdWdnWkJFRXJwYjNsWmV6dm1rTXlZQnV4OHRaZ1V2WEpWNklNWGQ2WDd5a1hQT3QxQjllX2VO?oc=5",
+   "ts": "Mon, 02 Nov 2026 04:32:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Mark Carney says US, Canada teams will work on trade deal in ‘coming weeks’ - Politico",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRl9ZRnBLZVpTOXNpZVMxNmxwX2hvdjgxLWlRWElxMkFkcW52ejNkU3FzU2JLR1h3WnRCMFJ3WGVZSm51VEFlUnc3R2tLazdzUC0xbC1NRmJIcHFZdUQ0VWxnNzkybmppVGVHT2doRkVpanQwQjFkT3FxcUVfMEpGdlp0dw?oc=5",
    "ts": "Sun, 01 Nov 2026 20:06:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Carney signals progress on Canada-US trade deal talks as midterms loom - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzM2N25iblh4YVR1a2t4RGxRSDB4cFRjMGJGUkJHQlY3OGxHS2ZnVE1jRWxZT0F1S0pIS3pIMV9JZmVwU0ZpOWdKMmxRWG1Ua1h6b2FqdFNqTjhvTTd4TENOQzIxQzlmbTFVcWJqejJWaDVCd1ZKZE9wdkxXN014SWxHU0dUTUVObHo2aUVnVS1kM2gxWTNJM3lqVFB5djkzSHpiTzgyTGphMFE1YWt0bNIBtgFBVV95cUxQYzFEZVNkLXJVT0UyZmRQUEVPYVluVUdvcW1hTUV5TVV4ZjBZNng4WWJXRkZDTEk3bHBxUG91Ym02Q1VSWjF6Zm4yQ3VMZmY4SndEenJ2QnBEcXp1RTJFLUVwN2k1RF94NU9wZlBIZzBDc004UHhiV0tXRmN0M201d3dsNjNQZk5OSEduTGlxVGN0dHBPclo1cnJQbFpMUHBDZnBzXzVBcTJXYl9JX3dXSHdra3VUdw?oc=5",
-   "ts": "Sun, 01 Nov 2026 21:04:46 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump Is Using a Trade Law Relic to Illegally Punish Canada - The Dispatch",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Oc1hFZTByalJ0N19aaWp3cmwxSmNHcXFLRlZlZWtLY2tCdG5sZFJNTlBCcThQUEUzc292YUpGcnB2MjZyUzVSRw?oc=5",
    "ts": "Mon, 02 Nov 2026 06:02:54 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney signals progress on Canada-US trade deal talks as midterms loom - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzM2N25iblh4YVR1a2t4RGxRSDB4cFRjMGJGUkJHQlY3OGxHS2ZnVE1jRWxZT0F1S0pIS3pIMV9JZmVwU0ZpOWdKMmxRWG1Ua1h6b2FqdFNqTjhvTTd4TENOQzIxQzlmbTFVcWJqejJWaDVCd1ZKZE9wdkxXN014SWxHU0dUTUVObHo2aUVnVS1kM2gxWTNJM3lqVFB5djkzSHpiTzgyTGphMFE1YWt0bNIBtgFBVV95cUxQYzFEZVNkLXJVT0UyZmRQUEVPYVluVUdvcW1hTUV5TVV4ZjBZNng4WWJXRkZDTEk3bHBxUG91Ym02Q1VSWjF6Zm4yQ3VMZmY4SndEenJ2QnBEcXp1RTJFLUVwN2k1RF94NU9wZlBIZzBDc004UHhiV0tXRmN0M201d3dsNjNQZk5OSEduTGlxVGN0dHBPclo1cnJQbFpMUHBDZnBzXzVBcTJXYl9JX3dXSHdra3VUdw?oc=5",
+   "ts": "Sun, 01 Nov 2026 21:04:46 GMT"
   },
   {
    "src": "gnews",
@@ -407,27 +407,21 @@
   },
   {
    "src": "gnews",
-   "title": "Trump says he has ‘concepts of a very good deal’ with Canada - CNN",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb3B3T3NVbWR5bGJwLUpiTDRYbWxKeTRqdGpaVFpPelVtZmtUM1FWOWplakx4bWVjNUJVODM5RnZiOFNvLW5QekZKZElkRU5Jb2VFR2xFODRpVEYzNXFNWVJfUkR5bENWLTZZQk45a2hyUjVBTnpONkhLMVNiaHgwSzA1Sk05SmRGazdwOVJsNlZsdG55LWRZeEJWOXdhOUhq?oc=5",
-   "ts": "Sun, 01 Nov 2026 21:38:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s soaring chemical exports threaten new trade war front - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
    "ts": "Mon, 02 Nov 2026 06:43:12 GMT"
   },
   {
    "src": "gnews",
-   "title": "Oman proposes preferential trade, investment deal with China - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaldCWTJJZTNHNW8xTDdVZkxtWkdkazhTeWRnVWxsbFNKRU13RlhzdndMQ21JVC1KMzBXalQzZllxT2J3SkVGdmQtVXBVRGJ6Y2tEbFRiT29IWEVjZ0ZrUnlIcnVfTk9WTllKdWdnWkJFRXJwYjNsWmV6dm1rTXlZQnV4OHRaZ1V2WEpWNklNWGQ2WDd5a1hQT3QxQjllX2VO?oc=5",
-   "ts": "Mon, 02 Nov 2026 04:32:00 GMT"
+   "title": "Trump says he has ‘concepts of a very good deal’ with Canada - CNN",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb3B3T3NVbWR5bGJwLUpiTDRYbWxKeTRqdGpaVFpPelVtZmtUM1FWOWplakx4bWVjNUJVODM5RnZiOFNvLW5QekZKZElkRU5Jb2VFR2xFODRpVEYzNXFNWVJfUkR5bENWLTZZQk45a2hyUjVBTnpONkhLMVNiaHgwSzA1Sk05SmRGazdwOVJsNlZsdG55LWRZeEJWOXdhOUhq?oc=5",
+   "ts": "Sun, 01 Nov 2026 21:38:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "China’s 5,000-Ton Digging Machines Are a Trade War Risk to India - Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTd2YzlxNEVRbFZDZU95azllUlVZQ1pSZmpEODdKSl9DS2I3bWhsbWtjcjE5WjRlVG03VnBDY3lyN3hESVluM2RRaXdaX216Q2dzcEVpR0o3UWVZVlFIUFQxRE5qRTdaeHZ3Z0xydEkwX0FBdXRCZFJMaXVwdEdUaERNOXQ5VWNReXJSbGdHQkh6WEU3ZWNCOHl6bHJaV2kzN0c1SEs2Y1IwdEFyaFd6cWpEeVlYdw?oc=5",
-   "ts": "Mon, 02 Nov 2026 02:00:00 GMT"
+   "title": "Trump, Carney revive U.S.-Canada trade talks ahead of midterms (CAD:USD:) (CAD:USD:) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV05COHZXcXkyaDN6YVZzbG5nN1NBZTB4NThLNE9XNEZVTUNjangtM1JPb2FOODZHQlBOWk5mZnI5UDRCOTRPOXBucGxxcERyZk1FWjNfbUpaakl3b1dEWWoxRF9sMldrR0phUGdFTGxpS3o3X2RuRWpldEVHdVpMaVB2ZmVCVUg1U2c4YWh2NXpqSlExdHlJaDJvYkpaekE?oc=5",
+   "ts": "Sun, 01 Nov 2026 20:14:56 GMT"
   },
   {
    "src": "gnews",
@@ -437,15 +431,15 @@
   },
   {
    "src": "gnews",
-   "title": "China's Ma reverses U.S. job plan due to trade war - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zV2I5eC02ZUw3X3B2ckU3d0YyZW5IMlkyc1JQc3hPa3VDdWFpQlhlUm9id0NQOHJQOUNXNEdicHRxeV9mUzhtODlPcGN5SlFPc3lOOGZsZllxb2dw?oc=5",
-   "ts": "Mon, 02 Nov 2026 00:29:14 GMT"
+   "title": "China’s 5,000-Ton Digging Machines Are a Trade War Risk to India - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTd2YzlxNEVRbFZDZU95azllUlVZQ1pSZmpEODdKSl9DS2I3bWhsbWtjcjE5WjRlVG03VnBDY3lyN3hESVluM2RRaXdaX216Q2dzcEVpR0o3UWVZVlFIUFQxRE5qRTdaeHZ3Z0xydEkwX0FBdXRCZFJMaXVwdEdUaERNOXQ5VWNReXJSbGdHQkh6WEU3ZWNCOHl6bHJaV2kzN0c1SEs2Y1IwdEFyaFd6cWpEeVlYdw?oc=5",
+   "ts": "Mon, 02 Nov 2026 02:00:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump, Carney revive U.S.-Canada trade talks ahead of midterms (CAD:USD:) (CAD:USD:) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV05COHZXcXkyaDN6YVZzbG5nN1NBZTB4NThLNE9XNEZVTUNjangtM1JPb2FOODZHQlBOWk5mZnI5UDRCOTRPOXBucGxxcERyZk1FWjNfbUpaakl3b1dEWWoxRF9sMldrR0phUGdFTGxpS3o3X2RuRWpldEVHdVpMaVB2ZmVCVUg1U2c4YWh2NXpqSlExdHlJaDJvYkpaekE?oc=5",
-   "ts": "Sun, 01 Nov 2026 20:14:56 GMT"
+   "title": "China's Ma reverses U.S. job plan due to trade war - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zV2I5eC02ZUw3X3B2ckU3d0YyZW5IMlkyc1JQc3hPa3VDdWFpQlhlUm9id0NQOHJQOUNXNEdicHRxeV9mUzhtODlPcGN5SlFPc3lOOGZsZllxb2dw?oc=5",
+   "ts": "Mon, 02 Nov 2026 00:29:14 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +452,12 @@
    "title": "UK making up China policy ‘as it goes along’, MPs warn - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWG1rM1VkUjU2bUdnYWVZSlZnbjVfS092ZGIwRnNkaWpKMkpocmtMamcydjFHM1AySWtKU2l3ejIzNWdEdFVTQThEbkZjeENKUXB3RTdoeWFFOW9uUmsycEZ1VTNtekNNcWJsQkdoUlZLMGhVNzJWd2JFM1lNMHJoR2ltT05tSjlMTEhpT21hN0U2ZnNlX3NRNHRtUQ?oc=5",
    "ts": "Mon, 02 Nov 2026 05:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms - Washington Times",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVVlKTG1kTmtuSVI0MFBKVTVJZDk5VGpLcXZZeWNIbFJBcHNFNVdISXFWSmF5SG5tNHM0c2ExbTFUbEhKanVXYVA4RWtVSzFmQ0M2R1oyRGxvMjVhV0Y1dzM2dzRHOVR3bS03WEwxaUVaczFaaEhobk5ybm4wamFIaUxsR29DaTBucWR0dUZBajJBbGxiWTNOR3VJSkNGeXpVT2wzLWJRcGZQSU9vWXV0UVFB?oc=5",
+   "ts": "Sun, 01 Nov 2026 18:39:11 GMT"
   }
  ]
 }

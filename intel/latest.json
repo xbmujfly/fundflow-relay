@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-02T03:45:30Z",
+ "ts": "2026-11-02T04:00:32Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,15 +341,15 @@
   },
   {
    "src": "gnews",
-   "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
-   "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Canada's Carney reports progress in trade talks with U.S. and Trump talks up 'concept' of a deal - PBS",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXdDTGJYWklRa09zNVZrZGpGa3ptMkN6eTBVbGw5V01RVl9VTktCMVNpSmFFWGR5YWJpUkJmQVUxeUNTSm5tYlJvQ05SNTFUQVZ3Z1NfbE9UVmQydDZ5LTk2YS12S3R3VzY2cHptSktvaUdmR3FOamhENFY5bG1LOFRVQzdGV09iY2Y1VGZ5Vi1oQThBWVQ4Q3V5aG9tajNZXzBwSVBOaTVKd1ZVazhHYkxCb09wVFd2OHlzeE1wSS1fTXJXNlNlaDRuanhwUdIB0wFBVV95cUxOTHBudWVpLWJfSkQ5RkJiay1FeWRtYzJmUnpRMEFzeXZzWlZqcDBqOUNmcE05cm54cnNhU0EwU2prTXg1Ml9tdUdlcGxHbWhXZXliZVV2WjZYWDlGSHVBcG1HNTVuUG1XX3F0a3FwWWQ3NFdDaG1FanlCbFcyT3dlTzZhRGx6TWJpZGxZbWJuVVctQ2tOdjl6NWc5enMwWm9EOWNxcjdYU2xXdU03YVBRa2RWblBkclF4RzNSMGV1MFNHQWxQUm81SmlvX0pGWE9MVW84?oc=5",
    "ts": "Sun, 01 Nov 2026 18:00:43 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
+   "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -377,12 +377,6 @@
   },
   {
    "src": "gnews",
-   "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before US midterms - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaFNDUkpVYzhNa3VKeV9ydVZxcUthc3dLOHBjbE9MUGZBNUxHUzVNV2R6TGl5aU95Rk1kbjdQbEhOYl9iWEJXdno2czNTX1dTbVV4VXdqeTVTbERYcDAxbENTTUdYd1h6cnJLaGlEMUdpbXR5M1FDd19yLTJNZmhjbzM2VlhRZHJzcm9kVng2UUVjOWhzYjBGYmF3aG9PY01NY1BVcVVjdW5Yc05qaG9rd2hXWdIBuAFBVV95cUxPejEtNkwtTDRTVC1RdXZCTTFVdFB0RkROSUFfVTZFel9MQ213b3BlZHZWaG41UTh3WDd6WGt2OGVfWldzb1NvQWVMR0lrbk9nNkozZnFGc2tkLU5NT1RpQ0s5cDdRRnJPcGp3VmZqRkFrRVdKcEwxTENCTVZVMXllVTJpTkdmSWVrZUMyZklYRUJzMXpYZ3RScUN0bFd3dGI0VFY5bXpicTdlLXpOMENEYlFyV2QwUTd1?oc=5",
-   "ts": "Sun, 01 Nov 2026 18:15:18 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney signals progress on Canada-US trade deal talks as midterms loom - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzM2N25iblh4YVR1a2t4RGxRSDB4cFRjMGJGUkJHQlY3OGxHS2ZnVE1jRWxZT0F1S0pIS3pIMV9JZmVwU0ZpOWdKMmxRWG1Ua1h6b2FqdFNqTjhvTTd4TENOQzIxQzlmbTFVcWJqejJWaDVCd1ZKZE9wdkxXN014SWxHU0dUTUVObHo2aUVnVS1kM2gxWTNJM3lqVFB5djkzSHpiTzgyTGphMFE1YWt0bNIBtgFBVV95cUxQYzFEZVNkLXJVT0UyZmRQUEVPYVluVUdvcW1hTUV5TVV4ZjBZNng4WWJXRkZDTEk3bHBxUG91Ym02Q1VSWjF6Zm4yQ3VMZmY4SndEenJ2QnBEcXp1RTJFLUVwN2k1RF94NU9wZlBIZzBDc004UHhiV0tXRmN0M201d3dsNjNQZk5OSEduTGlxVGN0dHBPclo1cnJQbFpMUHBDZnBzXzVBcTJXYl9JX3dXSHdra3VUdw?oc=5",
    "ts": "Sun, 01 Nov 2026 21:04:46 GMT"
@@ -401,15 +395,27 @@
   },
   {
    "src": "gnews",
-   "title": "Trump says US, Canada have ‘concept’ of a new trade deal - WTAQ",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY184LTQ5UHdtQ3BDMHpacXJPc1A5UmlrRkw5NGVEdm0zaDFiWWllVEk0VEtoYjQ3SFJra2xfSHp1QTFHc3hVbV91NUZGUzBfSU1ndk9vMENTYVhnR3YxZW1IMHJBTmQtalVqYjFDMTlHUF9Ib2NDTUZJYTdkZklHeGtrWV9maGRIN2c?oc=5",
-   "ts": "Mon, 02 Nov 2026 00:20:39 GMT"
+   "title": "Trump, Carney revive U.S.-Canada trade talks ahead of midterms (CAD:USD:) (CAD:USD:) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV05COHZXcXkyaDN6YVZzbG5nN1NBZTB4NThLNE9XNEZVTUNjangtM1JPb2FOODZHQlBOWk5mZnI5UDRCOTRPOXBucGxxcERyZk1FWjNfbUpaakl3b1dEWWoxRF9sMldrR0phUGdFTGxpS3o3X2RuRWpldEVHdVpMaVB2ZmVCVUg1U2c4YWh2NXpqSlExdHlJaDJvYkpaekE?oc=5",
+   "ts": "Sun, 01 Nov 2026 20:14:56 GMT"
   },
   {
    "src": "gnews",
    "title": "Carney has 'good conversation' with Trump on future of Canada-U.S. trade as midterms near - CBC",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRl9udWxXWnVkQV9rd0F1c0psMjJ0VEZ3WDVCRks4RGhVN1o1OGVHX2ZobmZVemNIekV5S2xuQWVmRzVLaWhNdFlKaXhnZ2xyeGRFMkxLSG56S2tJVzktTUtOX3lkT1Yyc2xaeXN3ZkJtMzBHdUh5Szc4RG9UdC1ySXhDcw?oc=5",
    "ts": "Sun, 01 Nov 2026 16:47:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms - Washington Times",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVVlKTG1kTmtuSVI0MFBKVTVJZDk5VGpLcXZZeWNIbFJBcHNFNVdISXFWSmF5SG5tNHM0c2ExbTFUbEhKanVXYVA4RWtVSzFmQ0M2R1oyRGxvMjVhV0Y1dzM2dzRHOVR3bS03WEwxaUVaczFaaEhobk5ybm4wamFIaUxsR29DaTBucWR0dUZBajJBbGxiWTNOR3VJSkNGeXpVT2wzLWJRcGZQSU9vWXV0UVFB?oc=5",
+   "ts": "Sun, 01 Nov 2026 18:39:11 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says he had 'good conversation' with Trump about trade, talks to continue - Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2UyZjl0aFlBbDM0XzZyeFFqYndLcXpBTjhCNzE0bnVrMmZUQzE4cGExTDVOR2xPaGU0UTVvWnliSDVKQk5HSC1tQ1V2VllHeVltZldxYVhXTDIxWGVSTklrdjA2Q2xkLWJpbXo0aDM1S2N0cFFuQkNrTko5NkpvVE1MYzVCS1VaREE?oc=5",
+   "ts": "Sun, 01 Nov 2026 17:44:07 GMT"
   },
   {
    "src": "gnews",
@@ -431,33 +437,27 @@
   },
   {
    "src": "gnews",
-   "title": "Carney says he had 'good conversation' with Trump about trade, talks to continue - Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2UyZjl0aFlBbDM0XzZyeFFqYndLcXpBTjhCNzE0bnVrMmZUQzE4cGExTDVOR2xPaGU0UTVvWnliSDVKQk5HSC1tQ1V2VllHeVltZldxYVhXTDIxWGVSTklrdjA2Q2xkLWJpbXo0aDM1S2N0cFFuQkNrTko5NkpvVE1MYzVCS1VaREE?oc=5",
-   "ts": "Sun, 01 Nov 2026 17:44:07 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s stocks rebound from worst sell-off in decade amid hope of state support - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZzZYVjdfVTBqdHM0SEtrMFJ4cDAtdG4zMkkteTR4eEZwZXVsUXpMQTVIOTZYVUdycE54Q09ZUFNSZllNVVF4c0JpRzY3RFpfZkIwekZtdldNN0NDV3NHNG5wVk9lWklxNVBqcERsVF9qOEhxbDRKUTdtU21raC1jbE92bmNpRF9zY29naWpHTHZMU21CSWZYMi1SWTFSX2J4QnNDRUx2Y1FEUWpJY2xYWFc0SXpIcXRKUUFNNTFJOWxMdG1yWklvaEk1dllOV0xONlHSAdIBQVVfeXFMTWVPSm9tS1ltQVllRzhmSGltcDZBSFVRdGxmeU9Xc0RITzJMa3hZV1N3cEppTEdLc29aRXpmZVJ4MFNteTdQRUVLTDJZcVdhY1ZoNEJ4dmtQY3dTRXF1d3hrTEs0S0dYY0thSV9kZkwzald5bjhVbmsyNU5nbTh0OU9PbFIwbGdpS2ViZFlqUWY3aG5Bcm9YdTBlYjViZFpiUUxKLUxHN19nRXM2eXFTMVZ5MHVjYWNudS1wSDJ2R1JaZW1ldlJlMUJDbERFRy1ua0p3?oc=5",
    "ts": "Mon, 02 Nov 2026 02:22:38 GMT"
   },
   {
    "src": "gnews",
-   "title": "Canada's Carney reports progress in trade talks with US. Trump talks up 'concept' of a deal - Oskaloosa Herald",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPV1dxdzl3MTRrR2dzOExjWUlQWnNUZVJCdWV1R0FwNmRKWWR6RXBXa3p3aHlIYnpJWDhCcHZCQ1dwOUFZbFlyTGVsR0NRVTRVaHM5a0hqVlRfVDV5by1ES2c4MklWOGU3UjFfbWlaeERIbEFZbjE0ZVota2pzRGJEZ09NZHJ0R1hxS3MxWTdEX1lOYTA5V1A2YVA1dTd3SGVRV25HQld6NlMyX1pac2E5YkloS2k3ZE9PM21SZlhWUWd6WElUUmwwWVJyTXFsWjJpOGRnVS1GYXJOUGNnT0hpSWF5WTFPMTB4UEVHUnIxbkpVQUtsZHpIRThWX2JCSm4xYUJWYkl5MFU?oc=5",
-   "ts": "Sun, 01 Nov 2026 21:24:19 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Washing away the US: Tariff evasion on the other side of the US–China trade war - CEPR",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdXFOOE9ybUFrVGNraFdvaWNEdDM1YXlVdU1xTVNFdW1aTUVlYkNyeUtoRGJVNXJkeUF3WXE4Y3c0ZVJsTldybDA4UFEydDdEcUN0TnBlTHVJcnhDb1ZPSTBMcFBLSU5fdERrRlNONEx4bUItMEZiaVRLMzBmbnFBLVRLTTR4MlZzNFl2UE1IMlc0VURjeUE?oc=5",
-   "ts": "Mon, 26 Oct 2026 00:55:04 GMT"
+   "title": "Trump Says US, Canada Have 'Concept' of a New Trade Deal - US News Money",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR0h1VmhRRFBSODVMZG5waG93SXFFNHNOU3JvbHZxeVF2UWhNeXN2UDBRMFB2SkxiY19uWHdTck5obFVNM2JRd09HVHk0dW0wZnBUUHFPRWx0alUySzhZbmhndEk0Y0FqeEFvNDk4YVJRd2dRektkRFlZN2FqRUtmTTd0ZVhYNEU4UUFKalBQRXdWWnBHWTBKbTNodjF6MmdBdTBELVhWNDNxUmlHQjRhVVdRUQ?oc=5",
+   "ts": "Sun, 01 Nov 2026 21:26:20 GMT"
   },
   {
    "src": "gnews",
    "title": "From rifles to radar: China upgrades African arms trade as Russia, West retreat - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRnJtVFFvYS1PSzRPdTh6Qm1nek9jZHpqQTdGeUxsU1hhbWdWUXlQNHMzY2NNeExIa1lQM0pFZWFzZUpJaFhXTU1wVVpESXA2TDBfaHRrT21BMGxjNEk0eXZsSGtkUm1Wd0lmYVZGaFFuR2FQLVpfMHA5c1lyTUwxMkpQaGg4OGxGSG9wWGlaSDU0X3ZnYkw5WDF0ajhJdmxkcWN5S0xfTlVMbU1Ic2lVSkpDaFJHejQxQ3pSelQwQkYwX1lPdzIyQjJBVHXSAcwBQVVfeXFMT1hVZU15TGc2UlpndmtMQ3l2OERSdDhqV1Jwakt1azZXZ1JuUGZTS1V3aUFNN2Y3S0NuaTBNdFh3LUtDdVZWQVVnRVpUbUtUNHkzOUN1QzZmQzAxUGc0Wkh1VHpEc0ZaS1IyM21jTEE1N29QVTJyLW9fTHh1XzJrU0Q2b0dvR3liaElNNi1JUllpTXF3aEVHc0RtQ3RWVFdIbVJDeWI3cV9DV3AteGoyeHJ5NFZpTXFtWDVGMzlkdm00VU1TYWkwMHZlb3di?oc=5",
    "ts": "Sun, 01 Nov 2026 10:00:11 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Mark Carney Says He Had a Good Conversation With Donald Trump on Canada-U.S. Trade: 7 outlets compared - NewsCord",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSmRPdV91V2R4QTJ6Mi1KSnJyVjJDSU9rSmJXN3pUYmZqcnRkMUVUQ1pRVDA4TDVfYTgzU29IR3pHZUFoUHdpdkVjWklSX3dlZEtEM1Yxem02LVVuZWEtdXdQMmhnZkdTNjZIcnZ6X1NMUzQzZjFYOUFaT0JoVFR4MjhxMllsdmJJS09BaWoxV1FjTnR0eWQyLVRqRldEd2Y1VVNlMnVTekhIVkNLREZNbmw4a09Lc1ROLVl4ckxSZkk0NmsyTndYbWdLSGN2YjlEXy01ajNRSVE1NE9WUHR3T1FBSmVVa0FjcS0yRDVaNmZSRjd0M1hDWFh0Yw?oc=5",
+   "ts": "Sun, 01 Nov 2026 23:21:51 GMT"
   }
  ]
 }

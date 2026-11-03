@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-03T00:15:28Z",
+ "ts": "2026-11-03T00:30:31Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -425,15 +424,15 @@
   },
   {
    "src": "gnews",
-   "title": "Surging costs and China trade war test US farmers' loyalty to Trump - Nikkei Asia",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZXJqTFdEbnRiRnVtRTc2dmN0VmNUNzRHYnNNSnlFQ3FJRkVsX05fVE1UX21QMUlaWnNfc3E2Wl9LU2V0Zzd6OEtfdXJITklxZ1ZXcEZxMENrMVRiQTdjbnVEbmc4bzRLWUp5SHFBV3JJeHpGYTVMaFV2N1FrRWpzYWo4dHUwUGNJMnpNeEpVbjVuSnpEWVEtMlFkV3VzUWo4RERkbDg2VVNmaHdKUU42T3FrS0Nidzg5OUF6eVROaw?oc=5",
-   "ts": "Mon, 02 Nov 2026 05:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump Says US-Canada Trade Deal Is Close After Talks With Carney - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0FUU1FQR1dZRDZVcXBERWhJVEFWd0NSZ3hOTDFmZTlTQWRnTWt5eVZPdUR2Q0sxSHp0ZFhOMllONHE0aU04aWxDbndOaU45ZWhnUFFfZ0FVMElMVngyU0F5NzV0ZjJ2dWxHYV9UMGhZeGU1V1liZ0t5M1Rsa3RvVWNOXzlId04tcEplUW96M2JTUUZpSmVnNVRhU2dfaHpIaS1sM2UwbWlzam5Pb21HV04zb3o?oc=5",
    "ts": "Sun, 01 Nov 2026 22:26:53 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Surging costs and China trade war test US farmers' loyalty to Trump - Nikkei Asia",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZXJqTFdEbnRiRnVtRTc2dmN0VmNUNzRHYnNNSnlFQ3FJRkVsX05fVE1UX21QMUlaWnNfc3E2Wl9LU2V0Zzd6OEtfdXJITklxZ1ZXcEZxMENrMVRiQTdjbnVEbmc4bzRLWUp5SHFBV3JJeHpGYTVMaFV2N1FrRWpzYWo4dHUwUGNJMnpNeEpVbjVuSnpEWVEtMlFkV3VzUWo4RERkbDg2VVNmaHdKUU42T3FrS0Nidzg5OUF6eVROaw?oc=5",
+   "ts": "Mon, 02 Nov 2026 05:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +457,126 @@
    "title": "World's largest economy shuts out South Africa, Rwanda from trade benefits across its $33 trillion market as Trump finalises AGOA decision - Business Insider Africa",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ3JLMWZVQ2NLMWJvM2x0UnhBT3BMWUR2Tzc5YzlJdHhUWVRLV1Z1eFE5UHRuVndyMmJKdTZ1UExYdC1nT09VOE1wb0NCZFpUZjJLN0Jld3BOeWdZTC1uTUI5eWhMNGRwT3o3ZmdkUjJINWxqdHR3ZVpGamFrbU9XUVNMQ0pGMXFxYVU3aTBGU05SRC1qeGRldm1zU0ZMZHlZdDNzcDFfeVg1ZjBTelAwTmVKaG1zNzdhOFM0R1RTR0g0UWZnSWdjN0kwdjlISkxJMFBMWnVFTQ?oc=5",
    "ts": "Mon, 02 Nov 2026 18:51:13 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Asian Markets Trade Mixed",
+   "url": "https://www.rttnews.com/3703088/asian-markets-trade-mixed.aspx",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump says White House needed repainting and repairs , blasts Obama over upkeep",
+   "url": "https://fox56.com/news/nation-world/president-donald-trump-says-white-house-needed-repainting-and-repairs-blasts-barack-obama-over-upkeep-ballroom-the-cheesecake-factories-rose-garden-north-portico-east-wing-x-socials-menu",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump says White House needed repainting and repairs , blasts Obama over upkeep",
+   "url": "https://fox17.com/news/nation-world/president-donald-trump-says-white-house-needed-repainting-and-repairs-blasts-barack-obama-over-upkeep-ballroom-the-cheesecake-factories-rose-garden-north-portico-east-wing-x-socials-menu",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "New Details of Allegation Against Trump in House Democrat Epstein Report",
+   "url": "https://drudge.com/news/295178/new-details-allegation-against-trump",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "전쟁 · 관세 청구서 받아든 유권자 ... 트럼프 외교 심판대 올라 [ 11 · 3 중간선거 … 미국의 선택은 ]( 3 ) ",
+   "url": "https://www.fnnews.com/news/202610241838147461",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Melania Trump - brokered one - city ceasefire between Russia and Ukraine takes effect",
+   "url": "https://cyprusnews.eu/cnn-kosmos/melania-trump-brokered-one-city-ceasefire-between-russia-and-ukraine-takes-effect/",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US consumer sentiment near record low as inflation fears persist",
+   "url": "http://www.myanmarnews.net/news/279395118/us-consumer-sentiment-near-record-low-as-inflation-fears-persist",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Oil Companies Warned Over Russian Diesel Imports | Newstalk 1400 , 104 . 5 , and 105 . 9 WJMX",
+   "url": "https://newstalk1400online.iheart.com/content/2026-10-27-oil-companies-warned-over-russian-diesel-imports/",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Money Flows To SD Senate Race As Independent Challenges Republican Incumbent",
+   "url": "https://www.yankton.net/community/article_df41d1ce-0cf2-4aba-9774-73f3157980fc.html",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Early voting counts down as candidates are hot on the campaign trail",
+   "url": "https://www.atlantanewsfirst.com/2026/10/27/early-voting-counts-down-candidates-are-hot-campaign-trail/",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Σε μια εβδομάδα να τελειώνουμε με τις παλαβομάρες ... ",
+   "url": "https://www.politis.com.cy/apopseis/1058493/se-mia-evdomada-na-teleiwnoyme-me-tis-palavomares",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Seven days to the midterms . What at stake in Pennsylvania . | Local News",
+   "url": "https://www.phillytrib.com/news/local_news/seven-days-to-the-midterms-what-s-at-stake-in-pennsylvania/article_26a06a2a-8000-4051-8cce-3077283a2fe8.html",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Venäjän miehittämässä Oleshkyssa alkoi Melania Trumpin ilmoittama aselepo",
+   "url": "https://www.kouvolansanomat.fi/uutissuomalainen/9903628",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Дмитриев посоветовал чиновникам ЕС учиться миротворчеству у Трампа :: Новости дня / ВЗГЛЯД",
+   "url": "https://vz.ru/news/2026/10/27/1468282.html",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Lula wins Brazil vote despite Bolsonaro challenge",
+   "url": "http://www.milwaukeesun.com/news/279398697/lula-wins-brazil-vote-despite-bolsonaro-challenge",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "ట్రంప్ యంత్రాంగం నుంచి వైదొలగనున్న సీడీసీ డిప్యూటీ డైరెక్టర్ జెన్నిఫర్ షుఫోర్డ్",
+   "url": "https://www.suryaa.com/telugu-news/international/trmp-ymtramgm-numchi-vaidolaganunna-seedeesee-dipyootee-dairektar-jenniphar-shuphord",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
+   "url": "https://www.wuft.org/2026-10-26/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Neil Young Sues Trump PAC For $10M Over Song Use | Newstalk 1400 , 104 . 5 , and 105 . 9 WJMX",
+   "url": "https://newstalk1400online.iheart.com/content/2026-10-27-neil-young-sues-trump-pac-for-10m-over-song-use/",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "5 things to watch from the Federal Reserve next meeting",
+   "url": "https://www.thesunchronicle.com/business/5-things-to-watch-from-the-federal-reserves-next-meeting/article_7fe45c06-8782-5837-af1d-665ff6a49949.html",
+   "ts": "20261027T051500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  증시 본격 반등은 11월 중순 이후부터 … 美 중간선거 불확실성 여전",
+   "url": "https://www.fnnews.com/news/202610271143363910",
+   "ts": "20261027T051500Z"
   }
  ]
 }

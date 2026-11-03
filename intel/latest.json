@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-03T23:30:26Z",
+ "ts": "2026-11-03T23:45:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -377,12 +377,6 @@
   },
   {
    "src": "gnews",
-   "title": "Will China Shock 2.0 trigger an EU-China trade war? - ABN AMRO",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTWpRcTJqcmt3ekVTcy1GdTFFZ1o4ZllUNXZMeUFUR3hvOFRRX2ZjUXdtaC1iWFRZdFMyQnN4ckNNMmdhQjhERHlGVlhvRk92cEtvVE1MNHJqYzhZd0tlRHJ5aXBMeWc2Tl9yWVdHSi1ra0VsdW45WWRueG5VNjlnb2o1UWFvUVAwaEtsZDgxX2RYaFBfSDlvcFRJQzdVSlp6?oc=5",
-   "ts": "Tue, 03 Nov 2026 09:05:19 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms - MPR News",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHc1QVBGdDlLNXBiZ21Ya3c1bkNzaEdlOXJRUDd0NWhnRFBvcjRZcHFzWnFwdkFUVlNzMkFpQ1VNMkZsMXBQdWJXbnFKbXVxV0ZiaXZwNUtUbUdUdzFIeDlBOW11alBabGZqRFNpd09TZncwX0IxNFM0c2lZbzQ1cmtXbW5GNWVQM1BLVzU2d1RlSnpjUzZSYWE0NEIxTS1FMGxIQTVyano?oc=5",
    "ts": "Sun, 01 Nov 2026 21:14:58 GMT"
@@ -395,9 +389,9 @@
   },
   {
    "src": "gnews",
-   "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
-   "ts": "Thu, 29 Oct 2026 16:23:22 GMT"
+   "title": "Trump says US close to trade deal with Canada, Carney says work remains - The Detroit News",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1I3ZXNjaGVuZU9iZ2RhV3BuYzZFVkNRRDJsb0piXzJuNXVLcmhXMHBQRkJ4MklSb1N3aGlJNmVjWWJtUHp5eGg4eUh2NVR3dEJMa1dBN1hod0UxT3VndFBtTDljUUVRS3BqRUM4MzczSzJkLW51Y2JvZW04dWZpU21Cazhvallia2N5Zm1pR1otcTlJRUZwbkpiREZmSmM5M1E?oc=5",
+   "ts": "Tue, 03 Nov 2026 23:34:00 GMT"
   },
   {
    "src": "gnews",
@@ -425,12 +419,6 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Says US Is Close to Making a Trade Deal With Canada - GV Wire",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXlDeUpPQUlpb3A0aHljdkZnYkJIQUFvMnJLenhrd0tTMDhEMVRMNW8wVUpaUURmMDRpb2k1eldERWpIYlJtU3d6MGNQMmRXTU9jaVYtSFlURFEzc3lnaElUZTlGUi1mRERzNUZVTHNTanZpZVpwOHViaENuZW5sVDk0aENjcnd1bWhHeEQ0VFNpUQ?oc=5",
-   "ts": "Tue, 03 Nov 2026 16:11:25 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Agoa: Why Trump wan remove Rwanda and South Africa from US trade deal - BBC",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wbHBZSFJQTXhJQV9XR2tvUkpkbUk0N2RmTkhPWWVFVXR3RjhuOV9qRVFfdktkVjYtVDRLVGxXZGpuTXhIRG5PcVFLeXdaYTZLUkRyaHc2T0tsUV9lTGfSAWNBVV95cUxPQ1NUTWt2czhpWkU4T0R2VHBHOEVsVWlZWEs0MF8yYnk3QXo0d2s5MmpVRnRwY18yV2ltNWRVZ2VPQ09PTjE2WlZHMGdZWXB5YXV3V3ltaFdyaVo0bkFxVmFqd1k?oc=5",
    "ts": "Tue, 03 Nov 2026 16:11:05 GMT"
@@ -443,9 +431,15 @@
   },
   {
    "src": "gnews",
-   "title": "China trade accord with Swiss bucks wider trend towards protectionism - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkQ4YmJ3dHdaYVYzcXlkcUQ1V19QMU9mQ2tFd1RuQ1NEckN3ZTIxSFMzSkJxQzQ1UjdXTDVjRzlwdHNpUE13dUJKS19hQ0hndHlTdThtOEpLU1g5NXcxWnphT0RMME5TVDZLa2MySGZGMGdPVDF2QWdGVmpsN05fRk9jRmJZOFBsakdiT2I1X1lVYkpSUTFROHU0RFZGdnRvOXdYRlc4VnZRTzIyWG4xUU50SzRVRl8zaEZJS2lUaS1EZw?oc=5",
-   "ts": "Thu, 29 Oct 2026 23:06:00 GMT"
+   "title": "Trump Removes South Africa From the African Growth and Opportunity Act Trade Program - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFRqMVNkZnhKUEh5MFhnY3NwbDlqMWN2cXM1U2JuZzBYNWNQejFVb1VkVTB4M1BmQzJLOGUzZmNaLThZaV9QRXRwaGVqOUhQT1dxZnpiYnNzYXhRcHBja01jTTRkMzMyVWFzNEpnQTZPVlZsYUVvb2ZSblNWdjVCcnZmc3VYMHR1b1Fsd3gwZmhrOWpG?oc=5",
+   "ts": "Mon, 02 Nov 2026 19:14:50 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "South Africa braces for some job losses as US trade benefits end - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZTlrOFlkVWh5U3FDTVhjc3pmdThYY1NvbVVZWlRsNFNfNUo2S0dJRVpDTFBGeFFvZmRQU0V0VHB1TmxVV2x0ZUJ6NXh6WkxRNmNpTHFMSGlyWHNnLWdLdXdYYVhtMFcwWXlxX0VXU1BJNFNTaGlLUDhzRzQ0WG5JNFVpaW9mSzhpWkVfd2d2LTRteV9lajRVbVpjTkRWZ3BuR3VIc3MyWFgzdw?oc=5",
+   "ts": "Tue, 03 Nov 2026 16:32:09 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "South Africa braces for some job losses as US trade benefits end - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZTlrOFlkVWh5U3FDTVhjc3pmdThYY1NvbVVZWlRsNFNfNUo2S0dJRVpDTFBGeFFvZmRQU0V0VHB1TmxVV2x0ZUJ6NXh6WkxRNmNpTHFMSGlyWHNnLWdLdXdYYVhtMFcwWXlxX0VXU1BJNFNTaGlLUDhzRzQ0WG5JNFVpaW9mSzhpWkVfd2d2LTRteV9lajRVbVpjTkRWZ3BuR3VIc3MyWFgzdw?oc=5",
-   "ts": "Tue, 03 Nov 2026 16:32:09 GMT"
+   "title": "PODCAST: What the EU-China car quota means for world trade - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWhiNVFZMXdBUldpNU8tX1hkLTB4anktejUzSzhCV1VZLXdSbmhuNm9Ob0VfclB6bUozVjJBMldRcEZfeUlWeFpNeXhVeDdfcTRtQ3R4TnFKb1d5aDVlbHpDZ3pJLW0yYnpqNXdJUld5cDNGLW80ekJzdXB6RjI0bUFfa3I1Z3BkOENiYlIzcHF6OTlXa3FvNENaWTZYa1I3?oc=5",
+   "ts": "Tue, 03 Nov 2026 04:58:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Top Trade Expert: China Will Respond Swiftly if EU Escalates Trade Tensions - Geopolitechs",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZUWJCRTRiRk1IWDhYSXk1UzFEcFRwRjVfY09ONGZnYS1JeDBSWGlwengwUDV4bHJxa1FUSVJXZ0Vyc1dfd2FlTXVmYVhrdkc4SUNOdmFXRlM0a0lBYWhNQ2tqUldtOTlsZVVPWExxeDc3X3Jx?oc=5",
+   "ts": "Tue, 03 Nov 2026 10:36:12 GMT"
   }
  ]
 }

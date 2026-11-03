@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-03T10:30:26Z",
+ "ts": "2026-11-03T10:45:24Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -407,6 +407,12 @@
   },
   {
    "src": "gnews",
+   "title": "Top Trade Expert: China Will Respond Swiftly if EU Escalates Trade Tensions - Geopolitechs",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZUWJCRTRiRk1IWDhYSXk1UzFEcFRwRjVfY09ONGZnYS1JeDBSWGlwengwUDV4bHJxa1FUSVJXZ0Vyc1dfd2FlTXVmYVhrdkc4SUNOdmFXRlM0a0lBYWhNQ2tqUldtOTlsZVVPWExxeDc3X3Jx?oc=5",
+   "ts": "Tue, 03 Nov 2026 10:36:12 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump says U.S. and Canada have concept for new trade deal - The Journal Record",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ2UxX053RGZrYUNNOFFtNmEtNWZ4TmdLZHhaZGpFUDBsWjBXdElhRG5zTHlid0x4Rm9nemc2Ql9HUGVzYjMtd2htTGZraHY2WGQ5SGVkdHptTV9lWXFyaGNiQjVndnYtem5keEVjUkFwY0cxRFh0RzItWFlNWW90dnRrTEVPNUpTc3pj?oc=5",
    "ts": "Mon, 02 Nov 2026 16:41:10 GMT"
@@ -428,12 +434,6 @@
    "title": "Nvidia Tells Cloud Clients to Take on Less China Business - The Information",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGtoQlE0LXdzU3MzQmhGZF9ncC1WdnozOFJRbTRsRGFzS21wOUlxTHRjS0kxMXNkUENDajFxdGxuRDlTTld2Snd5dmVESVlxS2RVLVdIdm9meWtjbGdseEhtbEdGXzN3bVQ1UGtwc3FZYWprVk1neEI0RWpkS1B4T1lFV1htMUlmZmFCOFpSYmsxVXhrRW9z?oc=5",
    "ts": "Tue, 03 Nov 2026 06:46:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Mark Carney says US, Canada teams will work on trade deal in ‘coming weeks’ - Politico",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRl9ZRnBLZVpTOXNpZVMxNmxwX2hvdjgxLWlRWElxMkFkcW52ejNkU3FzU2JLR1h3WnRCMFJ3WGVZSm51VEFlUnc3R2tLazdzUC0xbC1NRmJIcHFZdUQ0VWxnNzkybmppVGVHT2doRkVpanQwQjFkT3FxcUVfMEpGdlp0dw?oc=5",
-   "ts": "Sun, 01 Nov 2026 20:06:00 GMT"
   },
   {
    "src": "gnews",

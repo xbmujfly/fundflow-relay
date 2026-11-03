@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-03T03:45:28Z",
+ "ts": "2026-11-03T04:00:31Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -349,7 +349,7 @@
    "src": "gnews",
    "title": "How Trump’s trade policy is handing Asia to Beijing - Fortune",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWWR6M2dPSURHeDRiNnlycm9fWG9iR3IzU0U1c1R2V2pRYlBEUVNSVDllVDJXMlZiYU13X3drQkpuUVNhT0RPMUotM0tadjFxMlZHVHdqV1d3aXJXREZ5WEF3bzBVZWFMT1VCNjJldGl6SWJUUEpPWmJlS3FkanRlVnFfamk2ZVZMUVE?oc=5",
-   "ts": "Mon, 02 Nov 2026 13:32:59 GMT"
+   "ts": "Mon, 02 Nov 2026 13:50:28 GMT"
   },
   {
    "src": "gnews",
@@ -395,15 +395,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump, Carney signal progress on U.S.-Canada trade deal as automotive tariff uncertainty persists - Car Dealership Guy News",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYXlxV3g5WEJ0WUV1bXFQbXlNVGhWM1RUdXhDak5BTXdVQlpyNURkVl9RVHZSU3VHaUE2SXlHWFhpWVQ5V09qZ0ZpSkh2SER6bVZ2MHZBaG9aTExYQXNhZF9mMEF5N0Y3bzZuNUxNVTNBX1JWcWp6b1c2MHA5ZHJVQXV2OWRRcHVzQTB1YlRhWWNHcWdhdzB3bjN2aHQ0NDh4TW5POXdqU01KbUt3SzV5aUc0a2I3NXVmVDE0aF9HR2xIMGpOVHQw?oc=5",
-   "ts": "Mon, 02 Nov 2026 23:46:29 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "White House cites S. Korean trade deal, Alaska gas project among Trump's fulfilled pledges - The Korea Herald",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4ZzU5MklhMjdGQ0p6OVpGeENDUVRlaVlMbVlYRVlzNXlvendIMkRCcU5hT2dxZWNmUlhoSU5nckZQdzJ1aHBXZ0RQSTVpamFLaEVVd2M3dw?oc=5",
    "ts": "Tue, 03 Nov 2026 00:01:48 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump, Carney signal progress on U.S.-Canada trade deal as automotive tariff uncertainty persists - Car Dealership Guy News",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYXlxV3g5WEJ0WUV1bXFQbXlNVGhWM1RUdXhDak5BTXdVQlpyNURkVl9RVHZSU3VHaUE2SXlHWFhpWVQ5V09qZ0ZpSkh2SER6bVZ2MHZBaG9aTExYQXNhZF9mMEF5N0Y3bzZuNUxNVTNBX1JWcWp6b1c2MHA5ZHJVQXV2OWRRcHVzQTB1YlRhWWNHcWdhdzB3bjN2aHQ0NDh4TW5POXdqU01KbUt3SzV5aUc0a2I3NXVmVDE0aF9HR2xIMGpOVHQw?oc=5",
+   "ts": "Mon, 02 Nov 2026 23:46:29 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "Mechanical engineering: After a golden era, a trade deficit with China looms - Table.Briefings",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaGJud3ZJcFU3dERPckVDcm9pWS10ckNzcUVOTDFLaDR5M3FmUGJOT2h0SmdpS01UTjlOamVVUWotMm5BZTdyaGcwdk0xUE54WVMtY2pfVTlHWERiSlQ2TUNxbzUwekdkT1F3S3NKbUQ4QzlfSVZ0MVNCZ2dDNVdVQWl2YkdxZnJteTJxTTdoVjBSZVlFVVdfXzhXb0h2VjFuZk1EYmVjQ0ZSUXFtQ1RuR3FRQnlNX0d6VGNLcA?oc=5",
-   "ts": "Mon, 02 Nov 2026 21:16:28 GMT"
+   "title": "Washing away the US: Tariff evasion on the other side of the US–China trade war - CEPR",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdXFOOE9ybUFrVGNraFdvaWNEdDM1YXlVdU1xTVNFdW1aTUVlYkNyeUtoRGJVNXJkeUF3WXE4Y3c0ZVJsTldybDA4UFEydDdEcUN0TnBlTHVJcnhDb1ZPSTBMcFBLSU5fdERrRlNONEx4bUItMEZiaVRLMzBmbnFBLVRLTTR4MlZzNFl2UE1IMlc0VURjeUE?oc=5",
+   "ts": "Mon, 26 Oct 2026 00:55:04 GMT"
   }
  ]
 }

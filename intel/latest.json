@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-03T02:00:47Z",
+ "ts": "2026-11-03T02:15:28Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,12 +341,6 @@
   },
   {
    "src": "gnews",
-   "title": "How Trump’s trade policy is handing Asia to Beijing - Fortune",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWWR6M2dPSURHeDRiNnlycm9fWG9iR3IzU0U1c1R2V2pRYlBEUVNSVDllVDJXMlZiYU13X3drQkpuUVNhT0RPMUotM0tadjFxMlZHVHdqV1d3aXJXREZ5WEF3bzBVZWFMT1VCNjJldGl6SWJUUEpPWmJlS3FkanRlVnFfamk2ZVZMUVE?oc=5",
-   "ts": "Mon, 02 Nov 2026 23:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China's slow buying of US farm goods tests $17 billion trade pledge - Reuters",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGp4TlZzUzhLZkJsbVoyLWVtTVNHUmMtWVNteFpvbE9vYkZhcWxUSTdwQ0JyYi14MzdCN2dqeEU1Rkw5NHZISnhzbVV0Wno3U3M2b3FkRFdlXzBkdW5OT3RKRU5DamhSOWh1WVQyVk5ucG83amhtMDdqNWUwR2xianV2MUNtQ1Y0Qmo1QXJmOWd3SnB3eVZDcHpCZFFXc1MwamktYlRMeVhRc3FlZUlr?oc=5",
    "ts": "Mon, 02 Nov 2026 10:16:42 GMT"
@@ -356,6 +350,12 @@
    "title": "Trump Removes South Africa From the African Growth and Opportunity Act Trade Program - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFRqMVNkZnhKUEh5MFhnY3NwbDlqMWN2cXM1U2JuZzBYNWNQejFVb1VkVTB4M1BmQzJLOGUzZmNaLThZaV9QRXRwaGVqOUhQT1dxZnpiYnNzYXhRcHBja01jTTRkMzMyVWFzNEpnQTZPVlZsYUVvb2ZSblNWdjVCcnZmc3VYMHR1b1Fsd3gwZmhrOWpG?oc=5",
    "ts": "Mon, 02 Nov 2026 21:01:03 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "How Trump’s trade policy is handing Asia to Beijing - Fortune",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWWR6M2dPSURHeDRiNnlycm9fWG9iR3IzU0U1c1R2V2pRYlBEUVNSVDllVDJXMlZiYU13X3drQkpuUVNhT0RPMUotM0tadjFxMlZHVHdqV1d3aXJXREZ5WEF3bzBVZWFMT1VCNjJldGl6SWJUUEpPWmJlS3FkanRlVnFfamk2ZVZMUVE?oc=5",
+   "ts": "Mon, 02 Nov 2026 13:02:59 GMT"
   },
   {
    "src": "gnews",
@@ -443,21 +443,21 @@
   },
   {
    "src": "gnews",
+   "title": "China trade accord with Swiss bucks wider trend towards protectionism - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkQ4YmJ3dHdaYVYzcXlkcUQ1V19QMU9mQ2tFd1RuQ1NEckN3ZTIxSFMzSkJxQzQ1UjdXTDVjRzlwdHNpUE13dUJKS19hQ0hndHlTdThtOEpLU1g5NXcxWnphT0RMME5TVDZLa2MySGZGMGdPVDF2QWdGVmpsN05fRk9jRmJZOFBsakdiT2I1X1lVYkpSUTFROHU0RFZGdnRvOXdYRlc4VnZRTzIyWG4xUU50SzRVRl8zaEZJS2lUaS1EZw?oc=5",
+   "ts": "Thu, 29 Oct 2026 23:06:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US to suspend South Africa and Rwanda from duty-free trade access - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTXBRdlBrbE5GVUt6UUhpRWFyUUNFTlBtSTAtdXgyaDA1OFl6ajZTQWg1SGlTakZXRXFNc0x4V1QtMHdmc1Vpb0ZWUGxlai1xR2xJTDd5YnVfZXBuY3ZyU1JDQk5tWU5PMEUwZlV2NGpGamg3SEZ0clF1NzA2R25McW52dzk0aGxLUkVnXzFwNlRpYlY3SlR2ckJnNHZPOUx6ZHNzNg?oc=5",
+   "ts": "Mon, 02 Nov 2026 22:59:03 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump administration will cut South Africa and Rwanda from the AGOA trade program - The Killeen Daily Herald",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY1JWZzZ5NHVuU3JiblItLUoxd2F4bGF4RmZQMUhJYnhIX1lTVU15Tl92elRqMnVIMjQ5dmJsRjd5N21tLXRUclB5VzRwWHBwTjFtTWdJTWJhRmJWYzZkdDBoWUd5VFdqTHB1MHZSZmltM3hCaVRfcDlCMUtYVDFSMmlHNmVzYzFUNFByMzdTdWJJQkExZlNhU0ZhaUNhQlFxV0lWNEFrRDJRMWZfdEdlUk5Cb0ZFbTcxT09SZkJYX1RaemV4bzh6WVhYRnNQbndiVllhNFhJNzJaSXVhVXQ5SUozNEdudWhJNUhneFFnNF93U3dx?oc=5",
    "ts": "Mon, 02 Nov 2026 21:01:07 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Mark Carney says US, Canada teams will work on trade deal in ‘coming weeks’ - Politico",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRl9ZRnBLZVpTOXNpZVMxNmxwX2hvdjgxLWlRWElxMkFkcW52ejNkU3FzU2JLR1h3WnRCMFJ3WGVZSm51VEFlUnc3R2tLazdzUC0xbC1NRmJIcHFZdUQ0VWxnNzkybmppVGVHT2doRkVpanQwQjFkT3FxcUVfMEpGdlp0dw?oc=5",
-   "ts": "Sun, 01 Nov 2026 20:06:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China's Xi says Middle East should not become battleground for great power rivalry - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaldCWTJJZTNHNW8xTDdVZkxtWkdkazhTeWRnVWxsbFNKRU13RlhzdndMQ21JVC1KMzBXalQzZllxT2J3SkVGdmQtVXBVRGJ6Y2tEbFRiT29IWEVjZ0ZrUnlIcnVfTk9WTllKdWdnWkJFRXJwYjNsWmV6dm1rTXlZQnV4OHRaZ1V2WEpWNklNWGQ2WDd5a1hQT3QxQjllX2VO?oc=5",
-   "ts": "Mon, 02 Nov 2026 04:32:00 GMT"
   }
  ]
 }

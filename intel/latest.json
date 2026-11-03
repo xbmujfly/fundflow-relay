@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-03T00:45:31Z",
+ "ts": "2026-11-03T01:00:33Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -401,12 +401,6 @@
   },
   {
    "src": "gnews",
-   "title": "White House cites S. Korean trade deal, Alaska gas project among Trump's fulfilled pledges - The Korea Herald",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4ZzU5MklhMjdGQ0p6OVpGeENDUVRlaVlMbVlYRVlzNXlvendIMkRCcU5hT2dxZWNmUlhoSU5nckZQdzJ1aHBXZ0RQSTVpamFLaEVVd2M3dw?oc=5",
-   "ts": "Tue, 03 Nov 2026 00:01:48 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump administration will cut South Africa and Rwanda from the AGOA trade program - Washington Times",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDJjektZRkhoanJORkFFZmZSUnFObHJ5cWpwVlFiWmFBd3U1SEw3ZWpLYno0ZlRsS0kzWE5LZjgxVFduWUVSOERsVDFfQTAxV1FIYVdwbjBWYjFpLU1pTTRta000enJkdDM5UHkxcElpOVBqY3pQV0pYY0N1MUNCWU1hb1dmalFaRnlSV0xhRlhwby01Z1pQOEJBOEpKTUU5SjFrYkV6UTJVSUh3N1lGZGZR?oc=5",
    "ts": "Mon, 02 Nov 2026 21:05:42 GMT"
@@ -425,12 +419,6 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Says US-Canada Trade Deal Is Close After Talks With Carney - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0FUU1FQR1dZRDZVcXBERWhJVEFWd0NSZ3hOTDFmZTlTQWRnTWt5eVZPdUR2Q0sxSHp0ZFhOMllONHE0aU04aWxDbndOaU45ZWhnUFFfZ0FVMElMVngyU0F5NzV0ZjJ2dWxHYV9UMGhZeGU1V1liZ0t5M1Rsa3RvVWNOXzlId04tcEplUW96M2JTUUZpSmVnNVRhU2dfaHpIaS1sM2UwbWlzam5Pb21HV04zb3o?oc=5",
-   "ts": "Sun, 01 Nov 2026 22:26:53 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Surging costs and China trade war test US farmers' loyalty to Trump - Nikkei Asia",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZXJqTFdEbnRiRnVtRTc2dmN0VmNUNzRHYnNNSnlFQ3FJRkVsX05fVE1UX21QMUlaWnNfc3E2Wl9LU2V0Zzd6OEtfdXJITklxZ1ZXcEZxMENrMVRiQTdjbnVEbmc4bzRLWUp5SHFBV3JJeHpGYTVMaFV2N1FrRWpzYWo4dHUwUGNJMnpNeEpVbjVuSnpEWVEtMlFkV3VzUWo4RERkbDg2VVNmaHdKUU42T3FrS0Nidzg5OUF6eVROaw?oc=5",
    "ts": "Mon, 02 Nov 2026 05:00:00 GMT"
@@ -440,6 +428,18 @@
    "title": "Trump administration will cut South Africa and Rwanda from the AGOA trade program - The Killeen Daily Herald",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY1JWZzZ5NHVuU3JiblItLUoxd2F4bGF4RmZQMUhJYnhIX1lTVU15Tl92elRqMnVIMjQ5dmJsRjd5N21tLXRUclB5VzRwWHBwTjFtTWdJTWJhRmJWYzZkdDBoWUd5VFdqTHB1MHZSZmltM3hCaVRfcDlCMUtYVDFSMmlHNmVzYzFUNFByMzdTdWJJQkExZlNhU0ZhaUNhQlFxV0lWNEFrRDJRMWZfdEdlUk5Cb0ZFbTcxT09SZkJYX1RaemV4bzh6WVhYRnNQbndiVllhNFhJNzJaSXVhVXQ5SUozNEdudWhJNUhneFFnNF93U3dx?oc=5",
    "ts": "Mon, 02 Nov 2026 21:01:07 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Mechanical engineering: After a golden era, a trade deficit with China looms - Table.Briefings",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaGJud3ZJcFU3dERPckVDcm9pWS10ckNzcUVOTDFLaDR5M3FmUGJOT2h0SmdpS01UTjlOamVVUWotMm5BZTdyaGcwdk0xUE54WVMtY2pfVTlHWERiSlQ2TUNxbzUwekdkT1F3S3NKbUQ4QzlfSVZ0MVNCZ2dDNVdVQWl2YkdxZnJteTJxTTdoVjBSZVlFVVdfXzhXb0h2VjFuZk1EYmVjQ0ZSUXFtQ1RuR3FRQnlNX0d6VGNLcA?oc=5",
+   "ts": "Mon, 02 Nov 2026 21:16:28 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "TSX futures rise as Trump teases ’Concept’ of Canada trade deal - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHlNOVFLeEctZXN0czBMLUpDS1FXQlVkZ2U0dDNObnktS1BVWlNrRnYzMDl5SGNWd0dUZFZTemhlaFZaY0hGQ09XWU9wV2s4VU0wUDhXMURBUF9hZzQxbGVPMEtDSkQzZW41dnpLU2xiY1FraktIUnA1Q1RDU2l6T2Z0TzRRWGxMX2xvU2NSRXZqcEVNMTl6MjJB?oc=5",
+   "ts": "Mon, 02 Nov 2026 13:04:23 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "TSX futures rise as Trump teases ’Concept’ of Canada trade deal - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHlNOVFLeEctZXN0czBMLUpDS1FXQlVkZ2U0dDNObnktS1BVWlNrRnYzMDl5SGNWd0dUZFZTemhlaFZaY0hGQ09XWU9wV2s4VU0wUDhXMURBUF9hZzQxbGVPMEtDSkQzZW41dnpLU2xiY1FraktIUnA1Q1RDU2l6T2Z0TzRRWGxMX2xvU2NSRXZqcEVNMTl6MjJB?oc=5",
-   "ts": "Mon, 02 Nov 2026 13:04:23 GMT"
+   "title": "White House cites Korean trade deal, Alaska gas project among Trump's fulfilled pledges - Korea JoongAng Daily",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYXpJdXBLNG9IMWxKUnpyaGIwZWRlTTJIZndLWWZ3RTRZTVBGeE1IaHJxWjZ2S2swRk83ZW1OemhrZHNfNXB4Sm9LMUhwaG5fdmQzSlM3UVNkMTNKQmZtWl9XNFBWUXNqQTF1RG9wMi1SUWlvT0swVUdQYUFjTURjQU5FVXE1VVFYR25QYXc4SXdxaUtxU2c2U3hJVkF2Y2VWQkF1aEFob05mY2otMWx4MTVKcGNyQ1UyNlRSMDJZbjlOWU4xMkhvVWZHaS1qb19M?oc=5",
+   "ts": "Mon, 02 Nov 2026 23:36:07 GMT"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-03T06:15:40Z",
+ "ts": "2026-11-03T06:30:37Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -365,12 +365,6 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Removes South Africa From the African Growth and Opportunity Act Trade Program - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFRqMVNkZnhKUEh5MFhnY3NwbDlqMWN2cXM1U2JuZzBYNWNQejFVb1VkVTB4M1BmQzJLOGUzZmNaLThZaV9QRXRwaGVqOUhQT1dxZnpiYnNzYXhRcHBja01jTTRkMzMyVWFzNEpnQTZPVlZsYUVvb2ZSblNWdjVCcnZmc3VYMHR1b1Fsd3gwZmhrOWpG?oc=5",
-   "ts": "Mon, 02 Nov 2026 19:14:50 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump says U.S. and Canada have concept for new trade deal - The Journal Record",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ2UxX053RGZrYUNNOFFtNmEtNWZ4TmdLZHhaZGpFUDBsWjBXdElhRG5zTHlid0x4Rm9nemc2Ql9HUGVzYjMtd2htTGZraHY2WGQ5SGVkdHptTV9lWXFyaGNiQjVndnYtem5keEVjUkFwY0cxRFh0RzItWFlNWW90dnRrTEVPNUpTc3pj?oc=5",
    "ts": "Mon, 02 Nov 2026 16:41:10 GMT"
@@ -395,6 +389,12 @@
   },
   {
    "src": "gnews",
+   "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
+   "ts": "Thu, 29 Oct 2026 16:23:22 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Nvidia Tells Data Center Clients to Trim China Business, FT Says - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEJRRjh3WWlKcE9PTlBDM19qaEVoSUtzSmRzQ0g4Rl9YT1p1WUQtRWhFbjI3WTlxVkhja0s1UFdpaV9Gb3A0RG8wNnF2YWpMMldMdGtvNW03bUVvM0VZZGtCR1gyZmZheldrdHFja2QycUwxZDNZRkpEV2pjRkZmUVBuSUwyQkRORUtUOXpMX2k2Q21ZM1JkUFlEUlg2T2lXTUl1eXQzWUt6NE9WZ3RHdkJPMmM?oc=5",
    "ts": "Tue, 03 Nov 2026 05:39:00 GMT"
@@ -404,6 +404,18 @@
    "title": "China’s soaring chemical exports threaten new trade war front - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
    "ts": "Mon, 02 Nov 2026 06:42:16 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China's AI trade has crashed. Now Beijing is trying to stop the stock market slide. - Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFhlMFNUYXNQYUVKb3FHX3Y3bTRycTNpVDZ2TzJNWkZPUE9KcGpGZ09waTBaaktLc0pOczZtMWRCT2ItU1FoWXFpUGIzb2pvUVdJTXplbkxjS1ZjTUpmVzkyOUR6VlBBUGNKUG5feFEzb0h6TVFSenlRcThJRFdnWE1uUTJLMVNOSFRCVTFJMTdLNmNYMzdsLXAzekVmcUJfb3p2SmNCNGI?oc=5",
+   "ts": "Tue, 03 Nov 2026 05:57:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump will cut South Africa and Rwanda from trade program - WISH-TV",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmZMSHd3Z2ktRHA5R09FQ0wyc3JQQ3V2Q3V1M04wR3dwYi1ZSU85QUFfaW9kc2ROeUZ1NTM3MjV5UXZtQlMtVmc5ZHpIbEhWYWtxM3VVNndER1RTME9NdXJuNHBJdkI5SWhpeGRSV0xLdGVpMWVFUmYwN1MxMm9ndzhjQ0xYOGxoNmFQVmxEcUI5dkwtWllsRHlaZw?oc=5",
+   "ts": "Tue, 03 Nov 2026 00:09:00 GMT"
   },
   {
    "src": "gnews",
@@ -419,18 +431,6 @@
   },
   {
    "src": "gnews",
-   "title": "Trump administration will cut South Africa and Rwanda from the AGOA trade program - dailyadvance.com",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQXp1UWhYYlVRYTJhRmx2cGFTYWV3UmNXbVVzQnR0VEFuS0RDbmk0VU9fRHlYZThmQUZGX2ptb3JlMEZ4OXhNMVd3X203ZS1kNWdZdjV5SEd5dnJiVGUwSDVjUE1MeUN6SFptLVlJOUdZelp4LTdrYWotVG9jbnJENXJ4M2J2Mi1CVS1RcGZVNWRpWDh5N0FydHBieDZfMDF3T2FYd2xtNVFINkZhaGlrcktiSHNyemRqNUg3djVkczllUnprUEZIZ0hSSFFUYVpWTGpZU0FLRlpjRlpxNXlnM3FVd2JlQTJ2MGI1eHFraDFiY1l0eTI2dlhYSV85cmdW?oc=5",
-   "ts": "Tue, 03 Nov 2026 02:15:48 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China's AI trade has crashed. Now Beijing is trying to stop the stock market slide. - Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFhlMFNUYXNQYUVKb3FHX3Y3bTRycTNpVDZ2TzJNWkZPUE9KcGpGZ09waTBaaktLc0pOczZtMWRCT2ItU1FoWXFpUGIzb2pvUVdJTXplbkxjS1ZjTUpmVzkyOUR6VlBBUGNKUG5feFEzb0h6TVFSenlRcThJRFdnWE1uUTJLMVNOSFRCVTFJMTdLNmNYMzdsLXAzekVmcUJfb3p2SmNCNGI?oc=5",
-   "ts": "Tue, 03 Nov 2026 05:57:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Mark Carney says US, Canada teams will work on trade deal in ‘coming weeks’ - Politico",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRl9ZRnBLZVpTOXNpZVMxNmxwX2hvdjgxLWlRWElxMkFkcW52ejNkU3FzU2JLR1h3WnRCMFJ3WGVZSm51VEFlUnc3R2tLazdzUC0xbC1NRmJIcHFZdUQ0VWxnNzkybmppVGVHT2doRkVpanQwQjFkT3FxcUVfMEpGdlp0dw?oc=5",
    "ts": "Sun, 01 Nov 2026 20:06:00 GMT"
@@ -443,9 +443,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump says he feels U.S.-China trade talks 'going to be very successful' - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fWXdNajRyakhNYk43WkdkZjZOYk5xRGJlS2c5YlpmYmtXZnFPUWpFS1RoUmc3cHpiaWdHN0FsZE9Pb1JWLWdoNVdUWVNSY3JuNzRLYlRVVkRtdWJm?oc=5",
-   "ts": "Tue, 03 Nov 2026 04:47:07 GMT"
+   "title": "China trade accord with Swiss bucks wider trend towards protectionism - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkQ4YmJ3dHdaYVYzcXlkcUQ1V19QMU9mQ2tFd1RuQ1NEckN3ZTIxSFMzSkJxQzQ1UjdXTDVjRzlwdHNpUE13dUJKS19hQ0hndHlTdThtOEpLU1g5NXcxWnphT0RMME5TVDZLa2MySGZGMGdPVDF2QWdGVmpsN05fRk9jRmJZOFBsakdiT2I1X1lVYkpSUTFROHU0RFZGdnRvOXdYRlc4VnZRTzIyWG4xUU50SzRVRl8zaEZJS2lUaS1EZw?oc=5",
+   "ts": "Thu, 29 Oct 2026 23:06:00 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "White House cites Korean trade deal, Alaska gas project among Trump's fulfilled pledges - The Korea Times",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUlZZdU5MMjNhMC1TY0IydFNGQnoxenhpNW53RXpxV2tndEFZY1J6RVprZWRVdFRodnI1QmJxR0lXaW1kem02OGpWLWtid3Jud2ZiZmZMbXdDOTFYWnBzY3BkTXVNa1lIRzFnZlZMMnNuYUpySWQxN3Rfcmllb2ZLVXdmVkRHS2JiYUtwcXk3TWlzY3RlLUR2eThLamZkNWhnaW95NHVsV2V1M2owTk92RHBVX053elh3bE9LQkU3el9uMlRKMnJtWTNiRWN2WFBhWjh4QdIB2gFBVV95cUxNSzdHZzN4cWJDb050T29Za3g4cXB0TXlfTy1aZW51UTdDLTl5TEtId29mdzJ3TVpsQ1lRdjFXQ3Y0OHZxbG5zWThxcU9oZXZ0VGpMb3lLd0NiNG9TOHN0ZlpvaGNIQmpUMG5uT2xxeS1OVEZ4R01HdEZweWZTQmEyeV9jOTd6X2FwQTVGWHB3c2dVTjlncnhYTm9tTWZTVEN6QzRHOFJKSDV1V05ZMnFwUjNyeEg4bDRkUGZyQWc4alBNa2NEQXY1NElVZm5jRVRtMmRXM2tfam93Zw?oc=5",
-   "ts": "Mon, 02 Nov 2026 22:23:00 GMT"
+   "title": "Trump says he feels U.S.-China trade talks 'going to be very successful' - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fWXdNajRyakhNYk43WkdkZjZOYk5xRGJlS2c5YlpmYmtXZnFPUWpFS1RoUmc3cHpiaWdHN0FsZE9Pb1JWLWdoNVdUWVNSY3JuNzRLYlRVVkRtdWJm?oc=5",
+   "ts": "Tue, 03 Nov 2026 04:47:07 GMT"
   }
  ]
 }

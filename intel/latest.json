@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-03T00:00:31Z",
+ "ts": "2026-11-03T00:15:28Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -383,6 +383,12 @@
   },
   {
    "src": "gnews",
+   "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
+   "ts": "Thu, 29 Oct 2026 16:23:22 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms - MPR News",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHc1QVBGdDlLNXBiZ21Ya3c1bkNzaEdlOXJRUDd0NWhnRFBvcjRZcHFzWnFwdkFUVlNzMkFpQ1VNMkZsMXBQdWJXbnFKbXVxV0ZiaXZwNUtUbUdUdzFIeDlBOW11alBabGZqRFNpd09TZncwX0IxNFM0c2lZbzQ1cmtXbW5GNWVQM1BLVzU2d1RlSnpjUzZSYWE0NEIxTS1FMGxIQTVyano?oc=5",
    "ts": "Sun, 01 Nov 2026 21:14:58 GMT"
@@ -392,6 +398,12 @@
    "title": "Trump, Carney signal progress on U.S.-Canada trade deal as automotive tariff uncertainty persists - Car Dealership Guy News",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYXlxV3g5WEJ0WUV1bXFQbXlNVGhWM1RUdXhDak5BTXdVQlpyNURkVl9RVHZSU3VHaUE2SXlHWFhpWVQ5V09qZ0ZpSkh2SER6bVZ2MHZBaG9aTExYQXNhZF9mMEF5N0Y3bzZuNUxNVTNBX1JWcWp6b1c2MHA5ZHJVQXV2OWRRcHVzQTB1YlRhWWNHcWdhdzB3bjN2aHQ0NDh4TW5POXdqU01KbUt3SzV5aUc0a2I3NXVmVDE0aF9HR2xIMGpOVHQw?oc=5",
    "ts": "Mon, 02 Nov 2026 23:46:29 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "White House cites S. Korean trade deal, Alaska gas project among Trump's fulfilled pledges - The Korea Herald",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4ZzU5MklhMjdGQ0p6OVpGeENDUVRlaVlMbVlYRVlzNXlvendIMkRCcU5hT2dxZWNmUlhoSU5nckZQdzJ1aHBXZ0RQSTVpamFLaEVVd2M3dw?oc=5",
+   "ts": "Tue, 03 Nov 2026 00:01:48 GMT"
   },
   {
    "src": "gnews",
@@ -431,18 +443,6 @@
   },
   {
    "src": "gnews",
-   "title": "World's largest economy shuts out South Africa, Rwanda from trade benefits across its $33 trillion market as Trump finalises AGOA decision - Business Insider Africa",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ3JLMWZVQ2NLMWJvM2x0UnhBT3BMWUR2Tzc5YzlJdHhUWVRLV1Z1eFE5UHRuVndyMmJKdTZ1UExYdC1nT09VOE1wb0NCZFpUZjJLN0Jld3BOeWdZTC1uTUI5eWhMNGRwT3o3ZmdkUjJINWxqdHR3ZVpGamFrbU9XUVNMQ0pGMXFxYVU3aTBGU05SRC1qeGRldm1zU0ZMZHlZdDNzcDFfeVg1ZjBTelAwTmVKaG1zNzdhOFM0R1RTR0g0UWZnSWdjN0kwdjlISkxJMFBMWnVFTQ?oc=5",
-   "ts": "Mon, 02 Nov 2026 18:51:13 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "TSX futures rise as Trump teases ’Concept’ of Canada trade deal - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHlNOVFLeEctZXN0czBMLUpDS1FXQlVkZ2U0dDNObnktS1BVWlNrRnYzMDl5SGNWd0dUZFZTemhlaFZaY0hGQ09XWU9wV2s4VU0wUDhXMURBUF9hZzQxbGVPMEtDSkQzZW41dnpLU2xiY1FraktIUnA1Q1RDU2l6T2Z0TzRRWGxMX2xvU2NSRXZqcEVNMTl6MjJB?oc=5",
-   "ts": "Mon, 02 Nov 2026 13:04:23 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China trade accord with Swiss bucks wider trend towards protectionism - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkQ4YmJ3dHdaYVYzcXlkcUQ1V19QMU9mQ2tFd1RuQ1NEckN3ZTIxSFMzSkJxQzQ1UjdXTDVjRzlwdHNpUE13dUJKS19hQ0hndHlTdThtOEpLU1g5NXcxWnphT0RMME5TVDZLa2MySGZGMGdPVDF2QWdGVmpsN05fRk9jRmJZOFBsakdiT2I1X1lVYkpSUTFROHU0RFZGdnRvOXdYRlc4VnZRTzIyWG4xUU50SzRVRl8zaEZJS2lUaS1EZw?oc=5",
    "ts": "Thu, 29 Oct 2026 23:06:00 GMT"
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "China’s 5,000-Ton Digging Machines Are a Trade War Risk to India - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTd2YzlxNEVRbFZDZU95azllUlVZQ1pSZmpEODdKSl9DS2I3bWhsbWtjcjE5WjRlVG03VnBDY3lyN3hESVluM2RRaXdaX216Q2dzcEVpR0o3UWVZVlFIUFQxRE5qRTdaeHZ3Z0xydEkwX0FBdXRCZFJMaXVwdEdUaERNOXQ5VWNReXJSbGdHQkh6WEU3ZWNCOHl6bHJaV2kzN0c1SEs2Y1IwdEFyaFd6cWpEeVlYdw?oc=5",
-   "ts": "Mon, 02 Nov 2026 02:00:00 GMT"
+   "title": "World's largest economy shuts out South Africa, Rwanda from trade benefits across its $33 trillion market as Trump finalises AGOA decision - Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ3JLMWZVQ2NLMWJvM2x0UnhBT3BMWUR2Tzc5YzlJdHhUWVRLV1Z1eFE5UHRuVndyMmJKdTZ1UExYdC1nT09VOE1wb0NCZFpUZjJLN0Jld3BOeWdZTC1uTUI5eWhMNGRwT3o3ZmdkUjJINWxqdHR3ZVpGamFrbU9XUVNMQ0pGMXFxYVU3aTBGU05SRC1qeGRldm1zU0ZMZHlZdDNzcDFfeVg1ZjBTelAwTmVKaG1zNzdhOFM0R1RTR0g0UWZnSWdjN0kwdjlISkxJMFBMWnVFTQ?oc=5",
+   "ts": "Mon, 02 Nov 2026 18:51:13 GMT"
   }
  ]
 }

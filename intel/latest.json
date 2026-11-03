@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-03T02:30:35Z",
+ "ts": "2026-11-03T02:45:27Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -389,12 +388,6 @@
   },
   {
    "src": "gnews",
-   "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
-   "ts": "Thu, 29 Oct 2026 16:23:22 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms - MPR News",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHc1QVBGdDlLNXBiZ21Ya3c1bkNzaEdlOXJRUDd0NWhnRFBvcjRZcHFzWnFwdkFUVlNzMkFpQ1VNMkZsMXBQdWJXbnFKbXVxV0ZiaXZwNUtUbUdUdzFIeDlBOW11alBabGZqRFNpd09TZncwX0IxNFM0c2lZbzQ1cmtXbW5GNWVQM1BLVzU2d1RlSnpjUzZSYWE0NEIxTS1FMGxIQTVyano?oc=5",
    "ts": "Sun, 01 Nov 2026 21:14:58 GMT"
@@ -455,9 +448,135 @@
   },
   {
    "src": "gnews",
+   "title": "Mark Carney says US, Canada teams will work on trade deal in ‘coming weeks’ - Politico",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRl9ZRnBLZVpTOXNpZVMxNmxwX2hvdjgxLWlRWElxMkFkcW52ejNkU3FzU2JLR1h3WnRCMFJ3WGVZSm51VEFlUnc3R2tLazdzUC0xbC1NRmJIcHFZdUQ0VWxnNzkybmppVGVHT2doRkVpanQwQjFkT3FxcUVfMEpGdlp0dw?oc=5",
+   "ts": "Sun, 01 Nov 2026 20:06:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump administration will cut South Africa and Rwanda from the AGOA trade program - The Killeen Daily Herald",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY1JWZzZ5NHVuU3JiblItLUoxd2F4bGF4RmZQMUhJYnhIX1lTVU15Tl92elRqMnVIMjQ5dmJsRjd5N21tLXRUclB5VzRwWHBwTjFtTWdJTWJhRmJWYzZkdDBoWUd5VFdqTHB1MHZSZmltM3hCaVRfcDlCMUtYVDFSMmlHNmVzYzFUNFByMzdTdWJJQkExZlNhU0ZhaUNhQlFxV0lWNEFrRDJRMWZfdEdlUk5Cb0ZFbTcxT09SZkJYX1RaemV4bzh6WVhYRnNQbndiVllhNFhJNzJaSXVhVXQ5SUozNEdudWhJNUhneFFnNF93U3dx?oc=5",
    "ts": "Mon, 02 Nov 2026 21:01:07 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Democratic rep . endorses Republican as El - Sayed downplays parental rights concerns :  Education is on the ballot  ",
+   "url": "https://news.crossmap.com/2026/11/02/democratic-rep-endorses-republican-as-el-sayed-downplays-parental-rights-concerns-education-is/",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump makes final midterm pitch as Republican fight to keep control of Congress",
+   "url": "https://wwmt.com/news/nation-world/trump-makes-final-midterm-pitch-as-republican-fight-to-keep-control-of-congress-republicans-president-americans-washington",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "PODCAST : CT candidates make final push ahead of Election Day",
+   "url": "https://ctmirror.org/2026/11/02/podcast-ct-candidates-make-final-push-ahead-of-election-day/",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "California cosmetic dermatologist convicted in stunning case of Medicare fraud",
+   "url": "https://kfdm.com/news/nation-world/california-cosmetic-dermatologist-convicted-in-stunning-case-of-medicare-fraud-trump-administration",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Нова среща САЩ - Украйна - Русия ще се проведе в Абу Даби на 10 и 11 ноември",
+   "url": "https://www.focus-news.net/novini/mejdunarodni/Nova-sreshta-SASht-Ukraina-Rusiya-shte-se-provede-v-Abu-Dabi-na-10-i-11-noemvri-3050298",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Supreme Court rejects Trump administration push to set aside thousands of California ballots",
+   "url": "https://www.wpxi.com/news/local/supreme-court-rejects-trump-administration-push-set-aside-thousands-california-ballots/CI4AWBIVJZHHHBMLOMYGPA52VQ/",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "שודדי המיארלדים : צבא הסייבר של קים ג  ונג און",
+   "url": "https://www.ynet.co.il/economy/article/yokra14945754",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "NewsNation : США бьют по радарам и ракетным установкам на острове Кешм",
+   "url": "https://news.mail.ru/politics/72954255/",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "The Supreme Court rejects a DOJ push to separate California ballots",
+   "url": "https://www.kacu.org/2026-11-02/the-supreme-court-rejects-a-doj-push-to-separate-california-ballots",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Supreme Court Denies Trump Mail - In Ballot Appeal",
+   "url": "https://790waeb.iheart.com/content/2026-11-02-supreme-court-denies-trumps-mail-in-ballot-appeal/",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "What are the US midterm elections and what does Donald Trump have to do with them ? ",
+   "url": "https://www.abc.net.au/news/2026-11-03/what-are-the-us-midterm-elections-why-they-matter-to-trump/107114830",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Exclusive | Sonja Shaw vows academic focus in California superintendent race",
+   "url": "https://nypost.com/2026/11/02/us-news/sonja-shaw-vows-academic-focus-in-california-superintendent-race/",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump claims US is world largest supplier of oil and natural gas in final midterm campaign pitch",
+   "url": "http://www.argentinastar.com/news/279408514/trump-claims-us-is-world-largest-supplier-of-oil-and-natural-gas-in-final-midterm-campaign-pitch",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US military strikes Iran Qeshm Island",
+   "url": "https://www.newcastleherald.com.au/story/9384711/us-military-strikes-irans-qeshm-island/",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump says midterms most important  in our lifetime  as voters head to polls",
+   "url": "https://www.bordertelegraph.com/news/national/26692839.trump-says-midterms-important-in-lifetime-voters-head-polls/",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Is America really that polarized ? The answer might be a surprise",
+   "url": "https://wnyc.org/npr/nx-s1-6003534",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US struck Iran Qeshm Island , Wall Street Journal reports",
+   "url": "https://www.rnz.co.nz/news/world/2314745/us-struck-iran-s-qeshm-island-wall-street-journal-reports",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "South Dakotans flock to polls on election day eve",
+   "url": "https://www.kotatv.com/2026/11/03/south-dakotans-flock-polls-election-day-eve/",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "America Votes : What To Expect",
+   "url": "https://www.zerohedge.com/political/america-votes-what-expect",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Is America really that polarized ? The answer might be a surprise",
+   "url": "https://www.wxpr.org/2026-11-02/is-america-really-that-polarized-the-answer-might-be-a-surprise",
+   "ts": "20261103T021500Z"
   }
  ]
 }

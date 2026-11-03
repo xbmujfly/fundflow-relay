@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-03T15:45:32Z",
+ "ts": "2026-11-03T23:00:26Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,11 +33,24 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
+  {
+   "src": "whitehouse",
+   "title": "ANTI-COMMUNISM WEEK, 2026",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/anti-communism-week-2026/",
+   "ts": "Tue, 03 Nov 2026 22:32:29 +0000"
+  },
+  {
+   "src": "whitehouse",
+   "title": "THE AMERICAN DECLARATION OF FREEDOM IN SPACE",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/the-american-declaration-of-freedom-in-space/",
+   "ts": "Tue, 03 Nov 2026 21:50:59 +0000"
+  },
   {
    "src": "whitehouse",
    "title": "ADJUSTING IMPORTS OF ROBOTICS, INDUSTRIAL MACHINERY, AND THEIR PARTS AND COMPONENTS INTO THE UNITED STATES",
@@ -145,18 +158,6 @@
    "title": "Gold Star Mother’s And Family’s Day, 2026",
    "url": "https://www.whitehouse.gov/presidential-actions/2026/09/gold-star-mothers-and-familys-day-2026/",
    "ts": "Fri, 25 Sep 2026 19:47:32 +0000"
-  },
-  {
-   "src": "whitehouse",
-   "title": "Enhancing Program Integrity and Integrity and Interagency Coordination in the Administration of the H-1B Nonimmigrant Visa Program",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/enhancing-program-integrity-and-integrity-and-interagency-coordination-in-the-administration-of-the-h-1b-nonimmigrant-visa-program/",
-   "ts": "Fri, 18 Sep 2026 22:02:43 +0000"
-  },
-  {
-   "src": "whitehouse",
-   "title": "Restriction on Entry of Certain Nonimmigrant Workers",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/restriction-on-entry-of-certain-nonimmigrant-workers-faad/",
-   "ts": "Fri, 18 Sep 2026 21:42:13 +0000"
   },
   {
    "src": "ustr",
@@ -346,9 +347,9 @@
   },
   {
    "src": "gnews",
-   "title": "Why a midterm mauling for Trump will not bring Asia trade relief - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcWFpa05tREVsNFJLWXgwT3VqdTctX1F4UjNoSUhUXzN4ZlhoczNsUEFkeXhHalpaenY0TDZFbkpGN01HWDhyYUJyMDdIdUs5Z285X0NiYmVoQU1zVjVWODhiQlJnZnRabkNZMjhVRlNRR0JOUXpOS0FPYVBMNlBSbHRLVWRyUXdLcXprUnhfY2FhcWEyQ2Y4cFZ6Y1A0UEJKbHIyN2xLWDNiMExONUZzUnVkM3BaQQ?oc=5",
-   "ts": "Tue, 03 Nov 2026 11:30:08 GMT"
+   "title": "Trump Delays Robotics Tariffs and Orders New Trade Negotiations - Legis1",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vdHM0Vk1FTlE4bG5lV1ZJM1RRUlVQWVNoSm9oaXc2SUo4cU9RZk9QTERFZHR6U2xRM09yV21saXo0ZXhtdTdpSE83eklUME1oTVZya05hQ1UwakJSZ1V2Zkd0cVRfWFJnUmdxVkI1NEhmTzViRGtGWTRhQnI?oc=5",
+   "ts": "Tue, 03 Nov 2026 17:53:49 GMT"
   },
   {
    "src": "gnews",
@@ -358,9 +359,9 @@
   },
   {
    "src": "gnews",
-   "title": "Former Trump trade official on what will be key issues to watch in today's midterm elections - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYl8zYlp6bDd6cWhlMEVmWFFVQUNjMWlIYU1oNmdXcEhuMDlieml5TlZIQVlnZVFXc3J0YzFROVFCQ1ZXS016RnVsN09pMDN3X3R1M1Y3cDJDa1pZR0RoTE52VVhTMTZuaXhrbnVfLWtINlRhTDBIb3BFVy1vUV9NMmU0VjdiRnVSQVlMcGdlZFYwNGJxOUVuTmxad2dfT1lxeXZibTJnOWJKSUZYdTVoX3U5YnplM0dkVjBRd2NTR0VsazZIQndUSUd0d0xfckE?oc=5",
-   "ts": "Tue, 03 Nov 2026 12:17:44 GMT"
+   "title": "Why a midterm mauling for Trump will not bring Asia trade relief - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcWFpa05tREVsNFJLWXgwT3VqdTctX1F4UjNoSUhUXzN4ZlhoczNsUEFkeXhHalpaenY0TDZFbkpGN01HWDhyYUJyMDdIdUs5Z285X0NiYmVoQU1zVjVWODhiQlJnZnRabkNZMjhVRlNRR0JOUXpOS0FPYVBMNlBSbHRLVWRyUXdLcXprUnhfY2FhcWEyQ2Y4cFZ6Y1A0UEJKbHIyN2xLWDNiMExONUZzUnVkM3BaQdIBtgFBVV95cUxPN3pWM2hobGxjMkZicS1FX2pzX09fSkVzMUJOS3BhclRQb2pkbDh6ajFlMld0cDZRYVBqM2ZTZUpWdG9vLVQtek5Nbk1Zd2N0eFZQYlZVSHdJM1N2NDRobDNGUkxpVXZ6cEtzaUlLWDhGU1haUWl4ek51dFB0RVNuYzVVMEJkNGNQTU1rQUNtSC1WM19CdGhLMVlqVTYySEVZcUJVSlFqWVNuVUhIOTJBVEZsR0lTUQ?oc=5",
+   "ts": "Tue, 03 Nov 2026 11:30:08 GMT"
   },
   {
    "src": "gnews",
@@ -372,13 +373,19 @@
    "src": "gnews",
    "title": "How Trump’s trade policy is handing Asia to Beijing - Fortune",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWWR6M2dPSURHeDRiNnlycm9fWG9iR3IzU0U1c1R2V2pRYlBEUVNSVDllVDJXMlZiYU13X3drQkpuUVNhT0RPMUotM0tadjFxMlZHVHdqV1d3aXJXREZ5WEF3bzBVZWFMT1VCNjJldGl6SWJUUEpPWmJlS3FkanRlVnFfamk2ZVZMUVE?oc=5",
-   "ts": "Mon, 02 Nov 2026 16:33:01 GMT"
+   "ts": "Mon, 02 Nov 2026 23:03:04 GMT"
   },
   {
    "src": "gnews",
-   "title": "China's AI trade has crashed. Now Beijing is trying to stop the stock market slide. - Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFhlMFNUYXNQYUVKb3FHX3Y3bTRycTNpVDZ2TzJNWkZPUE9KcGpGZ09waTBaaktLc0pOczZtMWRCT2ItU1FoWXFpUGIzb2pvUVdJTXplbkxjS1ZjTUpmVzkyOUR6VlBBUGNKUG5feFEzb0h6TVFSenlRcThJRFdnWE1uUTJLMVNOSFRCVTFJMTdLNmNYMzdsLXAzekVmcUJfb3p2SmNCNGI?oc=5",
-   "ts": "Tue, 03 Nov 2026 08:55:00 GMT"
+   "title": "Will China Shock 2.0 trigger an EU-China trade war? - ABN AMRO",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTWpRcTJqcmt3ekVTcy1GdTFFZ1o4ZllUNXZMeUFUR3hvOFRRX2ZjUXdtaC1iWFRZdFMyQnN4ckNNMmdhQjhERHlGVlhvRk92cEtvVE1MNHJqYzhZd0tlRHJ5aXBMeWc2Tl9yWVdHSi1ra0VsdW45WWRueG5VNjlnb2o1UWFvUVAwaEtsZDgxX2RYaFBfSDlvcFRJQzdVSlp6?oc=5",
+   "ts": "Tue, 03 Nov 2026 09:05:19 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Former Trump trade official on what will be key issues to watch in today's midterm elections - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYl8zYlp6bDd6cWhlMEVmWFFVQUNjMWlIYU1oNmdXcEhuMDlieml5TlZIQVlnZVFXc3J0YzFROVFCQ1ZXS016RnVsN09pMDN3X3R1M1Y3cDJDa1pZR0RoTE52VVhTMTZuaXhrbnVfLWtINlRhTDBIb3BFVy1vUV9NMmU0VjdiRnVSQVlMcGdlZFYwNGJxOUVuTmxad2dfT1lxeXZibTJnOWJKSUZYdTVoX3U5YnplM0dkVjBRd2NTR0VsazZIQndUSUd0d0xfckE?oc=5",
+   "ts": "Tue, 03 Nov 2026 12:17:44 GMT"
   },
   {
    "src": "gnews",
@@ -394,27 +401,15 @@
   },
   {
    "src": "gnews",
-   "title": "Nvidia Tells Data Center Clients to Trim China Business, FT Says - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEJRRjh3WWlKcE9PTlBDM19qaEVoSUtzSmRzQ0g4Rl9YT1p1WUQtRWhFbjI3WTlxVkhja0s1UFdpaV9Gb3A0RG8wNnF2YWpMMldMdGtvNW03bUVvM0VZZGtCR1gyZmZheldrdHFja2QycUwxZDNZRkpEV2pjRkZmUVBuSUwyQkRORUtUOXpMX2k2Q21ZM1JkUFlEUlg2T2lXTUl1eXQzWUt6NE9WZ3RHdkJPMmM?oc=5",
-   "ts": "Tue, 03 Nov 2026 05:39:00 GMT"
+   "title": "China and its trading partners are moving towards an economic peace. But it is a fragile one - Chatham House",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbW5tTV94ckhKWlFLYWtZdHlCWFNwcjFPNnlnTGdDMS1ZRWt1OWgyeUpmVldpb041MThXSm1LaXg5SFFJVm1jWUs2NGduclJzSnYybDhYMUhUbzQyWGxsUTl5Qi1JZWdxc2QyZGdhVUFOWGtHMmo3SkFCSTZYdU9JaGxJdlBLTURkYUZuT01GU1FoaVVvTUZmT2pJQ3ItSjZIbjhYZUdTOWdQZGRNRWg1UXpUQ2FuUzA?oc=5",
+   "ts": "Tue, 03 Nov 2026 16:29:37 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump Says US Is Close to Making a Trade Deal With Canada - GV Wire",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXlDeUpPQUlpb3A0aHljdkZnYkJIQUFvMnJLenhrd0tTMDhEMVRMNW8wVUpaUURmMDRpb2k1eldERWpIYlJtU3d6MGNQMmRXTU9jaVYtSFlURFEzc3lnaElUZTlGUi1mRERzNUZVTHNTanZpZVpwOHViaENuZW5sVDk0aENjcnd1bWhHeEQ0VFNpUQ?oc=5",
-   "ts": "Tue, 03 Nov 2026 15:44:06 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Europe’s Deal Limiting Chinese Auto Imports - Council on Foreign Relations",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03TUdiZE8ydWpvRTRfLTh0Mm83anh5ZEpQQkthaUpiSkNUX3UyYVBfWVhOeTdnS2Z5UnppU1BvUVRjMnNzck1IQ1BwTlpaYXVUa1lKWWQ4THV3Y2tBeUdUc2xn?oc=5",
-   "ts": "Mon, 02 Nov 2026 16:02:55 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Tesla wins trade zone status for Texas Megapacks, but China tariffs stay - Electrek",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVkpNOFpuZTlpUW42Q25EVE11MjUyYmdFMy05NnhIbXNfWmVKTHFQS0F6X1RyTl9hVGtXOG9mYVRyckNaS1hyQ0dFbi1NelI2Qzd4aUx6S3NDSEZ3UTlOaXhLNHBYemFXTzlESVJ4UlVxVGFDQkZ1QkttcTJRNEJuNXBEREl5MjE5bWZiWlhn?oc=5",
-   "ts": "Tue, 03 Nov 2026 14:15:00 GMT"
+   "title": "Washington and Ottawa attempt trade truce with renewed talks - KATU",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNlRkTmFpSWVYNjM2SzdKTUNuTUV1Znl3c0pIa2dTM0tYSHVCQll2RXFmLUlCTkp2Y1B6cU5HWllJY1duNDI3TzNVUXpRZGlGcXFEWkwtQlpDdlViUDg4YkZsU2xRTlY5anZid1BIVmg3RjNQWVVqZHJYSlQxN2FZZVF4SlcteFh0YnBicDBWbEdBelo0R0V3czYxa3lLMVZPMUJILXdOc292SGY1S3dJZ3NiQ3ZhUENyVGJvcTBsMUpVTGQyTE9Rdjl1Z2xCRWZ1MzhLT1R6Y0RBQ0ZKdHJ5Z1Z5VnIwc0R5Q3c?oc=5",
+   "ts": "Tue, 03 Nov 2026 21:59:52 GMT"
   },
   {
    "src": "gnews",
@@ -424,21 +419,21 @@
   },
   {
    "src": "gnews",
-   "title": "Lookahead: U.S., China trade talks, UK tries to break Brexit impasse - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Zdk9WUnlqX2l3OTI4YmNhdTB0TzM2M0JzMHo3UEFFQVJQRnFjbFQtY1F4SGlCdHVkTHdZbmJqN2RHZHRZSGtHWmZ2bjlaOGIxb0hnSmFBSzV3dlRE?oc=5",
-   "ts": "Tue, 03 Nov 2026 14:51:54 GMT"
+   "title": "Trump Says US Is Close to Making a Trade Deal With Canada - GV Wire",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXlDeUpPQUlpb3A0aHljdkZnYkJIQUFvMnJLenhrd0tTMDhEMVRMNW8wVUpaUURmMDRpb2k1eldERWpIYlJtU3d6MGNQMmRXTU9jaVYtSFlURFEzc3lnaElUZTlGUi1mRERzNUZVTHNTanZpZVpwOHViaENuZW5sVDk0aENjcnd1bWhHeEQ0VFNpUQ?oc=5",
+   "ts": "Tue, 03 Nov 2026 16:11:25 GMT"
   },
   {
    "src": "gnews",
-   "title": "Wall Street is bracing for a fresh wave of tariffs, Iran action (and potentially a government shutdown) after the midterms - Fortune",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT3BjSDBOMTBSTE04RjhSc0RYSWJic25sS2duRTRocGJvT3RHYmtaWDYxVnMtTWM5ejNCdmEwWi1vdFkyeTZmR0lzZ2duM2V2blhMTEVzSnRIMVc2ajc1SUplUzVEMGo0N202T1pLU0FtX2VCbGEwdUZIZ0RfMkQzaWpWT3R0UUpCUTBLZFBIWQ?oc=5",
-   "ts": "Tue, 03 Nov 2026 11:57:00 GMT"
+   "title": "China's AI trade has crashed. Now Beijing is trying to stop the stock market slide. - Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFhlMFNUYXNQYUVKb3FHX3Y3bTRycTNpVDZ2TzJNWkZPUE9KcGpGZ09waTBaaktLc0pOczZtMWRCT2ItU1FoWXFpUGIzb2pvUVdJTXplbkxjS1ZjTUpmVzkyOUR6VlBBUGNKUG5feFEzb0h6TVFSenlRcThJRFdnWE1uUTJLMVNOSFRCVTFJMTdLNmNYMzdsLXAzekVmcUJfb3p2SmNCNGI?oc=5",
+   "ts": "Tue, 03 Nov 2026 08:55:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "How Beijing plans to cut trade costs and speed cross-border payments - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUlhieDBOLVFxMW1HU1JnbWVDMndKTTJ3d0ZXS1ROamstakxreFFYejdkRzFTQ1Z3c2NvMC10Nnk1VDVsV1JUX1lSSHV2dExldFZRUW9GWVN1azZsc0s4bGppZHlEVkY1RG9nU3ozZ0lQUWhDbzRTZTNMSVdCbkRlVDVzTTdqRkVoVllyVHlQallwcTJsazYxeFYwSG4zTHJydGw1cXplTERQNXFYc1U2WnNZLWZ1RER6MXpYOElMVUJqZVN1TE5F?oc=5",
-   "ts": "Tue, 03 Nov 2026 07:00:08 GMT"
+   "title": "Europe’s Deal Limiting Chinese Auto Imports - Council on Foreign Relations",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03TUdiZE8ydWpvRTRfLTh0Mm83anh5ZEpQQkthaUpiSkNUX3UyYVBfWVhOeTdnS2Z5UnppU1BvUVRjMnNzck1IQ1BwTlpaYXVUa1lKWWQ4THV3Y2tBeUdUc2xn?oc=5",
+   "ts": "Mon, 02 Nov 2026 16:02:55 GMT"
   },
   {
    "src": "gnews",
@@ -448,135 +443,21 @@
   },
   {
    "src": "gnews",
-   "title": "PODCAST: What the EU-China car quota means for world trade - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWhiNVFZMXdBUldpNU8tX1hkLTB4anktejUzSzhCV1VZLXdSbmhuNm9Ob0VfclB6bUozVjJBMldRcEZfeUlWeFpNeXhVeDdfcTRtQ3R4TnFKb1d5aDVlbHpDZ3pJLW0yYnpqNXdJUld5cDNGLW80ekJzdXB6RjI0bUFfa3I1Z3BkOENiYlIzcHF6OTlXa3FvNENaWTZYa1I3?oc=5",
-   "ts": "Tue, 03 Nov 2026 04:58:00 GMT"
+   "title": "Lookahead: U.S., China trade talks, UK tries to break Brexit impasse - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Zdk9WUnlqX2l3OTI4YmNhdTB0TzM2M0JzMHo3UEFFQVJQRnFjbFQtY1F4SGlCdHVkTHdZbmJqN2RHZHRZSGtHWmZ2bjlaOGIxb0hnSmFBSzV3dlRE?oc=5",
+   "ts": "Tue, 03 Nov 2026 14:51:54 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump says he feels U.S.-China trade talks 'going to be very successful' - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fWXdNajRyakhNYk43WkdkZjZOYk5xRGJlS2c5YlpmYmtXZnFPUWpFS1RoUmc3cHpiaWdHN0FsZE9Pb1JWLWdoNVdUWVNSY3JuNzRLYlRVVkRtdWJm?oc=5",
-   "ts": "Tue, 03 Nov 2026 04:47:07 GMT"
+   "title": "South Africa braces for some job losses as US trade benefits end - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZTlrOFlkVWh5U3FDTVhjc3pmdThYY1NvbVVZWlRsNFNfNUo2S0dJRVpDTFBGeFFvZmRQU0V0VHB1TmxVV2x0ZUJ6NXh6WkxRNmNpTHFMSGlyWHNnLWdLdXdYYVhtMFcwWXlxX0VXU1BJNFNTaGlLUDhzRzQ0WG5JNFVpaW9mSzhpWkVfd2d2LTRteV9lajRVbVpjTkRWZ3BuR3VIc3MyWFgzdw?oc=5",
+   "ts": "Tue, 03 Nov 2026 16:32:09 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "Іран заявив про знищення 55 американського безпілотника MQ - 9 Reaper",
-   "url": "https://news.bigmir.net/ua/world/10459624-iran-zayaviv-pro-znischennya-55-amerikanskogo-bezpilotnika-mq-9-reaper",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Rusko potvrdilo rokovania s united states a Ukrajinou",
-   "url": "https://www.teraz.sk/zahranicie/rusko-potvrdilo-rokovania-s-usa-a-ukraji/1004795-clanok.html",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  Messy ,  divided  and  scary : swing voters rate the country ahead of Election Day",
-   "url": "https://www.ksmu.org/2026-11-03/messy-divided-and-scary-swing-voters-rate-the-country-ahead-of-election-day",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Τραμπ χωρίς Κογκρέσο : Τι θα σήμαινε μια διπλή ήττα – Και ποιος ( δεν ) μπορεί να πανηγυρίζει",
-   "url": "https://www.naftemporiki.gr/kosmos/2183700/tramp-choris-kogkreso-ti-tha-simaine-mia-dipli-itta-kai-poios-den-mporei-na-panigyrizei/",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US midterms : Senate majority on the line as latest polls show tight races in Texas , Iowa , Kansas and Ohio",
-   "url": "http://www.texasguardian.com/news/279409124/us-midterms-senate-majority-on-the-line-as-latest-polls-show-tight-races-in-texas-iowa-kansas-and-ohio",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Midterm test for Trump with Congress in the balance",
-   "url": "https://www.newcastleherald.com.au/story/9385403/midterm-test-for-trump-with-congress-in-the-balance/",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Bruce Springsteen Backs US Senate Candidate , Accuses Trump of  Anti - American Leadership  ",
-   "url": "http://www.bgnes.com/entertainment/bruce-springsteen-backs-us-senate-candidate-accuses-trump-of-anti-american-leadership",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "In the news today : U . S . midterms today , Carney in Antigua , is AI stealing youth jobs ? ",
-   "url": "https://www.stcatharinesstandard.ca/news/canada/in-the-news-today-u-s-midterms-today-carney-in-antigua-is-ai-stealing-youth-jobs/article_67947e99-c468-5e65-bebd-541d4208cbcc.html",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Judge Dismisses Trump Suit Over Harvard Admissions Records",
-   "url": "https://1190kex.iheart.com/content/2026-11-03-judge-dismisses-trump-suit-over-harvard-admissions-records/",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "민주 , 상하원 장악땐 사법부 인준 제동 … 트럼프  조기 레임덕  [ 美 중간선거  운명의 날 ] ",
-   "url": "https://www.fnnews.com/news/202611031811042619",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Midterm test for Trump with Congress in the balance",
-   "url": "https://www.illawarramercury.com.au/story/9385403/midterm-test-for-trump-with-congress-in-the-balance/",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Investors ready for possible shake - up in Congress as Election Day arrives",
-   "url": "https://www.theglobeandmail.com/investing/article-investors-ready-for-possible-shake-up-in-congress-as-election-day/",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Tiny trackers on monarch butterflies to reveal secrets of 3 , 000 - mile migration",
-   "url": "https://www.dumbartonreporter.co.uk/news/national/26693023.tiny-trackers-monarch-butterflies-reveal-secrets-3-000-mile-migration/",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "World Insights : How far will both parties go in the U . S . midterms ? ",
-   "url": "http://www.texasguardian.com/news/279409093/world-insights-how-far-will-both-parties-go-in-the-us-midterms",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ٹرمپ کی مقبولیت وسط مدتی انتخابات سے قبل کم ترین سطح پر آگئی - World",
-   "url": "https://www.aaj.tv/news/30523922/trump-approval-rating-nears-record-low-ahead-of-midterm-elections",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Will Midterms Release The Real Frankenstein ? ",
-   "url": "https://www.americanthinker.com/articles/2026/11/will-midterms-release-the-real-frankenstein/",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  Messy ,  divided  and  scary : swing voters rate the country ahead of Election Day",
-   "url": "https://www.aspenpublicradio.org/2026-11-03/messy-divided-and-scary-swing-voters-rate-the-country-ahead-of-election-day",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "À un budget de pierre",
-   "url": "https://www.canardpc.com/news/a-un-budget-de-pierre/",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Judge Dismisses Trump Suit Over Harvard Admissions Records",
-   "url": "https://wflaorlando.iheart.com/content/2026-11-03-judge-dismisses-trump-suit-over-harvard-admissions-records/",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "U . S . Carries Out Defensive Strike On Iranian Island",
-   "url": "https://wdov.iheart.com/content/2026-11-03-us-carries-out-defensive-strike-on-iranian-island/",
-   "ts": "20261103T111500Z"
+   "src": "gnews",
+   "title": "PODCAST: What the EU-China car quota means for world trade - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWhiNVFZMXdBUldpNU8tX1hkLTB4anktejUzSzhCV1VZLXdSbmhuNm9Ob0VfclB6bUozVjJBMldRcEZfeUlWeFpNeXhVeDdfcTRtQ3R4TnFKb1d5aDVlbHpDZ3pJLW0yYnpqNXdJUld5cDNGLW80ekJzdXB6RjI0bUFfa3I1Z3BkOENiYlIzcHF6OTlXa3FvNENaWTZYa1I3?oc=5",
+   "ts": "Tue, 03 Nov 2026 04:58:00 GMT"
   }
  ]
 }

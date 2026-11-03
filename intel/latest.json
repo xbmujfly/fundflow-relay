@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-03T14:15:25Z",
+ "ts": "2026-11-03T14:30:28Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -343,13 +343,7 @@
    "src": "gnews",
    "title": "How Trump’s trade policy is handing Asia to Beijing - Fortune",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWWR6M2dPSURHeDRiNnlycm9fWG9iR3IzU0U1c1R2V2pRYlBEUVNSVDllVDJXMlZiYU13X3drQkpuUVNhT0RPMUotM0tadjFxMlZHVHdqV1d3aXJXREZ5WEF3bzBVZWFMT1VCNjJldGl6SWJUUEpPWmJlS3FkanRlVnFfamk2ZVZMUVE?oc=5",
-   "ts": "Mon, 02 Nov 2026 23:03:04 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Agoa: Donald Trump to remove Rwanda and South Africa from US trade deal - BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12QWlHTTk4T010X1NOeVFiNmJLR011RDJ4ZTY2UTVMVENCemd5M2FIRWxHUmRnN2Z1M3BVTWVyQThUczQwSmxEMHhzZnpLNURSMXpvOFF4S09YTTQ?oc=5",
-   "ts": "Tue, 03 Nov 2026 13:28:30 GMT"
+   "ts": "Mon, 02 Nov 2026 21:03:01 GMT"
   },
   {
    "src": "gnews",
@@ -389,21 +383,33 @@
   },
   {
    "src": "gnews",
-   "title": "Nvidia Tells Data Center Clients to Trim China Business, FT Says - Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEJRRjh3WWlKcE9PTlBDM19qaEVoSUtzSmRzQ0g4Rl9YT1p1WUQtRWhFbjI3WTlxVkhja0s1UFdpaV9Gb3A0RG8wNnF2YWpMMldMdGtvNW03bUVvM0VZZGtCR1gyZmZheldrdHFja2QycUwxZDNZRkpEV2pjRkZmUVBuSUwyQkRORUtUOXpMX2k2Q21ZM1JkUFlEUlg2T2lXTUl1eXQzWUt6NE9WZ3RHdkJPMmM?oc=5",
-   "ts": "Tue, 03 Nov 2026 05:39:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms - MPR News",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHc1QVBGdDlLNXBiZ21Ya3c1bkNzaEdlOXJRUDd0NWhnRFBvcjRZcHFzWnFwdkFUVlNzMkFpQ1VNMkZsMXBQdWJXbnFKbXVxV0ZiaXZwNUtUbUdUdzFIeDlBOW11alBabGZqRFNpd09TZncwX0IxNFM0c2lZbzQ1cmtXbW5GNWVQM1BLVzU2d1RlSnpjUzZSYWE0NEIxTS1FMGxIQTVyano?oc=5",
    "ts": "Sun, 01 Nov 2026 21:14:58 GMT"
   },
   {
    "src": "gnews",
+   "title": "Nvidia Tells Data Center Clients to Trim China Business, FT Says - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEJRRjh3WWlKcE9PTlBDM19qaEVoSUtzSmRzQ0g4Rl9YT1p1WUQtRWhFbjI3WTlxVkhja0s1UFdpaV9Gb3A0RG8wNnF2YWpMMldMdGtvNW03bUVvM0VZZGtCR1gyZmZheldrdHFja2QycUwxZDNZRkpEV2pjRkZmUVBuSUwyQkRORUtUOXpMX2k2Q21ZM1JkUFlEUlg2T2lXTUl1eXQzWUt6NE9WZ3RHdkJPMmM?oc=5",
+   "ts": "Tue, 03 Nov 2026 05:39:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China's AI trade has crashed. Now Beijing is trying to stop the stock market slide. - Business Insider",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFhlMFNUYXNQYUVKb3FHX3Y3bTRycTNpVDZ2TzJNWkZPUE9KcGpGZ09waTBaaktLc0pOczZtMWRCT2ItU1FoWXFpUGIzb2pvUVdJTXplbkxjS1ZjTUpmVzkyOUR6VlBBUGNKUG5feFEzb0h6TVFSenlRcThJRFdnWE1uUTJLMVNOSFRCVTFJMTdLNmNYMzdsLXAzekVmcUJfb3p2SmNCNGI?oc=5",
    "ts": "Tue, 03 Nov 2026 08:55:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
+   "ts": "Thu, 29 Oct 2026 16:23:22 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump says US is close to making a trade deal with Canada - Wichita Eagle",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBReHNwOGlpdlFYODNxQ0ZOVENVa0dkV0FSangwV3Jma0pkcGZZSmZ0dnRiTjNTSWJFeEd6QjByaEpQZlJKSHhENTRfYjB1eWxHaGtwekt0aTNaYS0yMkZXODJQOEkzOTBwblE?oc=5",
+   "ts": "Tue, 03 Nov 2026 13:34:00 GMT"
   },
   {
    "src": "gnews",
@@ -425,18 +431,6 @@
   },
   {
    "src": "gnews",
-   "title": "Europe’s Deal Limiting Chinese Auto Imports - Council on Foreign Relations",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03TUdiZE8ydWpvRTRfLTh0Mm83anh5ZEpQQkthaUpiSkNUX3UyYVBfWVhOeTdnS2Z5UnppU1BvUVRjMnNzck1IQ1BwTlpaYXVUa1lKWWQ4THV3Y2tBeUdUc2xn?oc=5",
-   "ts": "Mon, 02 Nov 2026 16:02:55 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump says aides have ‘concept’ of Canada trade deal - The Hill",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORlYwR1E4QUkyNXRQV1N3aXBudXFrQVhXb1JfMzVTdldLTEYxdUNidE9UNWxMMmRIa0R5bnZnRFBBT19oNnA2YnU4T1NhNWh3NHR2UzRPSHFkdVBvRkp2YU1TXzZxa3NPTmF5MDR5ZUVOYmduYml3LWtCclZKaEJhcWQ0OU04U0FMYXI0VdIBkgFBVV95cUxNQlRsbUVEUTUtYkNJeC1GemU1SWZYUjl5WWNncmdBSi1sUTdyMm1mSGlYN0h4T0lvdFlsc1plZGRIaElQQjZUYV9NY0dYclBTOGpjQXQ5Smt5aG1JMDl6WGNaR1BQSUVQZW9qUjQ1ZDYtWWV6NDZlRFpicjBGWERxY3g0WVBvaFl6bndtNEUtcnhqdw?oc=5",
-   "ts": "Mon, 02 Nov 2026 16:01:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "PODCAST: What the EU-China car quota means for world trade - Reuters",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWhiNVFZMXdBUldpNU8tX1hkLTB4anktejUzSzhCV1VZLXdSbmhuNm9Ob0VfclB6bUozVjJBMldRcEZfeUlWeFpNeXhVeDdfcTRtQ3R4TnFKb1d5aDVlbHpDZ3pJLW0yYnpqNXdJUld5cDNGLW80ekJzdXB6RjI0bUFfa3I1Z3BkOENiYlIzcHF6OTlXa3FvNENaWTZYa1I3?oc=5",
    "ts": "Tue, 03 Nov 2026 04:58:00 GMT"
@@ -452,6 +446,12 @@
    "title": "How Beijing plans to cut trade costs and speed cross-border payments - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUlhieDBOLVFxMW1HU1JnbWVDMndKTTJ3d0ZXS1ROamstakxreFFYejdkRzFTQ1Z3c2NvMC10Nnk1VDVsV1JUX1lSSHV2dExldFZRUW9GWVN1azZsc0s4bGppZHlEVkY1RG9nU3ozZ0lQUWhDbzRTZTNMSVdCbkRlVDVzTTdqRkVoVllyVHlQallwcTJsazYxeFYwSG4zTHJydGw1cXplTERQNXFYc1U2WnNZLWZ1RER6MXpYOElMVUJqZVN1TE5F?oc=5",
    "ts": "Tue, 03 Nov 2026 07:00:08 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China trade accord with Swiss bucks wider trend towards protectionism - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkQ4YmJ3dHdaYVYzcXlkcUQ1V19QMU9mQ2tFd1RuQ1NEckN3ZTIxSFMzSkJxQzQ1UjdXTDVjRzlwdHNpUE13dUJKS19hQ0hndHlTdThtOEpLU1g5NXcxWnphT0RMME5TVDZLa2MySGZGMGdPVDF2QWdGVmpsN05fRk9jRmJZOFBsakdiT2I1X1lVYkpSUTFROHU0RFZGdnRvOXdYRlc4VnZRTzIyWG4xUU50SzRVRl8zaEZJS2lUaS1EZw?oc=5",
+   "ts": "Thu, 29 Oct 2026 23:06:00 GMT"
   },
   {
    "src": "gnews",

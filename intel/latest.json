@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-03T07:30:31Z",
+ "ts": "2026-11-03T07:45:28Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -377,6 +377,12 @@
   },
   {
    "src": "gnews",
+   "title": "Nvidia Tells Data Center Clients to Trim China Business, FT Says - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEJRRjh3WWlKcE9PTlBDM19qaEVoSUtzSmRzQ0g4Rl9YT1p1WUQtRWhFbjI3WTlxVkhja0s1UFdpaV9Gb3A0RG8wNnF2YWpMMldMdGtvNW03bUVvM0VZZGtCR1gyZmZheldrdHFja2QycUwxZDNZRkpEV2pjRkZmUVBuSUwyQkRORUtUOXpMX2k2Q21ZM1JkUFlEUlg2T2lXTUl1eXQzWUt6NE9WZ3RHdkJPMmM?oc=5",
+   "ts": "Tue, 03 Nov 2026 05:39:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms - MPR News",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHc1QVBGdDlLNXBiZ21Ya3c1bkNzaEdlOXJRUDd0NWhnRFBvcjRZcHFzWnFwdkFUVlNzMkFpQ1VNMkZsMXBQdWJXbnFKbXVxV0ZiaXZwNUtUbUdUdzFIeDlBOW11alBabGZqRFNpd09TZncwX0IxNFM0c2lZbzQ1cmtXbW5GNWVQM1BLVzU2d1RlSnpjUzZSYWE0NEIxTS1FMGxIQTVyano?oc=5",
    "ts": "Sun, 01 Nov 2026 21:14:58 GMT"
@@ -389,21 +395,15 @@
   },
   {
    "src": "gnews",
-   "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
-   "ts": "Thu, 29 Oct 2026 16:23:22 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China's AI trade has crashed. Now Beijing is trying to stop the stock market slide. - Business Insider",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFhlMFNUYXNQYUVKb3FHX3Y3bTRycTNpVDZ2TzJNWkZPUE9KcGpGZ09waTBaaktLc0pOczZtMWRCT2ItU1FoWXFpUGIzb2pvUVdJTXplbkxjS1ZjTUpmVzkyOUR6VlBBUGNKUG5feFEzb0h6TVFSenlRcThJRFdnWE1uUTJLMVNOSFRCVTFJMTdLNmNYMzdsLXAzekVmcUJfb3p2SmNCNGI?oc=5",
    "ts": "Tue, 03 Nov 2026 05:57:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Nvidia Tells Data Center Clients to Trim China Business, FT Says - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEJRRjh3WWlKcE9PTlBDM19qaEVoSUtzSmRzQ0g4Rl9YT1p1WUQtRWhFbjI3WTlxVkhja0s1UFdpaV9Gb3A0RG8wNnF2YWpMMldMdGtvNW03bUVvM0VZZGtCR1gyZmZheldrdHFja2QycUwxZDNZRkpEV2pjRkZmUVBuSUwyQkRORUtUOXpMX2k2Q21ZM1JkUFlEUlg2T2lXTUl1eXQzWUt6NE9WZ3RHdkJPMmM?oc=5",
-   "ts": "Tue, 03 Nov 2026 05:39:00 GMT"
+   "title": "How Beijing plans to cut trade costs and speed cross-border payments - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUlhieDBOLVFxMW1HU1JnbWVDMndKTTJ3d0ZXS1ROamstakxreFFYejdkRzFTQ1Z3c2NvMC10Nnk1VDVsV1JUX1lSSHV2dExldFZRUW9GWVN1azZsc0s4bGppZHlEVkY1RG9nU3ozZ0lQUWhDbzRTZTNMSVdCbkRlVDVzTTdqRkVoVllyVHlQallwcTJsazYxeFYwSG4zTHJydGw1cXplTERQNXFYc1U2WnNZLWZ1RER6MXpYOElMVUJqZVN1TE5F?oc=5",
+   "ts": "Tue, 03 Nov 2026 07:00:08 GMT"
   },
   {
    "src": "gnews",
@@ -431,15 +431,15 @@
   },
   {
    "src": "gnews",
-   "title": "South Africa and Rwanda lose access to U.S.’ AGOA trade pact - The Japan Times",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdFI0R1Nac18yOHFKTnI2eU5PMXE1WkJRZEtHZGl2bVFVNDhFWC1KcXBwQlBuQXJRaFZfcmMyblFqb3RFN2UzQzA4ZWVTUTRza2FRNmx2NzBsSWt5QVpPZVhrX0pSU2FHVjdYMC1sRDcyMjgzSlFSbTV0RkpxYlFLajFuSlN4MXlnU21uT2tMQjlYZGc?oc=5",
-   "ts": "Tue, 03 Nov 2026 06:40:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Mark Carney says US, Canada teams will work on trade deal in ‘coming weeks’ - Politico",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRl9ZRnBLZVpTOXNpZVMxNmxwX2hvdjgxLWlRWElxMkFkcW52ejNkU3FzU2JLR1h3WnRCMFJ3WGVZSm51VEFlUnc3R2tLazdzUC0xbC1NRmJIcHFZdUQ0VWxnNzkybmppVGVHT2doRkVpanQwQjFkT3FxcUVfMEpGdlp0dw?oc=5",
    "ts": "Sun, 01 Nov 2026 20:06:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump To Remove Rwanda, South Africa From Trade Deal - Law360",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTk42dlAxWWYzMldXTm1YQ00ySTlBbWRjSkdkQ3dXZ3Y1cG5lMjJLTy0zaHNUbThEM3Rqbk51ejF1bzhheUs4dFFpQ2NFc1EtWmV2RmVZd2YzMlNnLWFPUFZIZW1LX09uS1FPYVpGUTFfeXJvSXIxdlNxcDJTQkNJQW9fUm90VVU3T0lKWHZQd3JaWU0zWEt4eU56TnM1b1Fwd2xjWFkzWdIBVkFVX3lxTFBiSGNDUmlWYWctWDdYNk55dnA0QnhKOW1sVEZrWTJ1RU5aZ3MyVEFITjNlTXh0bmVjckN4b2Fzb0JSVlBhWkx2SUlOOHFQdWhmWXF6WHZB?oc=5",
+   "ts": "Mon, 02 Nov 2026 22:02:00 GMT"
   },
   {
    "src": "gnews",
@@ -449,15 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "China trade accord with Swiss bucks wider trend towards protectionism - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkQ4YmJ3dHdaYVYzcXlkcUQ1V19QMU9mQ2tFd1RuQ1NEckN3ZTIxSFMzSkJxQzQ1UjdXTDVjRzlwdHNpUE13dUJKS19hQ0hndHlTdThtOEpLU1g5NXcxWnphT0RMME5TVDZLa2MySGZGMGdPVDF2QWdGVmpsN05fRk9jRmJZOFBsakdiT2I1X1lVYkpSUTFROHU0RFZGdnRvOXdYRlc4VnZRTzIyWG4xUU50SzRVRl8zaEZJS2lUaS1EZw?oc=5",
-   "ts": "Thu, 29 Oct 2026 23:06:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump says he feels U.S.-China trade talks 'going to be very successful' - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fWXdNajRyakhNYk43WkdkZjZOYk5xRGJlS2c5YlpmYmtXZnFPUWpFS1RoUmc3cHpiaWdHN0FsZE9Pb1JWLWdoNVdUWVNSY3JuNzRLYlRVVkRtdWJm?oc=5",
    "ts": "Tue, 03 Nov 2026 04:47:07 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Nvidia orders data centre clients to reduce China exposure - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcERsWE1GekIyVGJ1cmZzdHdvQnp2TkUtUi00eW5kUlBoeFZNbE5xNFZCMHNZdC02cmhvWXFudFRhRmM3RlpHUWtaZEdpR21rWnpwaFBaajNGMHY0WHYwcGlKbFZwUnhCLVQtRmZGZ0tBVV9fd1dlV041LUg3bnhDcE14emY?oc=5",
+   "ts": "Tue, 03 Nov 2026 05:02:08 GMT"
   }
  ]
 }

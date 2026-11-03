@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-03T04:45:31Z",
+ "ts": "2026-11-03T05:00:41Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -389,12 +389,6 @@
   },
   {
    "src": "gnews",
-   "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
-   "ts": "Thu, 29 Oct 2026 16:23:22 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s soaring chemical exports threaten new trade war front - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
    "ts": "Mon, 02 Nov 2026 06:42:16 GMT"
@@ -413,15 +407,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump administration will cut South Africa and Rwanda from the AGOA trade program - dailyadvance.com",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQXp1UWhYYlVRYTJhRmx2cGFTYWV3UmNXbVVzQnR0VEFuS0RDbmk0VU9fRHlYZThmQUZGX2ptb3JlMEZ4OXhNMVd3X203ZS1kNWdZdjV5SEd5dnJiVGUwSDVjUE1MeUN6SFptLVlJOUdZelp4LTdrYWotVG9jbnJENXJ4M2J2Mi1CVS1RcGZVNWRpWDh5N0FydHBieDZfMDF3T2FYd2xtNVFINkZhaGlrcktiSHNyemRqNUg3djVkczllUnprUEZIZ0hSSFFUYVpWTGpZU0FLRlpjRlpxNXlnM3FVd2JlQTJ2MGI1eHFraDFiY1l0eTI2dlhYSV85cmdW?oc=5",
-   "ts": "Tue, 03 Nov 2026 02:15:48 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump Says US-Canada Trade Deal Is Close After Talks With Carney - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0FUU1FQR1dZRDZVcXBERWhJVEFWd0NSZ3hOTDFmZTlTQWRnTWt5eVZPdUR2Q0sxSHp0ZFhOMllONHE0aU04aWxDbndOaU45ZWhnUFFfZ0FVMElMVngyU0F5NzV0ZjJ2dWxHYV9UMGhZeGU1V1liZ0t5M1Rsa3RvVWNOXzlId04tcEplUW96M2JTUUZpSmVnNVRhU2dfaHpIaS1sM2UwbWlzam5Pb21HV04zb3o?oc=5",
    "ts": "Sun, 01 Nov 2026 22:26:53 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump administration will cut South Africa and Rwanda from the AGOA trade program - dailyadvance.com",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQXp1UWhYYlVRYTJhRmx2cGFTYWV3UmNXbVVzQnR0VEFuS0RDbmk0VU9fRHlYZThmQUZGX2ptb3JlMEZ4OXhNMVd3X203ZS1kNWdZdjV5SEd5dnJiVGUwSDVjUE1MeUN6SFptLVlJOUdZelp4LTdrYWotVG9jbnJENXJ4M2J2Mi1CVS1RcGZVNWRpWDh5N0FydHBieDZfMDF3T2FYd2xtNVFINkZhaGlrcktiSHNyemRqNUg3djVkczllUnprUEZIZ0hSSFFUYVpWTGpZU0FLRlpjRlpxNXlnM3FVd2JlQTJ2MGI1eHFraDFiY1l0eTI2dlhYSV85cmdW?oc=5",
+   "ts": "Tue, 03 Nov 2026 02:15:48 GMT"
   },
   {
    "src": "gnews",
@@ -443,9 +437,15 @@
   },
   {
    "src": "gnews",
-   "title": "Washing away the US: Tariff evasion on the other side of the US–China trade war - CEPR",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdXFOOE9ybUFrVGNraFdvaWNEdDM1YXlVdU1xTVNFdW1aTUVlYkNyeUtoRGJVNXJkeUF3WXE4Y3c0ZVJsTldybDA4UFEydDdEcUN0TnBlTHVJcnhDb1ZPSTBMcFBLSU5fdERrRlNONEx4bUItMEZiaVRLMzBmbnFBLVRLTTR4MlZzNFl2UE1IMlc0VURjeUE?oc=5",
-   "ts": "Mon, 26 Oct 2026 00:55:04 GMT"
+   "title": "TSX futures rise as Trump teases ’Concept’ of Canada trade deal - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHlNOVFLeEctZXN0czBMLUpDS1FXQlVkZ2U0dDNObnktS1BVWlNrRnYzMDl5SGNWd0dUZFZTemhlaFZaY0hGQ09XWU9wV2s4VU0wUDhXMURBUF9hZzQxbGVPMEtDSkQzZW41dnpLU2xiY1FraktIUnA1Q1RDU2l6T2Z0TzRRWGxMX2xvU2NSRXZqcEVNMTl6MjJB?oc=5",
+   "ts": "Mon, 02 Nov 2026 13:04:23 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Mechanical engineering: After a golden era, a trade deficit with China looms - Table.Briefings",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaGJud3ZJcFU3dERPckVDcm9pWS10ckNzcUVOTDFLaDR5M3FmUGJOT2h0SmdpS01UTjlOamVVUWotMm5BZTdyaGcwdk0xUE54WVMtY2pfVTlHWERiSlQ2TUNxbzUwekdkT1F3S3NKbUQ4QzlfSVZ0MVNCZ2dDNVdVQWl2YkdxZnJteTJxTTdoVjBSZVlFVVdfXzhXb0h2VjFuZk1EYmVjQ0ZSUXFtQ1RuR3FRQnlNX0d6VGNLcA?oc=5",
+   "ts": "Mon, 02 Nov 2026 21:16:28 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "TSX futures rise as Trump teases ’Concept’ of Canada trade deal - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHlNOVFLeEctZXN0czBMLUpDS1FXQlVkZ2U0dDNObnktS1BVWlNrRnYzMDl5SGNWd0dUZFZTemhlaFZaY0hGQ09XWU9wV2s4VU0wUDhXMURBUF9hZzQxbGVPMEtDSkQzZW41dnpLU2xiY1FraktIUnA1Q1RDU2l6T2Z0TzRRWGxMX2xvU2NSRXZqcEVNMTl6MjJB?oc=5",
-   "ts": "Mon, 02 Nov 2026 13:04:23 GMT"
+   "title": "Surging costs and China trade war test US farmers' loyalty to Trump - Nikkei Asia",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZXJqTFdEbnRiRnVtRTc2dmN0VmNUNzRHYnNNSnlFQ3FJRkVsX05fVE1UX21QMUlaWnNfc3E2Wl9LU2V0Zzd6OEtfdXJITklxZ1ZXcEZxMENrMVRiQTdjbnVEbmc4bzRLWUp5SHFBV3JJeHpGYTVMaFV2N1FrRWpzYWo4dHUwUGNJMnpNeEpVbjVuSnpEWVEtMlFkV3VzUWo4RERkbDg2VVNmaHdKUU42T3FrS0Nidzg5OUF6eVROaw?oc=5",
+   "ts": "Mon, 02 Nov 2026 05:00:00 GMT"
   }
  ]
 }

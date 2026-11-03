@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-03T12:00:27Z",
+ "ts": "2026-11-03T12:15:26Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -359,9 +359,9 @@
   },
   {
    "src": "gnews",
-   "title": "PODCAST: What the EU-China car quota means for world trade - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWhiNVFZMXdBUldpNU8tX1hkLTB4anktejUzSzhCV1VZLXdSbmhuNm9Ob0VfclB6bUozVjJBMldRcEZfeUlWeFpNeXhVeDdfcTRtQ3R4TnFKb1d5aDVlbHpDZ3pJLW0yYnpqNXdJUld5cDNGLW80ekJzdXB6RjI0bUFfa3I1Z3BkOENiYlIzcHF6OTlXa3FvNENaWTZYa1I3?oc=5",
-   "ts": "Tue, 03 Nov 2026 04:58:00 GMT"
+   "title": "China's slow buying of US farm goods tests $17 billion trade pledge - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGp4TlZzUzhLZkJsbVoyLWVtTVNHUmMtWVNteFpvbE9vYkZhcWxUSTdwQ0JyYi14MzdCN2dqeEU1Rkw5NHZISnhzbVV0Wno3U3M2b3FkRFdlXzBkdW5OT3RKRU5DamhSOWh1WVQyVk5ucG83amhtMDdqNWUwR2xianV2MUNtQ1Y0Qmo1QXJmOWd3SnB3eVZDcHpCZFFXc1MwamktYlRMeVhRc3FlZUlr?oc=5",
+   "ts": "Mon, 02 Nov 2026 10:16:42 GMT"
   },
   {
    "src": "gnews",
@@ -383,15 +383,15 @@
   },
   {
    "src": "gnews",
-   "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms - MPR News",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHc1QVBGdDlLNXBiZ21Ya3c1bkNzaEdlOXJRUDd0NWhnRFBvcjRZcHFzWnFwdkFUVlNzMkFpQ1VNMkZsMXBQdWJXbnFKbXVxV0ZiaXZwNUtUbUdUdzFIeDlBOW11alBabGZqRFNpd09TZncwX0IxNFM0c2lZbzQ1cmtXbW5GNWVQM1BLVzU2d1RlSnpjUzZSYWE0NEIxTS1FMGxIQTVyano?oc=5",
-   "ts": "Sun, 01 Nov 2026 21:14:58 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China's AI trade has crashed. Now Beijing is trying to stop the stock market slide. - Business Insider",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFhlMFNUYXNQYUVKb3FHX3Y3bTRycTNpVDZ2TzJNWkZPUE9KcGpGZ09waTBaaktLc0pOczZtMWRCT2ItU1FoWXFpUGIzb2pvUVdJTXplbkxjS1ZjTUpmVzkyOUR6VlBBUGNKUG5feFEzb0h6TVFSenlRcThJRFdnWE1uUTJLMVNOSFRCVTFJMTdLNmNYMzdsLXAzekVmcUJfb3p2SmNCNGI?oc=5",
    "ts": "Tue, 03 Nov 2026 08:55:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms - MPR News",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHc1QVBGdDlLNXBiZ21Ya3c1bkNzaEdlOXJRUDd0NWhnRFBvcjRZcHFzWnFwdkFUVlNzMkFpQ1VNMkZsMXBQdWJXbnFKbXVxV0ZiaXZwNUtUbUdUdzFIeDlBOW11alBabGZqRFNpd09TZncwX0IxNFM0c2lZbzQ1cmtXbW5GNWVQM1BLVzU2d1RlSnpjUzZSYWE0NEIxTS1FMGxIQTVyano?oc=5",
+   "ts": "Sun, 01 Nov 2026 21:14:58 GMT"
   },
   {
    "src": "gnews",
@@ -413,15 +413,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump says U.S. and Canada have concept for new trade deal - The Journal Record",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ2UxX053RGZrYUNNOFFtNmEtNWZ4TmdLZHhaZGpFUDBsWjBXdElhRG5zTHlid0x4Rm9nemc2Ql9HUGVzYjMtd2htTGZraHY2WGQ5SGVkdHptTV9lWXFyaGNiQjVndnYtem5keEVjUkFwY0cxRFh0RzItWFlNWW90dnRrTEVPNUpTc3pj?oc=5",
-   "ts": "Mon, 02 Nov 2026 16:41:10 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcXdSUzdCZE1aZDlWYzNjZ0hTQ1NIclRrN2hvT2trYnM3djdIajN1Nk8zWEViT3FHQ1lPMEJNSDZDR1ZxMUNuS1lMeGM3RVdrckJXZWpERVpzakZVb3htaG1kcC1aNEVuLVhxSVRxUWZPNnd0THU2aF93R0xhdUNUQkM4aGNtMVpyb2FxeWlUZ2V0SWFPcGZOWWRxMG9WeWl2ZDJPR1VyZUluQTdZbUHSAbMBQVVfeXFMTnBxd2VhLVdiSEE4akU0M2FNUUJYT0gtWXIyVnFOM29RTElPVFFGczNaWHAyOFNmMl9UTjgzSlhyOHREaFNXU0dxdldFZXBJSXBWaldWel9rU1IxZ1N4aVd6azVEMXVSczM4Mko2RlBnQTZIWjZXdk95MzdrWlBNdFF4MWw1cnJ3QXJmTXVGbFJZcnFFcFU3VExWbUpNMWlTWnptRnY4YUxjTTdIal8wU0xBeDg?oc=5",
    "ts": "Mon, 02 Nov 2026 23:54:34 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump says U.S. and Canada have concept for new trade deal - The Journal Record",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ2UxX053RGZrYUNNOFFtNmEtNWZ4TmdLZHhaZGpFUDBsWjBXdElhRG5zTHlid0x4Rm9nemc2Ql9HUGVzYjMtd2htTGZraHY2WGQ5SGVkdHptTV9lWXFyaGNiQjVndnYtem5keEVjUkFwY0cxRFh0RzItWFlNWW90dnRrTEVPNUpTc3pj?oc=5",
+   "ts": "Mon, 02 Nov 2026 16:41:10 GMT"
   },
   {
    "src": "gnews",
@@ -431,9 +431,9 @@
   },
   {
    "src": "gnews",
-   "title": "China's slow buying of US farm goods tests $17 billion trade pledge - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGp4TlZzUzhLZkJsbVoyLWVtTVNHUmMtWVNteFpvbE9vYkZhcWxUSTdwQ0JyYi14MzdCN2dqeEU1Rkw5NHZISnhzbVV0Wno3U3M2b3FkRFdlXzBkdW5OT3RKRU5DamhSOWh1WVQyVk5ucG83amhtMDdqNWUwR2xianV2MUNtQ1Y0Qmo1QXJmOWd3SnB3eVZDcHpCZFFXc1MwamktYlRMeVhRc3FlZUlr?oc=5",
-   "ts": "Mon, 02 Nov 2026 10:16:42 GMT"
+   "title": "PODCAST: What the EU-China car quota means for world trade - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWhiNVFZMXdBUldpNU8tX1hkLTB4anktejUzSzhCV1VZLXdSbmhuNm9Ob0VfclB6bUozVjJBMldRcEZfeUlWeFpNeXhVeDdfcTRtQ3R4TnFKb1d5aDVlbHpDZ3pJLW0yYnpqNXdJUld5cDNGLW80ekJzdXB6RjI0bUFfa3I1Z3BkOENiYlIzcHF6OTlXa3FvNENaWTZYa1I3?oc=5",
+   "ts": "Tue, 03 Nov 2026 04:58:00 GMT"
   },
   {
    "src": "gnews",

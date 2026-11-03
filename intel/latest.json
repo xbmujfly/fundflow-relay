@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-03T15:00:26Z",
+ "ts": "2026-11-03T15:15:26Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -377,21 +377,21 @@
   },
   {
    "src": "gnews",
+   "title": "China's AI trade has crashed. Now Beijing is trying to stop the stock market slide. - Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFhlMFNUYXNQYUVKb3FHX3Y3bTRycTNpVDZ2TzJNWkZPUE9KcGpGZ09waTBaaktLc0pOczZtMWRCT2ItU1FoWXFpUGIzb2pvUVdJTXplbkxjS1ZjTUpmVzkyOUR6VlBBUGNKUG5feFEzb0h6TVFSenlRcThJRFdnWE1uUTJLMVNOSFRCVTFJMTdLNmNYMzdsLXAzekVmcUJfb3p2SmNCNGI?oc=5",
+   "ts": "Tue, 03 Nov 2026 08:55:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms - MPR News",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHc1QVBGdDlLNXBiZ21Ya3c1bkNzaEdlOXJRUDd0NWhnRFBvcjRZcHFzWnFwdkFUVlNzMkFpQ1VNMkZsMXBQdWJXbnFKbXVxV0ZiaXZwNUtUbUdUdzFIeDlBOW11alBabGZqRFNpd09TZncwX0IxNFM0c2lZbzQ1cmtXbW5GNWVQM1BLVzU2d1RlSnpjUzZSYWE0NEIxTS1FMGxIQTVyano?oc=5",
    "ts": "Sun, 01 Nov 2026 21:14:58 GMT"
   },
   {
    "src": "gnews",
-   "title": "Nvidia Tells Data Center Clients to Trim China Business, FT Says - Bloomberg",
+   "title": "Nvidia Tells Data Center Clients to Trim China Business, FT Says - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEJRRjh3WWlKcE9PTlBDM19qaEVoSUtzSmRzQ0g4Rl9YT1p1WUQtRWhFbjI3WTlxVkhja0s1UFdpaV9Gb3A0RG8wNnF2YWpMMldMdGtvNW03bUVvM0VZZGtCR1gyZmZheldrdHFja2QycUwxZDNZRkpEV2pjRkZmUVBuSUwyQkRORUtUOXpMX2k2Q21ZM1JkUFlEUlg2T2lXTUl1eXQzWUt6NE9WZ3RHdkJPMmM?oc=5",
    "ts": "Tue, 03 Nov 2026 05:39:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China's AI trade has crashed. Now Beijing is trying to stop the stock market slide. - Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFhlMFNUYXNQYUVKb3FHX3Y3bTRycTNpVDZ2TzJNWkZPUE9KcGpGZ09waTBaaktLc0pOczZtMWRCT2ItU1FoWXFpUGIzb2pvUVdJTXplbkxjS1ZjTUpmVzkyOUR6VlBBUGNKUG5feFEzb0h6TVFSenlRcThJRFdnWE1uUTJLMVNOSFRCVTFJMTdLNmNYMzdsLXAzekVmcUJfb3p2SmNCNGI?oc=5",
-   "ts": "Tue, 03 Nov 2026 08:55:00 GMT"
   },
   {
    "src": "gnews",
@@ -407,9 +407,9 @@
   },
   {
    "src": "gnews",
-   "title": "Top Trade Expert: China Will Respond Swiftly if EU Escalates Trade Tensions - Geopolitechs",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZUWJCRTRiRk1IWDhYSXk1UzFEcFRwRjVfY09ONGZnYS1JeDBSWGlwengwUDV4bHJxa1FUSVJXZ0Vyc1dfd2FlTXVmYVhrdkc4SUNOdmFXRlM0a0lBYWhNQ2tqUldtOTlsZVVPWExxeDc3X3Jx?oc=5",
-   "ts": "Tue, 03 Nov 2026 10:36:12 GMT"
+   "title": "Trump says US is close to making a trade deal with Canada - Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOG1UVW1sQ1VUMVZkSXNQaVRGLTJLUmtRU1Y2cTA4Y21XQ1NjSmZoQTg0bWxzVVlnT0x0VmxNa3ZScG5rVllfZFVzQjBXbVhkQTF1dGZYTTF0aHo4ZWF4dS1WRGJYMGVpTE1sMlBDRFZpY3ZYZGdOMXJSeVhCRTNCZw?oc=5",
+   "ts": "Tue, 03 Nov 2026 14:04:00 GMT"
   },
   {
    "src": "gnews",
@@ -419,15 +419,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump says US is close to making a trade deal with Canada - Central Oregon Daily",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa05KZkJjenlla25aY2VHT3UxNnVZeTJqQnRPTm5MS3hWeXFEaFFGOHlPczJ4Y0FPRS1Nb2FDTmZ0Vm9hZ0poYTd6bERzVjc1WE5uU2ViLU1VMmRjM2xWNXBvcTdvSzZiZ0pZMHk1T2s3UTVIQktVWmNsXzRDRFR2U19lNGh6MXNxUlpfMGZhekpWdmR3Mkk0S0VVRkVGbEpMWnZ0dmdYYU9tM2FUaHFCTEJtU2ZYTEJ6M3MtNkIxOWRvRl9KeHRSSlN3NG1BVEJtUDlTOWpfeTdtZXRDRG4tU3gtUWVIaEtVS05lRXZkZEg5QQ?oc=5",
-   "ts": "Tue, 03 Nov 2026 13:34:51 GMT"
+   "title": "Top Trade Expert: China Will Respond Swiftly if EU Escalates Trade Tensions - Geopolitechs",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZUWJCRTRiRk1IWDhYSXk1UzFEcFRwRjVfY09ONGZnYS1JeDBSWGlwengwUDV4bHJxa1FUSVJXZ0Vyc1dfd2FlTXVmYVhrdkc4SUNOdmFXRlM0a0lBYWhNQ2tqUldtOTlsZVVPWExxeDc3X3Jx?oc=5",
+   "ts": "Tue, 03 Nov 2026 10:36:12 GMT"
   },
   {
    "src": "gnews",
-   "title": "China trade accord with Swiss bucks wider trend towards protectionism - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkQ4YmJ3dHdaYVYzcXlkcUQ1V19QMU9mQ2tFd1RuQ1NEckN3ZTIxSFMzSkJxQzQ1UjdXTDVjRzlwdHNpUE13dUJKS19hQ0hndHlTdThtOEpLU1g5NXcxWnphT0RMME5TVDZLa2MySGZGMGdPVDF2QWdGVmpsN05fRk9jRmJZOFBsakdiT2I1X1lVYkpSUTFROHU0RFZGdnRvOXdYRlc4VnZRTzIyWG4xUU50SzRVRl8zaEZJS2lUaS1EZw?oc=5",
-   "ts": "Thu, 29 Oct 2026 23:06:00 GMT"
+   "title": "Lookahead: U.S., China trade talks, UK tries to break Brexit impasse - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Zdk9WUnlqX2l3OTI4YmNhdTB0TzM2M0JzMHo3UEFFQVJQRnFjbFQtY1F4SGlCdHVkTHdZbmJqN2RHZHRZSGtHWmZ2bjlaOGIxb0hnSmFBSzV3dlRE?oc=5",
+   "ts": "Tue, 03 Nov 2026 14:51:54 GMT"
   },
   {
    "src": "gnews",
@@ -443,15 +443,15 @@
   },
   {
    "src": "gnews",
-   "title": "PODCAST: What the EU-China car quota means for world trade - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWhiNVFZMXdBUldpNU8tX1hkLTB4anktejUzSzhCV1VZLXdSbmhuNm9Ob0VfclB6bUozVjJBMldRcEZfeUlWeFpNeXhVeDdfcTRtQ3R4TnFKb1d5aDVlbHpDZ3pJLW0yYnpqNXdJUld5cDNGLW80ekJzdXB6RjI0bUFfa3I1Z3BkOENiYlIzcHF6OTlXa3FvNENaWTZYa1I3?oc=5",
-   "ts": "Tue, 03 Nov 2026 04:58:00 GMT"
+   "title": "China trade accord with Swiss bucks wider trend towards protectionism - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkQ4YmJ3dHdaYVYzcXlkcUQ1V19QMU9mQ2tFd1RuQ1NEckN3ZTIxSFMzSkJxQzQ1UjdXTDVjRzlwdHNpUE13dUJKS19hQ0hndHlTdThtOEpLU1g5NXcxWnphT0RMME5TVDZLa2MySGZGMGdPVDF2QWdGVmpsN05fRk9jRmJZOFBsakdiT2I1X1lVYkpSUTFROHU0RFZGdnRvOXdYRlc4VnZRTzIyWG4xUU50SzRVRl8zaEZJS2lUaS1EZw?oc=5",
+   "ts": "Thu, 29 Oct 2026 23:06:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Cuba flight, Taiwan trade trouble, Panama probe: 7 Latin America relations reads - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ3prZWRoTzR1NVdEcHdQRFFZVmpjRGR1a21FTnNMS2JQOG9sQlJ1MS1rWDV3NW8zRHlRR1EtUmd0d2Z2TXR4UlVWcGpHV2dmMEs5SHVKM1JQMjVlYUg1X1ZmbTRNTVFWYXVkWUdwR3N0djMxOXpQVUp1dEQ0NFpOMGdsZXBISjR5b0RPOVdSNGVkMncyRlhva2J4V0twSm9acDVYRGROSG0zZ1pqOFpSZzA3d25aOHNWYjRnRVAyZkFZaVJYeVN4dTZZTzlpbVdGWEHSAdIBQVVfeXFMUDBWNzlPSldMSV9JdDRmSEdYUlhxNUtjWTVRU3FKMWRsVkZWOE9weWMxODAySmY1c1hpUjZON3lmd0p6VjNaUHlvV1lteXZRbmdaRlNsN25TS0RlWU5EcTVHQWthMEFkQkJIR3o0UHNacm5IaDJoalFDRUtRM2pwbmJOLVN4VkdSaDJ5elpxLVlEZktUd1V4R0F5dnRMbjgwNWdIeXB4NUJqNlFuUkZkWHBMenllalJYOWpiZVZ6UFo4SjJ6aTJJRzBZaTZERWc4QVl3?oc=5",
-   "ts": "Tue, 03 Nov 2026 14:00:08 GMT"
+   "title": "PODCAST: What the EU-China car quota means for world trade - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWhiNVFZMXdBUldpNU8tX1hkLTB4anktejUzSzhCV1VZLXdSbmhuNm9Ob0VfclB6bUozVjJBMldRcEZfeUlWeFpNeXhVeDdfcTRtQ3R4TnFKb1d5aDVlbHpDZ3pJLW0yYnpqNXdJUld5cDNGLW80ekJzdXB6RjI0bUFfa3I1Z3BkOENiYlIzcHF6OTlXa3FvNENaWTZYa1I3?oc=5",
+   "ts": "Tue, 03 Nov 2026 04:58:00 GMT"
   },
   {
    "src": "gnews",

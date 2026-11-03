@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-03T09:45:24Z",
+ "ts": "2026-11-03T10:00:27Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -359,15 +358,15 @@
   },
   {
    "src": "gnews",
-   "title": "PODCAST: What the EU-China car quota means for world trade - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWhiNVFZMXdBUldpNU8tX1hkLTB4anktejUzSzhCV1VZLXdSbmhuNm9Ob0VfclB6bUozVjJBMldRcEZfeUlWeFpNeXhVeDdfcTRtQ3R4TnFKb1d5aDVlbHpDZ3pJLW0yYnpqNXdJUld5cDNGLW80ekJzdXB6RjI0bUFfa3I1Z3BkOENiYlIzcHF6OTlXa3FvNENaWTZYa1I3?oc=5",
-   "ts": "Tue, 03 Nov 2026 04:58:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Nvidia Tells Data Center Clients to Trim China Business, FT Says - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEJRRjh3WWlKcE9PTlBDM19qaEVoSUtzSmRzQ0g4Rl9YT1p1WUQtRWhFbjI3WTlxVkhja0s1UFdpaV9Gb3A0RG8wNnF2YWpMMldMdGtvNW03bUVvM0VZZGtCR1gyZmZheldrdHFja2QycUwxZDNZRkpEV2pjRkZmUVBuSUwyQkRORUtUOXpMX2k2Q21ZM1JkUFlEUlg2T2lXTUl1eXQzWUt6NE9WZ3RHdkJPMmM?oc=5",
    "ts": "Tue, 03 Nov 2026 05:39:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China's slow buying of US farm goods tests $17 billion trade pledge - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGp4TlZzUzhLZkJsbVoyLWVtTVNHUmMtWVNteFpvbE9vYkZhcWxUSTdwQ0JyYi14MzdCN2dqeEU1Rkw5NHZISnhzbVV0Wno3U3M2b3FkRFdlXzBkdW5OT3RKRU5DamhSOWh1WVQyVk5ucG83amhtMDdqNWUwR2xianV2MUNtQ1Y0Qmo1QXJmOWd3SnB3eVZDcHpCZFFXc1MwamktYlRMeVhRc3FlZUlr?oc=5",
+   "ts": "Mon, 02 Nov 2026 10:16:42 GMT"
   },
   {
    "src": "gnews",
@@ -401,6 +400,12 @@
   },
   {
    "src": "gnews",
+   "title": "Trump says aides have ‘concept’ of Canada trade deal - The Hill",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORlYwR1E4QUkyNXRQV1N3aXBudXFrQVhXb1JfMzVTdldLTEYxdUNidE9UNWxMMmRIa0R5bnZnRFBBT19oNnA2YnU4T1NhNWh3NHR2UzRPSHFkdVBvRkp2YU1TXzZxa3NPTmF5MDR5ZUVOYmduYml3LWtCclZKaEJhcWQ0OU04U0FMYXI0VdIBkgFBVV95cUxNQlRsbUVEUTUtYkNJeC1GemU1SWZYUjl5WWNncmdBSi1sUTdyMm1mSGlYN0h4T0lvdFlsc1plZGRIaElQQjZUYV9NY0dYclBTOGpjQXQ5Smt5aG1JMDl6WGNaR1BQSUVQZW9qUjQ1ZDYtWWV6NDZlRFpicjBGWERxY3g0WVBvaFl6bndtNEUtcnhqdw?oc=5",
+   "ts": "Mon, 02 Nov 2026 16:01:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump says U.S. and Canada have concept for new trade deal - The Journal Record",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ2UxX053RGZrYUNNOFFtNmEtNWZ4TmdLZHhaZGpFUDBsWjBXdElhRG5zTHlid0x4Rm9nemc2Ql9HUGVzYjMtd2htTGZraHY2WGQ5SGVkdHptTV9lWXFyaGNiQjVndnYtem5keEVjUkFwY0cxRFh0RzItWFlNWW90dnRrTEVPNUpTc3pj?oc=5",
    "ts": "Mon, 02 Nov 2026 16:41:10 GMT"
@@ -410,12 +415,6 @@
    "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcXdSUzdCZE1aZDlWYzNjZ0hTQ1NIclRrN2hvT2trYnM3djdIajN1Nk8zWEViT3FHQ1lPMEJNSDZDR1ZxMUNuS1lMeGM3RVdrckJXZWpERVpzakZVb3htaG1kcC1aNEVuLVhxSVRxUWZPNnd0THU2aF93R0xhdUNUQkM4aGNtMVpyb2FxeWlUZ2V0SWFPcGZOWWRxMG9WeWl2ZDJPR1VyZUluQTdZbUHSAbMBQVVfeXFMTnBxd2VhLVdiSEE4akU0M2FNUUJYT0gtWXIyVnFOM29RTElPVFFGczNaWHAyOFNmMl9UTjgzSlhyOHREaFNXU0dxdldFZXBJSXBWaldWel9rU1IxZ1N4aVd6azVEMXVSczM4Mko2RlBnQTZIWjZXdk95MzdrWlBNdFF4MWw1cnJ3QXJmTXVGbFJZcnFFcFU3VExWbUpNMWlTWnptRnY4YUxjTTdIal8wU0xBeDg?oc=5",
    "ts": "Mon, 02 Nov 2026 23:54:34 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump says aides have ‘concept’ of Canada trade deal - The Hill",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORlYwR1E4QUkyNXRQV1N3aXBudXFrQVhXb1JfMzVTdldLTEYxdUNidE9UNWxMMmRIa0R5bnZnRFBBT19oNnA2YnU4T1NhNWh3NHR2UzRPSHFkdVBvRkp2YU1TXzZxa3NPTmF5MDR5ZUVOYmduYml3LWtCclZKaEJhcWQ0OU04U0FMYXI0VdIBkgFBVV95cUxNQlRsbUVEUTUtYkNJeC1GemU1SWZYUjl5WWNncmdBSi1sUTdyMm1mSGlYN0h4T0lvdFlsc1plZGRIaElQQjZUYV9NY0dYclBTOGpjQXQ5Smt5aG1JMDl6WGNaR1BQSUVQZW9qUjQ1ZDYtWWV6NDZlRFpicjBGWERxY3g0WVBvaFl6bndtNEUtcnhqdw?oc=5",
-   "ts": "Mon, 02 Nov 2026 16:01:00 GMT"
   },
   {
    "src": "gnews",
@@ -437,12 +436,6 @@
   },
   {
    "src": "gnews",
-   "title": "China's slow buying of US farm goods tests $17 billion trade pledge - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGp4TlZzUzhLZkJsbVoyLWVtTVNHUmMtWVNteFpvbE9vYkZhcWxUSTdwQ0JyYi14MzdCN2dqeEU1Rkw5NHZISnhzbVV0Wno3U3M2b3FkRFdlXzBkdW5OT3RKRU5DamhSOWh1WVQyVk5ucG83amhtMDdqNWUwR2xianV2MUNtQ1Y0Qmo1QXJmOWd3SnB3eVZDcHpCZFFXc1MwamktYlRMeVhRc3FlZUlr?oc=5",
-   "ts": "Mon, 02 Nov 2026 10:16:42 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China trade accord with Swiss bucks wider trend towards protectionism - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkQ4YmJ3dHdaYVYzcXlkcUQ1V19QMU9mQ2tFd1RuQ1NEckN3ZTIxSFMzSkJxQzQ1UjdXTDVjRzlwdHNpUE13dUJKS19hQ0hndHlTdThtOEpLU1g5NXcxWnphT0RMME5TVDZLa2MySGZGMGdPVDF2QWdGVmpsN05fRk9jRmJZOFBsakdiT2I1X1lVYkpSUTFROHU0RFZGdnRvOXdYRlc4VnZRTzIyWG4xUU50SzRVRl8zaEZJS2lUaS1EZw?oc=5",
    "ts": "Thu, 29 Oct 2026 23:06:00 GMT"
@@ -455,9 +448,135 @@
   },
   {
    "src": "gnews",
+   "title": "China vows not to fire first shot in trade war with U.S. - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SUk5zc1pUSHl6bDgzREJjcTBxM1pjS0I3VWt4dl9xUFVQVDk2MlowdXpOUW9zQnZqdmM1MElBcUFhNi1GM20yRmFkS3pGSjJqZnJYQ1NtS0dVSXhQ?oc=5",
+   "ts": "Tue, 03 Nov 2026 08:47:49 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "ZTE ban lifted as China ponders next trade war move - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4eGlCeDMtZ2NEa0hFZi1xMm9PUW5iUzhkMEUzWjhUNkVmblY5SzFYTzF4QVlIVmtZSkRlel9nNUJXejJuQVBzMl9URVdLdURpem5nTjQ5YVE0aC01?oc=5",
    "ts": "Tue, 03 Nov 2026 08:47:46 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Democratic rep . endorses Republican as El - Sayed downplays parental rights concerns :  Education is on the ballot  ",
+   "url": "https://news.crossmap.com/2026/11/02/democratic-rep-endorses-republican-as-el-sayed-downplays-parental-rights-concerns-education-is/",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump makes final midterm pitch as Republican fight to keep control of Congress",
+   "url": "https://wwmt.com/news/nation-world/trump-makes-final-midterm-pitch-as-republican-fight-to-keep-control-of-congress-republicans-president-americans-washington",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "PODCAST : CT candidates make final push ahead of Election Day",
+   "url": "https://ctmirror.org/2026/11/02/podcast-ct-candidates-make-final-push-ahead-of-election-day/",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "California cosmetic dermatologist convicted in stunning case of Medicare fraud",
+   "url": "https://kfdm.com/news/nation-world/california-cosmetic-dermatologist-convicted-in-stunning-case-of-medicare-fraud-trump-administration",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Нова среща САЩ - Украйна - Русия ще се проведе в Абу Даби на 10 и 11 ноември",
+   "url": "https://www.focus-news.net/novini/mejdunarodni/Nova-sreshta-SASht-Ukraina-Rusiya-shte-se-provede-v-Abu-Dabi-na-10-i-11-noemvri-3050298",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Supreme Court rejects Trump administration push to set aside thousands of California ballots",
+   "url": "https://www.wpxi.com/news/local/supreme-court-rejects-trump-administration-push-set-aside-thousands-california-ballots/CI4AWBIVJZHHHBMLOMYGPA52VQ/",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "שודדי המיארלדים : צבא הסייבר של קים ג  ונג און",
+   "url": "https://www.ynet.co.il/economy/article/yokra14945754",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "NewsNation : США бьют по радарам и ракетным установкам на острове Кешм",
+   "url": "https://news.mail.ru/politics/72954255/",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "The Supreme Court rejects a DOJ push to separate California ballots",
+   "url": "https://www.kacu.org/2026-11-02/the-supreme-court-rejects-a-doj-push-to-separate-california-ballots",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Supreme Court Denies Trump Mail - In Ballot Appeal",
+   "url": "https://790waeb.iheart.com/content/2026-11-02-supreme-court-denies-trumps-mail-in-ballot-appeal/",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "What are the US midterm elections and what does Donald Trump have to do with them ? ",
+   "url": "https://www.abc.net.au/news/2026-11-03/what-are-the-us-midterm-elections-why-they-matter-to-trump/107114830",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Exclusive | Sonja Shaw vows academic focus in California superintendent race",
+   "url": "https://nypost.com/2026/11/02/us-news/sonja-shaw-vows-academic-focus-in-california-superintendent-race/",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump claims US is world largest supplier of oil and natural gas in final midterm campaign pitch",
+   "url": "http://www.argentinastar.com/news/279408514/trump-claims-us-is-world-largest-supplier-of-oil-and-natural-gas-in-final-midterm-campaign-pitch",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US military strikes Iran Qeshm Island",
+   "url": "https://www.newcastleherald.com.au/story/9384711/us-military-strikes-irans-qeshm-island/",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump says midterms most important  in our lifetime  as voters head to polls",
+   "url": "https://www.bordertelegraph.com/news/national/26692839.trump-says-midterms-important-in-lifetime-voters-head-polls/",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Is America really that polarized ? The answer might be a surprise",
+   "url": "https://wnyc.org/npr/nx-s1-6003534",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US struck Iran Qeshm Island , Wall Street Journal reports",
+   "url": "https://www.rnz.co.nz/news/world/2314745/us-struck-iran-s-qeshm-island-wall-street-journal-reports",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "South Dakotans flock to polls on election day eve",
+   "url": "https://www.kotatv.com/2026/11/03/south-dakotans-flock-polls-election-day-eve/",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "America Votes : What To Expect",
+   "url": "https://www.zerohedge.com/political/america-votes-what-expect",
+   "ts": "20261103T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Is America really that polarized ? The answer might be a surprise",
+   "url": "https://www.wxpr.org/2026-11-02/is-america-really-that-polarized-the-answer-might-be-a-surprise",
+   "ts": "20261103T021500Z"
   }
  ]
 }

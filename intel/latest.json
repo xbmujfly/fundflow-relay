@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-03T08:45:42Z",
+ "ts": "2026-11-03T09:00:28Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -353,15 +353,15 @@
   },
   {
    "src": "gnews",
-   "title": "China's slow buying of US farm goods tests $17 billion trade pledge - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGp4TlZzUzhLZkJsbVoyLWVtTVNHUmMtWVNteFpvbE9vYkZhcWxUSTdwQ0JyYi14MzdCN2dqeEU1Rkw5NHZISnhzbVV0Wno3U3M2b3FkRFdlXzBkdW5OT3RKRU5DamhSOWh1WVQyVk5ucG83amhtMDdqNWUwR2xianV2MUNtQ1Y0Qmo1QXJmOWd3SnB3eVZDcHpCZFFXc1MwamktYlRMeVhRc3FlZUlr?oc=5",
-   "ts": "Mon, 02 Nov 2026 10:16:42 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
    "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China's slow buying of US farm goods tests $17 billion trade pledge - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGp4TlZzUzhLZkJsbVoyLWVtTVNHUmMtWVNteFpvbE9vYkZhcWxUSTdwQ0JyYi14MzdCN2dqeEU1Rkw5NHZISnhzbVV0Wno3U3M2b3FkRFdlXzBkdW5OT3RKRU5DamhSOWh1WVQyVk5ucG83amhtMDdqNWUwR2xianV2MUNtQ1Y0Qmo1QXJmOWd3SnB3eVZDcHpCZFFXc1MwamktYlRMeVhRc3FlZUlr?oc=5",
+   "ts": "Mon, 02 Nov 2026 10:16:42 GMT"
   },
   {
    "src": "gnews",
@@ -371,15 +371,15 @@
   },
   {
    "src": "gnews",
-   "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms - MPR News",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHc1QVBGdDlLNXBiZ21Ya3c1bkNzaEdlOXJRUDd0NWhnRFBvcjRZcHFzWnFwdkFUVlNzMkFpQ1VNMkZsMXBQdWJXbnFKbXVxV0ZiaXZwNUtUbUdUdzFIeDlBOW11alBabGZqRFNpd09TZncwX0IxNFM0c2lZbzQ1cmtXbW5GNWVQM1BLVzU2d1RlSnpjUzZSYWE0NEIxTS1FMGxIQTVyano?oc=5",
-   "ts": "Sun, 01 Nov 2026 21:14:58 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China's AI trade has crashed. Now Beijing is trying to stop the stock market slide. - Business Insider",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFhlMFNUYXNQYUVKb3FHX3Y3bTRycTNpVDZ2TzJNWkZPUE9KcGpGZ09waTBaaktLc0pOczZtMWRCT2ItU1FoWXFpUGIzb2pvUVdJTXplbkxjS1ZjTUpmVzkyOUR6VlBBUGNKUG5feFEzb0h6TVFSenlRcThJRFdnWE1uUTJLMVNOSFRCVTFJMTdLNmNYMzdsLXAzekVmcUJfb3p2SmNCNGI?oc=5",
    "ts": "Tue, 03 Nov 2026 05:57:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms - MPR News",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHc1QVBGdDlLNXBiZ21Ya3c1bkNzaEdlOXJRUDd0NWhnRFBvcjRZcHFzWnFwdkFUVlNzMkFpQ1VNMkZsMXBQdWJXbnFKbXVxV0ZiaXZwNUtUbUdUdzFIeDlBOW11alBabGZqRFNpd09TZncwX0IxNFM0c2lZbzQ1cmtXbW5GNWVQM1BLVzU2d1RlSnpjUzZSYWE0NEIxTS1FMGxIQTVyano?oc=5",
+   "ts": "Sun, 01 Nov 2026 21:14:58 GMT"
   },
   {
    "src": "gnews",
@@ -431,15 +431,9 @@
   },
   {
    "src": "gnews",
-   "title": "Mark Carney says U.S., Canada teams will work on trade deal in ‘coming weeks’ - Politico",
+   "title": "Mark Carney says US, Canada teams will work on trade deal in ‘coming weeks’ - Politico",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRl9ZRnBLZVpTOXNpZVMxNmxwX2hvdjgxLWlRWElxMkFkcW52ejNkU3FzU2JLR1h3WnRCMFJ3WGVZSm51VEFlUnc3R2tLazdzUC0xbC1NRmJIcHFZdUQ0VWxnNzkybmppVGVHT2doRkVpanQwQjFkT3FxcUVfMEpGdlp0dw?oc=5",
    "ts": "Sun, 01 Nov 2026 20:06:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump To Remove Rwanda, South Africa From Trade Deal - Law360",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTk42dlAxWWYzMldXTm1YQ00ySTlBbWRjSkdkQ3dXZ3Y1cG5lMjJLTy0zaHNUbThEM3Rqbk51ejF1bzhheUs4dFFpQ2NFc1EtWmV2RmVZd2YzMlNnLWFPUFZIZW1LX09uS1FPYVpGUTFfeXJvSXIxdlNxcDJTQkNJQW9fUm90VVU3T0lKWHZQd3JaWU0zWEt4eU56TnM1b1Fwd2xjWFkzWdIBVkFVX3lxTFBiSGNDUmlWYWctWDdYNk55dnA0QnhKOW1sVEZrWTJ1RU5aZ3MyVEFITjNlTXh0bmVjckN4b2Fzb0JSVlBhWkx2SUlOOHFQdWhmWXF6WHZB?oc=5",
-   "ts": "Mon, 02 Nov 2026 22:02:00 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Washing away the US: Tariff evasion on the other side of the US–China trade war - CEPR",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdXFOOE9ybUFrVGNraFdvaWNEdDM1YXlVdU1xTVNFdW1aTUVlYkNyeUtoRGJVNXJkeUF3WXE4Y3c0ZVJsTldybDA4UFEydDdEcUN0TnBlTHVJcnhDb1ZPSTBMcFBLSU5fdERrRlNONEx4bUItMEZiaVRLMzBmbnFBLVRLTTR4MlZzNFl2UE1IMlc0VURjeUE?oc=5",
-   "ts": "Mon, 26 Oct 2026 00:55:04 GMT"
+   "title": "ZTE ban lifted as China ponders next trade war move - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4eGlCeDMtZ2NEa0hFZi1xMm9PUW5iUzhkMEUzWjhUNkVmblY5SzFYTzF4QVlIVmtZSkRlel9nNUJXejJuQVBzMl9URVdLdURpem5nTjQ5YVE0aC01?oc=5",
+   "ts": "Tue, 03 Nov 2026 08:47:46 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Nvidia orders data centre clients to reduce China exposure - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcERsWE1GekIyVGJ1cmZzdHdvQnp2TkUtUi00eW5kUlBoeFZNbE5xNFZCMHNZdC02cmhvWXFudFRhRmM3RlpHUWtaZEdpR21rWnpwaFBaajNGMHY0WHYwcGlKbFZwUnhCLVQtRmZGZ0tBVV9fd1dlV041LUg3bnhDcE14emY?oc=5",
+   "ts": "Tue, 03 Nov 2026 05:02:08 GMT"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-04T14:15:25Z",
+ "ts": "2026-11-04T14:30:25Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -347,6 +347,12 @@
   },
   {
    "src": "gnews",
+   "title": "Trump's midterm drubbing could give trade partners room to resist - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1l2eFV1eVp6bE01NW40RDUtcmU2REdDOUZDRU5JSmdDN0MtNElwaUZXQ3VVUUVqV0tuSFZNb3RaeTBNd2JXanAyRlJ6UUU0S1pPMVdzYjV6OUpyRW1yc1hST1o4SFozN0JZYzU4dldLSXNkc05VeUwyV0E5TXotUC1lYXhEN2FtaTBXN3hOdHR2T1FaSE1Kc2ZHdnExcFZuWUpxVWwxQQ?oc=5",
+   "ts": "Wed, 04 Nov 2026 13:14:13 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Canada's Carney reports progress in trade talks with U.S. and Trump talks up 'concept' of a deal - PBS",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXdDTGJYWklRa09zNVZrZGpGa3ptMkN6eTBVbGw5V01RVl9VTktCMVNpSmFFWGR5YWJpUkJmQVUxeUNTSm5tYlJvQ05SNTFUQVZ3Z1NfbE9UVmQydDZ5LTk2YS12S3R3VzY2cHptSktvaUdmR3FOamhENFY5bG1LOFRVQzdGV09iY2Y1VGZ5Vi1oQThBWVQ4Q3V5aG9tajNZXzBwSVBOaTVKd1ZVazhHYkxCb09wVFd2OHlzeE1wSS1fTXJXNlNlaDRuanhwUdIB0wFBVV95cUxOTHBudWVpLWJfSkQ5RkJiay1FeWRtYzJmUnpRMEFzeXZzWlZqcDBqOUNmcE05cm54cnNhU0EwU2prTXg1Ml9tdUdlcGxHbWhXZXliZVV2WjZYWDlGSHVBcG1HNTVuUG1XX3F0a3FwWWQ3NFdDaG1FanlCbFcyT3dlTzZhRGx6TWJpZGxZbWJuVVctQ2tOdjl6NWc5enMwWm9EOWNxcjdYU2xXdU03YVBRa2RWblBkclF4RzNSMGV1MFNHQWxQUm81SmlvX0pGWE9MVW84?oc=5",
    "ts": "Sun, 01 Nov 2026 18:00:43 GMT"
@@ -356,18 +362,6 @@
    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
    "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "COMMENTARY: Asia hopes Democrats can provide relief from Trump's Iran war, tariffs - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUk1naVB2YlNzNHNsUVA1ZVp4ZU5QaUNocUZjdkt0VVdHZVVmZXdRZzhSdUt5RFROWXlBclNEM0p0NnJTc3dqaWlBWVhoUWRVczliT2JGR3l3RXU0R1N0aGZicXFZSkdiNjd6dmZJWVVoRWp4X21wNUJNd2EzOG5CMnJoR1ExaW1lX1Q4R0o0cHhBM1lZX0lnd0NLMkFVaTJZZ0FvUVNfejFaaFViQU9tX3REV2ZBNjdCOHU3ak1EcUdJX2xsbFdCWE9pVzk?oc=5",
-   "ts": "Wed, 04 Nov 2026 13:00:41 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump's Midterm Rebuke Gives Trading Partners Room to Resist - U.S. News & World Report",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdkdMNzMyRzhYR2RtUmMtQ3M5ZHF3UDlzeHE5N1Jpc1lsX3A0Rk02aEJ1d2VhbWpmc3lQazdQd3RabVdGLXJsdGo2VTNnZ3pBYUZCQjkya2dVNmpoVFRNVzJOYUR0djVOZXZIWENDc1l5UzYxTTlWNjNiWmFDeFl3UTVDb2YwSnVzWDhzVUhkUHlHcmdVV3JYUEZvbXNFTlhNUV9kLXV0WjJSUUZJdHZaNldSNA?oc=5",
-   "ts": "Wed, 04 Nov 2026 09:34:00 GMT"
   },
   {
    "src": "gnews",
@@ -395,6 +389,12 @@
   },
   {
    "src": "gnews",
+   "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
+   "ts": "Thu, 29 Oct 2026 16:23:22 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Europe’s Deal Limiting Chinese Auto Imports - Council on Foreign Relations",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03TUdiZE8ydWpvRTRfLTh0Mm83anh5ZEpQQkthaUpiSkNUX3UyYVBfWVhOeTdnS2Z5UnppU1BvUVRjMnNzck1IQ1BwTlpaYXVUa1lKWWQ4THV3Y2tBeUdUc2xn?oc=5",
    "ts": "Mon, 02 Nov 2026 16:02:55 GMT"
@@ -419,15 +419,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump's midterm drubbing could give trade partners room to resist - The Lufkin Daily News",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSVlZRnlTaEdKblZtbTdWNVFXWVhFYzBsbFhtYnY2LURtcDNTMHcwdl9tSmRJeGM2MmFDR3NzRHZQdFdCTGJDTzhIMURjR0xDOXJVX2lrU0gyazNCd3RtM25IakdCTmx5Z3lpTVpVUFU0UkRhVGVTVFB0VHRNWnMwdFlIMEFScVkwMmljd25DWldKTWlfdmZpRDh0OWkzQ0RGcF9TN1Fmek1QUWJ1NkE3bF9yRDdqUEhzVVNBUGJlaHJiNV9WWWxVbDkzRDdjdHMycXlKUTU1U21ONEpIeEZ2R3MyRTZJOTduMjgtczVlNk1WMWF1ZG40?oc=5",
-   "ts": "Wed, 04 Nov 2026 13:13:50 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Brazil's Farm Debt Crisis Puts Global Suppliers and China Trade Under Pressure - AgroLatam",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa3VvZHpFWTBROGx4MFVWRHhscjJiOWpURUxWVGlrREVFV2tFR1ZzRzU3TnNQUjNWMzA2dzgxMjl5LXFrdXVTaWZGd0VMVGpOeV9jZDB6VUJ1X2stemM4dVlGOXBQSHN3eVpzalNpQ1pIN0VkbmJ2VFNXT2VjQnd4bXBKUmluZUhzMl8xTXV2VnVRZw?oc=5",
-   "ts": "Tue, 03 Nov 2026 18:46:27 GMT"
+   "title": "Trump: U.S., Canada Have ‘Concept’ of a Trade Deal - Advanced Manufacturing",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM1ZMdGxhTUh0Wi16aVdSekEyOEVhTWJ3b0NscXlkUWZ2WDJKMk9KcWtzT2ZfeDBTdk04ZEx2UFM2UzJIMUQ3dVNHaWpvYklLbkdmTUhRRWJvdmhqUEllZnkteDdvV2I1MGJYNnNadm1LMjRpdVRfT1l0R2g4aGRxMUdNN1VsVTdyNkpRYmMtYjdwVGpxVDVoUmFvWnBkQW5Id2JxbU4tdXQ3c3RRckZreDN0WncwNnRFVVRMS3pkb1c0YlJKYlNhU2stY2lKWXFrek52YzZMaG9BQUZtYkdIVUZSams?oc=5",
+   "ts": "Wed, 04 Nov 2026 14:15:00 GMT"
   },
   {
    "src": "gnews",
@@ -437,9 +431,9 @@
   },
   {
    "src": "gnews",
-   "title": "Why a midterm mauling for Trump will not bring Asia trade relief - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcWFpa05tREVsNFJLWXgwT3VqdTctX1F4UjNoSUhUXzN4ZlhoczNsUEFkeXhHalpaenY0TDZFbkpGN01HWDhyYUJyMDdIdUs5Z285X0NiYmVoQU1zVjVWODhiQlJnZnRabkNZMjhVRlNRR0JOUXpOS0FPYVBMNlBSbHRLVWRyUXdLcXprUnhfY2FhcWEyQ2Y4cFZ6Y1A0UEJKbHIyN2xLWDNiMExONUZzUnVkM3BaQdIBtgFBVV95cUxPN3pWM2hobGxjMkZicS1FX2pzX09fSkVzMUJOS3BhclRQb2pkbDh6ajFlMld0cDZRYVBqM2ZTZUpWdG9vLVQtek5Nbk1Zd2N0eFZQYlZVSHdJM1N2NDRobDNGUkxpVXZ6cEtzaUlLWDhGU1haUWl4ek51dFB0RVNuYzVVMEJkNGNQTU1rQUNtSC1WM19CdGhLMVlqVTYySEVZcUJVSlFqWVNuVUhIOTJBVEZsR0lTUQ?oc=5",
-   "ts": "Tue, 03 Nov 2026 11:30:08 GMT"
+   "title": "COMMENTARY: Asia hopes Democrats can provide relief from Trump's Iran war, tariffs - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUk1naVB2YlNzNHNsUVA1ZVp4ZU5QaUNocUZjdkt0VVdHZVVmZXdRZzhSdUt5RFROWXlBclNEM0p0NnJTc3dqaWlBWVhoUWRVczliT2JGR3l3RXU0R1N0aGZicXFZSkdiNjd6dmZJWVVoRWp4X21wNUJNd2EzOG5CMnJoR1ExaW1lX1Q4R0o0cHhBM1lZX0lnd0NLMkFVaTJZZ0FvUVNfejFaaFViQU9tX3REV2ZBNjdCOHU3ak1EcUdJX2xsbFdCWE9pVzk?oc=5",
+   "ts": "Wed, 04 Nov 2026 13:00:41 GMT"
   },
   {
    "src": "gnews",
@@ -449,15 +443,21 @@
   },
   {
    "src": "gnews",
-   "title": "Trump says US close to trade deal with Canada, Carney says work remains - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS0lFb2F4bzhXWlFPSE5Sb0VadkVXclRDMGRaQ3VtTkRBanQyU0NQdXo0dGlHUGJuVlJBQ2Y0azF6UnJIbm9YYWRHNnRKRXBIMmVBcG1UaEFCeUNiS0ZWSXR5aXRPYWJMcVk5a3k5Vk45RUw5WExjZmZ4bW5xbUhzdWtnMnZqMkszSnJtUkJ1bWZnQ1hoSmNBcVQ0Sk9QSGJwLU5uZ19rVjg2RDRzczlCemJUWTdLUXJJc2JLU3BXN2RKR3YzTGphanJZNNIBywFBVV95cUxPaE9NVzJ1cDVTdzRXN0dVdjhiN29vRjNDZTVDbmNyTXVaOTQ0elp4dGdhTFFEbmQzbGlQei1KcFNTTHRGWU42ZkVfMldETk5aWXh5Y2M3S2xsVlA0N3Z1QU9XdTZtZU51T2NPMXlGTzhwOFVMUWZDVDJKV0t0clI5RTExQUg5UmwxUFpZSDFFUTlaTmtVSmsxX3BGaDZTUkRqS1RuVl9sNHVoOFFYQTJwSldvXzZURF91UUdrcV9jSUljbU15dzY0ZE1RMA?oc=5",
-   "ts": "Tue, 03 Nov 2026 23:42:34 GMT"
+   "title": "China trade accord with Swiss bucks wider trend towards protectionism - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkQ4YmJ3dHdaYVYzcXlkcUQ1V19QMU9mQ2tFd1RuQ1NEckN3ZTIxSFMzSkJxQzQ1UjdXTDVjRzlwdHNpUE13dUJKS19hQ0hndHlTdThtOEpLU1g5NXcxWnphT0RMME5TVDZLa2MySGZGMGdPVDF2QWdGVmpsN05fRk9jRmJZOFBsakdiT2I1X1lVYkpSUTFROHU0RFZGdnRvOXdYRlc4VnZRTzIyWG4xUU50SzRVRl8zaEZJS2lUaS1EZw?oc=5",
+   "ts": "Thu, 29 Oct 2026 23:06:00 GMT"
   },
   {
    "src": "gnews",
    "title": "South Africa braces for some job losses as US trade benefits end - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZTlrOFlkVWh5U3FDTVhjc3pmdThYY1NvbVVZWlRsNFNfNUo2S0dJRVpDTFBGeFFvZmRQU0V0VHB1TmxVV2x0ZUJ6NXh6WkxRNmNpTHFMSGlyWHNnLWdLdXdYYVhtMFcwWXlxX0VXU1BJNFNTaGlLUDhzRzQ0WG5JNFVpaW9mSzhpWkVfd2d2LTRteV9lajRVbVpjTkRWZ3BuR3VIc3MyWFgzdw?oc=5",
    "ts": "Tue, 03 Nov 2026 16:32:09 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Why a midterm mauling for Trump will not bring Asia trade relief - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcWFpa05tREVsNFJLWXgwT3VqdTctX1F4UjNoSUhUXzN4ZlhoczNsUEFkeXhHalpaenY0TDZFbkpGN01HWDhyYUJyMDdIdUs5Z285X0NiYmVoQU1zVjVWODhiQlJnZnRabkNZMjhVRlNRR0JOUXpOS0FPYVBMNlBSbHRLVWRyUXdLcXprUnhfY2FhcWEyQ2Y4cFZ6Y1A0UEJKbHIyN2xLWDNiMExONUZzUnVkM3BaQdIBtgFBVV95cUxPN3pWM2hobGxjMkZicS1FX2pzX09fSkVzMUJOS3BhclRQb2pkbDh6ajFlMld0cDZRYVBqM2ZTZUpWdG9vLVQtek5Nbk1Zd2N0eFZQYlZVSHdJM1N2NDRobDNGUkxpVXZ6cEtzaUlLWDhGU1haUWl4ek51dFB0RVNuYzVVMEJkNGNQTU1rQUNtSC1WM19CdGhLMVlqVTYySEVZcUJVSlFqWVNuVUhIOTJBVEZsR0lTUQ?oc=5",
+   "ts": "Tue, 03 Nov 2026 11:30:08 GMT"
   }
  ]
 }

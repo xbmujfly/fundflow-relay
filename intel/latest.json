@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-04T23:30:26Z",
+ "ts": "2026-11-04T23:45:21Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -371,6 +371,12 @@
   },
   {
    "src": "gnews",
+   "title": "Democrats’ Election Victory Raises Canada’s Hopes of US Tariff Relief - Morningstar",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcEtvdUt2VWw0emFoWGFxSE5tQXZpMnJYUTNQNFZ1Mks2Rm9VLVB6SnJ0cDJ4VDNzVEE1Ym1OS1gyWEVCd2g3NG1LWnlqa3VHZlFCZ3FybllSX3ljSWNpUmh5NHE1ZElSRkQ1RV83enhrY1VmRTZ2S3NyYUkwMmdVQmdoYWc5RlY2M2EtQk9WV1c2b0ZjaE5JdlB6NUFrbGhsNHd3NWgyelZkZzg4bWc?oc=5",
+   "ts": "Wed, 04 Nov 2026 22:49:05 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
    "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
@@ -425,12 +431,6 @@
   },
   {
    "src": "gnews",
-   "title": "Democratic Sweep Revives the Stalled Copper Tariff Trade - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclhEaDhWNFBZeWNhWS1fU2daRVUtNUU3WDFqZ3I0MDBVYmk5ckFhRndvQk1maE9DYWlqLTNHSFdPUnZGWVZGQkdsVk5HNjJicElKckNCbnVzeHVCNU9EaDhhYzZrRnh5djQzVU4zQ3VtUUp5SnRoN3VDaDY2VkhkSDlTTjZVNVBzSFRnX29GdU01c1dqVFhla2xyTnRkMFA3NHh1dDhpZlFXVXVxNGt4REhZamItSlk?oc=5",
-   "ts": "Wed, 04 Nov 2026 21:40:44 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "From Iran to trade: how the US midterms impact the rest of the world - Reuters",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMk5tUl8yRml4eVVXZThHYnhwejMtb3VqUTR6c3lIel9CUjlQYnprMFdJOGRkY1BvcXU5eS0zeEg3Wnc3bHhPTnYyMms5bmpYVmxUVGNpeEJzZGhLUUVWcWY2dDhZTXBOR1pSRldGRUZyeGVkMU5RMkREejBqLUh5Y1IzTklIRTdHeUtweFh0SWVocUZuYlNmNTg5ZGFDa3c?oc=5",
    "ts": "Wed, 04 Nov 2026 19:40:29 GMT"
@@ -449,15 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Canada to continue trade talks with Trump administration following US midterms: Official - Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTnBQUjlTT1hSeGxnaVZOaDZwd1J0bzhXWXo5RV9JWkczdmNFREQ0TEJvOGNHOHBfSGk3VWVKcy1EWENzWUVuT3dIYVBRR0kzVUNtNmVIUFZhRjVmUXpLQnFMWVRtSy1HazhHV1RLbUl0M0NQQVdMOVhKakF6eHppMHYtTHlRSXhHc1dPNzdFaDFvVFc5ZExRTW1UMEliR1p3MEZHcUdyZVo4X1hRMlN3VGp5T3BqWlBYdmlOZThFS2RsVjA?oc=5",
-   "ts": "Wed, 04 Nov 2026 22:19:45 GMT"
+   "title": "Democratic Sweep Revives the Stalled Copper Tariff Trade - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclhEaDhWNFBZeWNhWS1fU2daRVUtNUU3WDFqZ3I0MDBVYmk5ckFhRndvQk1maE9DYWlqLTNHSFdPUnZGWVZGQkdsVk5HNjJicElKckNCbnVzeHVCNU9EaDhhYzZrRnh5djQzVU4zQ3VtUUp5SnRoN3VDaDY2VkhkSDlTTjZVNVBzSFRnX29GdU01c1dqVFhla2xyTnRkMFA3NHh1dDhpZlFXVXVxNGt4REhZamItSlk?oc=5",
+   "ts": "Wed, 04 Nov 2026 21:40:44 GMT"
   },
   {
    "src": "gnews",
-   "title": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObVJlTmFuVEh3WkZZZS12S0NPTjRoamIzUVJCNURKWHl6QzR5eHpjT0pobGt0b0ZSLWw0TE1seWV0S1ZLRjJOb1ByZWVCVmJEcXRlZ29kbzA0X0ppTmVTZ1M4cHVSRnhWMy1USGxhTmtROFU0V3luU1lsWTlkeVFqU3BwUXlQaTU2NEpPNC1xRTE0TlFyRjJYd1ZCNlhsZHFiaFpFbGNlem9pdm0teVZaUExyY2x6QTFnWUQzamdDYlpVT0hlUXdfY1h0bks0Zw?oc=5",
-   "ts": "Sun, 01 Nov 2026 11:14:38 GMT"
+   "title": "Canada to continue trade talks with Trump administration following US midterms: Official - Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTnBQUjlTT1hSeGxnaVZOaDZwd1J0bzhXWXo5RV9JWkczdmNFREQ0TEJvOGNHOHBfSGk3VWVKcy1EWENzWUVuT3dIYVBRR0kzVUNtNmVIUFZhRjVmUXpLQnFMWVRtSy1HazhHV1RLbUl0M0NQQVdMOVhKakF6eHppMHYtTHlRSXhHc1dPNzdFaDFvVFc5ZExRTW1UMEliR1p3MEZHcUdyZVo4X1hRMlN3VGp5T3BqWlBYdmlOZThFS2RsVjA?oc=5",
+   "ts": "Wed, 04 Nov 2026 22:19:45 GMT"
   }
  ]
 }

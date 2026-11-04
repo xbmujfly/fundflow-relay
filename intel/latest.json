@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-04T15:15:28Z",
+ "ts": "2026-11-04T15:30:27Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -347,12 +347,6 @@
   },
   {
    "src": "gnews",
-   "title": "Trump's midterm drubbing could give trade partners room to resist - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1l2eFV1eVp6bE01NW40RDUtcmU2REdDOUZDRU5JSmdDN0MtNElwaUZXQ3VVUUVqV0tuSFZNb3RaeTBNd2JXanAyRlJ6UUU0S1pPMVdzYjV6OUpyRW1yc1hST1o4SFozN0JZYzU4dldLSXNkc05VeUwyV0E5TXotUC1lYXhEN2FtaTBXN3hOdHR2T1FaSE1Kc2ZHdnExcFZuWUpxVWwxQQ?oc=5",
-   "ts": "Wed, 04 Nov 2026 13:14:13 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "How Election Losses Will Alter the Politics of Trump’s Tariffs - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkR4Y281dTEzaXdYZjZVeGhIVlZLUDJMZVBCTWM3TWNWLUpLdE1lRkRTX3VmN3RPR1p6a2J6Yzc1MEJTN1hUY3BrUVBWS0gwSU5UUnpZS3ViTFNaM0MySTlWSGVSZHB0UHR0QWtYNnhmMFhMUUNVUEFad0k4Q0YzZmZTMDFmalFjUkgxby1KejBKY3lhQW9Ud3FhR3VaOUh2d3ppYmlDSQ?oc=5",
    "ts": "Wed, 04 Nov 2026 12:04:08 GMT"
@@ -371,9 +365,15 @@
   },
   {
    "src": "gnews",
-   "title": "America’s Trade Deficit Remained Elevated in September - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTE5FdlY5Smp1bVpHYldrZlNTWHRkS2NCUDdoVXJGejNlOWNTbmxweEgyZU92T05IOUVKTkxUcTdOdTlyLS16NmU2NnJKSDJleVJJVi1JS1FvWVczNkdkR3U5WUQ3X1B5SEVfdHpYSzBoU3I4VTRYRGItUTlFa0sxQg?oc=5",
-   "ts": "Wed, 04 Nov 2026 13:57:45 GMT"
+   "title": "China's slow buying of US farm goods tests $17 billion trade pledge - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGp4TlZzUzhLZkJsbVoyLWVtTVNHUmMtWVNteFpvbE9vYkZhcWxUSTdwQ0JyYi14MzdCN2dqeEU1Rkw5NHZISnhzbVV0Wno3U3M2b3FkRFdlXzBkdW5OT3RKRU5DamhSOWh1WVQyVk5ucG83amhtMDdqNWUwR2xianV2MUNtQ1Y0Qmo1QXJmOWd3SnB3eVZDcHpCZFFXc1MwamktYlRMeVhRc3FlZUlr?oc=5",
+   "ts": "Mon, 02 Nov 2026 10:16:42 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump's Midterm Drubbing Could Give Trade Partners Room to Resist - U.S. News & World Report",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdkdMNzMyRzhYR2RtUmMtQ3M5ZHF3UDlzeHE5N1Jpc1lsX3A0Rk02aEJ1d2VhbWpmc3lQazdQd3RabVdGLXJsdGo2VTNnZ3pBYUZCQjkya2dVNmpoVFRNVzJOYUR0djVOZXZIWENDc1l5UzYxTTlWNjNiWmFDeFl3UTVDb2YwSnVzWDhzVUhkUHlHcmdVV3JYUEZvbXNFTlhNUV9kLXV0WjJSUUZJdHZaNldSNA?oc=5",
+   "ts": "Wed, 04 Nov 2026 09:34:00 GMT"
   },
   {
    "src": "gnews",
@@ -407,6 +407,12 @@
   },
   {
    "src": "gnews",
+   "title": "Trump Removes South Africa From the African Growth and Opportunity Act Trade Program - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFRqMVNkZnhKUEh5MFhnY3NwbDlqMWN2cXM1U2JuZzBYNWNQejFVb1VkVTB4M1BmQzJLOGUzZmNaLThZaV9QRXRwaGVqOUhQT1dxZnpiYnNzYXhRcHBja01jTTRkMzMyVWFzNEpnQTZPVlZsYUVvb2ZSblNWdjVCcnZmc3VYMHR1b1Fsd3gwZmhrOWpG?oc=5",
+   "ts": "Mon, 02 Nov 2026 19:14:50 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump Delays Robotics Tariffs and Orders New Trade Negotiations - Legis1",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vdHM0Vk1FTlE4bG5lV1ZJM1RRUlVQWVNoSm9oaXc2SUo4cU9RZk9QTERFZHR6U2xRM09yV21saXo0ZXhtdTdpSE83eklUME1oTVZya05hQ1UwakJSZ1V2Zkd0cVRfWFJnUmdxVkI1NEhmTzViRGtGWTRhQnI?oc=5",
    "ts": "Tue, 03 Nov 2026 17:53:49 GMT"
@@ -425,21 +431,15 @@
   },
   {
    "src": "gnews",
-   "title": "China's slow buying of US farm goods tests $17 billion trade pledge - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGp4TlZzUzhLZkJsbVoyLWVtTVNHUmMtWVNteFpvbE9vYkZhcWxUSTdwQ0JyYi14MzdCN2dqeEU1Rkw5NHZISnhzbVV0Wno3U3M2b3FkRFdlXzBkdW5OT3RKRU5DamhSOWh1WVQyVk5ucG83amhtMDdqNWUwR2xianV2MUNtQ1Y0Qmo1QXJmOWd3SnB3eVZDcHpCZFFXc1MwamktYlRMeVhRc3FlZUlr?oc=5",
-   "ts": "Mon, 02 Nov 2026 10:16:42 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump Removes South Africa From the African Growth and Opportunity Act Trade Program - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFRqMVNkZnhKUEh5MFhnY3NwbDlqMWN2cXM1U2JuZzBYNWNQejFVb1VkVTB4M1BmQzJLOGUzZmNaLThZaV9QRXRwaGVqOUhQT1dxZnpiYnNzYXhRcHBja01jTTRkMzMyVWFzNEpnQTZPVlZsYUVvb2ZSblNWdjVCcnZmc3VYMHR1b1Fsd3gwZmhrOWpG?oc=5",
-   "ts": "Mon, 02 Nov 2026 19:14:50 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "COMMENTARY: Asia hopes Democrats can provide relief from Trump's Iran war, tariffs - Reuters",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUk1naVB2YlNzNHNsUVA1ZVp4ZU5QaUNocUZjdkt0VVdHZVVmZXdRZzhSdUt5RFROWXlBclNEM0p0NnJTc3dqaWlBWVhoUWRVczliT2JGR3l3RXU0R1N0aGZicXFZSkdiNjd6dmZJWVVoRWp4X21wNUJNd2EzOG5CMnJoR1ExaW1lX1Q4R0o0cHhBM1lZX0lnd0NLMkFVaTJZZ0FvUVNfejFaaFViQU9tX3REV2ZBNjdCOHU3ak1EcUdJX2xsbFdCWE9pVzk?oc=5",
    "ts": "Wed, 04 Nov 2026 13:49:26 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Why a midterm mauling for Trump will not bring Asia trade relief - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcWFpa05tREVsNFJLWXgwT3VqdTctX1F4UjNoSUhUXzN4ZlhoczNsUEFkeXhHalpaenY0TDZFbkpGN01HWDhyYUJyMDdIdUs5Z285X0NiYmVoQU1zVjVWODhiQlJnZnRabkNZMjhVRlNRR0JOUXpOS0FPYVBMNlBSbHRLVWRyUXdLcXprUnhfY2FhcWEyQ2Y4cFZ6Y1A0UEJKbHIyN2xLWDNiMExONUZzUnVkM3BaQdIBtgFBVV95cUxPN3pWM2hobGxjMkZicS1FX2pzX09fSkVzMUJOS3BhclRQb2pkbDh6ajFlMld0cDZRYVBqM2ZTZUpWdG9vLVQtek5Nbk1Zd2N0eFZQYlZVSHdJM1N2NDRobDNGUkxpVXZ6cEtzaUlLWDhGU1haUWl4ek51dFB0RVNuYzVVMEJkNGNQTU1rQUNtSC1WM19CdGhLMVlqVTYySEVZcUJVSlFqWVNuVUhIOTJBVEZsR0lTUQ?oc=5",
+   "ts": "Tue, 03 Nov 2026 11:30:08 GMT"
   },
   {
    "src": "gnews",
@@ -449,9 +449,9 @@
   },
   {
    "src": "gnews",
-   "title": "Why a midterm mauling for Trump will not bring Asia trade relief - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcWFpa05tREVsNFJLWXgwT3VqdTctX1F4UjNoSUhUXzN4ZlhoczNsUEFkeXhHalpaenY0TDZFbkpGN01HWDhyYUJyMDdIdUs5Z285X0NiYmVoQU1zVjVWODhiQlJnZnRabkNZMjhVRlNRR0JOUXpOS0FPYVBMNlBSbHRLVWRyUXdLcXprUnhfY2FhcWEyQ2Y4cFZ6Y1A0UEJKbHIyN2xLWDNiMExONUZzUnVkM3BaQdIBtgFBVV95cUxPN3pWM2hobGxjMkZicS1FX2pzX09fSkVzMUJOS3BhclRQb2pkbDh6ajFlMld0cDZRYVBqM2ZTZUpWdG9vLVQtek5Nbk1Zd2N0eFZQYlZVSHdJM1N2NDRobDNGUkxpVXZ6cEtzaUlLWDhGU1haUWl4ek51dFB0RVNuYzVVMEJkNGNQTU1rQUNtSC1WM19CdGhLMVlqVTYySEVZcUJVSlFqWVNuVUhIOTJBVEZsR0lTUQ?oc=5",
-   "ts": "Tue, 03 Nov 2026 11:30:08 GMT"
+   "title": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObVJlTmFuVEh3WkZZZS12S0NPTjRoamIzUVJCNURKWHl6QzR5eHpjT0pobGt0b0ZSLWw0TE1seWV0S1ZLRjJOb1ByZWVCVmJEcXRlZ29kbzA0X0ppTmVTZ1M4cHVSRnhWMy1USGxhTmtROFU0V3luU1lsWTlkeVFqU3BwUXlQaTU2NEpPNC1xRTE0TlFyRjJYd1ZCNlhsZHFiaFpFbGNlem9pdm0teVZaUExyY2x6QTFnWUQzamdDYlpVT0hlUXdfY1h0bks0Zw?oc=5",
+   "ts": "Sun, 01 Nov 2026 11:14:38 GMT"
   },
   {
    "src": "gnews",

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-04T01:30:27Z",
+ "ts": "2026-11-04T01:45:25Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -395,15 +395,15 @@
   },
   {
    "src": "gnews",
-   "title": "Washington and Ottawa attempt trade truce with renewed talks - KATU",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNlRkTmFpSWVYNjM2SzdKTUNuTUV1Znl3c0pIa2dTM0tYSHVCQll2RXFmLUlCTkp2Y1B6cU5HWllJY1duNDI3TzNVUXpRZGlGcXFEWkwtQlpDdlViUDg4YkZsU2xRTlY5anZid1BIVmg3RjNQWVVqZHJYSlQxN2FZZVF4SlcteFh0YnBicDBWbEdBelo0R0V3czYxa3lLMVZPMUJILXdOc292SGY1S3dJZ3NiQ3ZhUENyVGJvcTBsMUpVTGQyTE9Rdjl1Z2xCRWZ1MzhLT1R6Y0RBQ0ZKdHJ5Z1Z5VnIwc0R5Q3c?oc=5",
-   "ts": "Tue, 03 Nov 2026 21:59:52 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s soaring chemical exports threaten new trade war front - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
    "ts": "Mon, 02 Nov 2026 06:43:12 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Washington and Ottawa attempt trade truce with renewed talks - KATU",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNlRkTmFpSWVYNjM2SzdKTUNuTUV1Znl3c0pIa2dTM0tYSHVCQll2RXFmLUlCTkp2Y1B6cU5HWllJY1duNDI3TzNVUXpRZGlGcXFEWkwtQlpDdlViUDg4YkZsU2xRTlY5anZid1BIVmg3RjNQWVVqZHJYSlQxN2FZZVF4SlcteFh0YnBicDBWbEdBelo0R0V3czYxa3lLMVZPMUJILXdOc292SGY1S3dJZ3NiQ3ZhUENyVGJvcTBsMUpVTGQyTE9Rdjl1Z2xCRWZ1MzhLT1R6Y0RBQ0ZKdHJ5Z1Z5VnIwc0R5Q3c?oc=5",
+   "ts": "Tue, 03 Nov 2026 21:59:52 GMT"
   },
   {
    "src": "gnews",
@@ -425,15 +425,15 @@
   },
   {
    "src": "gnews",
-   "title": "China's AI trade has crashed. Now Beijing is trying to stop the stock market slide. - Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFhlMFNUYXNQYUVKb3FHX3Y3bTRycTNpVDZ2TzJNWkZPUE9KcGpGZ09waTBaaktLc0pOczZtMWRCT2ItU1FoWXFpUGIzb2pvUVdJTXplbkxjS1ZjTUpmVzkyOUR6VlBBUGNKUG5feFEzb0h6TVFSenlRcThJRFdnWE1uUTJLMVNOSFRCVTFJMTdLNmNYMzdsLXAzekVmcUJfb3p2SmNCNGI?oc=5",
-   "ts": "Tue, 03 Nov 2026 08:55:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump Says US Is Close to Making a Trade Deal With Canada - GV Wire",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXlDeUpPQUlpb3A0aHljdkZnYkJIQUFvMnJLenhrd0tTMDhEMVRMNW8wVUpaUURmMDRpb2k1eldERWpIYlJtU3d6MGNQMmRXTU9jaVYtSFlURFEzc3lnaElUZTlGUi1mRERzNUZVTHNTanZpZVpwOHViaENuZW5sVDk0aENjcnd1bWhHeEQ0VFNpUQ?oc=5",
    "ts": "Tue, 03 Nov 2026 16:11:25 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China's AI trade has crashed. Now Beijing is trying to stop the stock market slide. - Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFhlMFNUYXNQYUVKb3FHX3Y3bTRycTNpVDZ2TzJNWkZPUE9KcGpGZ09waTBaaktLc0pOczZtMWRCT2ItU1FoWXFpUGIzb2pvUVdJTXplbkxjS1ZjTUpmVzkyOUR6VlBBUGNKUG5feFEzb0h6TVFSenlRcThJRFdnWE1uUTJLMVNOSFRCVTFJMTdLNmNYMzdsLXAzekVmcUJfb3p2SmNCNGI?oc=5",
+   "ts": "Tue, 03 Nov 2026 08:55:00 GMT"
   },
   {
    "src": "gnews",

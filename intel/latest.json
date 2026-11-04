@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-04T00:00:28Z",
+ "ts": "2026-11-04T00:15:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "URLError: <urlopen error timed out>"
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -341,7 +341,7 @@
   },
   {
    "src": "gnews",
-   "title": "Trump’s trade chief pushing him to rein in Canada trade war - Politico",
+   "title": "Trump’s trade chief pushing him to step up negotiations with Canada - Politico",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUY3c1JIclBSa09VTXM3UlJiMWtrUkxUdFJoRTV6Zl9ZZGJQcUlCTFppQm9ESWhrcGVfTWRHdy1SSkU4U2ktY2ZiMEtWNnBiWkhDQmVuajlhTlFDa3NJM0dESGNTeWdPbmNMWTBxV2swVkhLbV9QdFdhUWhORl9Ca2NHUFlxNEFFamRWNzhQRlJEdFNadkd5M1RQMTM?oc=5",
    "ts": "Tue, 03 Nov 2026 23:55:00 GMT"
   },
@@ -383,12 +383,6 @@
   },
   {
    "src": "gnews",
-   "title": "Will China Shock 2.0 trigger an EU-China trade war? - ABN AMRO",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTWpRcTJqcmt3ekVTcy1GdTFFZ1o4ZllUNXZMeUFUR3hvOFRRX2ZjUXdtaC1iWFRZdFMyQnN4ckNNMmdhQjhERHlGVlhvRk92cEtvVE1MNHJqYzhZd0tlRHJ5aXBMeWc2Tl9yWVdHSi1ra0VsdW45WWRueG5VNjlnb2o1UWFvUVAwaEtsZDgxX2RYaFBfSDlvcFRJQzdVSlp6?oc=5",
-   "ts": "Tue, 03 Nov 2026 09:05:19 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms - MPR News",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHc1QVBGdDlLNXBiZ21Ya3c1bkNzaEdlOXJRUDd0NWhnRFBvcjRZcHFzWnFwdkFUVlNzMkFpQ1VNMkZsMXBQdWJXbnFKbXVxV0ZiaXZwNUtUbUdUdzFIeDlBOW11alBabGZqRFNpd09TZncwX0IxNFM0c2lZbzQ1cmtXbW5GNWVQM1BLVzU2d1RlSnpjUzZSYWE0NEIxTS1FMGxIQTVyano?oc=5",
    "ts": "Sun, 01 Nov 2026 21:14:58 GMT"
@@ -398,12 +392,6 @@
    "title": "Former Trump trade official on what will be key issues to watch in today's midterm elections - CNBC",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYl8zYlp6bDd6cWhlMEVmWFFVQUNjMWlIYU1oNmdXcEhuMDlieml5TlZIQVlnZVFXc3J0YzFROVFCQ1ZXS016RnVsN09pMDN3X3R1M1Y3cDJDa1pZR0RoTE52VVhTMTZuaXhrbnVfLWtINlRhTDBIb3BFVy1vUV9NMmU0VjdiRnVSQVlMcGdlZFYwNGJxOUVuTmxad2dfT1lxeXZibTJnOWJKSUZYdTVoX3U5YnplM0dkVjBRd2NTR0VsazZIQndUSUd0d0xfckE?oc=5",
    "ts": "Tue, 03 Nov 2026 12:17:44 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
-   "ts": "Thu, 29 Oct 2026 16:23:22 GMT"
   },
   {
    "src": "gnews",
@@ -431,15 +419,21 @@
   },
   {
    "src": "gnews",
+   "title": "Trump Says US Is Close to Making a Trade Deal With Canada - GV Wire",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXlDeUpPQUlpb3A0aHljdkZnYkJIQUFvMnJLenhrd0tTMDhEMVRMNW8wVUpaUURmMDRpb2k1eldERWpIYlJtU3d6MGNQMmRXTU9jaVYtSFlURFEzc3lnaElUZTlGUi1mRERzNUZVTHNTanZpZVpwOHViaENuZW5sVDk0aENjcnd1bWhHeEQ0VFNpUQ?oc=5",
+   "ts": "Tue, 03 Nov 2026 16:11:25 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China's AI trade has crashed. Now Beijing is trying to stop the stock market slide. - Business Insider",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFhlMFNUYXNQYUVKb3FHX3Y3bTRycTNpVDZ2TzJNWkZPUE9KcGpGZ09waTBaaktLc0pOczZtMWRCT2ItU1FoWXFpUGIzb2pvUVdJTXplbkxjS1ZjTUpmVzkyOUR6VlBBUGNKUG5feFEzb0h6TVFSenlRcThJRFdnWE1uUTJLMVNOSFRCVTFJMTdLNmNYMzdsLXAzekVmcUJfb3p2SmNCNGI?oc=5",
    "ts": "Tue, 03 Nov 2026 08:55:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "China trade accord with Swiss bucks wider trend towards protectionism - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkQ4YmJ3dHdaYVYzcXlkcUQ1V19QMU9mQ2tFd1RuQ1NEckN3ZTIxSFMzSkJxQzQ1UjdXTDVjRzlwdHNpUE13dUJKS19hQ0hndHlTdThtOEpLU1g5NXcxWnphT0RMME5TVDZLa2MySGZGMGdPVDF2QWdGVmpsN05fRk9jRmJZOFBsakdiT2I1X1lVYkpSUTFROHU0RFZGdnRvOXdYRlc4VnZRTzIyWG4xUU50SzRVRl8zaEZJS2lUaS1EZw?oc=5",
-   "ts": "Thu, 29 Oct 2026 23:06:00 GMT"
+   "title": "Agoa: Why Trump wan remove Rwanda and South Africa from US trade deal - BBC",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wbHBZSFJQTXhJQV9XR2tvUkpkbUk0N2RmTkhPWWVFVXR3RjhuOV9qRVFfdktkVjYtVDRLVGxXZGpuTXhIRG5PcVFLeXdaYTZLUkRyaHc2T0tsUV9lTGfSAWNBVV95cUxPQ1NUTWt2czhpWkU4T0R2VHBHOEVsVWlZWEs0MF8yYnk3QXo0d2s5MmpVRnRwY18yV2ltNWRVZ2VPQ09PTjE2WlZHMGdZWXB5YXV3V3ltaFdyaVo0bkFxVmFqd1k?oc=5",
+   "ts": "Tue, 03 Nov 2026 16:11:05 GMT"
   },
   {
    "src": "gnews",
@@ -449,15 +443,21 @@
   },
   {
    "src": "gnews",
+   "title": "Lookahead: U.S., China trade talks, UK tries to break Brexit impasse - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Zdk9WUnlqX2l3OTI4YmNhdTB0TzM2M0JzMHo3UEFFQVJQRnFjbFQtY1F4SGlCdHVkTHdZbmJqN2RHZHRZSGtHWmZ2bjlaOGIxb0hnSmFBSzV3dlRE?oc=5",
+   "ts": "Tue, 03 Nov 2026 14:51:54 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "South Africa braces for some job losses as US trade benefits end - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZTlrOFlkVWh5U3FDTVhjc3pmdThYY1NvbVVZWlRsNFNfNUo2S0dJRVpDTFBGeFFvZmRQU0V0VHB1TmxVV2x0ZUJ6NXh6WkxRNmNpTHFMSGlyWHNnLWdLdXdYYVhtMFcwWXlxX0VXU1BJNFNTaGlLUDhzRzQ0WG5JNFVpaW9mSzhpWkVfd2d2LTRteV9lajRVbVpjTkRWZ3BuR3VIc3MyWFgzdw?oc=5",
    "ts": "Tue, 03 Nov 2026 16:32:09 GMT"
   },
   {
    "src": "gnews",
-   "title": "Lookahead: U.S., China trade talks, UK tries to break Brexit impasse - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Zdk9WUnlqX2l3OTI4YmNhdTB0TzM2M0JzMHo3UEFFQVJQRnFjbFQtY1F4SGlCdHVkTHdZbmJqN2RHZHRZSGtHWmZ2bjlaOGIxb0hnSmFBSzV3dlRE?oc=5",
-   "ts": "Tue, 03 Nov 2026 14:51:54 GMT"
+   "title": "PODCAST: What the EU-China car quota means for world trade - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWhiNVFZMXdBUldpNU8tX1hkLTB4anktejUzSzhCV1VZLXdSbmhuNm9Ob0VfclB6bUozVjJBMldRcEZfeUlWeFpNeXhVeDdfcTRtQ3R4TnFKb1d5aDVlbHpDZ3pJLW0yYnpqNXdJUld5cDNGLW80ekJzdXB6RjI0bUFfa3I1Z3BkOENiYlIzcHF6OTlXa3FvNENaWTZYa1I3?oc=5",
+   "ts": "Tue, 03 Nov 2026 04:58:00 GMT"
   }
  ]
 }

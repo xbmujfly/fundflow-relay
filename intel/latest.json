@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-04T02:15:23Z",
+ "ts": "2026-11-04T02:30:28Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -419,21 +419,9 @@
   },
   {
    "src": "gnews",
-   "title": "Carney says U.S. 'asking less and offering more' with 'more intense' trade talks underway - CBC",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMjVhTTV2ZnhYVzYzQUtqeDJidVB3ck5KMTlNSzBVRzhWdHVMYlI0VHNkOHVpRTBvdnUxZ1JFamxyMjVlbUwxS3VPb3BTUHd0YkpTMXAzeFBIa0NmUFZLXzREclNJTUVRQm1MUWtVbWRBRlE2QjdRbVVHTWlSY0tqNA?oc=5",
-   "ts": "Tue, 03 Nov 2026 23:04:49 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump Removes South Africa From the African Growth and Opportunity Act Trade Program - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFRqMVNkZnhKUEh5MFhnY3NwbDlqMWN2cXM1U2JuZzBYNWNQejFVb1VkVTB4M1BmQzJLOGUzZmNaLThZaV9QRXRwaGVqOUhQT1dxZnpiYnNzYXhRcHBja01jTTRkMzMyVWFzNEpnQTZPVlZsYUVvb2ZSblNWdjVCcnZmc3VYMHR1b1Fsd3gwZmhrOWpG?oc=5",
    "ts": "Mon, 02 Nov 2026 19:14:50 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump says US is close to making a trade deal with Canada - 1470 & 100.3 WMBD",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNazREZkZFQTdleUY0T2NfdE92S3JZbmVvTzVQY3AxSnk1aFdQeklNcmlkOEZSZVJMN0VRNEFkUjg3ZndYWVlwWEREaF96MFVSVHB3RU5OeVgzT1Q4VllIM05kSElITFVxZUM1eHJqbGw2S3lxdkRzel9NbDJOb3lKbzV4TXgxcTNBRlhjWm5uSzhTSTZObXc?oc=5",
-   "ts": "Tue, 03 Nov 2026 15:38:35 GMT"
   },
   {
    "src": "gnews",
@@ -443,9 +431,21 @@
   },
   {
    "src": "gnews",
-   "title": "Trump says US close to trade deal with Canada, Carney says work remains - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS0lFb2F4bzhXWlFPSE5Sb0VadkVXclRDMGRaQ3VtTkRBanQyU0NQdXo0dGlHUGJuVlJBQ2Y0azF6UnJIbm9YYWRHNnRKRXBIMmVBcG1UaEFCeUNiS0ZWSXR5aXRPYWJMcVk5a3k5Vk45RUw5WExjZmZ4bW5xbUhzdWtnMnZqMkszSnJtUkJ1bWZnQ1hoSmNBcVQ0Sk9QSGJwLU5uZ19rVjg2RDRzczlCemJUWTdLUXJJc2JLU3BXN2RKR3YzTGphanJZNNIBywFBVV95cUxPaE9NVzJ1cDVTdzRXN0dVdjhiN29vRjNDZTVDbmNyTXVaOTQ0elp4dGdhTFFEbmQzbGlQei1KcFNTTHRGWU42ZkVfMldETk5aWXh5Y2M3S2xsVlA0N3Z1QU9XdTZtZU51T2NPMXlGTzhwOFVMUWZDVDJKV0t0clI5RTExQUg5UmwxUFpZSDFFUTlaTmtVSmsxX3BGaDZTUkRqS1RuVl9sNHVoOFFYQTJwSldvXzZURF91UUdrcV9jSUljbU15dzY0ZE1RMA?oc=5",
-   "ts": "Tue, 03 Nov 2026 23:42:34 GMT"
+   "title": "U.S.-Canada trade deal may be near as Carney and Trump signal thaw in relations - Logistics Management",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbE9wZ2pHZzJIQ1BLVlAxMmtwOG5DRUx3QURCRHJ4T1M1OFhSMzE1MkU2MmIzTDZoYVhNcE56WEVVRW5XbVFINjR3UzZNRlF3cVQ1U3d5WU5oTFk1X1duRVJFcm1SZEpzazJXY0NkRUNNOUpLWWRuV3F3VDBJa2FzTW94X0lQc0xSRERIZE1pNTVHMDlDVXhBR3k5SS1BR2NwODNBY3J3QjRyVmp4cHRkVFFtbEFjZ3M?oc=5",
+   "ts": "Tue, 03 Nov 2026 20:35:52 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Agoa: Why Trump wan remove Rwanda and South Africa from US trade deal - BBC",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wbHBZSFJQTXhJQV9XR2tvUkpkbUk0N2RmTkhPWWVFVXR3RjhuOV9qRVFfdktkVjYtVDRLVGxXZGpuTXhIRG5PcVFLeXdaYTZLUkRyaHc2T0tsUV9lTGfSAWNBVV95cUxPQ1NUTWt2czhpWkU4T0R2VHBHOEVsVWlZWEs0MF8yYnk3QXo0d2s5MmpVRnRwY18yV2ltNWRVZ2VPQ09PTjE2WlZHMGdZWXB5YXV3V3ltaFdyaVo0bkFxVmFqd1k?oc=5",
+   "ts": "Tue, 03 Nov 2026 16:11:05 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump says US close to trade deal with Canada, Carney says work remains By Reuters - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPXzVnb3RSbTFjb3M3cDhnd1M3NmxBWUlmVG9PTWE2bWpUT0VSVDJSN1dwZENaRlVlZW9sbHNhRVIxNXRUeklSdWcyNzhodVU0cXJGOEVySTA0MWxVYWJoT2RoeXVzcTBYSF9NWEJKS0VUWG5TYUpYbk81VUotTDlsSVhHUEw4MWxLcXJZY2FuN0JqQmFZODFzVXEzN1hwakhSSzg5eXVCTVpFSlVzQVhuUi1n?oc=5",
+   "ts": "Wed, 04 Nov 2026 01:30:00 GMT"
   },
   {
    "src": "gnews",

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-04T07:30:26Z",
+ "ts": "2026-11-04T07:45:27Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -401,12 +401,6 @@
   },
   {
    "src": "gnews",
-   "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
-   "ts": "Thu, 29 Oct 2026 16:23:22 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s soaring chemical exports threaten new trade war front - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
    "ts": "Mon, 02 Nov 2026 06:43:12 GMT"
@@ -431,9 +425,9 @@
   },
   {
    "src": "gnews",
-   "title": "Will China Shock 2.0 trigger an EU-China trade war? - ABN AMRO",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTWpRcTJqcmt3ekVTcy1GdTFFZ1o4ZllUNXZMeUFUR3hvOFRRX2ZjUXdtaC1iWFRZdFMyQnN4ckNNMmdhQjhERHlGVlhvRk92cEtvVE1MNHJqYzhZd0tlRHJ5aXBMeWc2Tl9yWVdHSi1ra0VsdW45WWRueG5VNjlnb2o1UWFvUVAwaEtsZDgxX2RYaFBfSDlvcFRJQzdVSlp6?oc=5",
-   "ts": "Tue, 03 Nov 2026 09:05:19 GMT"
+   "title": "Washington and Ottawa attempt trade truce with renewed talks - KATU",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNlRkTmFpSWVYNjM2SzdKTUNuTUV1Znl3c0pIa2dTM0tYSHVCQll2RXFmLUlCTkp2Y1B6cU5HWllJY1duNDI3TzNVUXpRZGlGcXFEWkwtQlpDdlViUDg4YkZsU2xRTlY5anZid1BIVmg3RjNQWVVqZHJYSlQxN2FZZVF4SlcteFh0YnBicDBWbEdBelo0R0V3czYxa3lLMVZPMUJILXdOc292SGY1S3dJZ3NiQ3ZhUENyVGJvcTBsMUpVTGQyTE9Rdjl1Z2xCRWZ1MzhLT1R6Y0RBQ0ZKdHJ5Z1Z5VnIwc0R5Q3c?oc=5",
+   "ts": "Tue, 03 Nov 2026 22:18:05 GMT"
   },
   {
    "src": "gnews",
@@ -449,15 +443,21 @@
   },
   {
    "src": "gnews",
-   "title": "China trade accord with Swiss bucks wider trend towards protectionism - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkQ4YmJ3dHdaYVYzcXlkcUQ1V19QMU9mQ2tFd1RuQ1NEckN3ZTIxSFMzSkJxQzQ1UjdXTDVjRzlwdHNpUE13dUJKS19hQ0hndHlTdThtOEpLU1g5NXcxWnphT0RMME5TVDZLa2MySGZGMGdPVDF2QWdGVmpsN05fRk9jRmJZOFBsakdiT2I1X1lVYkpSUTFROHU0RFZGdnRvOXdYRlc4VnZRTzIyWG4xUU50SzRVRl8zaEZJS2lUaS1EZw?oc=5",
-   "ts": "Thu, 29 Oct 2026 23:06:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China coming to U.S. next week for trade talks -Trump - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ndUpadXFRSlAtcWRhdWtpRDJHcTFhQ0dWMWxzV1V2QlREWVRyNDhaY2FMbWVOOFBkbGdXanFRaEFyVnlLWmxGRndwZGpWdHR2Q0t1eWFNSnFncXpH?oc=5",
    "ts": "Wed, 04 Nov 2026 07:17:35 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "South Africa braces for some job losses as US trade benefits end - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZTlrOFlkVWh5U3FDTVhjc3pmdThYY1NvbVVZWlRsNFNfNUo2S0dJRVpDTFBGeFFvZmRQU0V0VHB1TmxVV2x0ZUJ6NXh6WkxRNmNpTHFMSGlyWHNnLWdLdXdYYVhtMFcwWXlxX0VXU1BJNFNTaGlLUDhzRzQ0WG5JNFVpaW9mSzhpWkVfd2d2LTRteV9lajRVbVpjTkRWZ3BuR3VIc3MyWFgzdw?oc=5",
+   "ts": "Tue, 03 Nov 2026 16:32:09 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Lookahead: U.S., China trade talks, UK tries to break Brexit impasse - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Zdk9WUnlqX2l3OTI4YmNhdTB0TzM2M0JzMHo3UEFFQVJQRnFjbFQtY1F4SGlCdHVkTHdZbmJqN2RHZHRZSGtHWmZ2bjlaOGIxb0hnSmFBSzV3dlRE?oc=5",
+   "ts": "Tue, 03 Nov 2026 14:51:54 GMT"
   }
  ]
 }

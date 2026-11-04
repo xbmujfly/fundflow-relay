@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-04T07:15:28Z",
+ "ts": "2026-11-04T07:30:26Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -365,15 +365,15 @@
   },
   {
    "src": "gnews",
-   "title": "China’s Message to Its Rivals: You Need What We Make - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnJIUk5OdzBMTjhkQkQ4Mlg3TVpJOHlESHQ0Zzh4Ujc3NlFjRkhDajQxbkF1dUJPVERGT2RzQ01BM19hZkxpemd2TGkyMksxMnc2YXFsOG1fN3hyZEs5ajMwaDN6bDVYNE9WUkFZcUlfRC0ySS1XdHd2OGgxa2dVN2x3?oc=5",
-   "ts": "Wed, 04 Nov 2026 06:22:58 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "How Trump’s trade policy is handing Asia to Beijing - Fortune",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWWR6M2dPSURHeDRiNnlycm9fWG9iR3IzU0U1c1R2V2pRYlBEUVNSVDllVDJXMlZiYU13X3drQkpuUVNhT0RPMUotM0tadjFxMlZHVHdqV1d3aXJXREZ5WEF3bzBVZWFMT1VCNjJldGl6SWJUUEpPWmJlS3FkanRlVnFfamk2ZVZMUVE?oc=5",
    "ts": "Mon, 02 Nov 2026 23:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s Message to Its Rivals: You Need What We Make - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnJIUk5OdzBMTjhkQkQ4Mlg3TVpJOHlESHQ0Zzh4Ujc3NlFjRkhDajQxbkF1dUJPVERGT2RzQ01BM19hZkxpemd2TGkyMksxMnc2YXFsOG1fN3hyZEs5ajMwaDN6bDVYNE9WUkFZcUlfRC0ySS1XdHd2OGgxa2dVN2x3?oc=5",
+   "ts": "Wed, 04 Nov 2026 06:22:58 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "South Africa braces for some job losses as US trade benefits end - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZTlrOFlkVWh5U3FDTVhjc3pmdThYY1NvbVVZWlRsNFNfNUo2S0dJRVpDTFBGeFFvZmRQU0V0VHB1TmxVV2x0ZUJ6NXh6WkxRNmNpTHFMSGlyWHNnLWdLdXdYYVhtMFcwWXlxX0VXU1BJNFNTaGlLUDhzRzQ0WG5JNFVpaW9mSzhpWkVfd2d2LTRteV9lajRVbVpjTkRWZ3BuR3VIc3MyWFgzdw?oc=5",
-   "ts": "Tue, 03 Nov 2026 16:32:09 GMT"
+   "title": "China coming to U.S. next week for trade talks -Trump - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ndUpadXFRSlAtcWRhdWtpRDJHcTFhQ0dWMWxzV1V2QlREWVRyNDhaY2FMbWVOOFBkbGdXanFRaEFyVnlLWmxGRndwZGpWdHR2Q0t1eWFNSnFncXpH?oc=5",
+   "ts": "Wed, 04 Nov 2026 07:17:35 GMT"
   }
  ]
 }

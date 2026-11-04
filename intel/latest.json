@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-04T23:00:25Z",
+ "ts": "2026-11-04T23:15:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -413,15 +413,15 @@
   },
   {
    "src": "gnews",
-   "title": "[Anne O. Krueger] Tariff fiasco may save free trade - The Korea Herald",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qSGd5Mkh1M3Utd3EtOE8tbHJJRk5PNU1xMmtDMlBldThxTURlNnljQklTcmpqanhoUmp6OG1USTdGQ2dpQXF3WWZyM25sOFdXVi1pcW96VQ?oc=5",
-   "ts": "Wed, 04 Nov 2026 20:30:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s soaring chemical exports threaten new trade war front - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
    "ts": "Mon, 02 Nov 2026 06:43:12 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "German trade group expects Trump to maintain course on tariffs - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcnRsOWJwakN2RHd2THZfZHBqcTluZDlJM1IzLWxMQ3NlZ2g1MVRCT2lvS2pERHZSa185d3BFc011OTVZM3dXSll6WDN6cWZPS3VMQmtoeTVrWFp6Y21RNENTZEhlcUVPZEFvSVZTM2Q2M2dSbVV2V0NnR282MXRHTFkwcE5rakVLOHlNQ3ZtTlRRejNEOVdEZDNvTnF0UQ?oc=5",
+   "ts": "Wed, 04 Nov 2026 16:48:28 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "German trade group expects Trump to maintain course on tariffs - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcnRsOWJwakN2RHd2THZfZHBqcTluZDlJM1IzLWxMQ3NlZ2g1MVRCT2lvS2pERHZSa185d3BFc011OTVZM3dXSll6WDN6cWZPS3VMQmtoeTVrWFp6Y21RNENTZEhlcUVPZEFvSVZTM2Q2M2dSbVV2V0NnR282MXRHTFkwcE5rakVLOHlNQ3ZtTlRRejNEOVdEZDNvTnF0UQ?oc=5",
-   "ts": "Wed, 04 Nov 2026 16:48:28 GMT"
+   "title": "Democratic Sweep Revives the Stalled Copper Tariff Trade - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclhEaDhWNFBZeWNhWS1fU2daRVUtNUU3WDFqZ3I0MDBVYmk5ckFhRndvQk1maE9DYWlqLTNHSFdPUnZGWVZGQkdsVk5HNjJicElKckNCbnVzeHVCNU9EaDhhYzZrRnh5djQzVU4zQ3VtUUp5SnRoN3VDaDY2VkhkSDlTTjZVNVBzSFRnX29GdU01c1dqVFhla2xyTnRkMFA3NHh1dDhpZlFXVXVxNGt4REhZamItSlk?oc=5",
+   "ts": "Wed, 04 Nov 2026 21:40:44 GMT"
   }
  ]
 }

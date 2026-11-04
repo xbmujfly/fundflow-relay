@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-04T08:30:34Z",
+ "ts": "2026-11-04T08:45:27Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -365,15 +364,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Delays Robotics Tariffs and Orders New Trade Negotiations - Legis1",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vdHM0Vk1FTlE4bG5lV1ZJM1RRUlVQWVNoSm9oaXc2SUo4cU9RZk9QTERFZHR6U2xRM09yV21saXo0ZXhtdTdpSE83eklUME1oTVZya05hQ1UwakJSZ1V2Zkd0cVRfWFJnUmdxVkI1NEhmTzViRGtGWTRhQnI?oc=5",
-   "ts": "Tue, 03 Nov 2026 17:53:49 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "How Trump’s trade policy is handing Asia to Beijing - Fortune",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWWR6M2dPSURHeDRiNnlycm9fWG9iR3IzU0U1c1R2V2pRYlBEUVNSVDllVDJXMlZiYU13X3drQkpuUVNhT0RPMUotM0tadjFxMlZHVHdqV1d3aXJXREZ5WEF3bzBVZWFMT1VCNjJldGl6SWJUUEpPWmJlS3FkanRlVnFfamk2ZVZMUVE?oc=5",
    "ts": "Mon, 02 Nov 2026 23:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Delays Robotics Tariffs and Orders New Trade Negotiations - Legis1",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vdHM0Vk1FTlE4bG5lV1ZJM1RRUlVQWVNoSm9oaXc2SUo4cU9RZk9QTERFZHR6U2xRM09yV21saXo0ZXhtdTdpSE83eklUME1oTVZya05hQ1UwakJSZ1V2Zkd0cVRfWFJnUmdxVkI1NEhmTzViRGtGWTRhQnI?oc=5",
+   "ts": "Tue, 03 Nov 2026 17:53:49 GMT"
   },
   {
    "src": "gnews",
@@ -386,6 +385,12 @@
    "title": "Why a midterm mauling for Trump will not bring Asia trade relief - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcWFpa05tREVsNFJLWXgwT3VqdTctX1F4UjNoSUhUXzN4ZlhoczNsUEFkeXhHalpaenY0TDZFbkpGN01HWDhyYUJyMDdIdUs5Z285X0NiYmVoQU1zVjVWODhiQlJnZnRabkNZMjhVRlNRR0JOUXpOS0FPYVBMNlBSbHRLVWRyUXdLcXprUnhfY2FhcWEyQ2Y4cFZ6Y1A0UEJKbHIyN2xLWDNiMExONUZzUnVkM3BaQdIBtgFBVV95cUxPN3pWM2hobGxjMkZicS1FX2pzX09fSkVzMUJOS3BhclRQb2pkbDh6ajFlMld0cDZRYVBqM2ZTZUpWdG9vLVQtek5Nbk1Zd2N0eFZQYlZVSHdJM1N2NDRobDNGUkxpVXZ6cEtzaUlLWDhGU1haUWl4ek51dFB0RVNuYzVVMEJkNGNQTU1rQUNtSC1WM19CdGhLMVlqVTYySEVZcUJVSlFqWVNuVUhIOTJBVEZsR0lTUQ?oc=5",
    "ts": "Tue, 03 Nov 2026 11:30:08 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
+   "ts": "Thu, 29 Oct 2026 16:23:22 GMT"
   },
   {
    "src": "gnews",
@@ -419,33 +424,27 @@
   },
   {
    "src": "gnews",
-   "title": "China and its trading partners are moving towards an economic peace. But it is a fragile one - Chatham House",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbW5tTV94ckhKWlFLYWtZdHlCWFNwcjFPNnlnTGdDMS1ZRWt1OWgyeUpmVldpb041MThXSm1LaXg5SFFJVm1jWUs2NGduclJzSnYybDhYMUhUbzQyWGxsUTl5Qi1JZWdxc2QyZGdhVUFOWGtHMmo3SkFCSTZYdU9JaGxJdlBLTURkYUZuT01GU1FoaVVvTUZmT2pJQ3ItSjZIbjhYZUdTOWdQZGRNRWg1UXpUQ2FuUzA?oc=5",
-   "ts": "Tue, 03 Nov 2026 16:29:37 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Democratic gains unlikely to derail Korea-US investment deal - The Korea Herald",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kR0d4VjZUc2dneVNyR0Z1dG8xdnp0R1daRE1PYWVfUEJJNjRtbi1OWExRMzlQMU00bk1WczlKWVVrQmdPVzN2WkRyY1NBN21qaEg2WVlCSQ?oc=5",
-   "ts": "Wed, 04 Nov 2026 06:58:54 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Washington and Ottawa attempt trade truce with renewed talks - KATU",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNlRkTmFpSWVYNjM2SzdKTUNuTUV1Znl3c0pIa2dTM0tYSHVCQll2RXFmLUlCTkp2Y1B6cU5HWllJY1duNDI3TzNVUXpRZGlGcXFEWkwtQlpDdlViUDg4YkZsU2xRTlY5anZid1BIVmg3RjNQWVVqZHJYSlQxN2FZZVF4SlcteFh0YnBicDBWbEdBelo0R0V3czYxa3lLMVZPMUJILXdOc292SGY1S3dJZ3NiQ3ZhUENyVGJvcTBsMUpVTGQyTE9Rdjl1Z2xCRWZ1MzhLT1R6Y0RBQ0ZKdHJ5Z1Z5VnIwc0R5Q3c?oc=5",
-   "ts": "Tue, 03 Nov 2026 22:18:05 GMT"
+   "title": "Midterm blues: Why a 'lame' duck Donald Trump may push for a quick India-US trade deal - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQOXZYMHBqbDZhcFdoeHlBMFJyT2U3YTVYU1M4bjhRVDBRR0FPNFcyeGNLazRIZEdDbG1zUklqZzB4cUlJU3ZlWGNpZW10bFB1Wm5GNzBVWXc4OXkzMk1HZzBwTUdxQi1qR2ZZR2lOaHVNWjl2a2xqZmFlQlhzNEhBUFVyanEyeVlCZjNZdXFEYVI0aEN0Y0RMSllTWmtpc3g0NTZCcmJMbDFHb3VKY2FzREFWbTJMc2dmSFhYMk5nb0E3VENneGF6eVpjSmdpNmtLdlBsWFFhdXpqTFdVNG5lU3BreHVJMFY3OE15WjV0TmtSMU1Id1RoaWYweURBQdIBgwJBVV95cUxOSjl2eDNTT0hLblotZy1mRUlyWUtzN2JkQ0xMRjRuZ2hkaEE3OHJYa2F4dEpSRThFaDZCejJDLUpfb19LX2VCUXAtMEQzVTFGd3lEb1YxU0ExUDc5X3VrNXNxNGVDQ01uWjhJTml5Tk81X0lEVzV3ZTA1TDlkWTh0U1l3emI3MUpuVGYxUmNHWEdzbWFoY1lQZjVJSnI1a1pxX0F2R0hYOVVtbm93T1dnMUxXaDRkMUt3VTlKR2FwWlNlREhncXktTlRnOEl0V2FFeUlTNG1VS0g4ODFLdGdHOVJPbnFfaHZHYlRMaDZFOHE0bkJpaUFCS3A1VVNPaGZFbTdB?oc=5",
+   "ts": "Wed, 04 Nov 2026 07:59:00 GMT"
   },
   {
    "src": "gnews",
    "title": "COMMENTARY: Asia hopes Democrats can provide relief from Trump's Iran war, tariffs - Reuters",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUk1naVB2YlNzNHNsUVA1ZVp4ZU5QaUNocUZjdkt0VVdHZVVmZXdRZzhSdUt5RFROWXlBclNEM0p0NnJTc3dqaWlBWVhoUWRVczliT2JGR3l3RXU0R1N0aGZicXFZSkdiNjd6dmZJWVVoRWp4X21wNUJNd2EzOG5CMnJoR1ExaW1lX1Q4R0o0cHhBM1lZX0lnd0NLMkFVaTJZZ0FvUVNfejFaaFViQU9tX3REV2ZBNjdCOHU3ak1EcUdJX2xsbFdCWE9pVzk?oc=5",
-   "ts": "Wed, 04 Nov 2026 03:18:11 GMT"
+   "ts": "Wed, 04 Nov 2026 05:35:01 GMT"
   },
   {
    "src": "gnews",
    "title": "Trump says US close to trade deal with Canada, Carney says work remains - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS0lFb2F4bzhXWlFPSE5Sb0VadkVXclRDMGRaQ3VtTkRBanQyU0NQdXo0dGlHUGJuVlJBQ2Y0azF6UnJIbm9YYWRHNnRKRXBIMmVBcG1UaEFCeUNiS0ZWSXR5aXRPYWJMcVk5a3k5Vk45RUw5WExjZmZ4bW5xbUhzdWtnMnZqMkszSnJtUkJ1bWZnQ1hoSmNBcVQ0Sk9QSGJwLU5uZ19rVjg2RDRzczlCemJUWTdLUXJJc2JLU3BXN2RKR3YzTGphanJZNNIBywFBVV95cUxPaE9NVzJ1cDVTdzRXN0dVdjhiN29vRjNDZTVDbmNyTXVaOTQ0elp4dGdhTFFEbmQzbGlQei1KcFNTTHRGWU42ZkVfMldETk5aWXh5Y2M3S2xsVlA0N3Z1QU9XdTZtZU51T2NPMXlGTzhwOFVMUWZDVDJKV0t0clI5RTExQUg5UmwxUFpZSDFFUTlaTmtVSmsxX3BGaDZTUkRqS1RuVl9sNHVoOFFYQTJwSldvXzZURF91UUdrcV9jSUljbU15dzY0ZE1RMA?oc=5",
    "ts": "Tue, 03 Nov 2026 23:42:34 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China trade accord with Swiss bucks wider trend towards protectionism - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkQ4YmJ3dHdaYVYzcXlkcUQ1V19QMU9mQ2tFd1RuQ1NEckN3ZTIxSFMzSkJxQzQ1UjdXTDVjRzlwdHNpUE13dUJKS19hQ0hndHlTdThtOEpLU1g5NXcxWnphT0RMME5TVDZLa2MySGZGMGdPVDF2QWdGVmpsN05fRk9jRmJZOFBsakdiT2I1X1lVYkpSUTFROHU0RFZGdnRvOXdYRlc4VnZRTzIyWG4xUU50SzRVRl8zaEZJS2lUaS1EZw?oc=5",
+   "ts": "Thu, 29 Oct 2026 23:06:00 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +457,126 @@
    "title": "China coming to U.S. next week for trade talks -Trump - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ndUpadXFRSlAtcWRhdWtpRDJHcTFhQ0dWMWxzV1V2QlREWVRyNDhaY2FMbWVOOFBkbGdXanFRaEFyVnlLWmxGRndwZGpWdHR2Q0t1eWFNSnFncXpH?oc=5",
    "ts": "Wed, 04 Nov 2026 07:17:35 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Beware the  Red Mirage  if California Republicans Have an Election Night Lead",
+   "url": "https://www.northcoastjournal.com/news-2/news-blog/beware-the-red-mirage-if-california-republicans-have-an-election-night-lead/",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Midterm Elections Live Updates : Ossoff Retains Georgia Senate Seat , as Polls Close in More Battlegrounds",
+   "url": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/were-watching-several-areas-in-texas-as-polls-close-there",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Democratic Sen . Jon Ossoff cruises to re - election in Georgia",
+   "url": "https://www.nbcnewyork.com/elections/georgia-senate-race-2026/6567183/",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Drone Boat Maker Saildrone Wins Protest Over Navy Contract",
+   "url": "https://www.nytimes.com/2026/11/03/us/politics/drone-boat-maker-navy-protest.html",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US midterms in charts : What the data tells us",
+   "url": "https://www.dw.com/en/us-midterm-election-results-how-americans-voted-and-what-the-data-tells-us/a-79841886",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Cost of living , economy and unhappiness with Trump job performance among early voting takeaways",
+   "url": "https://www.wthitv.com:443/2026/11/03/cost-living-economy-unhappiness-with-trumps-job-performance-among-early-voting-takeaways/",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US to cut Israel military aid by end of year , Trump says",
+   "url": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Election Day 2026 : Photos from around the country",
+   "url": "https://www.wxxinews.org/npr-news/2026-11-03/election-day-2026-photos-from-around-the-country",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "有色 / 贵金属 | 11月份若黄金出现反弹契机 银铂钯价格也将会有所修复 _ 东方财富网",
+   "url": "https://finance.eastmoney.com/a/202611043920988388.html",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "DOJ extracts $1 . 5M from bookstore as Senator wife accused of  exploiting  Trump program",
+   "url": "https://www.rawstory.com/doj-2678215691/",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "트럼프  이란 방공시설 완공 직후 타격 … 게슘섬 공습 인정한 듯 - 국제ㅣ한국일보",
+   "url": "https://www.hankookilbo.com/news/article/A2026110408130001288",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "DOJ sends letters in Alaska spoiler candidate probe",
+   "url": "https://www.suncommercial.com/brazil_times/news/national/article_b0568233-6c47-5536-add2-cb46e860a7e7.html",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ενδιάμεσες εκλογές ΗΠΑ : Οι κάλπες κλείνουν , βγήκαν τα πρώτα αποτελέσματα - Τι θα σημάνει τυχόν ήττα του Τραμπ",
+   "url": "https://www.efsyn.gr/kosmos/1502405/endiameses-ekloges-ipa-oi-kalpes-kleinoyn-vgikan-ta-prota-apotelesmata-ti-tha-simanei-tyhon-itta-toy-tramp/",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Jon Ossoff wins reelection in Georgia , easily defeating Republican Mike Collins",
+   "url": "https://www.wxxinews.org/npr-news/2026-11-03/jon-ossoff-wins-reelection-in-georgia-easily-defeating-republican-mike-collins",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "트럼프 , 이스라엘에 연간 5 . 4조 지원 중단 선언",
+   "url": "https://www.heraldk.com/article/2026110316160472590",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "CIIE primed for a record ninth edition",
+   "url": "http://europe.chinadaily.com.cn/a/202611/03/WS6aea00a0e4b06d4aa0566db5.html",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "A referendum on Trump , election monitors and a Democratic shift : What to watch on Election Day",
+   "url": "https://lazer993.com/news/030030-a-referendum-on-trump-election-monitors-and-a-democratic-shift-what-to-watch-on-election-day/",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Early Exit Polls Show Voters See Midterms As A Rebuke On Trump Administration",
+   "url": "https://wrak.iheart.com/content/2026-11-03-early-exit-polls-show-voters-see-midterms-as-a-rebuke-on-trump-administration/",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US midterms : JD Vance says administration fought replacement of American workers with lower - wage foreign employees",
+   "url": "http://www.newyorkstatesman.com/news/279410172/us-midterms-jd-vance-says-administration-fought-replacement-of-american-workers-with-lower-wage-foreign-employees",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "ΗΠΑ : 6 στους 10 ψηφοφόρους διαφωνούν με τον πόλεμο του Τραμπ κατά του Ιράν",
+   "url": "https://www.in.gr/2026/11/04/world/ipa-6-stous-10-psifoforous-diafonoun-me-ton-polemo-tou-tramp-kata-tou-iran/",
+   "ts": "20261104T013000Z"
   }
  ]
 }

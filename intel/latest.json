@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-04T03:15:24Z",
+ "ts": "2026-11-04T03:30:30Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -389,15 +389,15 @@
   },
   {
    "src": "gnews",
-   "title": "Former Trump trade official on what will be key issues to watch in today's midterm elections - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYl8zYlp6bDd6cWhlMEVmWFFVQUNjMWlIYU1oNmdXcEhuMDlieml5TlZIQVlnZVFXc3J0YzFROVFCQ1ZXS016RnVsN09pMDN3X3R1M1Y3cDJDa1pZR0RoTE52VVhTMTZuaXhrbnVfLWtINlRhTDBIb3BFVy1vUV9NMmU0VjdiRnVSQVlMcGdlZFYwNGJxOUVuTmxad2dfT1lxeXZibTJnOWJKSUZYdTVoX3U5YnplM0dkVjBRd2NTR0VsazZIQndUSUd0d0xfckE?oc=5",
-   "ts": "Tue, 03 Nov 2026 12:17:44 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s soaring chemical exports threaten new trade war front - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
    "ts": "Mon, 02 Nov 2026 06:43:12 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Former Trump trade official on what will be key issues to watch in today's midterm elections - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYl8zYlp6bDd6cWhlMEVmWFFVQUNjMWlIYU1oNmdXcEhuMDlieml5TlZIQVlnZVFXc3J0YzFROVFCQ1ZXS016RnVsN09pMDN3X3R1M1Y3cDJDa1pZR0RoTE52VVhTMTZuaXhrbnVfLWtINlRhTDBIb3BFVy1vUV9NMmU0VjdiRnVSQVlMcGdlZFYwNGJxOUVuTmxad2dfT1lxeXZibTJnOWJKSUZYdTVoX3U5YnplM0dkVjBRd2NTR0VsazZIQndUSUd0d0xfckE?oc=5",
+   "ts": "Tue, 03 Nov 2026 12:17:44 GMT"
   },
   {
    "src": "gnews",

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-04T12:45:25Z",
+ "ts": "2026-11-04T13:00:28Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -359,15 +359,15 @@
   },
   {
    "src": "gnews",
-   "title": "China's slow buying of US farm goods tests $17 billion trade pledge - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGp4TlZzUzhLZkJsbVoyLWVtTVNHUmMtWVNteFpvbE9vYkZhcWxUSTdwQ0JyYi14MzdCN2dqeEU1Rkw5NHZISnhzbVV0Wno3U3M2b3FkRFdlXzBkdW5OT3RKRU5DamhSOWh1WVQyVk5ucG83amhtMDdqNWUwR2xianV2MUNtQ1Y0Qmo1QXJmOWd3SnB3eVZDcHpCZFFXc1MwamktYlRMeVhRc3FlZUlr?oc=5",
-   "ts": "Mon, 02 Nov 2026 10:16:42 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump's Midterm Rebuke Gives Trading Partners Room to Resist - U.S. News & World Report",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdkdMNzMyRzhYR2RtUmMtQ3M5ZHF3UDlzeHE5N1Jpc1lsX3A0Rk02aEJ1d2VhbWpmc3lQazdQd3RabVdGLXJsdGo2VTNnZ3pBYUZCQjkya2dVNmpoVFRNVzJOYUR0djVOZXZIWENDc1l5UzYxTTlWNjNiWmFDeFl3UTVDb2YwSnVzWDhzVUhkUHlHcmdVV3JYUEZvbXNFTlhNUV9kLXV0WjJSUUZJdHZaNldSNA?oc=5",
    "ts": "Wed, 04 Nov 2026 09:34:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China's slow buying of US farm goods tests $17 billion trade pledge - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGp4TlZzUzhLZkJsbVoyLWVtTVNHUmMtWVNteFpvbE9vYkZhcWxUSTdwQ0JyYi14MzdCN2dqeEU1Rkw5NHZISnhzbVV0Wno3U3M2b3FkRFdlXzBkdW5OT3RKRU5DamhSOWh1WVQyVk5ucG83amhtMDdqNWUwR2xianV2MUNtQ1Y0Qmo1QXJmOWd3SnB3eVZDcHpCZFFXc1MwamktYlRMeVhRc3FlZUlr?oc=5",
+   "ts": "Mon, 02 Nov 2026 10:16:42 GMT"
   },
   {
    "src": "gnews",
@@ -413,9 +413,9 @@
   },
   {
    "src": "gnews",
-   "title": "How China accidentally broke the West’s arms trade monopoly - Asia Times",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOEFlcmZHS093c2FLRHNnamdSQ0ZweXYwTGhLZmVXM1dzZXY4YTROclJmdGZXTFJoZ2JZNWtwYWdYR3J3MXFqTjkxRVJsYWZkUWJLcFJkTmRIdDJRVnZYUmNnOUk1ZUZXLUdia1NzQTI3eVVNNXplOTdNRUZ2WVpBeG91N0JqWXlTVDdXTEJ4SXFmejQ?oc=5",
-   "ts": "Wed, 04 Nov 2026 06:08:33 GMT"
+   "title": "Democratic gains unlikely to derail Korea-US investment deal - The Korea Herald",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kR0d4VjZUc2dneVNyR0Z1dG8xdnp0R1daRE1PYWVfUEJJNjRtbi1OWExRMzlQMU00bk1WczlKWVVrQmdPVzN2WkRyY1NBN21qaEg2WVlCSQ?oc=5",
+   "ts": "Wed, 04 Nov 2026 06:58:54 GMT"
   },
   {
    "src": "gnews",
@@ -449,15 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Democratic gains unlikely to derail Korea-US investment deal - The Korea Herald",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kR0d4VjZUc2dneVNyR0Z1dG8xdnp0R1daRE1PYWVfUEJJNjRtbi1OWExRMzlQMU00bk1WczlKWVVrQmdPVzN2WkRyY1NBN21qaEg2WVlCSQ?oc=5",
-   "ts": "Wed, 04 Nov 2026 06:58:54 GMT"
+   "title": "How China accidentally broke the West’s arms trade monopoly - Asia Times",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOEFlcmZHS093c2FLRHNnamdSQ0ZweXYwTGhLZmVXM1dzZXY4YTROclJmdGZXTFJoZ2JZNWtwYWdYR3J3MXFqTjkxRVJsYWZkUWJLcFJkTmRIdDJRVnZYUmNnOUk1ZUZXLUdia1NzQTI3eVVNNXplOTdNRUZ2WVpBeG91N0JqWXlTVDdXTEJ4SXFmejQ?oc=5",
+   "ts": "Wed, 04 Nov 2026 06:08:33 GMT"
   },
   {
    "src": "gnews",
-   "title": "U.S.-Canada trade deal may be near as Carney and Trump signal thaw in relations - Logistics Management",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbE9wZ2pHZzJIQ1BLVlAxMmtwOG5DRUx3QURCRHJ4T1M1OFhSMzE1MkU2MmIzTDZoYVhNcE56WEVVRW5XbVFINjR3UzZNRlF3cVQ1U3d5WU5oTFk1X1duRVJFcm1SZEpzazJXY0NkRUNNOUpLWWRuV3F3VDBJa2FzTW94X0lQc0xSRERIZE1pNTVHMDlDVXhBR3k5SS1BR2NwODNBY3J3QjRyVmp4cHRkVFFtbEFjZ3M?oc=5",
-   "ts": "Tue, 03 Nov 2026 20:35:52 GMT"
+   "title": "Uzbekistan expands key highway on China-Europe trade route - Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDUyOVJlSng2em41QVBqemJxR1FGTEplVUhpSTF0eVN2MEhpaGpXRk5KMW1zaF9SRGhoVFJlamJ1RU5VR0d4bG5aRkxja3VqeGxzU1JHeGVncERWNzlNZmhwMWJsV3Z3dVhOemdmZXZqOGhSTFhTdGtIYVd4azZ1YzdQNHlEaWpRdkg5NDg4RnR0ajFsVVVEVGJVeXNTeTF0OW03V25wOG82ZHd0MVhr?oc=5",
+   "ts": "Wed, 04 Nov 2026 12:37:55 GMT"
   }
  ]
 }

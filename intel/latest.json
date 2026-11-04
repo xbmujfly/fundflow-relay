@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-04T23:15:23Z",
+ "ts": "2026-11-04T23:30:26Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -347,15 +347,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump’s trade chief pushing him to step up negotiations with Canada - Politico",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUY3c1JIclBSa09VTXM3UlJiMWtrUkxUdFJoRTV6Zl9ZZGJQcUlCTFppQm9ESWhrcGVfTWRHdy1SSkU4U2ktY2ZiMEtWNnBiWkhDQmVuajlhTlFDa3NJM0dESGNTeWdPbmNMWTBxV2swVkhLbV9QdFdhUWhORl9Ca2NHUFlxNEFFamRWNzhQRlJEdFNadkd5M1RQMTM?oc=5",
-   "ts": "Tue, 03 Nov 2026 23:55:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "U.S. Midterms: Trump's Next Trade War Could Be With Congress - Foreign Policy",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1o5Y1g4b1BRdXBxbUF2dEdpZ3Y1bGtEeXdXVmNHcTZUM3hMN3dQM1pWNzN4MW5CeHJ2aTl2Q1F0amw4UDd6cmpFX0F5RzZ2V01aS09fVlZhUTlUTzlYWWxPTmd2M080OW5sT0lFQmxTV0s4d29Pem83MU5EVlNwVWJXczhFMzA4SGphak5BXzZMd28?oc=5",
    "ts": "Wed, 04 Nov 2026 18:07:44 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump’s trade chief pushing him to step up negotiations with Canada - Politico",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUY3c1JIclBSa09VTXM3UlJiMWtrUkxUdFJoRTV6Zl9ZZGJQcUlCTFppQm9ESWhrcGVfTWRHdy1SSkU4U2ktY2ZiMEtWNnBiWkhDQmVuajlhTlFDa3NJM0dESGNTeWdPbmNMWTBxV2swVkhLbV9QdFdhUWhORl9Ca2NHUFlxNEFFamRWNzhQRlJEdFNadkd5M1RQMTM?oc=5",
+   "ts": "Tue, 03 Nov 2026 23:55:00 GMT"
   },
   {
    "src": "gnews",
@@ -395,15 +395,15 @@
   },
   {
    "src": "gnews",
-   "title": "Democrats’ midterm victory means more obstacles to Trump’s trade and EV agendas - Automotive News",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN2pTRFg4WGE2TDl2bFVsZW1ENEk1NUJmcnJtU2VKckptZU51OXptQk5ONHR2bS1BQkxsbTFhZllwX25sd2U1TWFackp0c2ZCSVluTGc4MVg5MHUtOGR2TFpyaHR1d3g2WXFGOGVpT3MzNzR2VXlVcG9rRnBGcXlHckFtSkg3bC13a3c?oc=5",
-   "ts": "Wed, 04 Nov 2026 15:53:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms - MPR News",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHc1QVBGdDlLNXBiZ21Ya3c1bkNzaEdlOXJRUDd0NWhnRFBvcjRZcHFzWnFwdkFUVlNzMkFpQ1VNMkZsMXBQdWJXbnFKbXVxV0ZiaXZwNUtUbUdUdzFIeDlBOW11alBabGZqRFNpd09TZncwX0IxNFM0c2lZbzQ1cmtXbW5GNWVQM1BLVzU2d1RlSnpjUzZSYWE0NEIxTS1FMGxIQTVyano?oc=5",
    "ts": "Sun, 01 Nov 2026 21:14:58 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Democrats’ midterm victory means more obstacles to Trump’s trade and EV agendas - Automotive News",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN2pTRFg4WGE2TDl2bFVsZW1ENEk1NUJmcnJtU2VKckptZU51OXptQk5ONHR2bS1BQkxsbTFhZllwX25sd2U1TWFackp0c2ZCSVluTGc4MVg5MHUtOGR2TFpyaHR1d3g2WXFGOGVpT3MzNzR2VXlVcG9rRnBGcXlHckFtSkg3bC13a3c?oc=5",
+   "ts": "Wed, 04 Nov 2026 15:53:00 GMT"
   },
   {
    "src": "gnews",
@@ -425,6 +425,12 @@
   },
   {
    "src": "gnews",
+   "title": "Democratic Sweep Revives the Stalled Copper Tariff Trade - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclhEaDhWNFBZeWNhWS1fU2daRVUtNUU3WDFqZ3I0MDBVYmk5ckFhRndvQk1maE9DYWlqLTNHSFdPUnZGWVZGQkdsVk5HNjJicElKckNCbnVzeHVCNU9EaDhhYzZrRnh5djQzVU4zQ3VtUUp5SnRoN3VDaDY2VkhkSDlTTjZVNVBzSFRnX29GdU01c1dqVFhla2xyTnRkMFA3NHh1dDhpZlFXVXVxNGt4REhZamItSlk?oc=5",
+   "ts": "Wed, 04 Nov 2026 21:40:44 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "From Iran to trade: how the US midterms impact the rest of the world - Reuters",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMk5tUl8yRml4eVVXZThHYnhwejMtb3VqUTR6c3lIel9CUjlQYnprMFdJOGRkY1BvcXU5eS0zeEg3Wnc3bHhPTnYyMms5bmpYVmxUVGNpeEJzZGhLUUVWcWY2dDhZTXBOR1pSRldGRUZyeGVkMU5RMkREejBqLUh5Y1IzTklIRTdHeUtweFh0SWVocUZuYlNmNTg5ZGFDa3c?oc=5",
    "ts": "Wed, 04 Nov 2026 19:40:29 GMT"
@@ -437,27 +443,21 @@
   },
   {
    "src": "gnews",
-   "title": "US Democratic win unlikely to ease firms' cost, tariff woes in near term, executives say - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMFREOVI1am9RMmxtb1dOZTc2dFNqaDZLMENlSFQwZEg3SWthaFdPVVV3QXEyMjlKTE5zZHI3Nk1RclhjZWt3SmZuQjNyMVM3c2RLZFo4Z0JEOEZCdXNPZFBPLVpCZnlmUkFBNWE5Zk0zcWFyTTNBZHlMR1FtaFFRVnNXWS04LTlocmtSTEFscG9GTlh6aGd3SC0tVHRmSWtYdnhKWnRqVmNHa0NhaEhkTENiRnJEaWJOREtuOEN1dVRrQQ?oc=5",
-   "ts": "Wed, 04 Nov 2026 12:56:18 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump says US close to trade deal with Canada, Carney says work remains - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQUpBTWJCc1lBeWhlaWFkSEFyYUtsbjg4THBRS3Z1cGs2ZE5BXzhiUGRpNFZsTnZtb2I0eHItTV9McE5BYm90TU5nZXJfMm9wLVc4TkhWNnBIZTlyYXhDX3ZRdzRGSnZCWS16Y0JpNnBYLWZwR2hrVmk3c3pIQXpxUVJ5ZGF4amN5ckhIUGdPS28yUjZkbHEtekFnVVVwQQ?oc=5",
-   "ts": "Tue, 03 Nov 2026 23:14:05 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China evokes patriotism, past wars amid trade tension - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44a21HR2lYTVZuWjV5b2RPajZ1dy10aHljbGJNNzNiQXVlWDNhTE1ic3RhN25fdE5XREYtUFJjZ0I5emZQbkhWaTVRUENTdGg5ZE5QY3hTbW1wamhI?oc=5",
    "ts": "Wed, 04 Nov 2026 22:19:44 GMT"
   },
   {
    "src": "gnews",
-   "title": "Democratic Sweep Revives the Stalled Copper Tariff Trade - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclhEaDhWNFBZeWNhWS1fU2daRVUtNUU3WDFqZ3I0MDBVYmk5ckFhRndvQk1maE9DYWlqLTNHSFdPUnZGWVZGQkdsVk5HNjJicElKckNCbnVzeHVCNU9EaDhhYzZrRnh5djQzVU4zQ3VtUUp5SnRoN3VDaDY2VkhkSDlTTjZVNVBzSFRnX29GdU01c1dqVFhla2xyTnRkMFA3NHh1dDhpZlFXVXVxNGt4REhZamItSlk?oc=5",
-   "ts": "Wed, 04 Nov 2026 21:40:44 GMT"
+   "title": "Canada to continue trade talks with Trump administration following US midterms: Official - Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTnBQUjlTT1hSeGxnaVZOaDZwd1J0bzhXWXo5RV9JWkczdmNFREQ0TEJvOGNHOHBfSGk3VWVKcy1EWENzWUVuT3dIYVBRR0kzVUNtNmVIUFZhRjVmUXpLQnFMWVRtSy1HazhHV1RLbUl0M0NQQVdMOVhKakF6eHppMHYtTHlRSXhHc1dPNzdFaDFvVFc5ZExRTW1UMEliR1p3MEZHcUdyZVo4X1hRMlN3VGp5T3BqWlBYdmlOZThFS2RsVjA?oc=5",
+   "ts": "Wed, 04 Nov 2026 22:19:45 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObVJlTmFuVEh3WkZZZS12S0NPTjRoamIzUVJCNURKWHl6QzR5eHpjT0pobGt0b0ZSLWw0TE1seWV0S1ZLRjJOb1ByZWVCVmJEcXRlZ29kbzA0X0ppTmVTZ1M4cHVSRnhWMy1USGxhTmtROFU0V3luU1lsWTlkeVFqU3BwUXlQaTU2NEpPNC1xRTE0TlFyRjJYd1ZCNlhsZHFiaFpFbGNlem9pdm0teVZaUExyY2x6QTFnWUQzamdDYlpVT0hlUXdfY1h0bks0Zw?oc=5",
+   "ts": "Sun, 01 Nov 2026 11:14:38 GMT"
   }
  ]
 }

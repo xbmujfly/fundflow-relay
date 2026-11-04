@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-04T14:30:25Z",
+ "ts": "2026-11-04T14:45:26Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -389,27 +389,21 @@
   },
   {
    "src": "gnews",
-   "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
-   "ts": "Thu, 29 Oct 2026 16:23:22 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Europe’s Deal Limiting Chinese Auto Imports - Council on Foreign Relations",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03TUdiZE8ydWpvRTRfLTh0Mm83anh5ZEpQQkthaUpiSkNUX3UyYVBfWVhOeTdnS2Z5UnppU1BvUVRjMnNzck1IQ1BwTlpaYXVUa1lKWWQ4THV3Y2tBeUdUc2xn?oc=5",
    "ts": "Mon, 02 Nov 2026 16:02:55 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump Delays Robotics Tariffs and Orders New Trade Negotiations - Legis1",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vdHM0Vk1FTlE4bG5lV1ZJM1RRUlVQWVNoSm9oaXc2SUo4cU9RZk9QTERFZHR6U2xRM09yV21saXo0ZXhtdTdpSE83eklUME1oTVZya05hQ1UwakJSZ1V2Zkd0cVRfWFJnUmdxVkI1NEhmTzViRGtGWTRhQnI?oc=5",
-   "ts": "Tue, 03 Nov 2026 17:53:49 GMT"
+   "title": "US midterms: What Trump's defeat means for Europe and global markets - Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb0sxSjV0N29TS3Y2LW0tOW1vT09kTS1semVmbXdIY0piNjJHaDc0eHVNTjZrZWRCbkhacUp0RzJZTnlCaF9hY0NfM1N0ZUVTa21HMG9oajczbHVtS1Z3YXN1ejFRaVV1bUdSVERtTFp1QmJWUlQyR2dHekhBUWVnVG4xTW5jblgybkpKeE93YUFqVXpScUo4R3MzckJQa2E2LXdlLQ?oc=5",
+   "ts": "Wed, 04 Nov 2026 13:11:38 GMT"
   },
   {
    "src": "gnews",
-   "title": "Uzbekistan expands key highway on China-Europe trade route - Euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDUyOVJlSng2em41QVBqemJxR1FGTEplVUhpSTF0eVN2MEhpaGpXRk5KMW1zaF9SRGhoVFJlamJ1RU5VR0d4bG5aRkxja3VqeGxzU1JHeGVncERWNzlNZmhwMWJsV3Z3dVhOemdmZXZqOGhSTFhTdGtIYVd4azZ1YzdQNHlEaWpRdkg5NDg4RnR0ajFsVVVEVGJVeXNTeTF0OW03V25wOG82ZHd0MVhr?oc=5",
-   "ts": "Wed, 04 Nov 2026 12:37:55 GMT"
+   "title": "Trump Delays Robotics Tariffs and Orders New Trade Negotiations - Legis1",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vdHM0Vk1FTlE4bG5lV1ZJM1RRUlVQWVNoSm9oaXc2SUo4cU9RZk9QTERFZHR6U2xRM09yV21saXo0ZXhtdTdpSE83eklUME1oTVZya05hQ1UwakJSZ1V2Zkd0cVRfWFJnUmdxVkI1NEhmTzViRGtGWTRhQnI?oc=5",
+   "ts": "Tue, 03 Nov 2026 17:53:49 GMT"
   },
   {
    "src": "gnews",
@@ -431,6 +425,18 @@
   },
   {
    "src": "gnews",
+   "title": "Uzbekistan expands key highway on China-Europe trade route - Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDUyOVJlSng2em41QVBqemJxR1FGTEplVUhpSTF0eVN2MEhpaGpXRk5KMW1zaF9SRGhoVFJlamJ1RU5VR0d4bG5aRkxja3VqeGxzU1JHeGVncERWNzlNZmhwMWJsV3Z3dVhOemdmZXZqOGhSTFhTdGtIYVd4azZ1YzdQNHlEaWpRdkg5NDg4RnR0ajFsVVVEVGJVeXNTeTF0OW03V25wOG82ZHd0MVhr?oc=5",
+   "ts": "Wed, 04 Nov 2026 12:37:55 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Why a midterm mauling for Trump will not bring Asia trade relief - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcWFpa05tREVsNFJLWXgwT3VqdTctX1F4UjNoSUhUXzN4ZlhoczNsUEFkeXhHalpaenY0TDZFbkpGN01HWDhyYUJyMDdIdUs5Z285X0NiYmVoQU1zVjVWODhiQlJnZnRabkNZMjhVRlNRR0JOUXpOS0FPYVBMNlBSbHRLVWRyUXdLcXprUnhfY2FhcWEyQ2Y4cFZ6Y1A0UEJKbHIyN2xLWDNiMExONUZzUnVkM3BaQdIBtgFBVV95cUxPN3pWM2hobGxjMkZicS1FX2pzX09fSkVzMUJOS3BhclRQb2pkbDh6ajFlMld0cDZRYVBqM2ZTZUpWdG9vLVQtek5Nbk1Zd2N0eFZQYlZVSHdJM1N2NDRobDNGUkxpVXZ6cEtzaUlLWDhGU1haUWl4ek51dFB0RVNuYzVVMEJkNGNQTU1rQUNtSC1WM19CdGhLMVlqVTYySEVZcUJVSlFqWVNuVUhIOTJBVEZsR0lTUQ?oc=5",
+   "ts": "Tue, 03 Nov 2026 11:30:08 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "COMMENTARY: Asia hopes Democrats can provide relief from Trump's Iran war, tariffs - Reuters",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUk1naVB2YlNzNHNsUVA1ZVp4ZU5QaUNocUZjdkt0VVdHZVVmZXdRZzhSdUt5RFROWXlBclNEM0p0NnJTc3dqaWlBWVhoUWRVczliT2JGR3l3RXU0R1N0aGZicXFZSkdiNjd6dmZJWVVoRWp4X21wNUJNd2EzOG5CMnJoR1ExaW1lX1Q4R0o0cHhBM1lZX0lnd0NLMkFVaTJZZ0FvUVNfejFaaFViQU9tX3REV2ZBNjdCOHU3ak1EcUdJX2xsbFdCWE9pVzk?oc=5",
    "ts": "Wed, 04 Nov 2026 13:00:41 GMT"
@@ -443,21 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "China trade accord with Swiss bucks wider trend towards protectionism - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkQ4YmJ3dHdaYVYzcXlkcUQ1V19QMU9mQ2tFd1RuQ1NEckN3ZTIxSFMzSkJxQzQ1UjdXTDVjRzlwdHNpUE13dUJKS19hQ0hndHlTdThtOEpLU1g5NXcxWnphT0RMME5TVDZLa2MySGZGMGdPVDF2QWdGVmpsN05fRk9jRmJZOFBsakdiT2I1X1lVYkpSUTFROHU0RFZGdnRvOXdYRlc4VnZRTzIyWG4xUU50SzRVRl8zaEZJS2lUaS1EZw?oc=5",
-   "ts": "Thu, 29 Oct 2026 23:06:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "South Africa braces for some job losses as US trade benefits end - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZTlrOFlkVWh5U3FDTVhjc3pmdThYY1NvbVVZWlRsNFNfNUo2S0dJRVpDTFBGeFFvZmRQU0V0VHB1TmxVV2x0ZUJ6NXh6WkxRNmNpTHFMSGlyWHNnLWdLdXdYYVhtMFcwWXlxX0VXU1BJNFNTaGlLUDhzRzQ0WG5JNFVpaW9mSzhpWkVfd2d2LTRteV9lajRVbVpjTkRWZ3BuR3VIc3MyWFgzdw?oc=5",
    "ts": "Tue, 03 Nov 2026 16:32:09 GMT"
   },
   {
    "src": "gnews",
-   "title": "Why a midterm mauling for Trump will not bring Asia trade relief - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcWFpa05tREVsNFJLWXgwT3VqdTctX1F4UjNoSUhUXzN4ZlhoczNsUEFkeXhHalpaenY0TDZFbkpGN01HWDhyYUJyMDdIdUs5Z285X0NiYmVoQU1zVjVWODhiQlJnZnRabkNZMjhVRlNRR0JOUXpOS0FPYVBMNlBSbHRLVWRyUXdLcXprUnhfY2FhcWEyQ2Y4cFZ6Y1A0UEJKbHIyN2xLWDNiMExONUZzUnVkM3BaQdIBtgFBVV95cUxPN3pWM2hobGxjMkZicS1FX2pzX09fSkVzMUJOS3BhclRQb2pkbDh6ajFlMld0cDZRYVBqM2ZTZUpWdG9vLVQtek5Nbk1Zd2N0eFZQYlZVSHdJM1N2NDRobDNGUkxpVXZ6cEtzaUlLWDhGU1haUWl4ek51dFB0RVNuYzVVMEJkNGNQTU1rQUNtSC1WM19CdGhLMVlqVTYySEVZcUJVSlFqWVNuVUhIOTJBVEZsR0lTUQ?oc=5",
-   "ts": "Tue, 03 Nov 2026 11:30:08 GMT"
+   "title": "Trump says US close to trade deal with Canada, Carney says work remains - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS0lFb2F4bzhXWlFPSE5Sb0VadkVXclRDMGRaQ3VtTkRBanQyU0NQdXo0dGlHUGJuVlJBQ2Y0azF6UnJIbm9YYWRHNnRKRXBIMmVBcG1UaEFCeUNiS0ZWSXR5aXRPYWJMcVk5a3k5Vk45RUw5WExjZmZ4bW5xbUhzdWtnMnZqMkszSnJtUkJ1bWZnQ1hoSmNBcVQ0Sk9QSGJwLU5uZ19rVjg2RDRzczlCemJUWTdLUXJJc2JLU3BXN2RKR3YzTGphanJZNNIBywFBVV95cUxPaE9NVzJ1cDVTdzRXN0dVdjhiN29vRjNDZTVDbmNyTXVaOTQ0elp4dGdhTFFEbmQzbGlQei1KcFNTTHRGWU42ZkVfMldETk5aWXh5Y2M3S2xsVlA0N3Z1QU9XdTZtZU51T2NPMXlGTzhwOFVMUWZDVDJKV0t0clI5RTExQUg5UmwxUFpZSDFFUTlaTmtVSmsxX3BGaDZTUkRqS1RuVl9sNHVoOFFYQTJwSldvXzZURF91UUdrcV9jSUljbU15dzY0ZE1RMA?oc=5",
+   "ts": "Tue, 03 Nov 2026 23:42:34 GMT"
   }
  ]
 }

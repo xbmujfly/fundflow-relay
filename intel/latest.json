@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-04T01:15:23Z",
+ "ts": "2026-11-04T01:30:27Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -457,126 +458,6 @@
    "title": "South Africa braces for some job losses as US trade benefits end - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZTlrOFlkVWh5U3FDTVhjc3pmdThYY1NvbVVZWlRsNFNfNUo2S0dJRVpDTFBGeFFvZmRQU0V0VHB1TmxVV2x0ZUJ6NXh6WkxRNmNpTHFMSGlyWHNnLWdLdXdYYVhtMFcwWXlxX0VXU1BJNFNTaGlLUDhzRzQ0WG5JNFVpaW9mSzhpWkVfd2d2LTRteV9lajRVbVpjTkRWZ3BuR3VIc3MyWFgzdw?oc=5",
    "ts": "Tue, 03 Nov 2026 16:32:09 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Іран заявив про знищення 55 американського безпілотника MQ - 9 Reaper",
-   "url": "https://news.bigmir.net/ua/world/10459624-iran-zayaviv-pro-znischennya-55-amerikanskogo-bezpilotnika-mq-9-reaper",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Rusko potvrdilo rokovania s united states a Ukrajinou",
-   "url": "https://www.teraz.sk/zahranicie/rusko-potvrdilo-rokovania-s-usa-a-ukraji/1004795-clanok.html",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  Messy ,  divided  and  scary : swing voters rate the country ahead of Election Day",
-   "url": "https://www.ksmu.org/2026-11-03/messy-divided-and-scary-swing-voters-rate-the-country-ahead-of-election-day",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Τραμπ χωρίς Κογκρέσο : Τι θα σήμαινε μια διπλή ήττα – Και ποιος ( δεν ) μπορεί να πανηγυρίζει",
-   "url": "https://www.naftemporiki.gr/kosmos/2183700/tramp-choris-kogkreso-ti-tha-simaine-mia-dipli-itta-kai-poios-den-mporei-na-panigyrizei/",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US midterms : Senate majority on the line as latest polls show tight races in Texas , Iowa , Kansas and Ohio",
-   "url": "http://www.texasguardian.com/news/279409124/us-midterms-senate-majority-on-the-line-as-latest-polls-show-tight-races-in-texas-iowa-kansas-and-ohio",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Midterm test for Trump with Congress in the balance",
-   "url": "https://www.newcastleherald.com.au/story/9385403/midterm-test-for-trump-with-congress-in-the-balance/",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Bruce Springsteen Backs US Senate Candidate , Accuses Trump of  Anti - American Leadership  ",
-   "url": "http://www.bgnes.com/entertainment/bruce-springsteen-backs-us-senate-candidate-accuses-trump-of-anti-american-leadership",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "In the news today : U . S . midterms today , Carney in Antigua , is AI stealing youth jobs ? ",
-   "url": "https://www.stcatharinesstandard.ca/news/canada/in-the-news-today-u-s-midterms-today-carney-in-antigua-is-ai-stealing-youth-jobs/article_67947e99-c468-5e65-bebd-541d4208cbcc.html",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Judge Dismisses Trump Suit Over Harvard Admissions Records",
-   "url": "https://1190kex.iheart.com/content/2026-11-03-judge-dismisses-trump-suit-over-harvard-admissions-records/",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "민주 , 상하원 장악땐 사법부 인준 제동 … 트럼프  조기 레임덕  [ 美 중간선거  운명의 날 ] ",
-   "url": "https://www.fnnews.com/news/202611031811042619",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Midterm test for Trump with Congress in the balance",
-   "url": "https://www.illawarramercury.com.au/story/9385403/midterm-test-for-trump-with-congress-in-the-balance/",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Investors ready for possible shake - up in Congress as Election Day arrives",
-   "url": "https://www.theglobeandmail.com/investing/article-investors-ready-for-possible-shake-up-in-congress-as-election-day/",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Tiny trackers on monarch butterflies to reveal secrets of 3 , 000 - mile migration",
-   "url": "https://www.dumbartonreporter.co.uk/news/national/26693023.tiny-trackers-monarch-butterflies-reveal-secrets-3-000-mile-migration/",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "World Insights : How far will both parties go in the U . S . midterms ? ",
-   "url": "http://www.texasguardian.com/news/279409093/world-insights-how-far-will-both-parties-go-in-the-us-midterms",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ٹرمپ کی مقبولیت وسط مدتی انتخابات سے قبل کم ترین سطح پر آگئی - World",
-   "url": "https://www.aaj.tv/news/30523922/trump-approval-rating-nears-record-low-ahead-of-midterm-elections",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Will Midterms Release The Real Frankenstein ? ",
-   "url": "https://www.americanthinker.com/articles/2026/11/will-midterms-release-the-real-frankenstein/",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  Messy ,  divided  and  scary : swing voters rate the country ahead of Election Day",
-   "url": "https://www.aspenpublicradio.org/2026-11-03/messy-divided-and-scary-swing-voters-rate-the-country-ahead-of-election-day",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "À un budget de pierre",
-   "url": "https://www.canardpc.com/news/a-un-budget-de-pierre/",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Judge Dismisses Trump Suit Over Harvard Admissions Records",
-   "url": "https://wflaorlando.iheart.com/content/2026-11-03-judge-dismisses-trump-suit-over-harvard-admissions-records/",
-   "ts": "20261103T111500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "U . S . Carries Out Defensive Strike On Iranian Island",
-   "url": "https://wdov.iheart.com/content/2026-11-03-us-carries-out-defensive-strike-on-iranian-island/",
-   "ts": "20261103T111500Z"
   }
  ]
 }

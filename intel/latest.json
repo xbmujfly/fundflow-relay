@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-05T08:30:25Z",
+ "ts": "2026-11-05T08:45:26Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -401,6 +401,12 @@
   },
   {
    "src": "gnews",
+   "title": "Can China Benefit From Trump’s Midterm Defeat in US Trade and Taiwan Disputes? - Modern Diplomacy",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDRnQTRjdUk2WnlJUnZLbmZWZDhkdFdlZUJ4eTFqUmJ6c3pCeU90WUV1ektWRGR1aWsxR2ZYaDJzZTUwSGI1M3BieHRBcTh1NUdNZ0hDR2lDT3luRmg1ZXFSRXJoYUZNYmxiSVk0RzRhQ0xvRVp2ZF85S09Pc296OUtZYy13bUc5ZjV3LXlucHFtRnFMOHo3TVdtQjFOQUlYZ3hNSVBzQWEtWW9TZVF4enlhUURuZw?oc=5",
+   "ts": "Thu, 05 Nov 2026 08:24:14 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals - CNBC",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOanRQS1NxX3lCdmRsYWJ1STlUY3B4SDIwaHpITTBOUnh2ejlJNUlkQW9QWkJXcTFFckhBLWlCTnRPUTJYaWd1Q0tVSDhIQjNkd2NQRFpXSkhaTVJiZHF4cG9CbnhDSVYzejkxX3JDS0kwaGs2NmM2RGJNWjJSSmNzU1FHT2PSAYoBQVVfeXFMTmJ2eEhROHc3V3Y5RGwwQUVCUC1oTFpqbnQ4WjdNbE83Uzd2SFpXUWJCdloxT0VqdWM4Z3RPM1UwVS1rWHFLLUo1Y2ZScGFjSkZqQ3NQSl9RMnV5SjRPcXZEZ0sxLUJWWTZxbldMcFc5WENINlJnTVo4QmMzLWFXSzB5Uk1Xb1oyRjVR?oc=5",
    "ts": "Thu, 05 Nov 2026 03:44:00 GMT"
@@ -413,27 +419,21 @@
   },
   {
    "src": "gnews",
+   "title": "Republicans paid the price for Trump’s failed policies — they must rethink - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CeVRXdWpMc2VjNy12ajR1OHJCem41RnBrUzRYelAzeFlVbDJjUFdVTWdMRDM0TDBTY2xpeV9tQlFnQTdSQmNqb05jX2lSTEVqa3dSdTMwZWNHUGNlUm0yT1RKdlFBRUV5TXl3WTdWbXk?oc=5",
+   "ts": "Thu, 05 Nov 2026 05:00:07 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "‘More carve-outs’? How the midterms could affect US trade policy on China - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb05DX3U3cmVhWTVRVTRQbkdqRTB3RzhFdlhfeWxGckw1cl93bjJXMkwwLTJURUxuRUI1eUNDTm5SVE1FQmtFNFRhaXVXQnJtbjAyNkI4VFQ0NWdkZnplRHZhdVBBSTNpT09mWlgyTVFrRzdBX2dMS0VycDBjcnpPdnVBSWE1RmlxY1M3TjdkdUVJc2RPWGN5cUljMVJvZnJPVnFKSjFMONIBpwFBVV95cUxNWG1faG9kV1ItTlIyLTlfeXdETldlcFlPRXJfLWJxdy1tcFVTSTU5MTBmSkpuVjROVmtQMGZYcXpLZmpLTl9tY294QVRrYjI1enJTaThlVXUwakJqc1dhQWZKVGFXTjZxTnZGU1NSMENMeGZrQ0pyMHg3NlN1Z0NrLUZUQThXUW4xYjJOc0k3UnlMVVZsRlpwZjR4ZGdsUEVUQWhBcWVicw?oc=5",
    "ts": "Wed, 04 Nov 2026 14:00:09 GMT"
   },
   {
    "src": "gnews",
-   "title": "Republicans need to rethink failed policies for a post-Trump future - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CeVRXdWpMc2VjNy12ajR1OHJCem41RnBrUzRYelAzeFlVbDJjUFdVTWdMRDM0TDBTY2xpeV9tQlFnQTdSQmNqb05jX2lSTEVqa3dSdTMwZWNHUGNlUm0yT1RKdlFBRUV5TXl3WTdWbXk?oc=5",
-   "ts": "Thu, 05 Nov 2026 05:01:38 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump's midterm defeat gives China, Canada, India and Africa's largest economy fresh leverage in US trade talks - Business Insider Africa",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ2J2RHozUzhNdWZKejdqMm92a3cyaV8xMjh2ekdIZVZ6VEM2bkxOSnJhemU2eUdndG1Qc0pNd2RxQVVrX0xVZ0lSeWxLc0x3S21kd3ZBMEl0Vk9sSGhkSEctVFJ6WVlxQ0ZiZWI0Y0VYdWN6YngwS1NKSzl6dFJEbm9ENEtuRVpYc1dGMENodFNMR2ZoU3VnUV9ZRHdhSVRaQ0RweUVsVmFBcEl2ZXI4TW5NeDBXU1QyZW1EUTV4eklSY0c5R2dLcFZFa1V6SzF3emtV?oc=5",
    "ts": "Wed, 04 Nov 2026 18:18:01 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms - MPR News",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHc1QVBGdDlLNXBiZ21Ya3c1bkNzaEdlOXJRUDd0NWhnRFBvcjRZcHFzWnFwdkFUVlNzMkFpQ1VNMkZsMXBQdWJXbnFKbXVxV0ZiaXZwNUtUbUdUdzFIeDlBOW11alBabGZqRFNpd09TZncwX0IxNFM0c2lZbzQ1cmtXbW5GNWVQM1BLVzU2d1RlSnpjUzZSYWE0NEIxTS1FMGxIQTVyano?oc=5",
-   "ts": "Sun, 01 Nov 2026 21:14:58 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "Democrats’ Election Victory Raises Canada’s Hopes of US Tariff Relief - Morningstar",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcEtvdUt2VWw0emFoWGFxSE5tQXZpMnJYUTNQNFZ1Mks2Rm9VLVB6SnJ0cDJ4VDNzVEE1Ym1OS1gyWEVCd2g3NG1LWnlqa3VHZlFCZ3FybllSX3ljSWNpUmh5NHE1ZElSRkQ1RV83enhrY1VmRTZ2S3NyYUkwMmdVQmdoYWc5RlY2M2EtQk9WV1c2b0ZjaE5JdlB6NUFrbGhsNHd3NWgyelZkZzg4bWc?oc=5",
-   "ts": "Wed, 04 Nov 2026 22:49:05 GMT"
+   "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms - MPR News",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHc1QVBGdDlLNXBiZ21Ya3c1bkNzaEdlOXJRUDd0NWhnRFBvcjRZcHFzWnFwdkFUVlNzMkFpQ1VNMkZsMXBQdWJXbnFKbXVxV0ZiaXZwNUtUbUdUdzFIeDlBOW11alBabGZqRFNpd09TZncwX0IxNFM0c2lZbzQ1cmtXbW5GNWVQM1BLVzU2d1RlSnpjUzZSYWE0NEIxTS1FMGxIQTVyano?oc=5",
+   "ts": "Sun, 01 Nov 2026 21:14:58 GMT"
   }
  ]
 }

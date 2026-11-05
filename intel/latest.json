@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-05T15:00:27Z",
+ "ts": "2026-11-05T15:15:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -458,6 +457,126 @@
    "title": "COMMENTARY: Asia hopes Democrats can provide relief from Trump's Iran war, tariffs - Reuters",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUk1naVB2YlNzNHNsUVA1ZVp4ZU5QaUNocUZjdkt0VVdHZVVmZXdRZzhSdUt5RFROWXlBclNEM0p0NnJTc3dqaWlBWVhoUWRVczliT2JGR3l3RXU0R1N0aGZicXFZSkdiNjd6dmZJWVVoRWp4X21wNUJNd2EzOG5CMnJoR1ExaW1lX1Q4R0o0cHhBM1lZX0lnd0NLMkFVaTJZZ0FvUVNfejFaaFViQU9tX3REV2ZBNjdCOHU3ak1EcUdJX2xsbFdCWE9pVzk?oc=5",
    "ts": "Thu, 05 Nov 2026 07:00:00 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "US midterm election results live : Trump blames Iran war after losses | US Midterm Elections 2026 News",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?update=5123773",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Gold Silver Price Today : अमेरिका में ट्रंप को लगा बड़ा झटका तो सोने - चांदी ने बदला अपना रास्ता , सिर्फ 2 दिन में आ गई भारी - भरकम तेजी | Gold Silver Shifted Course Massive Surge In Just 2 Days Due T",
+   "url": "https://www.patrika.com/business-news/gold-silver-shifted-course-massive-surge-in-just-2-days-due-to-crude-oil-price-fall-21031420",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "The whitening of America refugee policy : Who gets to be saved ? ",
+   "url": "https://amsterdamnews.com/news/2026/11/05/the-whitening-of-americas-refugee-policy-who-gets-to-be-saved/",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "2028 election season begins as parties navigate midterm fallout",
+   "url": "https://www.mynbc5.com/article/2028-presidential-election-season-underway/74339778",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Τα δύσκολα διλήμματα του Τραμπ για τον πόλεμο στο Ιράν μετά την εκλογική ήττα",
+   "url": "https://www.news247.gr/kosmos/ta-diskola-dilimmata-tou-trab-gia-ton-polemo-sto-iran-meta-tin-eklogiki-itta/",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump is considering firing Hegseth after devastating GOP midterm loss : report",
+   "url": "https://fox23.com/news/nation-world/trump-is-considering-firing-hegseth-after-devastating-gop-midterm-loss-report-ron-desantis-democrats-kentucky-florida",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  부담 줄여야  vs  생계 위협 … 배달앱 상한제에 자영업자 · 라이더 갈등 고조",
+   "url": "https://www.newspim.com/news/view/20261105001182",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Triumf demokratów nie przestraszył inwestorów . Ropa i gaz mocno tanieją",
+   "url": "https://www.rp.pl/biznes/art45448221-triumf-partii-demokratycznej-nie-przestraszyl-inwestorow-rynek-hipotek-hamuje",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "How well did polls predict the blue wave ? ",
+   "url": "https://www.wvik.org/npr-top-stories/2026-11-04/how-well-did-polls-predict-the-blue-wave",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Asian shares mostly advance following US midterms , though Kospi falls on selling of chipmakers",
+   "url": "https://www.dailygazette.com/leader_herald/ap/business/asian-shares-mostly-advance-following-us-midterms-though-kospi-falls-on-selling-of-chipmakers/article_49fd62b6-abc8-54bf-aee9-951a9fa82235.html",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US contractor admits passing top - secret information to Ethiopia",
+   "url": "https://www.wapt.com/article/contractor-admits-passing-secret-information-ethiopia/74340372",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ted Cruz calls midterm election results a  Watergate - level repudiation  of the GOP , warns  Americans will be hurt  by radical Dems",
+   "url": "https://nypost.com/2026/11/05/us-news/ted-cruz-calls-midterm-election-results-a-watergate-level-repudiation-of-the-gop-warns-americans-will-be-hurt-by-radical-dems/",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Beware the  Red Mirage  if California Republicans Have an Election Night Lead",
+   "url": "https://www.northcoastjournal.com/news-2/news-blog/beware-the-red-mirage-if-california-republicans-have-an-election-night-lead/",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Midterm Elections Live Updates : Ossoff Retains Georgia Senate Seat , as Polls Close in More Battlegrounds",
+   "url": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/were-watching-several-areas-in-texas-as-polls-close-there",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Democratic Sen . Jon Ossoff cruises to re - election in Georgia",
+   "url": "https://www.nbcnewyork.com/elections/georgia-senate-race-2026/6567183/",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Drone Boat Maker Saildrone Wins Protest Over Navy Contract",
+   "url": "https://www.nytimes.com/2026/11/03/us/politics/drone-boat-maker-navy-protest.html",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US midterms in charts : What the data tells us",
+   "url": "https://www.dw.com/en/us-midterm-election-results-how-americans-voted-and-what-the-data-tells-us/a-79841886",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Cost of living , economy and unhappiness with Trump job performance among early voting takeaways",
+   "url": "https://www.wthitv.com:443/2026/11/03/cost-living-economy-unhappiness-with-trumps-job-performance-among-early-voting-takeaways/",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US to cut Israel military aid by end of year , Trump says",
+   "url": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860",
+   "ts": "20261104T013000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Election Day 2026 : Photos from around the country",
+   "url": "https://www.wxxinews.org/npr-news/2026-11-03/election-day-2026-photos-from-around-the-country",
+   "ts": "20261104T013000Z"
   }
  ]
 }

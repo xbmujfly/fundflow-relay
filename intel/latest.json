@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-05T15:30:28Z",
+ "ts": "2026-11-05T15:45:26Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -395,15 +395,15 @@
   },
   {
    "src": "gnews",
-   "title": "U.S. Midterms: Trump's Next Trade War Could Be With Congress - Foreign Policy",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1o5Y1g4b1BRdXBxbUF2dEdpZ3Y1bGtEeXdXVmNHcTZUM3hMN3dQM1pWNzN4MW5CeHJ2aTl2Q1F0amw4UDd6cmpFX0F5RzZ2V01aS09fVlZhUTlUTzlYWWxPTmd2M080OW5sT0lFQmxTV0s4d29Pem83MU5EVlNwVWJXczhFMzA4SGphak5BXzZMd28?oc=5",
-   "ts": "Wed, 04 Nov 2026 18:07:44 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Democrats’ Midterm Blowout a Referendum on Trump’s Trade, Economic Policies - WWD",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGdGZl9QOTNoMldCeUlBTS1jaTVnSXF2LVJzUUljM3Y4bVpRX3dPMDVVWkxLeXR3UWJqWkJ2OG4wM0ZVWXo4NnZIN0ViaDJTM2pIcnBab0gzTUZhUVNuRF9yaW1JcFk5Q25VeFh4UXFGaFNXVVVXd1ZTSDhfNkExUV92TktnbkRtM2s5b2lzUW1GU0hwdGZNRDlMRmlVdzJoQ1JDTzhNM1J4azgybWI4dnBlbm1jWmc?oc=5",
    "ts": "Thu, 05 Nov 2026 00:40:57 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "U.S. Midterms: Trump's Next Trade War Could Be With Congress - Foreign Policy",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1o5Y1g4b1BRdXBxbUF2dEdpZ3Y1bGtEeXdXVmNHcTZUM3hMN3dQM1pWNzN4MW5CeHJ2aTl2Q1F0amw4UDd6cmpFX0F5RzZ2V01aS09fVlZhUTlUTzlYWWxPTmd2M080OW5sT0lFQmxTV0s4d29Pem83MU5EVlNwVWJXczhFMzA4SGphak5BXzZMd28?oc=5",
+   "ts": "Wed, 04 Nov 2026 18:07:44 GMT"
   },
   {
    "src": "gnews",
@@ -416,6 +416,12 @@
    "title": "China threatens retaliation as EU mulls trade “kill-switch” - Euronews.com",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHBIVUJVUy1WX2c0dm5wZjhYWERMOU1GcGY5VDJvR1h4VlFvWGJDdzRyQVdEYzFaNEZqbERsb0VrN3FWQU9nVkhOSFdVOHZQaEN3ck05U2FuSzUtMUFtYUVwa2Q4VFh3UUNjZWVyUTc1UC02RTF6dUxHeGxURjBmc29EQWJZdjZXbnhmcXR5LUhnZk5HbktPdkUwdzFaUnJOTkp1My1OT2FuMEFKTWpzZDJ6TEViRUU?oc=5",
    "ts": "Thu, 05 Nov 2026 11:21:01 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Boots South Africa From Preferential Trade Program - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFRqMVNkZnhKUEh5MFhnY3NwbDlqMWN2cXM1U2JuZzBYNWNQejFVb1VkVTB4M1BmQzJLOGUzZmNaLThZaV9QRXRwaGVqOUhQT1dxZnpiYnNzYXhRcHBja01jTTRkMzMyVWFzNEpnQTZPVlZsYUVvb2ZSblNWdjVCcnZmc3VYMHR1b1Fsd3gwZmhrOWpG?oc=5",
+   "ts": "Mon, 02 Nov 2026 19:14:50 GMT"
   },
   {
    "src": "gnews",
@@ -452,12 +458,6 @@
    "title": "EXCLUSIVE: Nvidia chips pile up in Hong Kong as China withholds import approval - Reuters",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHNUQnlURFBWSTlTSE5wNWUzekR0cDZfcWQzQVRFLVNweXJiSGhtSFZ6cWdvMXF4SHpLRy1YT1Y2QjJZMGxRajNaRGQ1Y25SVGkycEphaU4zTTRJSzV0QjNPTFMxeEl0Mm9CdGFQc0JJTHBNemVoSXdkTnhsR1FNR0t1b2hoUHdfSW0yVnlGMl95Qkd4dDAtMGdhYTFhUzRhc0U1Mm9fdGxLRnhacUNr?oc=5",
    "ts": "Thu, 05 Nov 2026 11:54:32 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "COMMENTARY: Asia hopes Democrats can provide relief from Trump's Iran war, tariffs - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUk1naVB2YlNzNHNsUVA1ZVp4ZU5QaUNocUZjdkt0VVdHZVVmZXdRZzhSdUt5RFROWXlBclNEM0p0NnJTc3dqaWlBWVhoUWRVczliT2JGR3l3RXU0R1N0aGZicXFZSkdiNjd6dmZJWVVoRWp4X21wNUJNd2EzOG5CMnJoR1ExaW1lX1Q4R0o0cHhBM1lZX0lnd0NLMkFVaTJZZ0FvUVNfejFaaFViQU9tX3REV2ZBNjdCOHU3ak1EcUdJX2xsbFdCWE9pVzk?oc=5",
-   "ts": "Thu, 05 Nov 2026 07:00:00 GMT"
   }
  ]
 }

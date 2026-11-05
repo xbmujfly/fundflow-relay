@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-05T15:45:26Z",
+ "ts": "2026-11-05T23:00:27Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,12 +33,17 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
+  {
+   "src": "whitehouse",
+   "title": "ESTABLISHMENT OF THE OVAL OFFICE NATIONAL MONUMENT",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/establishment-of-the-oval-office-national-monument/",
+   "ts": "Thu, 05 Nov 2026 22:51:56 +0000"
+  },
   {
    "src": "whitehouse",
    "title": "ANTI-COMMUNISM WEEK, 2026",
@@ -154,12 +159,6 @@
    "ts": "Mon, 28 Sep 2026 19:59:28 +0000"
   },
   {
-   "src": "whitehouse",
-   "title": "Gold Star Mother’s And Family’s Day, 2026",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/gold-star-mothers-and-familys-day-2026/",
-   "ts": "Fri, 25 Sep 2026 19:47:32 +0000"
-  },
-  {
    "src": "ustr",
    "title": "Weekly Trade Focus: APEC",
    "url": "https://ustr.gov/about-us/policy-offices/press-office/blog/weekly-trade-focus-apec",
@@ -218,6 +217,12 @@
    "title": "Ambassador Greer Highlights the Success of President Trump’s Trade Program in Fueling America’s Industrial Resurgence While Touring Utah Plants",
    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial",
    "ts": "Mon, 19 Oct 2026 20:43:36 +0000"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+   "ts": "Thu, 5 Nov 2026 16:00:00 GMT"
   },
   {
    "src": "fed",
@@ -334,16 +339,16 @@
    "ts": "Fri, 18 Sep 2026 15:00:00 GMT"
   },
   {
-   "src": "fed",
-   "title": "Federal Reserve issues FOMC statement",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-   "ts": "Wed, 16 Sep 2026 18:00:00 GMT"
+   "src": "gnews",
+   "title": "Analysis | Trump’s favorite economic policy was among Tuesday’s biggest losers - The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVW1ybXNFaVdKR3V2UVVoOENIVkNscGpuVHhqZjEtR19zNVVwdFRzOFdBM1Vhc3dKcTVkZTRRUWJ2RUpUYnk4eUctZndfbzh2cDhLZlJIel92b3dTeFF4Wi0xOVZRSnVjNndUWk51XzZ1cWVJVlJfRml4NGVIV1FpTA?oc=5",
+   "ts": "Thu, 05 Nov 2026 18:00:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzNLUjBwZFJZSVE0U0NxbTVYbVotU0R1ak1zb2g1LTR2a0MtYkxVcGZFOFhZNkcza1hhTlpobGN4bU1hVmZhUGs5UFk5TC1kYWdXS181NHdZZlJGdEJMc0NNcHl5dndpaHo2SXpJcUxjeHkwVkZQTkhBX2xVVlg0eWNkZXRkcGx6NEpRQlFiLWtXdElVcllTWHhGZWxvUEREWXEzM2RocjFjbXBIbm1wOVhUSkEzOGFCb3ZMZ21WdElEU3l3em15cGZtZkdUQQ?oc=5",
-   "ts": "Thu, 05 Nov 2026 01:51:00 GMT"
+   "title": "China says US farm purchases hinge on tariff-cut deal - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjZCZGJiUVFJRkdBeU1DaTExb3FMSmdaLVRuLTRrQWNnd3F5MDg1YnZlTUZfclBPRWhQZXdlbWxEakVXdlNidWVWbmhFcGZTVEpSOWlJSE1FTHhOWTVlUXkwSG5rTXRNTDE5ckRWTzhnYmx3LVVJSDE2S2JNQW9CTUNFanlFNWlqMkJWdFZTMzU0VnpzX2tua25aQS0zNTdsUDNRRA?oc=5",
+   "ts": "Thu, 05 Nov 2026 07:44:00 GMT"
   },
   {
    "src": "gnews",
@@ -353,27 +358,51 @@
   },
   {
    "src": "gnews",
-   "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
-   "ts": "Thu, 05 Nov 2026 03:50:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Canada's Carney reports progress in trade talks with U.S. and Trump talks up 'concept' of a deal - PBS",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXdDTGJYWklRa09zNVZrZGpGa3ptMkN6eTBVbGw5V01RVl9VTktCMVNpSmFFWGR5YWJpUkJmQVUxeUNTSm5tYlJvQ05SNTFUQVZ3Z1NfbE9UVmQydDZ5LTk2YS12S3R3VzY2cHptSktvaUdmR3FOamhENFY5bG1LOFRVQzdGV09iY2Y1VGZ5Vi1oQThBWVQ4Q3V5aG9tajNZXzBwSVBOaTVKd1ZVazhHYkxCb09wVFd2OHlzeE1wSS1fTXJXNlNlaDRuanhwUdIB0wFBVV95cUxOTHBudWVpLWJfSkQ5RkJiay1FeWRtYzJmUnpRMEFzeXZzWlZqcDBqOUNmcE05cm54cnNhU0EwU2prTXg1Ml9tdUdlcGxHbWhXZXliZVV2WjZYWDlGSHVBcG1HNTVuUG1XX3F0a3FwWWQ3NFdDaG1FanlCbFcyT3dlTzZhRGx6TWJpZGxZbWJuVVctQ2tOdjl6NWc5enMwWm9EOWNxcjdYU2xXdU03YVBRa2RWblBkclF4RzNSMGV1MFNHQWxQUm81SmlvX0pGWE9MVW84?oc=5",
-   "ts": "Sun, 01 Nov 2026 18:00:43 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "‘Squeeze narrative’ on China’s trade surplus belies reality: official - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMllfOWxuNFoxZXlVQzE1M0dRTDZSY3VyWEF4SVVHUFF4THRXc2I0bXRKenYxaGI5SmhHYWl5emdJemtUeVNIM081dVY2RF9rWmtPRXViQl9kcWtTcG83NDVwSy1YVEFxc2VtZXAzby0xRFQzZGRPZGY4T2FqMTlVMjh5aWFrZTI3Nmx5SS1lb18tMmtFamRFUmFQRVo3eUdkYnVUX2FDanRORDBCUFlJYkhGRVNMZ9IBtgFBVV95cUxNWjlqQWRtNXpVVjJ5b1BSWlNSWENZYkRFOWVRNWtfVXFKbktXci1OWlk4R1V1SkdKNzI4S2liajNUT0E4T19TNDF1SVU4Z2ZwNWpHQW1VXzVXc0g0WDk3Sld3S3YtLU5DUEI3N2VtYmZkNmg2ZnFKZk5hemhFeXNFT3JzNldLOF85Wkpkb09PNmcyWXdoMGdvRHBZN0cxNXlxWC05elRYTWhSeThlcllhSkg5dElaQQ?oc=5",
-   "ts": "Thu, 05 Nov 2026 12:24:51 GMT"
+   "title": "Carney unveils budget to strengthen Canada’s economy as Trump’s trade war continues - The Seattle Times",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzQ3bkk3c3pkczhEU010X29jSUN3U1ltcmllcU12WXpGclBWRWFWdGltTlpnSTlZWkVKQ3lDUC1lTmZXTHhOLU4wNlJsY29sMzlxV0psVTJpaktwVkVHS1dsNm11YTFwUmhDenhUSFdlVTN1Yy1jOFJuRnUzMTdOZlg2UTI1R2tyMDB2SUFjTkEyV1J3Z2xUVm5BQ2pyRmRkQk1IVnJ2N3dyMGwxbXBLVkZrZ1ZvMFVwdUVHLQ?oc=5",
+   "ts": "Thu, 05 Nov 2026 22:24:04 GMT"
   },
   {
    "src": "gnews",
    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
    "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
+   "ts": "Thu, 05 Nov 2026 03:50:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "What does midterm humbling mean for Bessent ahead of US-China trade talks? - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeGlmbUlvNVBvdFVCRVhqallRb0RwaGxQVzRRbVpXaHh1YUJKMGc3LUJnYno0NFQwRnVXSm5CTzN3MEtGbWdoX0tCc21oMHl4WGJyRWRHaE9XQzFjWXRGSXlyYW83WDV2MHFqMTd6YnhSNndNcjBEYk5NdzdfOUdMX19kZkdjRl9vTm04Tklya0xRbzg0enB4d201ZmtTM24zU0xBel81YlJRWVFLUV9xMnlnSnhmR1FzelBLR1U4OTU4dW9PQnfSAcYBQVVfeXFMUHREYzVxOG9HbmNYZ05HZkRwS29TamppSHRPd0szZGFHS0Yxc2l1NmpZelF2RjlhRVpQWVdoWkhKXy0yRi1kRlBWRW12RnVscHRRTG5ON2dFb0dtQTV1S0FnMW5zLVhFLWEwT2JBWk9UY29oRmh1dFo5N0RBNG1rMjNscTg1bzlKTl9selBWMTZzX3llWWY4c0NoYkpTLUVsNVRJVHZwdk56ZE5SZjRTaVE3eVdNeGxBNzVfdDRNTks3U1dtNDFR?oc=5",
+   "ts": "Thu, 05 Nov 2026 14:30:07 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump's political humbling signals short-term gain, long-term pain for China - Al-Monitor",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQamJpRm10Y0pmUU5wcnp4NXR3OUd4bEFuWkRfWnVfb3VmbXJ2eXlnb1JvQUV0cmhhRzFWd3NfdlUyTENlNFNGV2JmcDNILXFKQjRoa1daTHdGbmVqT29kYjVfWmRtOU05LVpQVDU1S1h2QkNzWWRHdVdabEhaby01NVYzaXcxc1dyOGh2aVRidnBENWUxMDBYbEVKQ1VwSTRNYjk1NEZVUEh4QXV3ZDQ0ZFQzQXB1UQ?oc=5",
+   "ts": "Thu, 05 Nov 2026 12:50:25 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues - The Killeen Daily Herald",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZEZOOG5MOXJNWHByNG1tTGdFQnkyTG1idndlVjZob0JZM1BmSHJFUVltcEh1SlRQVlduSENCVEtqMjBZMWFFNnlHZ2M2dzIyQmUwWE4wajdKTDRjZDR0S2pSbkhKSkphT0NNczhwT2h0QUZlVXh2TXQ5TGxpcjNTdzV0YVpNMmF2QWcydUUzMzhhd28xX182S2xRdFc3Y3gtZXVxX0ZvNTBnS0p1TUtqOXJtMWtHZWI3SFdEV1R0RUY3eUNQYXdEbTY2dFJZNzNaei1FcjVKM3lrbjU1Um42S3JnWGRnbmYwZjFLbGVCU2FxWEg3?oc=5",
+   "ts": "Thu, 05 Nov 2026 22:23:48 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Can China Benefit From Trump’s Midterm Defeat in US Trade and Taiwan Disputes? - Modern Diplomacy",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDRnQTRjdUk2WnlJUnZLbmZWZDhkdFdlZUJ4eTFqUmJ6c3pCeU90WUV1ektWRGR1aWsxR2ZYaDJzZTUwSGI1M3BieHRBcTh1NUdNZ0hDR2lDT3luRmg1ZXFSRXJoYUZNYmxiSVk0RzRhQ0xvRVp2ZF85S09Pc296OUtZYy13bUc5ZjV3LXlucHFtRnFMOHo3TVdtQjFOQUlYZ3hNSVBzQWEtWW9TZVF4enlhUURuZw?oc=5",
+   "ts": "Thu, 05 Nov 2026 08:24:14 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "U.S. Midterms: Trump's Next Trade War Could Be With Congress - Foreign Policy",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1o5Y1g4b1BRdXBxbUF2dEdpZ3Y1bGtEeXdXVmNHcTZUM3hMN3dQM1pWNzN4MW5CeHJ2aTl2Q1F0amw4UDd6cmpFX0F5RzZ2V01aS09fVlZhUTlUTzlYWWxPTmd2M080OW5sT0lFQmxTV0s4d29Pem83MU5EVlNwVWJXczhFMzA4SGphak5BXzZMd28?oc=5",
+   "ts": "Wed, 04 Nov 2026 18:07:44 GMT"
   },
   {
    "src": "gnews",
@@ -389,45 +418,9 @@
   },
   {
    "src": "gnews",
-   "title": "China Ties U.S. Farm Purchases to Tariff Cuts as Trade Uncertainty Grows - AgroLatam",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWlBtcGthejNNdlRGTlVCbWVjSXpEbHctTXBJblR3S0JBdUdjaGQzdWlVcHk2bkY4MERpV1FCZzBLWURLcmN2N0VLOTVVLUZIYVdkOW42Ty1fZm9vQmg3VjBEaUtOMWdxR1NHckFsYzJnZklkUE5nSEVER0dWSVh6R0VB?oc=5",
-   "ts": "Thu, 05 Nov 2026 12:19:25 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Democrats’ Midterm Blowout a Referendum on Trump’s Trade, Economic Policies - WWD",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGdGZl9QOTNoMldCeUlBTS1jaTVnSXF2LVJzUUljM3Y4bVpRX3dPMDVVWkxLeXR3UWJqWkJ2OG4wM0ZVWXo4NnZIN0ViaDJTM2pIcnBab0gzTUZhUVNuRF9yaW1JcFk5Q25VeFh4UXFGaFNXVVVXd1ZTSDhfNkExUV92TktnbkRtM2s5b2lzUW1GU0hwdGZNRDlMRmlVdzJoQ1JDTzhNM1J4azgybWI4dnBlbm1jWmc?oc=5",
-   "ts": "Thu, 05 Nov 2026 00:40:57 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "U.S. Midterms: Trump's Next Trade War Could Be With Congress - Foreign Policy",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1o5Y1g4b1BRdXBxbUF2dEdpZ3Y1bGtEeXdXVmNHcTZUM3hMN3dQM1pWNzN4MW5CeHJ2aTl2Q1F0amw4UDd6cmpFX0F5RzZ2V01aS09fVlZhUTlUTzlYWWxPTmd2M080OW5sT0lFQmxTV0s4d29Pem83MU5EVlNwVWJXczhFMzA4SGphak5BXzZMd28?oc=5",
-   "ts": "Wed, 04 Nov 2026 18:07:44 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China says trade barriers block tech imports, fueling its surplus - Nikkei Asia",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUjB5V2tLQ0ZzaGF4Tjg2X1o0VF9YODZma0phamhGUDB1S1Q1ckxmOGRjTVk3RU9HV2ZwOVo2RDZHZnJxSkczTXBpbzQzOHVHbEhIbmkwdGpZY3lKREJFb3hBVVZtV05WOUczbUduazdDaWl6N084OGM5c3VjdG85LU5feVFnR1p2Y0NheDJKTVIxNGxzTHlnY21QMzYtTVVyTEdWQg?oc=5",
-   "ts": "Thu, 05 Nov 2026 07:19:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China threatens retaliation as EU mulls trade “kill-switch” - Euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHBIVUJVUy1WX2c0dm5wZjhYWERMOU1GcGY5VDJvR1h4VlFvWGJDdzRyQVdEYzFaNEZqbERsb0VrN3FWQU9nVkhOSFdVOHZQaEN3ck05U2FuSzUtMUFtYUVwa2Q4VFh3UUNjZWVyUTc1UC02RTF6dUxHeGxURjBmc29EQWJZdjZXbnhmcXR5LUhnZk5HbktPdkUwdzFaUnJOTkp1My1OT2FuMEFKTWpzZDJ6TEViRUU?oc=5",
-   "ts": "Thu, 05 Nov 2026 11:21:01 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump Boots South Africa From Preferential Trade Program - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFRqMVNkZnhKUEh5MFhnY3NwbDlqMWN2cXM1U2JuZzBYNWNQejFVb1VkVTB4M1BmQzJLOGUzZmNaLThZaV9QRXRwaGVqOUhQT1dxZnpiYnNzYXhRcHBja01jTTRkMzMyVWFzNEpnQTZPVlZsYUVvb2ZSblNWdjVCcnZmc3VYMHR1b1Fsd3gwZmhrOWpG?oc=5",
-   "ts": "Mon, 02 Nov 2026 19:14:50 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump's midterm drubbing could give trade partners room to resist - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1l2eFV1eVp6bE01NW40RDUtcmU2REdDOUZDRU5JSmdDN0MtNElwaUZXQ3VVUUVqV0tuSFZNb3RaeTBNd2JXanAyRlJ6UUU0S1pPMVdzYjV6OUpyRW1yc1hST1o4SFozN0JZYzU4dldLSXNkc05VeUwyV0E5TXotUC1lYXhEN2FtaTBXN3hOdHR2T1FaSE1Kc2ZHdnExcFZuWUpxVWwxQQ?oc=5",
-   "ts": "Wed, 04 Nov 2026 18:36:31 GMT"
+   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzNLUjBwZFJZSVE0U0NxbTVYbVotU0R1ak1zb2g1LTR2a0MtYkxVcGZFOFhZNkcza1hhTlpobGN4bU1hVmZhUGs5UFk5TC1kYWdXS181NHdZZlJGdEJMc0NNcHl5dndpaHo2SXpJcUxjeHkwVkZQTkhBX2xVVlg0eWNkZXRkcGx6NEpRQlFiLWtXdElVcllTWHhGZWxvUEREWXEzM2RocjFjbXBIbm1wOVhUSkEzOGFCb3ZMZ21WdElEU3l3em15cGZtZkdUQQ?oc=5",
+   "ts": "Thu, 05 Nov 2026 01:51:00 GMT"
   },
   {
    "src": "gnews",
@@ -437,27 +430,153 @@
   },
   {
    "src": "gnews",
-   "title": "China says US farm purchases hinge on tariff-cut deal - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjZCZGJiUVFJRkdBeU1DaTExb3FMSmdaLVRuLTRrQWNnd3F5MDg1YnZlTUZfclBPRWhQZXdlbWxEakVXdlNidWVWbmhFcGZTVEpSOWlJSE1FTHhOWTVlUXkwSG5rTXRNTDE5ckRWTzhnYmx3LVVJSDE2S2JNQW9CTUNFanlFNWlqMkJWdFZTMzU0VnpzX2tua25aQS0zNTdsUDNRRA?oc=5",
-   "ts": "Thu, 05 Nov 2026 07:44:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "What does midterm humbling mean for Bessent ahead of US-China trade talks? - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeGlmbUlvNVBvdFVCRVhqallRb0RwaGxQVzRRbVpXaHh1YUJKMGc3LUJnYno0NFQwRnVXSm5CTzN3MEtGbWdoX0tCc21oMHl4WGJyRWRHaE9XQzFjWXRGSXlyYW83WDV2MHFqMTd6YnhSNndNcjBEYk5NdzdfOUdMX19kZkdjRl9vTm04Tklya0xRbzg0enB4d201ZmtTM24zU0xBel81YlJRWVFLUV9xMnlnSnhmR1FzelBLR1U4OTU4dW9PQnfSAcYBQVVfeXFMUHREYzVxOG9HbmNYZ05HZkRwS29TamppSHRPd0szZGFHS0Yxc2l1NmpZelF2RjlhRVpQWVdoWkhKXy0yRi1kRlBWRW12RnVscHRRTG5ON2dFb0dtQTV1S0FnMW5zLVhFLWEwT2JBWk9UY29oRmh1dFo5N0RBNG1rMjNscTg1bzlKTl9selBWMTZzX3llWWY4c0NoYkpTLUVsNVRJVHZwdk56ZE5SZjRTaVE3eVdNeGxBNzVfdDRNTks3U1dtNDFR?oc=5",
-   "ts": "Thu, 05 Nov 2026 14:30:07 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump's political humbling signals short-term gain, long-term pain for China - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVBkVEFRMUNIQ0xmQVZXR1lLZmJBeVJiMXJMalZKLTRCaG00cmhCWjVKQjZmUUh3ajlGY3hjejlwRm40M1BNVXlwWFJjcXU0Um40QVNQY1BjNEZFbGF0RUdvamZYNlBCelY2UFBuOHVzU2pRYWk5RXRPbjU5QkdwcUo2cXhKU2JqMy01ZHpoQk5MbTg2a19rdXRCR1JLeFI2RzJMNDNtMm9LelZOWS1vaVpyNG5GS2pManc?oc=5",
    "ts": "Thu, 05 Nov 2026 07:57:00 GMT"
   },
   {
    "src": "gnews",
+   "title": "‘Squeeze narrative’ on China’s trade surplus belies reality: official - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMllfOWxuNFoxZXlVQzE1M0dRTDZSY3VyWEF4SVVHUFF4THRXc2I0bXRKenYxaGI5SmhHYWl5emdJemtUeVNIM081dVY2RF9rWmtPRXViQl9kcWtTcG83NDVwSy1YVEFxc2VtZXAzby0xRFQzZGRPZGY4T2FqMTlVMjh5aWFrZTI3Nmx5SS1lb18tMmtFamRFUmFQRVo3eUdkYnVUX2FDanRORDBCUFlJYkhGRVNMZ9IBtgFBVV95cUxNWjlqQWRtNXpVVjJ5b1BSWlNSWENZYkRFOWVRNWtfVXFKbktXci1OWlk4R1V1SkdKNzI4S2liajNUT0E4T19TNDF1SVU4Z2ZwNWpHQW1VXzVXc0g0WDk3Sld3S3YtLU5DUEI3N2VtYmZkNmg2ZnFKZk5hemhFeXNFT3JzNldLOF85Wkpkb09PNmcyWXdoMGdvRHBZN0cxNXlxWC05elRYTWhSeThlcllhSkg5dElaQQ?oc=5",
+   "ts": "Thu, 05 Nov 2026 07:00:05 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "U.S.-China trade deal won't happen before 2020 vote -JPMorgan CEO - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wLVRlSGlhb21iQV9sNTVmbmV1TUpWdktVdE1mNWhPWEE2c0hzUjFxd0IwZHJNbTFkazYtLVhEcklIbmJEZUM0YldKZl80OThDNHNlODZIOVNoZGhJ?oc=5",
+   "ts": "Thu, 05 Nov 2026 14:36:53 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "EXCLUSIVE: Nvidia chips pile up in Hong Kong as China withholds import approval - Reuters",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHNUQnlURFBWSTlTSE5wNWUzekR0cDZfcWQzQVRFLVNweXJiSGhtSFZ6cWdvMXF4SHpLRy1YT1Y2QjJZMGxRajNaRGQ1Y25SVGkycEphaU4zTTRJSzV0QjNPTFMxeEl0Mm9CdGFQc0JJTHBNemVoSXdkTnhsR1FNR0t1b2hoUHdfSW0yVnlGMl95Qkd4dDAtMGdhYTFhUzRhc0U1Mm9fdGxLRnhacUNr?oc=5",
    "ts": "Thu, 05 Nov 2026 11:54:32 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China Ties U.S. Farm Purchases to Tariff Cuts as Trade Uncertainty Grows - AgroLatam",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWlBtcGthejNNdlRGTlVCbWVjSXpEbHctTXBJblR3S0JBdUdjaGQzdWlVcHk2bkY4MERpV1FCZzBLWURLcmN2N0VLOTVVLUZIYVdkOW42Ty1fZm9vQmg3VjBEaUtOMWdxR1NHckFsYzJnZklkUE5nSEVER0dWSVh6R0VB?oc=5",
+   "ts": "Thu, 05 Nov 2026 12:19:25 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Melania Trump seeks lasting Ukraine ceasefire",
+   "url": "https://punchng.com/melania-trump-seeks-lasting-ukraine-ceasefire/",
+   "ts": "20261105T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "เลือกตั้งกระทบตลาดหุ้นสหรัฐ Nasdaq ดิ่งหนักสุดรอบ 19 เดือน วิตกคุมเข้ม AI",
+   "url": "https://www.posttoday.com/international-news/751536",
+   "ts": "20261105T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "A brutal sell - off for AI stocks sends Wall Street reeling , and the S & P 500 tumbles 4 . 4 % ",
+   "url": "http://www.goskagit.com/news/nation/a-brutal-sell-off-for-ai-stocks-sends-wall-street-reeling-and-the-s-p/article_14dc389e-142e-5107-86f9-9311e78111f7.html",
+   "ts": "20261105T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Illinois Gov . JB Pritzker rolls out Day One road map for Congress – NBC 6 South Florida",
+   "url": "https://www.nbcmiami.com/news/politics/illinois-gov-jb-pritzker-day-one-road-map-congress/3884305/",
+   "ts": "20261105T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Inland Empire Rep . Pete Aguilar aims for top House leadership post",
+   "url": "https://www.redlandsdailyfacts.com/2026/11/05/inland-empire-rep-pete-aguilar-aims-for-top-house-leadership-post/",
+   "ts": "20261105T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  Tough  parts of role something King  relishe , says senior palace aide",
+   "url": "https://www.hertsad.co.uk/news/national/26704191.tough-parts-role-something-king-relishes-says-senior-palace-aide/",
+   "ts": "20261105T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Brent crude jumps , settles up over US$3 after tanker attacks",
+   "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/brent-crude-jumps-settles-over-us3-after-tanker-attacks",
+   "ts": "20261105T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "President Trump Says He Has  Every Intention  To Keep Pete Hegseth As War Secretary",
+   "url": "https://wsfcam.iheart.com/content/2026-11-05-president-trump-says-he-has-every-intention-to-keep-pete-hegseth-as-war-secretary/",
+   "ts": "20261105T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "President Trump Says He Has  Every Intention  To Keep Pete Hegseth As War Secretary",
+   "url": "https://newsradiori.iheart.com/content/2026-11-05-president-trump-says-he-has-every-intention-to-keep-pete-hegseth-as-war-secretary/",
+   "ts": "20261105T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Tech Bros Bet on MAGA . Now , a Reckoning",
+   "url": "https://www.newser.com/story/399457/silicon-valleys-maga-bet-backfires.html",
+   "ts": "20261105T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Harmeet Dhillon , senior DOJ official , resigns",
+   "url": "https://www.wmur.com/article/harmeet-dhillon-justice-department-resigns/74347653",
+   "ts": "20261105T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  Tough  parts of role something King  relishe , says senior palace aide",
+   "url": "https://www.southwalesguardian.co.uk/news/national/26704191.tough-parts-role-something-king-relishes-says-senior-palace-aide/",
+   "ts": "20261105T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "President of Paraguay Resigns as Country Largest Digital Bank Seized",
+   "url": "https://hotair.com/tree-hugging-sister/2026/11/05/president-of-paraguay-resigns-as-countrys-largest-digital-bank-fails-n3820695",
+   "ts": "20261105T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Tech Giants , Environmental Groups Join Forces to Develop National Data Center Framework – NaturalNews . com",
+   "url": "https://www.naturalnews.com/2026-11-05-tech-giants-environmental-groups-develop-data-center-framework.html",
+   "ts": "20261105T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "President Trump Says He Has  Every Intention  To Keep Pete Hegseth As War Secretary",
+   "url": "https://wflafm.iheart.com/content/2026-11-05-president-trump-says-he-has-every-intention-to-keep-pete-hegseth-as-war-secretary/",
+   "ts": "20261105T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  금리동결 반대  연준 위원  긴축 필요 … 작고 잦은 조정 선호  ",
+   "url": "https://www.koreatimes.com/article/11630537",
+   "ts": "20261105T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "investingLive Americas FX news wrap 5 Nov : Nasdaq 100 plunges 6 . 36 % as AI selloff spreads",
+   "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-5-nov-nasdaq-100-plunges-6-36-as-ai-selloff-spreads/",
+   "ts": "20261105T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Bob Dylan Comes Knockin  on Pope Door As Leo Welcomes Legend to Vatican",
+   "url": "https://news.crossmap.com/2026/11/05/bob-dylan-comes-knockin-on-pope-s-door-as-leo-welcomes-legend-to-vatican/",
+   "ts": "20261105T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "President Trump Says He Has  Every Intention  To Keep Pete Hegseth As War Secretary",
+   "url": "https://wbhpam.iheart.com/content/2026-11-05-president-trump-says-he-has-every-intention-to-keep-pete-hegseth-as-war-secretary/",
+   "ts": "20261105T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Трамп заявил о подготовке « большого прекрасного соглашения » по Украине",
+   "url": "https://lenta.ru/news/2026/11/06/tramp-zayavil-o-podgotovke-bolshogo-prekrasnogo-soglasheniya-po-ukraine/",
+   "ts": "20261105T223000Z"
   }
  ]
 }

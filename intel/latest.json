@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-05T03:00:36Z",
+ "ts": "2026-11-05T03:15:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -371,6 +371,12 @@
   },
   {
    "src": "gnews",
+   "title": "Trump’s midterm drubbing could give trade partners room to resist - Virginia Business",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMHJZMzNSUGIySHA5UDM1bG9EOXdKMktnTlcwNFJsOGU3aTNTd0RsY3J3VlE0UlpwZ2RZRnlfdF9sSFdfaFRuQk5FN2tYckQxVVZaTnlYNndLdlE2Y0dtSGVnRmVwRlhvSWdBVDNaT2h0S1NGam5EMEFMWEppN0FETDg2R0phZFU?oc=5",
+   "ts": "Wed, 04 Nov 2026 17:28:25 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
    "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
@@ -389,27 +395,21 @@
   },
   {
    "src": "gnews",
-   "title": "Trump's midterm defeat gives China, Canada, India and Africa's largest economy fresh leverage in US trade talks - Business Insider Africa",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ2J2RHozUzhNdWZKejdqMm92a3cyaV8xMjh2ekdIZVZ6VEM2bkxOSnJhemU2eUdndG1Qc0pNd2RxQVVrX0xVZ0lSeWxLc0x3S21kd3ZBMEl0Vk9sSGhkSEctVFJ6WVlxQ0ZiZWI0Y0VYdWN6YngwS1NKSzl6dFJEbm9ENEtuRVpYc1dGMENodFNMR2ZoU3VnUV9ZRHdhSVRaQ0RweUVsVmFBcEl2ZXI4TW5NeDBXU1QyZW1EUTV4eklSY0c5R2dLcFZFa1V6SzF3emtV?oc=5",
-   "ts": "Wed, 04 Nov 2026 18:18:01 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump Removes South Africa From the African Growth and Opportunity Act Trade Program - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFRqMVNkZnhKUEh5MFhnY3NwbDlqMWN2cXM1U2JuZzBYNWNQejFVb1VkVTB4M1BmQzJLOGUzZmNaLThZaV9QRXRwaGVqOUhQT1dxZnpiYnNzYXhRcHBja01jTTRkMzMyVWFzNEpnQTZPVlZsYUVvb2ZSblNWdjVCcnZmc3VYMHR1b1Fsd3gwZmhrOWpG?oc=5",
    "ts": "Mon, 02 Nov 2026 19:14:50 GMT"
   },
   {
    "src": "gnews",
-   "title": "Canada-China Trade Deal Through 2028 Raises Stakes for Agricultural Markets - AgroLatam",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTXI2TmtaUTJHaC14bDFNX082VFIyOEd2cU02T1BGQ3ZickdLbVNab0l2Y3RMY0k3STJVbG9ockNhNVp6djR2OXF3VjNjZE5vS29GQWNjaURUSTIzLU50X3FkNW5IaThWcHhfcWo3bEQwTWw4bHVzQWxhMmpWWC1KZ3NXRzdCX3JtV0tXNlFB?oc=5",
-   "ts": "Wed, 04 Nov 2026 21:40:44 GMT"
+   "title": "Trump's midterm defeat gives China, Canada, India and Africa's largest economy fresh leverage in US trade talks - Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ2J2RHozUzhNdWZKejdqMm92a3cyaV8xMjh2ekdIZVZ6VEM2bkxOSnJhemU2eUdndG1Qc0pNd2RxQVVrX0xVZ0lSeWxLc0x3S21kd3ZBMEl0Vk9sSGhkSEctVFJ6WVlxQ0ZiZWI0Y0VYdWN6YngwS1NKSzl6dFJEbm9ENEtuRVpYc1dGMENodFNMR2ZoU3VnUV9ZRHdhSVRaQ0RweUVsVmFBcEl2ZXI4TW5NeDBXU1QyZW1EUTV4eklSY0c5R2dLcFZFa1V6SzF3emtV?oc=5",
+   "ts": "Wed, 04 Nov 2026 18:18:01 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump's midterm drubbing could give trade partners room to resist - Fresno Bee",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BMGcwX0g2MWtvOV80TDU3R1dPTlQzSzJYX1A0SC1tbERQOVd5bEhnRnN1eFp0eHRsbHVSRlY5bU0wb3FUZEEzaEIzMmNHd0lwb3l4SWx4RlR3Sy1QazAzeEVKNW5LMFNoUXVMUHJn?oc=5",
-   "ts": "Wed, 04 Nov 2026 15:18:00 GMT"
+   "title": "Canada-China Trade Deal Through 2028 Raises Stakes for Agricultural Markets - AgroLatam",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTXI2TmtaUTJHaC14bDFNX082VFIyOEd2cU02T1BGQ3ZickdLbVNab0l2Y3RMY0k3STJVbG9ockNhNVp6djR2OXF3VjNjZE5vS29GQWNjaURUSTIzLU50X3FkNW5IaThWcHhfcWo3bEQwTWw4bHVzQWxhMmpWWC1KZ3NXRzdCX3JtV0tXNlFB?oc=5",
+   "ts": "Wed, 04 Nov 2026 21:40:44 GMT"
   },
   {
    "src": "gnews",
@@ -437,27 +437,27 @@
   },
   {
    "src": "gnews",
-   "title": "Democrats’ midterm victory means more obstacles to Trump’s trade and EV agendas - Automotive News",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN2pTRFg4WGE2TDl2bFVsZW1ENEk1NUJmcnJtU2VKckptZU51OXptQk5ONHR2bS1BQkxsbTFhZllwX25sd2U1TWFackp0c2ZCSVluTGc4MVg5MHUtOGR2TFpyaHR1d3g2WXFGOGVpT3MzNzR2VXlVcG9rRnBGcXlHckFtSkg3bC13a3c?oc=5",
-   "ts": "Wed, 04 Nov 2026 15:53:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Red Lake Nation News",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNnNxT2Vza3RueGZuTjJsNThzclphVHdLYWs2ZG9Ca0lBbHhuZ2ExYjNHTnVpZE5EdWxtTGJFNjdSMnBCbFNmU0JsZHIzWWxVRUFqZ3lqbDlGTkEtMVBvSFE2WmMtOHRqTnlWazJoYTIycHdIQk92NFQxVE9kMjdXS0ZzOEstR2pxYzR5bkVwRmpybEQ5QXJkNUhmRkFQeTFXSEFONG14ZUktYzdKc1pyTWluVVo2dHRYa2QwUkt4RjUyck1zTUpnR1BGUm1fa1RMSE1pSE1EQkV2ZVRpMWg1UldYNDVBZlk?oc=5",
    "ts": "Thu, 05 Nov 2026 02:55:42 GMT"
   },
   {
    "src": "gnews",
-   "title": "China Formalizes Used Aviation Parts Trading Framework - Aviation Week",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOThxZ19Ub0Fqc3VLUlR2S0otZktoX2xTWWpOQ0dQU2JhalZiNkhTcXRiLW9NeEg5TXZZRENmVjBtUUNRQ21UcUsxNWhMZk1SdzJpMVFrY21fMFJ4RXYwX2VrNU16eDlVekRFY2lncHo4RlJtcmJudUhZQjMzT3pRZ2hHWU0waFBpZVR2cjdBeEczN1hCQ2gwWmd3UUtJTVVJV0M3ZGw2cmg?oc=5",
-   "ts": "Wed, 04 Nov 2026 23:34:26 GMT"
+   "title": "Democrats’ midterm victory means more obstacles to Trump’s trade and EV agendas - Automotive News",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN2pTRFg4WGE2TDl2bFVsZW1ENEk1NUJmcnJtU2VKckptZU51OXptQk5ONHR2bS1BQkxsbTFhZllwX25sd2U1TWFackp0c2ZCSVluTGc4MVg5MHUtOGR2TFpyaHR1d3g2WXFGOGVpT3MzNzR2VXlVcG9rRnBGcXlHckFtSkg3bC13a3c?oc=5",
+   "ts": "Wed, 04 Nov 2026 15:53:00 GMT"
   },
   {
    "src": "gnews",
    "title": "China’s soaring chemical exports threaten new trade war front - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
    "ts": "Mon, 02 Nov 2026 06:43:12 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China Formalizes Used Aviation Parts Trading Framework - Aviation Week",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOThxZ19Ub0Fqc3VLUlR2S0otZktoX2xTWWpOQ0dQU2JhalZiNkhTcXRiLW9NeEg5TXZZRENmVjBtUUNRQ21UcUsxNWhMZk1SdzJpMVFrY21fMFJ4RXYwX2VrNU16eDlVekRFY2lncHo4RlJtcmJudUhZQjMzT3pRZ2hHWU0waFBpZVR2cjdBeEczN1hCQ2gwWmd3UUtJTVVJV0M3ZGw2cmg?oc=5",
+   "ts": "Wed, 04 Nov 2026 23:34:26 GMT"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-05T14:45:23Z",
+ "ts": "2026-11-05T15:00:27Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -371,21 +371,9 @@
   },
   {
    "src": "gnews",
-   "title": "Can China Benefit From Trump’s Midterm Defeat in US Trade and Taiwan Disputes? - Modern Diplomacy",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDRnQTRjdUk2WnlJUnZLbmZWZDhkdFdlZUJ4eTFqUmJ6c3pCeU90WUV1ektWRGR1aWsxR2ZYaDJzZTUwSGI1M3BieHRBcTh1NUdNZ0hDR2lDT3luRmg1ZXFSRXJoYUZNYmxiSVk0RzRhQ0xvRVp2ZF85S09Pc296OUtZYy13bUc5ZjV3LXlucHFtRnFMOHo3TVdtQjFOQUlYZ3hNSVBzQWEtWW9TZVF4enlhUURuZw?oc=5",
-   "ts": "Thu, 05 Nov 2026 08:24:14 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
    "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "U.S. Midterms: Trump's Next Trade War Could Be With Congress - Foreign Policy",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1o5Y1g4b1BRdXBxbUF2dEdpZ3Y1bGtEeXdXVmNHcTZUM3hMN3dQM1pWNzN4MW5CeHJ2aTl2Q1F0amw4UDd6cmpFX0F5RzZ2V01aS09fVlZhUTlUTzlYWWxPTmd2M080OW5sT0lFQmxTV0s4d29Pem83MU5EVlNwVWJXczhFMzA4SGphak5BXzZMd28?oc=5",
-   "ts": "Wed, 04 Nov 2026 18:07:44 GMT"
   },
   {
    "src": "gnews",
@@ -401,6 +389,12 @@
   },
   {
    "src": "gnews",
+   "title": "U.S. Midterms: Trump's Next Trade War Could Be With Congress - Foreign Policy",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1o5Y1g4b1BRdXBxbUF2dEdpZ3Y1bGtEeXdXVmNHcTZUM3hMN3dQM1pWNzN4MW5CeHJ2aTl2Q1F0amw4UDd6cmpFX0F5RzZ2V01aS09fVlZhUTlUTzlYWWxPTmd2M080OW5sT0lFQmxTV0s4d29Pem83MU5EVlNwVWJXczhFMzA4SGphak5BXzZMd28?oc=5",
+   "ts": "Wed, 04 Nov 2026 18:07:44 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China Ties U.S. Farm Purchases to Tariff Cuts as Trade Uncertainty Grows - AgroLatam",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWlBtcGthejNNdlRGTlVCbWVjSXpEbHctTXBJblR3S0JBdUdjaGQzdWlVcHk2bkY4MERpV1FCZzBLWURLcmN2N0VLOTVVLUZIYVdkOW42Ty1fZm9vQmg3VjBEaUtOMWdxR1NHckFsYzJnZklkUE5nSEVER0dWSVh6R0VB?oc=5",
    "ts": "Thu, 05 Nov 2026 12:19:25 GMT"
@@ -413,15 +407,15 @@
   },
   {
    "src": "gnews",
-   "title": "China threatens retaliation as EU mulls trade “kill-switch” - Euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHBIVUJVUy1WX2c0dm5wZjhYWERMOU1GcGY5VDJvR1h4VlFvWGJDdzRyQVdEYzFaNEZqbERsb0VrN3FWQU9nVkhOSFdVOHZQaEN3ck05U2FuSzUtMUFtYUVwa2Q4VFh3UUNjZWVyUTc1UC02RTF6dUxHeGxURjBmc29EQWJZdjZXbnhmcXR5LUhnZk5HbktPdkUwdzFaUnJOTkp1My1OT2FuMEFKTWpzZDJ6TEViRUU?oc=5",
-   "ts": "Thu, 05 Nov 2026 11:21:01 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China says trade barriers block tech imports, fueling its surplus - Nikkei Asia",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUjB5V2tLQ0ZzaGF4Tjg2X1o0VF9YODZma0phamhGUDB1S1Q1ckxmOGRjTVk3RU9HV2ZwOVo2RDZHZnJxSkczTXBpbzQzOHVHbEhIbmkwdGpZY3lKREJFb3hBVVZtV05WOUczbUduazdDaWl6N084OGM5c3VjdG85LU5feVFnR1p2Y0NheDJKTVIxNGxzTHlnY21QMzYtTVVyTEdWQg?oc=5",
    "ts": "Thu, 05 Nov 2026 07:19:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China threatens retaliation as EU mulls trade “kill-switch” - Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHBIVUJVUy1WX2c0dm5wZjhYWERMOU1GcGY5VDJvR1h4VlFvWGJDdzRyQVdEYzFaNEZqbERsb0VrN3FWQU9nVkhOSFdVOHZQaEN3ck05U2FuSzUtMUFtYUVwa2Q4VFh3UUNjZWVyUTc1UC02RTF6dUxHeGxURjBmc29EQWJZdjZXbnhmcXR5LUhnZk5HbktPdkUwdzFaUnJOTkp1My1OT2FuMEFKTWpzZDJ6TEViRUU?oc=5",
+   "ts": "Thu, 05 Nov 2026 11:21:01 GMT"
   },
   {
    "src": "gnews",
@@ -440,6 +434,12 @@
    "title": "China says US farm purchases hinge on tariff-cut deal - Reuters",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjZCZGJiUVFJRkdBeU1DaTExb3FMSmdaLVRuLTRrQWNnd3F5MDg1YnZlTUZfclBPRWhQZXdlbWxEakVXdlNidWVWbmhFcGZTVEpSOWlJSE1FTHhOWTVlUXkwSG5rTXRNTDE5ckRWTzhnYmx3LVVJSDE2S2JNQW9CTUNFanlFNWlqMkJWdFZTMzU0VnpzX2tua25aQS0zNTdsUDNRRA?oc=5",
    "ts": "Thu, 05 Nov 2026 07:44:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "What does midterm humbling mean for Bessent ahead of US-China trade talks? - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeGlmbUlvNVBvdFVCRVhqallRb0RwaGxQVzRRbVpXaHh1YUJKMGc3LUJnYno0NFQwRnVXSm5CTzN3MEtGbWdoX0tCc21oMHl4WGJyRWRHaE9XQzFjWXRGSXlyYW83WDV2MHFqMTd6YnhSNndNcjBEYk5NdzdfOUdMX19kZkdjRl9vTm04Tklya0xRbzg0enB4d201ZmtTM24zU0xBel81YlJRWVFLUV9xMnlnSnhmR1FzelBLR1U4OTU4dW9PQnfSAcYBQVVfeXFMUHREYzVxOG9HbmNYZ05HZkRwS29TamppSHRPd0szZGFHS0Yxc2l1NmpZelF2RjlhRVpQWVdoWkhKXy0yRi1kRlBWRW12RnVscHRRTG5ON2dFb0dtQTV1S0FnMW5zLVhFLWEwT2JBWk9UY29oRmh1dFo5N0RBNG1rMjNscTg1bzlKTl9selBWMTZzX3llWWY4c0NoYkpTLUVsNVRJVHZwdk56ZE5SZjRTaVE3eVdNeGxBNzVfdDRNTks3U1dtNDFR?oc=5",
+   "ts": "Thu, 05 Nov 2026 14:30:07 GMT"
   },
   {
    "src": "gnews",

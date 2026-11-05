@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-05T13:45:23Z",
+ "ts": "2026-11-05T14:00:24Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -419,15 +419,9 @@
   },
   {
    "src": "gnews",
-   "title": "MoFo, Freshfields Advise on $5.4B SoftBank-ABB Robotics Deal Blocked by China - Law.com",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNEFlU1FkbWNyTVMzTlV1bVJ6bzNlcEpfT0d2Vl9Kc2ZmZXNtem5ObXRlUUpJRFprV290OTFKZl81a1pHdTdxOUFXZkVEbGMtVm9ITVRwTHlyVkVQSER5MVNTbmRPbThVeTVUMjc1SEJuSmVBNV9HUldJQnpXN0J6Wm4tbGo2Y2NLN0RnTVFObU1Db3VydUxXZFZ6TFM3VVFRS0hqeXRCN2FEYy1ucDk2eFg3Q2dXN0NVWGhjZTBHM0s4ZXRZbS1r?oc=5",
-   "ts": "Thu, 05 Nov 2026 09:50:17 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump Boots South Africa From Preferential Trade Program - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFRqMVNkZnhKUEh5MFhnY3NwbDlqMWN2cXM1U2JuZzBYNWNQejFVb1VkVTB4M1BmQzJLOGUzZmNaLThZaV9QRXRwaGVqOUhQT1dxZnpiYnNzYXhRcHBja01jTTRkMzMyVWFzNEpnQTZPVlZsYUVvb2ZSblNWdjVCcnZmc3VYMHR1b1Fsd3gwZmhrOWpG?oc=5",
-   "ts": "Mon, 02 Nov 2026 19:14:50 GMT"
+   "title": "China threatens retaliation as EU mulls trade “kill-switch” - Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHBIVUJVUy1WX2c0dm5wZjhYWERMOU1GcGY5VDJvR1h4VlFvWGJDdzRyQVdEYzFaNEZqbERsb0VrN3FWQU9nVkhOSFdVOHZQaEN3ck05U2FuSzUtMUFtYUVwa2Q4VFh3UUNjZWVyUTc1UC02RTF6dUxHeGxURjBmc29EQWJZdjZXbnhmcXR5LUhnZk5HbktPdkUwdzFaUnJOTkp1My1OT2FuMEFKTWpzZDJ6TEViRUU?oc=5",
+   "ts": "Thu, 05 Nov 2026 11:21:01 GMT"
   },
   {
    "src": "gnews",
@@ -446,6 +440,12 @@
    "title": "Trump's political humbling signals short-term gain, long-term pain for China - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVBkVEFRMUNIQ0xmQVZXR1lLZmJBeVJiMXJMalZKLTRCaG00cmhCWjVKQjZmUUh3ajlGY3hjejlwRm40M1BNVXlwWFJjcXU0Um40QVNQY1BjNEZFbGF0RUdvamZYNlBCelY2UFBuOHVzU2pRYWk5RXRPbjU5QkdwcUo2cXhKU2JqMy01ZHpoQk5MbTg2a19rdXRCR1JLeFI2RzJMNDNtMm9LelZOWS1vaVpyNG5GS2pManc?oc=5",
    "ts": "Thu, 05 Nov 2026 11:46:06 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China says US farm purchases hinge on tariff-cut deal - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjZCZGJiUVFJRkdBeU1DaTExb3FMSmdaLVRuLTRrQWNnd3F5MDg1YnZlTUZfclBPRWhQZXdlbWxEakVXdlNidWVWbmhFcGZTVEpSOWlJSE1FTHhOWTVlUXkwSG5rTXRNTDE5ckRWTzhnYmx3LVVJSDE2S2JNQW9CTUNFanlFNWlqMkJWdFZTMzU0VnpzX2tua25aQS0zNTdsUDNRRA?oc=5",
+   "ts": "Thu, 05 Nov 2026 07:44:00 GMT"
   },
   {
    "src": "gnews",

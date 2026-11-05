@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-05T02:30:32Z",
+ "ts": "2026-11-05T02:45:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -347,12 +347,6 @@
   },
   {
    "src": "gnews",
-   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - San Luis Obispo Tribune",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45S2Q5YU0zYm1NQ3g3Z21BMG51SVFuQ0ptUTZ3QTlORlRkaEExNEVCb09GUjhMWGZmRU9EYlE2OGJHdkJ6UHdjMlp5eUc2WTJMdHkzejVNUTNJYnBnSVU1T1dEUUd1NWpfVWlfVHJPYWFoMGs?oc=5",
-   "ts": "Thu, 05 Nov 2026 02:26:05 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "U.S. Midterms: Trump's Next Trade War Could Be With Congress - Foreign Policy",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1o5Y1g4b1BRdXBxbUF2dEdpZ3Y1bGtEeXdXVmNHcTZUM3hMN3dQM1pWNzN4MW5CeHJ2aTl2Q1F0amw4UDd6cmpFX0F5RzZ2V01aS09fVlZhUTlUTzlYWWxPTmd2M080OW5sT0lFQmxTV0s4d29Pem83MU5EVlNwVWJXczhFMzA4SGphak5BXzZMd28?oc=5",
    "ts": "Wed, 04 Nov 2026 18:07:44 GMT"
@@ -368,6 +362,12 @@
    "title": "Democrats’ Midterm Blowout a Referendum on Trump’s Trade, Economic Policies - WWD",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGdGZl9QOTNoMldCeUlBTS1jaTVnSXF2LVJzUUljM3Y4bVpRX3dPMDVVWkxLeXR3UWJqWkJ2OG4wM0ZVWXo4NnZIN0ViaDJTM2pIcnBab0gzTUZhUVNuRF9yaW1JcFk5Q25VeFh4UXFGaFNXVVVXd1ZTSDhfNkExUV92TktnbkRtM2s5b2lzUW1GU0hwdGZNRDlMRmlVdzJoQ1JDTzhNM1J4azgybWI4dnBlbm1jWmc?oc=5",
    "ts": "Thu, 05 Nov 2026 00:40:57 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Democrats Gain Influence Over Trade Agenda, but Tariff Repeals to Hit Trump Veto Wall - U.S. News & World Report",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS0VMWTZXOFViZnI3MloyN0hObDAwbkhVc3lLd2VFbEhtYm5ZREI3Qkhya2pELWJwWlBSVHVnZ3VjVEl0blFvLWg1bUV6MUNYZF9IMnNncldMZlBUbEc4Sk1vTEpBWDNWVEp0cTNSSkdwMDVtdjVhNXhyUjhMWlBwUWZVbUhJWWJtUlUwQWxxMWYwUTZObkIySFJ5bmozNU1oOERKTDh0emprX0lIUWVQaU15ZWV3N0FvZUpuajJWd2NCaTE0bk90Qmc0NnJqVHRyN0FYVA?oc=5",
+   "ts": "Thu, 05 Nov 2026 01:50:00 GMT"
   },
   {
    "src": "gnews",
@@ -395,15 +395,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Removes South Africa From the African Growth and Opportunity Act Trade Program - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFRqMVNkZnhKUEh5MFhnY3NwbDlqMWN2cXM1U2JuZzBYNWNQejFVb1VkVTB4M1BmQzJLOGUzZmNaLThZaV9QRXRwaGVqOUhQT1dxZnpiYnNzYXhRcHBja01jTTRkMzMyVWFzNEpnQTZPVlZsYUVvb2ZSblNWdjVCcnZmc3VYMHR1b1Fsd3gwZmhrOWpG?oc=5",
-   "ts": "Mon, 02 Nov 2026 19:14:50 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump's midterm defeat gives China, Canada, India and Africa's largest economy fresh leverage in US trade talks - Business Insider Africa",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ2J2RHozUzhNdWZKejdqMm92a3cyaV8xMjh2ekdIZVZ6VEM2bkxOSnJhemU2eUdndG1Qc0pNd2RxQVVrX0xVZ0lSeWxLc0x3S21kd3ZBMEl0Vk9sSGhkSEctVFJ6WVlxQ0ZiZWI0Y0VYdWN6YngwS1NKSzl6dFJEbm9ENEtuRVpYc1dGMENodFNMR2ZoU3VnUV9ZRHdhSVRaQ0RweUVsVmFBcEl2ZXI4TW5NeDBXU1QyZW1EUTV4eklSY0c5R2dLcFZFa1V6SzF3emtV?oc=5",
    "ts": "Wed, 04 Nov 2026 18:18:01 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Removes South Africa From the African Growth and Opportunity Act Trade Program - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFRqMVNkZnhKUEh5MFhnY3NwbDlqMWN2cXM1U2JuZzBYNWNQejFVb1VkVTB4M1BmQzJLOGUzZmNaLThZaV9QRXRwaGVqOUhQT1dxZnpiYnNzYXhRcHBja01jTTRkMzMyVWFzNEpnQTZPVlZsYUVvb2ZSblNWdjVCcnZmc3VYMHR1b1Fsd3gwZmhrOWpG?oc=5",
+   "ts": "Mon, 02 Nov 2026 19:14:50 GMT"
   },
   {
    "src": "gnews",
@@ -416,12 +416,6 @@
    "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms - MPR News",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHc1QVBGdDlLNXBiZ21Ya3c1bkNzaEdlOXJRUDd0NWhnRFBvcjRZcHFzWnFwdkFUVlNzMkFpQ1VNMkZsMXBQdWJXbnFKbXVxV0ZiaXZwNUtUbUdUdzFIeDlBOW11alBabGZqRFNpd09TZncwX0IxNFM0c2lZbzQ1cmtXbW5GNWVQM1BLVzU2d1RlSnpjUzZSYWE0NEIxTS1FMGxIQTVyano?oc=5",
    "ts": "Sun, 01 Nov 2026 21:14:58 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Democrats’ midterm victory means more obstacles to Trump’s trade and EV agendas - Automotive News",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN2pTRFg4WGE2TDl2bFVsZW1ENEk1NUJmcnJtU2VKckptZU51OXptQk5ONHR2bS1BQkxsbTFhZllwX25sd2U1TWFackp0c2ZCSVluTGc4MVg5MHUtOGR2TFpyaHR1d3g2WXFGOGVpT3MzNzR2VXlVcG9rRnBGcXlHckFtSkg3bC13a3c?oc=5",
-   "ts": "Wed, 04 Nov 2026 15:53:00 GMT"
   },
   {
    "src": "gnews",
@@ -443,9 +437,9 @@
   },
   {
    "src": "gnews",
-   "title": "Experts react: Democrats just swept the US midterms. Here’s what it means for the world. - Atlantic Council",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeE15WFg4U1VydFliejA2dzJLR1pkT0tlNE1hWHpORHVUelN1ZXRoeUNwNTNUSTNwa0JabXhEYjZpcUQ4YU5RaUk2d3JtMWZNa0tobHpPNGxBdWI0eHlDLXFTM0dKaC1mSUVINEdEU1lRam1DOHhZQlFGWWJYenVhTGhDcnJqdkdRQmNRV1VWUnAxMjVRQlY4YU5Lay1jSk5JUkx1bVdHM3A3U0J0MVNKLWFuZENtaHhvbTRlVDY3RE9nV01Ndi1v?oc=5",
-   "ts": "Wed, 04 Nov 2026 18:27:39 GMT"
+   "title": "Democrats’ midterm victory means more obstacles to Trump’s trade and EV agendas - Automotive News",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN2pTRFg4WGE2TDl2bFVsZW1ENEk1NUJmcnJtU2VKckptZU51OXptQk5ONHR2bS1BQkxsbTFhZllwX25sd2U1TWFackp0c2ZCSVluTGc4MVg5MHUtOGR2TFpyaHR1d3g2WXFGOGVpT3MzNzR2VXlVcG9rRnBGcXlHckFtSkg3bC13a3c?oc=5",
+   "ts": "Wed, 04 Nov 2026 15:53:00 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +452,12 @@
    "title": "China’s soaring chemical exports threaten new trade war front - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
    "ts": "Mon, 02 Nov 2026 06:43:12 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Experts react: Democrats just swept the US midterms. Here’s what it means for the world. - Atlantic Council",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeE15WFg4U1VydFliejA2dzJLR1pkT0tlNE1hWHpORHVUelN1ZXRoeUNwNTNUSTNwa0JabXhEYjZpcUQ4YU5RaUk2d3JtMWZNa0tobHpPNGxBdWI0eHlDLXFTM0dKaC1mSUVINEdEU1lRam1DOHhZQlFGWWJYenVhTGhDcnJqdkdRQmNRV1VWUnAxMjVRQlY4YU5Lay1jSk5JUkx1bVdHM3A3U0J0MVNKLWFuZENtaHhvbTRlVDY3RE9nV01Ndi1v?oc=5",
+   "ts": "Wed, 04 Nov 2026 18:27:39 GMT"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-05T02:00:38Z",
+ "ts": "2026-11-05T02:15:26Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -401,12 +401,6 @@
   },
   {
    "src": "gnews",
-   "title": "How Election Losses Will Alter the Politics of Trump’s Tariffs - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkR4Y281dTEzaXdYZjZVeGhIVlZLUDJMZVBCTWM3TWNWLUpLdE1lRkRTX3VmN3RPR1p6a2J6Yzc1MEJTN1hUY3BrUVBWS0gwSU5UUnpZS3ViTFNaM0MySTlWSGVSZHB0UHR0QWtYNnhmMFhMUUNVUEFad0k4Q0YzZmZTMDFmalFjUkgxby1KejBKY3lhQW9Ud3FhR3VaOUh2d3ppYmlDSQ?oc=5",
-   "ts": "Wed, 04 Nov 2026 12:04:08 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Canada-China Trade Deal Through 2028 Raises Stakes for Agricultural Markets - AgroLatam",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTXI2TmtaUTJHaC14bDFNX082VFIyOEd2cU02T1BGQ3ZickdLbVNab0l2Y3RMY0k3STJVbG9ockNhNVp6djR2OXF3VjNjZE5vS29GQWNjaURUSTIzLU50X3FkNW5IaThWcHhfcWo3bEQwTWw4bHVzQWxhMmpWWC1KZ3NXRzdCX3JtV0tXNlFB?oc=5",
    "ts": "Wed, 04 Nov 2026 21:40:44 GMT"
@@ -419,33 +413,9 @@
   },
   {
    "src": "gnews",
-   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOFhhMnlXR2NZVTctZ0Fsa0R6cnFZNklHQkNkZlFCaEdWbmdhSUYxWWZxeUFZSXpuSG1lQndIS1pkZUNvZ040Wlk2U0c1SUE0WVRGQ1g4MkJ2bGJaRERtWS1hSm9qR2s1bTdYWW94Q2FaOEQ4U2kxNzNKV2tkZklmNTVWQW1zcjEyazVONVBzbw?oc=5",
-   "ts": "Thu, 05 Nov 2026 01:51:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Democrats’ midterm victory means more obstacles to Trump’s trade and EV agendas - Automotive News",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN2pTRFg4WGE2TDl2bFVsZW1ENEk1NUJmcnJtU2VKckptZU51OXptQk5ONHR2bS1BQkxsbTFhZllwX25sd2U1TWFackp0c2ZCSVluTGc4MVg5MHUtOGR2TFpyaHR1d3g2WXFGOGVpT3MzNzR2VXlVcG9rRnBGcXlHckFtSkg3bC13a3c?oc=5",
    "ts": "Wed, 04 Nov 2026 15:53:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Canada to curb reliance on US despite Trump team’s midterm loss, minister says - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTFR1M050NEdYeGtGRGgwMVdfV1ZBX1o4aWo0VXA5cHYyZ2pkb2Z1dzlhTmZYN1JBcEhXSU5xVFBZU29DbE5PWlVqM2ZOSW5xNU9rQm9qREtybXFieDI2Xzd1Yk9pT0tXd3FxbFlUN0dTNnhNbEZZenQ1YXNsbFdkU2VVNnBLaHhmQkxzTlBzMXZ3OERrQkNfZFZxaUNnWVhkQVpyenBHanItWjRSVlc2dnN2UzhwSjdEdzZ0Mnh2OEJwNHhfWVZ6dkdERmZIUzdYbzJ1amZVc3cwR083ZUI4MGZB0gHiAUFVX3lxTFBMc2pfRDZuNE93QWpJZTFzYVZOWXhHRW00RGwzbnBnYWVIY1hRd3dtY1RHVGtYTVdqaU9BU2V6dkVNT00yQ1lMb2xHYTJkRmJ0a3hoZ0VCT2s2MEt2My1IdWpRRjdJY2dNLWhJUGRRSzhkb0xQMnpCRzhiRGFXaXBoTjBUejl2Ym91MDU1V21CZHpYVWZXWjFxX1dxTGJIOUc1Q24zU2x0bXBNZ1dkbjdGX3ZnTzd0NFpySk9vLXI5ZllCVnhhN0tOVzhQc0dtZFhJbFRYaTk2eTJhZ3ljSVFhY0E?oc=5",
-   "ts": "Wed, 04 Nov 2026 21:10:44 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump Has Shifted the U.S.-Pakistan Relationship - Foreign Policy",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbTZ3Q2pYcGlJSXM3M0ZrSzNrYkNiVnE5bFItUmRlbGx4d2NmU19IdUNkSWhZNkVsZWtFaDNrNHlSTElUWTVhbW1JbzctZVJJQlRuRXlsa3liVFVIaC1ZQjV2anRSOGtpM09YYUU0LWpHcFl5V2VNN1laY3FDcW43TlFpVWE4ZzVj?oc=5",
-   "ts": "Wed, 04 Nov 2026 22:22:35 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "From Iran to trade: how the US midterms impact the rest of the world - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMk5tUl8yRml4eVVXZThHYnhwejMtb3VqUTR6c3lIel9CUjlQYnprMFdJOGRkY1BvcXU5eS0zeEg3Wnc3bHhPTnYyMms5bmpYVmxUVGNpeEJzZGhLUUVWcWY2dDhZTXBOR1pSRldGRUZyeGVkMU5RMkREejBqLUh5Y1IzTklIRTdHeUtweFh0SWVocUZuYlNmNTg5ZGFDa3c?oc=5",
-   "ts": "Wed, 04 Nov 2026 19:40:29 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +425,39 @@
   },
   {
    "src": "gnews",
+   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzNLUjBwZFJZSVE0U0NxbTVYbVotU0R1ak1zb2g1LTR2a0MtYkxVcGZFOFhZNkcza1hhTlpobGN4bU1hVmZhUGs5UFk5TC1kYWdXS181NHdZZlJGdEJMc0NNcHl5dndpaHo2SXpJcUxjeHkwVkZQTkhBX2xVVlg0eWNkZXRkcGx6NEpRQlFiLWtXdElVcllTWHhGZWxvUEREWXEzM2RocjFjbXBIbm1wOVhUSkEzOGFCb3ZMZ21WdElEU3l3em15cGZtZkdUQQ?oc=5",
+   "ts": "Thu, 05 Nov 2026 01:51:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Has Shifted the U.S.-Pakistan Relationship - Foreign Policy",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbTZ3Q2pYcGlJSXM3M0ZrSzNrYkNiVnE5bFItUmRlbGx4d2NmU19IdUNkSWhZNkVsZWtFaDNrNHlSTElUWTVhbW1JbzctZVJJQlRuRXlsa3liVFVIaC1ZQjV2anRSOGtpM09YYUU0LWpHcFl5V2VNN1laY3FDcW43TlFpVWE4ZzVj?oc=5",
+   "ts": "Wed, 04 Nov 2026 22:22:35 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Canada to curb reliance on US despite Trump team’s midterm loss, minister says - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTFR1M050NEdYeGtGRGgwMVdfV1ZBX1o4aWo0VXA5cHYyZ2pkb2Z1dzlhTmZYN1JBcEhXSU5xVFBZU29DbE5PWlVqM2ZOSW5xNU9rQm9qREtybXFieDI2Xzd1Yk9pT0tXd3FxbFlUN0dTNnhNbEZZenQ1YXNsbFdkU2VVNnBLaHhmQkxzTlBzMXZ3OERrQkNfZFZxaUNnWVhkQVpyenBHanItWjRSVlc2dnN2UzhwSjdEdzZ0Mnh2OEJwNHhfWVZ6dkdERmZIUzdYbzJ1amZVc3cwR083ZUI4MGZB0gHiAUFVX3lxTFBMc2pfRDZuNE93QWpJZTFzYVZOWXhHRW00RGwzbnBnYWVIY1hRd3dtY1RHVGtYTVdqaU9BU2V6dkVNT00yQ1lMb2xHYTJkRmJ0a3hoZ0VCT2s2MEt2My1IdWpRRjdJY2dNLWhJUGRRSzhkb0xQMnpCRzhiRGFXaXBoTjBUejl2Ym91MDU1V21CZHpYVWZXWjFxX1dxTGJIOUc1Q24zU2x0bXBNZ1dkbjdGX3ZnTzd0NFpySk9vLXI5ZllCVnhhN0tOVzhQc0dtZFhJbFRYaTk2eTJhZ3ljSVFhY0E?oc=5",
+   "ts": "Wed, 04 Nov 2026 21:10:44 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "From Iran to trade: how the US midterms impact the rest of the world - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMk5tUl8yRml4eVVXZThHYnhwejMtb3VqUTR6c3lIel9CUjlQYnprMFdJOGRkY1BvcXU5eS0zeEg3Wnc3bHhPTnYyMms5bmpYVmxUVGNpeEJzZGhLUUVWcWY2dDhZTXBOR1pSRldGRUZyeGVkMU5RMkREejBqLUh5Y1IzTklIRTdHeUtweFh0SWVocUZuYlNmNTg5ZGFDa3c?oc=5",
+   "ts": "Wed, 04 Nov 2026 19:40:29 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China Formalizes Used Aviation Parts Trading Framework - Aviation Week",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOThxZ19Ub0Fqc3VLUlR2S0otZktoX2xTWWpOQ0dQU2JhalZiNkhTcXRiLW9NeEg5TXZZRENmVjBtUUNRQ21UcUsxNWhMZk1SdzJpMVFrY21fMFJ4RXYwX2VrNU16eDlVekRFY2lncHo4RlJtcmJudUhZQjMzT3pRZ2hHWU0waFBpZVR2cjdBeEczN1hCQ2gwWmd3UUtJTVVJV0M3ZGw2cmg?oc=5",
    "ts": "Wed, 04 Nov 2026 23:34:26 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s soaring chemical exports threaten new trade war front - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
+   "ts": "Mon, 02 Nov 2026 06:43:12 GMT"
   }
  ]
 }

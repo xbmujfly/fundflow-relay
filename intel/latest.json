@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-05T01:15:23Z",
+ "ts": "2026-11-05T01:30:27Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -395,15 +395,15 @@
   },
   {
    "src": "gnews",
-   "title": "How Election Losses Will Alter the Politics of Trump’s Tariffs - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkR4Y281dTEzaXdYZjZVeGhIVlZLUDJMZVBCTWM3TWNWLUpLdE1lRkRTX3VmN3RPR1p6a2J6Yzc1MEJTN1hUY3BrUVBWS0gwSU5UUnpZS3ViTFNaM0MySTlWSGVSZHB0UHR0QWtYNnhmMFhMUUNVUEFad0k4Q0YzZmZTMDFmalFjUkgxby1KejBKY3lhQW9Ud3FhR3VaOUh2d3ppYmlDSQ?oc=5",
-   "ts": "Wed, 04 Nov 2026 12:04:08 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump Removes South Africa From the African Growth and Opportunity Act Trade Program - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFRqMVNkZnhKUEh5MFhnY3NwbDlqMWN2cXM1U2JuZzBYNWNQejFVb1VkVTB4M1BmQzJLOGUzZmNaLThZaV9QRXRwaGVqOUhQT1dxZnpiYnNzYXhRcHBja01jTTRkMzMyVWFzNEpnQTZPVlZsYUVvb2ZSblNWdjVCcnZmc3VYMHR1b1Fsd3gwZmhrOWpG?oc=5",
    "ts": "Mon, 02 Nov 2026 19:14:50 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "How Election Losses Will Alter the Politics of Trump’s Tariffs - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkR4Y281dTEzaXdYZjZVeGhIVlZLUDJMZVBCTWM3TWNWLUpLdE1lRkRTX3VmN3RPR1p6a2J6Yzc1MEJTN1hUY3BrUVBWS0gwSU5UUnpZS3ViTFNaM0MySTlWSGVSZHB0UHR0QWtYNnhmMFhMUUNVUEFad0k4Q0YzZmZTMDFmalFjUkgxby1KejBKY3lhQW9Ud3FhR3VaOUh2d3ppYmlDSQ?oc=5",
+   "ts": "Wed, 04 Nov 2026 12:04:08 GMT"
   },
   {
    "src": "gnews",
@@ -437,12 +437,6 @@
   },
   {
    "src": "gnews",
-   "title": "China’s soaring chemical exports threaten new trade war front - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
-   "ts": "Mon, 02 Nov 2026 06:43:12 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "From Iran to trade: how the US midterms impact the rest of the world - Reuters",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMk5tUl8yRml4eVVXZThHYnhwejMtb3VqUTR6c3lIel9CUjlQYnprMFdJOGRkY1BvcXU5eS0zeEg3Wnc3bHhPTnYyMms5bmpYVmxUVGNpeEJzZGhLUUVWcWY2dDhZTXBOR1pSRldGRUZyeGVkMU5RMkREejBqLUh5Y1IzTklIRTdHeUtweFh0SWVocUZuYlNmNTg5ZGFDa3c?oc=5",
    "ts": "Wed, 04 Nov 2026 19:40:29 GMT"
@@ -455,9 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "China evokes patriotism, past wars amid trade tension - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44a21HR2lYTVZuWjV5b2RPajZ1dy10aHljbGJNNzNiQXVlWDNhTE1ic3RhN25fdE5XREYtUFJjZ0I5emZQbkhWaTVRUENTdGg5ZE5QY3hTbW1wamhI?oc=5",
-   "ts": "Wed, 04 Nov 2026 22:19:44 GMT"
+   "title": "Trump Has Shifted the U.S.-Pakistan Relationship - Foreign Policy",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbTZ3Q2pYcGlJSXM3M0ZrSzNrYkNiVnE5bFItUmRlbGx4d2NmU19IdUNkSWhZNkVsZWtFaDNrNHlSTElUWTVhbW1JbzctZVJJQlRuRXlsa3liVFVIaC1ZQjV2anRSOGtpM09YYUU0LWpHcFl5V2VNN1laY3FDcW43TlFpVWE4ZzVj?oc=5",
+   "ts": "Wed, 04 Nov 2026 22:22:35 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s soaring chemical exports threaten new trade war front - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
+   "ts": "Mon, 02 Nov 2026 06:43:12 GMT"
   }
  ]
 }

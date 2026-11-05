@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-04T23:45:21Z",
+ "ts": "2026-11-05T00:00:25Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "err": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   }
  },
  "items": [
@@ -371,15 +371,15 @@
   },
   {
    "src": "gnews",
-   "title": "Democrats’ Election Victory Raises Canada’s Hopes of US Tariff Relief - Morningstar",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcEtvdUt2VWw0emFoWGFxSE5tQXZpMnJYUTNQNFZ1Mks2Rm9VLVB6SnJ0cDJ4VDNzVEE1Ym1OS1gyWEVCd2g3NG1LWnlqa3VHZlFCZ3FybllSX3ljSWNpUmh5NHE1ZElSRkQ1RV83enhrY1VmRTZ2S3NyYUkwMmdVQmdoYWc5RlY2M2EtQk9WV1c2b0ZjaE5JdlB6NUFrbGhsNHd3NWgyelZkZzg4bWc?oc=5",
-   "ts": "Wed, 04 Nov 2026 22:49:05 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
    "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Democrats’ Election Victory Raises Canada’s Hopes of US Tariff Relief - Morningstar",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcEtvdUt2VWw0emFoWGFxSE5tQXZpMnJYUTNQNFZ1Mks2Rm9VLVB6SnJ0cDJ4VDNzVEE1Ym1OS1gyWEVCd2g3NG1LWnlqa3VHZlFCZ3FybllSX3ljSWNpUmh5NHE1ZElSRkQ1RV83enhrY1VmRTZ2S3NyYUkwMmdVQmdoYWc5RlY2M2EtQk9WV1c2b0ZjaE5JdlB6NUFrbGhsNHd3NWgyelZkZzg4bWc?oc=5",
+   "ts": "Wed, 04 Nov 2026 22:49:05 GMT"
   },
   {
    "src": "gnews",

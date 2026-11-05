@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-05T01:45:25Z",
+ "ts": "2026-11-05T02:00:38Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -419,27 +419,15 @@
   },
   {
    "src": "gnews",
+   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOFhhMnlXR2NZVTctZ0Fsa0R6cnFZNklHQkNkZlFCaEdWbmdhSUYxWWZxeUFZSXpuSG1lQndIS1pkZUNvZ040Wlk2U0c1SUE0WVRGQ1g4MkJ2bGJaRERtWS1hSm9qR2s1bTdYWW94Q2FaOEQ4U2kxNzNKV2tkZklmNTVWQW1zcjEyazVONVBzbw?oc=5",
+   "ts": "Thu, 05 Nov 2026 01:51:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Democrats’ midterm victory means more obstacles to Trump’s trade and EV agendas - Automotive News",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN2pTRFg4WGE2TDl2bFVsZW1ENEk1NUJmcnJtU2VKckptZU51OXptQk5ONHR2bS1BQkxsbTFhZllwX25sd2U1TWFackp0c2ZCSVluTGc4MVg5MHUtOGR2TFpyaHR1d3g2WXFGOGVpT3MzNzR2VXlVcG9rRnBGcXlHckFtSkg3bC13a3c?oc=5",
    "ts": "Wed, 04 Nov 2026 15:53:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Experts react: Democrats just swept the US midterms. Here’s what it means for the world. - Atlantic Council",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeE15WFg4U1VydFliejA2dzJLR1pkT0tlNE1hWHpORHVUelN1ZXRoeUNwNTNUSTNwa0JabXhEYjZpcUQ4YU5RaUk2d3JtMWZNa0tobHpPNGxBdWI0eHlDLXFTM0dKaC1mSUVINEdEU1lRam1DOHhZQlFGWWJYenVhTGhDcnJqdkdRQmNRV1VWUnAxMjVRQlY4YU5Lay1jSk5JUkx1bVdHM3A3U0J0MVNKLWFuZENtaHhvbTRlVDY3RE9nV01Ndi1v?oc=5",
-   "ts": "Wed, 04 Nov 2026 18:27:39 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China Formalizes Used Aviation Parts Trading Framework - Aviation Week",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOThxZ19Ub0Fqc3VLUlR2S0otZktoX2xTWWpOQ0dQU2JhalZiNkhTcXRiLW9NeEg5TXZZRENmVjBtUUNRQ21UcUsxNWhMZk1SdzJpMVFrY21fMFJ4RXYwX2VrNU16eDlVekRFY2lncHo4RlJtcmJudUhZQjMzT3pRZ2hHWU0waFBpZVR2cjdBeEczN1hCQ2gwWmd3UUtJTVVJV0M3ZGw2cmg?oc=5",
-   "ts": "Wed, 04 Nov 2026 23:34:26 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "From Iran to trade: how the US midterms impact the rest of the world - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMk5tUl8yRml4eVVXZThHYnhwejMtb3VqUTR6c3lIel9CUjlQYnprMFdJOGRkY1BvcXU5eS0zeEg3Wnc3bHhPTnYyMms5bmpYVmxUVGNpeEJzZGhLUUVWcWY2dDhZTXBOR1pSRldGRUZyeGVkMU5RMkREejBqLUh5Y1IzTklIRTdHeUtweFh0SWVocUZuYlNmNTg5ZGFDa3c?oc=5",
-   "ts": "Wed, 04 Nov 2026 19:40:29 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +443,21 @@
   },
   {
    "src": "gnews",
-   "title": "China’s soaring chemical exports threaten new trade war front - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
-   "ts": "Mon, 02 Nov 2026 06:43:12 GMT"
+   "title": "From Iran to trade: how the US midterms impact the rest of the world - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMk5tUl8yRml4eVVXZThHYnhwejMtb3VqUTR6c3lIel9CUjlQYnprMFdJOGRkY1BvcXU5eS0zeEg3Wnc3bHhPTnYyMms5bmpYVmxUVGNpeEJzZGhLUUVWcWY2dDhZTXBOR1pSRldGRUZyeGVkMU5RMkREejBqLUh5Y1IzTklIRTdHeUtweFh0SWVocUZuYlNmNTg5ZGFDa3c?oc=5",
+   "ts": "Wed, 04 Nov 2026 19:40:29 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Experts react: Democrats just swept the US midterms. Here’s what it means for the world. - Atlantic Council",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeE15WFg4U1VydFliejA2dzJLR1pkT0tlNE1hWHpORHVUelN1ZXRoeUNwNTNUSTNwa0JabXhEYjZpcUQ4YU5RaUk2d3JtMWZNa0tobHpPNGxBdWI0eHlDLXFTM0dKaC1mSUVINEdEU1lRam1DOHhZQlFGWWJYenVhTGhDcnJqdkdRQmNRV1VWUnAxMjVRQlY4YU5Lay1jSk5JUkx1bVdHM3A3U0J0MVNKLWFuZENtaHhvbTRlVDY3RE9nV01Ndi1v?oc=5",
+   "ts": "Wed, 04 Nov 2026 18:27:39 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China Formalizes Used Aviation Parts Trading Framework - Aviation Week",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOThxZ19Ub0Fqc3VLUlR2S0otZktoX2xTWWpOQ0dQU2JhalZiNkhTcXRiLW9NeEg5TXZZRENmVjBtUUNRQ21UcUsxNWhMZk1SdzJpMVFrY21fMFJ4RXYwX2VrNU16eDlVekRFY2lncHo4RlJtcmJudUhZQjMzT3pRZ2hHWU0waFBpZVR2cjdBeEczN1hCQ2gwWmd3UUtJTVVJV0M3ZGw2cmg?oc=5",
+   "ts": "Wed, 04 Nov 2026 23:34:26 GMT"
   }
  ]
 }

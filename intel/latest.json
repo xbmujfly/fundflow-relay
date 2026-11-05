@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-05T07:30:26Z",
+ "ts": "2026-11-05T07:45:26Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -370,6 +370,12 @@
   },
   {
    "src": "gnews",
+   "title": "What the Democratic midterms sweep changes for U.S.-China relations - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTERvRl9OaDVyakJ4VkhwdUtibEdYUkNsdjMzNzdRWjFZXzBhWjNIOGZkd2hqYXktMDVtNF96X01BYXFlRjJLNUp4XzV3VkZnQV85WXFGaGFPRHNfak5TRE5xcy1BS19KMGhPWlNxMHM3d2U0LUo3dTdJRXBETDlpaEttdXR4ay1JOUhDcjlDR2FGenQyYkZHdWthMHBPb0ZhcV9ZMnZR0gGrAUFVX3lxTFBieGdIcE1iUlhaQlc0dXltN3cyMDZfUmJxSjBoSmNJTEM0UTBfNmVkUzBxbGRJOXRzNU5PTDNRcmp2RHlvX1RqOVhCektVRXdTM1MtUC1BSndZaEh4WXB3RlhnWk81QzNhVThubGRHMUQtSjN1U1pCM2dYVVA4LVRxaTdQZ2l6blhBYlF3clZDQkhJVHZZOWkwaU5JamRxdC10R051OGZIbEZfNA?oc=5",
+   "ts": "Thu, 05 Nov 2026 06:54:52 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Canada's Carney reports progress in trade talks with U.S. and Trump talks up 'concept' of a deal - PBS",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXdDTGJYWklRa09zNVZrZGpGa3ptMkN6eTBVbGw5V01RVl9VTktCMVNpSmFFWGR5YWJpUkJmQVUxeUNTSm5tYlJvQ05SNTFUQVZ3Z1NfbE9UVmQydDZ5LTk2YS12S3R3VzY2cHptSktvaUdmR3FOamhENFY5bG1LOFRVQzdGV09iY2Y1VGZ5Vi1oQThBWVQ4Q3V5aG9tajNZXzBwSVBOaTVKd1ZVazhHYkxCb09wVFd2OHlzeE1wSS1fTXJXNlNlaDRuanhwUdIB0wFBVV95cUxOTHBudWVpLWJfSkQ5RkJiay1FeWRtYzJmUnpRMEFzeXZzWlZqcDBqOUNmcE05cm54cnNhU0EwU2prTXg1Ml9tdUdlcGxHbWhXZXliZVV2WjZYWDlGSHVBcG1HNTVuUG1XX3F0a3FwWWQ3NFdDaG1FanlCbFcyT3dlTzZhRGx6TWJpZGxZbWJuVVctQ2tOdjl6NWc5enMwWm9EOWNxcjdYU2xXdU03YVBRa2RWblBkclF4RzNSMGV1MFNHQWxQUm81SmlvX0pGWE9MVW84?oc=5",
    "ts": "Sun, 01 Nov 2026 18:00:43 GMT"
@@ -394,12 +400,6 @@
   },
   {
    "src": "gnews",
-   "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOanRQS1NxX3lCdmRsYWJ1STlUY3B4SDIwaHpITTBOUnh2ejlJNUlkQW9QWkJXcTFFckhBLWlCTnRPUTJYaWd1Q0tVSDhIQjNkd2NQRFpXSkhaTVJiZHF4cG9CbnhDSVYzejkxX3JDS0kwaGs2NmM2RGJNWjJSSmNzU1FHT2PSAYoBQVVfeXFMTmJ2eEhROHc3V3Y5RGwwQUVCUC1oTFpqbnQ4WjdNbE83Uzd2SFpXUWJCdloxT0VqdWM4Z3RPM1UwVS1rWHFLLUo1Y2ZScGFjSkZqQ3NQSl9RMnV5SjRPcXZEZ0sxLUJWWTZxbldMcFc5WENINlJnTVo4QmMzLWFXSzB5Uk1Xb1oyRjVR?oc=5",
-   "ts": "Thu, 05 Nov 2026 03:44:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "‘More carve-outs’? How the midterms could affect US trade policy on China - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb05DX3U3cmVhWTVRVTRQbkdqRTB3RzhFdlhfeWxGckw1cl93bjJXMkwwLTJURUxuRUI1eUNDTm5SVE1FQmtFNFRhaXVXQnJtbjAyNkI4VFQ0NWdkZnplRHZhdVBBSTNpT09mWlgyTVFrRzdBX2dMS0VycDBjcnpPdnVBSWE1RmlxY1M3TjdkdUVJc2RPWGN5cUljMVJvZnJPVnFKSjFMONIBpwFBVV95cUxNWG1faG9kV1ItTlIyLTlfeXdETldlcFlPRXJfLWJxdy1tcFVTSTU5MTBmSkpuVjROVmtQMGZYcXpLZmpLTl9tY294QVRrYjI1enJTaThlVXUwakJqc1dhQWZKVGFXTjZxTnZGU1NSMENMeGZrQ0pyMHg3NlN1Z0NrLUZUQThXUW4xYjJOc0k3UnlMVVZsRlpwZjR4ZGdsUEVUQWhBcWVicw?oc=5",
    "ts": "Wed, 04 Nov 2026 14:00:09 GMT"
@@ -412,27 +412,27 @@
   },
   {
    "src": "gnews",
-   "title": "Trump's midterm defeat gives China, Canada, India and Africa's largest economy fresh leverage in US trade talks - Business Insider Africa",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ2J2RHozUzhNdWZKejdqMm92a3cyaV8xMjh2ekdIZVZ6VEM2bkxOSnJhemU2eUdndG1Qc0pNd2RxQVVrX0xVZ0lSeWxLc0x3S21kd3ZBMEl0Vk9sSGhkSEctVFJ6WVlxQ0ZiZWI0Y0VYdWN6YngwS1NKSzl6dFJEbm9ENEtuRVpYc1dGMENodFNMR2ZoU3VnUV9ZRHdhSVRaQ0RweUVsVmFBcEl2ZXI4TW5NeDBXU1QyZW1EUTV4eklSY0c5R2dLcFZFa1V6SzF3emtV?oc=5",
-   "ts": "Wed, 04 Nov 2026 18:18:01 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump Boots South Africa From Preferential Trade Program - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFRqMVNkZnhKUEh5MFhnY3NwbDlqMWN2cXM1U2JuZzBYNWNQejFVb1VkVTB4M1BmQzJLOGUzZmNaLThZaV9QRXRwaGVqOUhQT1dxZnpiYnNzYXhRcHBja01jTTRkMzMyVWFzNEpnQTZPVlZsYUVvb2ZSblNWdjVCcnZmc3VYMHR1b1Fsd3gwZmhrOWpG?oc=5",
    "ts": "Mon, 02 Nov 2026 19:14:50 GMT"
   },
   {
    "src": "gnews",
-   "title": "Democrats’ Election Victory Raises Canada’s Hopes of US Tariff Relief - Morningstar",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcEtvdUt2VWw0emFoWGFxSE5tQXZpMnJYUTNQNFZ1Mks2Rm9VLVB6SnJ0cDJ4VDNzVEE1Ym1OS1gyWEVCd2g3NG1LWnlqa3VHZlFCZ3FybllSX3ljSWNpUmh5NHE1ZElSRkQ1RV83enhrY1VmRTZ2S3NyYUkwMmdVQmdoYWc5RlY2M2EtQk9WV1c2b0ZjaE5JdlB6NUFrbGhsNHd3NWgyelZkZzg4bWc?oc=5",
-   "ts": "Wed, 04 Nov 2026 22:49:05 GMT"
+   "title": "Trump's midterm defeat gives China, Canada, India and Africa's largest economy fresh leverage in US trade talks - Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ2J2RHozUzhNdWZKejdqMm92a3cyaV8xMjh2ekdIZVZ6VEM2bkxOSnJhemU2eUdndG1Qc0pNd2RxQVVrX0xVZ0lSeWxLc0x3S21kd3ZBMEl0Vk9sSGhkSEctVFJ6WVlxQ0ZiZWI0Y0VYdWN6YngwS1NKSzl6dFJEbm9ENEtuRVpYc1dGMENodFNMR2ZoU3VnUV9ZRHdhSVRaQ0RweUVsVmFBcEl2ZXI4TW5NeDBXU1QyZW1EUTV4eklSY0c5R2dLcFZFa1V6SzF3emtV?oc=5",
+   "ts": "Wed, 04 Nov 2026 18:18:01 GMT"
   },
   {
    "src": "gnews",
    "title": "China says trade barriers block tech imports, fueling its surplus - Nikkei Asia",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUjB5V2tLQ0ZzaGF4Tjg2X1o0VF9YODZma0phamhGUDB1S1Q1ckxmOGRjTVk3RU9HV2ZwOVo2RDZHZnJxSkczTXBpbzQzOHVHbEhIbmkwdGpZY3lKREJFb3hBVVZtV05WOUczbUduazdDaWl6N084OGM5c3VjdG85LU5feVFnR1p2Y0NheDJKTVIxNGxzTHlnY21QMzYtTVVyTEdWQg?oc=5",
    "ts": "Thu, 05 Nov 2026 07:19:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Democrats’ Election Victory Raises Canada’s Hopes of US Tariff Relief - Morningstar",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcEtvdUt2VWw0emFoWGFxSE5tQXZpMnJYUTNQNFZ1Mks2Rm9VLVB6SnJ0cDJ4VDNzVEE1Ym1OS1gyWEVCd2g3NG1LWnlqa3VHZlFCZ3FybllSX3ljSWNpUmh5NHE1ZElSRkQ1RV83enhrY1VmRTZ2S3NyYUkwMmdVQmdoYWc5RlY2M2EtQk9WV1c2b0ZjaE5JdlB6NUFrbGhsNHd3NWgyelZkZzg4bWc?oc=5",
+   "ts": "Wed, 04 Nov 2026 22:49:05 GMT"
   },
   {
    "src": "gnews",
@@ -448,15 +448,87 @@
   },
   {
    "src": "gnews",
+   "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOanRQS1NxX3lCdmRsYWJ1STlUY3B4SDIwaHpITTBOUnh2ejlJNUlkQW9QWkJXcTFFckhBLWlCTnRPUTJYaWd1Q0tVSDhIQjNkd2NQRFpXSkhaTVJiZHF4cG9CbnhDSVYzejkxX3JDS0kwaGs2NmM2RGJNWjJSSmNzU1FHT2PSAYoBQVVfeXFMTmJ2eEhROHc3V3Y5RGwwQUVCUC1oTFpqbnQ4WjdNbE83Uzd2SFpXUWJCdloxT0VqdWM4Z3RPM1UwVS1rWHFLLUo1Y2ZScGFjSkZqQ3NQSl9RMnV5SjRPcXZEZ0sxLUJWWTZxbldMcFc5WENINlJnTVo4QmMzLWFXSzB5Uk1Xb1oyRjVR?oc=5",
+   "ts": "Thu, 05 Nov 2026 03:44:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Canada to curb reliance on US despite Trump team’s midterm loss, minister says - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTFR1M050NEdYeGtGRGgwMVdfV1ZBX1o4aWo0VXA5cHYyZ2pkb2Z1dzlhTmZYN1JBcEhXSU5xVFBZU29DbE5PWlVqM2ZOSW5xNU9rQm9qREtybXFieDI2Xzd1Yk9pT0tXd3FxbFlUN0dTNnhNbEZZenQ1YXNsbFdkU2VVNnBLaHhmQkxzTlBzMXZ3OERrQkNfZFZxaUNnWVhkQVpyenBHanItWjRSVlc2dnN2UzhwSjdEdzZ0Mnh2OEJwNHhfWVZ6dkdERmZIUzdYbzJ1amZVc3cwR083ZUI4MGZB0gHiAUFVX3lxTFBMc2pfRDZuNE93QWpJZTFzYVZOWXhHRW00RGwzbnBnYWVIY1hRd3dtY1RHVGtYTVdqaU9BU2V6dkVNT00yQ1lMb2xHYTJkRmJ0a3hoZ0VCT2s2MEt2My1IdWpRRjdJY2dNLWhJUGRRSzhkb0xQMnpCRzhiRGFXaXBoTjBUejl2Ym91MDU1V21CZHpYVWZXWjFxX1dxTGJIOUc1Q24zU2x0bXBNZ1dkbjdGX3ZnTzd0NFpySk9vLXI5ZllCVnhhN0tOVzhQc0dtZFhJbFRYaTk2eTJhZ3ljSVFhY0E?oc=5",
    "ts": "Wed, 04 Nov 2026 21:10:44 GMT"
   },
   {
-   "src": "gnews",
-   "title": "Canada-China Trade Deal Through 2028 Raises Stakes for Agricultural Markets - AgroLatam",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTXI2TmtaUTJHaC14bDFNX082VFIyOEd2cU02T1BGQ3ZickdLbVNab0l2Y3RMY0k3STJVbG9ockNhNVp6djR2OXF3VjNjZE5vS29GQWNjaURUSTIzLU50X3FkNW5IaThWcHhfcWo3bEQwTWw4bHVzQWxhMmpWWC1KZ3NXRzdCX3JtV0tXNlFB?oc=5",
-   "ts": "Wed, 04 Nov 2026 21:40:44 GMT"
+   "src": "gdelt",
+   "title": "US midterm election results live : Trump blames Iran war after losses | US Midterm Elections 2026 News",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?update=5123773",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Gold Silver Price Today : अमेरिका में ट्रंप को लगा बड़ा झटका तो सोने - चांदी ने बदला अपना रास्ता , सिर्फ 2 दिन में आ गई भारी - भरकम तेजी | Gold Silver Shifted Course Massive Surge In Just 2 Days Due T",
+   "url": "https://www.patrika.com/business-news/gold-silver-shifted-course-massive-surge-in-just-2-days-due-to-crude-oil-price-fall-21031420",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "The whitening of America refugee policy : Who gets to be saved ? ",
+   "url": "https://amsterdamnews.com/news/2026/11/05/the-whitening-of-americas-refugee-policy-who-gets-to-be-saved/",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "2028 election season begins as parties navigate midterm fallout",
+   "url": "https://www.mynbc5.com/article/2028-presidential-election-season-underway/74339778",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Τα δύσκολα διλήμματα του Τραμπ για τον πόλεμο στο Ιράν μετά την εκλογική ήττα",
+   "url": "https://www.news247.gr/kosmos/ta-diskola-dilimmata-tou-trab-gia-ton-polemo-sto-iran-meta-tin-eklogiki-itta/",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump is considering firing Hegseth after devastating GOP midterm loss : report",
+   "url": "https://fox23.com/news/nation-world/trump-is-considering-firing-hegseth-after-devastating-gop-midterm-loss-report-ron-desantis-democrats-kentucky-florida",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  부담 줄여야  vs  생계 위협 … 배달앱 상한제에 자영업자 · 라이더 갈등 고조",
+   "url": "https://www.newspim.com/news/view/20261105001182",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Triumf demokratów nie przestraszył inwestorów . Ropa i gaz mocno tanieją",
+   "url": "https://www.rp.pl/biznes/art45448221-triumf-partii-demokratycznej-nie-przestraszyl-inwestorow-rynek-hipotek-hamuje",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "How well did polls predict the blue wave ? ",
+   "url": "https://www.wvik.org/npr-top-stories/2026-11-04/how-well-did-polls-predict-the-blue-wave",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Asian shares mostly advance following US midterms , though Kospi falls on selling of chipmakers",
+   "url": "https://www.dailygazette.com/leader_herald/ap/business/asian-shares-mostly-advance-following-us-midterms-though-kospi-falls-on-selling-of-chipmakers/article_49fd62b6-abc8-54bf-aee9-951a9fa82235.html",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US contractor admits passing top - secret information to Ethiopia",
+   "url": "https://www.wapt.com/article/contractor-admits-passing-secret-information-ethiopia/74340372",
+   "ts": "20261105T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ted Cruz calls midterm election results a  Watergate - level repudiation  of the GOP , warns  Americans will be hurt  by radical Dems",
+   "url": "https://nypost.com/2026/11/05/us-news/ted-cruz-calls-midterm-election-results-a-watergate-level-repudiation-of-the-gop-warns-americans-will-be-hurt-by-radical-dems/",
+   "ts": "20261105T071500Z"
   },
   {
    "src": "gdelt",
@@ -504,78 +576,6 @@
    "src": "gdelt",
    "title": "Election Day 2026 : Photos from around the country",
    "url": "https://www.wxxinews.org/npr-news/2026-11-03/election-day-2026-photos-from-around-the-country",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "有色 / 贵金属 | 11月份若黄金出现反弹契机 银铂钯价格也将会有所修复 _ 东方财富网",
-   "url": "https://finance.eastmoney.com/a/202611043920988388.html",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "DOJ extracts $1 . 5M from bookstore as Senator wife accused of  exploiting  Trump program",
-   "url": "https://www.rawstory.com/doj-2678215691/",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "트럼프  이란 방공시설 완공 직후 타격 … 게슘섬 공습 인정한 듯 - 국제ㅣ한국일보",
-   "url": "https://www.hankookilbo.com/news/article/A2026110408130001288",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "DOJ sends letters in Alaska spoiler candidate probe",
-   "url": "https://www.suncommercial.com/brazil_times/news/national/article_b0568233-6c47-5536-add2-cb46e860a7e7.html",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ενδιάμεσες εκλογές ΗΠΑ : Οι κάλπες κλείνουν , βγήκαν τα πρώτα αποτελέσματα - Τι θα σημάνει τυχόν ήττα του Τραμπ",
-   "url": "https://www.efsyn.gr/kosmos/1502405/endiameses-ekloges-ipa-oi-kalpes-kleinoyn-vgikan-ta-prota-apotelesmata-ti-tha-simanei-tyhon-itta-toy-tramp/",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Jon Ossoff wins reelection in Georgia , easily defeating Republican Mike Collins",
-   "url": "https://www.wxxinews.org/npr-news/2026-11-03/jon-ossoff-wins-reelection-in-georgia-easily-defeating-republican-mike-collins",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "트럼프 , 이스라엘에 연간 5 . 4조 지원 중단 선언",
-   "url": "https://www.heraldk.com/article/2026110316160472590",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "CIIE primed for a record ninth edition",
-   "url": "http://europe.chinadaily.com.cn/a/202611/03/WS6aea00a0e4b06d4aa0566db5.html",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "A referendum on Trump , election monitors and a Democratic shift : What to watch on Election Day",
-   "url": "https://lazer993.com/news/030030-a-referendum-on-trump-election-monitors-and-a-democratic-shift-what-to-watch-on-election-day/",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Early Exit Polls Show Voters See Midterms As A Rebuke On Trump Administration",
-   "url": "https://wrak.iheart.com/content/2026-11-03-early-exit-polls-show-voters-see-midterms-as-a-rebuke-on-trump-administration/",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US midterms : JD Vance says administration fought replacement of American workers with lower - wage foreign employees",
-   "url": "http://www.newyorkstatesman.com/news/279410172/us-midterms-jd-vance-says-administration-fought-replacement-of-american-workers-with-lower-wage-foreign-employees",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ΗΠΑ : 6 στους 10 ψηφοφόρους διαφωνούν με τον πόλεμο του Τραμπ κατά του Ιράν",
-   "url": "https://www.in.gr/2026/11/04/world/ipa-6-stous-10-psifoforous-diafonoun-me-ton-polemo-tou-tramp-kata-tou-iran/",
    "ts": "20261104T013000Z"
   }
  ]

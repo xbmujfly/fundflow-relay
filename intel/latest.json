@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-05T00:00:25Z",
+ "ts": "2026-11-05T00:15:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -401,6 +401,12 @@
   },
   {
    "src": "gnews",
+   "title": "Democrats’ Midterm Blowout a Referendum on Trump’s Trade, Economic Policies - WWD",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGdGZl9QOTNoMldCeUlBTS1jaTVnSXF2LVJzUUljM3Y4bVpRX3dPMDVVWkxLeXR3UWJqWkJ2OG4wM0ZVWXo4NnZIN0ViaDJTM2pIcnBab0gzTUZhUVNuRF9yaW1JcFk5Q25VeFh4UXFGaFNXVVVXd1ZTSDhfNkExUV92TktnbkRtM2s5b2lzUW1GU0hwdGZNRDlMRmlVdzJoQ1JDTzhNM1J4azgybWI4dnBlbm1jWmc?oc=5",
+   "ts": "Wed, 04 Nov 2026 23:57:57 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms - MPR News",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHc1QVBGdDlLNXBiZ21Ya3c1bkNzaEdlOXJRUDd0NWhnRFBvcjRZcHFzWnFwdkFUVlNzMkFpQ1VNMkZsMXBQdWJXbnFKbXVxV0ZiaXZwNUtUbUdUdzFIeDlBOW11alBabGZqRFNpd09TZncwX0IxNFM0c2lZbzQ1cmtXbW5GNWVQM1BLVzU2d1RlSnpjUzZSYWE0NEIxTS1FMGxIQTVyano?oc=5",
    "ts": "Sun, 01 Nov 2026 21:14:58 GMT"
@@ -425,12 +431,6 @@
   },
   {
    "src": "gnews",
-   "title": "German trade group expects Trump to maintain course on tariffs - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcnRsOWJwakN2RHd2THZfZHBqcTluZDlJM1IzLWxMQ3NlZ2g1MVRCT2lvS2pERHZSa185d3BFc011OTVZM3dXSll6WDN6cWZPS3VMQmtoeTVrWFp6Y21RNENTZEhlcUVPZEFvSVZTM2Q2M2dSbVV2V0NnR282MXRHTFkwcE5rakVLOHlNQ3ZtTlRRejNEOVdEZDNvTnF0UQ?oc=5",
-   "ts": "Wed, 04 Nov 2026 16:48:28 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "From Iran to trade: how the US midterms impact the rest of the world - Reuters",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMk5tUl8yRml4eVVXZThHYnhwejMtb3VqUTR6c3lIel9CUjlQYnprMFdJOGRkY1BvcXU5eS0zeEg3Wnc3bHhPTnYyMms5bmpYVmxUVGNpeEJzZGhLUUVWcWY2dDhZTXBOR1pSRldGRUZyeGVkMU5RMkREejBqLUh5Y1IzTklIRTdHeUtweFh0SWVocUZuYlNmNTg5ZGFDa3c?oc=5",
    "ts": "Wed, 04 Nov 2026 19:40:29 GMT"
@@ -449,15 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Democratic Sweep Revives the Stalled Copper Tariff Trade - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclhEaDhWNFBZeWNhWS1fU2daRVUtNUU3WDFqZ3I0MDBVYmk5ckFhRndvQk1maE9DYWlqLTNHSFdPUnZGWVZGQkdsVk5HNjJicElKckNCbnVzeHVCNU9EaDhhYzZrRnh5djQzVU4zQ3VtUUp5SnRoN3VDaDY2VkhkSDlTTjZVNVBzSFRnX29GdU01c1dqVFhla2xyTnRkMFA3NHh1dDhpZlFXVXVxNGt4REhZamItSlk?oc=5",
-   "ts": "Wed, 04 Nov 2026 21:40:44 GMT"
+   "title": "German trade group expects Trump to maintain course on tariffs - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcnRsOWJwakN2RHd2THZfZHBqcTluZDlJM1IzLWxMQ3NlZ2g1MVRCT2lvS2pERHZSa185d3BFc011OTVZM3dXSll6WDN6cWZPS3VMQmtoeTVrWFp6Y21RNENTZEhlcUVPZEFvSVZTM2Q2M2dSbVV2V0NnR282MXRHTFkwcE5rakVLOHlNQ3ZtTlRRejNEOVdEZDNvTnF0UQ?oc=5",
+   "ts": "Wed, 04 Nov 2026 16:48:28 GMT"
   },
   {
    "src": "gnews",
-   "title": "Canada to continue trade talks with Trump administration following US midterms: Official - Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTnBQUjlTT1hSeGxnaVZOaDZwd1J0bzhXWXo5RV9JWkczdmNFREQ0TEJvOGNHOHBfSGk3VWVKcy1EWENzWUVuT3dIYVBRR0kzVUNtNmVIUFZhRjVmUXpLQnFMWVRtSy1HazhHV1RLbUl0M0NQQVdMOVhKakF6eHppMHYtTHlRSXhHc1dPNzdFaDFvVFc5ZExRTW1UMEliR1p3MEZHcUdyZVo4X1hRMlN3VGp5T3BqWlBYdmlOZThFS2RsVjA?oc=5",
-   "ts": "Wed, 04 Nov 2026 22:19:45 GMT"
+   "title": "Democratic Sweep Revives the Stalled Copper Tariff Trade - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclhEaDhWNFBZeWNhWS1fU2daRVUtNUU3WDFqZ3I0MDBVYmk5ckFhRndvQk1maE9DYWlqLTNHSFdPUnZGWVZGQkdsVk5HNjJicElKckNCbnVzeHVCNU9EaDhhYzZrRnh5djQzVU4zQ3VtUUp5SnRoN3VDaDY2VkhkSDlTTjZVNVBzSFRnX29GdU01c1dqVFhla2xyTnRkMFA3NHh1dDhpZlFXVXVxNGt4REhZamItSlk?oc=5",
+   "ts": "Wed, 04 Nov 2026 21:40:44 GMT"
   }
  ]
 }

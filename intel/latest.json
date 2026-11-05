@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-05T07:00:30Z",
+ "ts": "2026-11-05T07:15:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -401,15 +401,15 @@
   },
   {
    "src": "gnews",
-   "title": "Republicans paid the price for Trump’s failed policies - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CeVRXdWpMc2VjNy12ajR1OHJCem41RnBrUzRYelAzeFlVbDJjUFdVTWdMRDM0TDBTY2xpeV9tQlFnQTdSQmNqb05jX2lSTEVqa3dSdTMwZWNHUGNlUm0yT1RKdlFBRUV5TXl3WTdWbXk?oc=5",
-   "ts": "Thu, 05 Nov 2026 05:01:38 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "‘More carve-outs’? How the midterms could affect US trade policy on China - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb05DX3U3cmVhWTVRVTRQbkdqRTB3RzhFdlhfeWxGckw1cl93bjJXMkwwLTJURUxuRUI1eUNDTm5SVE1FQmtFNFRhaXVXQnJtbjAyNkI4VFQ0NWdkZnplRHZhdVBBSTNpT09mWlgyTVFrRzdBX2dMS0VycDBjcnpPdnVBSWE1RmlxY1M3TjdkdUVJc2RPWGN5cUljMVJvZnJPVnFKSjFMONIBpwFBVV95cUxNWG1faG9kV1ItTlIyLTlfeXdETldlcFlPRXJfLWJxdy1tcFVTSTU5MTBmSkpuVjROVmtQMGZYcXpLZmpLTl9tY294QVRrYjI1enJTaThlVXUwakJqc1dhQWZKVGFXTjZxTnZGU1NSMENMeGZrQ0pyMHg3NlN1Z0NrLUZUQThXUW4xYjJOc0k3UnlMVVZsRlpwZjR4ZGdsUEVUQWhBcWVicw?oc=5",
    "ts": "Wed, 04 Nov 2026 14:00:09 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Republicans paid the price for Trump’s failed policies - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CeVRXdWpMc2VjNy12ajR1OHJCem41RnBrUzRYelAzeFlVbDJjUFdVTWdMRDM0TDBTY2xpeV9tQlFnQTdSQmNqb05jX2lSTEVqa3dSdTMwZWNHUGNlUm0yT1RKdlFBRUV5TXl3WTdWbXk?oc=5",
+   "ts": "Thu, 05 Nov 2026 05:01:38 GMT"
   },
   {
    "src": "gnews",
@@ -443,12 +443,6 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Has Shifted the U.S.-Pakistan Relationship - Foreign Policy",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbTZ3Q2pYcGlJSXM3M0ZrSzNrYkNiVnE5bFItUmRlbGx4d2NmU19IdUNkSWhZNkVsZWtFaDNrNHlSTElUWTVhbW1JbzctZVJJQlRuRXlsa3liVFVIaC1ZQjV2anRSOGtpM09YYUU0LWpHcFl5V2VNN1laY3FDcW43TlFpVWE4ZzVj?oc=5",
-   "ts": "Thu, 05 Nov 2026 04:31:02 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Canada to curb reliance on US despite Trump team’s midterm loss, minister says - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTFR1M050NEdYeGtGRGgwMVdfV1ZBX1o4aWo0VXA5cHYyZ2pkb2Z1dzlhTmZYN1JBcEhXSU5xVFBZU29DbE5PWlVqM2ZOSW5xNU9rQm9qREtybXFieDI2Xzd1Yk9pT0tXd3FxbFlUN0dTNnhNbEZZenQ1YXNsbFdkU2VVNnBLaHhmQkxzTlBzMXZ3OERrQkNfZFZxaUNnWVhkQVpyenBHanItWjRSVlc2dnN2UzhwSjdEdzZ0Mnh2OEJwNHhfWVZ6dkdERmZIUzdYbzJ1amZVc3cwR083ZUI4MGZB0gHiAUFVX3lxTFBMc2pfRDZuNE93QWpJZTFzYVZOWXhHRW00RGwzbnBnYWVIY1hRd3dtY1RHVGtYTVdqaU9BU2V6dkVNT00yQ1lMb2xHYTJkRmJ0a3hoZ0VCT2s2MEt2My1IdWpRRjdJY2dNLWhJUGRRSzhkb0xQMnpCRzhiRGFXaXBoTjBUejl2Ym91MDU1V21CZHpYVWZXWjFxX1dxTGJIOUc1Q24zU2x0bXBNZ1dkbjdGX3ZnTzd0NFpySk9vLXI5ZllCVnhhN0tOVzhQc0dtZFhJbFRYaTk2eTJhZ3ljSVFhY0E?oc=5",
    "ts": "Wed, 04 Nov 2026 21:10:44 GMT"
@@ -458,6 +452,12 @@
    "title": "Canada-China Trade Deal Through 2028 Raises Stakes for Agricultural Markets - AgroLatam",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTXI2TmtaUTJHaC14bDFNX082VFIyOEd2cU02T1BGQ3ZickdLbVNab0l2Y3RMY0k3STJVbG9ockNhNVp6djR2OXF3VjNjZE5vS29GQWNjaURUSTIzLU50X3FkNW5IaThWcHhfcWo3bEQwTWw4bHVzQWxhMmpWWC1KZ3NXRzdCX3JtV0tXNlFB?oc=5",
    "ts": "Wed, 04 Nov 2026 21:40:44 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s soaring chemical exports threaten new trade war front - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
+   "ts": "Mon, 02 Nov 2026 06:43:12 GMT"
   }
  ]
 }

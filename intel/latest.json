@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-05T13:15:25Z",
+ "ts": "2026-11-05T13:30:26Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -377,15 +377,15 @@
   },
   {
    "src": "gnews",
-   "title": "U.S. Midterms: Trump's Next Trade War Could Be With Congress - Foreign Policy",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1o5Y1g4b1BRdXBxbUF2dEdpZ3Y1bGtEeXdXVmNHcTZUM3hMN3dQM1pWNzN4MW5CeHJ2aTl2Q1F0amw4UDd6cmpFX0F5RzZ2V01aS09fVlZhUTlUTzlYWWxPTmd2M080OW5sT0lFQmxTV0s4d29Pem83MU5EVlNwVWJXczhFMzA4SGphak5BXzZMd28?oc=5",
-   "ts": "Wed, 04 Nov 2026 18:07:44 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
    "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "U.S. Midterms: Trump's Next Trade War Could Be With Congress - Foreign Policy",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1o5Y1g4b1BRdXBxbUF2dEdpZ3Y1bGtEeXdXVmNHcTZUM3hMN3dQM1pWNzN4MW5CeHJ2aTl2Q1F0amw4UDd6cmpFX0F5RzZ2V01aS09fVlZhUTlUTzlYWWxPTmd2M080OW5sT0lFQmxTV0s4d29Pem83MU5EVlNwVWJXczhFMzA4SGphak5BXzZMd28?oc=5",
+   "ts": "Wed, 04 Nov 2026 18:07:44 GMT"
   },
   {
    "src": "gnews",
@@ -401,15 +401,15 @@
   },
   {
    "src": "gnews",
-   "title": "China says trade barriers block tech imports, fueling its surplus - Nikkei Asia",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUjB5V2tLQ0ZzaGF4Tjg2X1o0VF9YODZma0phamhGUDB1S1Q1ckxmOGRjTVk3RU9HV2ZwOVo2RDZHZnJxSkczTXBpbzQzOHVHbEhIbmkwdGpZY3lKREJFb3hBVVZtV05WOUczbUduazdDaWl6N084OGM5c3VjdG85LU5feVFnR1p2Y0NheDJKTVIxNGxzTHlnY21QMzYtTVVyTEdWQg?oc=5",
-   "ts": "Thu, 05 Nov 2026 07:19:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China Ties U.S. Farm Purchases to Tariff Cuts as Trade Uncertainty Grows - AgroLatam",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWlBtcGthejNNdlRGTlVCbWVjSXpEbHctTXBJblR3S0JBdUdjaGQzdWlVcHk2bkY4MERpV1FCZzBLWURLcmN2N0VLOTVVLUZIYVdkOW42Ty1fZm9vQmg3VjBEaUtOMWdxR1NHckFsYzJnZklkUE5nSEVER0dWSVh6R0VB?oc=5",
    "ts": "Thu, 05 Nov 2026 12:19:25 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China says trade barriers block tech imports, fueling its surplus - Nikkei Asia",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUjB5V2tLQ0ZzaGF4Tjg2X1o0VF9YODZma0phamhGUDB1S1Q1ckxmOGRjTVk3RU9HV2ZwOVo2RDZHZnJxSkczTXBpbzQzOHVHbEhIbmkwdGpZY3lKREJFb3hBVVZtV05WOUczbUduazdDaWl6N084OGM5c3VjdG85LU5feVFnR1p2Y0NheDJKTVIxNGxzTHlnY21QMzYtTVVyTEdWQg?oc=5",
+   "ts": "Thu, 05 Nov 2026 07:19:00 GMT"
   },
   {
    "src": "gnews",

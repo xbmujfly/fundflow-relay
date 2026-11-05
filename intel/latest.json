@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-05T08:45:26Z",
+ "ts": "2026-11-05T09:00:25Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -377,15 +377,15 @@
   },
   {
    "src": "gnews",
-   "title": "China says trade barriers block tech imports, fueling its surplus - Nikkei Asia",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUjB5V2tLQ0ZzaGF4Tjg2X1o0VF9YODZma0phamhGUDB1S1Q1ckxmOGRjTVk3RU9HV2ZwOVo2RDZHZnJxSkczTXBpbzQzOHVHbEhIbmkwdGpZY3lKREJFb3hBVVZtV05WOUczbUduazdDaWl6N084OGM5c3VjdG85LU5feVFnR1p2Y0NheDJKTVIxNGxzTHlnY21QMzYtTVVyTEdWQg?oc=5",
-   "ts": "Thu, 05 Nov 2026 07:19:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Democrats’ Midterm Blowout a Referendum on Trump’s Trade, Economic Policies - WWD",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGdGZl9QOTNoMldCeUlBTS1jaTVnSXF2LVJzUUljM3Y4bVpRX3dPMDVVWkxLeXR3UWJqWkJ2OG4wM0ZVWXo4NnZIN0ViaDJTM2pIcnBab0gzTUZhUVNuRF9yaW1JcFk5Q25VeFh4UXFGaFNXVVVXd1ZTSDhfNkExUV92TktnbkRtM2s5b2lzUW1GU0hwdGZNRDlMRmlVdzJoQ1JDTzhNM1J4azgybWI4dnBlbm1jWmc?oc=5",
    "ts": "Thu, 05 Nov 2026 00:40:57 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China says trade barriers block tech imports, fueling its surplus - Nikkei Asia",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUjB5V2tLQ0ZzaGF4Tjg2X1o0VF9YODZma0phamhGUDB1S1Q1ckxmOGRjTVk3RU9HV2ZwOVo2RDZHZnJxSkczTXBpbzQzOHVHbEhIbmkwdGpZY3lKREJFb3hBVVZtV05WOUczbUduazdDaWl6N084OGM5c3VjdG85LU5feVFnR1p2Y0NheDJKTVIxNGxzTHlnY21QMzYtTVVyTEdWQg?oc=5",
+   "ts": "Thu, 05 Nov 2026 07:19:00 GMT"
   },
   {
    "src": "gnews",
@@ -407,6 +407,12 @@
   },
   {
    "src": "gnews",
+   "title": "‘More carve-outs’? How the midterms could affect US trade policy on China - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb05DX3U3cmVhWTVRVTRQbkdqRTB3RzhFdlhfeWxGckw1cl93bjJXMkwwLTJURUxuRUI1eUNDTm5SVE1FQmtFNFRhaXVXQnJtbjAyNkI4VFQ0NWdkZnplRHZhdVBBSTNpT09mWlgyTVFrRzdBX2dMS0VycDBjcnpPdnVBSWE1RmlxY1M3TjdkdUVJc2RPWGN5cUljMVJvZnJPVnFKSjFMONIBpwFBVV95cUxNWG1faG9kV1ItTlIyLTlfeXdETldlcFlPRXJfLWJxdy1tcFVTSTU5MTBmSkpuVjROVmtQMGZYcXpLZmpLTl9tY294QVRrYjI1enJTaThlVXUwakJqc1dhQWZKVGFXTjZxTnZGU1NSMENMeGZrQ0pyMHg3NlN1Z0NrLUZUQThXUW4xYjJOc0k3UnlMVVZsRlpwZjR4ZGdsUEVUQWhBcWVicw?oc=5",
+   "ts": "Wed, 04 Nov 2026 14:00:09 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals - CNBC",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOanRQS1NxX3lCdmRsYWJ1STlUY3B4SDIwaHpITTBOUnh2ejlJNUlkQW9QWkJXcTFFckhBLWlCTnRPUTJYaWd1Q0tVSDhIQjNkd2NQRFpXSkhaTVJiZHF4cG9CbnhDSVYzejkxX3JDS0kwaGs2NmM2RGJNWjJSSmNzU1FHT2PSAYoBQVVfeXFMTmJ2eEhROHc3V3Y5RGwwQUVCUC1oTFpqbnQ4WjdNbE83Uzd2SFpXUWJCdloxT0VqdWM4Z3RPM1UwVS1rWHFLLUo1Y2ZScGFjSkZqQ3NQSl9RMnV5SjRPcXZEZ0sxLUJWWTZxbldMcFc5WENINlJnTVo4QmMzLWFXSzB5Uk1Xb1oyRjVR?oc=5",
    "ts": "Thu, 05 Nov 2026 03:44:00 GMT"
@@ -421,13 +427,7 @@
    "src": "gnews",
    "title": "Republicans paid the price for Trump’s failed policies — they must rethink - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CeVRXdWpMc2VjNy12ajR1OHJCem41RnBrUzRYelAzeFlVbDJjUFdVTWdMRDM0TDBTY2xpeV9tQlFnQTdSQmNqb05jX2lSTEVqa3dSdTMwZWNHUGNlUm0yT1RKdlFBRUV5TXl3WTdWbXk?oc=5",
-   "ts": "Thu, 05 Nov 2026 05:00:07 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "‘More carve-outs’? How the midterms could affect US trade policy on China - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb05DX3U3cmVhWTVRVTRQbkdqRTB3RzhFdlhfeWxGckw1cl93bjJXMkwwLTJURUxuRUI1eUNDTm5SVE1FQmtFNFRhaXVXQnJtbjAyNkI4VFQ0NWdkZnplRHZhdVBBSTNpT09mWlgyTVFrRzdBX2dMS0VycDBjcnpPdnVBSWE1RmlxY1M3TjdkdUVJc2RPWGN5cUljMVJvZnJPVnFKSjFMONIBpwFBVV95cUxNWG1faG9kV1ItTlIyLTlfeXdETldlcFlPRXJfLWJxdy1tcFVTSTU5MTBmSkpuVjROVmtQMGZYcXpLZmpLTl9tY294QVRrYjI1enJTaThlVXUwakJqc1dhQWZKVGFXTjZxTnZGU1NSMENMeGZrQ0pyMHg3NlN1Z0NrLUZUQThXUW4xYjJOc0k3UnlMVVZsRlpwZjR4ZGdsUEVUQWhBcWVicw?oc=5",
-   "ts": "Wed, 04 Nov 2026 14:00:09 GMT"
+   "ts": "Thu, 05 Nov 2026 05:01:38 GMT"
   },
   {
    "src": "gnews",

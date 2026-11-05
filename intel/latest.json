@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-05T03:45:22Z",
+ "ts": "2026-11-05T04:00:28Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -346,15 +347,15 @@
   },
   {
    "src": "gnews",
-   "title": "U.S. Midterms: Trump's Next Trade War Could Be With Congress - Foreign Policy",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1o5Y1g4b1BRdXBxbUF2dEdpZ3Y1bGtEeXdXVmNHcTZUM3hMN3dQM1pWNzN4MW5CeHJ2aTl2Q1F0amw4UDd6cmpFX0F5RzZ2V01aS09fVlZhUTlUTzlYWWxPTmd2M080OW5sT0lFQmxTV0s4d29Pem83MU5EVlNwVWJXczhFMzA4SGphak5BXzZMd28?oc=5",
-   "ts": "Wed, 04 Nov 2026 18:07:44 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump’s trade chief pushing him to step up negotiations with Canada - Politico",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUY3c1JIclBSa09VTXM3UlJiMWtrUkxUdFJoRTV6Zl9ZZGJQcUlCTFppQm9ESWhrcGVfTWRHdy1SSkU4U2ktY2ZiMEtWNnBiWkhDQmVuajlhTlFDa3NJM0dESGNTeWdPbmNMWTBxV2swVkhLbV9QdFdhUWhORl9Ca2NHUFlxNEFFamRWNzhQRlJEdFNadkd5M1RQMTM?oc=5",
    "ts": "Tue, 03 Nov 2026 23:55:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "U.S. Midterms: Trump's Next Trade War Could Be With Congress - Foreign Policy",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1o5Y1g4b1BRdXBxbUF2dEdpZ3Y1bGtEeXdXVmNHcTZUM3hMN3dQM1pWNzN4MW5CeHJ2aTl2Q1F0amw4UDd6cmpFX0F5RzZ2V01aS09fVlZhUTlUTzlYWWxPTmd2M080OW5sT0lFQmxTV0s4d29Pem83MU5EVlNwVWJXczhFMzA4SGphak5BXzZMd28?oc=5",
+   "ts": "Wed, 04 Nov 2026 18:07:44 GMT"
   },
   {
    "src": "gnews",
@@ -367,6 +368,12 @@
    "title": "Canada's Carney reports progress in trade talks with U.S. and Trump talks up 'concept' of a deal - PBS",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXdDTGJYWklRa09zNVZrZGpGa3ptMkN6eTBVbGw5V01RVl9VTktCMVNpSmFFWGR5YWJpUkJmQVUxeUNTSm5tYlJvQ05SNTFUQVZ3Z1NfbE9UVmQydDZ5LTk2YS12S3R3VzY2cHptSktvaUdmR3FOamhENFY5bG1LOFRVQzdGV09iY2Y1VGZ5Vi1oQThBWVQ4Q3V5aG9tajNZXzBwSVBOaTVKd1ZVazhHYkxCb09wVFd2OHlzeE1wSS1fTXJXNlNlaDRuanhwUdIB0wFBVV95cUxOTHBudWVpLWJfSkQ5RkJiay1FeWRtYzJmUnpRMEFzeXZzWlZqcDBqOUNmcE05cm54cnNhU0EwU2prTXg1Ml9tdUdlcGxHbWhXZXliZVV2WjZYWDlGSHVBcG1HNTVuUG1XX3F0a3FwWWQ3NFdDaG1FanlCbFcyT3dlTzZhRGx6TWJpZGxZbWJuVVctQ2tOdjl6NWc5enMwWm9EOWNxcjdYU2xXdU03YVBRa2RWblBkclF4RzNSMGV1MFNHQWxQUm81SmlvX0pGWE9MVW84?oc=5",
    "ts": "Sun, 01 Nov 2026 18:00:43 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
+   "ts": "Thu, 05 Nov 2026 03:50:00 GMT"
   },
   {
    "src": "gnews",
@@ -418,12 +425,6 @@
   },
   {
    "src": "gnews",
-   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Red Lake Nation News",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNnNxT2Vza3RueGZuTjJsNThzclphVHdLYWs2ZG9Ca0lBbHhuZ2ExYjNHTnVpZE5EdWxtTGJFNjdSMnBCbFNmU0JsZHIzWWxVRUFqZ3lqbDlGTkEtMVBvSFE2WmMtOHRqTnlWazJoYTIycHdIQk92NFQxVE9kMjdXS0ZzOEstR2pxYzR5bkVwRmpybEQ5QXJkNUhmRkFQeTFXSEFONG14ZUktYzdKc1pyTWluVVo2dHRYa2QwUkt4RjUyck1zTUpnR1BGUm1fa1RMSE1pSE1EQkV2ZVRpMWg1UldYNDVBZlk?oc=5",
-   "ts": "Thu, 05 Nov 2026 02:55:42 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump Has Shifted the U.S.-Pakistan Relationship - Foreign Policy",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbTZ3Q2pYcGlJSXM3M0ZrSzNrYkNiVnE5bFItUmRlbGx4d2NmU19IdUNkSWhZNkVsZWtFaDNrNHlSTElUWTVhbW1JbzctZVJJQlRuRXlsa3liVFVIaC1ZQjV2anRSOGtpM09YYUU0LWpHcFl5V2VNN1laY3FDcW43TlFpVWE4ZzVj?oc=5",
    "ts": "Wed, 04 Nov 2026 23:25:48 GMT"
@@ -442,6 +443,12 @@
   },
   {
    "src": "gnews",
+   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Red Lake Nation News",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNnNxT2Vza3RueGZuTjJsNThzclphVHdLYWs2ZG9Ca0lBbHhuZ2ExYjNHTnVpZE5EdWxtTGJFNjdSMnBCbFNmU0JsZHIzWWxVRUFqZ3lqbDlGTkEtMVBvSFE2WmMtOHRqTnlWazJoYTIycHdIQk92NFQxVE9kMjdXS0ZzOEstR2pxYzR5bkVwRmpybEQ5QXJkNUhmRkFQeTFXSEFONG14ZUktYzdKc1pyTWluVVo2dHRYa2QwUkt4RjUyck1zTUpnR1BGUm1fa1RMSE1pSE1EQkV2ZVRpMWg1UldYNDVBZlk?oc=5",
+   "ts": "Thu, 05 Nov 2026 02:55:42 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Democrats’ midterm victory means more obstacles to Trump’s trade and EV agendas - Automotive News",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN2pTRFg4WGE2TDl2bFVsZW1ENEk1NUJmcnJtU2VKckptZU51OXptQk5ONHR2bS1BQkxsbTFhZllwX25sd2U1TWFackp0c2ZCSVluTGc4MVg5MHUtOGR2TFpyaHR1d3g2WXFGOGVpT3MzNzR2VXlVcG9rRnBGcXlHckFtSkg3bC13a3c?oc=5",
    "ts": "Wed, 04 Nov 2026 15:53:00 GMT"
@@ -451,132 +458,6 @@
    "title": "China’s soaring chemical exports threaten new trade war front - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
    "ts": "Mon, 02 Nov 2026 06:43:12 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China Formalizes Used Aviation Parts Trading Framework - Aviation Week",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOThxZ19Ub0Fqc3VLUlR2S0otZktoX2xTWWpOQ0dQU2JhalZiNkhTcXRiLW9NeEg5TXZZRENmVjBtUUNRQ21UcUsxNWhMZk1SdzJpMVFrY21fMFJ4RXYwX2VrNU16eDlVekRFY2lncHo4RlJtcmJudUhZQjMzT3pRZ2hHWU0waFBpZVR2cjdBeEczN1hCQ2gwWmd3UUtJTVVJV0M3ZGw2cmg?oc=5",
-   "ts": "Wed, 04 Nov 2026 23:34:26 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Beware the  Red Mirage  if California Republicans Have an Election Night Lead",
-   "url": "https://www.northcoastjournal.com/news-2/news-blog/beware-the-red-mirage-if-california-republicans-have-an-election-night-lead/",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Midterm Elections Live Updates : Ossoff Retains Georgia Senate Seat , as Polls Close in More Battlegrounds",
-   "url": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/were-watching-several-areas-in-texas-as-polls-close-there",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Democratic Sen . Jon Ossoff cruises to re - election in Georgia",
-   "url": "https://www.nbcnewyork.com/elections/georgia-senate-race-2026/6567183/",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Drone Boat Maker Saildrone Wins Protest Over Navy Contract",
-   "url": "https://www.nytimes.com/2026/11/03/us/politics/drone-boat-maker-navy-protest.html",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US midterms in charts : What the data tells us",
-   "url": "https://www.dw.com/en/us-midterm-election-results-how-americans-voted-and-what-the-data-tells-us/a-79841886",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Cost of living , economy and unhappiness with Trump job performance among early voting takeaways",
-   "url": "https://www.wthitv.com:443/2026/11/03/cost-living-economy-unhappiness-with-trumps-job-performance-among-early-voting-takeaways/",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US to cut Israel military aid by end of year , Trump says",
-   "url": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Election Day 2026 : Photos from around the country",
-   "url": "https://www.wxxinews.org/npr-news/2026-11-03/election-day-2026-photos-from-around-the-country",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "有色 / 贵金属 | 11月份若黄金出现反弹契机 银铂钯价格也将会有所修复 _ 东方财富网",
-   "url": "https://finance.eastmoney.com/a/202611043920988388.html",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "DOJ extracts $1 . 5M from bookstore as Senator wife accused of  exploiting  Trump program",
-   "url": "https://www.rawstory.com/doj-2678215691/",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "트럼프  이란 방공시설 완공 직후 타격 … 게슘섬 공습 인정한 듯 - 국제ㅣ한국일보",
-   "url": "https://www.hankookilbo.com/news/article/A2026110408130001288",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "DOJ sends letters in Alaska spoiler candidate probe",
-   "url": "https://www.suncommercial.com/brazil_times/news/national/article_b0568233-6c47-5536-add2-cb46e860a7e7.html",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ενδιάμεσες εκλογές ΗΠΑ : Οι κάλπες κλείνουν , βγήκαν τα πρώτα αποτελέσματα - Τι θα σημάνει τυχόν ήττα του Τραμπ",
-   "url": "https://www.efsyn.gr/kosmos/1502405/endiameses-ekloges-ipa-oi-kalpes-kleinoyn-vgikan-ta-prota-apotelesmata-ti-tha-simanei-tyhon-itta-toy-tramp/",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Jon Ossoff wins reelection in Georgia , easily defeating Republican Mike Collins",
-   "url": "https://www.wxxinews.org/npr-news/2026-11-03/jon-ossoff-wins-reelection-in-georgia-easily-defeating-republican-mike-collins",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "트럼프 , 이스라엘에 연간 5 . 4조 지원 중단 선언",
-   "url": "https://www.heraldk.com/article/2026110316160472590",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "CIIE primed for a record ninth edition",
-   "url": "http://europe.chinadaily.com.cn/a/202611/03/WS6aea00a0e4b06d4aa0566db5.html",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "A referendum on Trump , election monitors and a Democratic shift : What to watch on Election Day",
-   "url": "https://lazer993.com/news/030030-a-referendum-on-trump-election-monitors-and-a-democratic-shift-what-to-watch-on-election-day/",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Early Exit Polls Show Voters See Midterms As A Rebuke On Trump Administration",
-   "url": "https://wrak.iheart.com/content/2026-11-03-early-exit-polls-show-voters-see-midterms-as-a-rebuke-on-trump-administration/",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US midterms : JD Vance says administration fought replacement of American workers with lower - wage foreign employees",
-   "url": "http://www.newyorkstatesman.com/news/279410172/us-midterms-jd-vance-says-administration-fought-replacement-of-american-workers-with-lower-wage-foreign-employees",
-   "ts": "20261104T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ΗΠΑ : 6 στους 10 ψηφοφόρους διαφωνούν με τον πόλεμο του Τραμπ κατά του Ιράν",
-   "url": "https://www.in.gr/2026/11/04/world/ipa-6-stous-10-psifoforous-diafonoun-me-ton-polemo-tou-tramp-kata-tou-iran/",
-   "ts": "20261104T013000Z"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-05T23:15:21Z",
+ "ts": "2026-11-05T23:30:22Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -365,6 +365,12 @@
   },
   {
    "src": "gnews",
+   "title": "China ready to expand US farm imports – on 1 condition - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOU5wSHZoRmtZT3ZwREIwYWVBQzZYQmR6UDd1Z0hpSUdPM3lCWURJU19ITG54dkQzbW54TjlmaW8tenFxbjQ3Vnc0UkpqRmlvQ295YjBmYnhLSk1NR3VvNkdfSkxJc3ZtZWxmZ1ZzcDcza1ZBVER6eGdhdnJNQnltc1lmWU02MzdlWHZjTXNja0FMdERFYUlkeXR1WHN4dWRqeHI2c1NGX3phX0JKZFRTNkVoSmtsRUQydGVQdzR5VnN5VmFBYjBSVVpTOTBxR1lrLXhLclBVY0fSAdgBQVVfeXFMT2VuYl9iTGJ5Um9ZcXFmczdEUHdkWENMRDY5RlhKVDZTbmJkWlB0UXRWemdKQU1Eb09vbDc0MWx6YmtLUUFlLUpYOUc5QnBtaWpDY3hWdTJ5aEN2Tm5LRXVkSkFZS0ZkVGN3TnhrWVlFREZ6VWVjcWxKV25vVkNUOHMxOEp1Ul9DdG5hRm1vR0dSNDBYck1JNGl5Q01ZdEZuYl9EN0NDeGpQMHRNel9NRzZvSHBrVDY1cUVKNEh3MW85eG1NVHh5b1JGdEc5QWo4b2piRTJPZU9X?oc=5",
+   "ts": "Thu, 05 Nov 2026 12:00:21 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
    "ts": "Thu, 05 Nov 2026 03:50:00 GMT"
@@ -377,15 +383,15 @@
   },
   {
    "src": "gnews",
-   "title": "China ready to expand US farm imports – on 1 condition - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOU5wSHZoRmtZT3ZwREIwYWVBQzZYQmR6UDd1Z0hpSUdPM3lCWURJU19ITG54dkQzbW54TjlmaW8tenFxbjQ3Vnc0UkpqRmlvQ295YjBmYnhLSk1NR3VvNkdfSkxJc3ZtZWxmZ1ZzcDcza1ZBVER6eGdhdnJNQnltc1lmWU02MzdlWHZjTXNja0FMdERFYUlkeXR1WHN4dWRqeHI2c1NGX3phX0JKZFRTNkVoSmtsRUQydGVQdzR5VnN5VmFBYjBSVVpTOTBxR1lrLXhLclBVY0fSAdgBQVVfeXFMT2VuYl9iTGJ5Um9ZcXFmczdEUHdkWENMRDY5RlhKVDZTbmJkWlB0UXRWemdKQU1Eb09vbDc0MWx6YmtLUUFlLUpYOUc5QnBtaWpDY3hWdTJ5aEN2Tm5LRXVkSkFZS0ZkVGN3TnhrWVlFREZ6VWVjcWxKV25vVkNUOHMxOEp1Ul9DdG5hRm1vR0dSNDBYck1JNGl5Q01ZdEZuYl9EN0NDeGpQMHRNel9NRzZvSHBrVDY1cUVKNEh3MW85eG1NVHh5b1JGdEc5QWo4b2piRTJPZU9X?oc=5",
-   "ts": "Thu, 05 Nov 2026 12:00:21 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump's political humbling signals short-term gain, long-term pain for China - Al-Monitor",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQamJpRm10Y0pmUU5wcnp4NXR3OUd4bEFuWkRfWnVfb3VmbXJ2eXlnb1JvQUV0cmhhRzFWd3NfdlUyTENlNFNGV2JmcDNILXFKQjRoa1daTHdGbmVqT29kYjVfWmRtOU05LVpQVDU1S1h2QkNzWWRHdVdabEhaby01NVYzaXcxc1dyOGh2aVRidnBENWUxMDBYbEVKQ1VwSTRNYjk1NEZVUEh4QXV3ZDQ0ZFQzQXB1UQ?oc=5",
    "ts": "Thu, 05 Nov 2026 12:50:25 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues - Ottumwa Courier",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQS2FXbmk0a1A4VE9lNnhQTV81elFYYjFPcVM5U1VKTjJYMlRJVHhtM1M3SzBHN0FUakZiLVdzeEtXdXdzcFhUZ1p4ejdaS2ZoTGo5R24tTU5BY2hTU1Bwb3hCVXlWZkdJQ2h2QW9adVdsQzFVd2dtcUktN1A0NmhzeTJTRXBGQlVZMVd4N0hLdWRoUW8xT3NPcGJOWkJLLTRwWHBFcG1RVk1uYTdmYUYyb3hzMW04LXFuTFNiVS02ZFV6emVIMXZQdWV3d3NSRHkwWXRoV1dSSHAzV0ZSVjQ5T0lRT09tYXA5T3ZZSGMyRFBQTC16Y0xGMl9qdVdWeDk4RU5VUFVNOA?oc=5",
+   "ts": "Thu, 05 Nov 2026 22:23:48 GMT"
   },
   {
    "src": "gnews",
@@ -407,21 +413,15 @@
   },
   {
    "src": "gnews",
-   "title": "China’s Vice Premier Pushes Back on Trade Barbs at Import Fair - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb0FFaVB1d3dvTGo4TV9taV9RVWM2YTd0djk1bEM5MUdDOFNvZWxHdDNTTzdIQUZ3amlEWDcxLVVUUzVQWGZKOWZKVktlUTRBcnB6VWlUTlJtZUVxS3NEbFlIeFRkVnZ6a3ZiTUlUbG83QlQ1VEM1ck9NZHEtcUlLam9SR2o4RGw1ejFjOVoyZFRESkZZa2FEOUFqOFVOTUJWS052c0VMckM2cmxpNFppSkpsUQ?oc=5",
-   "ts": "Thu, 05 Nov 2026 03:48:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China Ties U.S. Farm Purchases to Tariff Cuts as Trade Uncertainty Grows - AgroLatam",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWlBtcGthejNNdlRGTlVCbWVjSXpEbHctTXBJblR3S0JBdUdjaGQzdWlVcHk2bkY4MERpV1FCZzBLWURLcmN2N0VLOTVVLUZIYVdkOW42Ty1fZm9vQmg3VjBEaUtOMWdxR1NHckFsYzJnZklkUE5nSEVER0dWSVh6R0VB?oc=5",
    "ts": "Thu, 05 Nov 2026 12:19:25 GMT"
   },
   {
    "src": "gnews",
-   "title": "U.S. Midterms: What the Blue wave means for Canada - RBC",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb3VhQnJ4Wk81ZjNwaTRyU202ZDVfZVdPcTZFSnk1ZktmWHVkUUZVNWoxaDdQWFdWY2RxXzNkRzlaNUY5Q2FyZFdidUpRUmEtQWtMTTdHeGY4MDRfcUFCay1nbmNKTkVYVmcxX2pTWEU0OVFkX0N5SVl3ak1ScGJZQ0NkZE1OVlVBMnlTYkdTckxYa3loRUVYamdKaGNkRllxTFRMc1k5aFBERXp2VDF2OWl1OVkyanNpU1VxV0p2bUdTZjg?oc=5",
-   "ts": "Thu, 05 Nov 2026 18:03:56 GMT"
+   "title": "China’s Vice Premier Pushes Back on Trade Barbs at Import Fair - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb0FFaVB1d3dvTGo4TV9taV9RVWM2YTd0djk1bEM5MUdDOFNvZWxHdDNTTzdIQUZ3amlEWDcxLVVUUzVQWGZKOWZKVktlUTRBcnB6VWlUTlJtZUVxS3NEbFlIeFRkVnZ6a3ZiTUlUbG83QlQ1VEM1ck9NZHEtcUlLam9SR2o4RGw1ejFjOVoyZFRESkZZa2FEOUFqOFVOTUJWS052c0VMckM2cmxpNFppSkpsUQ?oc=5",
+   "ts": "Thu, 05 Nov 2026 03:48:00 GMT"
   },
   {
    "src": "gnews",

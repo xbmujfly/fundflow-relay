@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-05T04:00:28Z",
+ "ts": "2026-11-05T04:15:29Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -395,15 +395,15 @@
   },
   {
    "src": "gnews",
-   "title": "Democrats’ Election Victory Raises Canada’s Hopes of US Tariff Relief - Morningstar",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcEtvdUt2VWw0emFoWGFxSE5tQXZpMnJYUTNQNFZ1Mks2Rm9VLVB6SnJ0cDJ4VDNzVEE1Ym1OS1gyWEVCd2g3NG1LWnlqa3VHZlFCZ3FybllSX3ljSWNpUmh5NHE1ZElSRkQ1RV83enhrY1VmRTZ2S3NyYUkwMmdVQmdoYWc5RlY2M2EtQk9WV1c2b0ZjaE5JdlB6NUFrbGhsNHd3NWgyelZkZzg4bWc?oc=5",
-   "ts": "Wed, 04 Nov 2026 22:49:05 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump Removes South Africa From the African Growth and Opportunity Act Trade Program - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFRqMVNkZnhKUEh5MFhnY3NwbDlqMWN2cXM1U2JuZzBYNWNQejFVb1VkVTB4M1BmQzJLOGUzZmNaLThZaV9QRXRwaGVqOUhQT1dxZnpiYnNzYXhRcHBja01jTTRkMzMyVWFzNEpnQTZPVlZsYUVvb2ZSblNWdjVCcnZmc3VYMHR1b1Fsd3gwZmhrOWpG?oc=5",
    "ts": "Mon, 02 Nov 2026 19:14:50 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Democrats’ Election Victory Raises Canada’s Hopes of US Tariff Relief - Morningstar",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcEtvdUt2VWw0emFoWGFxSE5tQXZpMnJYUTNQNFZ1Mks2Rm9VLVB6SnJ0cDJ4VDNzVEE1Ym1OS1gyWEVCd2g3NG1LWnlqa3VHZlFCZ3FybllSX3ljSWNpUmh5NHE1ZElSRkQ1RV83enhrY1VmRTZ2S3NyYUkwMmdVQmdoYWc5RlY2M2EtQk9WV1c2b0ZjaE5JdlB6NUFrbGhsNHd3NWgyelZkZzg4bWc?oc=5",
+   "ts": "Wed, 04 Nov 2026 22:49:05 GMT"
   },
   {
    "src": "gnews",
@@ -439,7 +439,7 @@
    "src": "gnews",
    "title": "From Iran to trade: how the US midterms impact the rest of the world - Reuters",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMk5tUl8yRml4eVVXZThHYnhwejMtb3VqUTR6c3lIel9CUjlQYnprMFdJOGRkY1BvcXU5eS0zeEg3Wnc3bHhPTnYyMms5bmpYVmxUVGNpeEJzZGhLUUVWcWY2dDhZTXBOR1pSRldGRUZyeGVkMU5RMkREejBqLUh5Y1IzTklIRTdHeUtweFh0SWVocUZuYlNmNTg5ZGFDa3c?oc=5",
-   "ts": "Wed, 04 Nov 2026 19:40:29 GMT"
+   "ts": "Wed, 04 Nov 2026 12:40:00 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "China’s soaring chemical exports threaten new trade war front - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
-   "ts": "Mon, 02 Nov 2026 06:43:12 GMT"
+   "title": "Europe’s Deal Limiting Chinese Auto Imports - Council on Foreign Relations",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03TUdiZE8ydWpvRTRfLTh0Mm83anh5ZEpQQkthaUpiSkNUX3UyYVBfWVhOeTdnS2Z5UnppU1BvUVRjMnNzck1IQ1BwTlpaYXVUa1lKWWQ4THV3Y2tBeUdUc2xn?oc=5",
+   "ts": "Mon, 02 Nov 2026 16:02:55 GMT"
   }
  ]
 }

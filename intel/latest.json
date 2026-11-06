@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T10:01:07Z",
+ "ts": "2026-11-06T10:15:57Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -413,27 +413,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war slows growth - Ottumwa Courier",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQcmwyck44Qm9peC1CRldZdlN2aGd2dGxDUU05QzFyMlV6MUxpbDd2dzd3VjFFQmR5U0l2RzU1LUozQlBWd2RfLTM4bEg0V2M2T2VnWm1hX25QYXM2eWRYZ2xQTzNteVFMSzJ2VjhBMVhhYjB4N1JJcGpyUGpJMW9pWnp4WW1JNkwzWllPQTVjYldIOEhhMWFDdFpyV3dUaUYzOTEzaTJuN1h1dC1rV1lxMi00Z21NaEhGWm9rZlh0REIzUFZSTnZjb0lYeVB4Mmlpd002X1lPNW1YdEMzZ2s2bk8xQ0FkSWZxaVk1VHFOd3hYREtUcnJlN1Y2ZDBnUWd6SER0MHhDd3EtRjA?oc=5",
-   "ts": "Fri, 06 Nov 2026 01:24:29 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Republicans ran away from Trump's Canadian tariffs, but not far enough - CBC",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUG0tcW9xM1BaZ2RJcHVlVEthUUN4Q2g1ZkowZk9acjh0ZXlUWkFJVTh0ZDFJWDd5S3JIc09XME1oTllrM1JnZXd0Zm9NTzJUZHNsNHBVeEc4Rkd6N29vOG4xTENCVHphS3lfZ3lTT21waGx6VUU5SWFOMV9OaHk5MEFSems3ZGx6SWUtSXVDb0VxUFhWNmc?oc=5",
    "ts": "Fri, 06 Nov 2026 09:00:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
-   "ts": "Thu, 05 Nov 2026 03:50:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "EU-China truce under strain as both sides brace for potential trade war - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjVtNGU1dEM3bzhWMDFrSVNJdEhyajJKSG1sS1pUWGdBX084eVRkQ2x6MGd5RWV6bm5GTE9xbVdZRHhZR1M3UzYwekh0MGZOXzJJcTRzUmtlZjN3LU1qMHNPTkhUQmE0Zm5QLXEzLWMtcXUySFotUS1VV0luZzdyUE1acVdtd0VUZC1LaWJSMkV6dThfVWZ1SGxDQWJZZ29zcUY5STREX2pRd3g3Z1pRbVg5c3Q2VVhYU0HSAboBQVVfeXFMTzFXVmdua3JUbjNFTGZWT2o3VjdVUVBmQXVKSWI3VmJmZkJhVTl1ZFBpZm5KZU0xNXB1bktfNDJxMWlQTk1QQWVGdnJ1SE10NHZwVWtlQWxaOE5FMmZnQi1QX0tMQVZVdkFQSjFBOXA2YzVweTJHaGJiMF9nNjdBNmFSWnNpWDlaVUFoaC1ZbW1SSmlkbTVXRUxEaElYTUhTYTFpQXZDU282cEJKWk1hVUpYNWtYd1ozLWhB?oc=5",
-   "ts": "Fri, 06 Nov 2026 04:37:57 GMT"
+   "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war slows growth - Ottumwa Courier",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQcmwyck44Qm9peC1CRldZdlN2aGd2dGxDUU05QzFyMlV6MUxpbDd2dzd3VjFFQmR5U0l2RzU1LUozQlBWd2RfLTM4bEg0V2M2T2VnWm1hX25QYXM2eWRYZ2xQTzNteVFMSzJ2VjhBMVhhYjB4N1JJcGpyUGpJMW9pWnp4WW1JNkwzWllPQTVjYldIOEhhMWFDdFpyV3dUaUYzOTEzaTJuN1h1dC1rV1lxMi00Z21NaEhGWm9rZlh0REIzUFZSTnZjb0lYeVB4Mmlpd002X1lPNW1YdEMzZ2s2bk8xQ0FkSWZxaVk1VHFOd3hYREtUcnJlN1Y2ZDBnUWd6SER0MHhDd3EtRjA?oc=5",
+   "ts": "Fri, 06 Nov 2026 01:24:29 GMT"
   },
   {
    "src": "gnews",
@@ -449,6 +437,12 @@
   },
   {
    "src": "gnews",
+   "title": "EU-China truce under strain as both sides brace for potential trade war - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjVtNGU1dEM3bzhWMDFrSVNJdEhyajJKSG1sS1pUWGdBX084eVRkQ2x6MGd5RWV6bm5GTE9xbVdZRHhZR1M3UzYwekh0MGZOXzJJcTRzUmtlZjN3LU1qMHNPTkhUQmE0Zm5QLXEzLWMtcXUySFotUS1VV0luZzdyUE1acVdtd0VUZC1LaWJSMkV6dThfVWZ1SGxDQWJZZ29zcUY5STREX2pRd3g3Z1pRbVg5c3Q2VVhYU0HSAboBQVVfeXFMTzFXVmdua3JUbjNFTGZWT2o3VjdVUVBmQXVKSWI3VmJmZkJhVTl1ZFBpZm5KZU0xNXB1bktfNDJxMWlQTk1QQWVGdnJ1SE10NHZwVWtlQWxaOE5FMmZnQi1QX0tMQVZVdkFQSjFBOXA2YzVweTJHaGJiMF9nNjdBNmFSWnNpWDlaVUFoaC1ZbW1SSmlkbTVXRUxEaElYTUhTYTFpQXZDU282cEJKWk1hVUpYNWtYd1ozLWhB?oc=5",
+   "ts": "Fri, 06 Nov 2026 04:37:57 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "‘More carve-outs’? How the midterms could affect US trade policy on China - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb05DX3U3cmVhWTVRVTRQbkdqRTB3RzhFdlhfeWxGckw1cl93bjJXMkwwLTJURUxuRUI1eUNDTm5SVE1FQmtFNFRhaXVXQnJtbjAyNkI4VFQ0NWdkZnplRHZhdVBBSTNpT09mWlgyTVFrRzdBX2dMS0VycDBjcnpPdnVBSWE1RmlxY1M3TjdkdUVJc2RPWGN5cUljMVJvZnJPVnFKSjFMONIBpwFBVV95cUxNWG1faG9kV1ItTlIyLTlfeXdETldlcFlPRXJfLWJxdy1tcFVTSTU5MTBmSkpuVjROVmtQMGZYcXpLZmpLTl9tY294QVRrYjI1enJTaThlVXUwakJqc1dhQWZKVGFXTjZxTnZGU1NSMENMeGZrQ0pyMHg3NlN1Z0NrLUZUQThXUW4xYjJOc0k3UnlMVVZsRlpwZjR4ZGdsUEVUQWhBcWVicw?oc=5",
    "ts": "Wed, 04 Nov 2026 14:00:09 GMT"
@@ -458,6 +452,12 @@
    "title": "Trump’s Israel aid cut reveals push to trade grants for tech cooperation - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWVjaHppWEFpSllMX3dJNnM4bDV5TmdZeXZseWJCY1BieVhLQVRqem85TDBTNnFfaURrY3dsQnNfVWJYQlZPUDNIZDlSWU5ickkwMS1uOWhuX00yZHo5REFTbzdjQmh4bkNnSW1kZWVFTENsdlRJcFloNmtiOXJtM0hyWkg1ZWsxZ2daeUZIaVJ4Vjd6RmlyTEFCcmhKSE8xeG9YMU5BQjgwN1pMM0JlcUZ4Y1N1ZWdpWm04VtIBvAFBVV95cUxQbWNGQXZOYkNURFU5WHZ6T0NIelBDYnEtN1JtQVFzVDZFeHZXci1ueW8xRkM4QWhrZnJEYS0tMWhSdUNYbHY3YmlmNGxDMEk2dVpLRXdEUUVmR3pJeXdLd0d2WV9HeC1Xd2VvQ2ZvNHFiQUh5WjgzcnFuakJLaVZCMUF6VzJhcElqaWFoQi1vd2toTjhLU08xdC1FckV5dk1iTDZVT2I2Y3pfenBET0lQay1rdHJobXdDSENMYQ?oc=5",
    "ts": "Fri, 06 Nov 2026 05:00:29 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
+   "ts": "Thu, 05 Nov 2026 03:50:00 GMT"
   }
  ]
 }

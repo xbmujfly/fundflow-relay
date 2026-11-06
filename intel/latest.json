@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T12:01:05Z",
+ "ts": "2026-11-06T12:16:00Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -341,9 +340,9 @@
   },
   {
    "src": "gnews",
-   "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjlHb2U1LVBiU29ZOGVGTnhubkJZUUF3ejRLQy12ejROd1lIaVMzTS1hVEVqMWx2Z3VQMmcxakItTzNzQVJ2WU1qN2tCUWNCMkUtVi1Od0FyejlRVUNTb01ZX29WUGwxU0g0RlFrU09Mc0lQZlZuaFNGVTdiUTBEQW5VM28xcFd6a2k3RW5GNGJlZktPRG5zbFB6a0hFOUpLRWNhSU9WaGg4LTRUOVBWSmxtWG5zd9IBuwFBVV95cUxQUFFsbWN1ZmxlNWRuaFAxaXBqUTJLVjFDX2M5Ui15TjhSeGpyRjN5NVZMZ01TNlVWX2NGU0tGVThHSE5jZVhFdFowSVhMTjNVdmVEd1NwbU1DcFVOaHVaWmwxOG10WWJKSnVVVmhFZGhLa0J0MkMzV2Jock1UdXFtekpKeXAtaDJPWjlfaXhueHpnWW8wcjBwUXNCRGRLVFoyQUREblVacG5QSjZrU3hkQmN6V0RCUmhmZUpv?oc=5",
-   "ts": "Fri, 06 Nov 2026 04:06:34 GMT"
+   "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnlsdF9sNDNwY0VTbjBVa1QwUmFYZXJQUWhfcEdtSF9NUWFlNS1KOTh5RW1EcXQ3NUpsVnFVazZsSmRBZ01pUkRkVFRRTXlvWkcxUjFzYVlMa2d3YmZqaWs0dXBzLTBWNE5MZ19wWW1LQldvbFJSNUM4MzBnUUZsYVlDczRmLWI3UnZ2WTFxT1VwWkFWZHBUdXYyUWlZeE9XSWVxTDhSSmxyUktGb0dIaXMyUnJqdw?oc=5",
+   "ts": "Fri, 06 Nov 2026 11:24:53 GMT"
   },
   {
    "src": "gnews",
@@ -353,9 +352,9 @@
   },
   {
    "src": "gnews",
-   "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnlsdF9sNDNwY0VTbjBVa1QwUmFYZXJQUWhfcEdtSF9NUWFlNS1KOTh5RW1EcXQ3NUpsVnFVazZsSmRBZ01pUkRkVFRRTXlvWkcxUjFzYVlMa2d3YmZqaWs0dXBzLTBWNE5MZ19wWW1LQldvbFJSNUM4MzBnUUZsYVlDczRmLWI3UnZ2WTFxT1VwWkFWZHBUdXYyUWlZeE9XSWVxTDhSSmxyUktGb0dIaXMyUnJqdw?oc=5",
-   "ts": "Fri, 06 Nov 2026 07:32:00 GMT"
+   "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjlHb2U1LVBiU29ZOGVGTnhubkJZUUF3ejRLQy12ejROd1lIaVMzTS1hVEVqMWx2Z3VQMmcxakItTzNzQVJ2WU1qN2tCUWNCMkUtVi1Od0FyejlRVUNTb01ZX29WUGwxU0g0RlFrU09Mc0lQZlZuaFNGVTdiUTBEQW5VM28xcFd6a2k3RW5GNGJlZktPRG5zbFB6a0hFOUpLRWNhSU9WaGg4LTRUOVBWSmxtWG5zd9IBuwFBVV95cUxQUFFsbWN1ZmxlNWRuaFAxaXBqUTJLVjFDX2M5Ui15TjhSeGpyRjN5NVZMZ01TNlVWX2NGU0tGVThHSE5jZVhFdFowSVhMTjNVdmVEd1NwbU1DcFVOaHVaWmwxOG10WWJKSnVVVmhFZGhLa0J0MkMzV2Jock1UdXFtekpKeXAtaDJPWjlfaXhueHpnWW8wcjBwUXNCRGRLVFoyQUREblVacG5QSjZrU3hkQmN6V0RCUmhmZUpv?oc=5",
+   "ts": "Fri, 06 Nov 2026 04:06:34 GMT"
   },
   {
    "src": "gnews",
@@ -389,27 +388,27 @@
   },
   {
    "src": "gnews",
-   "title": "Carney unveils budget to strengthen Canada’s economy as Trump’s trade war slows growth - The Seattle Times",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzQ3bkk3c3pkczhEU010X29jSUN3U1ltcmllcU12WXpGclBWRWFWdGltTlpnSTlZWkVKQ3lDUC1lTmZXTHhOLU4wNlJsY29sMzlxV0psVTJpaktwVkVHS1dsNm11YTFwUmhDenhUSFdlVTN1Yy1jOFJuRnUzMTdOZlg2UTI1R2tyMDB2SUFjTkEyV1J3Z2xUVm5BQ2pyRmRkQk1IVnJ2N3dyMGwxbXBLVkZrZ1ZvMFVwdUVHLQ?oc=5",
-   "ts": "Thu, 05 Nov 2026 22:24:04 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
    "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "How China Accidentally Broke the West’s Monopoly Over the Weapons Trade - CounterPunch.org",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMVNyUGFhZHUwekprcDhfOWxUQzkwLWI2SkZTTEtGY3l5Rk0xeExHTGdyZGphcEpFdjlSWVk2SXk5Vk51Smx2ZnNqVzRIb1YtUGVxVGVsMkxIZnB2NnBQcTc2NTVNbXBGbUI2UHBSR0JwbTZubUZHTDkweDI4bEJUVXo5dlpsWVRRTlpneXRyS0h5M3prOWJXc0pLbHdQN19VTVVSOGhUVHFxYVk3UWx3Rg?oc=5",
-   "ts": "Fri, 06 Nov 2026 06:54:45 GMT"
+   "title": "Carney unveils budget to strengthen Canada’s economy as Trump’s trade war slows growth - The Seattle Times",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzQ3bkk3c3pkczhEU010X29jSUN3U1ltcmllcU12WXpGclBWRWFWdGltTlpnSTlZWkVKQ3lDUC1lTmZXTHhOLU4wNlJsY29sMzlxV0psVTJpaktwVkVHS1dsNm11YTFwUmhDenhUSFdlVTN1Yy1jOFJuRnUzMTdOZlg2UTI1R2tyMDB2SUFjTkEyV1J3Z2xUVm5BQ2pyRmRkQk1IVnJ2N3dyMGwxbXBLVkZrZ1ZvMFVwdUVHLQ?oc=5",
+   "ts": "Thu, 05 Nov 2026 22:24:04 GMT"
   },
   {
    "src": "gnews",
-   "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX09wLVNoWHpBb2JnZlNkbjJSSUZmbDZNN0JUaUJZbklHTjZ6dFJ5dWZINjRkbXNoQUgzWUVKTGZvZTlfZU9NRUZfaXY0UWpPek9vbmhVV2hkZWwzYmhpemEydU01YWhJQi1sRXBLSEpVd2QtY3EtekZXYjdLYUc3Z2xic29FUE1sR1ctZ0t0X2tkOEtkVV9PWXNHYTIxMGx4cnc?oc=5",
-   "ts": "Fri, 06 Nov 2026 01:26:00 GMT"
+   "title": "Republicans ran away from Trump's Canadian tariffs, but not far enough - CBC",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWFla0RpSXFaM3ZSOEdGakVISDdqcm5ZamlNM0VpQVRJVkFkNVl2WmZ4ZTRWdVVCaXNzSkZ2cEg2VjdxNHczY21EVkszR3gyaDJURDN2bXlXbi11dDlDM1M2T0RZTmk5ZklHNWJfS0pEeGZtbHhUTDdjR3VuS25hQkFqeGFUaGdsQjNz?oc=5",
+   "ts": "Fri, 06 Nov 2026 09:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "How China Accidentally Broke the West’s Monopoly Over the Weapons Trade - CounterPunch.org",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMVNyUGFhZHUwekprcDhfOWxUQzkwLWI2SkZTTEtGY3l5Rk0xeExHTGdyZGphcEpFdjlSWVk2SXk5Vk51Smx2ZnNqVzRIb1YtUGVxVGVsMkxIZnB2NnBQcTc2NTVNbXBGbUI2UHBSR0JwbTZubUZHTDkweDI4bEJUVXo5dlpsWVRRTlpneXRyS0h5M3prOWJXc0pLbHdQN19VTVVSOGhUVHFxYVk3UWx3Rg?oc=5",
+   "ts": "Fri, 06 Nov 2026 06:54:45 GMT"
   },
   {
    "src": "gnews",
@@ -449,15 +448,135 @@
   },
   {
    "src": "gnews",
+   "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX09wLVNoWHpBb2JnZlNkbjJSSUZmbDZNN0JUaUJZbklHTjZ6dFJ5dWZINjRkbXNoQUgzWUVKTGZvZTlfZU9NRUZfaXY0UWpPek9vbmhVV2hkZWwzYmhpemEydU01YWhJQi1sRXBLSEpVd2QtY3EtekZXYjdLYUc3Z2xic29FUE1sR1ctZ0t0X2tkOEtkVV9PWXNHYTIxMGx4cnc?oc=5",
+   "ts": "Fri, 06 Nov 2026 01:26:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump’s Israel aid cut reveals push to trade grants for tech cooperation - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWVjaHppWEFpSllMX3dJNnM4bDV5TmdZeXZseWJCY1BieVhLQVRqem85TDBTNnFfaURrY3dsQnNfVWJYQlZPUDNIZDlSWU5ickkwMS1uOWhuX00yZHo5REFTbzdjQmh4bkNnSW1kZWVFTENsdlRJcFloNmtiOXJtM0hyWkg1ZWsxZ2daeUZIaVJ4Vjd6RmlyTEFCcmhKSE8xeG9YMU5BQjgwN1pMM0JlcUZ4Y1N1ZWdpWm04VtIBvAFBVV95cUxQbWNGQXZOYkNURFU5WHZ6T0NIelBDYnEtN1JtQVFzVDZFeHZXci1ueW8xRkM4QWhrZnJEYS0tMWhSdUNYbHY3YmlmNGxDMEk2dVpLRXdEUUVmR3pJeXdLd0d2WV9HeC1Xd2VvQ2ZvNHFiQUh5WjgzcnFuakJLaVZCMUF6VzJhcElqaWFoQi1vd2toTjhLU08xdC1FckV5dk1iTDZVT2I2Y3pfenBET0lQay1rdHJobXdDSENMYQ?oc=5",
    "ts": "Fri, 06 Nov 2026 05:00:29 GMT"
   },
   {
-   "src": "gnews",
-   "title": "China threatens retaliation as EU mulls trade “kill-switch” - Euronews",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHBIVUJVUy1WX2c0dm5wZjhYWERMOU1GcGY5VDJvR1h4VlFvWGJDdzRyQVdEYzFaNEZqbERsb0VrN3FWQU9nVkhOSFdVOHZQaEN3ck05U2FuSzUtMUFtYUVwa2Q4VFh3UUNjZWVyUTc1UC02RTF6dUxHeGxURjBmc29EQWJZdjZXbnhmcXR5LUhnZk5HbktPdkUwdzFaUnJOTkp1My1OT2FuMEFKTWpzZDJ6TEViRUU?oc=5",
-   "ts": "Thu, 05 Nov 2026 11:21:01 GMT"
+   "src": "gdelt",
+   "title": "Low birth rates were emptying public schools . ICE deportations are now making it worse",
+   "url": "https://www.wsiu.org/2026-11-06/low-birth-rates-were-emptying-public-schools-ice-deportations-are-now-making-it-worse",
+   "ts": "20261106T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "США обозначили пять приоритетов на переговорах по Украине",
+   "url": "https://tvzvezda.ru/news/20261161312-hd0le.html",
+   "ts": "20261106T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Professor :  I doubt the election will prevent Trump from imposing new tariff Democrat victory offers seafood little tariff relief Trade law expert deals blow to seafood industry tariff hopes after mi",
+   "url": "https://www.intrafish.com/trade/why-democrats-win-wont-stop-trumps-tariffs/2-1-2069948",
+   "ts": "20261106T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Το Κρεμλίνο χαιρετίζει τη συνάντηση που οργάνωσε η Μελάνια Τραμπ στον Λευκό Οίκο για την Ουκρανία",
+   "url": "https://www.inewsgr.com/182/to-kremlino-chairetizei-ti-synantisi-pou-organose-i-melania-trab-ston-lefko-oiko-gia-tin-oukrania.htm",
+   "ts": "20261106T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Qatari emir , Trump discuss efforts to ease US - Iran tensions in phone call",
+   "url": "https://aa.com.tr/en/middle-east/qatari-emir-trump-discuss-efforts-to-ease-us-iran-tensions-in-phone-call/4113811",
+   "ts": "20261106T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Maine must not soften the message on Gaza genocide",
+   "url": "https://www.pressherald.com/2026/11/06/troy-jackson-must-not-soften-the-message-on-gaza-genocide-opinion/",
+   "ts": "20261106T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Иран угрожает Европе и Украине на фоне конфликта с США",
+   "url": "https://korrespondent.net/articles/4926597-yran-uhrozhaet-evrope-y-ukrayne-na-fone-konflykta-s-ssha",
+   "ts": "20261106T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Трамп обіцяє  велику , чудову угоду , яка має вийти за межі України",
+   "url": "https://www.bbc.com/ukrainian/articles/cm9wzzgdwy8go",
+   "ts": "20261106T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "End of military aid : Netanyahu office says US relations are growing stronger",
+   "url": "https://www.israelnationalnews.com/news/435771",
+   "ts": "20261106T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Prediction : Nebius Stock Will Surge 95 % in a Year , According to Wall Street . Should You Buy It Before Nov . 12 ? ",
+   "url": "https://www.fool.com/investing/2026/11/06/prediction-nebius-stock-will-surge-95-in-a-year-according-to-wall-street-should-you-buy-it-before-nov-12/",
+   "ts": "20261106T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump designates Oval Office as national monument to prevent future changes",
+   "url": "https://article.wn.com/view/2026/11/06/Trump_designates_Oval_Office_as_national_monument_to_prevent/",
+   "ts": "20261106T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Airtel restores Rs 299 prepaid plan after Q2 subscriber slowdown",
+   "url": "https://www.moneycontrol.com/news/telecom/airtel-restores-rs-299-prepaid-plan-after-q2-subscriber-slowdown-14073257.html",
+   "ts": "20261106T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Israel UN envoy says Iran war was US decision , rejects blaming Israel for economic fallout – Middle East Monitor",
+   "url": "https://www.middleeastmonitor.com/20261106-israels-un-envoy-says-iran-war-was-us-decision-rejects-blaming-israel-for-economic-fallout/",
+   "ts": "20261106T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Morning news brief",
+   "url": "https://www.kunr.org/npr-news/2026-11-06/morning-news-brief",
+   "ts": "20261106T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "19 - year - old to become of Massachusett youngest representatives in state history",
+   "url": "https://www.wyff4.com/article/billerica-daniel-darris-oconnor-state-representative-massachusetts/74355964",
+   "ts": "20261106T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Bolsas asiáticas despencam após forte baixa no setor tecnológico em Wall Street",
+   "url": "https://www.brasil247.com/mundo/bolsas-asiaticas-despencam-apos-forte-baixa-no-setor-tecnologico-em-wall-street/",
+   "ts": "20261106T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Judge blocks construction of Trump massive  triumphal arch  ",
+   "url": "https://www.euronews.com/2026/11/06/judge-blocks-construction-of-trumps-massive-triumphal-arch",
+   "ts": "20261106T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Global market downturn spreads to united kingdom and Europe amid tech sell - off",
+   "url": "https://www.cambstimes.co.uk/news/national/26704497.global-market-downturn-spreads-uk-europe-amid-tech-sell-off/",
+   "ts": "20261106T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Fox News узнал о возможном возобновлении ударов США по Ирану 9 ноября",
+   "url": "https://www.interfax.ru/world/1127400",
+   "ts": "20261106T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "19 - year - old to become of Massachusett youngest representatives in state history",
+   "url": "https://www.gulfcoastnewsnow.com/article/billerica-daniel-darris-oconnor-state-representative-massachusetts/74355964",
+   "ts": "20261106T113000Z"
   }
  ]
 }

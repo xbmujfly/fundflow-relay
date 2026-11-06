@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T14:01:01Z",
+ "ts": "2026-11-06T14:16:00Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -365,27 +365,27 @@
   },
   {
    "src": "gnews",
+   "title": "‘Speed up’: US ag exporters urge faster progress on trade deal with China - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ2JBTFRLQmMtVFAwTU5RRkJGZlI4UTU2aTAzSkdWZzRZRnpxTy1hZWxkZkgxakpfcEJRSEIxX185Y01Wa2hUaHI5WWJvM2JDaEc3N093bzN6MnVxYlh3MHBoUWZEMFh5Q2NWTlNLLUxnTkNtWk9HYTloUlFLZE10NS1zTGJCYkNzLWs3OWtISDI5UVBRb2hNMUtsR1ZiWG1wOU5RUjVJZ2tmUmhIUkRGVmFvc3ZVYUQ3TWNXbGdRZ1B1bm8?oc=5",
+   "ts": "Fri, 06 Nov 2026 14:00:11 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump Media’s investors lost $2.2 billion while Trump holds $460 million stake - Reuters",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGkzZG4yU1c4YThoQTduQWZQMlBJREw3LW8tYkd2Wnl4c29kRXZjblRCcWtCdzFuak8zVEE3Ump5WkJwajZRRV91bUhtN2QtYjNHemh6MjZMZzZ6ck9TNVFrQ2FhZWFaQTlXbkpYMDN3RnZWZ0h2Yzg2cnBfOFB3aVlILXhsUzhkeW9QY29yUWR0Mm9SN1NIUEVldzJDT1RWZmc4MlE3cXhkUHdndFRRcDZPYktSenhnRzhQR1dkSDNQV0JLMEdpenZnVHhUQQ?oc=5",
    "ts": "Fri, 06 Nov 2026 11:12:08 GMT"
   },
   {
    "src": "gnews",
-   "title": "Why Malaysia may still face trade uncertainty after US midterms - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV0stNl9hWlhtX3htN3ptVEtHSEFybjZZLXJNUWd0TFpaODdOT0FreTRpemFqbXFOSXhwQzIwVDl1dnFSdXl1eEdtUF9NTUpYNDNBcVdkRmNzSW5XV0ZkU0YyZUQyV2ZPdGM1dC10a2JlQUVuWVBwOWJwYTA2VDlzZktTbzlENUYtZFFXazlSbnJIVDJqc1VDcUdmTm1vMjUzaGxfZjZkeTRTMEFLLVpxYXJaaTc3ZEpELUpTWNIBvAFBVV95cUxPdmVUNS1fSW9OUFU3X0lJZWgzcXBfZGxjSXVaREI0R1hwZlRqejF1VmpuUXBlVmpQRnA3RTJuQ3lYVmZOUnE0TEswbVlwekE2a2pwaXYwM3hYaHlkeTJiYWRTU3BMY3RuVVhnMU54M3VBNldfa3A0VWl3ZjNMSDV3angyb3F6Zy1uLTFnNlVUTUNBd2RJTTViMFJ1U3dDTWRCc2RKTWxpeUNraUVZSmxPSm1keWtLTjZGSzI1cA?oc=5",
-   "ts": "Fri, 06 Nov 2026 09:00:26 GMT"
+   "title": "Donald Trump has taught the world that tariffs are useless - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRWFlc2hsSmNCM1NvTHB0U1ZvYmY3TnI1TFJSd3J2RDZLYmhKang5cV9Mb205czlGdVJNaEtHSUppcllUWXdUX3lLYTc4Zlpua0puRldIczJtcHkwbXZCUlFpU1hyNXNOcmg3Y1owaTlIdXJrcEF0c0lySE8tQzVZTlUwa3g?oc=5",
+   "ts": "Fri, 06 Nov 2026 11:00:09 GMT"
   },
   {
    "src": "gnews",
    "title": "Analysis | Trump’s favorite economic policy was among Tuesday’s biggest losers - The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVW1ybXNFaVdKR3V2UVVoOENIVkNscGpuVHhqZjEtR19zNVVwdFRzOFdBM1Vhc3dKcTVkZTRRUWJ2RUpUYnk4eUctZndfbzh2cDhLZlJIel92b3dTeFF4Wi0xOVZRSnVjNndUWk51XzZ1cWVJVlJfRml4NGVIV1FpTA?oc=5",
    "ts": "Thu, 05 Nov 2026 18:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Donald Trump has taught the world that tariffs are useless - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRWFlc2hsSmNCM1NvTHB0U1ZvYmY3TnI1TFJSd3J2RDZLYmhKang5cV9Mb205czlGdVJNaEtHSUppcllUWXdUX3lLYTc4Zlpua0puRldIczJtcHkwbXZCUlFpU1hyNXNOcmg3Y1owaTlIdXJrcEF0c0lySE8tQzVZTlUwa3g?oc=5",
-   "ts": "Fri, 06 Nov 2026 11:00:09 GMT"
   },
   {
    "src": "gnews",
@@ -407,21 +407,27 @@
   },
   {
    "src": "gnews",
+   "title": "Why Malaysia may still face trade uncertainty after US midterms - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV0stNl9hWlhtX3htN3ptVEtHSEFybjZZLXJNUWd0TFpaODdOT0FreTRpemFqbXFOSXhwQzIwVDl1dnFSdXl1eEdtUF9NTUpYNDNBcVdkRmNzSW5XV0ZkU0YyZUQyV2ZPdGM1dC10a2JlQUVuWVBwOWJwYTA2VDlzZktTbzlENUYtZFFXazlSbnJIVDJqc1VDcUdmTm1vMjUzaGxfZjZkeTRTMEFLLVpxYXJaaTc3ZEpELUpTWNIBvAFBVV95cUxPdmVUNS1fSW9OUFU3X0lJZWgzcXBfZGxjSXVaREI0R1hwZlRqejF1VmpuUXBlVmpQRnA3RTJuQ3lYVmZOUnE0TEswbVlwekE2a2pwaXYwM3hYaHlkeTJiYWRTU3BMY3RuVVhnMU54M3VBNldfa3A0VWl3ZjNMSDV3angyb3F6Zy1uLTFnNlVUTUNBd2RJTTViMFJ1U3dDTWRCc2RKTWxpeUNraUVZSmxPSm1keWtLTjZGSzI1cA?oc=5",
+   "ts": "Fri, 06 Nov 2026 09:00:26 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Reuters",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzNLUjBwZFJZSVE0U0NxbTVYbVotU0R1ak1zb2g1LTR2a0MtYkxVcGZFOFhZNkcza1hhTlpobGN4bU1hVmZhUGs5UFk5TC1kYWdXS181NHdZZlJGdEJMc0NNcHl5dndpaHo2SXpJcUxjeHkwVkZQTkhBX2xVVlg0eWNkZXRkcGx6NEpRQlFiLWtXdElVcllTWHhGZWxvUEREWXEzM2RocjFjbXBIbm1wOVhUSkEzOGFCb3ZMZ21WdElEU3l3em15cGZtZkdUQQ?oc=5",
    "ts": "Thu, 05 Nov 2026 01:51:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Hong Kong firms must innovate to compete in mainland China, trade chief says - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR2RpNmF3OGhfX3pvNmtqWmktZ0MzS2h6S2ZDUTBKMjNNN1FJaVVDQ1pHVzB6ekVYand3V0d0QXl4dklGZzJHS2JMNTFvS2loS0g1a0hrMi1jd0ZTRWx3SmItNXJsU01GcTVRcV82NVJXZFhxT3c4YmxRQnV3akNTa1JPczBTdTJpSDRpRnd0NGVUck9vUWgza3drNjFGZEVySDBaSEM4V3lyanRQOW92Y0RmODkyS0NQek1VZThaanVNeTZ6dC16ME5VaFp4VVVuS0V1cHVn0gHWAUFVX3lxTE1ZWFdnUnhoOS1iUVg3TTFjSm5kQ1ZMR0hYUmhzUzVBT3MzTThlVDJiMXhUeVd2cUYwbWQtWDI2N21XZE50Y0JFdUp4QWJ4RjE4QUpLeURkSEhvZXh2SEtWcmVJUFdOMmFxdlNQaUdlZVdpSDh4bzBhWEZDWFN1ckx4VU1rZ180MGpmeE1PUkdoc3A2NEFYVzlqWGtHd29zX0hHTk45VXRQTkJIQVhVYnIzaTY2cTVuV3dOTW0xYWxDMHpINFYydXE5dU90MzRxaHdTRFF1Q2c?oc=5",
-   "ts": "Fri, 06 Nov 2026 12:24:23 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "The US Thought It Could Change China. Instead, China Changed the US - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0pSV25xV3dMSlQ1RGluRWtaU0ozRUE3X1FxT21ZSzNoTWNtT0F0WXFkdXNyel83OU9GRGcwdWgyTzMtS2lROXB3cXFCTkVFdFYxZlRVY0wzeXFEWFZDdXVhZGNpeGpILUlGWnoyVWhqM0lZZTVzei1iYUIyRElvR1NSel9EUDB4TnpETFhUVkZCNjBRR2FDLXdkeWNmUVk?oc=5",
    "ts": "Fri, 06 Nov 2026 12:00:33 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Hong Kong firms must innovate to compete in mainland China, trade chief says - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR2RpNmF3OGhfX3pvNmtqWmktZ0MzS2h6S2ZDUTBKMjNNN1FJaVVDQ1pHVzB6ekVYand3V0d0QXl4dklGZzJHS2JMNTFvS2loS0g1a0hrMi1jd0ZTRWx3SmItNXJsU01GcTVRcV82NVJXZFhxT3c4YmxRQnV3akNTa1JPczBTdTJpSDRpRnd0NGVUck9vUWgza3drNjFGZEVySDBaSEM4V3lyanRQOW92Y0RmODkyS0NQek1VZThaanVNeTZ6dC16ME5VaFp4VVVuS0V1cHVn0gHWAUFVX3lxTE1ZWFdnUnhoOS1iUVg3TTFjSm5kQ1ZMR0hYUmhzUzVBT3MzTThlVDJiMXhUeVd2cUYwbWQtWDI2N21XZE50Y0JFdUp4QWJ4RjE4QUpLeURkSEhvZXh2SEtWcmVJUFdOMmFxdlNQaUdlZVdpSDh4bzBhWEZDWFN1ckx4VU1rZ180MGpmeE1PUkdoc3A2NEFYVzlqWGtHd29zX0hHTk45VXRQTkJIQVhVYnIzaTY2cTVuV3dOTW0xYWxDMHpINFYydXE5dU90MzRxaHdTRFF1Q2c?oc=5",
+   "ts": "Fri, 06 Nov 2026 12:24:23 GMT"
   },
   {
    "src": "gnews",
@@ -452,12 +458,6 @@
    "title": "Republicans ran away from Trump's Canadian tariffs, but not far enough - CBC",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWFla0RpSXFaM3ZSOEdGakVISDdqcm5ZamlNM0VpQVRJVkFkNVl2WmZ4ZTRWdVVCaXNzSkZ2cEg2VjdxNHczY21EVkszR3gyaDJURDN2bXlXbi11dDlDM1M2T0RZTmk5ZklHNWJfS0pEeGZtbHhUTDdjR3VuS25hQkFqeGFUaGdsQjNz?oc=5",
    "ts": "Fri, 06 Nov 2026 12:31:35 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Electric Vehicles Are Just the Tip of the UK’s Coming China Shock - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTWxtbVRWdjMtTDlDTVpraE15M0FlRVY0NEFES2VTSWttd21tMEx4Z0hFUEZPZER6ZFM5eEhwbkRod3NSYzRDSmplSU1IRTd4cHdTWk9CSmh6VVJpdlhMNEp1NUt5blJVU3NLZTgxQkNFNlY4Zk9HZ1JTYlBaaFg5V1lrNFM5QXVaMGxXSUtfQkhxYVZIWm1xekxNcWZ4MEdoR3BOQzJMbFA3VTFxSHFZeXREX0JVbDlqY2hz?oc=5",
-   "ts": "Fri, 06 Nov 2026 05:00:00 GMT"
   }
  ]
 }

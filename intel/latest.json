@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T13:45:59Z",
+ "ts": "2026-11-06T14:01:01Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
   }
  },
  "items": [
@@ -419,6 +419,12 @@
   },
   {
    "src": "gnews",
+   "title": "The US Thought It Could Change China. Instead, China Changed the US - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0pSV25xV3dMSlQ1RGluRWtaU0ozRUE3X1FxT21ZSzNoTWNtT0F0WXFkdXNyel83OU9GRGcwdWgyTzMtS2lROXB3cXFCTkVFdFYxZlRVY0wzeXFEWFZDdXVhZGNpeGpILUlGWnoyVWhqM0lZZTVzei1iYUIyRElvR1NSel9EUDB4TnpETFhUVkZCNjBRR2FDLXdkeWNmUVk?oc=5",
+   "ts": "Fri, 06 Nov 2026 12:00:33 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Watch EU Chamber of Commerce in China On Trade Amid Tensions - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQnNDOUpiSkM2Tkt4V0JhbElyTHlDdTZ2UkkxS18zSEN1YWt5cTJHUlVTNWhmYXBPSm0xWDlDeWdzN3FVZzE4ZVlnVy12ZVF1ZHdscU0wWUowakdsMEIxU1lscUVpTV9kRXc2T3JfV0pnblY3TnRLX2ViX0Z4a295OVZDOFJTcGNPZ1ZVVWpMV1pkWWVwX2d0S0tsbjYzUVM0aTBKakNSTUN5NTQ3UGc?oc=5",
    "ts": "Fri, 06 Nov 2026 00:00:00 GMT"
@@ -428,12 +434,6 @@
    "title": "China says US farm purchases hinge on tariff-cut deal - Reuters",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjZCZGJiUVFJRkdBeU1DaTExb3FMSmdaLVRuLTRrQWNnd3F5MDg1YnZlTUZfclBPRWhQZXdlbWxEakVXdlNidWVWbmhFcGZTVEpSOWlJSE1FTHhOWTVlUXkwSG5rTXRNTDE5ckRWTzhnYmx3LVVJSDE2S2JNQW9CTUNFanlFNWlqMkJWdFZTMzU0VnpzX2tua25aQS0zNTdsUDNRRA?oc=5",
    "ts": "Thu, 05 Nov 2026 10:05:05 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "The US Thought It Could Change China. Instead, China Changed the US - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0pSV25xV3dMSlQ1RGluRWtaU0ozRUE3X1FxT21ZSzNoTWNtT0F0WXFkdXNyel83OU9GRGcwdWgyTzMtS2lROXB3cXFCTkVFdFYxZlRVY0wzeXFEWFZDdXVhZGNpeGpILUlGWnoyVWhqM0lZZTVzei1iYUIyRElvR1NSel9EUDB4TnpETFhUVkZCNjBRR2FDLXdkeWNmUVk?oc=5",
-   "ts": "Fri, 06 Nov 2026 12:00:33 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "China deepens trade offensive with probes into key EU and Japanese materials - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQVRpZUhPTEZNaDhJQ1FQMFVSbGtjMXdOaHhzdEZjSDNRdUUtbmlCbEVfbnhPYnZzRkdJZEdGci1PMGt0V3JOVV9rZmJ6LWROZ0U1N3pJR1kyS0pnSzBpcXNYSUUtbDBKQUlJbWRFREVIWXRIdGJjMXA0SHdwSDNEX1NVZDNULTFRU0tTQi05VTF1dDNDamdIT3V5UDRReVVpZzlodlREYkk1QjhKWmpBYmJrai1PdHlqVkZfTmMwdllrMlla0gHEAUFVX3lxTE8wdkFHOHdOM1p0a2RWcUQ0S2E5OEtPT3FmQUp0cUJGRmx4ejllME5Eb192RHNGQXh2bG11X3gySjFtZDdXVzJhaTZCcVd0UmJUZ3NWd1VUczBhVzdKVXBQcWFiQldvLVo3Z2I4ZzhxMnByVlpfUmE0aDZ0TTBtSlQ1dHdmQm42cVhnQVVfUFZvbzdLUmJxcXp0MDFzN2hSaXhwZ2d3bDVhY0RveXQ3SF9rblVZdmhiSnExZEZkWXNrMWhsbVE?oc=5",
-   "ts": "Fri, 06 Nov 2026 11:00:09 GMT"
+   "title": "Electric Vehicles Are Just the Tip of the UK’s Coming China Shock - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTWxtbVRWdjMtTDlDTVpraE15M0FlRVY0NEFES2VTSWttd21tMEx4Z0hFUEZPZER6ZFM5eEhwbkRod3NSYzRDSmplSU1IRTd4cHdTWk9CSmh6VVJpdlhMNEp1NUt5blJVU3NLZTgxQkNFNlY4Zk9HZ1JTYlBaaFg5V1lrNFM5QXVaMGxXSUtfQkhxYVZIWm1xekxNcWZ4MEdoR3BOQzJMbFA3VTFxSHFZeXREX0JVbDlqY2hz?oc=5",
+   "ts": "Fri, 06 Nov 2026 05:00:00 GMT"
   }
  ]
 }

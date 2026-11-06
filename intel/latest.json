@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T03:45:23Z",
+ "ts": "2026-11-06T04:00:26Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -383,15 +382,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war slows growth - Ottumwa Courier",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQcmwyck44Qm9peC1CRldZdlN2aGd2dGxDUU05QzFyMlV6MUxpbDd2dzd3VjFFQmR5U0l2RzU1LUozQlBWd2RfLTM4bEg0V2M2T2VnWm1hX25QYXM2eWRYZ2xQTzNteVFMSzJ2VjhBMVhhYjB4N1JJcGpyUGpJMW9pWnp4WW1JNkwzWllPQTVjYldIOEhhMWFDdFpyV3dUaUYzOTEzaTJuN1h1dC1rV1lxMi00Z21NaEhGWm9rZlh0REIzUFZSTnZjb0lYeVB4Mmlpd002X1lPNW1YdEMzZ2s2bk8xQ0FkSWZxaVk1VHFOd3hYREtUcnJlN1Y2ZDBnUWd6SER0MHhDd3EtRjA?oc=5",
-   "ts": "Fri, 06 Nov 2026 01:24:29 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "‘More carve-outs’? How the midterms could affect US trade policy on China - SCMP",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb05DX3U3cmVhWTVRVTRQbkdqRTB3RzhFdlhfeWxGckw1cl93bjJXMkwwLTJURUxuRUI1eUNDTm5SVE1FQmtFNFRhaXVXQnJtbjAyNkI4VFQ0NWdkZnplRHZhdVBBSTNpT09mWlgyTVFrRzdBX2dMS0VycDBjcnpPdnVBSWE1RmlxY1M3TjdkdUVJc2RPWGN5cUljMVJvZnJPVnFKSjFMONIBpwFBVV95cUxNWG1faG9kV1ItTlIyLTlfeXdETldlcFlPRXJfLWJxdy1tcFVTSTU5MTBmSkpuVjROVmtQMGZYcXpLZmpLTl9tY294QVRrYjI1enJTaThlVXUwakJqc1dhQWZKVGFXTjZxTnZGU1NSMENMeGZrQ0pyMHg3NlN1Z0NrLUZUQThXUW4xYjJOc0k3UnlMVVZsRlpwZjR4ZGdsUEVUQWhBcWVicw?oc=5",
    "ts": "Wed, 04 Nov 2026 14:00:09 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war slows growth - Ottumwa Courier",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQcmwyck44Qm9peC1CRldZdlN2aGd2dGxDUU05QzFyMlV6MUxpbDd2dzd3VjFFQmR5U0l2RzU1LUozQlBWd2RfLTM4bEg0V2M2T2VnWm1hX25QYXM2eWRYZ2xQTzNteVFMSzJ2VjhBMVhhYjB4N1JJcGpyUGpJMW9pWnp4WW1JNkwzWllPQTVjYldIOEhhMWFDdFpyV3dUaUYzOTEzaTJuN1h1dC1rV1lxMi00Z21NaEhGWm9rZlh0REIzUFZSTnZjb0lYeVB4Mmlpd002X1lPNW1YdEMzZ2s2bk8xQ0FkSWZxaVk1VHFOd3hYREtUcnJlN1Y2ZDBnUWd6SER0MHhDd3EtRjA?oc=5",
+   "ts": "Fri, 06 Nov 2026 01:24:29 GMT"
   },
   {
    "src": "gnews",
@@ -407,9 +406,15 @@
   },
   {
    "src": "gnews",
-   "title": "China ready to expand US farm imports – on 1 condition - SCMP",
+   "title": "China ready to expand US farm imports – on 1 condition - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOU5wSHZoRmtZT3ZwREIwYWVBQzZYQmR6UDd1Z0hpSUdPM3lCWURJU19ITG54dkQzbW54TjlmaW8tenFxbjQ3Vnc0UkpqRmlvQ295YjBmYnhLSk1NR3VvNkdfSkxJc3ZtZWxmZ1ZzcDcza1ZBVER6eGdhdnJNQnltc1lmWU02MzdlWHZjTXNja0FMdERFYUlkeXR1WHN4dWRqeHI2c1NGX3phX0JKZFRTNkVoSmtsRUQydGVQdzR5VnN5VmFBYjBSVVpTOTBxR1lrLXhLclBVY0fSAdgBQVVfeXFMT2VuYl9iTGJ5Um9ZcXFmczdEUHdkWENMRDY5RlhKVDZTbmJkWlB0UXRWemdKQU1Eb09vbDc0MWx6YmtLUUFlLUpYOUc5QnBtaWpDY3hWdTJ5aEN2Tm5LRXVkSkFZS0ZkVGN3TnhrWVlFREZ6VWVjcWxKV25vVkNUOHMxOEp1Ul9DdG5hRm1vR0dSNDBYck1JNGl5Q01ZdEZuYl9EN0NDeGpQMHRNel9NRzZvSHBrVDY1cUVKNEh3MW85eG1NVHh5b1JGdEc5QWo4b2piRTJPZU9X?oc=5",
    "ts": "Thu, 05 Nov 2026 12:00:21 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Watch EU Chamber of Commerce in China On Trade Amid Tensions - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQnNDOUpiSkM2Tkt4V0JhbElyTHlDdTZ2UkkxS18zSEN1YWt5cTJHUlVTNWhmYXBPSm0xWDlDeWdzN3FVZzE4ZVlnVy12ZVF1ZHdscU0wWUowakdsMEIxU1lscUVpTV9kRXc2T3JfV0pnblY3TnRLX2ViX0Z4a295OVZDOFJTcGNPZ1ZVVWpMV1pkWWVwX2d0S0tsbjYzUVM0aTBKakNSTUN5NTQ3UGc?oc=5",
+   "ts": "Fri, 06 Nov 2026 00:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -454,10 +459,124 @@
    "ts": "Thu, 05 Nov 2026 08:24:14 GMT"
   },
   {
-   "src": "gnews",
-   "title": "China Ties U.S. Farm Purchases to Tariff Cuts as Trade Uncertainty Grows - AgroLatam",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWlBtcGthejNNdlRGTlVCbWVjSXpEbHctTXBJblR3S0JBdUdjaGQzdWlVcHk2bkY4MERpV1FCZzBLWURLcmN2N0VLOTVVLUZIYVdkOW42Ty1fZm9vQmg3VjBEaUtOMWdxR1NHckFsYzJnZklkUE5nSEVER0dWSVh6R0VB?oc=5",
-   "ts": "Thu, 05 Nov 2026 12:19:25 GMT"
+   "src": "gdelt",
+   "title": "Bloodbath on Wall Street as Democrats seize Congress",
+   "url": "http://www.milwaukeesun.com/news/279415120/bloodbath-on-wall-street-as-democrats-seize-congress",
+   "ts": "20261106T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Teen Mom Star Farrah Abraham Eyes 2028 Austin Mayoral Run",
+   "url": "https://intouchweekly.com/teen-mom-alum-farrah-abraham-sets-sight-on-2028-austin-mayor-race-after-disastrous-city-council-loss/",
+   "ts": "20261106T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "美国正在出现  两种经济 ？ 穆迪警告 ： 稍有冲击 ， 衰退风险就会急升 _ 汇市观察 _ 外汇 _ 中金在线",
+   "url": "http://forex.cnfol.com/jingjiyaowen/20261106/32417199.shtml",
+   "ts": "20261106T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  Would rather not destroy rest of the country : Trump Iran war tone changes after midterm drubbing",
+   "url": "https://aninews.in/news/world/us/would-rather-not-destroy-rest-of-the-country-trumps-iran-war-tone-changes-after-midterm-drubbing20261106084400/",
+   "ts": "20261106T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Gina Hinojosa begins work to take office as Texa 1st Democratic governor in decades",
+   "url": "https://www.dailygazette.com/ade/ap/national/gina-hinojosa-begins-work-to-take-office-as-texas-1st-democratic-governor-in-decades/article_1860740b-0d27-5e0e-a9b0-9230b130e354.html",
+   "ts": "20261106T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Hegseth not under consideration for Tennessee Senate seat : AP source",
+   "url": "https://www.twincities.com/2026/11/05/tennessee-senate-pete-hegseth/",
+   "ts": "20261106T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Carney unveils budget to strengthen Canada economy as Trump trade war continues",
+   "url": "http://www.cecildaily.com/ap/world/carney-unveils-budget-to-strengthen-canadas-economy-as-trumps-trade-war-continues/article_e2e1c3d9-405b-52eb-b8f1-561b7de80c84.html",
+   "ts": "20261106T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Sixty percent of young US Jewish voters view Gaza war as genocide , poll shows",
+   "url": "http://www.jpost.com/diaspora/article-914029",
+   "ts": "20261106T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "张瑜 ： 蓝色风暴  下的特朗普执政后半程 美国中选的七问七答|共和党|参议院|唐纳 · 川普|张瑜 ( 演员 ) |美国大选结果",
+   "url": "https://www.163.com/dy/article/LB21K95Q0519IGF7.html",
+   "ts": "20261106T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "美民主党重掌国会 ， 美股三大期指V型反弹 ， 半导体股盘前走强 ， AMD大涨7 %， 特斯拉跌超4 %， SpaceX跌近4 % ",
+   "url": "https://finance.sina.com.cn/wm/2026-11-04/doc-inixqhkz0150756.shtml",
+   "ts": "20261106T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump To Speak At Up Summit After Midterms",
+   "url": "https://wrko.iheart.com/content/2026-11-05-trump-to-speak-at-up-summit-after-midterms/",
+   "ts": "20261106T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump says  big , beautiful agreement  on Ukraine  might involve all of Europe  ",
+   "url": "https://www.swindonadvertiser.co.uk/news/national/26704229.trump-says-big-beautiful-agreement-ukraine-might-involve-europe/",
+   "ts": "20261106T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Jim Ross : Dont declare victory until the votes are counted",
+   "url": "https://www.herald-dispatch.com/opinion/jim-ross-dont-declare-victory-until-the-votes-are-counted/article_ec76c7a0-0bca-4e50-be98-b41b3155493c.html",
+   "ts": "20261106T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "非农数据前瞻 ： 重点看工资 ， 黄金能否延续的关键 _ 名家点金 _ 黄金网 _ 中金在线",
+   "url": "http://gold.cnfol.com/mingjiadianjin/20261106/32417300.shtml",
+   "ts": "20261106T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Gina Hinojosa begins work to take office as Texa 1st Democratic governor in decades",
+   "url": "http://www.cecildaily.com/ap/nation/gina-hinojosa-begins-work-to-take-office-as-texas-1st-democratic-governor-in-decades/article_8909f842-a98a-5818-b016-1b71631bcd08.html",
+   "ts": "20261106T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "四面八方话进博｜国际人士 ： 进博会体现了中国的开放承诺 - 千龙网 · 中国首都网",
+   "url": "https://china.qianlong.com/2026/1106/8747762.shtml",
+   "ts": "20261106T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Dhanteras 2026 date and time today for gold , silver purchase : Shubh muhurat for buying precious metals on auspicious day",
+   "url": "https://www.livemint.com/money/dhanteras-2026-auspicious-time-to-buy-gold-today-november-6-check-muhurat-and-shopping-tips-11793928276851.html",
+   "ts": "20261106T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Newsom announces he will commute sentences of inmates on California death row",
+   "url": "https://www.wkyufm.org/2026-11-05/newsom-announces-he-will-commute-sentences-of-inmates-on-californias-death-row",
+   "ts": "20261106T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "కొమ్ములు విరిగిన ట్రంప్",
+   "url": "https://www.prajasakti.com/opinion-90/articles-81/kommulu-virigina-trump",
+   "ts": "20261106T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Arrests after emergency crews targeted with fireworks and police car set alight",
+   "url": "https://www.swindonadvertiser.co.uk/news/national/26704249.arrests-emergency-crews-targeted-fireworks-police-car-set-alight/",
+   "ts": "20261106T033000Z"
   }
  ]
 }

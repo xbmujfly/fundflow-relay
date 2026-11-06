@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T04:45:21Z",
+ "ts": "2026-11-06T05:00:28Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
   }
  },
  "items": [
@@ -371,27 +371,27 @@
   },
   {
    "src": "gnews",
-   "title": "Carney unveils budget to strengthen Canada’s economy as Trump’s trade war slows growth - The Seattle Times",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzQ3bkk3c3pkczhEU010X29jSUN3U1ltcmllcU12WXpGclBWRWFWdGltTlpnSTlZWkVKQ3lDUC1lTmZXTHhOLU4wNlJsY29sMzlxV0psVTJpaktwVkVHS1dsNm11YTFwUmhDenhUSFdlVTN1Yy1jOFJuRnUzMTdOZlg2UTI1R2tyMDB2SUFjTkEyV1J3Z2xUVm5BQ2pyRmRkQk1IVnJ2N3dyMGwxbXBLVkZrZ1ZvMFVwdUVHLQ?oc=5",
-   "ts": "Thu, 05 Nov 2026 22:24:04 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
    "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "China threatens retaliation as EU mulls trade “kill-switch” - Euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHBIVUJVUy1WX2c0dm5wZjhYWERMOU1GcGY5VDJvR1h4VlFvWGJDdzRyQVdEYzFaNEZqbERsb0VrN3FWQU9nVkhOSFdVOHZQaEN3ck05U2FuSzUtMUFtYUVwa2Q4VFh3UUNjZWVyUTc1UC02RTF6dUxHeGxURjBmc29EQWJZdjZXbnhmcXR5LUhnZk5HbktPdkUwdzFaUnJOTkp1My1OT2FuMEFKTWpzZDJ6TEViRUU?oc=5",
-   "ts": "Thu, 05 Nov 2026 11:21:01 GMT"
+   "title": "Carney unveils budget to strengthen Canada’s economy as Trump’s trade war slows growth - The Seattle Times",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzQ3bkk3c3pkczhEU010X29jSUN3U1ltcmllcU12WXpGclBWRWFWdGltTlpnSTlZWkVKQ3lDUC1lTmZXTHhOLU4wNlJsY29sMzlxV0psVTJpaktwVkVHS1dsNm11YTFwUmhDenhUSFdlVTN1Yy1jOFJuRnUzMTdOZlg2UTI1R2tyMDB2SUFjTkEyV1J3Z2xUVm5BQ2pyRmRkQk1IVnJ2N3dyMGwxbXBLVkZrZ1ZvMFVwdUVHLQ?oc=5",
+   "ts": "Thu, 05 Nov 2026 22:24:04 GMT"
   },
   {
    "src": "gnews",
-   "title": "‘More carve-outs’? How the midterms could affect US trade policy on China - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb05DX3U3cmVhWTVRVTRQbkdqRTB3RzhFdlhfeWxGckw1cl93bjJXMkwwLTJURUxuRUI1eUNDTm5SVE1FQmtFNFRhaXVXQnJtbjAyNkI4VFQ0NWdkZnplRHZhdVBBSTNpT09mWlgyTVFrRzdBX2dMS0VycDBjcnpPdnVBSWE1RmlxY1M3TjdkdUVJc2RPWGN5cUljMVJvZnJPVnFKSjFMONIBpwFBVV95cUxNWG1faG9kV1ItTlIyLTlfeXdETldlcFlPRXJfLWJxdy1tcFVTSTU5MTBmSkpuVjROVmtQMGZYcXpLZmpLTl9tY294QVRrYjI1enJTaThlVXUwakJqc1dhQWZKVGFXTjZxTnZGU1NSMENMeGZrQ0pyMHg3NlN1Z0NrLUZUQThXUW4xYjJOc0k3UnlMVVZsRlpwZjR4ZGdsUEVUQWhBcWVicw?oc=5",
-   "ts": "Wed, 04 Nov 2026 14:00:09 GMT"
+   "title": "EU-China truce under strain as both sides brace for potential trade war - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjVtNGU1dEM3bzhWMDFrSVNJdEhyajJKSG1sS1pUWGdBX084eVRkQ2x6MGd5RWV6bm5GTE9xbVdZRHhZR1M3UzYwekh0MGZOXzJJcTRzUmtlZjN3LU1qMHNPTkhUQmE0Zm5QLXEzLWMtcXUySFotUS1VV0luZzdyUE1acVdtd0VUZC1LaWJSMkV6dThfVWZ1SGxDQWJZZ29zcUY5STREX2pRd3g3Z1pRbVg5c3Q2VVhYU0E?oc=5",
+   "ts": "Fri, 06 Nov 2026 04:37:57 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China threatens retaliation as EU mulls trade “kill-switch” - Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHBIVUJVUy1WX2c0dm5wZjhYWERMOU1GcGY5VDJvR1h4VlFvWGJDdzRyQVdEYzFaNEZqbERsb0VrN3FWQU9nVkhOSFdVOHZQaEN3ck05U2FuSzUtMUFtYUVwa2Q4VFh3UUNjZWVyUTc1UC02RTF6dUxHeGxURjBmc29EQWJZdjZXbnhmcXR5LUhnZk5HbktPdkUwdzFaUnJOTkp1My1OT2FuMEFKTWpzZDJ6TEViRUU?oc=5",
+   "ts": "Thu, 05 Nov 2026 11:21:01 GMT"
   },
   {
    "src": "gnews",
@@ -407,12 +407,6 @@
   },
   {
    "src": "gnews",
-   "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues - The Killeen Daily Herald",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZEZOOG5MOXJNWHByNG1tTGdFQnkyTG1idndlVjZob0JZM1BmSHJFUVltcEh1SlRQVlduSENCVEtqMjBZMWFFNnlHZ2M2dzIyQmUwWE4wajdKTDRjZDR0S2pSbkhKSkphT0NNczhwT2h0QUZlVXh2TXQ5TGxpcjNTdzV0YVpNMmF2QWcydUUzMzhhd28xX182S2xRdFc3Y3gtZXVxX0ZvNTBnS0p1TUtqOXJtMWtHZWI3SFdEV1R0RUY3eUNQYXdEbTY2dFJZNzNaei1FcjVKM3lrbjU1Um42S3JnWGRnbmYwZjFLbGVCU2FxWEg3?oc=5",
-   "ts": "Thu, 05 Nov 2026 22:23:48 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
    "ts": "Thu, 05 Nov 2026 03:50:00 GMT"
@@ -425,9 +419,9 @@
   },
   {
    "src": "gnews",
-   "title": "China ready to expand US farm imports – on 1 condition - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOU5wSHZoRmtZT3ZwREIwYWVBQzZYQmR6UDd1Z0hpSUdPM3lCWURJU19ITG54dkQzbW54TjlmaW8tenFxbjQ3Vnc0UkpqRmlvQ295YjBmYnhLSk1NR3VvNkdfSkxJc3ZtZWxmZ1ZzcDcza1ZBVER6eGdhdnJNQnltc1lmWU02MzdlWHZjTXNja0FMdERFYUlkeXR1WHN4dWRqeHI2c1NGX3phX0JKZFRTNkVoSmtsRUQydGVQdzR5VnN5VmFBYjBSVVpTOTBxR1lrLXhLclBVY0fSAdgBQVVfeXFMT2VuYl9iTGJ5Um9ZcXFmczdEUHdkWENMRDY5RlhKVDZTbmJkWlB0UXRWemdKQU1Eb09vbDc0MWx6YmtLUUFlLUpYOUc5QnBtaWpDY3hWdTJ5aEN2Tm5LRXVkSkFZS0ZkVGN3TnhrWVlFREZ6VWVjcWxKV25vVkNUOHMxOEp1Ul9DdG5hRm1vR0dSNDBYck1JNGl5Q01ZdEZuYl9EN0NDeGpQMHRNel9NRzZvSHBrVDY1cUVKNEh3MW85eG1NVHh5b1JGdEc5QWo4b2piRTJPZU9X?oc=5",
-   "ts": "Thu, 05 Nov 2026 12:00:21 GMT"
+   "title": "‘More carve-outs’? How the midterms could affect US trade policy on China - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb05DX3U3cmVhWTVRVTRQbkdqRTB3RzhFdlhfeWxGckw1cl93bjJXMkwwLTJURUxuRUI1eUNDTm5SVE1FQmtFNFRhaXVXQnJtbjAyNkI4VFQ0NWdkZnplRHZhdVBBSTNpT09mWlgyTVFrRzdBX2dMS0VycDBjcnpPdnVBSWE1RmlxY1M3TjdkdUVJc2RPWGN5cUljMVJvZnJPVnFKSjFMONIBpwFBVV95cUxNWG1faG9kV1ItTlIyLTlfeXdETldlcFlPRXJfLWJxdy1tcFVTSTU5MTBmSkpuVjROVmtQMGZYcXpLZmpLTl9tY294QVRrYjI1enJTaThlVXUwakJqc1dhQWZKVGFXTjZxTnZGU1NSMENMeGZrQ0pyMHg3NlN1Z0NrLUZUQThXUW4xYjJOc0k3UnlMVVZsRlpwZjR4ZGdsUEVUQWhBcWVicw?oc=5",
+   "ts": "Wed, 04 Nov 2026 14:00:09 GMT"
   },
   {
    "src": "gnews",
@@ -443,6 +437,12 @@
   },
   {
    "src": "gnews",
+   "title": "China ready to expand US farm imports – on 1 condition - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOU5wSHZoRmtZT3ZwREIwYWVBQzZYQmR6UDd1Z0hpSUdPM3lCWURJU19ITG54dkQzbW54TjlmaW8tenFxbjQ3Vnc0UkpqRmlvQ295YjBmYnhLSk1NR3VvNkdfSkxJc3ZtZWxmZ1ZzcDcza1ZBVER6eGdhdnJNQnltc1lmWU02MzdlWHZjTXNja0FMdERFYUlkeXR1WHN4dWRqeHI2c1NGX3phX0JKZFRTNkVoSmtsRUQydGVQdzR5VnN5VmFBYjBSVVpTOTBxR1lrLXhLclBVY0fSAdgBQVVfeXFMT2VuYl9iTGJ5Um9ZcXFmczdEUHdkWENMRDY5RlhKVDZTbmJkWlB0UXRWemdKQU1Eb09vbDc0MWx6YmtLUUFlLUpYOUc5QnBtaWpDY3hWdTJ5aEN2Tm5LRXVkSkFZS0ZkVGN3TnhrWVlFREZ6VWVjcWxKV25vVkNUOHMxOEp1Ul9DdG5hRm1vR0dSNDBYck1JNGl5Q01ZdEZuYl9EN0NDeGpQMHRNel9NRzZvSHBrVDY1cUVKNEh3MW85eG1NVHh5b1JGdEc5QWo4b2piRTJPZU9X?oc=5",
+   "ts": "Thu, 05 Nov 2026 12:00:21 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "What does midterm humbling mean for Bessent ahead of US-China trade talks? - SCMP",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeGlmbUlvNVBvdFVCRVhqallRb0RwaGxQVzRRbVpXaHh1YUJKMGc3LUJnYno0NFQwRnVXSm5CTzN3MEtGbWdoX0tCc21oMHl4WGJyRWRHaE9XQzFjWXRGSXlyYW83WDV2MHFqMTd6YnhSNndNcjBEYk5NdzdfOUdMX19kZkdjRl9vTm04Tklya0xRbzg0enB4d201ZmtTM24zU0xBel81YlJRWVFLUV9xMnlnSnhmR1FzelBLR1U4OTU4dW9PQnfSAcYBQVVfeXFMUHREYzVxOG9HbmNYZ05HZkRwS29TamppSHRPd0szZGFHS0Yxc2l1NmpZelF2RjlhRVpQWVdoWkhKXy0yRi1kRlBWRW12RnVscHRRTG5ON2dFb0dtQTV1S0FnMW5zLVhFLWEwT2JBWk9UY29oRmh1dFo5N0RBNG1rMjNscTg1bzlKTl9selBWMTZzX3llWWY4c0NoYkpTLUVsNVRJVHZwdk56ZE5SZjRTaVE3eVdNeGxBNzVfdDRNTks3U1dtNDFR?oc=5",
    "ts": "Thu, 05 Nov 2026 14:30:07 GMT"
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "‘Squeeze narrative’ on China’s trade surplus belies reality: official - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMllfOWxuNFoxZXlVQzE1M0dRTDZSY3VyWEF4SVVHUFF4THRXc2I0bXRKenYxaGI5SmhHYWl5emdJemtUeVNIM081dVY2RF9rWmtPRXViQl9kcWtTcG83NDVwSy1YVEFxc2VtZXAzby0xRFQzZGRPZGY4T2FqMTlVMjh5aWFrZTI3Nmx5SS1lb18tMmtFamRFUmFQRVo3eUdkYnVUX2FDanRORDBCUFlJYkhGRVNMZ9IBtgFBVV95cUxNWjlqQWRtNXpVVjJ5b1BSWlNSWENZYkRFOWVRNWtfVXFKbktXci1OWlk4R1V1SkdKNzI4S2liajNUT0E4T19TNDF1SVU4Z2ZwNWpHQW1VXzVXc0g0WDk3Sld3S3YtLU5DUEI3N2VtYmZkNmg2ZnFKZk5hemhFeXNFT3JzNldLOF85Wkpkb09PNmcyWXdoMGdvRHBZN0cxNXlxWC05elRYTWhSeThlcllhSkg5dElaQQ?oc=5",
-   "ts": "Thu, 05 Nov 2026 07:00:05 GMT"
+   "title": "EXCLUSIVE: Nvidia chips pile up in Hong Kong as China withholds import approval - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHNUQnlURFBWSTlTSE5wNWUzekR0cDZfcWQzQVRFLVNweXJiSGhtSFZ6cWdvMXF4SHpLRy1YT1Y2QjJZMGxRajNaRGQ1Y25SVGkycEphaU4zTTRJSzV0QjNPTFMxeEl0Mm9CdGFQc0JJTHBNemVoSXdkTnhsR1FNR0t1b2hoUHdfSW0yVnlGMl95Qkd4dDAtMGdhYTFhUzRhc0U1Mm9fdGxLRnhacUNr?oc=5",
+   "ts": "Thu, 05 Nov 2026 11:27:00 GMT"
   }
  ]
 }

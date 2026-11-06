@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T07:30:27Z",
+ "ts": "2026-11-06T07:45:24Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -401,6 +400,12 @@
   },
   {
    "src": "gnews",
+   "title": "How China Accidentally Broke the West’s Monopoly Over the Weapons Trade - CounterPunch.org",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMVNyUGFhZHUwekprcDhfOWxUQzkwLWI2SkZTTEtGY3l5Rk0xeExHTGdyZGphcEpFdjlSWVk2SXk5Vk51Smx2ZnNqVzRIb1YtUGVxVGVsMkxIZnB2NnBQcTc2NTVNbXBGbUI2UHBSR0JwbTZubUZHTDkweDI4bEJUVXo5dlpsWVRRTlpneXRyS0h5M3prOWJXc0pLbHdQN19VTVVSOGhUVHFxYVk3UWx3Rg?oc=5",
+   "ts": "Fri, 06 Nov 2026 06:54:45 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war slows growth - Ottumwa Courier",
    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQcmwyck44Qm9peC1CRldZdlN2aGd2dGxDUU05QzFyMlV6MUxpbDd2dzd3VjFFQmR5U0l2RzU1LUozQlBWd2RfLTM4bEg0V2M2T2VnWm1hX25QYXM2eWRYZ2xQTzNteVFMSzJ2VjhBMVhhYjB4N1JJcGpyUGpJMW9pWnp4WW1JNkwzWllPQTVjYldIOEhhMWFDdFpyV3dUaUYzOTEzaTJuN1h1dC1rV1lxMi00Z21NaEhGWm9rZlh0REIzUFZSTnZjb0lYeVB4Mmlpd002X1lPNW1YdEMzZ2s2bk8xQ0FkSWZxaVk1VHFOd3hYREtUcnJlN1Y2ZDBnUWd6SER0MHhDd3EtRjA?oc=5",
    "ts": "Fri, 06 Nov 2026 01:24:29 GMT"
@@ -416,12 +421,6 @@
    "title": "Trump's political humbling signals short-term gain, long-term pain for China - Al-Monitor",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQamJpRm10Y0pmUU5wcnp4NXR3OUd4bEFuWkRfWnVfb3VmbXJ2eXlnb1JvQUV0cmhhRzFWd3NfdlUyTENlNFNGV2JmcDNILXFKQjRoa1daTHdGbmVqT29kYjVfWmRtOU05LVpQVDU1S1h2QkNzWWRHdVdabEhaby01NVYzaXcxc1dyOGh2aVRidnBENWUxMDBYbEVKQ1VwSTRNYjk1NEZVUEh4QXV3ZDQ0ZFQzQXB1UQ?oc=5",
    "ts": "Thu, 05 Nov 2026 12:50:25 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Watch EU Chamber of Commerce in China On Trade Amid Tensions - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQnNDOUpiSkM2Tkt4V0JhbElyTHlDdTZ2UkkxS18zSEN1YWt5cTJHUlVTNWhmYXBPSm0xWDlDeWdzN3FVZzE4ZVlnVy12ZVF1ZHdscU0wWUowakdsMEIxU1lscUVpTV9kRXc2T3JfV0pnblY3TnRLX2ViX0Z4a295OVZDOFJTcGNPZ1ZVVWpMV1pkWWVwX2d0S0tsbjYzUVM0aTBKakNSTUN5NTQ3UGc?oc=5",
-   "ts": "Fri, 06 Nov 2026 00:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +457,126 @@
    "title": "China ready to expand US farm imports – on 1 condition - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOU5wSHZoRmtZT3ZwREIwYWVBQzZYQmR6UDd1Z0hpSUdPM3lCWURJU19ITG54dkQzbW54TjlmaW8tenFxbjQ3Vnc0UkpqRmlvQ295YjBmYnhLSk1NR3VvNkdfSkxJc3ZtZWxmZ1ZzcDcza1ZBVER6eGdhdnJNQnltc1lmWU02MzdlWHZjTXNja0FMdERFYUlkeXR1WHN4dWRqeHI2c1NGX3phX0JKZFRTNkVoSmtsRUQydGVQdzR5VnN5VmFBYjBSVVpTOTBxR1lrLXhLclBVY0fSAdgBQVVfeXFMT2VuYl9iTGJ5Um9ZcXFmczdEUHdkWENMRDY5RlhKVDZTbmJkWlB0UXRWemdKQU1Eb09vbDc0MWx6YmtLUUFlLUpYOUc5QnBtaWpDY3hWdTJ5aEN2Tm5LRXVkSkFZS0ZkVGN3TnhrWVlFREZ6VWVjcWxKV25vVkNUOHMxOEp1Ul9DdG5hRm1vR0dSNDBYck1JNGl5Q01ZdEZuYl9EN0NDeGpQMHRNel9NRzZvSHBrVDY1cUVKNEh3MW85eG1NVHh5b1JGdEc5QWo4b2piRTJPZU9X?oc=5",
    "ts": "Thu, 05 Nov 2026 12:00:21 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "DOJ Seeks To Overturn Steve Bannon Conviction | Newsradio WFLA Orlando",
+   "url": "https://wflaorlando.iheart.com/content/2026-11-06-doj-seeks-to-overturn-steve-bannons-conviction/",
+   "ts": "20261106T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "เอกนิติ ยันเสถียรภาพศก . ไทยแกร่ง ! มั่นใจรับมือความผันผวนจากผลกระทบเลือกตั้งสห",
+   "url": "https://www.ryt9.com/s/iq/12854984",
+   "ts": "20261106T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Трамп зустрівся з командою , щоб ухвалити рішення щодо війни з Іраном",
+   "url": "https://www.rbc.ua/rus/news/tramp-rozglyadae-tri-varianti-shchodo-iranu-1793942331.html",
+   "ts": "20261106T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Amazon Prime oferă beneficii Uber Eats în SUA",
+   "url": "https://www.sfin.ro/beneficii-uber-eats-prime/",
+   "ts": "20261106T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Qatar Iran cease fire talks",
+   "url": "https://politicaldog101.com/tag/qatar-iran-cease-fire-talks/",
+   "ts": "20261106T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Глава Nvidia « вылетел » из десятки богатейших людей после выборов в США",
+   "url": "https://news.mail.ru/society/72994373/",
+   "ts": "20261106T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "A judge blocks construction of Trump arch moments after it won federal approval",
+   "url": "https://www.whqr.org/national/2026-11-06/a-judge-blocks-construction-of-trumps-arch-moments-after-it-won-federal-approval",
+   "ts": "20261106T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ο Λευκός Οίκος επιμένει : « Fake news » τα περί παραίτησης Χέγκσεθ και Ρούμπιο",
+   "url": "https://www.dnews.gr/eidhseis/kosmos/620918/o-lefkos-oikos-epimenei-fake-news-ta-peri-paraitisis-xegkseth-kai-roympio",
+   "ts": "20261106T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "В Белом доме опровергли слухи об отставке Пита Хегсета и Марко Рубио",
+   "url": "https://mignews.com/news/politic/v-belom-dome-oprovergli-sluhi-ob-otstavke-pita-hegseta-i-marko-rubio.html",
+   "ts": "20261106T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Трамп підписав заборону майбутнім президентам змінювати Овальний кабінет",
+   "url": "https://unn.ua/news/tramp-pidpysav-zaboronu-maibutnim-prezydentam-zminiuvaty-ovalnyi-kabinet",
+   "ts": "20261106T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump out ! | Progressive groups launch 12 days of protest",
+   "url": "https://www.bulatlat.com/2026/11/06/trump-out-progressive-groups-launch-12-days-of-protest/",
+   "ts": "20261106T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Arrests after emergency crews targeted with fireworks and police car set alight",
+   "url": "https://www.hillingdontimes.co.uk/news/national/26704249.arrests-emergency-crews-targeted-fireworks-police-car-set-alight/",
+   "ts": "20261106T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Суд в Нью - Йорке временно запретил депортировать более 150 афганцев",
+   "url": "https://www.azattyqasia.org/a/sud-v-nyu-yorke-vremenno-zapretil-deportirovat-bolee-150-afgantsev/33892080.html",
+   "ts": "20261106T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Iran sent nuclear proposal to the US via Qatar : reports",
+   "url": "https://dunyanews.tv/en/World/981478-iran-sent-nuclear-proposal-to-the-us-via-qatar-reports",
+   "ts": "20261106T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "चुनावी पराजयपछि पनि अमेरिकी रक्षामन्त्री र विदेशमन्त्री पदमै रहने",
+   "url": "https://ekantipur.com/world/2026/11/06/us-secretary-of-defense-and-secretary-of-state-to-remain-in-office-despite-election-defeat-03-35.html",
+   "ts": "20261106T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Data centers took a beating in the midterm elections . A reckoning may be ahead for tech giants",
+   "url": "http://www.thegazette.com/news/national/data-centers-took-a-beating-in-the-midterm-elections-a-reckoning-may-be-ahead-for/article_1d1fc666-52e2-5136-a387-993d5d7bf65e.html",
+   "ts": "20261106T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "AI investment fears wipe out $2 . 5 trillion from US markets",
+   "url": "http://www.batonrougepost.com/news/279415406/ai-investment-fears-wipe-out-25-trillion-from-us-markets",
+   "ts": "20261106T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump : Sopimus Ukrainan sodan pttämisestä voi koskea koko Eurooppaa",
+   "url": "https://www.savonsanomat.fi/uutissuomalainen/9931302",
+   "ts": "20261106T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "特朗普 ： 美股经历史上最糟交易日之一 ， 都怪民主党",
+   "url": "https://wallstreetcn.com/articles/3785344",
+   "ts": "20261106T071500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US Oil prices",
+   "url": "https://politicaldog101.com/tag/us-oil-prices/",
+   "ts": "20261106T071500Z"
   }
  ]
 }

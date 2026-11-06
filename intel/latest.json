@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T04:30:24Z",
+ "ts": "2026-11-06T04:45:21Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -349,7 +349,7 @@
    "src": "gnews",
    "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues - ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjlHb2U1LVBiU29ZOGVGTnhubkJZUUF3ejRLQy12ejROd1lIaVMzTS1hVEVqMWx2Z3VQMmcxakItTzNzQVJ2WU1qN2tCUWNCMkUtVi1Od0FyejlRVUNTb01ZX29WUGwxU0g0RlFrU09Mc0lQZlZuaFNGVTdiUTBEQW5VM28xcFd6a2k3RW5GNGJlZktPRG5zbFB6a0hFOUpLRWNhSU9WaGg4LTRUOVBWSmxtWG5zd9IBuwFBVV95cUxQUFFsbWN1ZmxlNWRuaFAxaXBqUTJLVjFDX2M5Ui15TjhSeGpyRjN5NVZMZ01TNlVWX2NGU0tGVThHSE5jZVhFdFowSVhMTjNVdmVEd1NwbU1DcFVOaHVaWmwxOG10WWJKSnVVVmhFZGhLa0J0MkMzV2Jock1UdXFtekpKeXAtaDJPWjlfaXhueHpnWW8wcjBwUXNCRGRLVFoyQUREblVacG5QSjZrU3hkQmN6V0RCUmhmZUpv?oc=5",
-   "ts": "Fri, 06 Nov 2026 03:50:52 GMT"
+   "ts": "Fri, 06 Nov 2026 04:06:34 GMT"
   },
   {
    "src": "gnews",
@@ -401,9 +401,21 @@
   },
   {
    "src": "gnews",
+   "title": "Texas Republicans trade blame after Democrats sweep statewide races, end decades of GOP rule - Houston Public Media",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdGRwbU9FM1VheDU3eHE3Um1JZURuNHJpRHVfdGdtTDkyNWYtSnVLNUFEMzBfWlpWR1ZHcjNyczdGNllRZXAzcmFxeUx5cmQ3SUZybHZRb245ODNrS1RDNWJKZTZ1QVBIYTlOU1NqT3NRZG5LaC1YcGpDYmVOakhrcmxZUi0yMUs0YjV1TGZZdElHd2NSSWVSTUlWaDNZYmQ5b18wWDM5LUlOa1pVaGNOUWRNSWNlWHZyWDNFTU5pM1pMallRLTBDblpwZFpqblRKdTgwQkYtUVF4T2lUVjdCdlpBRFgwdlJOZ2tNeUpQZF9iNC1IZDBjWWtkcFJFQUttRlB2TUdYX1lqejlCNkJr0gGXAkFVX3lxTE9VMWl0R1VQTHB5YW1RSzRoZy1wYnh2enVvVVhUS0luTVp1RTBfeEZJcmk5MVpvU0NzSnViaXBIVmIzTWJaRFpQWFcwUTBXNFNxUnVYUkc5eGxOUUFfUTJOQXZOcnhIZndjQTF6S2VoM0h0ZENOakt0bnd3Wlk1cEdvazlpNkRTbS10MDZDdGpkcnVhODU3YUVfdERXd09DT0Y1cTloNnh0YTJjMF92MlVMRE5rakVQSU5adnhtTFJKbFZPYmhsdXYwNnU0ell0MlJDQ20xRlJrMTdZY1V2eHd2VWZZM1RRV3gwUEN4dWl6VS1GQmFJaU5kNFZlclpmbGk4Z1l1UHh6eWJNanJ4QV9DSElhZmtRMA?oc=5",
+   "ts": "Thu, 05 Nov 2026 19:45:56 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues - The Killeen Daily Herald",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZEZOOG5MOXJNWHByNG1tTGdFQnkyTG1idndlVjZob0JZM1BmSHJFUVltcEh1SlRQVlduSENCVEtqMjBZMWFFNnlHZ2M2dzIyQmUwWE4wajdKTDRjZDR0S2pSbkhKSkphT0NNczhwT2h0QUZlVXh2TXQ5TGxpcjNTdzV0YVpNMmF2QWcydUUzMzhhd28xX182S2xRdFc3Y3gtZXVxX0ZvNTBnS0p1TUtqOXJtMWtHZWI3SFdEV1R0RUY3eUNQYXdEbTY2dFJZNzNaei1FcjVKM3lrbjU1Um42S3JnWGRnbmYwZjFLbGVCU2FxWEg3?oc=5",
    "ts": "Thu, 05 Nov 2026 22:23:48 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
+   "ts": "Thu, 05 Nov 2026 03:50:00 GMT"
   },
   {
    "src": "gnews",
@@ -443,21 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "‘Squeeze narrative’ on China’s trade surplus belies reality: official - SCMP",
+   "title": "‘Squeeze narrative’ on China’s trade surplus belies reality: official - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMllfOWxuNFoxZXlVQzE1M0dRTDZSY3VyWEF4SVVHUFF4THRXc2I0bXRKenYxaGI5SmhHYWl5emdJemtUeVNIM081dVY2RF9rWmtPRXViQl9kcWtTcG83NDVwSy1YVEFxc2VtZXAzby0xRFQzZGRPZGY4T2FqMTlVMjh5aWFrZTI3Nmx5SS1lb18tMmtFamRFUmFQRVo3eUdkYnVUX2FDanRORDBCUFlJYkhGRVNMZ9IBtgFBVV95cUxNWjlqQWRtNXpVVjJ5b1BSWlNSWENZYkRFOWVRNWtfVXFKbktXci1OWlk4R1V1SkdKNzI4S2liajNUT0E4T19TNDF1SVU4Z2ZwNWpHQW1VXzVXc0g0WDk3Sld3S3YtLU5DUEI3N2VtYmZkNmg2ZnFKZk5hemhFeXNFT3JzNldLOF85Wkpkb09PNmcyWXdoMGdvRHBZN0cxNXlxWC05elRYTWhSeThlcllhSkg5dElaQQ?oc=5",
    "ts": "Thu, 05 Nov 2026 07:00:05 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "EXCLUSIVE: Nvidia chips pile up in Hong Kong as China withholds import approval - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHNUQnlURFBWSTlTSE5wNWUzekR0cDZfcWQzQVRFLVNweXJiSGhtSFZ6cWdvMXF4SHpLRy1YT1Y2QjJZMGxRajNaRGQ1Y25SVGkycEphaU4zTTRJSzV0QjNPTFMxeEl0Mm9CdGFQc0JJTHBNemVoSXdkTnhsR1FNR0t1b2hoUHdfSW0yVnlGMl95Qkd4dDAtMGdhYTFhUzRhc0U1Mm9fdGxLRnhacUNr?oc=5",
-   "ts": "Thu, 05 Nov 2026 11:27:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
-   "ts": "Thu, 05 Nov 2026 03:50:00 GMT"
   }
  ]
 }

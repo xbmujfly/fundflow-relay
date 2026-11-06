@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T15:30:59Z",
+ "ts": "2026-11-06T15:45:58Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,15 +341,21 @@
   },
   {
    "src": "gnews",
-   "title": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump’s Canada Tariffs - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVhNeS1XX0xDd1ZkN3JZMkdWcUJkaFhONTBWSmprcWxkRVpqbU02QUQxWnRVRXdlTHBzaVJNMENWaE5HaFcyU2pCVDl3SkpXV3Y4UTlEMzM4STJFc3FGVVByUW1xUHh1QWlqOWx2bHBKQTZxb09zSDQtMklkRFpsRENDbWRiNzg3dzlwMnVqbVpLQkhRVWwwT0F6UUxFODdybWFqekNqUVhrcEZKNzZz?oc=5",
-   "ts": "Fri, 06 Nov 2026 02:00:00 GMT"
+   "title": "Same Tariffs, New Gavels: What the Midterms Mean for US-China Trade Relations - The US-China Business Council",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTVdPcmpoZ1J4bjBVbFlQV2xqT1F4dlRvZGw4b2JlSWFTSVU1dmZ6LUsxMHdfWWhZc1h3TkZPLTBFWGtWdFh5cWJuMU56UnoxX2tTSldJa2s5NWJjUWdqeTFNdVpKNktmNUY4NkFRc3NrRmI0S1ZIMGU1QWQ4cWVLa09jbEQ1WVdRYkNyQzVyV09yRXhyWTdQWE5CQ19pYTNIcXNEUFBJZGpXX0tnMnc?oc=5",
+   "ts": "Fri, 06 Nov 2026 15:40:10 GMT"
   },
   {
    "src": "gnews",
    "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnlsdF9sNDNwY0VTbjBVa1QwUmFYZXJQUWhfcEdtSF9NUWFlNS1KOTh5RW1EcXQ3NUpsVnFVazZsSmRBZ01pUkRkVFRRTXlvWkcxUjFzYVlMa2d3YmZqaWs0dXBzLTBWNE5MZ19wWW1LQldvbFJSNUM4MzBnUUZsYVlDczRmLWI3UnZ2WTFxT1VwWkFWZHBUdXYyUWlZeE9XSWVxTDhSSmxyUktGb0dIaXMyUnJqdw?oc=5",
    "ts": "Fri, 06 Nov 2026 11:24:53 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump’s Canada Tariffs - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVhNeS1XX0xDd1ZkN3JZMkdWcUJkaFhONTBWSmprcWxkRVpqbU02QUQxWnRVRXdlTHBzaVJNMENWaE5HaFcyU2pCVDl3SkpXV3Y4UTlEMzM4STJFc3FGVVByUW1xUHh1QWlqOWx2bHBKQTZxb09zSDQtMklkRFpsRENDbWRiNzg3dzlwMnVqbVpLQkhRVWwwT0F6UUxFODdybWFqekNqUVhrcEZKNzZz?oc=5",
+   "ts": "Fri, 06 Nov 2026 02:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -398,12 +404,6 @@
    "title": "Norway signs trade deal with China, widening its access to the seafood market - SeafoodSource",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnJwOUNUVG15b1hKci1DRkdWQnVPS1dDanN5ODQzbzRmMDZWM2RlcndLRi1GS2VIZzRKTWhyOXMteUpvM1pUYkZTbUFkai1sQzZTRmgyYlVZTjVpTURabzlEOGVwQnRiZk1uUE5scE40THI1b2dtVVVyU1NIcnU0LWQzVE0wTl9ZMFBIc1dOOG4tYmhERnVvMFktTE9sTFJGWnVma19IemljN3gxM0dBcA?oc=5",
    "ts": "Fri, 06 Nov 2026 10:45:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney unveils budget to strengthen Canada’s economy as Trump’s trade war slows growth - The Seattle Times",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzQ3bkk3c3pkczhEU010X29jSUN3U1ltcmllcU12WXpGclBWRWFWdGltTlpnSTlZWkVKQ3lDUC1lTmZXTHhOLU4wNlJsY29sMzlxV0psVTJpaktwVkVHS1dsNm11YTFwUmhDenhUSFdlVTN1Yy1jOFJuRnUzMTdOZlg2UTI1R2tyMDB2SUFjTkEyV1J3Z2xUVm5BQ2pyRmRkQk1IVnJ2N3dyMGwxbXBLVkZrZ1ZvMFVwdUVHLQ?oc=5",
-   "ts": "Thu, 05 Nov 2026 22:24:04 GMT"
   },
   {
    "src": "gnews",

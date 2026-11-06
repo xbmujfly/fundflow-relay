@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T09:16:03Z",
+ "ts": "2026-11-06T09:31:03Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -347,15 +347,15 @@
   },
   {
    "src": "gnews",
-   "title": "Analysis | Trump’s favorite economic policy was among Tuesday’s biggest losers - The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVW1ybXNFaVdKR3V2UVVoOENIVkNscGpuVHhqZjEtR19zNVVwdFRzOFdBM1Vhc3dKcTVkZTRRUWJ2RUpUYnk4eUctZndfbzh2cDhLZlJIel92b3dTeFF4Wi0xOVZRSnVjNndUWk51XzZ1cWVJVlJfRml4NGVIV1FpTA?oc=5",
-   "ts": "Thu, 05 Nov 2026 18:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump’s trade chief pushing him to step up negotiations with Canada - Politico",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUY3c1JIclBSa09VTXM3UlJiMWtrUkxUdFJoRTV6Zl9ZZGJQcUlCTFppQm9ESWhrcGVfTWRHdy1SSkU4U2ktY2ZiMEtWNnBiWkhDQmVuajlhTlFDa3NJM0dESGNTeWdPbmNMWTBxV2swVkhLbV9QdFdhUWhORl9Ca2NHUFlxNEFFamRWNzhQRlJEdFNadkd5M1RQMTM?oc=5",
    "ts": "Tue, 03 Nov 2026 23:55:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Analysis | Trump’s favorite economic policy was among Tuesday’s biggest losers - The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVW1ybXNFaVdKR3V2UVVoOENIVkNscGpuVHhqZjEtR19zNVVwdFRzOFdBM1Vhc3dKcTVkZTRRUWJ2RUpUYnk4eUctZndfbzh2cDhLZlJIel92b3dTeFF4Wi0xOVZRSnVjNndUWk51XzZ1cWVJVlJfRml4NGVIV1FpTA?oc=5",
+   "ts": "Thu, 05 Nov 2026 18:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -371,12 +371,6 @@
   },
   {
    "src": "gnews",
-   "title": "Carney unveils budget to strengthen Canada’s economy as Trump’s trade war slows growth - The Seattle Times",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzQ3bkk3c3pkczhEU010X29jSUN3U1ltcmllcU12WXpGclBWRWFWdGltTlpnSTlZWkVKQ3lDUC1lTmZXTHhOLU4wNlJsY29sMzlxV0psVTJpaktwVkVHS1dsNm11YTFwUmhDenhUSFdlVTN1Yy1jOFJuRnUzMTdOZlg2UTI1R2tyMDB2SUFjTkEyV1J3Z2xUVm5BQ2pyRmRkQk1IVnJ2N3dyMGwxbXBLVkZrZ1ZvMFVwdUVHLQ?oc=5",
-   "ts": "Thu, 05 Nov 2026 22:24:04 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
    "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
@@ -386,6 +380,12 @@
    "title": "Carney unveils budget to strengthen Canada’s economy as Trump’s trade war slows growth - Butler Eagle",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXp4QUFEWXByYWNXdnM1amRiY25MYlA4SXllZVdfRV9MMWstT3RRV3RZbDVhcko5Zk1OdnFOTDRqZTQtNHc2SEpuWFlrSkVQbFUyRFRRRGlVTW01Wm1pX3MwSXluN0U2Z09VRWJ3QWtsRUo0ZW5UU1FZRzdJekZPaHY2RHNubUdWNWpUS2tzNUdBZ0hWUzllWVc3cENjQjZfaDE5eWhKZUlodTkwYnVJVlVjMFk3REE5R2tNZEVpUQ?oc=5",
    "ts": "Fri, 06 Nov 2026 02:13:45 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney unveils budget to strengthen Canada’s economy as Trump’s trade war slows growth - The Seattle Times",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzQ3bkk3c3pkczhEU010X29jSUN3U1ltcmllcU12WXpGclBWRWFWdGltTlpnSTlZWkVKQ3lDUC1lTmZXTHhOLU4wNlJsY29sMzlxV0psVTJpaktwVkVHS1dsNm11YTFwUmhDenhUSFdlVTN1Yy1jOFJuRnUzMTdOZlg2UTI1R2tyMDB2SUFjTkEyV1J3Z2xUVm5BQ2pyRmRkQk1IVnJ2N3dyMGwxbXBLVkZrZ1ZvMFVwdUVHLQ?oc=5",
+   "ts": "Thu, 05 Nov 2026 22:24:04 GMT"
   },
   {
    "src": "gnews",

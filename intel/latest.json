@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T00:30:22Z",
+ "ts": "2026-11-06T00:45:20Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -389,15 +389,15 @@
   },
   {
    "src": "gnews",
-   "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
-   "ts": "Thu, 05 Nov 2026 03:50:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues - Ottumwa Courier",
    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQS2FXbmk0a1A4VE9lNnhQTV81elFYYjFPcVM5U1VKTjJYMlRJVHhtM1M3SzBHN0FUakZiLVdzeEtXdXdzcFhUZ1p4ejdaS2ZoTGo5R24tTU5BY2hTU1Bwb3hCVXlWZkdJQ2h2QW9adVdsQzFVd2dtcUktN1A0NmhzeTJTRXBGQlVZMVd4N0hLdWRoUW8xT3NPcGJOWkJLLTRwWHBFcG1RVk1uYTdmYUYyb3hzMW04LXFuTFNiVS02ZFV6emVIMXZQdWV3d3NSRHkwWXRoV1dSSHAzV0ZSVjQ5T0lRT09tYXA5T3ZZSGMyRFBQTC16Y0xGMl9qdVdWeDk4RU5VUFVNOA?oc=5",
    "ts": "Thu, 05 Nov 2026 22:23:48 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
+   "ts": "Thu, 05 Nov 2026 03:50:00 GMT"
   },
   {
    "src": "gnews",
@@ -419,7 +419,7 @@
   },
   {
    "src": "gnews",
-   "title": "What does midterm humbling mean for Bessent ahead of US-China trade talks? - South China Morning Post",
+   "title": "What does midterm humbling mean for Bessent ahead of US-China trade talks? - SCMP",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeGlmbUlvNVBvdFVCRVhqallRb0RwaGxQVzRRbVpXaHh1YUJKMGc3LUJnYno0NFQwRnVXSm5CTzN3MEtGbWdoX0tCc21oMHl4WGJyRWRHaE9XQzFjWXRGSXlyYW83WDV2MHFqMTd6YnhSNndNcjBEYk5NdzdfOUdMX19kZkdjRl9vTm04Tklya0xRbzg0enB4d201ZmtTM24zU0xBel81YlJRWVFLUV9xMnlnSnhmR1FzelBLR1U4OTU4dW9PQnfSAcYBQVVfeXFMUHREYzVxOG9HbmNYZ05HZkRwS29TamppSHRPd0szZGFHS0Yxc2l1NmpZelF2RjlhRVpQWVdoWkhKXy0yRi1kRlBWRW12RnVscHRRTG5ON2dFb0dtQTV1S0FnMW5zLVhFLWEwT2JBWk9UY29oRmh1dFo5N0RBNG1rMjNscTg1bzlKTl9selBWMTZzX3llWWY4c0NoYkpTLUVsNVRJVHZwdk56ZE5SZjRTaVE3eVdNeGxBNzVfdDRNTks3U1dtNDFR?oc=5",
    "ts": "Thu, 05 Nov 2026 14:30:07 GMT"
   },
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "Carney Asserts Canada’s Sovereignty and Vows to End Homelessness in Budget - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY2tHX1ZPRnpsY2hBY1czeTVsSmJ1b010VnllRVVHbEJfanVyQnFlVTRCT0JVaW9QbGwtNVBrc2VWWnREMkhtTHZXbWFCT0N0SE5VNnJiME9zV3dvZElISTFKaXYyN0lONUFtYlpyR0xyNmticWhuUUFUVUpIV29LU3pzeUU2RS1SN3JXb1ZFUE5LSEg0RmlF?oc=5",
-   "ts": "Thu, 05 Nov 2026 21:30:46 GMT"
+   "title": "Analysis-China's yuan dilemma: too weak abroad and too strong at home - Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2RVTFhXMHNLbzI0eWQ5Q3JQMmhDb0xMaFRPRVdUYXNudUFkcU80ZkcwZzlhU21EU2tZYVpOMlBLNkczTFJaRDRIWUU3WUc1MXNmb0U3aXoxbDhXNDJxU29DaHpfcVAyQmxjUjFDaUlmY3BjWDYyYVVNQnJEMHZONF94RmZpTDJR?oc=5",
+   "ts": "Thu, 05 Nov 2026 23:08:01 GMT"
   }
  ]
 }

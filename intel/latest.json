@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T05:30:26Z",
+ "ts": "2026-11-06T05:45:21Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -347,9 +346,9 @@
   },
   {
    "src": "gnews",
-   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzNLUjBwZFJZSVE0U0NxbTVYbVotU0R1ak1zb2g1LTR2a0MtYkxVcGZFOFhZNkcza1hhTlpobGN4bU1hVmZhUGs5UFk5TC1kYWdXS181NHdZZlJGdEJMc0NNcHl5dndpaHo2SXpJcUxjeHkwVkZQTkhBX2xVVlg0eWNkZXRkcGx6NEpRQlFiLWtXdElVcllTWHhGZWxvUEREWXEzM2RocjFjbXBIbm1wOVhUSkEzOGFCb3ZMZ21WdElEU3l3em15cGZtZkdUQQ?oc=5",
-   "ts": "Thu, 05 Nov 2026 09:24:59 GMT"
+   "title": "Analysis | Trump’s favorite economic policy was among Tuesday’s biggest losers - The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVW1ybXNFaVdKR3V2UVVoOENIVkNscGpuVHhqZjEtR19zNVVwdFRzOFdBM1Vhc3dKcTVkZTRRUWJ2RUpUYnk4eUctZndfbzh2cDhLZlJIel92b3dTeFF4Wi0xOVZRSnVjNndUWk51XzZ1cWVJVlJfRml4NGVIV1FpTA?oc=5",
+   "ts": "Thu, 05 Nov 2026 18:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -359,15 +358,21 @@
   },
   {
    "src": "gnews",
-   "title": "Analysis | Trump’s favorite economic policy was among Tuesday’s biggest losers - The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVW1ybXNFaVdKR3V2UVVoOENIVkNscGpuVHhqZjEtR19zNVVwdFRzOFdBM1Vhc3dKcTVkZTRRUWJ2RUpUYnk4eUctZndfbzh2cDhLZlJIel92b3dTeFF4Wi0xOVZRSnVjNndUWk51XzZ1cWVJVlJfRml4NGVIV1FpTA?oc=5",
-   "ts": "Thu, 05 Nov 2026 18:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump’s trade chief pushing him to step up negotiations with Canada - Politico",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUY3c1JIclBSa09VTXM3UlJiMWtrUkxUdFJoRTV6Zl9ZZGJQcUlCTFppQm9ESWhrcGVfTWRHdy1SSkU4U2ktY2ZiMEtWNnBiWkhDQmVuajlhTlFDa3NJM0dESGNTeWdPbmNMWTBxV2swVkhLbV9QdFdhUWhORl9Ca2NHUFlxNEFFamRWNzhQRlJEdFNadkd5M1RQMTM?oc=5",
    "ts": "Tue, 03 Nov 2026 23:55:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China says US farm purchases hinge on tariff-cut deal - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjZCZGJiUVFJRkdBeU1DaTExb3FMSmdaLVRuLTRrQWNnd3F5MDg1YnZlTUZfclBPRWhQZXdlbWxEakVXdlNidWVWbmhFcGZTVEpSOWlJSE1FTHhOWTVlUXkwSG5rTXRNTDE5ckRWTzhnYmx3LVVJSDE2S2JNQW9CTUNFanlFNWlqMkJWdFZTMzU0VnpzX2tua25aQS0zNTdsUDNRRA?oc=5",
+   "ts": "Thu, 05 Nov 2026 07:44:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "EU-China truce under strain as both sides brace for potential trade war - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjVtNGU1dEM3bzhWMDFrSVNJdEhyajJKSG1sS1pUWGdBX084eVRkQ2x6MGd5RWV6bm5GTE9xbVdZRHhZR1M3UzYwekh0MGZOXzJJcTRzUmtlZjN3LU1qMHNPTkhUQmE0Zm5QLXEzLWMtcXUySFotUS1VV0luZzdyUE1acVdtd0VUZC1LaWJSMkV6dThfVWZ1SGxDQWJZZ29zcUY5STREX2pRd3g3Z1pRbVg5c3Q2VVhYU0HSAboBQVVfeXFMTzFXVmdua3JUbjNFTGZWT2o3VjdVUVBmQXVKSWI3VmJmZkJhVTl1ZFBpZm5KZU0xNXB1bktfNDJxMWlQTk1QQWVGdnJ1SE10NHZwVWtlQWxaOE5FMmZnQi1QX0tMQVZVdkFQSjFBOXA2YzVweTJHaGJiMF9nNjdBNmFSWnNpWDlaVUFoaC1ZbW1SSmlkbTVXRUxEaElYTUhTYTFpQXZDU282cEJKWk1hVUpYNWtYd1ozLWhB?oc=5",
+   "ts": "Fri, 06 Nov 2026 04:37:57 GMT"
   },
   {
    "src": "gnews",
@@ -383,9 +388,9 @@
   },
   {
    "src": "gnews",
-   "title": "EU-China truce under strain as both sides brace for potential trade war - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjVtNGU1dEM3bzhWMDFrSVNJdEhyajJKSG1sS1pUWGdBX084eVRkQ2x6MGd5RWV6bm5GTE9xbVdZRHhZR1M3UzYwekh0MGZOXzJJcTRzUmtlZjN3LU1qMHNPTkhUQmE0Zm5QLXEzLWMtcXUySFotUS1VV0luZzdyUE1acVdtd0VUZC1LaWJSMkV6dThfVWZ1SGxDQWJZZ29zcUY5STREX2pRd3g3Z1pRbVg5c3Q2VVhYU0E?oc=5",
-   "ts": "Fri, 06 Nov 2026 04:37:57 GMT"
+   "title": "Democrats’ midterm win threatens to disrupt Trump’s fragile truce with Xi - NBC News",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDI1Q05VNGNRSEFSMWFldFlFakEzeVozb1NicVBqTmNZVlBkYjlEWVBaV3BFU1J4bHRMTUp6SU1jQ3REaHU1X2FGc2lvMHNBemY5eDVDME5wMTRQckxMcFFZdlJGTmx5R3B0MDViSUlmLU9qbmFDcGdGdHRZS1FTU0NHN1VsaHhhQ0pXM25mcEotZ1lZb0p1Q2IwZGNaYnBkUXZpSFF0cXJnQW9IQlE?oc=5",
+   "ts": "Thu, 05 Nov 2026 19:05:07 GMT"
   },
   {
    "src": "gnews",
@@ -407,15 +412,9 @@
   },
   {
    "src": "gnews",
-   "title": "In Victory, Democrats See Economic Mandate to Cut Costs and Curtail Trump - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTDlMUF9FcGpiUS1VRTdsUlRzdjdGeGNMcUN2MjY2emNRcmd2NEF2OXctcm9lZ0pEa1A2bTBlRTJCZm9hNEpveDJXWnd5YXptNlBzbzRYOHFwOVFWb19JbjhQQUlhWEhoa2hjZExISWNHTlhBNnlWOXVaUkNZRWpQeFBRYjhpU0tjR1o5R2piV1Z0TkYt?oc=5",
-   "ts": "Thu, 05 Nov 2026 10:04:56 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China says US farm purchases hinge on tariff-cut deal - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjZCZGJiUVFJRkdBeU1DaTExb3FMSmdaLVRuLTRrQWNnd3F5MDg1YnZlTUZfclBPRWhQZXdlbWxEakVXdlNidWVWbmhFcGZTVEpSOWlJSE1FTHhOWTVlUXkwSG5rTXRNTDE5ckRWTzhnYmx3LVVJSDE2S2JNQW9CTUNFanlFNWlqMkJWdFZTMzU0VnpzX2tua25aQS0zNTdsUDNRRA?oc=5",
-   "ts": "Thu, 05 Nov 2026 07:44:00 GMT"
+   "title": "Trump's political humbling signals short-term gain, long-term pain for China - Al-Monitor",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQamJpRm10Y0pmUU5wcnp4NXR3OUd4bEFuWkRfWnVfb3VmbXJ2eXlnb1JvQUV0cmhhRzFWd3NfdlUyTENlNFNGV2JmcDNILXFKQjRoa1daTHdGbmVqT29kYjVfWmRtOU05LVpQVDU1S1h2QkNzWWRHdVdabEhaby01NVYzaXcxc1dyOGh2aVRidnBENWUxMDBYbEVKQ1VwSTRNYjk1NEZVUEh4QXV3ZDQ0ZFQzQXB1UQ?oc=5",
+   "ts": "Thu, 05 Nov 2026 12:50:25 GMT"
   },
   {
    "src": "gnews",
@@ -425,15 +424,27 @@
   },
   {
    "src": "gnews",
+   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzNLUjBwZFJZSVE0U0NxbTVYbVotU0R1ak1zb2g1LTR2a0MtYkxVcGZFOFhZNkcza1hhTlpobGN4bU1hVmZhUGs5UFk5TC1kYWdXS181NHdZZlJGdEJMc0NNcHl5dndpaHo2SXpJcUxjeHkwVkZQTkhBX2xVVlg0eWNkZXRkcGx6NEpRQlFiLWtXdElVcllTWHhGZWxvUEREWXEzM2RocjFjbXBIbm1wOVhUSkEzOGFCb3ZMZ21WdElEU3l3em15cGZtZkdUQQ?oc=5",
+   "ts": "Thu, 05 Nov 2026 01:51:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "‘More carve-outs’? How the midterms could affect US trade policy on China - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb05DX3U3cmVhWTVRVTRQbkdqRTB3RzhFdlhfeWxGckw1cl93bjJXMkwwLTJURUxuRUI1eUNDTm5SVE1FQmtFNFRhaXVXQnJtbjAyNkI4VFQ0NWdkZnplRHZhdVBBSTNpT09mWlgyTVFrRzdBX2dMS0VycDBjcnpPdnVBSWE1RmlxY1M3TjdkdUVJc2RPWGN5cUljMVJvZnJPVnFKSjFMONIBpwFBVV95cUxNWG1faG9kV1ItTlIyLTlfeXdETldlcFlPRXJfLWJxdy1tcFVTSTU5MTBmSkpuVjROVmtQMGZYcXpLZmpLTl9tY294QVRrYjI1enJTaThlVXUwakJqc1dhQWZKVGFXTjZxTnZGU1NSMENMeGZrQ0pyMHg3NlN1Z0NrLUZUQThXUW4xYjJOc0k3UnlMVVZsRlpwZjR4ZGdsUEVUQWhBcWVicw?oc=5",
    "ts": "Wed, 04 Nov 2026 14:00:09 GMT"
   },
   {
    "src": "gnews",
+   "title": "Trump’s Israel aid cut reveals push to trade grants for tech cooperation - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWVjaHppWEFpSllMX3dJNnM4bDV5TmdZeXZseWJCY1BieVhLQVRqem85TDBTNnFfaURrY3dsQnNfVWJYQlZPUDNIZDlSWU5ickkwMS1uOWhuX00yZHo5REFTbzdjQmh4bkNnSW1kZWVFTENsdlRJcFloNmtiOXJtM0hyWkg1ZWsxZ2daeUZIaVJ4Vjd6RmlyTEFCcmhKSE8xeG9YMU5BQjgwN1pMM0JlcUZ4Y1N1ZWdpWm04VtIBvAFBVV95cUxQbWNGQXZOYkNURFU5WHZ6T0NIelBDYnEtN1JtQVFzVDZFeHZXci1ueW8xRkM4QWhrZnJEYS0tMWhSdUNYbHY3YmlmNGxDMEk2dVpLRXdEUUVmR3pJeXdLd0d2WV9HeC1Xd2VvQ2ZvNHFiQUh5WjgzcnFuakJLaVZCMUF6VzJhcElqaWFoQi1vd2toTjhLU08xdC1FckV5dk1iTDZVT2I2Y3pfenBET0lQay1rdHJobXdDSENMYQ?oc=5",
+   "ts": "Fri, 06 Nov 2026 05:00:29 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump's political humbling signals short-term gain, long-term pain for China - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVBkVEFRMUNIQ0xmQVZXR1lLZmJBeVJiMXJMalZKLTRCaG00cmhCWjVKQjZmUUh3ajlGY3hjejlwRm40M1BNVXlwWFJjcXU0Um40QVNQY1BjNEZFbGF0RUdvamZYNlBCelY2UFBuOHVzU2pRYWk5RXRPbjU5QkdwcUo2cXhKU2JqMy01ZHpoQk5MbTg2a19rdXRCR1JLeFI2RzJMNDNtMm9LelZOWS1vaVpyNG5GS2pManc?oc=5",
-   "ts": "Thu, 05 Nov 2026 11:46:06 GMT"
+   "ts": "Thu, 05 Nov 2026 07:57:00 GMT"
   },
   {
    "src": "gnews",
@@ -448,16 +459,124 @@
    "ts": "Thu, 05 Nov 2026 14:30:07 GMT"
   },
   {
-   "src": "gnews",
-   "title": "U.S.-China trade deal won't happen before 2020 vote -JPMorgan CEO - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wLVRlSGlhb21iQV9sNTVmbmV1TUpWdktVdE1mNWhPWEE2c0hzUjFxd0IwZHJNbTFkazYtLVhEcklIbmJEZUM0YldKZl80OThDNHNlODZIOVNoZGhJ?oc=5",
-   "ts": "Thu, 05 Nov 2026 14:36:53 GMT"
+   "src": "gdelt",
+   "title": "Donald Trump Iran Military Operations : Another attack on Iran soon ? Donald Trump meets top security advisers for first time since midterm elections",
+   "url": "https://timesofindia.indiatimes.com/world/us/another-attack-on-iran-soon-donald-trump-meets-top-security-advisers-for-first-time-since-midterm-elections/articleshow/135592921.cms",
+   "ts": "20261106T050000Z"
   },
   {
-   "src": "gnews",
-   "title": "Trump’s Israel aid cut reveals push to trade grants for tech cooperation - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWVjaHppWEFpSllMX3dJNnM4bDV5TmdZeXZseWJCY1BieVhLQVRqem85TDBTNnFfaURrY3dsQnNfVWJYQlZPUDNIZDlSWU5ickkwMS1uOWhuX00yZHo5REFTbzdjQmh4bkNnSW1kZWVFTENsdlRJcFloNmtiOXJtM0hyWkg1ZWsxZ2daeUZIaVJ4Vjd6RmlyTEFCcmhKSE8xeG9YMU5BQjgwN1pMM0JlcUZ4Y1N1ZWdpWm04VtIBvAFBVV95cUxQbWNGQXZOYkNURFU5WHZ6T0NIelBDYnEtN1JtQVFzVDZFeHZXci1ueW8xRkM4QWhrZnJEYS0tMWhSdUNYbHY3YmlmNGxDMEk2dVpLRXdEUUVmR3pJeXdLd0d2WV9HeC1Xd2VvQ2ZvNHFiQUh5WjgzcnFuakJLaVZCMUF6VzJhcElqaWFoQi1vd2toTjhLU08xdC1FckV5dk1iTDZVT2I2Y3pfenBET0lQay1rdHJobXdDSENMYQ?oc=5",
-   "ts": "Fri, 06 Nov 2026 05:00:29 GMT"
+   "src": "gdelt",
+   "title": "Трамп знайшов винних у падінні фондового ринку США після виборів",
+   "url": "https://glavcom.ua/world/world-economy/tramp-znajshov-vinnikh-u-padinni-fondovoho-rinku-ssha-pislja-viboriv-1153764.html",
+   "ts": "20261106T050000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump makes the Oval Office a national monument",
+   "url": "https://www.ksbw.com/article/trump-proclamation-prevent-changes-oval-office-cabinet-room/74349743",
+   "ts": "20261106T050000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "特朗普将椭圆办公室列为国家纪念物 确保设计不被更改 _ 新闻频道 _ 中华网",
+   "url": "https://news.china.com/socialgd/10000169/20261106/49847073.html",
+   "ts": "20261106T050000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "سمير فرج : سيطرة الديمقراطيين على الكونجرس تضع ترامب في موقف البطة العرجاء",
+   "url": "https://www.shorouknews.com/news/view.aspx?cdate=06112026&id=a1b783b8-bca3-4eb2-bbb0-37eb96ff7f35",
+   "ts": "20261106T050000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "As $2 . 5 trillion wiped off Nasdaq in one day , Nvidia and other technology companies that were the biggest losers",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-2-5-trillion-wiped-off-nasdaq-in-one-day-nvidia-and-other-technology-companies-that-were-the-biggest-losers/articleshow/135593046.cms",
+   "ts": "20261106T050000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "美国选民对AI说不 ： 44项数据中心暂停提案中43项通过 科技巨头受挫 _ 新闻频道 _ 中华网",
+   "url": "https://news.china.com/socialgd/10000169/20261106/49847070.html",
+   "ts": "20261106T050000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "अब्दुल अल सैयद से बंधी उम्मीद",
+   "url": "https://www.deshbandhu.co.in/editorial/hopes-pinned-on-abdul-el-sayed-330098",
+   "ts": "20261106T050000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ο Τραμπ κηρύσσει το Οβάλ Γραφείο του Λευκού Οίκου ως « ιστορικό μνημείο » ",
+   "url": "https://www.inewsgr.com/27/o-trab-kiryssei-to-oval-grafeio-tou-lefkou-oikou-os-istoriko-mnimeio.htm",
+   "ts": "20261106T050000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Pope Leo begins major Latin America tour three weeks after lung surgery",
+   "url": "https://timesofindia.indiatimes.com/world/us/pope-leo-begins-major-latin-america-tour-three-weeks-after-lung-surgery/articleshow/135592933.cms",
+   "ts": "20261106T050000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Раскрыта месть Трампа Нетаньяху за провал : главная новость войны 6 ноября",
+   "url": "https://aif.ru/politics/raskryta-mest-trampa-netanyahu-za-proval-glavnaya-novost-voyny-6-noyabrya",
+   "ts": "20261106T050000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Justice Department : MA Man Who Idolizes Mass Shooters Allegedly Threatened to Kill Pres . Trump",
+   "url": "https://redstate.com/beccalower/2026/11/05/justice-department-charges-man-death-threat-trump-n2209097",
+   "ts": "20261106T050000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Кара для Нетаньяху : Израиль объявили виновным в поражении партии Трампа",
+   "url": "https://aif.ru/politics/kara-dlya-netanyahu-izrail-obyavili-vinovnym-v-porazhenii-partii-trampa",
+   "ts": "20261106T050000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "النفط يتجه لانخفاض أسبوعي حاد",
+   "url": "https://www.alquds.co.uk/%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%AA%D8%AC%D9%87-%D9%84%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9%D9%8A-%D8%AD%D8%A7%D8%AF/",
+   "ts": "20261106T050000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "跌破4000美元关口 ！ 黄金遭双重压制 ， 美中期选举将带来喘息空间 财政僵局或利好金价 _ 新闻频道 _ 中华网",
+   "url": "https://news.china.com/socialgd/10000169/20261106/49847100.html",
+   "ts": "20261106T050000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "انقطاع متسلسل في وول ستريت .. ما سر التحول العنيف في السوق ؟ ",
+   "url": "https://www.argaam.com:443/ar/article/articledetail/id/1951078",
+   "ts": "20261106T050000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Hegseth vows to keep fighting from Pentagon , defends Iran war – Taylorville Daily News",
+   "url": "https://www.taylorvilledailynews.com/hegseth-vows-to-keep-fighting-from-pentagon-defends-iran-war/",
+   "ts": "20261106T050000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Key federal panel approves Trump arch while it being challenged in court - Las Vegas Sun News",
+   "url": "https://lasvegassun.com/news/2026/nov/05/key-federal-panel-approves-trumps-arch-while-its-b/",
+   "ts": "20261106T050000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Jamie Dimon said on CLARITY Act allowing yield - paying stablecoins that JP Morgan will fight it , if we lose , we lose ; here how Democrat win means end of ... ",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/jamie-dimon-said-on-clarity-act-allowing-yield-paying-stablecoins-that-jp-morgan-will-fight-it-if-we-lose-we-lose-heres-how-democrat-win-means-end-of-/articleshow/135592947.cms",
+   "ts": "20261106T050000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Трамп раскритиковал закон Байдена о запрете топлива из России",
+   "url": "https://russiatoday.ru/world/news/1704931-tramp-zakon-baydena-toplivo",
+   "ts": "20261106T050000Z"
   }
  ]
 }

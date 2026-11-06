@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T13:31:03Z",
+ "ts": "2026-11-06T13:45:59Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -371,15 +371,15 @@
   },
   {
    "src": "gnews",
-   "title": "Analysis | Trump’s favorite economic policy was among Tuesday’s biggest losers - The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVW1ybXNFaVdKR3V2UVVoOENIVkNscGpuVHhqZjEtR19zNVVwdFRzOFdBM1Vhc3dKcTVkZTRRUWJ2RUpUYnk4eUctZndfbzh2cDhLZlJIel92b3dTeFF4Wi0xOVZRSnVjNndUWk51XzZ1cWVJVlJfRml4NGVIV1FpTA?oc=5",
-   "ts": "Thu, 05 Nov 2026 18:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Why Malaysia may still face trade uncertainty after US midterms - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV0stNl9hWlhtX3htN3ptVEtHSEFybjZZLXJNUWd0TFpaODdOT0FreTRpemFqbXFOSXhwQzIwVDl1dnFSdXl1eEdtUF9NTUpYNDNBcVdkRmNzSW5XV0ZkU0YyZUQyV2ZPdGM1dC10a2JlQUVuWVBwOWJwYTA2VDlzZktTbzlENUYtZFFXazlSbnJIVDJqc1VDcUdmTm1vMjUzaGxfZjZkeTRTMEFLLVpxYXJaaTc3ZEpELUpTWNIBvAFBVV95cUxPdmVUNS1fSW9OUFU3X0lJZWgzcXBfZGxjSXVaREI0R1hwZlRqejF1VmpuUXBlVmpQRnA3RTJuQ3lYVmZOUnE0TEswbVlwekE2a2pwaXYwM3hYaHlkeTJiYWRTU3BMY3RuVVhnMU54M3VBNldfa3A0VWl3ZjNMSDV3angyb3F6Zy1uLTFnNlVUTUNBd2RJTTViMFJ1U3dDTWRCc2RKTWxpeUNraUVZSmxPSm1keWtLTjZGSzI1cA?oc=5",
    "ts": "Fri, 06 Nov 2026 09:00:26 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Analysis | Trump’s favorite economic policy was among Tuesday’s biggest losers - The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVW1ybXNFaVdKR3V2UVVoOENIVkNscGpuVHhqZjEtR19zNVVwdFRzOFdBM1Vhc3dKcTVkZTRRUWJ2RUpUYnk4eUctZndfbzh2cDhLZlJIel92b3dTeFF4Wi0xOVZRSnVjNndUWk51XzZ1cWVJVlJfRml4NGVIV1FpTA?oc=5",
+   "ts": "Thu, 05 Nov 2026 18:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -392,12 +392,6 @@
    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
    "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Republicans ran away from Trump's Canadian tariffs, but not far enough - CBC",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWFla0RpSXFaM3ZSOEdGakVISDdqcm5ZamlNM0VpQVRJVkFkNVl2WmZ4ZTRWdVVCaXNzSkZ2cEg2VjdxNHczY21EVkszR3gyaDJURDN2bXlXbi11dDlDM1M2T0RZTmk5ZklHNWJfS0pEeGZtbHhUTDdjR3VuS25hQkFqeGFUaGdsQjNz?oc=5",
-   "ts": "Fri, 06 Nov 2026 12:31:35 GMT"
   },
   {
    "src": "gnews",
@@ -437,6 +431,12 @@
   },
   {
    "src": "gnews",
+   "title": "The US Thought It Could Change China. Instead, China Changed the US - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0pSV25xV3dMSlQ1RGluRWtaU0ozRUE3X1FxT21ZSzNoTWNtT0F0WXFkdXNyel83OU9GRGcwdWgyTzMtS2lROXB3cXFCTkVFdFYxZlRVY0wzeXFEWFZDdXVhZGNpeGpILUlGWnoyVWhqM0lZZTVzei1iYUIyRElvR1NSel9EUDB4TnpETFhUVkZCNjBRR2FDLXdkeWNmUVk?oc=5",
+   "ts": "Fri, 06 Nov 2026 12:00:33 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "EU-China truce under strain as both sides brace for potential trade war - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjVtNGU1dEM3bzhWMDFrSVNJdEhyajJKSG1sS1pUWGdBX084eVRkQ2x6MGd5RWV6bm5GTE9xbVdZRHhZR1M3UzYwekh0MGZOXzJJcTRzUmtlZjN3LU1qMHNPTkhUQmE0Zm5QLXEzLWMtcXUySFotUS1VV0luZzdyUE1acVdtd0VUZC1LaWJSMkV6dThfVWZ1SGxDQWJZZ29zcUY5STREX2pRd3g3Z1pRbVg5c3Q2VVhYU0HSAboBQVVfeXFMTzFXVmdua3JUbjNFTGZWT2o3VjdVUVBmQXVKSWI3VmJmZkJhVTl1ZFBpZm5KZU0xNXB1bktfNDJxMWlQTk1QQWVGdnJ1SE10NHZwVWtlQWxaOE5FMmZnQi1QX0tMQVZVdkFQSjFBOXA2YzVweTJHaGJiMF9nNjdBNmFSWnNpWDlaVUFoaC1ZbW1SSmlkbTVXRUxEaElYTUhTYTFpQXZDU282cEJKWk1hVUpYNWtYd1ozLWhB?oc=5",
    "ts": "Fri, 06 Nov 2026 04:37:57 GMT"
@@ -449,15 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "China deepens trade offensive with probes into key EU and Japanese materials - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQVRpZUhPTEZNaDhJQ1FQMFVSbGtjMXdOaHhzdEZjSDNRdUUtbmlCbEVfbnhPYnZzRkdJZEdGci1PMGt0V3JOVV9rZmJ6LWROZ0U1N3pJR1kyS0pnSzBpcXNYSUUtbDBKQUlJbWRFREVIWXRIdGJjMXA0SHdwSDNEX1NVZDNULTFRU0tTQi05VTF1dDNDamdIT3V5UDRReVVpZzlodlREYkk1QjhKWmpBYmJrai1PdHlqVkZfTmMwdllrMlla0gHEAUFVX3lxTE8wdkFHOHdOM1p0a2RWcUQ0S2E5OEtPT3FmQUp0cUJGRmx4ejllME5Eb192RHNGQXh2bG11X3gySjFtZDdXVzJhaTZCcVd0UmJUZ3NWd1VUczBhVzdKVXBQcWFiQldvLVo3Z2I4ZzhxMnByVlpfUmE0aDZ0TTBtSlQ1dHdmQm42cVhnQVVfUFZvbzdLUmJxcXp0MDFzN2hSaXhwZ2d3bDVhY0RveXQ3SF9rblVZdmhiSnExZEZkWXNrMWhsbVE?oc=5",
-   "ts": "Fri, 06 Nov 2026 11:00:09 GMT"
+   "title": "Republicans ran away from Trump's Canadian tariffs, but not far enough - CBC",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWFla0RpSXFaM3ZSOEdGakVISDdqcm5ZamlNM0VpQVRJVkFkNVl2WmZ4ZTRWdVVCaXNzSkZ2cEg2VjdxNHczY21EVkszR3gyaDJURDN2bXlXbi11dDlDM1M2T0RZTmk5ZklHNWJfS0pEeGZtbHhUTDdjR3VuS25hQkFqeGFUaGdsQjNz?oc=5",
+   "ts": "Fri, 06 Nov 2026 12:31:35 GMT"
   },
   {
    "src": "gnews",
-   "title": "How China Accidentally Broke the West’s Monopoly Over the Weapons Trade - CounterPunch.org",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPekVlazRMWnRzWG1NWDNNQ3kxYUNVdUtudV8xY1g2bWx2V3pQaFVpekMyTkxoZkNFVlJkaU51NjBDTnRpbk5zbWNsY1RkZHM?oc=5",
-   "ts": "Fri, 06 Nov 2026 07:33:18 GMT"
+   "title": "China deepens trade offensive with probes into key EU and Japanese materials - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQVRpZUhPTEZNaDhJQ1FQMFVSbGtjMXdOaHhzdEZjSDNRdUUtbmlCbEVfbnhPYnZzRkdJZEdGci1PMGt0V3JOVV9rZmJ6LWROZ0U1N3pJR1kyS0pnSzBpcXNYSUUtbDBKQUlJbWRFREVIWXRIdGJjMXA0SHdwSDNEX1NVZDNULTFRU0tTQi05VTF1dDNDamdIT3V5UDRReVVpZzlodlREYkk1QjhKWmpBYmJrai1PdHlqVkZfTmMwdllrMlla0gHEAUFVX3lxTE8wdkFHOHdOM1p0a2RWcUQ0S2E5OEtPT3FmQUp0cUJGRmx4ejllME5Eb192RHNGQXh2bG11X3gySjFtZDdXVzJhaTZCcVd0UmJUZ3NWd1VUczBhVzdKVXBQcWFiQldvLVo3Z2I4ZzhxMnByVlpfUmE0aDZ0TTBtSlQ1dHdmQm42cVhnQVVfUFZvbzdLUmJxcXp0MDFzN2hSaXhwZ2d3bDVhY0RveXQ3SF9rblVZdmhiSnExZEZkWXNrMWhsbVE?oc=5",
+   "ts": "Fri, 06 Nov 2026 11:00:09 GMT"
   }
  ]
 }

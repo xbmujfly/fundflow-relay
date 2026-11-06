@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T23:15:57Z",
+ "ts": "2026-11-06T23:31:01Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -371,6 +371,12 @@
   },
   {
    "src": "gnews",
+   "title": "US urges China to honour Busan trade deal commitments - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemI4U2V6Z1BYeGlHbDlHSENZR1JaR1VxQ0hZVFRZWTlpNGhfMDdDel9udEcyVTM5eThkaDJENTUzdURpTGFwTFl0WkRpVjl5dGFvZEgydXk3ZDRNN1ZTZHZIRXVvclY3OGRPemk1eWtCSWdTY2RvdVpLSjByTXNkR202ZDZxNFNUNmh1SnBQUW1BNjdwRzRUajRTYnZxZ9IBowFBVV95cUxOajB4Y3FQZHRmZlp5ZHNiMThkUk5ZMEt0cjNyZDBmY1JhREVQRkRRbnZiRWxUZzdEaUJqcDZDMEc3c2xqMVkzSmZwaUdvSk5jMHdOLWlfTU12bzJWaVBTeVYzYUFiNlRoQnlTOXc4TkpKWGRYQjZReEFaTG9CYkxTTUQ5Y0tScWpQVVhjLWtrNlNNUzJkVE9NSFFZM184YTJhQWNN?oc=5",
+   "ts": "Fri, 06 Nov 2026 23:07:24 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump’s trade chief pushing him to step up negotiations with Canada - Politico",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUY3c1JIclBSa09VTXM3UlJiMWtrUkxUdFJoRTV6Zl9ZZGJQcUlCTFppQm9ESWhrcGVfTWRHdy1SSkU4U2ktY2ZiMEtWNnBiWkhDQmVuajlhTlFDa3NJM0dESGNTeWdPbmNMWTBxV2swVkhLbV9QdFdhUWhORl9Ca2NHUFlxNEFFamRWNzhQRlJEdFNadkd5M1RQMTM?oc=5",
    "ts": "Tue, 03 Nov 2026 23:55:00 GMT"
@@ -385,7 +391,7 @@
    "src": "gnews",
    "title": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump’s Canada Tariffs - WSJ",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVhNeS1XX0xDd1ZkN3JZMkdWcUJkaFhONTBWSmprcWxkRVpqbU02QUQxWnRVRXdlTHBzaVJNMENWaE5HaFcyU2pCVDl3SkpXV3Y4UTlEMzM4STJFc3FGVVByUW1xUHh1QWlqOWx2bHBKQTZxb09zSDQtMklkRFpsRENDbWRiNzg3dzlwMnVqbVpLQkhRVWwwT0F6UUxFODdybWFqekNqUVhrcEZKNzZz?oc=5",
-   "ts": "Fri, 06 Nov 2026 02:00:00 GMT"
+   "ts": "Fri, 06 Nov 2026 02:02:52 GMT"
   },
   {
    "src": "gnews",
@@ -419,21 +425,21 @@
   },
   {
    "src": "gnews",
+   "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnlsdF9sNDNwY0VTbjBVa1QwUmFYZXJQUWhfcEdtSF9NUWFlNS1KOTh5RW1EcXQ3NUpsVnFVazZsSmRBZ01pUkRkVFRRTXlvWkcxUjFzYVlMa2d3YmZqaWs0dXBzLTBWNE5MZ19wWW1LQldvbFJSNUM4MzBnUUZsYVlDczRmLWI3UnZ2WTFxT1VwWkFWZHBUdXYyUWlZeE9XSWVxTDhSSmxyUktGb0dIaXMyUnJqdw?oc=5",
+   "ts": "Fri, 06 Nov 2026 20:37:40 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Breaking | US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRUFWMk43LWUwejZmVlp6a2FISG5rSGx2aDB6ektfSWxPcnhiN2FEWnlabGJIT2QtWHV0VlZ6a3JRbzJNYzN0VUlJNzVyVi1ldXNZYmZuX3lIazJ1ckhzT2dRUDdsN2NrZTJzZDRIVW9HelFNTUwtTXVCY3ZlQk5UU2YtbW53Si1HeUxmTFY5MnNjeFJZWlhXaTJsS2tHOTZTdk84c3hheUV4Z1NlTS1LeldERWVGRlFyRTRnOEJYYjZUUUlJMV8zZnZpX2lfRTNLSFUtTWdRVUJuUQ?oc=5",
    "ts": "Fri, 06 Nov 2026 18:34:11 GMT"
   },
   {
    "src": "gnews",
-   "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnlsdF9sNDNwY0VTbjBVa1QwUmFYZXJQUWhfcEdtSF9NUWFlNS1KOTh5RW1EcXQ3NUpsVnFVazZsSmRBZ01pUkRkVFRRTXlvWkcxUjFzYVlMa2d3YmZqaWs0dXBzLTBWNE5MZ19wWW1LQldvbFJSNUM4MzBnUUZsYVlDczRmLWI3UnZ2WTFxT1VwWkFWZHBUdXYyUWlZeE9XSWVxTDhSSmxyUktGb0dIaXMyUnJqdw?oc=5",
-   "ts": "Fri, 06 Nov 2026 11:24:53 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzNLUjBwZFJZSVE0U0NxbTVYbVotU0R1ak1zb2g1LTR2a0MtYkxVcGZFOFhZNkcza1hhTlpobGN4bU1hVmZhUGs5UFk5TC1kYWdXS181NHdZZlJGdEJMc0NNcHl5dndpaHo2SXpJcUxjeHkwVkZQTkhBX2xVVlg0eWNkZXRkcGx6NEpRQlFiLWtXdElVcllTWHhGZWxvUEREWXEzM2RocjFjbXBIbm1wOVhUSkEzOGFCb3ZMZ21WdElEU3l3em15cGZtZkdUQQ?oc=5",
-   "ts": "Thu, 05 Nov 2026 01:51:00 GMT"
+   "title": "China says US farm purchases hinge on tariff-cut deal - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjZCZGJiUVFJRkdBeU1DaTExb3FMSmdaLVRuLTRrQWNnd3F5MDg1YnZlTUZfclBPRWhQZXdlbWxEakVXdlNidWVWbmhFcGZTVEpSOWlJSE1FTHhOWTVlUXkwSG5rTXRNTDE5ckRWTzhnYmx3LVVJSDE2S2JNQW9CTUNFanlFNWlqMkJWdFZTMzU0VnpzX2tua25aQS0zNTdsUDNRRA?oc=5",
+   "ts": "Thu, 05 Nov 2026 10:05:05 GMT"
   },
   {
    "src": "gnews",
@@ -446,12 +452,6 @@
    "title": "‘Speed up’: US ag exporters urge faster progress on trade deal with China - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ2JBTFRLQmMtVFAwTU5RRkJGZlI4UTU2aTAzSkdWZzRZRnpxTy1hZWxkZkgxakpfcEJRSEIxX185Y01Wa2hUaHI5WWJvM2JDaEc3N093bzN6MnVxYlh3MHBoUWZEMFh5Q2NWTlNLLUxnTkNtWk9HYTloUlFLZE10NS1zTGJCYkNzLWs3OWtISDI5UVBRb2hNMUtsR1ZiWG1wOU5RUjVJZ2tmUmhIUkRGVmFvc3ZVYUQ3TWNXbGdRZ1B1bm8?oc=5",
    "ts": "Fri, 06 Nov 2026 14:00:11 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China says US farm purchases hinge on tariff-cut deal - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjZCZGJiUVFJRkdBeU1DaTExb3FMSmdaLVRuLTRrQWNnd3F5MDg1YnZlTUZfclBPRWhQZXdlbWxEakVXdlNidWVWbmhFcGZTVEpSOWlJSE1FTHhOWTVlUXkwSG5rTXRNTDE5ckRWTzhnYmx3LVVJSDE2S2JNQW9CTUNFanlFNWlqMkJWdFZTMzU0VnpzX2tua25aQS0zNTdsUDNRRA?oc=5",
-   "ts": "Thu, 05 Nov 2026 10:05:05 GMT"
   },
   {
    "src": "gnews",

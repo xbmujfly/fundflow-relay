@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T13:16:03Z",
+ "ts": "2026-11-06T13:31:03Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -457,126 +458,6 @@
    "title": "How China Accidentally Broke the West’s Monopoly Over the Weapons Trade - CounterPunch.org",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPekVlazRMWnRzWG1NWDNNQ3kxYUNVdUtudV8xY1g2bWx2V3pQaFVpekMyTkxoZkNFVlJkaU51NjBDTnRpbk5zbWNsY1RkZHM?oc=5",
    "ts": "Fri, 06 Nov 2026 07:33:18 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Облачный видеоархив для бизнеса : как сократить расходы на оборудование и удаленно управлять безопасностью",
-   "url": "https://itc.ua/articles/oblachnyj-vydeoarhyv-dlya-byznesa-kak-sokratyt-rashody-na-oborudovanye-y-udalenno-upravlyat-bezopasnostyu/",
-   "ts": "20261106T123000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Political memoirs , autobiographies , and biographies : What can and cant we learn ? ",
-   "url": "https://theboar.org/2026/11/political-memoirs-autobiographies-and-biographies-what-can-and-cant-we-learn/",
-   "ts": "20261106T123000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "敏芯股份 ( 688286 ): 苏州敏芯微电子技术股份有限公司前次募集资金使用情况报告 - CFi . CN 中财网",
-   "url": "http://www.cfi.net.cn/p20261106002057.html",
-   "ts": "20261106T123000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Judge blocks Trump arch hours after federal panel approval",
-   "url": "https://abc7.com/story/judge-blocks-trump-arch-hours-federal-panel-approval/20019728/",
-   "ts": "20261106T123000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "New Ireland Commission : Many lessons from US midterms",
-   "url": "https://www.irishcentral.com/news/new-ireland-commission-midterms",
-   "ts": "20261106T123000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Как Россия склоняет Трампа на свою сторону - ISW",
-   "url": "https://haqqin.az/newsarchive/397706",
-   "ts": "20261106T123000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Pentagon plans to expand National Guard operations in DC as lawmakers try to push them out",
-   "url": "https://news3lv.com/news/nation-world/pentagon-national-guard-expand-operations-dc-lawmaker-law-enforcment-security-washington-plans-pinto-bowser-new-elections-governor-resources-reduce-crime",
-   "ts": "20261106T123000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Russell Brand first night in jail as star makes heartbroken call to wife",
-   "url": "https://www.express.co.uk/celebrity-news/2263846/petrified-russell-brands-first-night-prison",
-   "ts": "20261106T123000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Vítězství demokratů by mohlo znamenat obrat na trzích",
-   "url": "https://www.ceskenoviny.cz/zpravy/vitezstvi-demokratu-by-mohlo-znamenat-obrat-na-trzich/2898247",
-   "ts": "20261106T123000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "IRS Unveils 2027 Federal Income Tax Brackets",
-   "url": "https://www.theepochtimes.com/business/irs-unveils-2027-federal-income-tax-brackets-6119126",
-   "ts": "20261106T123000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "トランプ氏の北朝鮮接近に懸念 、「 歴史的功績 」 への執着が招くリスク | ニューズウィーク日本版 オフィシャルサイト",
-   "url": "https://www.newsweekjapan.jp/articles/-/339333",
-   "ts": "20261106T123000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Low birth rates were emptying public schools . ICE deportations are now making it worse",
-   "url": "https://www.kenw.org/npr-news/2026-11-06/low-birth-rates-were-emptying-public-schools-ice-deportations-are-now-making-it-worse",
-   "ts": "20261106T123000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Интеллект снова не супер",
-   "url": "https://iz.ru/2197253/anton-belyi/intellekt-snova-ne-super",
-   "ts": "20261106T123000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Your Call the Courier questions answered for Nov . 7 , 2026",
-   "url": "https://wcfcourier.com/special-section/call-the-courier/article_ecb29ba6-3ede-4a61-b55c-3e4fc4028473.html",
-   "ts": "20261106T123000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Pomerance : Thoughts on the election results and next steps for Boulder",
-   "url": "https://www.dailycamera.com/2026/11/06/steve-pomerance-boulder-midterm-election-results-next-steps/",
-   "ts": "20261106T123000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Administration Delays Awards Slated To Improve Rural America Health",
-   "url": "https://dailyyonder.com/trump-administration-delays-awards-slated-to-improve-rural-americas-health/2026/11/06/",
-   "ts": "20261106T123000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Moment King Willem - Alexander of the Netherlands is startled by  distressed  man who  wanted to convey a message  ",
-   "url": "https://www.dailymail.com/news/royals/article-16271145/Moment-King-Willem-Alexander-Netherlands-startled-distressed-man-wanted-convey-message.html",
-   "ts": "20261106T123000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Nvidia H200 chips await China approval in Hong Kong , Reuters reports",
-   "url": "https://finchannel.com/nvidia-h200-chips-await-china-approval-in-hong-kong-reuters-reports/140774/american-business-trends/2026/11/",
-   "ts": "20261106T123000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Buscemi ( Controcorrente ) accusa :  Bollette dellacqua fino al 38 % più care entro il 2029 . Cassì ha difeso i ragusani o ha alzato la mano ? ",
-   "url": "https://corrierediragusa.it/2026/11/06/buscemi-controcorrente-accusa-bollette-dellacqua-fino-al-38-piu-care-entro-il-2029-cassi-ha-difeso-i-ragusani-o-ha-alzato-la-mano/",
-   "ts": "20261106T123000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "从清洁能源到AI产业 ， 谁是美国中期选举后的新赢家 ？ 市场又怎么看 ？ ｜全球贸易观察 _ 东方财富网",
-   "url": "https://finance.eastmoney.com/a/202611063924984315.html",
-   "ts": "20261106T123000Z"
   }
  ]
 }

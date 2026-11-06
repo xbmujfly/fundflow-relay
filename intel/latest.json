@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T12:46:06Z",
+ "ts": "2026-11-06T13:01:02Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -347,21 +346,27 @@
   },
   {
    "src": "gnews",
-   "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjlHb2U1LVBiU29ZOGVGTnhubkJZUUF3ejRLQy12ejROd1lIaVMzTS1hVEVqMWx2Z3VQMmcxakItTzNzQVJ2WU1qN2tCUWNCMkUtVi1Od0FyejlRVUNTb01ZX29WUGwxU0g0RlFrU09Mc0lQZlZuaFNGVTdiUTBEQW5VM28xcFd6a2k3RW5GNGJlZktPRG5zbFB6a0hFOUpLRWNhSU9WaGg4LTRUOVBWSmxtWG5zd9IBuwFBVV95cUxQUFFsbWN1ZmxlNWRuaFAxaXBqUTJLVjFDX2M5Ui15TjhSeGpyRjN5NVZMZ01TNlVWX2NGU0tGVThHSE5jZVhFdFowSVhMTjNVdmVEd1NwbU1DcFVOaHVaWmwxOG10WWJKSnVVVmhFZGhLa0J0MkMzV2Jock1UdXFtekpKeXAtaDJPWjlfaXhueHpnWW8wcjBwUXNCRGRLVFoyQUREblVacG5QSjZrU3hkQmN6V0RCUmhmZUpv?oc=5",
-   "ts": "Fri, 06 Nov 2026 04:06:34 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump’s Canada Tariffs - WSJ",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVhNeS1XX0xDd1ZkN3JZMkdWcUJkaFhONTBWSmprcWxkRVpqbU02QUQxWnRVRXdlTHBzaVJNMENWaE5HaFcyU2pCVDl3SkpXV3Y4UTlEMzM4STJFc3FGVVByUW1xUHh1QWlqOWx2bHBKQTZxb09zSDQtMklkRFpsRENDbWRiNzg3dzlwMnVqbVpLQkhRVWwwT0F6UUxFODdybWFqekNqUVhrcEZKNzZz?oc=5",
    "ts": "Fri, 06 Nov 2026 02:00:00 GMT"
   },
   {
    "src": "gnews",
+   "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjlHb2U1LVBiU29ZOGVGTnhubkJZUUF3ejRLQy12ejROd1lIaVMzTS1hVEVqMWx2Z3VQMmcxakItTzNzQVJ2WU1qN2tCUWNCMkUtVi1Od0FyejlRVUNTb01ZX29WUGwxU0g0RlFrU09Mc0lQZlZuaFNGVTdiUTBEQW5VM28xcFd6a2k3RW5GNGJlZktPRG5zbFB6a0hFOUpLRWNhSU9WaGg4LTRUOVBWSmxtWG5zd9IBuwFBVV95cUxQUFFsbWN1ZmxlNWRuaFAxaXBqUTJLVjFDX2M5Ui15TjhSeGpyRjN5NVZMZ01TNlVWX2NGU0tGVThHSE5jZVhFdFowSVhMTjNVdmVEd1NwbU1DcFVOaHVaWmwxOG10WWJKSnVVVmhFZGhLa0J0MkMzV2Jock1UdXFtekpKeXAtaDJPWjlfaXhueHpnWW8wcjBwUXNCRGRLVFoyQUREblVacG5QSjZrU3hkQmN6V0RCUmhmZUpv?oc=5",
+   "ts": "Fri, 06 Nov 2026 04:06:34 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump’s trade chief pushing him to step up negotiations with Canada - Politico",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUY3c1JIclBSa09VTXM3UlJiMWtrUkxUdFJoRTV6Zl9ZZGJQcUlCTFppQm9ESWhrcGVfTWRHdy1SSkU4U2ktY2ZiMEtWNnBiWkhDQmVuajlhTlFDa3NJM0dESGNTeWdPbmNMWTBxV2swVkhLbV9QdFdhUWhORl9Ca2NHUFlxNEFFamRWNzhQRlJEdFNadkd5M1RQMTM?oc=5",
    "ts": "Tue, 03 Nov 2026 23:55:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Media’s investors lost $2.2 billion while Trump holds $460 million stake - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGkzZG4yU1c4YThoQTduQWZQMlBJREw3LW8tYkd2Wnl4c29kRXZjblRCcWtCdzFuak8zVEE3Ump5WkJwajZRRV91bUhtN2QtYjNHemh6MjZMZzZ6ck9TNVFrQ2FhZWFaQTlXbkpYMDN3RnZWZ0h2Yzg2cnBfOFB3aVlILXhsUzhkeW9QY29yUWR0Mm9SN1NIUEVldzJDT1RWZmc4MlE3cXhkUHdndFRRcDZPYktSenhnRzhQR1dkSDNQV0JLMEdpenZnVHhUQQ?oc=5",
+   "ts": "Fri, 06 Nov 2026 11:12:08 GMT"
   },
   {
    "src": "gnews",
@@ -380,12 +385,6 @@
    "title": "Donald Trump has taught the world that tariffs are useless - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRWFlc2hsSmNCM1NvTHB0U1ZvYmY3TnI1TFJSd3J2RDZLYmhKang5cV9Mb205czlGdVJNaEtHSUppcllUWXdUX3lLYTc4Zlpua0puRldIczJtcHkwbXZCUlFpU1hyNXNOcmg3Y1owaTlIdXJrcEF0c0lySE8tQzVZTlUwa3g?oc=5",
    "ts": "Fri, 06 Nov 2026 11:00:09 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzNLUjBwZFJZSVE0U0NxbTVYbVotU0R1ak1zb2g1LTR2a0MtYkxVcGZFOFhZNkcza1hhTlpobGN4bU1hVmZhUGs5UFk5TC1kYWdXS181NHdZZlJGdEJMc0NNcHl5dndpaHo2SXpJcUxjeHkwVkZQTkhBX2xVVlg0eWNkZXRkcGx6NEpRQlFiLWtXdElVcllTWHhGZWxvUEREWXEzM2RocjFjbXBIbm1wOVhUSkEzOGFCb3ZMZ21WdElEU3l3em15cGZtZkdUQQ?oc=5",
-   "ts": "Thu, 05 Nov 2026 01:51:00 GMT"
   },
   {
    "src": "gnews",
@@ -413,15 +412,15 @@
   },
   {
    "src": "gnews",
-   "title": "Watch EU Chamber of Commerce in China On Trade Amid Tensions - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQnNDOUpiSkM2Tkt4V0JhbElyTHlDdTZ2UkkxS18zSEN1YWt5cTJHUlVTNWhmYXBPSm0xWDlDeWdzN3FVZzE4ZVlnVy12ZVF1ZHdscU0wWUowakdsMEIxU1lscUVpTV9kRXc2T3JfV0pnblY3TnRLX2ViX0Z4a295OVZDOFJTcGNPZ1ZVVWpMV1pkWWVwX2d0S0tsbjYzUVM0aTBKakNSTUN5NTQ3UGc?oc=5",
-   "ts": "Fri, 06 Nov 2026 03:56:58 GMT"
+   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzNLUjBwZFJZSVE0U0NxbTVYbVotU0R1ak1zb2g1LTR2a0MtYkxVcGZFOFhZNkcza1hhTlpobGN4bU1hVmZhUGs5UFk5TC1kYWdXS181NHdZZlJGdEJMc0NNcHl5dndpaHo2SXpJcUxjeHkwVkZQTkhBX2xVVlg0eWNkZXRkcGx6NEpRQlFiLWtXdElVcllTWHhGZWxvUEREWXEzM2RocjFjbXBIbm1wOVhUSkEzOGFCb3ZMZ21WdElEU3l3em15cGZtZkdUQQ?oc=5",
+   "ts": "Thu, 05 Nov 2026 01:51:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump Media’s investors lost $2.2 billion while Trump holds $460 million stake - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGkzZG4yU1c4YThoQTduQWZQMlBJREw3LW8tYkd2Wnl4c29kRXZjblRCcWtCdzFuak8zVEE3Ump5WkJwajZRRV91bUhtN2QtYjNHemh6MjZMZzZ6ck9TNVFrQ2FhZWFaQTlXbkpYMDN3RnZWZ0h2Yzg2cnBfOFB3aVlILXhsUzhkeW9QY29yUWR0Mm9SN1NIUEVldzJDT1RWZmc4MlE3cXhkUHdndFRRcDZPYktSenhnRzhQR1dkSDNQV0JLMEdpenZnVHhUQQ?oc=5",
-   "ts": "Fri, 06 Nov 2026 11:12:08 GMT"
+   "title": "Watch EU Chamber of Commerce in China On Trade Amid Tensions - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQnNDOUpiSkM2Tkt4V0JhbElyTHlDdTZ2UkkxS18zSEN1YWt5cTJHUlVTNWhmYXBPSm0xWDlDeWdzN3FVZzE4ZVlnVy12ZVF1ZHdscU0wWUowakdsMEIxU1lscUVpTV9kRXc2T3JfV0pnblY3TnRLX2ViX0Z4a295OVZDOFJTcGNPZ1ZVVWpMV1pkWWVwX2d0S0tsbjYzUVM0aTBKakNSTUN5NTQ3UGc?oc=5",
+   "ts": "Fri, 06 Nov 2026 03:56:58 GMT"
   },
   {
    "src": "gnews",
@@ -437,15 +436,15 @@
   },
   {
    "src": "gnews",
-   "title": "‘More carve-outs’? How the midterms could affect US trade policy on China - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb05DX3U3cmVhWTVRVTRQbkdqRTB3RzhFdlhfeWxGckw1cl93bjJXMkwwLTJURUxuRUI1eUNDTm5SVE1FQmtFNFRhaXVXQnJtbjAyNkI4VFQ0NWdkZnplRHZhdVBBSTNpT09mWlgyTVFrRzdBX2dMS0VycDBjcnpPdnVBSWE1RmlxY1M3TjdkdUVJc2RPWGN5cUljMVJvZnJPVnFKSjFMONIBpwFBVV95cUxNWG1faG9kV1ItTlIyLTlfeXdETldlcFlPRXJfLWJxdy1tcFVTSTU5MTBmSkpuVjROVmtQMGZYcXpLZmpLTl9tY294QVRrYjI1enJTaThlVXUwakJqc1dhQWZKVGFXTjZxTnZGU1NSMENMeGZrQ0pyMHg3NlN1Z0NrLUZUQThXUW4xYjJOc0k3UnlMVVZsRlpwZjR4ZGdsUEVUQWhBcWVicw?oc=5",
-   "ts": "Wed, 04 Nov 2026 14:00:09 GMT"
+   "title": "Hong Kong firms must innovate to compete in mainland China, trade chief says - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR2RpNmF3OGhfX3pvNmtqWmktZ0MzS2h6S2ZDUTBKMjNNN1FJaVVDQ1pHVzB6ekVYand3V0d0QXl4dklGZzJHS2JMNTFvS2loS0g1a0hrMi1jd0ZTRWx3SmItNXJsU01GcTVRcV82NVJXZFhxT3c4YmxRQnV3akNTa1JPczBTdTJpSDRpRnd0NGVUck9vUWgza3drNjFGZEVySDBaSEM4V3lyanRQOW92Y0RmODkyS0NQek1VZThaanVNeTZ6dC16ME5VaFp4VVVuS0V1cHVn0gHWAUFVX3lxTE1ZWFdnUnhoOS1iUVg3TTFjSm5kQ1ZMR0hYUmhzUzVBT3MzTThlVDJiMXhUeVd2cUYwbWQtWDI2N21XZE50Y0JFdUp4QWJ4RjE4QUpLeURkSEhvZXh2SEtWcmVJUFdOMmFxdlNQaUdlZVdpSDh4bzBhWEZDWFN1ckx4VU1rZ180MGpmeE1PUkdoc3A2NEFYVzlqWGtHd29zX0hHTk45VXRQTkJIQVhVYnIzaTY2cTVuV3dOTW0xYWxDMHpINFYydXE5dU90MzRxaHdTRFF1Q2c?oc=5",
+   "ts": "Fri, 06 Nov 2026 12:24:23 GMT"
   },
   {
    "src": "gnews",
-   "title": "Hong Kong firms must innovate to compete in mainland China, trade chief says - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbXRfYkwwN0thWkR6eVpTNDZCTEFVSlFSTXh1TlNLZU9rZ3JIVEZZaGM4bWc3SnhmXzFZWG1PX0JLeUMtM3NTT3ZYWWg4MG9Kd3JmN1B2MEZjdUVVdk9wQld1UnBpeGo2TUI0NjNvRGZ1c0N5YURkUi1UNXZPc2FkNUxSdnE2alNHWi1nYkxETGtOZEdwVURDUTNDMVRvQnBub05id2VhN3RpaXVueXFJM0VSdkNoNG5WUU1xQkhCSy1OREE1bmlQb1JWdXRoT3AteXVCdF9WT1E1UUw1YnRGWGE5aHl1SmZSekhHeXR5aTRRZWdPdndhT24waFFNQQ?oc=5",
-   "ts": "Fri, 06 Nov 2026 12:24:23 GMT"
+   "title": "‘More carve-outs’? How the midterms could affect US trade policy on China - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb05DX3U3cmVhWTVRVTRQbkdqRTB3RzhFdlhfeWxGckw1cl93bjJXMkwwLTJURUxuRUI1eUNDTm5SVE1FQmtFNFRhaXVXQnJtbjAyNkI4VFQ0NWdkZnplRHZhdVBBSTNpT09mWlgyTVFrRzdBX2dMS0VycDBjcnpPdnVBSWE1RmlxY1M3TjdkdUVJc2RPWGN5cUljMVJvZnJPVnFKSjFMONIBpwFBVV95cUxNWG1faG9kV1ItTlIyLTlfeXdETldlcFlPRXJfLWJxdy1tcFVTSTU5MTBmSkpuVjROVmtQMGZYcXpLZmpLTl9tY294QVRrYjI1enJTaThlVXUwakJqc1dhQWZKVGFXTjZxTnZGU1NSMENMeGZrQ0pyMHg3NlN1Z0NrLUZUQThXUW4xYjJOc0k3UnlMVVZsRlpwZjR4ZGdsUEVUQWhBcWVicw?oc=5",
+   "ts": "Wed, 04 Nov 2026 14:00:09 GMT"
   },
   {
    "src": "gnews",
@@ -456,8 +455,128 @@
   {
    "src": "gnews",
    "title": "How China Accidentally Broke the West’s Monopoly Over the Weapons Trade - CounterPunch.org",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMVNyUGFhZHUwekprcDhfOWxUQzkwLWI2SkZTTEtGY3l5Rk0xeExHTGdyZGphcEpFdjlSWVk2SXk5Vk51Smx2ZnNqVzRIb1YtUGVxVGVsMkxIZnB2NnBQcTc2NTVNbXBGbUI2UHBSR0JwbTZubUZHTDkweDI4bEJUVXo5dlpsWVRRTlpneXRyS0h5M3prOWJXc0pLbHdQN19VTVVSOGhUVHFxYVk3UWx3Rg?oc=5",
-   "ts": "Fri, 06 Nov 2026 06:54:45 GMT"
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPekVlazRMWnRzWG1NWDNNQ3kxYUNVdUtudV8xY1g2bWx2V3pQaFVpekMyTkxoZkNFVlJkaU51NjBDTnRpbk5zbWNsY1RkZHM?oc=5",
+   "ts": "Fri, 06 Nov 2026 07:33:18 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Облачный видеоархив для бизнеса : как сократить расходы на оборудование и удаленно управлять безопасностью",
+   "url": "https://itc.ua/articles/oblachnyj-vydeoarhyv-dlya-byznesa-kak-sokratyt-rashody-na-oborudovanye-y-udalenno-upravlyat-bezopasnostyu/",
+   "ts": "20261106T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Political memoirs , autobiographies , and biographies : What can and cant we learn ? ",
+   "url": "https://theboar.org/2026/11/political-memoirs-autobiographies-and-biographies-what-can-and-cant-we-learn/",
+   "ts": "20261106T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "敏芯股份 ( 688286 ): 苏州敏芯微电子技术股份有限公司前次募集资金使用情况报告 - CFi . CN 中财网",
+   "url": "http://www.cfi.net.cn/p20261106002057.html",
+   "ts": "20261106T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Judge blocks Trump arch hours after federal panel approval",
+   "url": "https://abc7.com/story/judge-blocks-trump-arch-hours-federal-panel-approval/20019728/",
+   "ts": "20261106T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "New Ireland Commission : Many lessons from US midterms",
+   "url": "https://www.irishcentral.com/news/new-ireland-commission-midterms",
+   "ts": "20261106T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Как Россия склоняет Трампа на свою сторону - ISW",
+   "url": "https://haqqin.az/newsarchive/397706",
+   "ts": "20261106T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Pentagon plans to expand National Guard operations in DC as lawmakers try to push them out",
+   "url": "https://news3lv.com/news/nation-world/pentagon-national-guard-expand-operations-dc-lawmaker-law-enforcment-security-washington-plans-pinto-bowser-new-elections-governor-resources-reduce-crime",
+   "ts": "20261106T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Russell Brand first night in jail as star makes heartbroken call to wife",
+   "url": "https://www.express.co.uk/celebrity-news/2263846/petrified-russell-brands-first-night-prison",
+   "ts": "20261106T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Vítězství demokratů by mohlo znamenat obrat na trzích",
+   "url": "https://www.ceskenoviny.cz/zpravy/vitezstvi-demokratu-by-mohlo-znamenat-obrat-na-trzich/2898247",
+   "ts": "20261106T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "IRS Unveils 2027 Federal Income Tax Brackets",
+   "url": "https://www.theepochtimes.com/business/irs-unveils-2027-federal-income-tax-brackets-6119126",
+   "ts": "20261106T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "トランプ氏の北朝鮮接近に懸念 、「 歴史的功績 」 への執着が招くリスク | ニューズウィーク日本版 オフィシャルサイト",
+   "url": "https://www.newsweekjapan.jp/articles/-/339333",
+   "ts": "20261106T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Low birth rates were emptying public schools . ICE deportations are now making it worse",
+   "url": "https://www.kenw.org/npr-news/2026-11-06/low-birth-rates-were-emptying-public-schools-ice-deportations-are-now-making-it-worse",
+   "ts": "20261106T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Интеллект снова не супер",
+   "url": "https://iz.ru/2197253/anton-belyi/intellekt-snova-ne-super",
+   "ts": "20261106T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Your Call the Courier questions answered for Nov . 7 , 2026",
+   "url": "https://wcfcourier.com/special-section/call-the-courier/article_ecb29ba6-3ede-4a61-b55c-3e4fc4028473.html",
+   "ts": "20261106T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Pomerance : Thoughts on the election results and next steps for Boulder",
+   "url": "https://www.dailycamera.com/2026/11/06/steve-pomerance-boulder-midterm-election-results-next-steps/",
+   "ts": "20261106T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Administration Delays Awards Slated To Improve Rural America Health",
+   "url": "https://dailyyonder.com/trump-administration-delays-awards-slated-to-improve-rural-americas-health/2026/11/06/",
+   "ts": "20261106T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Moment King Willem - Alexander of the Netherlands is startled by  distressed  man who  wanted to convey a message  ",
+   "url": "https://www.dailymail.com/news/royals/article-16271145/Moment-King-Willem-Alexander-Netherlands-startled-distressed-man-wanted-convey-message.html",
+   "ts": "20261106T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Nvidia H200 chips await China approval in Hong Kong , Reuters reports",
+   "url": "https://finchannel.com/nvidia-h200-chips-await-china-approval-in-hong-kong-reuters-reports/140774/american-business-trends/2026/11/",
+   "ts": "20261106T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Buscemi ( Controcorrente ) accusa :  Bollette dellacqua fino al 38 % più care entro il 2029 . Cassì ha difeso i ragusani o ha alzato la mano ? ",
+   "url": "https://corrierediragusa.it/2026/11/06/buscemi-controcorrente-accusa-bollette-dellacqua-fino-al-38-piu-care-entro-il-2029-cassi-ha-difeso-i-ragusani-o-ha-alzato-la-mano/",
+   "ts": "20261106T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "从清洁能源到AI产业 ， 谁是美国中期选举后的新赢家 ？ 市场又怎么看 ？ ｜全球贸易观察 _ 东方财富网",
+   "url": "https://finance.eastmoney.com/a/202611063924984315.html",
+   "ts": "20261106T123000Z"
   }
  ]
 }

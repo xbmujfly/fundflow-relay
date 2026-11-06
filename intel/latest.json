@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T08:15:56Z",
+ "ts": "2026-11-06T08:31:00Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -365,6 +365,12 @@
   },
   {
    "src": "gnews",
+   "title": "Carney unveils budget to strengthen Canada’s economy as Trump’s trade war slows growth - The Seattle Times",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzQ3bkk3c3pkczhEU010X29jSUN3U1ltcmllcU12WXpGclBWRWFWdGltTlpnSTlZWkVKQ3lDUC1lTmZXTHhOLU4wNlJsY29sMzlxV0psVTJpaktwVkVHS1dsNm11YTFwUmhDenhUSFdlVTN1Yy1jOFJuRnUzMTdOZlg2UTI1R2tyMDB2SUFjTkEyV1J3Z2xUVm5BQ2pyRmRkQk1IVnJ2N3dyMGwxbXBLVkZrZ1ZvMFVwdUVHLQ?oc=5",
+   "ts": "Thu, 05 Nov 2026 22:24:04 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "EU-China truce under strain as both sides brace for potential trade war - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjVtNGU1dEM3bzhWMDFrSVNJdEhyajJKSG1sS1pUWGdBX084eVRkQ2x6MGd5RWV6bm5GTE9xbVdZRHhZR1M3UzYwekh0MGZOXzJJcTRzUmtlZjN3LU1qMHNPTkhUQmE0Zm5QLXEzLWMtcXUySFotUS1VV0luZzdyUE1acVdtd0VUZC1LaWJSMkV6dThfVWZ1SGxDQWJZZ29zcUY5STREX2pRd3g3Z1pRbVg5c3Q2VVhYU0HSAboBQVVfeXFMTzFXVmdua3JUbjNFTGZWT2o3VjdVUVBmQXVKSWI3VmJmZkJhVTl1ZFBpZm5KZU0xNXB1bktfNDJxMWlQTk1QQWVGdnJ1SE10NHZwVWtlQWxaOE5FMmZnQi1QX0tMQVZVdkFQSjFBOXA2YzVweTJHaGJiMF9nNjdBNmFSWnNpWDlaVUFoaC1ZbW1SSmlkbTVXRUxEaElYTUhTYTFpQXZDU282cEJKWk1hVUpYNWtYd1ozLWhB?oc=5",
    "ts": "Fri, 06 Nov 2026 04:37:57 GMT"
@@ -377,15 +383,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney unveils budget to strengthen Canada’s economy as Trump’s trade war slows growth - The Seattle Times",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzQ3bkk3c3pkczhEU010X29jSUN3U1ltcmllcU12WXpGclBWRWFWdGltTlpnSTlZWkVKQ3lDUC1lTmZXTHhOLU4wNlJsY29sMzlxV0psVTJpaktwVkVHS1dsNm11YTFwUmhDenhUSFdlVTN1Yy1jOFJuRnUzMTdOZlg2UTI1R2tyMDB2SUFjTkEyV1J3Z2xUVm5BQ2pyRmRkQk1IVnJ2N3dyMGwxbXBLVkZrZ1ZvMFVwdUVHLQ?oc=5",
-   "ts": "Thu, 05 Nov 2026 22:24:04 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China threatens retaliation as EU mulls trade “kill-switch” - Euronews.com",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHBIVUJVUy1WX2c0dm5wZjhYWERMOU1GcGY5VDJvR1h4VlFvWGJDdzRyQVdEYzFaNEZqbERsb0VrN3FWQU9nVkhOSFdVOHZQaEN3ck05U2FuSzUtMUFtYUVwa2Q4VFh3UUNjZWVyUTc1UC02RTF6dUxHeGxURjBmc29EQWJZdjZXbnhmcXR5LUhnZk5HbktPdkUwdzFaUnJOTkp1My1OT2FuMEFKTWpzZDJ6TEViRUU?oc=5",
    "ts": "Thu, 05 Nov 2026 11:21:01 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Democrats’ midterm win threatens to disrupt Trump’s fragile truce with Xi - NBC News",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDI1Q05VNGNRSEFSMWFldFlFakEzeVozb1NicVBqTmNZVlBkYjlEWVBaV3BFU1J4bHRMTUp6SU1jQ3REaHU1X2FGc2lvMHNBemY5eDVDME5wMTRQckxMcFFZdlJGTmx5R3B0MDViSUlmLU9qbmFDcGdGdHRZS1FTU0NHN1VsaHhhQ0pXM25mcEotZ1lZb0p1Q2IwZGNaYnBkUXZpSFF0cXJnQW9IQlE?oc=5",
+   "ts": "Thu, 05 Nov 2026 19:05:07 GMT"
   },
   {
    "src": "gnews",
@@ -416,12 +422,6 @@
    "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
    "ts": "Thu, 05 Nov 2026 03:50:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war slows growth - CoastTV",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONWxSRFBLTG1QbnVCb2dXamgwMDR4R1dZcHVKRnZoRW4za3hlSHp5LU9QNVd1S1dDdVBnZVVZTllBaDhPUnZrVDUxemZvOGY2UDBJci1RLUpYNnAxdFY1TklvNXZmcjVXSktvX01wNjdMQUhiSkVMc3Y1eTVFeTkyUWF3WkhVa1JyVThENkNRZFVrdGpjMTM4VmVWSXNZbG9HbUZyZHJLa3pVdUo3eEh2aFlPaUppZnExNXBzcG0xZ1ZoR3kxS2dJYmxwN3pEaW5XOW1lZFB1Y3lXSDFCeW9abUFUZDhIYlU2d1NpY0NRZGVTd0tuaGE5NGVsWVZVQQ?oc=5",
-   "ts": "Fri, 06 Nov 2026 01:24:29 GMT"
   },
   {
    "src": "gnews",

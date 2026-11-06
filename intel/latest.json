@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T01:30:29Z",
+ "ts": "2026-11-06T01:45:22Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -413,12 +412,6 @@
   },
   {
    "src": "gnews",
-   "title": "Can China Benefit From Trump’s Midterm Defeat in US Trade and Taiwan Disputes? - Modern Diplomacy",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDRnQTRjdUk2WnlJUnZLbmZWZDhkdFdlZUJ4eTFqUmJ6c3pCeU90WUV1ektWRGR1aWsxR2ZYaDJzZTUwSGI1M3BieHRBcTh1NUdNZ0hDR2lDT3luRmg1ZXFSRXJoYUZNYmxiSVk0RzRhQ0xvRVp2ZF85S09Pc296OUtZYy13bUc5ZjV3LXlucHFtRnFMOHo3TVdtQjFOQUlYZ3hNSVBzQWEtWW9TZVF4enlhUURuZw?oc=5",
-   "ts": "Thu, 05 Nov 2026 08:24:14 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Reuters",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzNLUjBwZFJZSVE0U0NxbTVYbVotU0R1ak1zb2g1LTR2a0MtYkxVcGZFOFhZNkcza1hhTlpobGN4bU1hVmZhUGs5UFk5TC1kYWdXS181NHdZZlJGdEJMc0NNcHl5dndpaHo2SXpJcUxjeHkwVkZQTkhBX2xVVlg0eWNkZXRkcGx6NEpRQlFiLWtXdElVcllTWHhGZWxvUEREWXEzM2RocjFjbXBIbm1wOVhUSkEzOGFCb3ZMZ21WdElEU3l3em15cGZtZkdUQQ?oc=5",
    "ts": "Thu, 05 Nov 2026 01:51:00 GMT"
@@ -455,9 +448,135 @@
   },
   {
    "src": "gnews",
+   "title": "Can China Benefit From Trump’s Midterm Defeat in US Trade and Taiwan Disputes? - Modern Diplomacy",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDRnQTRjdUk2WnlJUnZLbmZWZDhkdFdlZUJ4eTFqUmJ6c3pCeU90WUV1ektWRGR1aWsxR2ZYaDJzZTUwSGI1M3BieHRBcTh1NUdNZ0hDR2lDT3luRmg1ZXFSRXJoYUZNYmxiSVk0RzRhQ0xvRVp2ZF85S09Pc296OUtZYy13bUc5ZjV3LXlucHFtRnFMOHo3TVdtQjFOQUlYZ3hNSVBzQWEtWW9TZVF4enlhUURuZw?oc=5",
+   "ts": "Thu, 05 Nov 2026 08:24:14 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China Ties U.S. Farm Purchases to Tariff Cuts as Trade Uncertainty Grows - AgroLatam",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWlBtcGthejNNdlRGTlVCbWVjSXpEbHctTXBJblR3S0JBdUdjaGQzdWlVcHk2bkY4MERpV1FCZzBLWURLcmN2N0VLOTVVLUZIYVdkOW42Ty1fZm9vQmg3VjBEaUtOMWdxR1NHckFsYzJnZklkUE5nSEVER0dWSVh6R0VB?oc=5",
    "ts": "Thu, 05 Nov 2026 12:19:25 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Saskatchewan gas prices drop as oil markets show improvement",
+   "url": "https://www.ckom.com/2026/11/05/saskatchewan-gas-prices-drop-as-oil-markets-show-improvement/",
+   "ts": "20261106T010000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Пригласят ли Путина на G20 в 2027 году : ответ Лондона",
+   "url": "https://eizvestia.com/politika/2026/11/05/putin-g20-manchester-bernem/",
+   "ts": "20261106T010000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump defends Hegseth amid impeachment threat , says US military operations in Iran , Venezuela successful",
+   "url": "http://www.malaysiasun.com/news/279415124/trump-defends-hegseth-amid-impeachment-threat-says-us-military-operations-in-iran-venezuela-successful",
+   "ts": "20261106T010000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Veteran leading opposition to Trump arch calls it  blasphemou | KXLY 920 News Now ( KXLY AM ) ",
+   "url": "https://kxly920.com/2026/11/05/veteran-leading-opposition-to-trumps-arch-calls-it-blasphemous/",
+   "ts": "20261106T010000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Springfield family waits overseas for more than a year to bring adopted son home",
+   "url": "https://www.ky3.com/2026/11/06/springfield-family-waits-overseas-more-than-year-bring-adopted-son-home/",
+   "ts": "20261106T010000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "長嶋一茂 JFA田嶋名誉会長のFIFA会長選出馬に 「 凄くいい動き … スポーツと政治との関係性を 」 - スポニチ Sponichi Annex 芸能",
+   "url": "https://www.sponichi.co.jp/entertainment/news/2026/11/06/kiji/20261106s00041000057000c.html",
+   "ts": "20261106T010000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
+   "url": "https://www.wxpr.org/2026-11-05/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
+   "ts": "20261106T010000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Hegseth calls impeachment effort  political theatre , says attacks wont force him out",
+   "url": "https://aninews.in/news/world/us/hegseth-calls-impeachment-effort-8220political-theatre8221-says-attacks-won8217t-force-him-out20261106060354/",
+   "ts": "20261106T010000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
+   "url": "https://www.delawarepublic.org/npr-headlines/2026-11-05/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
+   "ts": "20261106T010000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Gavin Newsom Seeks to Clear Death Row , Commutes Sentences for Hundreds of Prisoners",
+   "url": "https://www.northcoastjournal.com/news-2/news-blog/gavin-newsom-seeks-to-clear-death-row-commutes-sentences-for-hundreds-of-prisoners/",
+   "ts": "20261106T010000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Трамп розкритикував закон Байдена про заборону імпорту палива із РФ",
+   "url": "https://www.rbc.ua/rus/news/tramp-nazvav-dosit-poganim-zakon-zaboronu-1793918924.html",
+   "ts": "20261106T010000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump says  big , beautiful agreement  on Ukraine  might involve all of Europe  ",
+   "url": "https://www.echo-news.co.uk/news/national/26704229.trump-says-big-beautiful-agreement-ukraine-might-involve-europe/",
+   "ts": "20261106T010000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
+   "url": "https://www.kcbx.org/npr-top-news/2026-11-05/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
+   "ts": "20261106T010000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "이준석  尹딸랑이다가 계엄 쓸려가고 , 트럼프 폭주 방치하다 역대급 대패  ",
+   "url": "https://biz.heraldcorp.com/article/10928051",
+   "ts": "20261106T010000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  Tough  parts of role something King  relishe , says senior palace aide",
+   "url": "https://www.brentwoodlive.co.uk/news/national/26704191.tough-parts-role-something-king-relishes-says-senior-palace-aide/",
+   "ts": "20261106T010000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
+   "url": "https://knpr.org/npr/2026-11-05/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
+   "ts": "20261106T010000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "MAGA infighting erupts after losing candidate blames  selfish  colleague for rout",
+   "url": "https://www.rawstory.com/bruce-blakeman-2678304421/",
+   "ts": "20261106T010000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Áp dụng mức giá điện riêng cho trạm sạc xe điện",
+   "url": "https://tienphong.vn/ap-dung-muc-gia-dien-rieng-cho-tram-sac-xe-dien-post1891664.tpo",
+   "ts": "20261106T010000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "DOJ Cant Tie State Grants To Immigration Enforcement",
+   "url": "https://www.law360.com:443/articles/2546930",
+   "ts": "20261106T010000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "AI股遭血洗纳指暴跌 特朗普开炮 : 都是民主党惹的祸",
+   "url": "https://www.enanyang.my/news/20261106/Finance/1440393",
+   "ts": "20261106T010000Z"
   }
  ]
 }

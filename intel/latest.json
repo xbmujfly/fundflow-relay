@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T01:00:25Z",
+ "ts": "2026-11-06T01:15:22Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -365,6 +365,12 @@
   },
   {
    "src": "gnews",
+   "title": "China threatens retaliation as EU mulls trade “kill-switch” - Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHBIVUJVUy1WX2c0dm5wZjhYWERMOU1GcGY5VDJvR1h4VlFvWGJDdzRyQVdEYzFaNEZqbERsb0VrN3FWQU9nVkhOSFdVOHZQaEN3ck05U2FuSzUtMUFtYUVwa2Q4VFh3UUNjZWVyUTc1UC02RTF6dUxHeGxURjBmc29EQWJZdjZXbnhmcXR5LUhnZk5HbktPdkUwdzFaUnJOTkp1My1OT2FuMEFKTWpzZDJ6TEViRUU?oc=5",
+   "ts": "Thu, 05 Nov 2026 11:21:01 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
    "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
@@ -389,6 +395,12 @@
   },
   {
    "src": "gnews",
+   "title": "Democrats’ midterm win threatens to disrupt Trump’s fragile truce with Xi - NBC News",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDI1Q05VNGNRSEFSMWFldFlFakEzeVozb1NicVBqTmNZVlBkYjlEWVBaV3BFU1J4bHRMTUp6SU1jQ3REaHU1X2FGc2lvMHNBemY5eDVDME5wMTRQckxMcFFZdlJGTmx5R3B0MDViSUlmLU9qbmFDcGdGdHRZS1FTU0NHN1VsaHhhQ0pXM25mcEotZ1lZb0p1Q2IwZGNaYnBkUXZpSFF0cXJnQW9IQlE?oc=5",
+   "ts": "Thu, 05 Nov 2026 19:05:07 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues - Ottumwa Courier",
    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQS2FXbmk0a1A4VE9lNnhQTV81elFYYjFPcVM5U1VKTjJYMlRJVHhtM1M3SzBHN0FUakZiLVdzeEtXdXdzcFhUZ1p4ejdaS2ZoTGo5R24tTU5BY2hTU1Bwb3hCVXlWZkdJQ2h2QW9adVdsQzFVd2dtcUktN1A0NmhzeTJTRXBGQlVZMVd4N0hLdWRoUW8xT3NPcGJOWkJLLTRwWHBFcG1RVk1uYTdmYUYyb3hzMW04LXFuTFNiVS02ZFV6emVIMXZQdWV3d3NSRHkwWXRoV1dSSHAzV0ZSVjQ5T0lRT09tYXA5T3ZZSGMyRFBQTC16Y0xGMl9qdVdWeDk4RU5VUFVNOA?oc=5",
    "ts": "Thu, 05 Nov 2026 22:23:48 GMT"
@@ -404,12 +416,6 @@
    "title": "Can China Benefit From Trump’s Midterm Defeat in US Trade and Taiwan Disputes? - Modern Diplomacy",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDRnQTRjdUk2WnlJUnZLbmZWZDhkdFdlZUJ4eTFqUmJ6c3pCeU90WUV1ektWRGR1aWsxR2ZYaDJzZTUwSGI1M3BieHRBcTh1NUdNZ0hDR2lDT3luRmg1ZXFSRXJoYUZNYmxiSVk0RzRhQ0xvRVp2ZF85S09Pc296OUtZYy13bUc5ZjV3LXlucHFtRnFMOHo3TVdtQjFOQUlYZ3hNSVBzQWEtWW9TZVF4enlhUURuZw?oc=5",
    "ts": "Thu, 05 Nov 2026 08:24:14 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "U.S. Mid-Term Rout Unlikely to Change Trump’s Trade Policy - SupplyChainBrain",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWXhYSzRLdldFbjhsSHUwcU05QVJXa3BuLTB0b1Z1WHFiX2h2dFBwQ28yQWVESGNLMnU5dzd2ejlxTnZZb2o5WVRrZXUxWWE1OEtMXy1HMGpqRHJtZWhLd280Q3BxemtWamR4aWtfc1hoXzc0SGJkM1Vva3l3eTBQZ3hDbk1NZmJ5VHd5YUpkQlBiYVhXUnZCSFJyWXNyaFhjSk80UjlJWklyb1lfTWhaYloyR21peXpFakRkR3BYaF9VNl9lTVBKQ0dDOU1XM1R1QWtjTA?oc=5",
-   "ts": "Thu, 05 Nov 2026 05:03:56 GMT"
   },
   {
    "src": "gnews",
@@ -452,12 +458,6 @@
    "title": "China Ties U.S. Farm Purchases to Tariff Cuts as Trade Uncertainty Grows - AgroLatam",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWlBtcGthejNNdlRGTlVCbWVjSXpEbHctTXBJblR3S0JBdUdjaGQzdWlVcHk2bkY4MERpV1FCZzBLWURLcmN2N0VLOTVVLUZIYVdkOW42Ty1fZm9vQmg3VjBEaUtOMWdxR1NHckFsYzJnZklkUE5nSEVER0dWSVh6R0VB?oc=5",
    "ts": "Thu, 05 Nov 2026 12:19:25 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Analysis-China's yuan dilemma: too weak abroad and too strong at home - Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2RVTFhXMHNLbzI0eWQ5Q3JQMmhDb0xMaFRPRVdUYXNudUFkcU80ZkcwZzlhU21EU2tZYVpOMlBLNkczTFJaRDRIWUU3WUc1MXNmb0U3aXoxbDhXNDJxU29DaHpfcVAyQmxjUjFDaUlmY3BjWDYyYVVNQnJEMHZONF94RmZpTDJR?oc=5",
-   "ts": "Thu, 05 Nov 2026 23:08:01 GMT"
   }
  ]
 }

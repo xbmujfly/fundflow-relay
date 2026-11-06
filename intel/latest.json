@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T11:15:59Z",
+ "ts": "2026-11-06T11:46:00Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,6 +341,18 @@
   },
   {
    "src": "gnews",
+   "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjlHb2U1LVBiU29ZOGVGTnhubkJZUUF3ejRLQy12ejROd1lIaVMzTS1hVEVqMWx2Z3VQMmcxakItTzNzQVJ2WU1qN2tCUWNCMkUtVi1Od0FyejlRVUNTb01ZX29WUGwxU0g0RlFrU09Mc0lQZlZuaFNGVTdiUTBEQW5VM28xcFd6a2k3RW5GNGJlZktPRG5zbFB6a0hFOUpLRWNhSU9WaGg4LTRUOVBWSmxtWG5zd9IBuwFBVV95cUxQUFFsbWN1ZmxlNWRuaFAxaXBqUTJLVjFDX2M5Ui15TjhSeGpyRjN5NVZMZ01TNlVWX2NGU0tGVThHSE5jZVhFdFowSVhMTjNVdmVEd1NwbU1DcFVOaHVaWmwxOG10WWJKSnVVVmhFZGhLa0J0MkMzV2Jock1UdXFtekpKeXAtaDJPWjlfaXhueHpnWW8wcjBwUXNCRGRLVFoyQUREblVacG5QSjZrU3hkQmN6V0RCUmhmZUpv?oc=5",
+   "ts": "Fri, 06 Nov 2026 04:06:34 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump’s Canada Tariffs - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVhNeS1XX0xDd1ZkN3JZMkdWcUJkaFhONTBWSmprcWxkRVpqbU02QUQxWnRVRXdlTHBzaVJNMENWaE5HaFcyU2pCVDl3SkpXV3Y4UTlEMzM4STJFc3FGVVByUW1xUHh1QWlqOWx2bHBKQTZxb09zSDQtMklkRFpsRENDbWRiNzg3dzlwMnVqbVpLQkhRVWwwT0F6UUxFODdybWFqekNqUVhrcEZKNzZz?oc=5",
+   "ts": "Fri, 06 Nov 2026 02:00:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnlsdF9sNDNwY0VTbjBVa1QwUmFYZXJQUWhfcEdtSF9NUWFlNS1KOTh5RW1EcXQ3NUpsVnFVazZsSmRBZ01pUkRkVFRRTXlvWkcxUjFzYVlMa2d3YmZqaWs0dXBzLTBWNE5MZ19wWW1LQldvbFJSNUM4MzBnUUZsYVlDczRmLWI3UnZ2WTFxT1VwWkFWZHBUdXYyUWlZeE9XSWVxTDhSSmxyUktGb0dIaXMyUnJqdw?oc=5",
    "ts": "Fri, 06 Nov 2026 07:32:00 GMT"
@@ -377,27 +389,15 @@
   },
   {
    "src": "gnews",
-   "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
-   "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney unveils budget to strengthen Canada’s economy as Trump’s trade war slows growth - Butler Eagle",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXp4QUFEWXByYWNXdnM1amRiY25MYlA4SXllZVdfRV9MMWstT3RRV3RZbDVhcko5Zk1OdnFOTDRqZTQtNHc2SEpuWFlrSkVQbFUyRFRRRGlVTW01Wm1pX3MwSXluN0U2Z09VRWJ3QWtsRUo0ZW5UU1FZRzdJekZPaHY2RHNubUdWNWpUS2tzNUdBZ0hWUzllWVc3cENjQjZfaDE5eWhKZUlodTkwYnVJVlVjMFk3REE5R2tNZEVpUQ?oc=5",
-   "ts": "Fri, 06 Nov 2026 02:13:45 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney unveils budget to strengthen Canada’s economy as Trump’s trade war slows growth - The Seattle Times",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzQ3bkk3c3pkczhEU010X29jSUN3U1ltcmllcU12WXpGclBWRWFWdGltTlpnSTlZWkVKQ3lDUC1lTmZXTHhOLU4wNlJsY29sMzlxV0psVTJpaktwVkVHS1dsNm11YTFwUmhDenhUSFdlVTN1Yy1jOFJuRnUzMTdOZlg2UTI1R2tyMDB2SUFjTkEyV1J3Z2xUVm5BQ2pyRmRkQk1IVnJ2N3dyMGwxbXBLVkZrZ1ZvMFVwdUVHLQ?oc=5",
    "ts": "Thu, 05 Nov 2026 22:24:04 GMT"
   },
   {
    "src": "gnews",
-   "title": "Democrats’ midterm win threatens to disrupt Trump’s fragile truce with Xi - NBC News",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDI1Q05VNGNRSEFSMWFldFlFakEzeVozb1NicVBqTmNZVlBkYjlEWVBaV3BFU1J4bHRMTUp6SU1jQ3REaHU1X2FGc2lvMHNBemY5eDVDME5wMTRQckxMcFFZdlJGTmx5R3B0MDViSUlmLU9qbmFDcGdGdHRZS1FTU0NHN1VsaHhhQ0pXM25mcEotZ1lZb0p1Q2IwZGNaYnBkUXZpSFF0cXJnQW9IQlE?oc=5",
-   "ts": "Thu, 05 Nov 2026 19:05:07 GMT"
+   "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
+   "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -413,33 +413,27 @@
   },
   {
    "src": "gnews",
-   "title": "China threatens retaliation as EU mulls trade “kill-switch” - Euronews",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHBIVUJVUy1WX2c0dm5wZjhYWERMOU1GcGY5VDJvR1h4VlFvWGJDdzRyQVdEYzFaNEZqbERsb0VrN3FWQU9nVkhOSFdVOHZQaEN3ck05U2FuSzUtMUFtYUVwa2Q4VFh3UUNjZWVyUTc1UC02RTF6dUxHeGxURjBmc29EQWJZdjZXbnhmcXR5LUhnZk5HbktPdkUwdzFaUnJOTkp1My1OT2FuMEFKTWpzZDJ6TEViRUU?oc=5",
-   "ts": "Thu, 05 Nov 2026 11:21:01 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Republicans ran away from Trump's Canadian tariffs, but not far enough - CBC",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWFla0RpSXFaM3ZSOEdGakVISDdqcm5ZamlNM0VpQVRJVkFkNVl2WmZ4ZTRWdVVCaXNzSkZ2cEg2VjdxNHczY21EVkszR3gyaDJURDN2bXlXbi11dDlDM1M2T0RZTmk5ZklHNWJfS0pEeGZtbHhUTDdjR3VuS25hQkFqeGFUaGdsQjNz?oc=5",
-   "ts": "Fri, 06 Nov 2026 09:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China says US farm purchases hinge on tariff-cut deal - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjZCZGJiUVFJRkdBeU1DaTExb3FMSmdaLVRuLTRrQWNnd3F5MDg1YnZlTUZfclBPRWhQZXdlbWxEakVXdlNidWVWbmhFcGZTVEpSOWlJSE1FTHhOWTVlUXkwSG5rTXRNTDE5ckRWTzhnYmx3LVVJSDE2S2JNQW9CTUNFanlFNWlqMkJWdFZTMzU0VnpzX2tua25aQS0zNTdsUDNRRA?oc=5",
-   "ts": "Thu, 05 Nov 2026 07:44:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Watch EU Chamber of Commerce in China On Trade Amid Tensions - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQnNDOUpiSkM2Tkt4V0JhbElyTHlDdTZ2UkkxS18zSEN1YWt5cTJHUlVTNWhmYXBPSm0xWDlDeWdzN3FVZzE4ZVlnVy12ZVF1ZHdscU0wWUowakdsMEIxU1lscUVpTV9kRXc2T3JfV0pnblY3TnRLX2ViX0Z4a295OVZDOFJTcGNPZ1ZVVWpMV1pkWWVwX2d0S0tsbjYzUVM0aTBKakNSTUN5NTQ3UGc?oc=5",
-   "ts": "Fri, 06 Nov 2026 00:00:00 GMT"
+   "ts": "Fri, 06 Nov 2026 03:56:58 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Media’s investors lost $2.2 billion while Trump holds $460 million stake - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGkzZG4yU1c4YThoQTduQWZQMlBJREw3LW8tYkd2Wnl4c29kRXZjblRCcWtCdzFuak8zVEE3Ump5WkJwajZRRV91bUhtN2QtYjNHemh6MjZMZzZ6ck9TNVFrQ2FhZWFaQTlXbkpYMDN3RnZWZ0h2Yzg2cnBfOFB3aVlILXhsUzhkeW9QY29yUWR0Mm9SN1NIUEVldzJDT1RWZmc4MlE3cXhkUHdndFRRcDZPYktSenhnRzhQR1dkSDNQV0JLMEdpenZnVHhUQQ?oc=5",
+   "ts": "Fri, 06 Nov 2026 11:12:08 GMT"
   },
   {
    "src": "gnews",
    "title": "EU-China truce under strain as both sides brace for potential trade war - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjVtNGU1dEM3bzhWMDFrSVNJdEhyajJKSG1sS1pUWGdBX084eVRkQ2x6MGd5RWV6bm5GTE9xbVdZRHhZR1M3UzYwekh0MGZOXzJJcTRzUmtlZjN3LU1qMHNPTkhUQmE0Zm5QLXEzLWMtcXUySFotUS1VV0luZzdyUE1acVdtd0VUZC1LaWJSMkV6dThfVWZ1SGxDQWJZZ29zcUY5STREX2pRd3g3Z1pRbVg5c3Q2VVhYU0HSAboBQVVfeXFMTzFXVmdua3JUbjNFTGZWT2o3VjdVUVBmQXVKSWI3VmJmZkJhVTl1ZFBpZm5KZU0xNXB1bktfNDJxMWlQTk1QQWVGdnJ1SE10NHZwVWtlQWxaOE5FMmZnQi1QX0tMQVZVdkFQSjFBOXA2YzVweTJHaGJiMF9nNjdBNmFSWnNpWDlaVUFoaC1ZbW1SSmlkbTVXRUxEaElYTUhTYTFpQXZDU282cEJKWk1hVUpYNWtYd1ozLWhB?oc=5",
    "ts": "Fri, 06 Nov 2026 04:37:57 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China says US farm purchases hinge on tariff-cut deal - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjZCZGJiUVFJRkdBeU1DaTExb3FMSmdaLVRuLTRrQWNnd3F5MDg1YnZlTUZfclBPRWhQZXdlbWxEakVXdlNidWVWbmhFcGZTVEpSOWlJSE1FTHhOWTVlUXkwSG5rTXRNTDE5ckRWTzhnYmx3LVVJSDE2S2JNQW9CTUNFanlFNWlqMkJWdFZTMzU0VnpzX2tua25aQS0zNTdsUDNRRA?oc=5",
+   "ts": "Thu, 05 Nov 2026 07:44:00 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Texas Republicans trade blame after Democrats sweep statewide races, end decades of GOP rule - Houston Public Media",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdGRwbU9FM1VheDU3eHE3Um1JZURuNHJpRHVfdGdtTDkyNWYtSnVLNUFEMzBfWlpWR1ZHcjNyczdGNllRZXAzcmFxeUx5cmQ3SUZybHZRb245ODNrS1RDNWJKZTZ1QVBIYTlOU1NqT3NRZG5LaC1YcGpDYmVOakhrcmxZUi0yMUs0YjV1TGZZdElHd2NSSWVSTUlWaDNZYmQ5b18wWDM5LUlOa1pVaGNOUWRNSWNlWHZyWDNFTU5pM1pMallRLTBDblpwZFpqblRKdTgwQkYtUVF4T2lUVjdCdlpBRFgwdlJOZ2tNeUpQZF9iNC1IZDBjWWtkcFJFQUttRlB2TUdYX1lqejlCNkJr0gGXAkFVX3lxTE9VMWl0R1VQTHB5YW1RSzRoZy1wYnh2enVvVVhUS0luTVp1RTBfeEZJcmk5MVpvU0NzSnViaXBIVmIzTWJaRFpQWFcwUTBXNFNxUnVYUkc5eGxOUUFfUTJOQXZOcnhIZndjQTF6S2VoM0h0ZENOakt0bnd3Wlk1cEdvazlpNkRTbS10MDZDdGpkcnVhODU3YUVfdERXd09DT0Y1cTloNnh0YTJjMF92MlVMRE5rakVQSU5adnhtTFJKbFZPYmhsdXYwNnU0ell0MlJDQ20xRlJrMTdZY1V2eHd2VWZZM1RRV3gwUEN4dWl6VS1GQmFJaU5kNFZlclpmbGk4Z1l1UHh6eWJNanJ4QV9DSElhZmtRMA?oc=5",
-   "ts": "Thu, 05 Nov 2026 19:45:56 GMT"
+   "title": "China threatens retaliation as EU mulls trade “kill-switch” - Euronews",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHBIVUJVUy1WX2c0dm5wZjhYWERMOU1GcGY5VDJvR1h4VlFvWGJDdzRyQVdEYzFaNEZqbERsb0VrN3FWQU9nVkhOSFdVOHZQaEN3ck05U2FuSzUtMUFtYUVwa2Q4VFh3UUNjZWVyUTc1UC02RTF6dUxHeGxURjBmc29EQWJZdjZXbnhmcXR5LUhnZk5HbktPdkUwdzFaUnJOTkp1My1OT2FuMEFKTWpzZDJ6TEViRUU?oc=5",
+   "ts": "Thu, 05 Nov 2026 11:21:01 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Republicans ran away from Trump's Canadian tariffs, but not far enough - CBC",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWFla0RpSXFaM3ZSOEdGakVISDdqcm5ZamlNM0VpQVRJVkFkNVl2WmZ4ZTRWdVVCaXNzSkZ2cEg2VjdxNHczY21EVkszR3gyaDJURDN2bXlXbi11dDlDM1M2T0RZTmk5ZklHNWJfS0pEeGZtbHhUTDdjR3VuS25hQkFqeGFUaGdsQjNz?oc=5",
+   "ts": "Fri, 06 Nov 2026 09:00:00 GMT"
   }
  ]
 }

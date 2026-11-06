@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-05T23:45:20Z",
+ "ts": "2026-11-06T00:00:24Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -359,6 +359,12 @@
   },
   {
    "src": "gnews",
+   "title": "Carney unveils budget to strengthen Canada’s economy as Trump’s trade war continues - The Seattle Times",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzQ3bkk3c3pkczhEU010X29jSUN3U1ltcmllcU12WXpGclBWRWFWdGltTlpnSTlZWkVKQ3lDUC1lTmZXTHhOLU4wNlJsY29sMzlxV0psVTJpaktwVkVHS1dsNm11YTFwUmhDenhUSFdlVTN1Yy1jOFJuRnUzMTdOZlg2UTI1R2tyMDB2SUFjTkEyV1J3Z2xUVm5BQ2pyRmRkQk1IVnJ2N3dyMGwxbXBLVkZrZ1ZvMFVwdUVHLQ?oc=5",
+   "ts": "Thu, 05 Nov 2026 22:24:04 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
    "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
@@ -401,12 +407,6 @@
   },
   {
    "src": "gnews",
-   "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues - CT Insider",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYXYycmpqSzkzM0ZyeFJZS1lXTXZnX0ZkQ3pmbVlPTUdldXEyS0lRS0lWNTlrM2ExcDRDOUUzekVjaUV0YmkyTG1CQTcyZ1FZcEVMMWR2b0JWMVloR1g0UW9hSF9JeldIVmk1X044SjdxUC01M013cWlUQVRkM2gxTndOSEhjaVdJSUZLVzJpVEhka21LcnNuelpGN0NraEV3YW9jcjJ3?oc=5",
-   "ts": "Thu, 05 Nov 2026 22:37:48 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "U.S. Mid-Term Rout Unlikely to Change Trump’s Trade Policy - SupplyChainBrain",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWXhYSzRLdldFbjhsSHUwcU05QVJXa3BuLTB0b1Z1WHFiX2h2dFBwQ28yQWVESGNLMnU5dzd2ejlxTnZZb2o5WVRrZXUxWWE1OEtMXy1HMGpqRHJtZWhLd280Q3BxemtWamR4aWtfc1hoXzc0SGJkM1Vva3l3eTBQZ3hDbk1NZmJ5VHd5YUpkQlBiYVhXUnZCSFJyWXNyaFhjSk80UjlJWklyb1lfTWhaYloyR21peXpFakRkR3BYaF9VNl9lTVBKQ0dDOU1XM1R1QWtjTA?oc=5",
    "ts": "Thu, 05 Nov 2026 05:03:56 GMT"
@@ -416,12 +416,6 @@
    "title": "China Ties U.S. Farm Purchases to Tariff Cuts as Trade Uncertainty Grows - AgroLatam",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWlBtcGthejNNdlRGTlVCbWVjSXpEbHctTXBJblR3S0JBdUdjaGQzdWlVcHk2bkY4MERpV1FCZzBLWURLcmN2N0VLOTVVLUZIYVdkOW42Ty1fZm9vQmg3VjBEaUtOMWdxR1NHckFsYzJnZklkUE5nSEVER0dWSVh6R0VB?oc=5",
    "ts": "Thu, 05 Nov 2026 12:19:25 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney Asserts Canada’s Sovereignty and Vows to End Homelessness in Budget - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY2tHX1ZPRnpsY2hBY1czeTVsSmJ1b010VnllRVVHbEJfanVyQnFlVTRCT0JVaW9QbGwtNVBrc2VWWnREMkhtTHZXbWFCT0N0SE5VNnJiME9zV3dvZElISTFKaXYyN0lONUFtYlpyR0xyNmticWhuUUFUVUpIV29LU3pzeUU2RS1SN3JXb1ZFUE5LSEg0RmlF?oc=5",
-   "ts": "Thu, 05 Nov 2026 21:30:46 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +452,12 @@
    "title": "EXCLUSIVE: Nvidia chips pile up in Hong Kong as China withholds import approval - Reuters",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHNUQnlURFBWSTlTSE5wNWUzekR0cDZfcWQzQVRFLVNweXJiSGhtSFZ6cWdvMXF4SHpLRy1YT1Y2QjJZMGxRajNaRGQ1Y25SVGkycEphaU4zTTRJSzV0QjNPTFMxeEl0Mm9CdGFQc0JJTHBNemVoSXdkTnhsR1FNR0t1b2hoUHdfSW0yVnlGMl95Qkd4dDAtMGdhYTFhUzRhc0U1Mm9fdGxLRnhacUNr?oc=5",
    "ts": "Thu, 05 Nov 2026 11:54:32 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney Asserts Canada’s Sovereignty and Vows to End Homelessness in Budget - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY2tHX1ZPRnpsY2hBY1czeTVsSmJ1b010VnllRVVHbEJfanVyQnFlVTRCT0JVaW9QbGwtNVBrc2VWWnREMkhtTHZXbWFCT0N0SE5VNnJiME9zV3dvZElISTFKaXYyN0lONUFtYlpyR0xyNmticWhuUUFUVUpIV29LU3pzeUU2RS1SN3JXb1ZFUE5LSEg0RmlF?oc=5",
+   "ts": "Thu, 05 Nov 2026 21:30:46 GMT"
   }
  ]
 }

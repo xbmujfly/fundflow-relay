@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T14:31:02Z",
+ "ts": "2026-11-06T14:46:01Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,15 +341,15 @@
   },
   {
    "src": "gnews",
-   "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnlsdF9sNDNwY0VTbjBVa1QwUmFYZXJQUWhfcEdtSF9NUWFlNS1KOTh5RW1EcXQ3NUpsVnFVazZsSmRBZ01pUkRkVFRRTXlvWkcxUjFzYVlMa2d3YmZqaWs0dXBzLTBWNE5MZ19wWW1LQldvbFJSNUM4MzBnUUZsYVlDczRmLWI3UnZ2WTFxT1VwWkFWZHBUdXYyUWlZeE9XSWVxTDhSSmxyUktGb0dIaXMyUnJqdw?oc=5",
-   "ts": "Fri, 06 Nov 2026 11:24:53 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump’s Canada Tariffs - WSJ",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVhNeS1XX0xDd1ZkN3JZMkdWcUJkaFhONTBWSmprcWxkRVpqbU02QUQxWnRVRXdlTHBzaVJNMENWaE5HaFcyU2pCVDl3SkpXV3Y4UTlEMzM4STJFc3FGVVByUW1xUHh1QWlqOWx2bHBKQTZxb09zSDQtMklkRFpsRENDbWRiNzg3dzlwMnVqbVpLQkhRVWwwT0F6UUxFODdybWFqekNqUVhrcEZKNzZz?oc=5",
    "ts": "Fri, 06 Nov 2026 02:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnlsdF9sNDNwY0VTbjBVa1QwUmFYZXJQUWhfcEdtSF9NUWFlNS1KOTh5RW1EcXQ3NUpsVnFVazZsSmRBZ01pUkRkVFRRTXlvWkcxUjFzYVlMa2d3YmZqaWs0dXBzLTBWNE5MZ19wWW1LQldvbFJSNUM4MzBnUUZsYVlDczRmLWI3UnZ2WTFxT1VwWkFWZHBUdXYyUWlZeE9XSWVxTDhSSmxyUktGb0dIaXMyUnJqdw?oc=5",
+   "ts": "Fri, 06 Nov 2026 11:24:53 GMT"
   },
   {
    "src": "gnews",
@@ -415,7 +415,7 @@
    "src": "gnews",
    "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Reuters",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzNLUjBwZFJZSVE0U0NxbTVYbVotU0R1ak1zb2g1LTR2a0MtYkxVcGZFOFhZNkcza1hhTlpobGN4bU1hVmZhUGs5UFk5TC1kYWdXS181NHdZZlJGdEJMc0NNcHl5dndpaHo2SXpJcUxjeHkwVkZQTkhBX2xVVlg0eWNkZXRkcGx6NEpRQlFiLWtXdElVcllTWHhGZWxvUEREWXEzM2RocjFjbXBIbm1wOVhUSkEzOGFCb3ZMZ21WdElEU3l3em15cGZtZkdUQQ?oc=5",
-   "ts": "Thu, 05 Nov 2026 01:51:00 GMT"
+   "ts": "Thu, 05 Nov 2026 10:17:51 GMT"
   },
   {
    "src": "gnews",
@@ -426,7 +426,7 @@
   {
    "src": "gnews",
    "title": "Hong Kong firms must innovate to compete in mainland China, trade chief says - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR2RpNmF3OGhfX3pvNmtqWmktZ0MzS2h6S2ZDUTBKMjNNN1FJaVVDQ1pHVzB6ekVYand3V0d0QXl4dklGZzJHS2JMNTFvS2loS0g1a0hrMi1jd0ZTRWx3SmItNXJsU01GcTVRcV82NVJXZFhxT3c4YmxRQnV3akNTa1JPczBTdTJpSDRpRnd0NGVUck9vUWgza3drNjFGZEVySDBaSEM4V3lyanRQOW92Y0RmODkyS0NQek1VZThaanVNeTZ6dC16ME5VaFp4VVVuS0V1cHVn0gHWAUFVX3lxTE1ZWFdnUnhoOS1iUVg3TTFjSm5kQ1ZMR0hYUmhzUzVBT3MzTThlVDJiMXhUeVd2cUYwbWQtWDI2N21XZE50Y0JFdUp4QWJ4RjE4QUpLeURkSEhvZXh2SEtWcmVJUFdOMmFxdlNQaUdlZVdpSDh4bzBhWEZDWFN1ckx4VU1rZ180MGpmeE1PUkdoc3A2NEFYVzlqWGtHd29zX0hHTk45VXRQTkJIQVhVYnIzaTY2cTVuV3dOTW0xYWxDMHpINFYydXE5dU90MzRxaHdTRFF1Q2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR2RpNmF3OGhfX3pvNmtqWmktZ0MzS2h6S2ZDUTBKMjNNN1FJaVVDQ1pHVzB6ekVYand3V0d0QXl4dklGZzJHS2JMNTFvS2loS0g1a0hrMi1jd0ZTRWx3SmItNXJsU01GcTVRcV82NVJXZFhxT3c4YmxRQnV3akNTa1JPczBTdTJpSDRpRnd0NGVUck9vUWgza3drNjFGZEVySDBaSEM4V3lyanRQOW92Y0RmODkyS0NQek1VZThaanVNeTZ6dC16ME5VaFp4VVVuS0V1cHVn?oc=5",
    "ts": "Fri, 06 Nov 2026 12:24:23 GMT"
   },
   {
@@ -443,6 +443,12 @@
   },
   {
    "src": "gnews",
+   "title": "Could a paused US blacklist rule signal room for progress in China trade talks? - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbHdyTzZwRGZDSGZLcDdSRTBpZFI4Sy1uUFliYmwwNF9oaElvOXJUQmdXNlhVYTJ2LVYwejgwbkJha29XUm0xVEQ2X0Rqb0haUDlKZUtkcEhGRVl1QVZiTVpmMV95dWFxR2xUNkZPdG1USEdJNkt6TmRON29YWURqTFk1M3lpb3hTRVhtNUp6YjRJRTBVTlN1Tkd4aXg5SUxETXdlbVNyTldJUWY1N0J0dTlRdl9FZjZPM3c?oc=5",
+   "ts": "Fri, 06 Nov 2026 13:00:10 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "EU-China truce under strain as both sides brace for potential trade war - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjVtNGU1dEM3bzhWMDFrSVNJdEhyajJKSG1sS1pUWGdBX084eVRkQ2x6MGd5RWV6bm5GTE9xbVdZRHhZR1M3UzYwekh0MGZOXzJJcTRzUmtlZjN3LU1qMHNPTkhUQmE0Zm5QLXEzLWMtcXUySFotUS1VV0luZzdyUE1acVdtd0VUZC1LaWJSMkV6dThfVWZ1SGxDQWJZZ29zcUY5STREX2pRd3g3Z1pRbVg5c3Q2VVhYU0HSAboBQVVfeXFMTzFXVmdua3JUbjNFTGZWT2o3VjdVUVBmQXVKSWI3VmJmZkJhVTl1ZFBpZm5KZU0xNXB1bktfNDJxMWlQTk1QQWVGdnJ1SE10NHZwVWtlQWxaOE5FMmZnQi1QX0tMQVZVdkFQSjFBOXA2YzVweTJHaGJiMF9nNjdBNmFSWnNpWDlaVUFoaC1ZbW1SSmlkbTVXRUxEaElYTUhTYTFpQXZDU282cEJKWk1hVUpYNWtYd1ozLWhB?oc=5",
    "ts": "Fri, 06 Nov 2026 04:37:57 GMT"
@@ -452,12 +458,6 @@
    "title": "‘More carve-outs’? How the midterms could affect US trade policy on China - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb05DX3U3cmVhWTVRVTRQbkdqRTB3RzhFdlhfeWxGckw1cl93bjJXMkwwLTJURUxuRUI1eUNDTm5SVE1FQmtFNFRhaXVXQnJtbjAyNkI4VFQ0NWdkZnplRHZhdVBBSTNpT09mWlgyTVFrRzdBX2dMS0VycDBjcnpPdnVBSWE1RmlxY1M3TjdkdUVJc2RPWGN5cUljMVJvZnJPVnFKSjFMONIBpwFBVV95cUxNWG1faG9kV1ItTlIyLTlfeXdETldlcFlPRXJfLWJxdy1tcFVTSTU5MTBmSkpuVjROVmtQMGZYcXpLZmpLTl9tY294QVRrYjI1enJTaThlVXUwakJqc1dhQWZKVGFXTjZxTnZGU1NSMENMeGZrQ0pyMHg3NlN1Z0NrLUZUQThXUW4xYjJOc0k3UnlMVVZsRlpwZjR4ZGdsUEVUQWhBcWVicw?oc=5",
    "ts": "Wed, 04 Nov 2026 14:00:09 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Electric Vehicles Are Just the Tip of the UK’s Coming China Shock - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTWxtbVRWdjMtTDlDTVpraE15M0FlRVY0NEFES2VTSWttd21tMEx4Z0hFUEZPZER6ZFM5eEhwbkRod3NSYzRDSmplSU1IRTd4cHdTWk9CSmh6VVJpdlhMNEp1NUt5blJVU3NLZTgxQkNFNlY4Zk9HZ1JTYlBaaFg5V1lrNFM5QXVaMGxXSUtfQkhxYVZIWm1xekxNcWZ4MEdoR3BOQzJMbFA3VTFxSHFZeXREX0JVbDlqY2hz?oc=5",
-   "ts": "Fri, 06 Nov 2026 05:00:00 GMT"
   }
  ]
 }

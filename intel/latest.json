@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T02:30:28Z",
+ "ts": "2026-11-06T02:45:21Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -401,15 +401,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump's political humbling signals short-term gain, long-term pain for China - Al-Monitor",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQamJpRm10Y0pmUU5wcnp4NXR3OUd4bEFuWkRfWnVfb3VmbXJ2eXlnb1JvQUV0cmhhRzFWd3NfdlUyTENlNFNGV2JmcDNILXFKQjRoa1daTHdGbmVqT29kYjVfWmRtOU05LVpQVDU1S1h2QkNzWWRHdVdabEhaby01NVYzaXcxc1dyOGh2aVRidnBENWUxMDBYbEVKQ1VwSTRNYjk1NEZVUEh4QXV3ZDQ0ZFQzQXB1UQ?oc=5",
-   "ts": "Thu, 05 Nov 2026 12:50:25 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Democrats’ midterm win threatens to disrupt Trump’s fragile truce with Xi - NBC News",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDI1Q05VNGNRSEFSMWFldFlFakEzeVozb1NicVBqTmNZVlBkYjlEWVBaV3BFU1J4bHRMTUp6SU1jQ3REaHU1X2FGc2lvMHNBemY5eDVDME5wMTRQckxMcFFZdlJGTmx5R3B0MDViSUlmLU9qbmFDcGdGdHRZS1FTU0NHN1VsaHhhQ0pXM25mcEotZ1lZb0p1Q2IwZGNaYnBkUXZpSFF0cXJnQW9IQlE?oc=5",
-   "ts": "Thu, 05 Nov 2026 19:05:07 GMT"
+   "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
+   "ts": "Thu, 05 Nov 2026 03:50:00 GMT"
   },
   {
    "src": "gnews",
@@ -433,7 +427,7 @@
    "src": "gnews",
    "title": "Trump's political humbling signals short-term gain, long-term pain for China - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVBkVEFRMUNIQ0xmQVZXR1lLZmJBeVJiMXJMalZKLTRCaG00cmhCWjVKQjZmUUh3ajlGY3hjejlwRm40M1BNVXlwWFJjcXU0Um40QVNQY1BjNEZFbGF0RUdvamZYNlBCelY2UFBuOHVzU2pRYWk5RXRPbjU5QkdwcUo2cXhKU2JqMy01ZHpoQk5MbTg2a19rdXRCR1JLeFI2RzJMNDNtMm9LelZOWS1vaVpyNG5GS2pManc?oc=5",
-   "ts": "Thu, 05 Nov 2026 07:57:00 GMT"
+   "ts": "Thu, 05 Nov 2026 11:46:06 GMT"
   },
   {
    "src": "gnews",
@@ -449,15 +443,21 @@
   },
   {
    "src": "gnews",
-   "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
-   "ts": "Thu, 05 Nov 2026 03:50:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "‘Squeeze narrative’ on China’s trade surplus belies reality: official - SCMP",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMllfOWxuNFoxZXlVQzE1M0dRTDZSY3VyWEF4SVVHUFF4THRXc2I0bXRKenYxaGI5SmhHYWl5emdJemtUeVNIM081dVY2RF9rWmtPRXViQl9kcWtTcG83NDVwSy1YVEFxc2VtZXAzby0xRFQzZGRPZGY4T2FqMTlVMjh5aWFrZTI3Nmx5SS1lb18tMmtFamRFUmFQRVo3eUdkYnVUX2FDanRORDBCUFlJYkhGRVNMZ9IBtgFBVV95cUxNWjlqQWRtNXpVVjJ5b1BSWlNSWENZYkRFOWVRNWtfVXFKbktXci1OWlk4R1V1SkdKNzI4S2liajNUT0E4T19TNDF1SVU4Z2ZwNWpHQW1VXzVXc0g0WDk3Sld3S3YtLU5DUEI3N2VtYmZkNmg2ZnFKZk5hemhFeXNFT3JzNldLOF85Wkpkb09PNmcyWXdoMGdvRHBZN0cxNXlxWC05elRYTWhSeThlcllhSkg5dElaQQ?oc=5",
    "ts": "Thu, 05 Nov 2026 07:00:05 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "EXCLUSIVE: Nvidia chips pile up in Hong Kong as China withholds import approval - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHNUQnlURFBWSTlTSE5wNWUzekR0cDZfcWQzQVRFLVNweXJiSGhtSFZ6cWdvMXF4SHpLRy1YT1Y2QjJZMGxRajNaRGQ1Y25SVGkycEphaU4zTTRJSzV0QjNPTFMxeEl0Mm9CdGFQc0JJTHBNemVoSXdkTnhsR1FNR0t1b2hoUHdfSW0yVnlGMl95Qkd4dDAtMGdhYTFhUzRhc0U1Mm9fdGxLRnhacUNr?oc=5",
+   "ts": "Thu, 05 Nov 2026 11:54:32 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Can China Benefit From Trump’s Midterm Defeat in US Trade and Taiwan Disputes? - Modern Diplomacy",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDRnQTRjdUk2WnlJUnZLbmZWZDhkdFdlZUJ4eTFqUmJ6c3pCeU90WUV1ektWRGR1aWsxR2ZYaDJzZTUwSGI1M3BieHRBcTh1NUdNZ0hDR2lDT3luRmg1ZXFSRXJoYUZNYmxiSVk0RzRhQ0xvRVp2ZF85S09Pc296OUtZYy13bUc5ZjV3LXlucHFtRnFMOHo3TVdtQjFOQUlYZ3hNSVBzQWEtWW9TZVF4enlhUURuZw?oc=5",
+   "ts": "Thu, 05 Nov 2026 08:24:14 GMT"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T00:00:24Z",
+ "ts": "2026-11-06T00:15:22Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -359,9 +359,9 @@
   },
   {
    "src": "gnews",
-   "title": "Carney unveils budget to strengthen Canada’s economy as Trump’s trade war continues - The Seattle Times",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzQ3bkk3c3pkczhEU010X29jSUN3U1ltcmllcU12WXpGclBWRWFWdGltTlpnSTlZWkVKQ3lDUC1lTmZXTHhOLU4wNlJsY29sMzlxV0psVTJpaktwVkVHS1dsNm11YTFwUmhDenhUSFdlVTN1Yy1jOFJuRnUzMTdOZlg2UTI1R2tyMDB2SUFjTkEyV1J3Z2xUVm5BQ2pyRmRkQk1IVnJ2N3dyMGwxbXBLVkZrZ1ZvMFVwdUVHLQ?oc=5",
-   "ts": "Thu, 05 Nov 2026 22:24:04 GMT"
+   "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjlHb2U1LVBiU29ZOGVGTnhubkJZUUF3ejRLQy12ejROd1lIaVMzTS1hVEVqMWx2Z3VQMmcxakItTzNzQVJ2WU1qN2tCUWNCMkUtVi1Od0FyejlRVUNTb01ZX29WUGwxU0g0RlFrU09Mc0lQZlZuaFNGVTdiUTBEQW5VM28xcFd6a2k3RW5GNGJlZktPRG5zbFB6a0hFOUpLRWNhSU9WaGg4LTRUOVBWSmxtWG5zd9IBuwFBVV95cUxQUFFsbWN1ZmxlNWRuaFAxaXBqUTJLVjFDX2M5Ui15TjhSeGpyRjN5NVZMZ01TNlVWX2NGU0tGVThHSE5jZVhFdFowSVhMTjNVdmVEd1NwbU1DcFVOaHVaWmwxOG10WWJKSnVVVmhFZGhLa0J0MkMzV2Jock1UdXFtekpKeXAtaDJPWjlfaXhueHpnWW8wcjBwUXNCRGRLVFoyQUREblVacG5QSjZrU3hkQmN6V0RCUmhmZUpv?oc=5",
+   "ts": "Thu, 05 Nov 2026 23:32:43 GMT"
   },
   {
    "src": "gnews",
@@ -383,15 +383,15 @@
   },
   {
    "src": "gnews",
-   "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
-   "ts": "Thu, 05 Nov 2026 03:50:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump's political humbling signals short-term gain, long-term pain for China - Al-Monitor",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQamJpRm10Y0pmUU5wcnp4NXR3OUd4bEFuWkRfWnVfb3VmbXJ2eXlnb1JvQUV0cmhhRzFWd3NfdlUyTENlNFNGV2JmcDNILXFKQjRoa1daTHdGbmVqT29kYjVfWmRtOU05LVpQVDU1S1h2QkNzWWRHdVdabEhaby01NVYzaXcxc1dyOGh2aVRidnBENWUxMDBYbEVKQ1VwSTRNYjk1NEZVUEh4QXV3ZDQ0ZFQzQXB1UQ?oc=5",
    "ts": "Thu, 05 Nov 2026 12:50:25 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
+   "ts": "Thu, 05 Nov 2026 03:50:00 GMT"
   },
   {
    "src": "gnews",
@@ -413,12 +413,6 @@
   },
   {
    "src": "gnews",
-   "title": "China Ties U.S. Farm Purchases to Tariff Cuts as Trade Uncertainty Grows - AgroLatam",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWlBtcGthejNNdlRGTlVCbWVjSXpEbHctTXBJblR3S0JBdUdjaGQzdWlVcHk2bkY4MERpV1FCZzBLWURLcmN2N0VLOTVVLUZIYVdkOW42Ty1fZm9vQmg3VjBEaUtOMWdxR1NHckFsYzJnZklkUE5nSEVER0dWSVh6R0VB?oc=5",
-   "ts": "Thu, 05 Nov 2026 12:19:25 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Reuters",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzNLUjBwZFJZSVE0U0NxbTVYbVotU0R1ak1zb2g1LTR2a0MtYkxVcGZFOFhZNkcza1hhTlpobGN4bU1hVmZhUGs5UFk5TC1kYWdXS181NHdZZlJGdEJMc0NNcHl5dndpaHo2SXpJcUxjeHkwVkZQTkhBX2xVVlg0eWNkZXRkcGx6NEpRQlFiLWtXdElVcllTWHhGZWxvUEREWXEzM2RocjFjbXBIbm1wOVhUSkEzOGFCb3ZMZ21WdElEU3l3em15cGZtZkdUQQ?oc=5",
    "ts": "Thu, 05 Nov 2026 01:51:00 GMT"
@@ -437,7 +431,7 @@
   },
   {
    "src": "gnews",
-   "title": "‘Squeeze narrative’ on China’s trade surplus belies reality: official - South China Morning Post",
+   "title": "‘Squeeze narrative’ on China’s trade surplus belies reality: official - SCMP",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMllfOWxuNFoxZXlVQzE1M0dRTDZSY3VyWEF4SVVHUFF4THRXc2I0bXRKenYxaGI5SmhHYWl5emdJemtUeVNIM081dVY2RF9rWmtPRXViQl9kcWtTcG83NDVwSy1YVEFxc2VtZXAzby0xRFQzZGRPZGY4T2FqMTlVMjh5aWFrZTI3Nmx5SS1lb18tMmtFamRFUmFQRVo3eUdkYnVUX2FDanRORDBCUFlJYkhGRVNMZ9IBtgFBVV95cUxNWjlqQWRtNXpVVjJ5b1BSWlNSWENZYkRFOWVRNWtfVXFKbktXci1OWlk4R1V1SkdKNzI4S2liajNUT0E4T19TNDF1SVU4Z2ZwNWpHQW1VXzVXc0g0WDk3Sld3S3YtLU5DUEI3N2VtYmZkNmg2ZnFKZk5hemhFeXNFT3JzNldLOF85Wkpkb09PNmcyWXdoMGdvRHBZN0cxNXlxWC05elRYTWhSeThlcllhSkg5dElaQQ?oc=5",
    "ts": "Thu, 05 Nov 2026 07:00:05 GMT"
   },
@@ -452,6 +446,12 @@
    "title": "EXCLUSIVE: Nvidia chips pile up in Hong Kong as China withholds import approval - Reuters",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHNUQnlURFBWSTlTSE5wNWUzekR0cDZfcWQzQVRFLVNweXJiSGhtSFZ6cWdvMXF4SHpLRy1YT1Y2QjJZMGxRajNaRGQ1Y25SVGkycEphaU4zTTRJSzV0QjNPTFMxeEl0Mm9CdGFQc0JJTHBNemVoSXdkTnhsR1FNR0t1b2hoUHdfSW0yVnlGMl95Qkd4dDAtMGdhYTFhUzRhc0U1Mm9fdGxLRnhacUNr?oc=5",
    "ts": "Thu, 05 Nov 2026 11:54:32 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China Ties U.S. Farm Purchases to Tariff Cuts as Trade Uncertainty Grows - AgroLatam",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWlBtcGthejNNdlRGTlVCbWVjSXpEbHctTXBJblR3S0JBdUdjaGQzdWlVcHk2bkY4MERpV1FCZzBLWURLcmN2N0VLOTVVLUZIYVdkOW42Ty1fZm9vQmg3VjBEaUtOMWdxR1NHckFsYzJnZklkUE5nSEVER0dWSVh6R0VB?oc=5",
+   "ts": "Thu, 05 Nov 2026 12:19:25 GMT"
   },
   {
    "src": "gnews",

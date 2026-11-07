@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-07T05:45:20Z",
+ "ts": "2026-11-07T06:00:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -358,15 +359,15 @@
   },
   {
    "src": "gnews",
-   "title": "After the Midterm Rout, Can Trump Change Course Without Giving Up Tariffs? - Carnegie Endowment for International Peace",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTlPWVM2SzF4RmJ1Ry1oX2NOMWc0MGJQREpBLTE5OEZ2RnVDT2JtZFZXR1JYWDRka19hUWkzTWJCR1ZrNVQ3R0RTUEFOcDJVSXJnWE54YjFlOUR6RkVUWTNiYWJweWsxQUI2TmpGWTdFZmtOc1VnVllRdWM1ajlhbjg5UXkxZ3Vid3c?oc=5",
-   "ts": "Fri, 06 Nov 2026 18:10:28 GMT"
+   "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting - DW.com",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
+   "ts": "Sat, 07 Nov 2026 04:46:35 GMT"
   },
   {
    "src": "gnews",
-   "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting - DW.com",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
-   "ts": "Sat, 07 Nov 2026 04:55:32 GMT"
+   "title": "After the Midterm Rout, Can Trump Change Course Without Giving Up Tariffs? - Carnegie Endowment for International Peace",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTlPWVM2SzF4RmJ1Ry1oX2NOMWc0MGJQREpBLTE5OEZ2RnVDT2JtZFZXR1JYWDRka19hUWkzTWJCR1ZrNVQ3R0RTUEFOcDJVSXJnWE54YjFlOUR6RkVUWTNiYWJweWsxQUI2TmpGWTdFZmtOc1VnVllRdWM1ajlhbjg5UXkxZ3Vid3c?oc=5",
+   "ts": "Fri, 06 Nov 2026 18:10:28 GMT"
   },
   {
    "src": "gnews",
@@ -412,6 +413,12 @@
   },
   {
    "src": "gnews",
+   "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
+   "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "U.S. urges China to meet rare earths and agriculture commitments ahead of Trump-Xi meetings - The Japan Times",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT0dGYXZnbGx1UlM1aWlobnhkNWFJSlZVa1daT2dSRkVaNnlQYWRrWnR5R3JYQ1pDRGJOcGgyYU10VHZZbVZ1ZFI4T2xKbnZqR2pZbGRqQUJCTWlTdm1vd0ZUMElrdkl1d0lTTG9MQkJoaFlHV19IMTdjcnZuVzFWQy1Ud3RaWHVaeC1xTUFLNjE5bEN6?oc=5",
    "ts": "Sat, 07 Nov 2026 02:16:00 GMT"
@@ -421,12 +428,6 @@
    "title": "US-China Trade: Washington Presses Beijing on Soybean Purchases Ahead of Trump-Xi Talks - AgroLatam",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVTlTckRGanNCN3RxVS1QeEYwbTJEYnpnakN5WkVEa1lXbmRjS0sxYzEzY3JhdkFSR2tqMTU4M1lZN2xRR3B3OTVPVVowU2FVaXQ2Rkh5eVZyMmJzQ21UNTRJUkFnaThOZDhNemptVHAyS0dXOWFlTDJwU3JCQjVLRURRTkZZTm9oemc?oc=5",
    "ts": "Fri, 06 Nov 2026 21:15:20 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
-   "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -457,126 +458,6 @@
    "title": "‘More carve-outs’? How the midterms could affect US trade policy on China - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb05DX3U3cmVhWTVRVTRQbkdqRTB3RzhFdlhfeWxGckw1cl93bjJXMkwwLTJURUxuRUI1eUNDTm5SVE1FQmtFNFRhaXVXQnJtbjAyNkI4VFQ0NWdkZnplRHZhdVBBSTNpT09mWlgyTVFrRzdBX2dMS0VycDBjcnpPdnVBSWE1RmlxY1M3TjdkdUVJc2RPWGN5cUljMVJvZnJPVnFKSjFMONIBpwFBVV95cUxNWG1faG9kV1ItTlIyLTlfeXdETldlcFlPRXJfLWJxdy1tcFVTSTU5MTBmSkpuVjROVmtQMGZYcXpLZmpLTl9tY294QVRrYjI1enJTaThlVXUwakJqc1dhQWZKVGFXTjZxTnZGU1NSMENMeGZrQ0pyMHg3NlN1Z0NrLUZUQThXUW4xYjJOc0k3UnlMVVZsRlpwZjR4ZGdsUEVUQWhBcWVicw?oc=5",
    "ts": "Wed, 04 Nov 2026 14:00:09 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Prix des carburants en Seine - et - Marne : où trouver les stations les moins chères ce samedi 7 novembre ? ",
-   "url": "https://www.leparisien.fr/economie/consommation/prix-des-carburants-en-seine-et-marne-ou-trouver-les-stations-les-moins-cheres-ce-samedi-7-novembre-07-11-2026-E43PRKUYVVCWLD327EIYQZYD7Y.php",
-   "ts": "20261107T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "美 · 이란 중재안에  핵 협상 바로 착수  담겼다 … 트럼프 체면 살리기",
-   "url": "https://www.heraldk.com/article/2026110619510512593",
-   "ts": "20261107T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Nasdaq rebounds but posts fourth straight weekly decline",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-rebounds-but-posts-fourth-straight-weekly-decline/articleshow/135626093.cms",
-   "ts": "20261107T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Pope Leo  proud to be an American  and vote in US midterms",
-   "url": "https://www.gulfcoastnewsnow.com/article/pope-leo-proud-to-be-american-vote-in-midterms/74361205",
-   "ts": "20261107T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Írán označil evropské cíle . Hrozí i „ nehmotným aktivům : nikdo neví , co tím myslí – Aktuálně . cz",
-   "url": "https://zpravy.aktualne.cz/zahranici/iran-oznacil-evropske-cile-hrozi-i-nehmotnym-aktivum-nikdo-nevi-co-tim-mysli/r~aaa2944e80cfc989b7c1cdc700278812/",
-   "ts": "20261107T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ohio Governor - elect Amy Acton has",
-   "url": "http://www.austinglobe.com/news/279417977/ohio-governor-elect-amy-acton-has-no-intention-of-speaking-to-ramaswamy-over-despicable-campaign-ad-featuring-her-estranged-mother",
-   "ts": "20261107T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Man arrested with guns near White House reported voices telling him to kill President Trump",
-   "url": "https://www.wtva.com/2026/11/06/man-arrested-with-guns-near-white-house-reported-voices-telling-him-kill-president-trump/",
-   "ts": "20261107T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " ( CIIE ) Small players , big gains at China import expo",
-   "url": "http://www.taiwansun.com/news/279418057/ciie-small-players-big-gains-at-china-import-expo",
-   "ts": "20261107T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Amazon to release Melania Trump TV series despite movie flop",
-   "url": "https://www.nzherald.co.nz/world/amazon-to-release-melania-trump-tv-series-despite-movie-flop/2WX76M5ELZF6JCAYAQMPOSSRHU/",
-   "ts": "20261107T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "मिडटर्म चुनावी झटके के बाद ट्रंप का बड़ा दांव , स्टीफन मिलर बने चीफ ऑफ स्टाफ",
-   "url": "https://www.deshbandhu.co.in/world/trumps-bold-move-following-midterm-election-setback-stephen-miller-named-chief-of-staff-330255",
-   "ts": "20261107T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "习近平同加蓬总统恩圭马会谈 _ 今日关注 _ 天津政务网",
-   "url": "https://www.tj.gov.cn/sy/jrgz/202611/t20261107_7651985.html",
-   "ts": "20261107T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "共和党デサンティス氏出馬準備か ２８年米大統領選 、 本人は否定 ： 中日新聞Web",
-   "url": "https://www.chunichi.co.jp:443/article/1336065",
-   "ts": "20261107T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Viral Kabar Bikin SIM Gratis , Begini Faktanya",
-   "url": "https://www.viva.co.id/otomotif/1941714-viral-kabar-bikin-sim-gratis-begini-faktanya",
-   "ts": "20261107T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Gold drops as strong US payrolls boost dollar , yields",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-as-strong-us-payrolls-boost-dollar-yields/articleshow/135626183.cms",
-   "ts": "20261107T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Speaks At Florida Up Summit After Midterms",
-   "url": "https://1440wgig.iheart.com/content/2026-11-07-trump-speaks-at-floridas-up-summit-after-midterms/",
-   "ts": "20261107T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Transio no Paraná : equipes de Moro e Ratinho se reúnem",
-   "url": "https://www.paranashop.com.br/post/equipes-moro-ratinho-primeira-reuniao-transicao-parana",
-   "ts": "20261107T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " ( CIIE ) Small players , big gains at China import expo",
-   "url": "http://www.malaysiasun.com/news/279418057/ciie-small-players-big-gains-at-china-import-expo",
-   "ts": "20261107T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  All Things Considered  bids farewell to host Mary Louise Kelly",
-   "url": "https://www.kzyx.org/npr-news/2026-11-06/all-things-considered-bids-farewell-to-host-mary-louise-kelly",
-   "ts": "20261107T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Man with 3 guns arrested near White House after alleged threat to kill Trump",
-   "url": "https://okcfox.com/news/nation-world/man-with-3-guns-arrested-near-white-house-after-alleged-threat-to-kill-trump",
-   "ts": "20261107T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Speaks At Florida Up Summit After Midterms",
-   "url": "https://wtag.iheart.com/content/2026-11-07-trump-speaks-at-floridas-up-summit-after-midterms/",
-   "ts": "20261107T050000Z"
   }
  ]
 }

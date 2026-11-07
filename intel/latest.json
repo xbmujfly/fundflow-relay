@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-06T23:45:58Z",
+ "ts": "2026-11-07T05:15:19Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,21 +341,21 @@
   },
   {
    "src": "gnews",
+   "title": "Bessent, Greer Raise Concerns on China Trade Deal Actions - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUThIM0tOMDlPV2h4TURPZHZyVlJjUGRLWlZOV21nb3gwS3RON3RQdk1PZUFNOTVpZ2k0VG4tQ0xyWWd1R0JrZzV2MVhwS3B6dzY0eGtkbWxXajRreGpIRlZWUXVkc2haWVVsaXNZaUwzYWdmaU8tS21KS1ZaRlVZT3dNanpJamNZRURtOVRibHFpMERibTF0OGNwQnFkWENSVXJScXpJclFuamc?oc=5",
+   "ts": "Sat, 07 Nov 2026 01:33:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US urges China to meet rare earths, agriculture commitments ahead of Trump-Xi meetings - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY1NQbGhDdzBnZUVPRWxZMzdCdlUxcTdxTlhaVXYwclNRTm92UXdGanlUVmpxQUczWFItME5kaWp3NWFKVDZUWW5GVlowUnFrYktvOEdvYTNlclhVRUQxbWlia18zQW1RRzhJMlhoRjE3b2xIdlllYXZCSm5BUTR1SFdudTNfS0ZRWUtjenNLS0NwOUMyN0gtb3JkX0NQaE1EdjluMkI3aFhscEplOWVXM0FIZTI4N3IxV3pLWGhsNUZLUQ?oc=5",
+   "ts": "Fri, 06 Nov 2026 17:53:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYy1vdWUwVXRwOE5ZT180NmxHZ0JocXpNaEpYQWNmYmh4dXBrN1Q0SFBpYkMtXzRJSFQ4WkNKbUI5Z1VCS25kRVZpSDJaSTlEY1FsVlNkZTUxSG1jclhnNDlaZnNWMTdLWG9QQmdLZjhWOElZNDVGeVlYdFA0TVVvUW51ZFk?oc=5",
    "ts": "Fri, 06 Nov 2026 17:20:21 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Bessent, Greer Raise Concerns on China Trade Deal Actions - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUThIM0tOMDlPV2h4TURPZHZyVlJjUGRLWlZOV21nb3gwS3RON3RQdk1PZUFNOTVpZ2k0VG4tQ0xyWWd1R0JrZzV2MVhwS3B6dzY0eGtkbWxXajRreGpIRlZWUXVkc2haWVVsaXNZaUwzYWdmaU8tS21KS1ZaRlVZT3dNanpJamNZRURtOVRibHFpMERibTF0OGNwQnFkWENSVXJScXpJclFuamc?oc=5",
-   "ts": "Fri, 06 Nov 2026 19:04:36 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQODVTbG5PRGFYaVRPT1FGZ2pTTlpVeTNiVExObUFqcFFxUU5uZW9XbzlrVDZ5NEIya2d0REkzTlJPTk5hdF9mQmtHOU1aejBZcnJFY01MN2pUZmxLNUh2YWdPWlFYYjJDbDdHeVZUSlNON2g4M1VwUFZmSVFnem1mMU1jX1FkbFc2eVZhY0FMaHU1bHdGaGxneHpOM21qcmZmYXZ4d2FIdGNLUnJZaWs4N21VTDRUN01OcHNNOXlGU0Q4LU9lNjZvWlFn0gHKAUFVX3lxTE43UmQ4YTNqQ1RQajlMZ3FuY1d2bjd6czBST0cyZExtN1BLT3hIdnl2U0g0SWpXck16RUhPYld4YmV5YmF3dWdDLTlfeXpLVHhmTHN4SE5VSHBraUVaMGpuWm8yeTA0UXVzMi1IYkZ2ZzNQY1E4OVRBeGRVTEMyN19nSVlobUc4cXI5VW5oTU43OC05UHNwb2w2anRWNTBNZi11VUNDdWFJSy00VWtmMkpBUExjMTY4SUItbERkVlpOQnY5NUczRWRQcnc?oc=5",
-   "ts": "Fri, 06 Nov 2026 22:59:09 GMT"
   },
   {
    "src": "gnews",
@@ -365,9 +365,27 @@
   },
   {
    "src": "gnews",
+   "title": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTNUYllWQmZpQmliVmZTSDBSTENwc2hhNUFWU3BGcnBXZmpIZXNSV3VnZVl1NWU5Yi1acXZ3SjduRU9Cc3N4RXJRX19rMEFYQW8tVldQTXg3bjRVZU9KR05zYjdSSk9xX0ZMS1VCQ3hNcXZUX21KZDZlcWhNSmIzQzZBZnZXQXhxVE91LTFBdTQ4NEduYzl4TlliX2pVZy01NFdRcHpJNE80aUQ3cEFr0gG0AUFVX3lxTFBpR1pyM3M4UWU4MXV1d0ZIMkRudjZpYXJYMElUVHlCcXRPUldYbHJBalZsaVlNem4zWlV2QjlkTnFDaDV0b3k1dVhBRE1mVFdtVkpzNU9WajJiVkQzMGpyWFlJZGd5V3lHaU1HaTMyWk9BNkxYbTZmcFg0QmtRb2ExeldQSEtfekpEUTE1cXB5SFNONW1YQXlRVy11YkVBRjN6WHRSTkF1czNxTXJtdUZoSU5pZg?oc=5",
+   "ts": "Fri, 06 Nov 2026 20:51:57 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQODVTbG5PRGFYaVRPT1FGZ2pTTlpVeTNiVExObUFqcFFxUU5uZW9XbzlrVDZ5NEIya2d0REkzTlJPTk5hdF9mQmtHOU1aejBZcnJFY01MN2pUZmxLNUh2YWdPWlFYYjJDbDdHeVZUSlNON2g4M1VwUFZmSVFnem1mMU1jX1FkbFc2eVZhY0FMaHU1bHdGaGxneHpOM21qcmZmYXZ4d2FIdGNLUnJZaWs4N21VTDRUN01OcHNNOXlGU0Q4LU9lNjZvWlFn0gHKAUFVX3lxTE43UmQ4YTNqQ1RQajlMZ3FuY1d2bjd6czBST0cyZExtN1BLT3hIdnl2U0g0SWpXck16RUhPYld4YmV5YmF3dWdDLTlfeXpLVHhmTHN4SE5VSHBraUVaMGpuWm8yeTA0UXVzMi1IYkZ2ZzNQY1E4OVRBeGRVTEMyN19nSVlobUc4cXI5VW5oTU43OC05UHNwb2w2anRWNTBNZi11VUNDdWFJSy00VWtmMkpBUExjMTY4SUItbERkVlpOQnY5NUczRWRQcnc?oc=5",
+   "ts": "Fri, 06 Nov 2026 18:34:11 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting - DW.com",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
+   "ts": "Sat, 07 Nov 2026 04:55:32 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "US urges China to honour Busan trade deal commitments - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemI4U2V6Z1BYeGlHbDlHSENZR1JaR1VxQ0hZVFRZWTlpNGhfMDdDel9udEcyVTM5eThkaDJENTUzdURpTGFwTFl0WkRpVjl5dGFvZEgydXk3ZDRNN1ZTZHZIRXVvclY3OGRPemk1eWtCSWdTY2RvdVpLSjByTXNkR202ZDZxNFNUNmh1SnBQUW1BNjdwRzRUajRTYnZxZ9IBowFBVV95cUxOajB4Y3FQZHRmZlp5ZHNiMThkUk5ZMEt0cjNyZDBmY1JhREVQRkRRbnZiRWxUZzdEaUJqcDZDMEc3c2xqMVkzSmZwaUdvSk5jMHdOLWlfTU12bzJWaVBTeVYzYUFiNlRoQnlTOXc4TkpKWGRYQjZReEFaTG9CYkxTTUQ5Y0tScWpQVVhjLWtrNlNNUzJkVE9NSFFZM184YTJhQWNN?oc=5",
-   "ts": "Fri, 06 Nov 2026 23:07:24 GMT"
+   "ts": "Fri, 06 Nov 2026 23:18:04 GMT"
   },
   {
    "src": "gnews",
@@ -383,15 +401,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney welcomes Democrats’ push to end Trump’s tariffs on Canada after midterm victory - Boston Herald",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xZUlGMnpBQnBROXZHWVJOZDNaMHJVa0pHdUhVOFFhdlVxcGFiSkN2a2V4VUk4N2l5ZGJqeVpmUXV0XzF5RDZTVWhvMlhhSEtZMDFoeGppZnR3aURHZktOV1RWbVZtRmdWeWlYcWRTRkR6eDA?oc=5",
-   "ts": "Fri, 06 Nov 2026 21:06:34 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump’s Canada Tariffs - WSJ",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVhNeS1XX0xDd1ZkN3JZMkdWcUJkaFhONTBWSmprcWxkRVpqbU02QUQxWnRVRXdlTHBzaVJNMENWaE5HaFcyU2pCVDl3SkpXV3Y4UTlEMzM4STJFc3FGVVByUW1xUHh1QWlqOWx2bHBKQTZxb09zSDQtMklkRFpsRENDbWRiNzg3dzlwMnVqbVpLQkhRVWwwT0F6UUxFODdybWFqekNqUVhrcEZKNzZz?oc=5",
    "ts": "Fri, 06 Nov 2026 02:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
+   "ts": "Thu, 05 Nov 2026 03:50:00 GMT"
   },
   {
    "src": "gnews",
@@ -401,27 +419,9 @@
   },
   {
    "src": "gnews",
-   "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjlHb2U1LVBiU29ZOGVGTnhubkJZUUF3ejRLQy12ejROd1lIaVMzTS1hVEVqMWx2Z3VQMmcxakItTzNzQVJ2WU1qN2tCUWNCMkUtVi1Od0FyejlRVUNTb01ZX29WUGwxU0g0RlFrU09Mc0lQZlZuaFNGVTdiUTBEQW5VM28xcFd6a2k3RW5GNGJlZktPRG5zbFB6a0hFOUpLRWNhSU9WaGg4LTRUOVBWSmxtWG5zd9IBuwFBVV95cUxQUFFsbWN1ZmxlNWRuaFAxaXBqUTJLVjFDX2M5Ui15TjhSeGpyRjN5NVZMZ01TNlVWX2NGU0tGVThHSE5jZVhFdFowSVhMTjNVdmVEd1NwbU1DcFVOaHVaWmwxOG10WWJKSnVVVmhFZGhLa0J0MkMzV2Jock1UdXFtekpKeXAtaDJPWjlfaXhueHpnWW8wcjBwUXNCRGRLVFoyQUREblVacG5QSjZrU3hkQmN6V0RCUmhmZUpv?oc=5",
-   "ts": "Fri, 06 Nov 2026 04:06:34 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump Media’s investors lost $2.2 billion while Trump holds $460 million stake - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGkzZG4yU1c4YThoQTduQWZQMlBJREw3LW8tYkd2Wnl4c29kRXZjblRCcWtCdzFuak8zVEE3Ump5WkJwajZRRV91bUhtN2QtYjNHemh6MjZMZzZ6ck9TNVFrQ2FhZWFaQTlXbkpYMDN3RnZWZ0h2Yzg2cnBfOFB3aVlILXhsUzhkeW9QY29yUWR0Mm9SN1NIUEVldzJDT1RWZmc4MlE3cXhkUHdndFRRcDZPYktSenhnRzhQR1dkSDNQV0JLMEdpenZnVHhUQQ?oc=5",
-   "ts": "Fri, 06 Nov 2026 16:45:27 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Norway signs trade deal with China, widening its access to the seafood market - SeafoodSource",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnJwOUNUVG15b1hKci1DRkdWQnVPS1dDanN5ODQzbzRmMDZWM2RlcndLRi1GS2VIZzRKTWhyOXMteUpvM1pUYkZTbUFkai1sQzZTRmgyYlVZTjVpTURabzlEOGVwQnRiZk1uUE5scE40THI1b2dtVVVyU1NIcnU0LWQzVE0wTl9ZMFBIc1dOOG4tYmhERnVvMFktTE9sTFJGWnVma19IemljN3gxM0dBcA?oc=5",
-   "ts": "Fri, 06 Nov 2026 10:45:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
-   "ts": "Thu, 05 Nov 2026 03:50:00 GMT"
+   "title": "U.S. urges China to meet rare earths and agriculture commitments ahead of Trump-Xi meetings - The Japan Times",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT0dGYXZnbGx1UlM1aWlobnhkNWFJSlZVa1daT2dSRkVaNnlQYWRrWnR5R3JYQ1pDRGJOcGgyYU10VHZZbVZ1ZFI4T2xKbnZqR2pZbGRqQUJCTWlTdm1vd0ZUMElrdkl1d0lTTG9MQkJoaFlHV19IMTdjcnZuVzFWQy1Ud3RaWHVaeC1xTUFLNjE5bEN6?oc=5",
+   "ts": "Sat, 07 Nov 2026 02:16:00 GMT"
   },
   {
    "src": "gnews",
@@ -445,12 +445,12 @@
    "src": "gnews",
    "title": "China says US farm purchases hinge on tariff-cut deal - Reuters",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjZCZGJiUVFJRkdBeU1DaTExb3FMSmdaLVRuLTRrQWNnd3F5MDg1YnZlTUZfclBPRWhQZXdlbWxEakVXdlNidWVWbmhFcGZTVEpSOWlJSE1FTHhOWTVlUXkwSG5rTXRNTDE5ckRWTzhnYmx3LVVJSDE2S2JNQW9CTUNFanlFNWlqMkJWdFZTMzU0VnpzX2tua25aQS0zNTdsUDNRRA?oc=5",
-   "ts": "Thu, 05 Nov 2026 10:05:05 GMT"
+   "ts": "Thu, 05 Nov 2026 07:44:00 GMT"
   },
   {
    "src": "gnews",
    "title": "‘Speed up’: US ag exporters urge faster progress on trade deal with China - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ2JBTFRLQmMtVFAwTU5RRkJGZlI4UTU2aTAzSkdWZzRZRnpxTy1hZWxkZkgxakpfcEJRSEIxX185Y01Wa2hUaHI5WWJvM2JDaEc3N093bzN6MnVxYlh3MHBoUWZEMFh5Q2NWTlNLLUxnTkNtWk9HYTloUlFLZE10NS1zTGJCYkNzLWs3OWtISDI5UVBRb2hNMUtsR1ZiWG1wOU5RUjVJZ2tmUmhIUkRGVmFvc3ZVYUQ3TWNXbGdRZ1B1bm8?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ2JBTFRLQmMtVFAwTU5RRkJGZlI4UTU2aTAzSkdWZzRZRnpxTy1hZWxkZkgxakpfcEJRSEIxX185Y01Wa2hUaHI5WWJvM2JDaEc3N093bzN6MnVxYlh3MHBoUWZEMFh5Q2NWTlNLLUxnTkNtWk9HYTloUlFLZE10NS1zTGJCYkNzLWs3OWtISDI5UVBRb2hNMUtsR1ZiWG1wOU5RUjVJZ2tmUmhIUkRGVmFvc3ZVYUQ3TWNXbGdRZ1B1bm_SAcMBQVVfeXFMTktDRGhIVnZqRU5lVDZsTjc3b205MjkzRGhrUmNvaFBmZUJ6TmtYcGtLeGlQZk1GOXc2Ry1Ca0xEeWRlamIwUVBvODY5NXZTN0RCRlpDSjQzR3lwcE9lN2htOU9wYzAwamUxMWhsWm1vbTJGZ09Ubm11bFJoMnAwWnE1ci1vV1BTS1hRdjl1OHg4UXVaTDVrWjgxRHFRN19JQlVjOHJjcmlSVlFSeXJIMUQyUEg3S1k0bmo0eUlyd081MGg0?oc=5",
    "ts": "Fri, 06 Nov 2026 14:00:11 GMT"
   },
   {

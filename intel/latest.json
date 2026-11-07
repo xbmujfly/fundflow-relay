@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-07T08:30:24Z",
+ "ts": "2026-11-07T08:45:19Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -425,6 +424,12 @@
   },
   {
    "src": "gnews",
+   "title": "US-China Trade: Washington Presses Beijing on Soybean Purchases Ahead of Trump-Xi Talks - AgroLatam",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVTlTckRGanNCN3RxVS1QeEYwbTJEYnpnakN5WkVEa1lXbmRjS0sxYzEzY3JhdkFSR2tqMTU4M1lZN2xRR3B3OTVPVVowU2FVaXQ2Rkh5eVZyMmJzQ21UNTRJUkFnaThOZDhNemptVHAyS0dXOWFlTDJwU3JCQjVLRURRTkZZTm9oemc?oc=5",
+   "ts": "Fri, 06 Nov 2026 21:15:20 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnlsdF9sNDNwY0VTbjBVa1QwUmFYZXJQUWhfcEdtSF9NUWFlNS1KOTh5RW1EcXQ3NUpsVnFVazZsSmRBZ01pUkRkVFRRTXlvWkcxUjFzYVlMa2d3YmZqaWs0dXBzLTBWNE5MZ19wWW1LQldvbFJSNUM4MzBnUUZsYVlDczRmLWI3UnZ2WTFxT1VwWkFWZHBUdXYyUWlZeE9XSWVxTDhSSmxyUktGb0dIaXMyUnJqdw?oc=5",
    "ts": "Fri, 06 Nov 2026 20:37:40 GMT"
@@ -443,12 +448,6 @@
   },
   {
    "src": "gnews",
-   "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjlHb2U1LVBiU29ZOGVGTnhubkJZUUF3ejRLQy12ejROd1lIaVMzTS1hVEVqMWx2Z3VQMmcxakItTzNzQVJ2WU1qN2tCUWNCMkUtVi1Od0FyejlRVUNTb01ZX29WUGwxU0g0RlFrU09Mc0lQZlZuaFNGVTdiUTBEQW5VM28xcFd6a2k3RW5GNGJlZktPRG5zbFB6a0hFOUpLRWNhSU9WaGg4LTRUOVBWSmxtWG5zd9IBuwFBVV95cUxQUFFsbWN1ZmxlNWRuaFAxaXBqUTJLVjFDX2M5Ui15TjhSeGpyRjN5NVZMZ01TNlVWX2NGU0tGVThHSE5jZVhFdFowSVhMTjNVdmVEd1NwbU1DcFVOaHVaWmwxOG10WWJKSnVVVmhFZGhLa0J0MkMzV2Jock1UdXFtekpKeXAtaDJPWjlfaXhueHpnWW8wcjBwUXNCRGRLVFoyQUREblVacG5QSjZrU3hkQmN6V0RCUmhmZUpv?oc=5",
-   "ts": "Fri, 06 Nov 2026 04:06:34 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "‘More carve-outs’? How the midterms could affect US trade policy on China - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb05DX3U3cmVhWTVRVTRQbkdqRTB3RzhFdlhfeWxGckw1cl93bjJXMkwwLTJURUxuRUI1eUNDTm5SVE1FQmtFNFRhaXVXQnJtbjAyNkI4VFQ0NWdkZnplRHZhdVBBSTNpT09mWlgyTVFrRzdBX2dMS0VycDBjcnpPdnVBSWE1RmlxY1M3TjdkdUVJc2RPWGN5cUljMVJvZnJPVnFKSjFMONIBpwFBVV95cUxNWG1faG9kV1ItTlIyLTlfeXdETldlcFlPRXJfLWJxdy1tcFVTSTU5MTBmSkpuVjROVmtQMGZYcXpLZmpLTl9tY294QVRrYjI1enJTaThlVXUwakJqc1dhQWZKVGFXTjZxTnZGU1NSMENMeGZrQ0pyMHg3NlN1Z0NrLUZUQThXUW4xYjJOc0k3UnlMVVZsRlpwZjR4ZGdsUEVUQWhBcWVicw?oc=5",
    "ts": "Wed, 04 Nov 2026 14:00:09 GMT"
@@ -458,6 +457,126 @@
    "title": "‘Speed up’: US ag exporters urge faster progress on trade deal with China - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ2JBTFRLQmMtVFAwTU5RRkJGZlI4UTU2aTAzSkdWZzRZRnpxTy1hZWxkZkgxakpfcEJRSEIxX185Y01Wa2hUaHI5WWJvM2JDaEc3N093bzN6MnVxYlh3MHBoUWZEMFh5Q2NWTlNLLUxnTkNtWk9HYTloUlFLZE10NS1zTGJCYkNzLWs3OWtISDI5UVBRb2hNMUtsR1ZiWG1wOU5RUjVJZ2tmUmhIUkRGVmFvc3ZVYUQ3TWNXbGdRZ1B1bm_SAcMBQVVfeXFMTktDRGhIVnZqRU5lVDZsTjc3b205MjkzRGhrUmNvaFBmZUJ6TmtYcGtLeGlQZk1GOXc2Ry1Ca0xEeWRlamIwUVBvODY5NXZTN0RCRlpDSjQzR3lwcE9lN2htOU9wYzAwamUxMWhsWm1vbTJGZ09Ubm11bFJoMnAwWnE1ci1vV1BTS1hRdjl1OHg4UXVaTDVrWjgxRHFRN19JQlVjOHJjcmlSVlFSeXJIMUQyUEg3S1k0bmo0eUlyd081MGg0?oc=5",
    "ts": "Fri, 06 Nov 2026 14:00:11 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Бомба разрушит гору , а может , и мир ( Advance , Хорватия ) ",
+   "url": "https://inosmi.ru/20261107/iran-281029989.html",
+   "ts": "20261107T080000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "美媒 ： 北约有意强化对俄纵深打击能力",
+   "url": "https://www.163.com/dy/article/LB503ATD0514BQ68.html",
+   "ts": "20261107T080000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Топ - 10 лучшие бассейны Кишинёва 2026",
+   "url": "https://kp.md/raznoe/top-luchshie-bassejny-kishinyova-2026/",
+   "ts": "20261107T080000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "In foreign policy , why Donald Trump is not a  lame duck  president",
+   "url": "https://timesofindia.indiatimes.com/toi-blogs/beyond-borders/in-foreign-policy-why-donald-trump-is-not-a-lame-duck-president/articleshow/135629858.cms",
+   "ts": "20261107T080000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Стратегическая оценка : Результаты промежуточных выборов в США 2026 года и изменение динамики избирателей",
+   "url": "https://www.newscentralasia.net/2026/11/07/strategicheskaya-ocenka-rezultaty-promezhutochnykh-vyborov-v-ssha-2026-goda-i-izmenenie-dinamiki-izbiratelej/",
+   "ts": "20261107T080000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Strategic Assessment : 2026 U . S . Midterm Election Results and Shifting Voter Dynamics",
+   "url": "https://www.newscentralasia.net/2026/11/07/95895/",
+   "ts": "20261107T080000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Missiles target Kyiv and injure 5 as Ukraine prepares for talks with Russia and the US",
+   "url": "https://www.thepeterboroughexaminer.com/news/world/europe/missiles-target-kyiv-and-injure-5-as-ukraine-prepares-for-talks-with-russia-and-the-us/article_48cb3ff5-65f5-5bf1-a65f-f2ad26dd145e.html",
+   "ts": "20261107T080000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Uzbrojony mężczyzna zatrzymany przy Białym Domu",
+   "url": "https://wiadomosci.wp.pl/uzbrojony-mezczyzna-zatrzymany-przy-bialym-domu-7348358260709856a",
+   "ts": "20261107T080000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Breguet dévoile une nouvelle Classique Souscription : Le platine sublime une légende de 1796",
+   "url": "https://lenouveaureveil.com/breguet-classique-souscription-platine-2026/",
+   "ts": "20261107T080000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Pójdzie na noże . Stephen Miller został szefem kancelarii Donalda Trumpa . To reakcja na wyborczą klęskę",
+   "url": "https://www.polityka.pl/tygodnikpolityka/swiat/2363405,1,pojdzie-na-noze-stephen-miller-zostal-szefem-kancelarii-trumpa-to-reakcja-na-wyborcza-kleske.read",
+   "ts": "20261107T080000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Olomoucké novinky - Domácí - Nová Jalta ? Trumpova velká dohoda může změnit osud Evropy",
+   "url": "https://www.olomouckenovinky.cz/zpravy/politika/nova-jalta-trumpova-velka-dohoda-muze-zmenit-osud-evropy/",
+   "ts": "20261107T080000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Black voter turnout helped contribute to major Democratic wins",
+   "url": "https://www.kmxt.org/2026-11-06/black-voter-turnout-helped-contribute-to-major-democratic-wins",
+   "ts": "20261107T080000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "How the Iran war helped Democrats win the midterms",
+   "url": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms",
+   "ts": "20261107T080000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Первый космический корабль с ядерным двигателем отправится на Марс в течение двух лет . Таков план Трампа",
+   "url": "https://www.ixbt.com/news/2026/11/07/pervyi-kosmiceskii-korabl-s-iadernym-dvigatelem-otpravitsia-na-mars-v-tecenie-dvux-let-takov-plan-trampa.html",
+   "ts": "20261107T070000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Pope Leo  proud to be an American  and vote in US midterms",
+   "url": "https://www.wgal.com/article/pope-leo-proud-to-be-american-vote-in-midterms/74361205",
+   "ts": "20261107T070000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "DOJ drops bid to force California to set aside disputed ballots",
+   "url": "https://www.wapt.com/article/justice-department-drops-bid-california-disputed-ballots/74363274",
+   "ts": "20261107T070000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Iran Weathering The Storm , But Saudi Arabia Is Sinking",
+   "url": "http://www.zerohedge.com/geopolitical/iran-weathering-storm-saudi-arabia-sinking",
+   "ts": "20261107T070000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Speaks At Florida Up Summit After Midterms",
+   "url": "https://newsradio1170.iheart.com/content/2026-11-07-trump-speaks-at-floridas-up-summit-after-midterms/",
+   "ts": "20261107T070000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "No US military personnel killed in seven months of war with Iran - Trump",
+   "url": "https://dailypost.ng/2026/11/07/no-us-military-personnel-killed-in-seven-months-of-fighting-with-iran-trump/",
+   "ts": "20261107T070000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Зустріч Зеленського і Путіна - президент України зробив заяву Політика",
+   "url": "https://tsn.ua/politika/zelenskyy-zaiavyv-shcho-hotovyy-zustritysia-z-putinym-v-bud-iakiy-krayini-3210411.html",
+   "ts": "20261107T070000Z"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-07T12:00:22Z",
+ "ts": "2026-11-07T12:15:20Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -431,6 +431,12 @@
   },
   {
    "src": "gnews",
+   "title": "Senior US, China officials exchange trade concerns as APEC summit nears - Türkiye Today",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTGVIWnlvZ0NWN2NWbWhva2pkQ2FFa3p0RG9DbDZrYklaMm5NTmxBcGFJUnNmYnd2cVMyVldVcTVLcl80aDFCdXNaZGROeVBsX2pwRjNwMFhOU1hDa1kwYlpudkFNdkVfaWQ0X1MzUkFxUWsyRjFnd29zeWRzUVFONXZwU3dGSU43dkJJaWl4aGVsMENiUGN3OVZ3ZGRURFhlT0V6S1lCWG5QYU5ROUhYRkNVYw?oc=5",
+   "ts": "Sat, 07 Nov 2026 09:35:55 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnlsdF9sNDNwY0VTbjBVa1QwUmFYZXJQUWhfcEdtSF9NUWFlNS1KOTh5RW1EcXQ3NUpsVnFVazZsSmRBZ01pUkRkVFRRTXlvWkcxUjFzYVlMa2d3YmZqaWs0dXBzLTBWNE5MZ19wWW1LQldvbFJSNUM4MzBnUUZsYVlDczRmLWI3UnZ2WTFxT1VwWkFWZHBUdXYyUWlZeE9XSWVxTDhSSmxyUktGb0dIaXMyUnJqdw?oc=5",
    "ts": "Fri, 06 Nov 2026 20:37:40 GMT"
@@ -446,12 +452,6 @@
    "title": "U.S. urges China to meet rare earths and agriculture commitments ahead of Trump-Xi meetings - The Japan Times",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT0dGYXZnbGx1UlM1aWlobnhkNWFJSlZVa1daT2dSRkVaNnlQYWRrWnR5R3JYQ1pDRGJOcGgyYU10VHZZbVZ1ZFI4T2xKbnZqR2pZbGRqQUJCTWlTdm1vd0ZUMElrdkl1d0lTTG9MQkJoaFlHV19IMTdjcnZuVzFWQy1Ud3RaWHVaeC1xTUFLNjE5bEN6?oc=5",
    "ts": "Sat, 07 Nov 2026 02:16:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Breaking | US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRUFWMk43LWUwejZmVlp6a2FISG5rSGx2aDB6ektfSWxPcnhiN2FEWnlabGJIT2QtWHV0VlZ6a3JRbzJNYzN0VUlJNzVyVi1ldXNZYmZuX3lIazJ1ckhzT2dRUDdsN2NrZTJzZDRIVW9HelFNTUwtTXVCY3ZlQk5UU2YtbW53Si1HeUxmTFY5MnNjeFJZWlhXaTJsS2tHOTZTdk84c3hheUV4Z1NlTS1LeldERWVGRlFyRTRnOEJYYjZUUUlJMV8zZnZpX2lfRTNLSFUtTWdRVUJuUQ?oc=5",
-   "ts": "Fri, 06 Nov 2026 18:34:11 GMT"
   },
   {
    "src": "gnews",

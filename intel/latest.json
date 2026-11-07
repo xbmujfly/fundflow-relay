@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-07T14:15:22Z",
+ "ts": "2026-11-07T14:30:22Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -406,12 +406,6 @@
   },
   {
    "src": "gnews",
-   "title": "Trump and U.S. Congress set to clash over economic costs of tariffs - The Japan Times",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa2h1UWRiWll1OUFPMG55Y0lyU05xNjdhSGd0WERvZDBXM2czLXAyM2x4LWxDN05KQ0ZxbFZ0MlN5R3ZjOVRuN2IyNXU5VDEwTXVlZWtocUdfWjV5RVkwUWs2OFR6T3doT1BEelRNU1RIUUNqMmE0eFVBd2hIdC1tUGVUOE1hY3ZHdTUxOFhkQQ?oc=5",
-   "ts": "Fri, 06 Nov 2026 23:37:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump’s Canada Tariffs - WSJ",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVhNeS1XX0xDd1ZkN3JZMkdWcUJkaFhONTBWSmprcWxkRVpqbU02QUQxWnRVRXdlTHBzaVJNMENWaE5HaFcyU2pCVDl3SkpXV3Y4UTlEMzM4STJFc3FGVVByUW1xUHh1QWlqOWx2bHBKQTZxb09zSDQtMklkRFpsRENDbWRiNzg3dzlwMnVqbVpLQkhRVWwwT0F6UUxFODdybWFqekNqUVhrcEZKNzZz?oc=5",
    "ts": "Fri, 06 Nov 2026 02:00:00 GMT"
@@ -430,15 +424,21 @@
   },
   {
    "src": "gnews",
+   "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
+   "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnlsdF9sNDNwY0VTbjBVa1QwUmFYZXJQUWhfcEdtSF9NUWFlNS1KOTh5RW1EcXQ3NUpsVnFVazZsSmRBZ01pUkRkVFRRTXlvWkcxUjFzYVlMa2d3YmZqaWs0dXBzLTBWNE5MZ19wWW1LQldvbFJSNUM4MzBnUUZsYVlDczRmLWI3UnZ2WTFxT1VwWkFWZHBUdXYyUWlZeE9XSWVxTDhSSmxyUktGb0dIaXMyUnJqdw?oc=5",
    "ts": "Fri, 06 Nov 2026 20:37:40 GMT"
   },
   {
    "src": "gnews",
-   "title": "US buyers at China’s largest trade fair soar over 20% after Xi-Trump meeting - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeThpaGNjUmZPTjZKZGpaZnRhVWxqZzkxa0NYdVMyTEJGdGZYOXZITmJKNlNyZk1lSmlncm0tUFFtdHZ1N2M5OEZWc3lwMHJNU1dlNHVYcGtmZ1VwQWFMUHNiWE1ZQU5RdEx2SmxabldETDNqa2ZRc3Bxa0RWeDRZYzAxZnp3TkYtYW9iYXVQZkkwRTAzZ2VLZEhJb3BjVFVsS3VBcmU2YzFsRFJTZ2VNOW1HaVB0TnZhOXF2ZkMxTWRjWi0xdklFOUN30gHKAUFVX3lxTFBZckNVZ3hVd2RnTGtHV00tOHdrLVRVbWFFMzMyQ0ZPNW5MaGtKV20zWVo3R0RNZVZzLTBVVENORjI3akJabjBOMTJTc3hGcHpSQktWYnlFY1p5Y3htMi1CSjVkcFhKSnBQb2RGanJuU0ZUeE1ZYURFS3BQc05mNG9XOGNEdW5XV1BoVTZETlpwSjNHbHpteGduSVJGbjNqbUY5TGpQZmtoOXhzS2Y4V1hEZ0F0RDh5aXFZdEFxRlYwMkVuWkJCT09nZEE?oc=5",
-   "ts": "Sat, 07 Nov 2026 10:00:06 GMT"
+   "title": "Opinion | China-Swiss trade partnership offers a model amid fraught EU ties - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSGluWEprUmJ2Njhoazc3VGJjMXZxT0hrWG1YYWRDQXhpeU0zTlRoSG4zRVdQOHhKa2pYS2JVUjN2NUJ5c01EeVlUQkgtakNCQUpMNVlCelJnSER6OExSaEtVSWVVVUNUX1JwanYxZXBVZ1o1ZWoyNExqS3Rza1V2SjQyZXd3aldHTUJDZVl5bHJyTzBiTDNyaTFUUzI1VmFRZnZSaVZnaHV3dzZWelJSUUxmLWFfbGRZaUtJUUtBai16dnB2eWE40gHHAUFVX3lxTE1MM2hVUUwtM05uNnpQNi1qQ3Nxb2lrVmJwclFxY0hyTzhhWmwzUUJuSzg4UkxVUWp4TGw3SDVkd0M5M29WNG9yckxHNzA1eWVhSjNPMzZxYXJVWUNqY3Y5dlhtRnBxQ3cwbGNERFljMkJWd1N3VkJFY01DajZYaEM3T2E2MVhyVG9QQVZuQWxmemMxWFhVdjcxOTlEc3RmcWN2ZWdMa3BhZnZSdmVtSkFza1NfWkkzYU1iMXZKaFJtZEc0bzdlZW8?oc=5",
+   "ts": "Sat, 07 Nov 2026 12:30:05 GMT"
   },
   {
    "src": "gnews",
@@ -448,9 +448,9 @@
   },
   {
    "src": "gnews",
-   "title": "Opinion | China-Swiss trade partnership offers a model amid fraught EU ties - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSGluWEprUmJ2Njhoazc3VGJjMXZxT0hrWG1YYWRDQXhpeU0zTlRoSG4zRVdQOHhKa2pYS2JVUjN2NUJ5c01EeVlUQkgtakNCQUpMNVlCelJnSER6OExSaEtVSWVVVUNUX1JwanYxZXBVZ1o1ZWoyNExqS3Rza1V2SjQyZXd3aldHTUJDZVl5bHJyTzBiTDNyaTFUUzI1VmFRZnZSaVZnaHV3dzZWelJSUUxmLWFfbGRZaUtJUUtBai16dnB2eWE40gHHAUFVX3lxTE1MM2hVUUwtM05uNnpQNi1qQ3Nxb2lrVmJwclFxY0hyTzhhWmwzUUJuSzg4UkxVUWp4TGw3SDVkd0M5M29WNG9yckxHNzA1eWVhSjNPMzZxYXJVWUNqY3Y5dlhtRnBxQ3cwbGNERFljMkJWd1N3VkJFY01DajZYaEM3T2E2MVhyVG9QQVZuQWxmemMxWFhVdjcxOTlEc3RmcWN2ZWdMa3BhZnZSdmVtSkFza1NfWkkzYU1iMXZKaFJtZEc0bzdlZW8?oc=5",
-   "ts": "Sat, 07 Nov 2026 12:30:05 GMT"
+   "title": "US buyers at China’s largest trade fair soar over 20% after Xi-Trump meeting - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeThpaGNjUmZPTjZKZGpaZnRhVWxqZzkxa0NYdVMyTEJGdGZYOXZITmJKNlNyZk1lSmlncm0tUFFtdHZ1N2M5OEZWc3lwMHJNU1dlNHVYcGtmZ1VwQWFMUHNiWE1ZQU5RdEx2SmxabldETDNqa2ZRc3Bxa0RWeDRZYzAxZnp3TkYtYW9iYXVQZkkwRTAzZ2VLZEhJb3BjVFVsS3VBcmU2YzFsRFJTZ2VNOW1HaVB0TnZhOXF2ZkMxTWRjWi0xdklFOUN30gHKAUFVX3lxTFBZckNVZ3hVd2RnTGtHV00tOHdrLVRVbWFFMzMyQ0ZPNW5MaGtKV20zWVo3R0RNZVZzLTBVVENORjI3akJabjBOMTJTc3hGcHpSQktWYnlFY1p5Y3htMi1CSjVkcFhKSnBQb2RGanJuU0ZUeE1ZYURFS3BQc05mNG9XOGNEdW5XV1BoVTZETlpwSjNHbHpteGduSVJGbjNqbUY5TGpQZmtoOXhzS2Y4V1hEZ0F0RDh5aXFZdEFxRlYwMkVuWkJCT09nZEE?oc=5",
+   "ts": "Sat, 07 Nov 2026 10:00:06 GMT"
   },
   {
    "src": "gnews",

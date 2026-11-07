@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-07T15:45:20Z",
+ "ts": "2026-11-07T23:00:20Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -341,6 +340,12 @@
   },
   {
    "src": "gnews",
+   "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting - DW.com",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
+   "ts": "Sat, 07 Nov 2026 05:57:45 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Bessent, Greer Raise Concerns on China Trade Deal Actions - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUThIM0tOMDlPV2h4TURPZHZyVlJjUGRLWlZOV21nb3gwS3RON3RQdk1PZUFNOTVpZ2k0VG4tQ0xyWWd1R0JrZzV2MVhwS3B6dzY0eGtkbWxXajRreGpIRlZWUXVkc2haWVVsaXNZaUwzYWdmaU8tS21KS1ZaRlVZT3dNanpJamNZRURtOVRibHFpMERibTF0OGNwQnFkWENSVXJScXpJclFuamc?oc=5",
    "ts": "Sat, 07 Nov 2026 01:33:00 GMT"
@@ -359,12 +364,6 @@
   },
   {
    "src": "gnews",
-   "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting - DW.com",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
-   "ts": "Sat, 07 Nov 2026 04:55:32 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYy1vdWUwVXRwOE5ZT180NmxHZ0JocXpNaEpYQWNmYmh4dXBrN1Q0SFBpYkMtXzRJSFQ4WkNKbUI5Z1VCS25kRVZpSDJaSTlEY1FsVlNkZTUxSG1jclhnNDlaZnNWMTdLWG9QQmdLZjhWOElZNDVGeVlYdFA0TVVvUW51ZFk?oc=5",
    "ts": "Fri, 06 Nov 2026 17:20:21 GMT"
@@ -377,33 +376,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTNUYllWQmZpQmliVmZTSDBSTENwc2hhNUFWU3BGcnBXZmpIZXNSV3VnZVl1NWU5Yi1acXZ3SjduRU9Cc3N4RXJRX19rMEFYQW8tVldQTXg3bjRVZU9KR05zYjdSSk9xX0ZMS1VCQ3hNcXZUX21KZDZlcWhNSmIzQzZBZnZXQXhxVE91LTFBdTQ4NEduYzl4TlliX2pVZy01NFdRcHpJNE80aUQ3cEFr0gG0AUFVX3lxTFBpR1pyM3M4UWU4MXV1d0ZIMkRudjZpYXJYMElUVHlCcXRPUldYbHJBalZsaVlNem4zWlV2QjlkTnFDaDV0b3k1dVhBRE1mVFdtVkpzNU9WajJiVkQzMGpyWFlJZGd5V3lHaU1HaTMyWk9BNkxYbTZmcFg0QmtRb2ExeldQSEtfekpEUTE1cXB5SFNONW1YQXlRVy11YkVBRjN6WHRSTkF1czNxTXJtdUZoSU5pZg?oc=5",
-   "ts": "Fri, 06 Nov 2026 20:51:57 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "US urges China to honour Busan trade deal commitments - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemI4U2V6Z1BYeGlHbDlHSENZR1JaR1VxQ0hZVFRZWTlpNGhfMDdDel9udEcyVTM5eThkaDJENTUzdURpTGFwTFl0WkRpVjl5dGFvZEgydXk3ZDRNN1ZTZHZIRXVvclY3OGRPemk1eWtCSWdTY2RvdVpLSjByTXNkR202ZDZxNFNUNmh1SnBQUW1BNjdwRzRUajRTYnZxZ9IBowFBVV95cUxOajB4Y3FQZHRmZlp5ZHNiMThkUk5ZMEt0cjNyZDBmY1JhREVQRkRRbnZiRWxUZzdEaUJqcDZDMEc3c2xqMVkzSmZwaUdvSk5jMHdOLWlfTU12bzJWaVBTeVYzYUFiNlRoQnlTOXc4TkpKWGRYQjZReEFaTG9CYkxTTUQ5Y0tScWpQVVhjLWtrNlNNUzJkVE9NSFFZM184YTJhQWNN?oc=5",
-   "ts": "Fri, 06 Nov 2026 23:18:04 GMT"
+   "title": "US buyers at China’s largest trade fair soar over 20% after Xi-Trump meeting - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeThpaGNjUmZPTjZKZGpaZnRhVWxqZzkxa0NYdVMyTEJGdGZYOXZITmJKNlNyZk1lSmlncm0tUFFtdHZ1N2M5OEZWc3lwMHJNU1dlNHVYcGtmZ1VwQWFMUHNiWE1ZQU5RdEx2SmxabldETDNqa2ZRc3Bxa0RWeDRZYzAxZnp3TkYtYW9iYXVQZkkwRTAzZ2VLZEhJb3BjVFVsS3VBcmU2YzFsRFJTZ2VNOW1HaVB0TnZhOXF2ZkMxTWRjWi0xdklFOUN30gHKAUFVX3lxTFBZckNVZ3hVd2RnTGtHV00tOHdrLVRVbWFFMzMyQ0ZPNW5MaGtKV20zWVo3R0RNZVZzLTBVVENORjI3akJabjBOMTJTc3hGcHpSQktWYnlFY1p5Y3htMi1CSjVkcFhKSnBQb2RGanJuU0ZUeE1ZYURFS3BQc05mNG9XOGNEdW5XV1BoVTZETlpwSjNHbHpteGduSVJGbjNqbUY5TGpQZmtoOXhzS2Y4V1hEZ0F0RDh5aXFZdEFxRlYwMkVuWkJCT09nZEE?oc=5",
+   "ts": "Sat, 07 Nov 2026 10:00:06 GMT"
   },
   {
    "src": "gnews",
    "title": "Why EU-China Trade Relations Have Deteriorated - The National Interest",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeWg4TEtKUGZZR01TQU1PWld4amNpUndGaTdLQkNkM3Fmdm02U01HdkcweFFIaUxrRjFaSWdhMjVUWkVKRDhuTDBtNVNEQlBtUEl5OHZ6bm1rendlODBLYmZ2MGVtN2RaZEFTWm5kMEVVNzdWazBOYkdaNjlEQm4wVklBb3FwNGEwOTlV?oc=5",
    "ts": "Sat, 07 Nov 2026 13:53:55 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "America’s Rebuke of Trump Won’t Swiftly Restore Canada-U.S. Harmony - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQREc2OG91NmNrb3hPR3U0VGkzYWFob0E5MHNZMVZHSVY0eDhjZnVyNmJYVTR6ZlRlNmhZSzduMmlXVnRxOFNtTGtJQmUxVnVBeklYekJzWWdyRjhaZTdSMTNsVkxEd0FxaHN5RnRUd0NPM3FTTlc2aDhnekJJQUJaVlZiQUpNQmd3R24xZ1d4QzRNQzNCNFVVY25oMDhfUXA4eGhzdmhB?oc=5",
-   "ts": "Sat, 07 Nov 2026 11:00:07 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQODVTbG5PRGFYaVRPT1FGZ2pTTlpVeTNiVExObUFqcFFxUU5uZW9XbzlrVDZ5NEIya2d0REkzTlJPTk5hdF9mQmtHOU1aejBZcnJFY01MN2pUZmxLNUh2YWdPWlFYYjJDbDdHeVZUSlNON2g4M1VwUFZmSVFnem1mMU1jX1FkbFc2eVZhY0FMaHU1bHdGaGxneHpOM21qcmZmYXZ4d2FIdGNLUnJZaWs4N21VTDRUN01OcHNNOXlGU0Q4LU9lNjZvWlFn0gHKAUFVX3lxTE43UmQ4YTNqQ1RQajlMZ3FuY1d2bjd6czBST0cyZExtN1BLT3hIdnl2U0g0SWpXck16RUhPYld4YmV5YmF3dWdDLTlfeXpLVHhmTHN4SE5VSHBraUVaMGpuWm8yeTA0UXVzMi1IYkZ2ZzNQY1E4OVRBeGRVTEMyN19nSVlobUc4cXI5VW5oTU43OC05UHNwb2w2anRWNTBNZi11VUNDdWFJSy00VWtmMkpBUExjMTY4SUItbERkVlpOQnY5NUczRWRQcnc?oc=5",
-   "ts": "Fri, 06 Nov 2026 18:34:11 GMT"
   },
   {
    "src": "gnews",
@@ -419,27 +400,33 @@
   },
   {
    "src": "gnews",
+   "title": "America’s Rebuke of Trump Won’t Swiftly Restore Canada-U.S. Harmony - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQREc2OG91NmNrb3hPR3U0VGkzYWFob0E5MHNZMVZHSVY0eDhjZnVyNmJYVTR6ZlRlNmhZSzduMmlXVnRxOFNtTGtJQmUxVnVBeklYekJzWWdyRjhaZTdSMTNsVkxEd0FxaHN5RnRUd0NPM3FTTlc2aDhnekJJQUJaVlZiQUpNQmd3R24xZ1d4QzRNQzNCNFVVY25oMDhfUXA4eGhzdmhB?oc=5",
+   "ts": "Sat, 07 Nov 2026 11:00:07 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTNUYllWQmZpQmliVmZTSDBSTENwc2hhNUFWU3BGcnBXZmpIZXNSV3VnZVl1NWU5Yi1acXZ3SjduRU9Cc3N4RXJRX19rMEFYQW8tVldQTXg3bjRVZU9KR05zYjdSSk9xX0ZMS1VCQ3hNcXZUX21KZDZlcWhNSmIzQzZBZnZXQXhxVE91LTFBdTQ4NEduYzl4TlliX2pVZy01NFdRcHpJNE80aUQ3cEFr0gG0AUFVX3lxTFBpR1pyM3M4UWU4MXV1d0ZIMkRudjZpYXJYMElUVHlCcXRPUldYbHJBalZsaVlNem4zWlV2QjlkTnFDaDV0b3k1dVhBRE1mVFdtVkpzNU9WajJiVkQzMGpyWFlJZGd5V3lHaU1HaTMyWk9BNkxYbTZmcFg0QmtRb2ExeldQSEtfekpEUTE1cXB5SFNONW1YQXlRVy11YkVBRjN6WHRSTkF1czNxTXJtdUZoSU5pZg?oc=5",
+   "ts": "Fri, 06 Nov 2026 20:51:57 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
+   "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Senior US, China officials exchange trade concerns as APEC summit nears - Türkiye Today",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTGVIWnlvZ0NWN2NWbWhva2pkQ2FFa3p0RG9DbDZrYklaMm5NTmxBcGFJUnNmYnd2cVMyVldVcTVLcl80aDFCdXNaZGROeVBsX2pwRjNwMFhOU1hDa1kwYlpudkFNdkVfaWQ0X1MzUkFxUWsyRjFnd29zeWRzUVFONXZwU3dGSU43dkJJaWl4aGVsMENiUGN3OVZ3ZGRURFhlT0V6S1lCWG5QYU5ROUhYRkNVYw?oc=5",
    "ts": "Sat, 07 Nov 2026 09:35:55 GMT"
   },
   {
    "src": "gnews",
-   "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnlsdF9sNDNwY0VTbjBVa1QwUmFYZXJQUWhfcEdtSF9NUWFlNS1KOTh5RW1EcXQ3NUpsVnFVazZsSmRBZ01pUkRkVFRRTXlvWkcxUjFzYVlMa2d3YmZqaWs0dXBzLTBWNE5MZ19wWW1LQldvbFJSNUM4MzBnUUZsYVlDczRmLWI3UnZ2WTFxT1VwWkFWZHBUdXYyUWlZeE9XSWVxTDhSSmxyUktGb0dIaXMyUnJqdw?oc=5",
-   "ts": "Fri, 06 Nov 2026 20:37:40 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China says US farm purchases hinge on tariff-cut deal - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjZCZGJiUVFJRkdBeU1DaTExb3FMSmdaLVRuLTRrQWNnd3F5MDg1YnZlTUZfclBPRWhQZXdlbWxEakVXdlNidWVWbmhFcGZTVEpSOWlJSE1FTHhOWTVlUXkwSG5rTXRNTDE5ckRWTzhnYmx3LVVJSDE2S2JNQW9CTUNFanlFNWlqMkJWdFZTMzU0VnpzX2tua25aQS0zNTdsUDNRRA?oc=5",
-   "ts": "Thu, 05 Nov 2026 10:05:05 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Opinion | China-Swiss trade partnership offers a model amid fraught EU ties - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSGluWEprUmJ2Njhoazc3VGJjMXZxT0hrWG1YYWRDQXhpeU0zTlRoSG4zRVdQOHhKa2pYS2JVUjN2NUJ5c01EeVlUQkgtakNCQUpMNVlCelJnSER6OExSaEtVSWVVVUNUX1JwanYxZXBVZ1o1ZWoyNExqS3Rza1V2SjQyZXd3aldHTUJDZVl5bHJyTzBiTDNyaTFUUzI1VmFRZnZSaVZnaHV3dzZWelJSUUxmLWFfbGRZaUtJUUtBai16dnB2eWE40gHHAUFVX3lxTE1MM2hVUUwtM05uNnpQNi1qQ3Nxb2lrVmJwclFxY0hyTzhhWmwzUUJuSzg4UkxVUWp4TGw3SDVkd0M5M29WNG9yckxHNzA1eWVhSjNPMzZxYXJVWUNqY3Y5dlhtRnBxQ3cwbGNERFljMkJWd1N3VkJFY01DajZYaEM3T2E2MVhyVG9QQVZuQWxmemMxWFhVdjcxOTlEc3RmcWN2ZWdMa3BhZnZSdmVtSkFza1NfWkkzYU1iMXZKaFJtZEc0bzdlZW8?oc=5",
-   "ts": "Sat, 07 Nov 2026 12:30:05 GMT"
+   "title": "‘More carve-outs’? How the midterms could affect US trade policy on China - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb05DX3U3cmVhWTVRVTRQbkdqRTB3RzhFdlhfeWxGckw1cl93bjJXMkwwLTJURUxuRUI1eUNDTm5SVE1FQmtFNFRhaXVXQnJtbjAyNkI4VFQ0NWdkZnplRHZhdVBBSTNpT09mWlgyTVFrRzdBX2dMS0VycDBjcnpPdnVBSWE1RmlxY1M3TjdkdUVJc2RPWGN5cUljMVJvZnJPVnFKSjFMONIBpwFBVV95cUxNWG1faG9kV1ItTlIyLTlfeXdETldlcFlPRXJfLWJxdy1tcFVTSTU5MTBmSkpuVjROVmtQMGZYcXpLZmpLTl9tY294QVRrYjI1enJTaThlVXUwakJqc1dhQWZKVGFXTjZxTnZGU1NSMENMeGZrQ0pyMHg3NlN1Z0NrLUZUQThXUW4xYjJOc0k3UnlMVVZsRlpwZjR4ZGdsUEVUQWhBcWVicw?oc=5",
+   "ts": "Wed, 04 Nov 2026 14:00:09 GMT"
   },
   {
    "src": "gnews",
@@ -449,15 +436,147 @@
   },
   {
    "src": "gnews",
-   "title": "US buyers at China’s largest trade fair soar over 20% after Xi-Trump meeting - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeThpaGNjUmZPTjZKZGpaZnRhVWxqZzkxa0NYdVMyTEJGdGZYOXZITmJKNlNyZk1lSmlncm0tUFFtdHZ1N2M5OEZWc3lwMHJNU1dlNHVYcGtmZ1VwQWFMUHNiWE1ZQU5RdEx2SmxabldETDNqa2ZRc3Bxa0RWeDRZYzAxZnp3TkYtYW9iYXVQZkkwRTAzZ2VLZEhJb3BjVFVsS3VBcmU2YzFsRFJTZ2VNOW1HaVB0TnZhOXF2ZkMxTWRjWi0xdklFOUN30gHKAUFVX3lxTFBZckNVZ3hVd2RnTGtHV00tOHdrLVRVbWFFMzMyQ0ZPNW5MaGtKV20zWVo3R0RNZVZzLTBVVENORjI3akJabjBOMTJTc3hGcHpSQktWYnlFY1p5Y3htMi1CSjVkcFhKSnBQb2RGanJuU0ZUeE1ZYURFS3BQc05mNG9XOGNEdW5XV1BoVTZETlpwSjNHbHpteGduSVJGbjNqbUY5TGpQZmtoOXhzS2Y4V1hEZ0F0RDh5aXFZdEFxRlYwMkVuWkJCT09nZEE?oc=5",
-   "ts": "Sat, 07 Nov 2026 10:00:06 GMT"
+   "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnlsdF9sNDNwY0VTbjBVa1QwUmFYZXJQUWhfcEdtSF9NUWFlNS1KOTh5RW1EcXQ3NUpsVnFVazZsSmRBZ01pUkRkVFRRTXlvWkcxUjFzYVlMa2d3YmZqaWs0dXBzLTBWNE5MZ19wWW1LQldvbFJSNUM4MzBnUUZsYVlDczRmLWI3UnZ2WTFxT1VwWkFWZHBUdXYyUWlZeE9XSWVxTDhSSmxyUktGb0dIaXMyUnJqdw?oc=5",
+   "ts": "Fri, 06 Nov 2026 20:37:40 GMT"
   },
   {
    "src": "gnews",
-   "title": "‘More carve-outs’? How the midterms could affect US trade policy on China - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb05DX3U3cmVhWTVRVTRQbkdqRTB3RzhFdlhfeWxGckw1cl93bjJXMkwwLTJURUxuRUI1eUNDTm5SVE1FQmtFNFRhaXVXQnJtbjAyNkI4VFQ0NWdkZnplRHZhdVBBSTNpT09mWlgyTVFrRzdBX2dMS0VycDBjcnpPdnVBSWE1RmlxY1M3TjdkdUVJc2RPWGN5cUljMVJvZnJPVnFKSjFMONIBpwFBVV95cUxNWG1faG9kV1ItTlIyLTlfeXdETldlcFlPRXJfLWJxdy1tcFVTSTU5MTBmSkpuVjROVmtQMGZYcXpLZmpLTl9tY294QVRrYjI1enJTaThlVXUwakJqc1dhQWZKVGFXTjZxTnZGU1NSMENMeGZrQ0pyMHg3NlN1Z0NrLUZUQThXUW4xYjJOc0k3UnlMVVZsRlpwZjR4ZGdsUEVUQWhBcWVicw?oc=5",
-   "ts": "Wed, 04 Nov 2026 14:00:09 GMT"
+   "title": "Trump's political humbling signals short-term gain, long-term pain for China - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVBkVEFRMUNIQ0xmQVZXR1lLZmJBeVJiMXJMalZKLTRCaG00cmhCWjVKQjZmUUh3ajlGY3hjejlwRm40M1BNVXlwWFJjcXU0Um40QVNQY1BjNEZFbGF0RUdvamZYNlBCelY2UFBuOHVzU2pRYWk5RXRPbjU5QkdwcUo2cXhKU2JqMy01ZHpoQk5MbTg2a19rdXRCR1JLeFI2RzJMNDNtMm9LelZOWS1vaVpyNG5GS2pManc?oc=5",
+   "ts": "Thu, 05 Nov 2026 07:57:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQODVTbG5PRGFYaVRPT1FGZ2pTTlpVeTNiVExObUFqcFFxUU5uZW9XbzlrVDZ5NEIya2d0REkzTlJPTk5hdF9mQmtHOU1aejBZcnJFY01MN2pUZmxLNUh2YWdPWlFYYjJDbDdHeVZUSlNON2g4M1VwUFZmSVFnem1mMU1jX1FkbFc2eVZhY0FMaHU1bHdGaGxneHpOM21qcmZmYXZ4d2FIdGNLUnJZaWs4N21VTDRUN01OcHNNOXlGU0Q4LU9lNjZvWlFn0gHKAUFVX3lxTE43UmQ4YTNqQ1RQajlMZ3FuY1d2bjd6czBST0cyZExtN1BLT3hIdnl2U0g0SWpXck16RUhPYld4YmV5YmF3dWdDLTlfeXpLVHhmTHN4SE5VSHBraUVaMGpuWm8yeTA0UXVzMi1IYkZ2ZzNQY1E4OVRBeGRVTEMyN19nSVlobUc4cXI5VW5oTU43OC05UHNwb2w2anRWNTBNZi11VUNDdWFJSy00VWtmMkpBUExjMTY4SUItbERkVlpOQnY5NUczRWRQcnc?oc=5",
+   "ts": "Fri, 06 Nov 2026 18:34:11 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Opinion | China-Swiss trade partnership offers a model amid fraught EU ties - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSGluWEprUmJ2Njhoazc3VGJjMXZxT0hrWG1YYWRDQXhpeU0zTlRoSG4zRVdQOHhKa2pYS2JVUjN2NUJ5c01EeVlUQkgtakNCQUpMNVlCelJnSER6OExSaEtVSWVVVUNUX1JwanYxZXBVZ1o1ZWoyNExqS3Rza1V2SjQyZXd3aldHTUJDZVl5bHJyTzBiTDNyaTFUUzI1VmFRZnZSaVZnaHV3dzZWelJSUUxmLWFfbGRZaUtJUUtBai16dnB2eWE40gHHAUFVX3lxTE1MM2hVUUwtM05uNnpQNi1qQ3Nxb2lrVmJwclFxY0hyTzhhWmwzUUJuSzg4UkxVUWp4TGw3SDVkd0M5M29WNG9yckxHNzA1eWVhSjNPMzZxYXJVWUNqY3Y5dlhtRnBxQ3cwbGNERFljMkJWd1N3VkJFY01DajZYaEM3T2E2MVhyVG9QQVZuQWxmemMxWFhVdjcxOTlEc3RmcWN2ZWdMa3BhZnZSdmVtSkFza1NfWkkzYU1iMXZKaFJtZEc0bzdlZW8?oc=5",
+   "ts": "Sat, 07 Nov 2026 12:30:05 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Clarus ( NASDAQ : CLAR ) Releases Earnings Results , Beats Estimates By $0 . 10 EPS",
+   "url": "https://www.themarketsdaily.com/2026/11/07/clarus-nasdaqclar-releases-earnings-results-beats-estimates-by-0-10-eps.html",
+   "ts": "20261107T220000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Netanyahu Iran Attack Plan | Trump Stopped Israel PM Mosad Operation",
+   "url": "https://www.bhaskar.com/international/news/netanyahu-mosad-chief-plan-iran-attack-trump-stop-israel-news-139624855.html",
+   "ts": "20261107T220000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump orders DOJ to probe Dems for  threatening  people",
+   "url": "https://www.yasstribune.com.au/story/9387577/trump-orders-doj-to-probe-dems-for-threatening-people/",
+   "ts": "20261107T220000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "The Midterms Aftermath",
+   "url": "https://www.wmnf.org/the-midterms-aftermath/",
+   "ts": "20261107T220000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "IRAN WAR WEEK 37 , day # 1 : is perpetual combat and chaos Krasnov jam ? ",
+   "url": "https://www.dailykos.com/stories/2026/11/7/800124647/community/iran-war-week-37-day-1-is-perpetual-combat-and-chaos-krasnovs-jam/",
+   "ts": "20261107T220000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Melania Trump and LSU announce scholarship program for students who experienced foster care",
+   "url": "https://www.wbrz.com/news/melania-trump-and-lsu-announce-scholarship-program-for-students-who-experienced-foster-care",
+   "ts": "20261107T220000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Donald Trump offers UFC boss job as his press secretary",
+   "url": "https://www.dailyecho.co.uk/news/national/26709089.donald-trump-offers-ufc-boss-job-press-secretary/",
+   "ts": "20261107T220000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "טראמפ הציע למנכ  ל ה - UFC להיות דובר הבית הלבן :  צריכים לוחמים נגד השמאל המטורלל  ",
+   "url": "https://www.ynet.co.il/news/article/b1bdsg6pgg",
+   "ts": "20261107T220000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Exclusive Rep . Greg Steube : Republicans  Failed to Deliver on Key Thing Voters Wanted",
+   "url": "https://www.breitbart.com/politics/2026/11/07/exclusive-rep-greg-steube-republicans-failed-to-deliver-on-key-things-voters-wanted/",
+   "ts": "20261107T220000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Says U . S . Strikes on Iran Destroyed Air Defense System in  Minutes  ",
+   "url": "https://www.breitbart.com/politics/2026/11/07/trump-u-s-carried-out-minor-strikes-iran-destroyed-anti-aircraft-system-minutes/",
+   "ts": "20261107T220000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Donald Trump offers UFC boss job as his press secretary",
+   "url": "https://www.oxfordmail.co.uk/news/national/26709089.donald-trump-offers-ufc-boss-job-press-secretary/",
+   "ts": "20261107T220000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Donald Trump offers UFC boss job as his press secretary",
+   "url": "https://www.thetelegraphandargus.co.uk/news/national/26709089.donald-trump-offers-ufc-boss-job-press-secretary/",
+   "ts": "20261107T220000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump says he asked UFC Dana White to be his press secretary . No one will say if he joking",
+   "url": "https://www.wsls.com/news/politics/2026/11/07/trump-says-hes-asked-ufcs-dana-white-to-be-his-press-secretary-no-one-will-say-if-hes-joking/",
+   "ts": "20261107T220000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "米トランプ大統領 首席補佐官交代へ 選挙大敗で人事刷新 後任に移民強硬派の腹心 - スポニチ Sponichi Annex 社会",
+   "url": "https://www.sponichi.co.jp/society/news/2026/11/08/kiji/20261108s00042000050000c.html",
+   "ts": "20261107T220000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Savannah Chrisley shows oval - cut engagement ring in video",
+   "url": "https://www.inquisitr.com/savannah-chrisley-engagement-ring-jason-galanis/",
+   "ts": "20261107T220000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Chất xúc tác cho VN - Index",
+   "url": "https://vietbao.vn/chat-xuc-tac-cho-vn-index-614971.html",
+   "ts": "20261107T220000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US military says it fired on commercial vessel in Gulf of Oman after it attempted to breach blockade",
+   "url": "https://www.wral.com/news/ap/bc902-us-military-says-it-fired-on-commercial-vessel-in-gulf-of-oman-after-it-attempted-to-breach-blockade/",
+   "ts": "20261107T220000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Donald Trump midterm blow : Why it spells danger for Albanese | Yass Tribune",
+   "url": "https://www.yasstribune.com.au/story/9387452/donald-trump-midterm-blow-why-it-spells-danger-for-albanese/",
+   "ts": "20261107T220000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "La Capital | Aduanas Refuerzan Ofensiva Binacional Contra El Fraude Comercial En La Frontera",
+   "url": "https://www.lacapital.com.mx/noticia/115923-Aduanas_refuerzan_ofensiva_binacional_contra_el_fraude_comercial_en_la_frontera",
+   "ts": "20261107T220000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump post - election catastrophe",
+   "url": "https://www.dailykos.com/stories/2026/11/7/800124105/series/trumps-post-election-catastrophe/",
+   "ts": "20261107T220000Z"
   }
  ]
 }

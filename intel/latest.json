@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-07T23:30:20Z",
+ "ts": "2026-11-07T23:45:18Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -365,15 +365,15 @@
   },
   {
    "src": "gnews",
-   "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYy1vdWUwVXRwOE5ZT180NmxHZ0JocXpNaEpYQWNmYmh4dXBrN1Q0SFBpYkMtXzRJSFQ4WkNKbUI5Z1VCS25kRVZpSDJaSTlEY1FsVlNkZTUxSG1jclhnNDlaZnNWMTdLWG9QQmdLZjhWOElZNDVGeVlYdFA0TVVvUW51ZFk?oc=5",
-   "ts": "Fri, 06 Nov 2026 17:20:21 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump’s trade chief pushing him to step up negotiations with Canada - Politico",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUY3c1JIclBSa09VTXM3UlJiMWtrUkxUdFJoRTV6Zl9ZZGJQcUlCTFppQm9ESWhrcGVfTWRHdy1SSkU4U2ktY2ZiMEtWNnBiWkhDQmVuajlhTlFDa3NJM0dESGNTeWdPbmNMWTBxV2swVkhLbV9QdFdhUWhORl9Ca2NHUFlxNEFFamRWNzhQRlJEdFNadkd5M1RQMTM?oc=5",
    "ts": "Tue, 03 Nov 2026 23:55:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYy1vdWUwVXRwOE5ZT180NmxHZ0JocXpNaEpYQWNmYmh4dXBrN1Q0SFBpYkMtXzRJSFQ4WkNKbUI5Z1VCS25kRVZpSDJaSTlEY1FsVlNkZTUxSG1jclhnNDlaZnNWMTdLWG9QQmdLZjhWOElZNDVGeVlYdFA0TVVvUW51ZFk?oc=5",
+   "ts": "Fri, 06 Nov 2026 17:20:21 GMT"
   },
   {
    "src": "gnews",

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-07T07:45:18Z",
+ "ts": "2026-11-07T08:00:21Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -353,15 +353,15 @@
   },
   {
    "src": "gnews",
-   "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYy1vdWUwVXRwOE5ZT180NmxHZ0JocXpNaEpYQWNmYmh4dXBrN1Q0SFBpYkMtXzRJSFQ4WkNKbUI5Z1VCS25kRVZpSDJaSTlEY1FsVlNkZTUxSG1jclhnNDlaZnNWMTdLWG9QQmdLZjhWOElZNDVGeVlYdFA0TVVvUW51ZFk?oc=5",
-   "ts": "Fri, 06 Nov 2026 17:20:21 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting - DW.com",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
    "ts": "Sat, 07 Nov 2026 04:55:32 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYy1vdWUwVXRwOE5ZT180NmxHZ0JocXpNaEpYQWNmYmh4dXBrN1Q0SFBpYkMtXzRJSFQ4WkNKbUI5Z1VCS25kRVZpSDJaSTlEY1FsVlNkZTUxSG1jclhnNDlaZnNWMTdLWG9QQmdLZjhWOElZNDVGeVlYdFA0TVVvUW51ZFk?oc=5",
+   "ts": "Fri, 06 Nov 2026 17:20:21 GMT"
   },
   {
    "src": "gnews",
@@ -425,12 +425,6 @@
   },
   {
    "src": "gnews",
-   "title": "US-China Trade: Washington Presses Beijing on Soybean Purchases Ahead of Trump-Xi Talks - AgroLatam",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVTlTckRGanNCN3RxVS1QeEYwbTJEYnpnakN5WkVEa1lXbmRjS0sxYzEzY3JhdkFSR2tqMTU4M1lZN2xRR3B3OTVPVVowU2FVaXQ2Rkh5eVZyMmJzQ21UNTRJUkFnaThOZDhNemptVHAyS0dXOWFlTDJwU3JCQjVLRURRTkZZTm9oemc?oc=5",
-   "ts": "Fri, 06 Nov 2026 21:15:20 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnlsdF9sNDNwY0VTbjBVa1QwUmFYZXJQUWhfcEdtSF9NUWFlNS1KOTh5RW1EcXQ3NUpsVnFVazZsSmRBZ01pUkRkVFRRTXlvWkcxUjFzYVlMa2d3YmZqaWs0dXBzLTBWNE5MZ19wWW1LQldvbFJSNUM4MzBnUUZsYVlDczRmLWI3UnZ2WTFxT1VwWkFWZHBUdXYyUWlZeE9XSWVxTDhSSmxyUktGb0dIaXMyUnJqdw?oc=5",
    "ts": "Fri, 06 Nov 2026 20:37:40 GMT"
@@ -446,6 +440,12 @@
    "title": "China says US farm purchases hinge on tariff-cut deal - Reuters",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjZCZGJiUVFJRkdBeU1DaTExb3FMSmdaLVRuLTRrQWNnd3F5MDg1YnZlTUZfclBPRWhQZXdlbWxEakVXdlNidWVWbmhFcGZTVEpSOWlJSE1FTHhOWTVlUXkwSG5rTXRNTDE5ckRWTzhnYmx3LVVJSDE2S2JNQW9CTUNFanlFNWlqMkJWdFZTMzU0VnpzX2tua25aQS0zNTdsUDNRRA?oc=5",
    "ts": "Thu, 05 Nov 2026 07:44:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjlHb2U1LVBiU29ZOGVGTnhubkJZUUF3ejRLQy12ejROd1lIaVMzTS1hVEVqMWx2Z3VQMmcxakItTzNzQVJ2WU1qN2tCUWNCMkUtVi1Od0FyejlRVUNTb01ZX29WUGwxU0g0RlFrU09Mc0lQZlZuaFNGVTdiUTBEQW5VM28xcFd6a2k3RW5GNGJlZktPRG5zbFB6a0hFOUpLRWNhSU9WaGg4LTRUOVBWSmxtWG5zd9IBuwFBVV95cUxQUFFsbWN1ZmxlNWRuaFAxaXBqUTJLVjFDX2M5Ui15TjhSeGpyRjN5NVZMZ01TNlVWX2NGU0tGVThHSE5jZVhFdFowSVhMTjNVdmVEd1NwbU1DcFVOaHVaWmwxOG10WWJKSnVVVmhFZGhLa0J0MkMzV2Jock1UdXFtekpKeXAtaDJPWjlfaXhueHpnWW8wcjBwUXNCRGRLVFoyQUREblVacG5QSjZrU3hkQmN6V0RCUmhmZUpv?oc=5",
+   "ts": "Fri, 06 Nov 2026 04:06:34 GMT"
   },
   {
    "src": "gnews",

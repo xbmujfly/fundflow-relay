@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-07T13:45:20Z",
+ "ts": "2026-11-07T14:00:21Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -341,15 +340,15 @@
   },
   {
    "src": "gnews",
-   "title": "US urges China to meet rare earths, agriculture commitments ahead of Trump-Xi meetings - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY1NQbGhDdzBnZUVPRWxZMzdCdlUxcTdxTlhaVXYwclNRTm92UXdGanlUVmpxQUczWFItME5kaWp3NWFKVDZUWW5GVlowUnFrYktvOEdvYTNlclhVRUQxbWlia18zQW1RRzhJMlhoRjE3b2xIdlllYXZCSm5BUTR1SFdudTNfS0ZRWUtjenNLS0NwOUMyN0gtb3JkX0NQaE1EdjluMkI3aFhscEplOWVXM0FIZTI4N3IxV3pLWGhsNUZLUQ?oc=5",
-   "ts": "Fri, 06 Nov 2026 17:53:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Bessent, Greer Raise Concerns on China Trade Deal Actions - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUThIM0tOMDlPV2h4TURPZHZyVlJjUGRLWlZOV21nb3gwS3RON3RQdk1PZUFNOTVpZ2k0VG4tQ0xyWWd1R0JrZzV2MVhwS3B6dzY0eGtkbWxXajRreGpIRlZWUXVkc2haWVVsaXNZaUwzYWdmaU8tS21KS1ZaRlVZT3dNanpJamNZRURtOVRibHFpMERibTF0OGNwQnFkWENSVXJScXpJclFuamc?oc=5",
    "ts": "Sat, 07 Nov 2026 01:33:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US urges China to meet rare earths, agriculture commitments ahead of Trump-Xi meetings - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY1NQbGhDdzBnZUVPRWxZMzdCdlUxcTdxTlhaVXYwclNRTm92UXdGanlUVmpxQUczWFItME5kaWp3NWFKVDZUWW5GVlowUnFrYktvOEdvYTNlclhVRUQxbWlia18zQW1RRzhJMlhoRjE3b2xIdlllYXZCSm5BUTR1SFdudTNfS0ZRWUtjenNLS0NwOUMyN0gtb3JkX0NQaE1EdjluMkI3aFhscEplOWVXM0FIZTI4N3IxV3pLWGhsNUZLUQ?oc=5",
+   "ts": "Fri, 06 Nov 2026 17:53:00 GMT"
   },
   {
    "src": "gnews",
@@ -383,21 +382,27 @@
   },
   {
    "src": "gnews",
-   "title": "US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQODVTbG5PRGFYaVRPT1FGZ2pTTlpVeTNiVExObUFqcFFxUU5uZW9XbzlrVDZ5NEIya2d0REkzTlJPTk5hdF9mQmtHOU1aejBZcnJFY01MN2pUZmxLNUh2YWdPWlFYYjJDbDdHeVZUSlNON2g4M1VwUFZmSVFnem1mMU1jX1FkbFc2eVZhY0FMaHU1bHdGaGxneHpOM21qcmZmYXZ4d2FIdGNLUnJZaWs4N21VTDRUN01OcHNNOXlGU0Q4LU9lNjZvWlFn0gHKAUFVX3lxTE43UmQ4YTNqQ1RQajlMZ3FuY1d2bjd6czBST0cyZExtN1BLT3hIdnl2U0g0SWpXck16RUhPYld4YmV5YmF3dWdDLTlfeXpLVHhmTHN4SE5VSHBraUVaMGpuWm8yeTA0UXVzMi1IYkZ2ZzNQY1E4OVRBeGRVTEMyN19nSVlobUc4cXI5VW5oTU43OC05UHNwb2w2anRWNTBNZi11VUNDdWFJSy00VWtmMkpBUExjMTY4SUItbERkVlpOQnY5NUczRWRQcnc?oc=5",
-   "ts": "Fri, 06 Nov 2026 18:34:11 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump’s trade chief pushing him to step up negotiations with Canada - Politico",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUY3c1JIclBSa09VTXM3UlJiMWtrUkxUdFJoRTV6Zl9ZZGJQcUlCTFppQm9ESWhrcGVfTWRHdy1SSkU4U2ktY2ZiMEtWNnBiWkhDQmVuajlhTlFDa3NJM0dESGNTeWdPbmNMWTBxV2swVkhLbV9QdFdhUWhORl9Ca2NHUFlxNEFFamRWNzhQRlJEdFNadkd5M1RQMTM?oc=5",
    "ts": "Tue, 03 Nov 2026 23:55:00 GMT"
   },
   {
    "src": "gnews",
+   "title": "US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQODVTbG5PRGFYaVRPT1FGZ2pTTlpVeTNiVExObUFqcFFxUU5uZW9XbzlrVDZ5NEIya2d0REkzTlJPTk5hdF9mQmtHOU1aejBZcnJFY01MN2pUZmxLNUh2YWdPWlFYYjJDbDdHeVZUSlNON2g4M1VwUFZmSVFnem1mMU1jX1FkbFc2eVZhY0FMaHU1bHdGaGxneHpOM21qcmZmYXZ4d2FIdGNLUnJZaWs4N21VTDRUN01OcHNNOXlGU0Q4LU9lNjZvWlFn0gHKAUFVX3lxTE43UmQ4YTNqQ1RQajlMZ3FuY1d2bjd6czBST0cyZExtN1BLT3hIdnl2U0g0SWpXck16RUhPYld4YmV5YmF3dWdDLTlfeXpLVHhmTHN4SE5VSHBraUVaMGpuWm8yeTA0UXVzMi1IYkZ2ZzNQY1E4OVRBeGRVTEMyN19nSVlobUc4cXI5VW5oTU43OC05UHNwb2w2anRWNTBNZi11VUNDdWFJSy00VWtmMkpBUExjMTY4SUItbERkVlpOQnY5NUczRWRQcnc?oc=5",
+   "ts": "Fri, 06 Nov 2026 18:34:11 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "America’s Rebuke of Trump Won’t Swiftly Restore Canada-U.S. Harmony - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQREc2OG91NmNrb3hPR3U0VGkzYWFob0E5MHNZMVZHSVY0eDhjZnVyNmJYVTR6ZlRlNmhZSzduMmlXVnRxOFNtTGtJQmUxVnVBeklYekJzWWdyRjhaZTdSMTNsVkxEd0FxaHN5RnRUd0NPM3FTTlc2aDhnekJJQUJaVlZiQUpNQmd3R24xZ1d4QzRNQzNCNFVVY25oMDhfUXA4eGhzdmhB?oc=5",
    "ts": "Sat, 07 Nov 2026 11:00:07 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Why EU-China Trade Relations Have Deteriorated - The National Interest",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeWg4TEtKUGZZR01TQU1PWld4amNpUndGaTdLQkNkM3Fmdm02U01HdkcweFFIaUxrRjFaSWdhMjVUWkVKRDhuTDBtNVNEQlBtUEl5OHZ6bm1rendlODBLYmZ2MGVtN2RaZEFTWm5kMEVVNzdWazBOYkdaNjlEQm4wVklBb3FwNGEwOTlV?oc=5",
+   "ts": "Sat, 07 Nov 2026 13:53:55 GMT"
   },
   {
    "src": "gnews",
@@ -443,12 +448,6 @@
   },
   {
    "src": "gnews",
-   "title": "China says US farm purchases hinge on tariff-cut deal - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjZCZGJiUVFJRkdBeU1DaTExb3FMSmdaLVRuLTRrQWNnd3F5MDg1YnZlTUZfclBPRWhQZXdlbWxEakVXdlNidWVWbmhFcGZTVEpSOWlJSE1FTHhOWTVlUXkwSG5rTXRNTDE5ckRWTzhnYmx3LVVJSDE2S2JNQW9CTUNFanlFNWlqMkJWdFZTMzU0VnpzX2tua25aQS0zNTdsUDNRRA?oc=5",
-   "ts": "Thu, 05 Nov 2026 10:05:05 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Opinion | China-Swiss trade partnership offers a model amid fraught EU ties - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSGluWEprUmJ2Njhoazc3VGJjMXZxT0hrWG1YYWRDQXhpeU0zTlRoSG4zRVdQOHhKa2pYS2JVUjN2NUJ5c01EeVlUQkgtakNCQUpMNVlCelJnSER6OExSaEtVSWVVVUNUX1JwanYxZXBVZ1o1ZWoyNExqS3Rza1V2SjQyZXd3aldHTUJDZVl5bHJyTzBiTDNyaTFUUzI1VmFRZnZSaVZnaHV3dzZWelJSUUxmLWFfbGRZaUtJUUtBai16dnB2eWE40gHHAUFVX3lxTE1MM2hVUUwtM05uNnpQNi1qQ3Nxb2lrVmJwclFxY0hyTzhhWmwzUUJuSzg4UkxVUWp4TGw3SDVkd0M5M29WNG9yckxHNzA1eWVhSjNPMzZxYXJVWUNqY3Y5dlhtRnBxQ3cwbGNERFljMkJWd1N3VkJFY01DajZYaEM3T2E2MVhyVG9QQVZuQWxmemMxWFhVdjcxOTlEc3RmcWN2ZWdMa3BhZnZSdmVtSkFza1NfWkkzYU1iMXZKaFJtZEc0bzdlZW8?oc=5",
    "ts": "Sat, 07 Nov 2026 12:30:05 GMT"
@@ -458,6 +457,126 @@
    "title": "‘More carve-outs’? How the midterms could affect US trade policy on China - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb05DX3U3cmVhWTVRVTRQbkdqRTB3RzhFdlhfeWxGckw1cl93bjJXMkwwLTJURUxuRUI1eUNDTm5SVE1FQmtFNFRhaXVXQnJtbjAyNkI4VFQ0NWdkZnplRHZhdVBBSTNpT09mWlgyTVFrRzdBX2dMS0VycDBjcnpPdnVBSWE1RmlxY1M3TjdkdUVJc2RPWGN5cUljMVJvZnJPVnFKSjFMONIBpwFBVV95cUxNWG1faG9kV1ItTlIyLTlfeXdETldlcFlPRXJfLWJxdy1tcFVTSTU5MTBmSkpuVjROVmtQMGZYcXpLZmpLTl9tY294QVRrYjI1enJTaThlVXUwakJqc1dhQWZKVGFXTjZxTnZGU1NSMENMeGZrQ0pyMHg3NlN1Z0NrLUZUQThXUW4xYjJOc0k3UnlMVVZsRlpwZjR4ZGdsUEVUQWhBcWVicw?oc=5",
    "ts": "Wed, 04 Nov 2026 14:00:09 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Apple lance son premier MacBook Pro tactile avec écran PROLED XDR",
+   "url": "https://www.linformatique.org/macbook-pro-oled-ecran-tactile-apple/",
+   "ts": "20261107T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "الحرية - تحقيق هآرتس يكشف شبكة تضليل رقمية .. حسابات انتحلت صفة إيرانيين للترويج للفاسد القاتل نتنياهو والليكود",
+   "url": "https://alhourriah.org/article/173353",
+   "ts": "20261107T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "UK preparing to host Volodymyr Zelensky for state visit in 2027",
+   "url": "https://www.denbighshirefreepress.co.uk/news/national/26708239.uk-preparing-host-volodymyr-zelensky-state-visit-2027/",
+   "ts": "20261107T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Kyiv hit by missiles as Ukraine prepares for talks with Russia and the US",
+   "url": "https://www.salisburyjournal.co.uk/news/national/26708354.kyiv-hit-missiles-ukraine-prepares-talks-russia-us/",
+   "ts": "20261107T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "AI investment cycle may have peaked , Jefferies warns ; raises India allocation to 14 % ",
+   "url": "http://www.hongkongherald.com/news/279418346/ai-investment-cycle-may-have-peaked-jefferies-warns-raises-india-allocation-to-14",
+   "ts": "20261107T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Voters fired Republicans , they didnt hire the left | Shoen – Red Bluff Daily News",
+   "url": "https://www.redbluffdailynews.com/2026/11/07/voters-fired-republicans-they-didnt-hire-the-left/",
+   "ts": "20261107T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US in new targeted strikes on Iran as Tehran leaders weigh mediator proposals",
+   "url": "https://www.naharnet.com/stories/en/323622-us-in-new-targeted-strikes-on-iran-as-tehran-leaders-weigh-mediator-s-proposals",
+   "ts": "20261107T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump midterm drubbing adds to the populist right losses . France Le Pen could still win | News",
+   "url": "http://www.dailyadvance.com/news/world/trumps-midterm-drubbing-adds-to-the-populist-rights-losses-france-s-le-pen-could-still/article_31c6c578-ca12-5e02-89ba-33128c58055d.html",
+   "ts": "20261107T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "UK preparing to host Volodymyr Zelensky for state visit in 2027",
+   "url": "https://www.bridportnews.co.uk/news/national/26708239.uk-preparing-host-volodymyr-zelensky-state-visit-2027/",
+   "ts": "20261107T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Состоится ли встреча Си , Трампа и Путина – Китай подтвердил переговоры",
+   "url": "https://www.obozrevatel.com/section-novosti-mir/news-kytay-vpershe-pidtverdyv-perehovory-shchodo-istorychnoyi-zustrichi-si-trampa-ta-putina-07-11-2026.html",
+   "ts": "20261107T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Kyiv hit by missiles as Ukraine prepares for talks with Russia and the US",
+   "url": "https://www.ealingtimes.co.uk/news/national/26708354.kyiv-hit-missiles-ukraine-prepares-talks-russia-us/",
+   "ts": "20261107T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Kyiv hit by missiles as Ukraine prepares for talks with Russia and the US",
+   "url": "https://www.denbighshirefreepress.co.uk/news/national/26708354.kyiv-hit-missiles-ukraine-prepares-talks-russia-us/",
+   "ts": "20261107T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "قناة النيل للأخبار | أكسيوس : جهود مكثفة لفانس للتوصل إلى وقف جديد لإطلاق النار مع إيران واستئناف المفاوضات النووية",
+   "url": "https://www.nile.eg/%D8%A3%D9%83%D8%B3%D9%8A%D9%88%D8%B3-%D8%AC%D9%87%D9%88%D8%AF-%D9%85%D9%83%D8%AB%D9%81%D8%A9-%D9%84%D9%81%D8%A7%D9%86%D8%B3-%D9%84%D9%84%D8%AA%D9%88%D8%B5%D9%84-%D8%A5%D9%84%D9%89-%D9%88%D9%82%D9%81",
+   "ts": "20261107T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Huston , we have a problem | Journal Review",
+   "url": "http://www.journalreview.com/stories/huston-we-have-a-problem,414312",
+   "ts": "20261107T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "UK preparing to host Volodymyr Zelensky for state visit in 2027",
+   "url": "https://www.ealingtimes.co.uk/news/national/26708239.uk-preparing-host-volodymyr-zelensky-state-visit-2027/",
+   "ts": "20261107T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Triple frenzy caused by the BN poll - Which political leaders panicked , who is changing tactics , and who faces an impasse",
+   "url": "https://www.bankingnews.gr/politiki/articles/909690/triple-frenzy-caused-by-the-bn-poll-which-political-leaders-panicked-who-is-changing-tactics-and-who-faces-an-impasse",
+   "ts": "20261107T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "AI investment cycle may have peaked , Jefferies warns ; raises India allocation to 14 % ",
+   "url": "http://www.asiabulletin.com/news/279418346/ai-investment-cycle-may-have-peaked-jefferies-warns-raises-india-allocation-to-14",
+   "ts": "20261107T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "بعد إعلان ترامب .. الحرس الثوري يكشف ما جرى في جزيرة قشم | العالم",
+   "url": "https://www.ammonnews.net/article/1043005",
+   "ts": "20261107T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Stock Market Faces a Worst - Case Scenario After Midterm Elections . History Says This Will Happen Next . ",
+   "url": "https://www.aol.com/articles/stock-market-faces-worst-case-103202000.html",
+   "ts": "20261107T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US Offers $20 Million Reward For Information On Iran Nuclear Program",
+   "url": "http://www.iranherald.com/news/279418245/us-offers-20-million-reward-for-information-on-iran-nuclear-program",
+   "ts": "20261107T113000Z"
   }
  ]
 }

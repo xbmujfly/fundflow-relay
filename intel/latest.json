@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-07T10:45:19Z",
+ "ts": "2026-11-07T11:00:22Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -458,6 +457,126 @@
    "title": "‘More carve-outs’? How the midterms could affect US trade policy on China - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb05DX3U3cmVhWTVRVTRQbkdqRTB3RzhFdlhfeWxGckw1cl93bjJXMkwwLTJURUxuRUI1eUNDTm5SVE1FQmtFNFRhaXVXQnJtbjAyNkI4VFQ0NWdkZnplRHZhdVBBSTNpT09mWlgyTVFrRzdBX2dMS0VycDBjcnpPdnVBSWE1RmlxY1M3TjdkdUVJc2RPWGN5cUljMVJvZnJPVnFKSjFMONIBpwFBVV95cUxNWG1faG9kV1ItTlIyLTlfeXdETldlcFlPRXJfLWJxdy1tcFVTSTU5MTBmSkpuVjROVmtQMGZYcXpLZmpLTl9tY294QVRrYjI1enJTaThlVXUwakJqc1dhQWZKVGFXTjZxTnZGU1NSMENMeGZrQ0pyMHg3NlN1Z0NrLUZUQThXUW4xYjJOc0k3UnlMVVZsRlpwZjR4ZGdsUEVUQWhBcWVicw?oc=5",
    "ts": "Wed, 04 Nov 2026 14:00:09 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "  Undeclared State of Emergency : In On - Campus Event , Palantir CTO Shyam Sankar  03 Discusses American Military Deterrence , Role of Private Sector in Defense",
+   "url": "https://www.cornellsun.com/article/2026/11/undeclared-state-of-emergency-in-on-campus-event-palantir-cto-shyam-sankar-03-discusses-american-military-deterrence-role-of-private-sector-in-defense",
+   "ts": "20261107T100000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Today in History : November 7 , Washington state bridge collapses into Puget Sound",
+   "url": "https://www.citizensvoice.com/2026/11/07/today-in-history-november-7-washington-state-bridge-collapses-into-puget-sound/",
+   "ts": "20261107T100000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Vauhdittaako tieto 1 , 5 asteen ylityksestä tekoja ilmastokokouksessa ? –  Sen ainakin pitäisi olla herätys , että nyt toimet eivät ole riittäviä  ",
+   "url": "https://www.ess.fi/uutissuomalainen/9935761",
+   "ts": "20261107T100000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "争议声中 ， 白宫公布  凯旋门  新方案 _ 凤凰网",
+   "url": "https://news.ifeng.com/c/8xrLSoN1szY",
+   "ts": "20261107T100000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Mediation efforts between US , Iran continue to prevent escalation : Qatar",
+   "url": "https://www.omanobserver.om/article/1199233/world/region/mediation-efforts-between-us-iran-continue-to-prevent-escalation-qatar",
+   "ts": "20261107T100000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump New Chief Of Staff Stephen Miller Accused India Of Funding Russia Ukraine War Through Oil Purchases",
+   "url": "https://www.freepressjournal.in/world/trumps-new-chief-of-staff-stephen-miller-accused-india-of-funding-russias-ukraine-war-through-oil-purchases",
+   "ts": "20261107T100000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ξηλώνει το επιτελείο του ο Τραμπ μετά την ήττα στις εκλογές – Αλλάζει προσωπάρχη και φέρνει τον Στίβεν Μίλερ",
+   "url": "https://www.taxydromos.gr/diethni/1387808/xilonei-to-epiteleio-toy-o-tramp-meta-tin-itta-stis-ekloges-allazei-prosoparchi-kai-fernei-ton-stiven-miler/",
+   "ts": "20261107T100000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Novinky . cz - nejčtenější zprávy na českém internetu",
+   "url": "https://www.novinky.cz/?timeline--pageItem=40607337",
+   "ts": "20261107T100000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Missiles target Kyiv and wound 5 as Ukraine prepares for talks with Russia and the US",
+   "url": "https://www.2news.com/news/national/missiles-target-kyiv-and-wound-5-as-ukraine-prepares-for-talks-with-russia-and-the/article_5e66b86a-e12d-5739-a132-0a708f2e9d27.html",
+   "ts": "20261107T100000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Washington sľubuje 20 miliónov dolárov za citlivé údaje o iránskych jadrových aktivitách",
+   "url": "https://www.aktuality.sk/clanok/f9XHtTB/washington-slubuje-20-milionov-dolarov-za-citlive-udaje-o-iranskych-jadrovych-aktivitach/",
+   "ts": "20261107T100000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ukrajina ONLINE : Ruský útok na Kyjev zranil päť ľudí a poškodil energetiku a most , oznámil Kličko | Svet | . týždeň",
+   "url": "https://www.tyzden.sk/svet/82394/ukrajina-online-rusky-utok-na-kyjev-zranil-pat-ludi-a-poskodil-energetiku-a-most-oznamil-klicko/",
+   "ts": "20261107T100000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "U . S .- WASHINGTON , D . C .- STEPHEN MILLER - WHITE HOUSE CHIEF OF STAFF",
+   "url": "http://www.middleeaststar.com/news/279418297/us-washington-dc-stephen-miller-white-house-chief-of-staff",
+   "ts": "20261107T100000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Read the complete transcript of Trump 2026 State of the Union",
+   "url": "https://www.saratogian.com/2026/02/25/state-of-the-union-transcript/",
+   "ts": "20261107T100000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Κίνα : Προειδοποιεί τις ΗΠΑ με αντίποινα για τις κυρώσεις σε κινεζικές εταιρείες",
+   "url": "https://www.euro2day.gr/news/world/article/2377128/kina-proeidopoiei-tis-hpa-me-antipoina-gia-tis-kyr.html",
+   "ts": "20261107T100000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump latest Ukraine offer may only tempt Putin to step up his war",
+   "url": "https://www.egyptindependent.com/trumps-latest-ukraine-offer-may-only-tempt-putin-to-step-up-his-war/",
+   "ts": "20261107T100000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Several US troops wounded in attack in Syria : Reports",
+   "url": "https://www.marinecorpstimes.com/news/your-marine-corps/2025/12/13/several-us-troops-wounded-in-attack-in-syria-reports/",
+   "ts": "20261107T100000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Трамп – не « хромая утка »… Фонд стратегической культуры",
+   "url": "https://fondsk.ru/news/2026/11/07/tramp-ne-khromaya-utka.html",
+   "ts": "20261107T100000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "محمدعارف شه‌بخش ، شهروند بلوچ ، اعدام شد",
+   "url": "https://www.radiofarda.com/a/33892814.html",
+   "ts": "20261107T100000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Donald Trump mocked by Iran as bizarre video shows US president being thrown in dumpster | World | News",
+   "url": "https://www.express.co.uk/news/world/2264075/donald-trump-mocked-iran-midterm-elections",
+   "ts": "20261107T100000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Paraguay Ueno fraud : How a bank scandal brought down a trusted Trump ally",
+   "url": "https://www.brisbanetimes.com.au/world/south-america/how-a-bank-scandal-toppled-a-trusted-trump-ally-20261107-p61c9t.html",
+   "ts": "20261107T100000Z"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-08T10:30:20Z",
+ "ts": "2026-11-08T10:45:34Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -395,21 +395,27 @@
   },
   {
    "src": "gnews",
+   "title": "Blue wave won’t end tariff chaos, warns California’s port king - The Telegraph",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0Z4c2pyLXJnTmhXaGRzZ1pRLVBsbGxXN1B5RERhdXdTWG9EN3VPSVVVdjVaNEZlNVdFb3cwdUU1cW9ycHUtaDZhN0NyQjFXVHZTcnl4b01EMGFObElCWUtkakF3STFuSXYtVUdkYlJ6RjRMYlVBVE5tNVgwRXZpU0ItYVJnTm43YkY3VlU0ZWk5ZmhKeS1hcld2QXd5YllPVXJ5T3liU0hQSVlK?oc=5",
+   "ts": "Sun, 08 Nov 2026 09:00:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China threatens retaliation as EU mulls trade “kill-switch” - Euronews.com",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHBIVUJVUy1WX2c0dm5wZjhYWERMOU1GcGY5VDJvR1h4VlFvWGJDdzRyQVdEYzFaNEZqbERsb0VrN3FWQU9nVkhOSFdVOHZQaEN3ck05U2FuSzUtMUFtYUVwa2Q4VFh3UUNjZWVyUTc1UC02RTF6dUxHeGxURjBmc29EQWJZdjZXbnhmcXR5LUhnZk5HbktPdkUwdzFaUnJOTkp1My1OT2FuMEFKTWpzZDJ6TEViRUU?oc=5",
    "ts": "Thu, 05 Nov 2026 11:21:01 GMT"
   },
   {
    "src": "gnews",
-   "title": "Why EU-China Trade Relations Have Deteriorated - The National Interest",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeWg4TEtKUGZZR01TQU1PWld4amNpUndGaTdLQkNkM3Fmdm02U01HdkcweFFIaUxrRjFaSWdhMjVUWkVKRDhuTDBtNVNEQlBtUEl5OHZ6bm1rendlODBLYmZ2MGVtN2RaZEFTWm5kMEVVNzdWazBOYkdaNjlEQm4wVklBb3FwNGEwOTlV?oc=5",
-   "ts": "Sat, 07 Nov 2026 13:53:55 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Analysis | Trump’s favorite economic policy was among Tuesday’s biggest losers - The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVW1ybXNFaVdKR3V2UVVoOENIVkNscGpuVHhqZjEtR19zNVVwdFRzOFdBM1Vhc3dKcTVkZTRRUWJ2RUpUYnk4eUctZndfbzh2cDhLZlJIel92b3dTeFF4Wi0xOVZRSnVjNndUWk51XzZ1cWVJVlJfRml4NGVIV1FpTA?oc=5",
    "ts": "Thu, 05 Nov 2026 18:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Why EU-China Trade Relations Have Deteriorated - The National Interest",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeWg4TEtKUGZZR01TQU1PWld4amNpUndGaTdLQkNkM3Fmdm02U01HdkcweFFIaUxrRjFaSWdhMjVUWkVKRDhuTDBtNVNEQlBtUEl5OHZ6bm1rendlODBLYmZ2MGVtN2RaZEFTWm5kMEVVNzdWazBOYkdaNjlEQm4wVklBb3FwNGEwOTlV?oc=5",
+   "ts": "Sat, 07 Nov 2026 13:53:55 GMT"
   },
   {
    "src": "gnews",
@@ -422,12 +428,6 @@
    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
    "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump and U.S. Congress set to clash over economic costs of tariffs - The Japan Times",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa2h1UWRiWll1OUFPMG55Y0lyU05xNjdhSGd0WERvZDBXM2czLXAyM2x4LWxDN05KQ0ZxbFZ0MlN5R3ZjOVRuN2IyNXU5VDEwTXVlZWtocUdfWjV5RVkwUWs2OFR6T3doT1BEelRNU1RIUUNqMmE0eFVBd2hIdC1tUGVUOE1hY3ZHdTUxOFhkQQ?oc=5",
-   "ts": "Fri, 06 Nov 2026 23:37:00 GMT"
   },
   {
    "src": "gnews",

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-08T08:15:17Z",
+ "ts": "2026-11-08T08:30:21Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -365,15 +365,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump’s trade chief pushing him to step up negotiations with Canada - Politico",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUY3c1JIclBSa09VTXM3UlJiMWtrUkxUdFJoRTV6Zl9ZZGJQcUlCTFppQm9ESWhrcGVfTWRHdy1SSkU4U2ktY2ZiMEtWNnBiWkhDQmVuajlhTlFDa3NJM0dESGNTeWdPbmNMWTBxV2swVkhLbV9QdFdhUWhORl9Ca2NHUFlxNEFFamRWNzhQRlJEdFNadkd5M1RQMTM?oc=5",
-   "ts": "Tue, 03 Nov 2026 23:55:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYy1vdWUwVXRwOE5ZT180NmxHZ0JocXpNaEpYQWNmYmh4dXBrN1Q0SFBpYkMtXzRJSFQ4WkNKbUI5Z1VCS25kRVZpSDJaSTlEY1FsVlNkZTUxSG1jclhnNDlaZnNWMTdLWG9QQmdLZjhWOElZNDVGeVlYdFA0TVVvUW51ZFk?oc=5",
    "ts": "Fri, 06 Nov 2026 17:20:21 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump’s trade chief pushing him to step up negotiations with Canada - Politico",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUY3c1JIclBSa09VTXM3UlJiMWtrUkxUdFJoRTV6Zl9ZZGJQcUlCTFppQm9ESWhrcGVfTWRHdy1SSkU4U2ktY2ZiMEtWNnBiWkhDQmVuajlhTlFDa3NJM0dESGNTeWdPbmNMWTBxV2swVkhLbV9QdFdhUWhORl9Ca2NHUFlxNEFFamRWNzhQRlJEdFNadkd5M1RQMTM?oc=5",
+   "ts": "Tue, 03 Nov 2026 23:55:00 GMT"
   },
   {
    "src": "gnews",
@@ -419,15 +419,15 @@
   },
   {
    "src": "gnews",
-   "title": "America’s Rebuke of Trump Won’t Swiftly Restore Canada-U.S. Harmony - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQREc2OG91NmNrb3hPR3U0VGkzYWFob0E5MHNZMVZHSVY0eDhjZnVyNmJYVTR6ZlRlNmhZSzduMmlXVnRxOFNtTGtJQmUxVnVBeklYekJzWWdyRjhaZTdSMTNsVkxEd0FxaHN5RnRUd0NPM3FTTlc2aDhnekJJQUJaVlZiQUpNQmd3R24xZ1d4QzRNQzNCNFVVY25oMDhfUXA4eGhzdmhB?oc=5",
-   "ts": "Sat, 07 Nov 2026 11:00:07 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China threatens retaliation as EU mulls trade “kill-switch” - Euronews.com",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHBIVUJVUy1WX2c0dm5wZjhYWERMOU1GcGY5VDJvR1h4VlFvWGJDdzRyQVdEYzFaNEZqbERsb0VrN3FWQU9nVkhOSFdVOHZQaEN3ck05U2FuSzUtMUFtYUVwa2Q4VFh3UUNjZWVyUTc1UC02RTF6dUxHeGxURjBmc29EQWJZdjZXbnhmcXR5LUhnZk5HbktPdkUwdzFaUnJOTkp1My1OT2FuMEFKTWpzZDJ6TEViRUU?oc=5",
    "ts": "Thu, 05 Nov 2026 11:21:01 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "America’s Rebuke of Trump Won’t Swiftly Restore Canada-U.S. Harmony - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQREc2OG91NmNrb3hPR3U0VGkzYWFob0E5MHNZMVZHSVY0eDhjZnVyNmJYVTR6ZlRlNmhZSzduMmlXVnRxOFNtTGtJQmUxVnVBeklYekJzWWdyRjhaZTdSMTNsVkxEd0FxaHN5RnRUd0NPM3FTTlc2aDhnekJJQUJaVlZiQUpNQmd3R24xZ1d4QzRNQzNCNFVVY25oMDhfUXA4eGhzdmhB?oc=5",
+   "ts": "Sat, 07 Nov 2026 11:00:07 GMT"
   },
   {
    "src": "gnews",

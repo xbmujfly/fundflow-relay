@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-08T05:45:18Z",
+ "ts": "2026-11-08T06:00:20Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -413,21 +413,27 @@
   },
   {
    "src": "gnews",
-   "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
-   "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Analysis | Trump’s favorite economic policy was among Tuesday’s biggest losers - The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVW1ybXNFaVdKR3V2UVVoOENIVkNscGpuVHhqZjEtR19zNVVwdFRzOFdBM1Vhc3dKcTVkZTRRUWJ2RUpUYnk4eUctZndfbzh2cDhLZlJIel92b3dTeFF4Wi0xOVZRSnVjNndUWk51XzZ1cWVJVlJfRml4NGVIV1FpTA?oc=5",
    "ts": "Thu, 05 Nov 2026 18:00:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Cambodia hails China's import expo as key platform for open trade, global cooperation - China Daily",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jQWJXaU9OUXRQY2hPQWZhaHFia3NrNHhBZTREQTVZMlNzbmJWa3dkTVBBR3daN3ZZMEVtQ3NmS3hqR19ORTV4ZG9jNEZrbXBfdzNqdWg3M2FYZHk4aFBkbVd6cGU3TTRYYjNZNUU5RGM4RThzQS0xbWJybFRGdw?oc=5",
-   "ts": "Sun, 08 Nov 2026 01:26:21 GMT"
+   "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
+   "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China threatens retaliation as EU mulls trade “kill-switch” - Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHBIVUJVUy1WX2c0dm5wZjhYWERMOU1GcGY5VDJvR1h4VlFvWGJDdzRyQVdEYzFaNEZqbERsb0VrN3FWQU9nVkhOSFdVOHZQaEN3ck05U2FuSzUtMUFtYUVwa2Q4VFh3UUNjZWVyUTc1UC02RTF6dUxHeGxURjBmc29EQWJZdjZXbnhmcXR5LUhnZk5HbktPdkUwdzFaUnJOTkp1My1OT2FuMEFKTWpzZDJ6TEViRUU?oc=5",
+   "ts": "Thu, 05 Nov 2026 11:21:01 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnlsdF9sNDNwY0VTbjBVa1QwUmFYZXJQUWhfcEdtSF9NUWFlNS1KOTh5RW1EcXQ3NUpsVnFVazZsSmRBZ01pUkRkVFRRTXlvWkcxUjFzYVlMa2d3YmZqaWs0dXBzLTBWNE5MZ19wWW1LQldvbFJSNUM4MzBnUUZsYVlDczRmLWI3UnZ2WTFxT1VwWkFWZHBUdXYyUWlZeE9XSWVxTDhSSmxyUktGb0dIaXMyUnJqdw?oc=5",
+   "ts": "Fri, 06 Nov 2026 20:37:40 GMT"
   },
   {
    "src": "gnews",
@@ -440,12 +446,6 @@
    "title": "US buyers at China’s largest trade fair soar over 20% after Xi-Trump meeting - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeThpaGNjUmZPTjZKZGpaZnRhVWxqZzkxa0NYdVMyTEJGdGZYOXZITmJKNlNyZk1lSmlncm0tUFFtdHZ1N2M5OEZWc3lwMHJNU1dlNHVYcGtmZ1VwQWFMUHNiWE1ZQU5RdEx2SmxabldETDNqa2ZRc3Bxa0RWeDRZYzAxZnp3TkYtYW9iYXVQZkkwRTAzZ2VLZEhJb3BjVFVsS3VBcmU2YzFsRFJTZ2VNOW1HaVB0TnZhOXF2ZkMxTWRjWi0xdklFOUN30gHKAUFVX3lxTFBZckNVZ3hVd2RnTGtHV00tOHdrLVRVbWFFMzMyQ0ZPNW5MaGtKV20zWVo3R0RNZVZzLTBVVENORjI3akJabjBOMTJTc3hGcHpSQktWYnlFY1p5Y3htMi1CSjVkcFhKSnBQb2RGanJuU0ZUeE1ZYURFS3BQc05mNG9XOGNEdW5XV1BoVTZETlpwSjNHbHpteGduSVJGbjNqbUY5TGpQZmtoOXhzS2Y4V1hEZ0F0RDh5aXFZdEFxRlYwMkVuWkJCT09nZEE?oc=5",
    "ts": "Sat, 07 Nov 2026 10:00:06 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnlsdF9sNDNwY0VTbjBVa1QwUmFYZXJQUWhfcEdtSF9NUWFlNS1KOTh5RW1EcXQ3NUpsVnFVazZsSmRBZ01pUkRkVFRRTXlvWkcxUjFzYVlMa2d3YmZqaWs0dXBzLTBWNE5MZ19wWW1LQldvbFJSNUM4MzBnUUZsYVlDczRmLWI3UnZ2WTFxT1VwWkFWZHBUdXYyUWlZeE9XSWVxTDhSSmxyUktGb0dIaXMyUnJqdw?oc=5",
-   "ts": "Fri, 06 Nov 2026 20:37:40 GMT"
   },
   {
    "src": "gnews",

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-08T23:00:22Z",
+ "ts": "2026-11-08T23:15:18Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -457,126 +458,6 @@
    "title": "Trump's political humbling signals short-term gain, long-term pain for China - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVBkVEFRMUNIQ0xmQVZXR1lLZmJBeVJiMXJMalZKLTRCaG00cmhCWjVKQjZmUUh3ajlGY3hjejlwRm40M1BNVXlwWFJjcXU0Um40QVNQY1BjNEZFbGF0RUdvamZYNlBCelY2UFBuOHVzU2pRYWk5RXRPbjU5QkdwcUo2cXhKU2JqMy01ZHpoQk5MbTg2a19rdXRCR1JLeFI2RzJMNDNtMm9LelZOWS1vaVpyNG5GS2pManc?oc=5",
    "ts": "Thu, 05 Nov 2026 12:53:07 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda | National",
-   "url": "http://www.thedailytimes.com/ap/national/democrats-plan-to-push-clean-energy-to-lower-bills-and-challenge-trump-s-fossil-fuel/article_87dbe6de-c3b2-54d7-90a3-b5297add1bff.html",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Трамп потребовал от Нетаниягу начать реализацию плана по Газе , не дожидаясь нового правительства",
-   "url": "https://www.newsru.co.il/israel/8nov2026/trump_0014.html",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Another aircraft carrier arrived in Norway , as did a new US ambassador | Norway News in English www . newsinenglish . no",
-   "url": "https://www.newsinenglish.no/2026/11/08/another-aircraft-carrier-arrived-in-norway-as-did-a-new-us-ambassador/",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " / Foto / Planinari iz Hrvatske i inozemstva pohodili Kutjevo i uživali u vinskoj tradiciji",
-   "url": "https://www.glas-slavonije.hr/regija/2026/11/08/martinje-u-kutjevu-vise-od-80-planinarskih-drustava-i-slavonsko-gostoprimstvo-796646/",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Jeffries Supports Impeachment Of Defense Secretary Hegseth",
-   "url": "https://wiba.iheart.com/content/2026-11-08-jeffries-supports-impeachment-of-defense-secretary-hegseth/",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "GOP civil war ignites in Arizona as Meghan McCain takes on Kirk Turning Point group",
-   "url": "https://www.rawstory.com/meghan-mccain-2678334643/",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Europe to join U . S .- brokered Ukraine talks in Abu Dhabi , defying Kremlin objections",
-   "url": "https://www.wuft.org/2026-11-08/europe-to-join-u-s-brokered-ukraine-talks-in-abu-dhabi-defying-kremlin-objections",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Houston to limit ICE cooperation after Democrats take power in Texas",
-   "url": "https://www.kristv.com/news/texas-news/houston-will-limit-ice-cooperation-in-response-to-democrats-taking-power-in-texas-mayor-says",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Fox News pundit exposes how her colleagues are lying to viewers",
-   "url": "https://www.alternet.org/fox-news-midterms-jessica-tarlov/",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Τραμπ για Ιράν : « Εξαιρετικά απίθανα » νέα πλήγματα , αλλά « είμαστε έτοιμοι » ",
-   "url": "https://www.kathimerini.gr/world/564576265/tramp-gia-iran-exairetika-apithana-nea-pligmata-alla-eimaste-etoimoi/",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Sunday Edition : Behind the Blue Wave",
-   "url": "https://www.whqr.org/local/2026-11-08/sunday-edition-behind-the-blue-wave",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Princess Anne praises SA agricultural industry in whistle - stop visit to Cape",
-   "url": "https://www.dailymaverick.co.za/article/2026-11-08-princess-anne-praises-sas-agricultural-industry-in-whistle-stop-visit-to-cape/",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "98º Encoge encerra edio com propostas para fortalecer o Judiciário",
-   "url": "https://tribunahoje.com/noticias/cidades/2026/11/08/198313-98o-encoge-encerra-edicao-com-propostas-para-fortalecer-o-judiciario",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "LIVE De Wever trekt begrotingsonderhandelingen morgen opnieuw op gang , Zuhal Demir en Bill White in de clinch",
-   "url": "https://www.vrt.be/vrtnws/nl/liveblog/de-wever-trekt-begrotingsonderhandelingen-morgen-opnieuw-op-gang~1793247532380/",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Dana White to visit White House after Trump offers him press secretary role",
-   "url": "https://www.wxii12.com/article/ufc-ceo-dana-white-press-secretary-offer/74367833",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ιράν : Η Τεχεράνη δηλώνει ότι οι διαπραγματεύσεις για τον τερματισμό του ... ",
-   "url": "https://www.capital.gr/diethni/4028579/iran-i-texerani-dilonei-oti-oi-diapragmateuseis-gia-ton-termatismo-tou-polemou-exoun-diakopei/",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "U . S . District Court Judge Issues TRO to Prevent Federal Government from Ordering Washington State Election Officials Not to Process 400 Ballots",
-   "url": "https://ballot-access.org/2026/11/08/u-s-district-court-judge-issues-tro-to-prevent-federal-government-from-ordering-washington-state-election-officials-from-processing-400-ballots/",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Europe to join U . S .- brokered Ukraine talks in Abu Dhabi , defying Kremlin objections",
-   "url": "https://www.wncw.org/2026-11-08/europe-to-join-u-s-brokered-ukraine-talks-in-abu-dhabi-defying-kremlin-objections",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Calgary police investigate morning hit - and - run in city northeast",
-   "url": "https://calgarysun.com/news/calgary-police-investigate-morning-hit-and-run-northeast",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "В секторе Газа пять палестинцев погибли при обрушении склона на палатки",
-   "url": "https://ria.ru/20261108/gaza-2130177926.html",
-   "ts": "20261108T210000Z"
   }
  ]
 }

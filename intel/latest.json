@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-08T05:00:21Z",
+ "ts": "2026-11-08T05:15:19Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -430,9 +431,9 @@
   },
   {
    "src": "gnews",
-   "title": "US buyers at China’s largest trade fair soar over 20% after Xi-Trump meeting - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeThpaGNjUmZPTjZKZGpaZnRhVWxqZzkxa0NYdVMyTEJGdGZYOXZITmJKNlNyZk1lSmlncm0tUFFtdHZ1N2M5OEZWc3lwMHJNU1dlNHVYcGtmZ1VwQWFMUHNiWE1ZQU5RdEx2SmxabldETDNqa2ZRc3Bxa0RWeDRZYzAxZnp3TkYtYW9iYXVQZkkwRTAzZ2VLZEhJb3BjVFVsS3VBcmU2YzFsRFJTZ2VNOW1HaVB0TnZhOXF2ZkMxTWRjWi0xdklFOUN30gHKAUFVX3lxTFBZckNVZ3hVd2RnTGtHV00tOHdrLVRVbWFFMzMyQ0ZPNW5MaGtKV20zWVo3R0RNZVZzLTBVVENORjI3akJabjBOMTJTc3hGcHpSQktWYnlFY1p5Y3htMi1CSjVkcFhKSnBQb2RGanJuU0ZUeE1ZYURFS3BQc05mNG9XOGNEdW5XV1BoVTZETlpwSjNHbHpteGduSVJGbjNqbUY5TGpQZmtoOXhzS2Y4V1hEZ0F0RDh5aXFZdEFxRlYwMkVuWkJCT09nZEE?oc=5",
-   "ts": "Sat, 07 Nov 2026 10:00:06 GMT"
+   "title": "US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQODVTbG5PRGFYaVRPT1FGZ2pTTlpVeTNiVExObUFqcFFxUU5uZW9XbzlrVDZ5NEIya2d0REkzTlJPTk5hdF9mQmtHOU1aejBZcnJFY01MN2pUZmxLNUh2YWdPWlFYYjJDbDdHeVZUSlNON2g4M1VwUFZmSVFnem1mMU1jX1FkbFc2eVZhY0FMaHU1bHdGaGxneHpOM21qcmZmYXZ4d2FIdGNLUnJZaWs4N21VTDRUN01OcHNNOXlGU0Q4LU9lNjZvWlFn0gHKAUFVX3lxTE43UmQ4YTNqQ1RQajlMZ3FuY1d2bjd6czBST0cyZExtN1BLT3hIdnl2U0g0SWpXck16RUhPYld4YmV5YmF3dWdDLTlfeXpLVHhmTHN4SE5VSHBraUVaMGpuWm8yeTA0UXVzMi1IYkZ2ZzNQY1E4OVRBeGRVTEMyN19nSVlobUc4cXI5VW5oTU43OC05UHNwb2w2anRWNTBNZi11VUNDdWFJSy00VWtmMkpBUExjMTY4SUItbERkVlpOQnY5NUczRWRQcnc?oc=5",
+   "ts": "Fri, 06 Nov 2026 18:34:11 GMT"
   },
   {
    "src": "gnews",
@@ -448,135 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQODVTbG5PRGFYaVRPT1FGZ2pTTlpVeTNiVExObUFqcFFxUU5uZW9XbzlrVDZ5NEIya2d0REkzTlJPTk5hdF9mQmtHOU1aejBZcnJFY01MN2pUZmxLNUh2YWdPWlFYYjJDbDdHeVZUSlNON2g4M1VwUFZmSVFnem1mMU1jX1FkbFc2eVZhY0FMaHU1bHdGaGxneHpOM21qcmZmYXZ4d2FIdGNLUnJZaWs4N21VTDRUN01OcHNNOXlGU0Q4LU9lNjZvWlFn0gHKAUFVX3lxTE43UmQ4YTNqQ1RQajlMZ3FuY1d2bjd6czBST0cyZExtN1BLT3hIdnl2U0g0SWpXck16RUhPYld4YmV5YmF3dWdDLTlfeXpLVHhmTHN4SE5VSHBraUVaMGpuWm8yeTA0UXVzMi1IYkZ2ZzNQY1E4OVRBeGRVTEMyN19nSVlobUc4cXI5VW5oTU43OC05UHNwb2w2anRWNTBNZi11VUNDdWFJSy00VWtmMkpBUExjMTY4SUItbERkVlpOQnY5NUczRWRQcnc?oc=5",
-   "ts": "Fri, 06 Nov 2026 18:34:11 GMT"
+   "title": "US buyers at China’s largest trade fair soar over 20% after Xi-Trump meeting - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeThpaGNjUmZPTjZKZGpaZnRhVWxqZzkxa0NYdVMyTEJGdGZYOXZITmJKNlNyZk1lSmlncm0tUFFtdHZ1N2M5OEZWc3lwMHJNU1dlNHVYcGtmZ1VwQWFMUHNiWE1ZQU5RdEx2SmxabldETDNqa2ZRc3Bxa0RWeDRZYzAxZnp3TkYtYW9iYXVQZkkwRTAzZ2VLZEhJb3BjVFVsS3VBcmU2YzFsRFJTZ2VNOW1HaVB0TnZhOXF2ZkMxTWRjWi0xdklFOUN30gHKAUFVX3lxTFBZckNVZ3hVd2RnTGtHV00tOHdrLVRVbWFFMzMyQ0ZPNW5MaGtKV20zWVo3R0RNZVZzLTBVVENORjI3akJabjBOMTJTc3hGcHpSQktWYnlFY1p5Y3htMi1CSjVkcFhKSnBQb2RGanJuU0ZUeE1ZYURFS3BQc05mNG9XOGNEdW5XV1BoVTZETlpwSjNHbHpteGduSVJGbjNqbUY5TGpQZmtoOXhzS2Y4V1hEZ0F0RDh5aXFZdEFxRlYwMkVuWkJCT09nZEE?oc=5",
+   "ts": "Sat, 07 Nov 2026 10:00:06 GMT"
   },
   {
    "src": "gnews",
    "title": "Opinion | China-Swiss trade partnership offers a model amid fraught EU ties - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSGluWEprUmJ2Njhoazc3VGJjMXZxT0hrWG1YYWRDQXhpeU0zTlRoSG4zRVdQOHhKa2pYS2JVUjN2NUJ5c01EeVlUQkgtakNCQUpMNVlCelJnSER6OExSaEtVSWVVVUNUX1JwanYxZXBVZ1o1ZWoyNExqS3Rza1V2SjQyZXd3aldHTUJDZVl5bHJyTzBiTDNyaTFUUzI1VmFRZnZSaVZnaHV3dzZWelJSUUxmLWFfbGRZaUtJUUtBai16dnB2eWE40gHHAUFVX3lxTE1MM2hVUUwtM05uNnpQNi1qQ3Nxb2lrVmJwclFxY0hyTzhhWmwzUUJuSzg4UkxVUWp4TGw3SDVkd0M5M29WNG9yckxHNzA1eWVhSjNPMzZxYXJVWUNqY3Y5dlhtRnBxQ3cwbGNERFljMkJWd1N3VkJFY01DajZYaEM3T2E2MVhyVG9QQVZuQWxmemMxWFhVdjcxOTlEc3RmcWN2ZWdMa3BhZnZSdmVtSkFza1NfWkkzYU1iMXZKaFJtZEc0bzdlZW8?oc=5",
    "ts": "Sat, 07 Nov 2026 12:30:05 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "newsroomamerica . com",
-   "url": "https://newsroomamerica.com/?before=120465",
-   "ts": "20261108T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Oil tumbles as US midterm results raise hopes of Iran peace deal",
-   "url": "http://www.theusnews.com/news/279411615/oil-tumbles-as-us-midterm-results-raise-hopes-of-iran-peace-deal",
-   "ts": "20261108T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  황금 같은 기회 … 트럼프 , 민주당 AI 데이터센터 규제에 정면 대응",
-   "url": "https://www.fnnews.com/news/202611080808131994",
-   "ts": "20261108T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " [ 美선거 산업여파 ] ② 자동차 관세 부담 지속될 듯 … 전기차는 기대",
-   "url": "https://www.fnnews.com/news/202611080532096016",
-   "ts": "20261108T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "글로벌 증시 급락에 상장지수펀드 순자산 400조원 깨졌다",
-   "url": "https://www.fnnews.com/news/202611080605462805",
-   "ts": "20261108T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Tag : health _ care _ facilities",
-   "url": "https://newsroomamerica.com/tag/health_care_facilities",
-   "ts": "20261108T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump orders DOJ probe into Democrats over alleged threats against admin officials",
-   "url": "https://www.fox7austin.com/news/trump-orders-doj-probe-democrats-over-alleged-threats-against-admin-officials",
-   "ts": "20261108T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Работа пресс - секретаря Трамп предлагает должность Дане Уайту",
-   "url": "https://focus.ua/world/773965-rabota-press-sekretarya-tramp-predlagaet-dolzhnost-dane-uaytu",
-   "ts": "20261108T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Oil tumbles as US midterm results raise hopes of Iran peace deal",
-   "url": "http://www.coloradostar.com/news/279411615/oil-tumbles-as-us-midterm-results-raise-hopes-of-iran-peace-deal",
-   "ts": "20261108T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Taiwan seeks progress on stalled $14 billion US arms deal",
-   "url": "http://www.dallassun.com/news/279414927/taiwan-seeks-progress-on-stalled-usd14-billion-us-arms-deal",
-   "ts": "20261108T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Oil tumbles as US midterm results raise hopes of Iran peace deal",
-   "url": "http://www.sierraleonetimes.com/news/279411615/oil-tumbles-as-us-midterm-results-raise-hopes-of-iran-peace-deal",
-   "ts": "20261108T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump orders DOJ probe into Democrats over alleged threats against admin officials",
-   "url": "https://www.fox5dc.com/news/trump-orders-doj-probe-democrats-over-alleged-threats-against-admin-officials",
-   "ts": "20261108T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Drone and missile attacks wound 9 in Ukraine",
-   "url": "https://www.mercurynews.com/2026/11/07/drone-and-missile-attacks-wound-9-as-ukraine-prepares-for-talks-with-russia-and-the-us/",
-   "ts": "20261108T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Sen . Ron Johnson Moves to Postpone Senate Leadership Elections",
-   "url": "https://wcbm.com/national-headline/sen-ron-johnson-moves-to-postpone-senate-leadership-elections/",
-   "ts": "20261108T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "اشتباكات عنيفة بين الشرطة ومحتجين في ألبانيا - بوابة الشروق",
-   "url": "https://www.shorouknews.com/news/view.aspx?cdate=08112026&id=0f61d9e0-3388-4956-bc84-e3b8d1e4bf12",
-   "ts": "20261108T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Legal Fights &  Extinction Fear : Shannon Bream on the Midterm Fallout",
-   "url": "https://radio.foxnews.com/2026/11/07/legal-fights-extinction-fears-shannon-bream-on-the-midterm-fallout/",
-   "ts": "20261108T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says he asked UFC Dana White to be his press secretary",
-   "url": "https://www.mercurynews.com/2026/11/07/trump-says-hes-asked-ufcs-dana-white-to-be-his-press-secretary-no-one-will-say-if-hes-joking/",
-   "ts": "20261108T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Oil tumbles as US midterm results raise hopes of Iran peace deal",
-   "url": "http://www.haitisun.com/news/279411615/oil-tumbles-as-us-midterm-results-raise-hopes-of-iran-peace-deal",
-   "ts": "20261108T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Column | Le Pen als Franse Trump wordt erg gecompliceerd",
-   "url": "https://www.nrc.nl/nieuws/2026/11/06/le-pen-als-franse-trump-wordt-erg-gecompliceerd-a4940626",
-   "ts": "20261108T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "دانا وايت يرفض عرض ترامب لتولي منصب المتحدث باسم البيت الأبيض – قناة المنار",
-   "url": "https://www.almanar.com.lb/article/1333172/",
-   "ts": "20261108T000000Z"
   }
  ]
 }

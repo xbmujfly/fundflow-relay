@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-08T13:45:20Z",
+ "ts": "2026-11-08T14:00:22Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -371,9 +370,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump’s trade chief pushing him to step up negotiations with Canada - Politico",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUY3c1JIclBSa09VTXM3UlJiMWtrUkxUdFJoRTV6Zl9ZZGJQcUlCTFppQm9ESWhrcGVfTWRHdy1SSkU4U2ktY2ZiMEtWNnBiWkhDQmVuajlhTlFDa3NJM0dESGNTeWdPbmNMWTBxV2swVkhLbV9QdFdhUWhORl9Ca2NHUFlxNEFFamRWNzhQRlJEdFNadkd5M1RQMTM?oc=5",
-   "ts": "Tue, 03 Nov 2026 23:55:00 GMT"
+   "title": "How Canada Inflicted Maximum Midterms Pain on Trump - Politico",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeXJXbDVQZnhtc1Vva2NDUTB3VHotRDFjUzk4QzZIX3pqYU1hdDhKYklUZDJDM2xYU3hqMXZMRlphQXo1dXYyTGZIaGYtNWpYMFg1a25PQTA0UzhES2ZQRERLRFNId1RhRE5lVXJYSFA3V1pKaEJvSXFXYmMwaUFuRENBRjd3NFBKWG9CTmxxd3JqbkNHUkhOUVNmb0hqcFVURUE?oc=5",
+   "ts": "Sun, 08 Nov 2026 12:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -431,9 +430,9 @@
   },
   {
    "src": "gnews",
-   "title": "How Canada Inflicted Maximum Midterms Pain on Trump - Politico",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeXJXbDVQZnhtc1Vva2NDUTB3VHotRDFjUzk4QzZIX3pqYU1hdDhKYklUZDJDM2xYU3hqMXZMRlphQXo1dXYyTGZIaGYtNWpYMFg1a25PQTA0UzhES2ZQRERLRFNId1RhRE5lVXJYSFA3V1pKaEJvSXFXYmMwaUFuRENBRjd3NFBKWG9CTmxxd3JqbkNHUkhOUVNmb0hqcFVURUE?oc=5",
-   "ts": "Sun, 08 Nov 2026 12:00:00 GMT"
+   "title": "Trump’s trade chief pushing him to step up negotiations with Canada - Politico",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUY3c1JIclBSa09VTXM3UlJiMWtrUkxUdFJoRTV6Zl9ZZGJQcUlCTFppQm9ESWhrcGVfTWRHdy1SSkU4U2ktY2ZiMEtWNnBiWkhDQmVuajlhTlFDa3NJM0dESGNTeWdPbmNMWTBxV2swVkhLbV9QdFdhUWhORl9Ca2NHUFlxNEFFamRWNzhQRlJEdFNadkd5M1RQMTM?oc=5",
+   "ts": "Tue, 03 Nov 2026 23:55:00 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +457,126 @@
    "title": "Why Malaysia may still face trade uncertainty after US midterms - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV0stNl9hWlhtX3htN3ptVEtHSEFybjZZLXJNUWd0TFpaODdOT0FreTRpemFqbXFOSXhwQzIwVDl1dnFSdXl1eEdtUF9NTUpYNDNBcVdkRmNzSW5XV0ZkU0YyZUQyV2ZPdGM1dC10a2JlQUVuWVBwOWJwYTA2VDlzZktTbzlENUYtZFFXazlSbnJIVDJqc1VDcUdmTm1vMjUzaGxfZjZkeTRTMEFLLVpxYXJaaTc3ZEpELUpTWNIBvAFBVV95cUxPdmVUNS1fSW9OUFU3X0lJZWgzcXBfZGxjSXVaREI0R1hwZlRqejF1VmpuUXBlVmpQRnA3RTJuQ3lYVmZOUnE0TEswbVlwekE2a2pwaXYwM3hYaHlkeTJiYWRTU3BMY3RuVVhnMU54M3VBNldfa3A0VWl3ZjNMSDV3angyb3F6Zy1uLTFnNlVUTUNBd2RJTTViMFJ1U3dDTWRCc2RKTWxpeUNraUVZSmxPSm1keWtLTjZGSzI1cA?oc=5",
    "ts": "Fri, 06 Nov 2026 09:00:26 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "بن‌بست انتخابات اسرائیل ؛ حالا چه می‌شود ؟ - خبرگزاری خامه پرس",
+   "url": "https://www.khaama.com/persian/archives/176656",
+   "ts": "20261108T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Huhumylly pyörii : lankesiko yksi maailman rikkaimmista miehistä Kiinan hunaja - ansaan ? ",
+   "url": "https://www.ksml.fi/uutissuomalainen/9936913",
+   "ts": "20261108T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Влияние победы демократов в США на войну с Ираном : мнения СМИ",
+   "url": "https://www.kommersant.ru/doc/9092163",
+   "ts": "20261108T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Explosions Reported In Southern Iran",
+   "url": "http://www.massachusettssun.com/news/279419559/explosions-reported-in-southern-iran",
+   "ts": "20261108T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Datoriile anulează 24 de trenuri ale Regio Călători . Buzoienii vor fi afectați",
+   "url": "https://opiniabuzau.ro/datoriile-anuleaza-24-de-trenuri-ale-regio-calatori-buzoienii-vor-fi-afectati/",
+   "ts": "20261108T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Zonguldakta park halindeki otomobil yanarak hurdaya döndü | Mersin Haber",
+   "url": "https://www.mersinhaber.com/haber-zonguldakta-park-halindeki-otomobil-yanarak-hurdaya-dondu/840772",
+   "ts": "20261108T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "How Gen Z voters helped fuel a blue wave for Democrats",
+   "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-6032829/how-gen-z-voters-helped-fuel-a-blue-wave-for-democrats",
+   "ts": "20261108T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses investigation reveals businesses have ties to sanctioned Chinese military suppliers",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-have-empty-offices-and-unknown-addresses-investigation-reveals-businesses-have-ties-to-sanctioned-chinese-military-suppliers",
+   "ts": "20261108T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "TURİSTİK DOĞU EKSPRESİ BİLET FİYATLARI 2026 - 2027 : Ankara - Kars seferleri ne zaman başlıyor , biletler kaç TL ? ",
+   "url": "https://www.haberturk.com/bilgi/foto/turi-sti-k-dogu-ekspresi-bi-let-fi-yatlari-2026-2027-ankara-kars-seferleri-ne-zaman-basliyor-biletler-kac-tl-3925797",
+   "ts": "20261108T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "WP : Голоса мужчин обеспечили демократам победу на выборах в США :: Новости дня / ВЗГЛЯД",
+   "url": "https://vz.ru/news/2026/11/8/1473735.html",
+   "ts": "20261108T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Cruzeiro vai movimentar Outeiro e trazer turistas a Belém",
+   "url": "https://dol.com.br/colunistas/mauro-bonna/967714/cruzeiro-vai-movimentar-outeiro-e-trazer-turistas-a-belem",
+   "ts": "20261108T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "США нацелились на маршруты Ирана через Каспий : удар по судну и новые взрывы в Ормузском проливе",
+   "url": "https://azh.kz/ru/news/view/134223",
+   "ts": "20261108T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Voters demanded economic relief . Trump and Democrats face tough choices on how to deliver",
+   "url": "https://www.news4jax.com/news/politics/2026/11/08/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver/",
+   "ts": "20261108T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Трамп после выборов может показать инопланетянина",
+   "url": "https://life.ru/p/tramp-posle-vyborov-mozhet-pokazat-inoplanetyanina",
+   "ts": "20261108T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ситуация в Олешках , конец перемирия – интервью с Зариной Забрыски",
+   "url": "https://24tv.ua/ru/situacija-v-oleshkah-konec-peremirija-intervju-s-zarinoj-zabryski_n3176176",
+   "ts": "20261108T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Steven Roberts : Subpoenas and Judges",
+   "url": "https://www.havasunews.com/opinion/steven-roberts-subpoenas-and-judges/article_66a6e43b-9b8b-4ab0-86e8-daf887477fa7.html",
+   "ts": "20261108T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Gov . Shapiro endorsed candidates racked up pivotal wins across the state and he claiming a key role – The Morning Call",
+   "url": "https://www.mcall.com/2026/11/08/gov-shapiros-endorsed-candidates-racked-up-pivotal-wins-across-the-state-and-hes-claiming-a-key-role-2/",
+   "ts": "20261108T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Демократи в Конгресі США готують пакет допомоги Україні на $15 мільярдів",
+   "url": "https://mig.com.ua/demokraty-v-konhresi-ssha-hotuiut-paket-dopomohy-ukraini-na-15-miliardiv/",
+   "ts": "20261108T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Voters demanded economic relief . Trump and Democrats face tough choices on how to deliver",
+   "url": "https://www.kxl.com/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver/",
+   "ts": "20261108T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "California fifth consecutive Catholic governor exemplifies the faith deep roots",
+   "url": "https://www.news4jax.com/news/politics/2026/11/08/californias-fifth-consecutive-catholic-governor-exemplifies-the-faiths-deep-roots/",
+   "ts": "20261108T133000Z"
   }
  ]
 }

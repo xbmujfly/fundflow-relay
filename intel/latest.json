@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-08T15:45:22Z",
+ "ts": "2026-11-08T23:00:22Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -341,21 +340,27 @@
   },
   {
    "src": "gnews",
-   "title": "Bessent, Greer Raise Concerns on China Trade Deal Actions - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUThIM0tOMDlPV2h4TURPZHZyVlJjUGRLWlZOV21nb3gwS3RON3RQdk1PZUFNOTVpZ2k0VG4tQ0xyWWd1R0JrZzV2MVhwS3B6dzY0eGtkbWxXajRreGpIRlZWUXVkc2haWVVsaXNZaUwzYWdmaU8tS21KS1ZaRlVZT3dNanpJamNZRURtOVRibHFpMERibTF0OGNwQnFkWENSVXJScXpJclFuamc?oc=5",
-   "ts": "Sat, 07 Nov 2026 01:33:00 GMT"
+   "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting - DW.com",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
+   "ts": "Sun, 08 Nov 2026 01:47:07 GMT"
   },
   {
    "src": "gnews",
-   "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting - DW.com",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
-   "ts": "Sat, 07 Nov 2026 12:22:01 GMT"
+   "title": "Bessent, Greer Raise Concerns on China Trade Deal Actions - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUThIM0tOMDlPV2h4TURPZHZyVlJjUGRLWlZOV21nb3gwS3RON3RQdk1PZUFNOTVpZ2k0VG4tQ0xyWWd1R0JrZzV2MVhwS3B6dzY0eGtkbWxXajRreGpIRlZWUXVkc2haWVVsaXNZaUwzYWdmaU8tS21KS1ZaRlVZT3dNanpJamNZRURtOVRibHFpMERibTF0OGNwQnFkWENSVXJScXpJclFuamc?oc=5",
+   "ts": "Sat, 07 Nov 2026 01:33:00 GMT"
   },
   {
    "src": "gnews",
    "title": "US urges China to meet rare earths, agriculture commitments ahead of Trump-Xi meetings - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY1NQbGhDdzBnZUVPRWxZMzdCdlUxcTdxTlhaVXYwclNRTm92UXdGanlUVmpxQUczWFItME5kaWp3NWFKVDZUWW5GVlowUnFrYktvOEdvYTNlclhVRUQxbWlia18zQW1RRzhJMlhoRjE3b2xIdlllYXZCSm5BUTR1SFdudTNfS0ZRWUtjenNLS0NwOUMyN0gtb3JkX0NQaE1EdjluMkI3aFhscEplOWVXM0FIZTI4N3IxV3pLWGhsNUZLUQ?oc=5",
    "ts": "Fri, 06 Nov 2026 17:53:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Quo vadis: EU-China trade relations – from de-risking to technical fixes - Pekingnology",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94VGJ1MWFOQ2JUekp2eGY1Mmd1SVBBS3Y1Vk9JNTVld2JwejZybENQaVhwMDhpelZsWTBrWVJTZW5LRldETWJjWXFoMzdXTGhiRzFXdER6cXBwRkxnZzBQbnZCb29VaEstaHluOWQtSncyNWM?oc=5",
+   "ts": "Sun, 08 Nov 2026 21:54:18 GMT"
   },
   {
    "src": "gnews",
@@ -383,9 +388,9 @@
   },
   {
    "src": "gnews",
-   "title": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump’s Canada Tariffs - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVhNeS1XX0xDd1ZkN3JZMkdWcUJkaFhONTBWSmprcWxkRVpqbU02QUQxWnRVRXdlTHBzaVJNMENWaE5HaFcyU2pCVDl3SkpXV3Y4UTlEMzM4STJFc3FGVVByUW1xUHh1QWlqOWx2bHBKQTZxb09zSDQtMklkRFpsRENDbWRiNzg3dzlwMnVqbVpLQkhRVWwwT0F6UUxFODdybWFqekNqUVhrcEZKNzZz?oc=5",
-   "ts": "Fri, 06 Nov 2026 02:00:00 GMT"
+   "title": "Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles - FreightWaves",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGh6VTh3aDhXRmw4S1NkQ3ZtbEJ4YU5mdWthalVqdk44bW02VzhDWDV4NmpMWGhpX3JxaE1xV3NtWnF1aXBsN3ZsQTVNN0ZGNXYyZk41Q01Nc0JRMEtpMFdDeGtwVjNYVFZJMTJTalpzaGYwWjdNWFdINGNaQXItYkV0N0RLTHZ0VWFFVTREdGlDRlQyYlZtX3NoVWJRc0M1VXZpd01mcEo2MkRsbGdj?oc=5",
+   "ts": "Sun, 08 Nov 2026 12:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -395,21 +400,27 @@
   },
   {
    "src": "gnews",
+   "title": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump’s Canada Tariffs - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVhNeS1XX0xDd1ZkN3JZMkdWcUJkaFhONTBWSmprcWxkRVpqbU02QUQxWnRVRXdlTHBzaVJNMENWaE5HaFcyU2pCVDl3SkpXV3Y4UTlEMzM4STJFc3FGVVByUW1xUHh1QWlqOWx2bHBKQTZxb09zSDQtMklkRFpsRENDbWRiNzg3dzlwMnVqbVpLQkhRVWwwT0F6UUxFODdybWFqekNqUVhrcEZKNzZz?oc=5",
+   "ts": "Fri, 06 Nov 2026 02:00:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
    "ts": "Thu, 29 Oct 2026 07:00:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles - FreightWaves",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGh6VTh3aDhXRmw4S1NkQ3ZtbEJ4YU5mdWthalVqdk44bW02VzhDWDV4NmpMWGhpX3JxaE1xV3NtWnF1aXBsN3ZsQTVNN0ZGNXYyZk41Q01Nc0JRMEtpMFdDeGtwVjNYVFZJMTJTalpzaGYwWjdNWFdINGNaQXItYkV0N0RLTHZ0VWFFVTREdGlDRlQyYlZtX3NoVWJRc0M1VXZpd01mcEo2MkRsbGdj?oc=5",
-   "ts": "Sun, 08 Nov 2026 12:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQODVTbG5PRGFYaVRPT1FGZ2pTTlpVeTNiVExObUFqcFFxUU5uZW9XbzlrVDZ5NEIya2d0REkzTlJPTk5hdF9mQmtHOU1aejBZcnJFY01MN2pUZmxLNUh2YWdPWlFYYjJDbDdHeVZUSlNON2g4M1VwUFZmSVFnem1mMU1jX1FkbFc2eVZhY0FMaHU1bHdGaGxneHpOM21qcmZmYXZ4d2FIdGNLUnJZaWs4N21VTDRUN01OcHNNOXlGU0Q4LU9lNjZvWlFn0gHKAUFVX3lxTE43UmQ4YTNqQ1RQajlMZ3FuY1d2bjd6czBST0cyZExtN1BLT3hIdnl2U0g0SWpXck16RUhPYld4YmV5YmF3dWdDLTlfeXpLVHhmTHN4SE5VSHBraUVaMGpuWm8yeTA0UXVzMi1IYkZ2ZzNQY1E4OVRBeGRVTEMyN19nSVlobUc4cXI5VW5oTU43OC05UHNwb2w2anRWNTBNZi11VUNDdWFJSy00VWtmMkpBUExjMTY4SUItbERkVlpOQnY5NUczRWRQcnc?oc=5",
    "ts": "Fri, 06 Nov 2026 18:34:11 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Democrats take aim at Trump’s tariffs, but a rollback faces a veto wall - Firstpost",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQnduekJNTXNkR29DYl9OYWhMc1hUVkdwN0F2Tk1NcUVjXzJFMU1QQ1QzTi1rWmFwVVNDR1lIOUh0a1FNMXZJSXBYRkd1X1B6U3AwMnJ4UEE1cEd5VTBoTzgwTFJpQlN0SEZrUWpESmxkTE9XSFNhNUlZalZ2b1FoOUVNa2hYUnZaUlpUcUtockJ3OUFIWEVENnJVQXMyR3RzaWpNTEJlS3dkR3ZOQlgxbDRfWTVUaDlvNDZnS3AySGhEQVF2Nk5yNNIBzgFBVV95cUxPdjFHNTVEUUllMGY3M1BhSFdLWk02a0lmS2dRal8xaDBhbUZrcUprblpRdnIyMGowYkRvalRYZE1FV2h2UktiYzc3TG9fSnQxUHRVMW03TnlpazBKM1p1SU9WS0pTSWRNbHVVUEpxd1pPOXhxcF9LcnM2ZXZEdlo2YkpZWngtRkhJa21rZ2xyOHhmR01SZFE3TWpYM2xQNERBeXpBeXNXZGh2akdaS0JmTm1pcDU4N1FESnZ4YWRvOXpTLUFvN1ViOS1QZTMydw?oc=5",
+   "ts": "Sun, 08 Nov 2026 19:14:40 GMT"
   },
   {
    "src": "gnews",
@@ -422,18 +433,6 @@
    "title": "China threatens retaliation as EU mulls trade “kill-switch” - Euronews.com",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHBIVUJVUy1WX2c0dm5wZjhYWERMOU1GcGY5VDJvR1h4VlFvWGJDdzRyQVdEYzFaNEZqbERsb0VrN3FWQU9nVkhOSFdVOHZQaEN3ck05U2FuSzUtMUFtYUVwa2Q4VFh3UUNjZWVyUTc1UC02RTF6dUxHeGxURjBmc29EQWJZdjZXbnhmcXR5LUhnZk5HbktPdkUwdzFaUnJOTkp1My1OT2FuMEFKTWpzZDJ6TEViRUU?oc=5",
    "ts": "Thu, 05 Nov 2026 11:21:01 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s Push to Expand Yuan Use in Africa: Strategy, Trade and Financial Influence - Modern Diplomacy",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNzRZSllzNm9Ja0xmajcwOVlZWjhzaXUzWHZrUE9rMEhVOTBnN1lXbEJGN0pTTWkwYTd4b2g3UV9pbWdSMmpjaXpVNjNMemVZQnRJVWpMLVQzOXM3RmJoR05RMklOZ29OZnItNGN5WVVkaEZYZlZOLTdjNHY2dC02U19pTEhWSlBlenJsUEVLRzBDTGxKSVZtUktyXzg2UTlSb29Vb09oMG9NWTloMk5uV3dJcS0wWXY4UGc?oc=5",
-   "ts": "Sun, 08 Nov 2026 14:30:33 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Analysis | Trump’s favorite economic policy was among Tuesday’s biggest losers - The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVW1ybXNFaVdKR3V2UVVoOENIVkNscGpuVHhqZjEtR19zNVVwdFRzOFdBM1Vhc3dKcTVkZTRRUWJ2RUpUYnk4eUctZndfbzh2cDhLZlJIel92b3dTeFF4Wi0xOVZRSnVjNndUWk51XzZ1cWVJVlJfRml4NGVIV1FpTA?oc=5",
-   "ts": "Thu, 05 Nov 2026 18:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +457,126 @@
    "title": "Trump's political humbling signals short-term gain, long-term pain for China - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVBkVEFRMUNIQ0xmQVZXR1lLZmJBeVJiMXJMalZKLTRCaG00cmhCWjVKQjZmUUh3ajlGY3hjejlwRm40M1BNVXlwWFJjcXU0Um40QVNQY1BjNEZFbGF0RUdvamZYNlBCelY2UFBuOHVzU2pRYWk5RXRPbjU5QkdwcUo2cXhKU2JqMy01ZHpoQk5MbTg2a19rdXRCR1JLeFI2RzJMNDNtMm9LelZOWS1vaVpyNG5GS2pManc?oc=5",
    "ts": "Thu, 05 Nov 2026 12:53:07 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda | National",
+   "url": "http://www.thedailytimes.com/ap/national/democrats-plan-to-push-clean-energy-to-lower-bills-and-challenge-trump-s-fossil-fuel/article_87dbe6de-c3b2-54d7-90a3-b5297add1bff.html",
+   "ts": "20261108T210000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Трамп потребовал от Нетаниягу начать реализацию плана по Газе , не дожидаясь нового правительства",
+   "url": "https://www.newsru.co.il/israel/8nov2026/trump_0014.html",
+   "ts": "20261108T210000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Another aircraft carrier arrived in Norway , as did a new US ambassador | Norway News in English www . newsinenglish . no",
+   "url": "https://www.newsinenglish.no/2026/11/08/another-aircraft-carrier-arrived-in-norway-as-did-a-new-us-ambassador/",
+   "ts": "20261108T210000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": " / Foto / Planinari iz Hrvatske i inozemstva pohodili Kutjevo i uživali u vinskoj tradiciji",
+   "url": "https://www.glas-slavonije.hr/regija/2026/11/08/martinje-u-kutjevu-vise-od-80-planinarskih-drustava-i-slavonsko-gostoprimstvo-796646/",
+   "ts": "20261108T210000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Jeffries Supports Impeachment Of Defense Secretary Hegseth",
+   "url": "https://wiba.iheart.com/content/2026-11-08-jeffries-supports-impeachment-of-defense-secretary-hegseth/",
+   "ts": "20261108T210000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "GOP civil war ignites in Arizona as Meghan McCain takes on Kirk Turning Point group",
+   "url": "https://www.rawstory.com/meghan-mccain-2678334643/",
+   "ts": "20261108T210000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Europe to join U . S .- brokered Ukraine talks in Abu Dhabi , defying Kremlin objections",
+   "url": "https://www.wuft.org/2026-11-08/europe-to-join-u-s-brokered-ukraine-talks-in-abu-dhabi-defying-kremlin-objections",
+   "ts": "20261108T210000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Houston to limit ICE cooperation after Democrats take power in Texas",
+   "url": "https://www.kristv.com/news/texas-news/houston-will-limit-ice-cooperation-in-response-to-democrats-taking-power-in-texas-mayor-says",
+   "ts": "20261108T210000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Fox News pundit exposes how her colleagues are lying to viewers",
+   "url": "https://www.alternet.org/fox-news-midterms-jessica-tarlov/",
+   "ts": "20261108T210000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Τραμπ για Ιράν : « Εξαιρετικά απίθανα » νέα πλήγματα , αλλά « είμαστε έτοιμοι » ",
+   "url": "https://www.kathimerini.gr/world/564576265/tramp-gia-iran-exairetika-apithana-nea-pligmata-alla-eimaste-etoimoi/",
+   "ts": "20261108T210000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Sunday Edition : Behind the Blue Wave",
+   "url": "https://www.whqr.org/local/2026-11-08/sunday-edition-behind-the-blue-wave",
+   "ts": "20261108T210000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Princess Anne praises SA agricultural industry in whistle - stop visit to Cape",
+   "url": "https://www.dailymaverick.co.za/article/2026-11-08-princess-anne-praises-sas-agricultural-industry-in-whistle-stop-visit-to-cape/",
+   "ts": "20261108T210000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "98º Encoge encerra edio com propostas para fortalecer o Judiciário",
+   "url": "https://tribunahoje.com/noticias/cidades/2026/11/08/198313-98o-encoge-encerra-edicao-com-propostas-para-fortalecer-o-judiciario",
+   "ts": "20261108T210000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "LIVE De Wever trekt begrotingsonderhandelingen morgen opnieuw op gang , Zuhal Demir en Bill White in de clinch",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/de-wever-trekt-begrotingsonderhandelingen-morgen-opnieuw-op-gang~1793247532380/",
+   "ts": "20261108T210000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Dana White to visit White House after Trump offers him press secretary role",
+   "url": "https://www.wxii12.com/article/ufc-ceo-dana-white-press-secretary-offer/74367833",
+   "ts": "20261108T210000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ιράν : Η Τεχεράνη δηλώνει ότι οι διαπραγματεύσεις για τον τερματισμό του ... ",
+   "url": "https://www.capital.gr/diethni/4028579/iran-i-texerani-dilonei-oti-oi-diapragmateuseis-gia-ton-termatismo-tou-polemou-exoun-diakopei/",
+   "ts": "20261108T210000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "U . S . District Court Judge Issues TRO to Prevent Federal Government from Ordering Washington State Election Officials Not to Process 400 Ballots",
+   "url": "https://ballot-access.org/2026/11/08/u-s-district-court-judge-issues-tro-to-prevent-federal-government-from-ordering-washington-state-election-officials-from-processing-400-ballots/",
+   "ts": "20261108T210000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Europe to join U . S .- brokered Ukraine talks in Abu Dhabi , defying Kremlin objections",
+   "url": "https://www.wncw.org/2026-11-08/europe-to-join-u-s-brokered-ukraine-talks-in-abu-dhabi-defying-kremlin-objections",
+   "ts": "20261108T210000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Calgary police investigate morning hit - and - run in city northeast",
+   "url": "https://calgarysun.com/news/calgary-police-investigate-morning-hit-and-run-northeast",
+   "ts": "20261108T210000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "В секторе Газа пять палестинцев погибли при обрушении склона на палатки",
+   "url": "https://ria.ru/20261108/gaza-2130177926.html",
+   "ts": "20261108T210000Z"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-08T11:30:29Z",
+ "ts": "2026-11-08T11:45:22Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -377,6 +376,12 @@
   },
   {
    "src": "gnews",
+   "title": "US urges China to honour Busan trade deal commitments - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemI4U2V6Z1BYeGlHbDlHSENZR1JaR1VxQ0hZVFRZWTlpNGhfMDdDel9udEcyVTM5eThkaDJENTUzdURpTGFwTFl0WkRpVjl5dGFvZEgydXk3ZDRNN1ZTZHZIRXVvclY3OGRPemk1eWtCSWdTY2RvdVpLSjByTXNkR202ZDZxNFNUNmh1SnBQUW1BNjdwRzRUajRTYnZxZ9IBowFBVV95cUxOajB4Y3FQZHRmZlp5ZHNiMThkUk5ZMEt0cjNyZDBmY1JhREVQRkRRbnZiRWxUZzdEaUJqcDZDMEc3c2xqMVkzSmZwaUdvSk5jMHdOLWlfTU12bzJWaVBTeVYzYUFiNlRoQnlTOXc4TkpKWGRYQjZReEFaTG9CYkxTTUQ5Y0tScWpQVVhjLWtrNlNNUzJkVE9NSFFZM184YTJhQWNN?oc=5",
+   "ts": "Fri, 06 Nov 2026 23:18:04 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump’s Canada Tariffs - WSJ",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVhNeS1XX0xDd1ZkN3JZMkdWcUJkaFhONTBWSmprcWxkRVpqbU02QUQxWnRVRXdlTHBzaVJNMENWaE5HaFcyU2pCVDl3SkpXV3Y4UTlEMzM4STJFc3FGVVByUW1xUHh1QWlqOWx2bHBKQTZxb09zSDQtMklkRFpsRENDbWRiNzg3dzlwMnVqbVpLQkhRVWwwT0F6UUxFODdybWFqekNqUVhrcEZKNzZz?oc=5",
    "ts": "Fri, 06 Nov 2026 02:00:00 GMT"
@@ -401,27 +406,21 @@
   },
   {
    "src": "gnews",
-   "title": "Blue wave won’t end tariff chaos, warns California’s port king - The Telegraph",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0Z4c2pyLXJnTmhXaGRzZ1pRLVBsbGxXN1B5RERhdXdTWG9EN3VPSVVVdjVaNEZlNVdFb3cwdUU1cW9ycHUtaDZhN0NyQjFXVHZTcnl4b01EMGFObElCWUtkakF3STFuSXYtVUdkYlJ6RjRMYlVBVE5tNVgwRXZpU0ItYVJnTm43YkY3VlU0ZWk5ZmhKeS1hcld2QXd5YllPVXJ5T3liU0hQSVlK?oc=5",
-   "ts": "Sun, 08 Nov 2026 09:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China threatens retaliation as EU mulls trade “kill-switch” - Euronews.com",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHBIVUJVUy1WX2c0dm5wZjhYWERMOU1GcGY5VDJvR1h4VlFvWGJDdzRyQVdEYzFaNEZqbERsb0VrN3FWQU9nVkhOSFdVOHZQaEN3ck05U2FuSzUtMUFtYUVwa2Q4VFh3UUNjZWVyUTc1UC02RTF6dUxHeGxURjBmc29EQWJZdjZXbnhmcXR5LUhnZk5HbktPdkUwdzFaUnJOTkp1My1OT2FuMEFKTWpzZDJ6TEViRUU?oc=5",
    "ts": "Thu, 05 Nov 2026 11:21:01 GMT"
   },
   {
    "src": "gnews",
-   "title": "Analysis | Trump’s favorite economic policy was among Tuesday’s biggest losers - The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVW1ybXNFaVdKR3V2UVVoOENIVkNscGpuVHhqZjEtR19zNVVwdFRzOFdBM1Vhc3dKcTVkZTRRUWJ2RUpUYnk4eUctZndfbzh2cDhLZlJIel92b3dTeFF4Wi0xOVZRSnVjNndUWk51XzZ1cWVJVlJfRml4NGVIV1FpTA?oc=5",
-   "ts": "Thu, 05 Nov 2026 18:00:00 GMT"
+   "title": "Blue wave won’t end tariff chaos, warns California’s port king - The Telegraph",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0Z4c2pyLXJnTmhXaGRzZ1pRLVBsbGxXN1B5RERhdXdTWG9EN3VPSVVVdjVaNEZlNVdFb3cwdUU1cW9ycHUtaDZhN0NyQjFXVHZTcnl4b01EMGFObElCWUtkakF3STFuSXYtVUdkYlJ6RjRMYlVBVE5tNVgwRXZpU0ItYVJnTm43YkY3VlU0ZWk5ZmhKeS1hcld2QXd5YllPVXJ5T3liU0hQSVlK?oc=5",
+   "ts": "Sun, 08 Nov 2026 09:00:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "US urges China to honour Busan trade deal commitments - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemI4U2V6Z1BYeGlHbDlHSENZR1JaR1VxQ0hZVFRZWTlpNGhfMDdDel9udEcyVTM5eThkaDJENTUzdURpTGFwTFl0WkRpVjl5dGFvZEgydXk3ZDRNN1ZTZHZIRXVvclY3OGRPemk1eWtCSWdTY2RvdVpLSjByTXNkR202ZDZxNFNUNmh1SnBQUW1BNjdwRzRUajRTYnZxZ9IBowFBVV95cUxOajB4Y3FQZHRmZlp5ZHNiMThkUk5ZMEt0cjNyZDBmY1JhREVQRkRRbnZiRWxUZzdEaUJqcDZDMEc3c2xqMVkzSmZwaUdvSk5jMHdOLWlfTU12bzJWaVBTeVYzYUFiNlRoQnlTOXc4TkpKWGRYQjZReEFaTG9CYkxTTUQ5Y0tScWpQVVhjLWtrNlNNUzJkVE9NSFFZM184YTJhQWNN?oc=5",
-   "ts": "Fri, 06 Nov 2026 23:18:04 GMT"
+   "title": "Analysis | Trump’s favorite economic policy was among Tuesday’s biggest losers - The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVW1ybXNFaVdKR3V2UVVoOENIVkNscGpuVHhqZjEtR19zNVVwdFRzOFdBM1Vhc3dKcTVkZTRRUWJ2RUpUYnk4eUctZndfbzh2cDhLZlJIel92b3dTeFF4Wi0xOVZRSnVjNndUWk51XzZ1cWVJVlJfRml4NGVIV1FpTA?oc=5",
+   "ts": "Thu, 05 Nov 2026 18:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +457,126 @@
    "title": "Why Malaysia may still face trade uncertainty after US midterms - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV0stNl9hWlhtX3htN3ptVEtHSEFybjZZLXJNUWd0TFpaODdOT0FreTRpemFqbXFOSXhwQzIwVDl1dnFSdXl1eEdtUF9NTUpYNDNBcVdkRmNzSW5XV0ZkU0YyZUQyV2ZPdGM1dC10a2JlQUVuWVBwOWJwYTA2VDlzZktTbzlENUYtZFFXazlSbnJIVDJqc1VDcUdmTm1vMjUzaGxfZjZkeTRTMEFLLVpxYXJaaTc3ZEpELUpTWNIBvAFBVV95cUxPdmVUNS1fSW9OUFU3X0lJZWgzcXBfZGxjSXVaREI0R1hwZlRqejF1VmpuUXBlVmpQRnA3RTJuQ3lYVmZOUnE0TEswbVlwekE2a2pwaXYwM3hYaHlkeTJiYWRTU3BMY3RuVVhnMU54M3VBNldfa3A0VWl3ZjNMSDV3angyb3F6Zy1uLTFnNlVUTUNBd2RJTTViMFJ1U3dDTWRCc2RKTWxpeUNraUVZSmxPSm1keWtLTjZGSzI1cA?oc=5",
    "ts": "Fri, 06 Nov 2026 09:00:26 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "दक्षिण चीन सागर विवाद से दूर रहें ... क्वाड शिखर सम्मेलन से पहले ड्रैगन की भारत समेत चार देशों को चेतावनी ! ",
+   "url": "https://navbharattimes.indiatimes.com/india/china-warns-quad-summit-india-us-japan-australia-south-china-sea-tensions-manila/articleshow/135655528.cms",
+   "ts": "20261108T103000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Εμείς και η νέα εποχή στις ΗΠΑ",
+   "url": "https://www.protothema.gr/blogs/tasos-karamitsos/article/1907429/emeis-kai-i-nea-epohi-stis-ipa/",
+   "ts": "20261108T103000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Feinwerkmechaniker : Zu 100 Prozent ersetzbar , zumindest theoretisch",
+   "url": "https://www.drweb.de/feinwerkmechaniker-ki-check/",
+   "ts": "20261108T103000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Τηλεφωνική επικοινωνία Ερντογάν - Τραμπ , συζήταν διμερείς σχέσεις και περιφερειακές και παγκόσμιες εξελίξεις",
+   "url": "https://cyprusnews.eu/dialogos-kosmos/tilefoniki-epikoinonia-erntogan-trab-syzitan-dimereis-scheseis-kai-perifereiakes-kai-pagkosmies-exelixeis/",
+   "ts": "20261108T103000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "South Korea moves to join Iran War under US pressure",
+   "url": "https://nuclear-news.net/2026/11/08/4-b1-south-korea-moves-to-join-iran-war-under-us-pressure/",
+   "ts": "20261108T103000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Johnny , Maradona , Lady Di … Pourquoi certaines images deviennent éternelles ? Se demande - t - on dans la nouvelle expo du Centre de la photo de Mougins",
+   "url": "https://www.nicematin.com/culture/expos/johnny-maradona-lady-di-pourquoi-certaines-images-deviennent-eternelles-se-demande-t-on-dans-la-nouvelle-expo-du-centre-de-la-photo-de-mougins-10749450",
+   "ts": "20261108T103000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Όταν η ύβρις αυτοκαταστρέφεται",
+   "url": "https://www.philenews.com/apopsis/arthra-apo-f/article/1792163/otan-i-ivris-aftokatastrefete/",
+   "ts": "20261108T103000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Milei Argentina",
+   "url": "http://www.idahopress.com/news/world/pope-wraps-up-uruguay-visit-and-heads-to-most-fraught-stop-of-his-tour-in/article_4648e0bd-ab18-53ea-9244-cbce8bd383f3.html",
+   "ts": "20261108T103000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "UFC Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+   "url": "https://www.wcsufm.org/latest-from-npr/2026-11-08/ufcs-dana-white-says-he-will-meet-with-trump-monday-over-offer-to-be-white-house-press-secretary",
+   "ts": "20261108T103000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "In the news | Northwest Arkansas Democrat - Gazette",
+   "url": "https://www.nwaonline.com/news/2026/nov/08/in-the-news/",
+   "ts": "20261108T103000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "FT : демократи у Конгресі готують пакет військової допомоги Україні на 15 млрд доларів",
+   "url": "https://www.eurointegration.com.ua/news/2026/11/8/7249528/",
+   "ts": "20261108T103000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Staff at the US center for AI safety are reporting to the White House , raising independence concerns",
+   "url": "http://www.sitkasentinel.com/stories/staff-at-the-us-center-for-ai-safety-are-reporting-to-the-white-house-raising-independence,184674",
+   "ts": "20261108T103000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "JD Health et Alibaba Health : vendre sa marque santé en Chine en 2026",
+   "url": "https://marketing-chine.com/sante-en-ligne-chine-jd-health-alibaba-health",
+   "ts": "20261108T103000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "What NFI Group ( NFI ) Said on Its Q3 Earnings Call",
+   "url": "https://www.themarketsdaily.com/2026/11/08/what-nfi-group-nfi-said-on-its-q3-earnings-call.html",
+   "ts": "20261108T103000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump - Backed Trade Corridor Advances Despite Geopolitical Resistance  | Peak Oil News and Message Boards",
+   "url": "https://peakoil.com/publicpolicy/trump-backed-trade-corridor-advances-despite-geopolitical-resistance",
+   "ts": "20261108T103000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Bursa Teleferik Ücretleri 2026 : Tam ve Öğrenci Bileti Ne Kadar ? ",
+   "url": "https://www.bursadabugun.com/haber/bursa-teleferik-ucretleri-2026-tam-ve-ogrenci-bileti-ne-kadar-1961879.html",
+   "ts": "20261108T103000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Объем прямой финансовой поддержки Украины со стороны Запада приблизился к $212 млрд",
+   "url": "https://ont.by/ru/world-ru/view/objem-prjamoj-finansovoj-podderzhki-ukrainy-so-storony-zapada-priblizilsja-k-212-mlrd-328401-2026/",
+   "ts": "20261108T103000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "AUKUS is a global issue – dont let Albanese sweep it under the carpet « nuclear - news",
+   "url": "https://nuclear-news.net/2026/11/08/aukus-is-a-global-issue-dont-let-albanese-sweep-it-under-the-carpet/",
+   "ts": "20261108T103000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "ईसाइयों की जगह हिंदुओं को … अमेरिका में दिवाली उत्सव में हिंदू विरोधी प्रदर्शन ; अब इस सांसद ने खूब सुनाया",
+   "url": "https://www.livehindustan.com/international/us-congresswoman-pramila-jayapal-condemned-racist-disruption-caused-by-radical-activist-during-diwali-event-in-seattle-201794129367855.html",
+   "ts": "20261108T103000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Christina Zwicker izbila na vrh  Plesa sa zvijezdama : Tango joj donio 32 boda",
+   "url": "https://www.tportal.hr/showtime/clanak/christina-zwicker-izbila-na-vrh-plesa-sa-zvijezdama-tango-joj-donio-32-boda-foto-20261108",
+   "ts": "20261108T103000Z"
   }
  ]
 }

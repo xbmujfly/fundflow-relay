@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-08T13:00:26Z",
+ "ts": "2026-11-08T13:15:29Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -419,15 +418,15 @@
   },
   {
    "src": "gnews",
-   "title": "Blue wave won’t end tariff chaos, warns California’s port king - The Telegraph",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0Z4c2pyLXJnTmhXaGRzZ1pRLVBsbGxXN1B5RERhdXdTWG9EN3VPSVVVdjVaNEZlNVdFb3cwdUU1cW9ycHUtaDZhN0NyQjFXVHZTcnl4b01EMGFObElCWUtkakF3STFuSXYtVUdkYlJ6RjRMYlVBVE5tNVgwRXZpU0ItYVJnTm43YkY3VlU0ZWk5ZmhKeS1hcld2QXd5YllPVXJ5T3liU0hQSVlK?oc=5",
-   "ts": "Sun, 08 Nov 2026 09:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Analysis | Trump’s favorite economic policy was among Tuesday’s biggest losers - The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVW1ybXNFaVdKR3V2UVVoOENIVkNscGpuVHhqZjEtR19zNVVwdFRzOFdBM1Vhc3dKcTVkZTRRUWJ2RUpUYnk4eUctZndfbzh2cDhLZlJIel92b3dTeFF4Wi0xOVZRSnVjNndUWk51XzZ1cWVJVlJfRml4NGVIV1FpTA?oc=5",
    "ts": "Thu, 05 Nov 2026 18:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Blue wave won’t end tariff chaos, warns California’s port king - The Telegraph",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0Z4c2pyLXJnTmhXaGRzZ1pRLVBsbGxXN1B5RERhdXdTWG9EN3VPSVVVdjVaNEZlNVdFb3cwdUU1cW9ycHUtaDZhN0NyQjFXVHZTcnl4b01EMGFObElCWUtkakF3STFuSXYtVUdkYlJ6RjRMYlVBVE5tNVgwRXZpU0ItYVJnTm43YkY3VlU0ZWk5ZmhKeS1hcld2QXd5YllPVXJ5T3liU0hQSVlK?oc=5",
+   "ts": "Sun, 08 Nov 2026 09:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +457,126 @@
    "title": "Why Malaysia may still face trade uncertainty after US midterms - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV0stNl9hWlhtX3htN3ptVEtHSEFybjZZLXJNUWd0TFpaODdOT0FreTRpemFqbXFOSXhwQzIwVDl1dnFSdXl1eEdtUF9NTUpYNDNBcVdkRmNzSW5XV0ZkU0YyZUQyV2ZPdGM1dC10a2JlQUVuWVBwOWJwYTA2VDlzZktTbzlENUYtZFFXazlSbnJIVDJqc1VDcUdmTm1vMjUzaGxfZjZkeTRTMEFLLVpxYXJaaTc3ZEpELUpTWNIBvAFBVV95cUxPdmVUNS1fSW9OUFU3X0lJZWgzcXBfZGxjSXVaREI0R1hwZlRqejF1VmpuUXBlVmpQRnA3RTJuQ3lYVmZOUnE0TEswbVlwekE2a2pwaXYwM3hYaHlkeTJiYWRTU3BMY3RuVVhnMU54M3VBNldfa3A0VWl3ZjNMSDV3angyb3F6Zy1uLTFnNlVUTUNBd2RJTTViMFJ1U3dDTWRCc2RKTWxpeUNraUVZSmxPSm1keWtLTjZGSzI1cA?oc=5",
    "ts": "Fri, 06 Nov 2026 09:00:26 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Free : plus de 8 mois sans nouvelle vente privée , son forfait Série Free est lui aussi figé",
+   "url": "https://www.universfreebox.com/article/599458/free-plus-de-8-mois-sans-nouvelle-vente-privee-son-forfait-serie-free-est-lui-aussi-fige",
+   "ts": "20261108T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  Youre fired : the list of people Donald Trump has sacked since being in office",
+   "url": "https://www.hellomagazine.com/celebrities/933195/youre-fired-the-list-of-people-donald-trump-has-sacked-since-being-in-office/",
+   "ts": "20261108T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Milei Argentina",
+   "url": "https://www.wjcl.com/article/pope-uruguay-mileis-argentina-visit/74367378",
+   "ts": "20261108T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Paraguay President Pena impeached , placed under house arrest in bank collapse scandal",
+   "url": "http://www.londonmercury.com/news/279418426/paraguay-president-pena-impeached-placed-under-house-arrest-in-bank-collapse-scandal",
+   "ts": "20261108T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Απορρίπτει την πρόταση Τραμπ το « αφεντικό » του UFC ; « Έχω ήδη πολλές δουλειές !» Βίντεο",
+   "url": "https://www.skaikritis.gr/aporriptei-tin-protasi-trab-to-afentiko-tou-ufc-echo-idi-polles-douleies-vinteo/",
+   "ts": "20261108T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Welland Tribune top stories of the week",
+   "url": "https://www.wellandtribune.ca/news/niagara-region/welland-top-headlines/article_bb71e429-eed0-54f5-bb22-935c1e82e222.html",
+   "ts": "20261108T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Haftanın tarihine bakış",
+   "url": "https://diyarbakirsoz.com/gundem/haftanin-tarihine-bakis-571090",
+   "ts": "20261108T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "How Republicans Lost The Senate , And What It Could Cost Them",
+   "url": "https://www.americanthinker.com/articles/2026/11/how-republicans-lost-the-senate-and-what-it-could-cost-them/",
+   "ts": "20261108T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "How a controversial  public Christian school  got started in Colorado",
+   "url": "https://www.timescall.com/2026/11/08/riverstone-academy-colorado-public-christian-school/",
+   "ts": "20261108T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": " « Μαύρη τρύπα » 7 δισ . ευρώ στη στρατιωτική βοήθεια του ΝΑΤΟ προς την Ουκρανία",
+   "url": "https://www.skaikritis.gr/mavri-trypa-7-dis-evro-sti-stratiotiki-voitheia-tou-nato-pros-tin-oukrania/",
+   "ts": "20261108T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "2p per mile charges for thousands of drivers until June 2027 under Andy Burnham",
+   "url": "https://www.birminghammail.co.uk/motoring/motoring-news/2p-per-mile-charges-thousands-34877584",
+   "ts": "20261108T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Staff at the US center for AI safety are reporting to the White House , raising independence concerns",
+   "url": "https://www.dailygazette.com/leader_herald/ap/business/staff-at-the-us-center-for-ai-safety-are-reporting-to-the-white-house-raising/article_7c0a9f09-2dfa-567f-98de-cae8e4403fa8.html",
+   "ts": "20261108T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Milei Argentina",
+   "url": "https://www.wsls.com/news/world/2026/11/08/pope-wraps-up-uruguay-visit-and-heads-to-most-fraught-stop-of-his-tour-in-mileis-argentina/",
+   "ts": "20261108T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "ชี้  ทรัมป์  พ่ายสภาไม่กระทบเศรษฐกิจดิจิทัลไทย ย้ำนโยบาย AI สกัดจีนยังเดินหน้าต่อ",
+   "url": "https://www.dailynews.co.th/news/6341608/",
+   "ts": "20261108T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Macinka hájí Trumpa . Dražší nafta přebila vše , zní z ODS | Česko",
+   "url": "https://www.lidovky.cz/domov/macinka-lipavsky-obrana-prezident-pavel-penize-vlada-debata.A261108_113923_ln_domov_lsva",
+   "ts": "20261108T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "У Києві померла вчителька , евакуйована з Олешків",
+   "url": "https://ua.korrespondent.net/ukraine/4926985-u-kyievi-pomerla-vchytelka-evakuiovana-z-oleshkiv",
+   "ts": "20261108T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Pope makes to Milei Argentina as tensions loom",
+   "url": "https://www.queanbeyanage.com.au/story/9387818/pope-makes-to-mileis-argentina-as-tensions-loom/",
+   "ts": "20261108T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Série do Correio discute racismo e desigualdade na vida de mulheres negras",
+   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7534522-serie-do-correio-discute-racismo-e-desigualdade-na-vida-de-mulheres-negras.html",
+   "ts": "20261108T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Impeachment : going too far in going too far",
+   "url": "https://www.americanthinker.com/blog/2026/11/impeachment-going-too-far-in-going-too-far/",
+   "ts": "20261108T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "UFC Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+   "url": "https://www.iowapublicradio.org/news-from-npr/2026-11-08/ufcs-dana-white-says-he-will-meet-with-trump-monday-over-offer-to-be-white-house-press-secretary",
+   "ts": "20261108T113000Z"
   }
  ]
 }

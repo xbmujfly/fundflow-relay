@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-08T23:15:18Z",
+ "ts": "2026-11-08T23:30:22Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -347,7 +347,7 @@
   },
   {
    "src": "gnews",
-   "title": "Bessent, Greer Raise Concerns on China Trade Deal Actions - Bloomberg",
+   "title": "Bessent, Greer Raise Concerns on China Trade Deal Compliance - Bloomberg",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUThIM0tOMDlPV2h4TURPZHZyVlJjUGRLWlZOV21nb3gwS3RON3RQdk1PZUFNOTVpZ2k0VG4tQ0xyWWd1R0JrZzV2MVhwS3B6dzY0eGtkbWxXajRreGpIRlZWUXVkc2haWVVsaXNZaUwzYWdmaU8tS21KS1ZaRlVZT3dNanpJamNZRURtOVRibHFpMERibTF0OGNwQnFkWENSVXJScXpJclFuamc?oc=5",
    "ts": "Sat, 07 Nov 2026 01:33:00 GMT"
   },
@@ -359,15 +359,15 @@
   },
   {
    "src": "gnews",
-   "title": "Quo vadis: EU-China trade relations – from de-risking to technical fixes - Pekingnology",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94VGJ1MWFOQ2JUekp2eGY1Mmd1SVBBS3Y1Vk9JNTVld2JwejZybENQaVhwMDhpelZsWTBrWVJTZW5LRldETWJjWXFoMzdXTGhiRzFXdER6cXBwRkxnZzBQbnZCb29VaEstaHluOWQtSncyNWM?oc=5",
-   "ts": "Sun, 08 Nov 2026 21:54:18 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "After the Midterm Rout, Can Trump Change Course Without Giving Up Tariffs? - Carnegie Endowment for International Peace",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTlPWVM2SzF4RmJ1Ry1oX2NOMWc0MGJQREpBLTE5OEZ2RnVDT2JtZFZXR1JYWDRka19hUWkzTWJCR1ZrNVQ3R0RTUEFOcDJVSXJnWE54YjFlOUR6RkVUWTNiYWJweWsxQUI2TmpGWTdFZmtOc1VnVllRdWM1ajlhbjg5UXkxZ3Vid3c?oc=5",
    "ts": "Fri, 06 Nov 2026 18:10:28 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Quo vadis: EU-China trade relations – from de-risking to technical fixes - Pekingnology",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94VGJ1MWFOQ2JUekp2eGY1Mmd1SVBBS3Y1Vk9JNTVld2JwejZybENQaVhwMDhpelZsWTBrWVJTZW5LRldETWJjWXFoMzdXTGhiRzFXdER6cXBwRkxnZzBQbnZCb29VaEstaHluOWQtSncyNWM?oc=5",
+   "ts": "Sun, 08 Nov 2026 21:54:18 GMT"
   },
   {
    "src": "gnews",
@@ -419,15 +419,15 @@
   },
   {
    "src": "gnews",
-   "title": "Democrats take aim at Trump’s tariffs, but a rollback faces a veto wall - Firstpost",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQnduekJNTXNkR29DYl9OYWhMc1hUVkdwN0F2Tk1NcUVjXzJFMU1QQ1QzTi1rWmFwVVNDR1lIOUh0a1FNMXZJSXBYRkd1X1B6U3AwMnJ4UEE1cEd5VTBoTzgwTFJpQlN0SEZrUWpESmxkTE9XSFNhNUlZalZ2b1FoOUVNa2hYUnZaUlpUcUtockJ3OUFIWEVENnJVQXMyR3RzaWpNTEJlS3dkR3ZOQlgxbDRfWTVUaDlvNDZnS3AySGhEQVF2Nk5yNNIBzgFBVV95cUxPdjFHNTVEUUllMGY3M1BhSFdLWk02a0lmS2dRal8xaDBhbUZrcUprblpRdnIyMGowYkRvalRYZE1FV2h2UktiYzc3TG9fSnQxUHRVMW03TnlpazBKM1p1SU9WS0pTSWRNbHVVUEpxd1pPOXhxcF9LcnM2ZXZEdlo2YkpZWngtRkhJa21rZ2xyOHhmR01SZFE3TWpYM2xQNERBeXpBeXNXZGh2akdaS0JmTm1pcDU4N1FESnZ4YWRvOXpTLUFvN1ViOS1QZTMydw?oc=5",
-   "ts": "Sun, 08 Nov 2026 19:14:40 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Same Tariffs, New Gavels: What the Midterms Mean for US-China Trade Relations - The US-China Business Council",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTVdPcmpoZ1J4bjBVbFlQV2xqT1F4dlRvZGw4b2JlSWFTSVU1dmZ6LUsxMHdfWWhZc1h3TkZPLTBFWGtWdFh5cWJuMU56UnoxX2tTSldJa2s5NWJjUWdqeTFNdVpKNktmNUY4NkFRc3NrRmI0S1ZIMGU1QWQ4cWVLa09jbEQ1WVdRYkNyQzVyV09yRXhyWTdQWE5CQ19pYTNIcXNEUFBJZGpXX0tnMnc?oc=5",
    "ts": "Fri, 06 Nov 2026 15:40:10 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Democrats take aim at Trump’s tariffs, but a rollback faces a veto wall - Firstpost",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQnduekJNTXNkR29DYl9OYWhMc1hUVkdwN0F2Tk1NcUVjXzJFMU1QQ1QzTi1rWmFwVVNDR1lIOUh0a1FNMXZJSXBYRkd1X1B6U3AwMnJ4UEE1cEd5VTBoTzgwTFJpQlN0SEZrUWpESmxkTE9XSFNhNUlZalZ2b1FoOUVNa2hYUnZaUlpUcUtockJ3OUFIWEVENnJVQXMyR3RzaWpNTEJlS3dkR3ZOQlgxbDRfWTVUaDlvNDZnS3AySGhEQVF2Nk5yNNIBzgFBVV95cUxPdjFHNTVEUUllMGY3M1BhSFdLWk02a0lmS2dRal8xaDBhbUZrcUprblpRdnIyMGowYkRvalRYZE1FV2h2UktiYzc3TG9fSnQxUHRVMW03TnlpazBKM1p1SU9WS0pTSWRNbHVVUEpxd1pPOXhxcF9LcnM2ZXZEdlo2YkpZWngtRkhJa21rZ2xyOHhmR01SZFE3TWpYM2xQNERBeXpBeXNXZGh2akdaS0JmTm1pcDU4N1FESnZ4YWRvOXpTLUFvN1ViOS1QZTMydw?oc=5",
+   "ts": "Sun, 08 Nov 2026 19:14:40 GMT"
   },
   {
    "src": "gnews",

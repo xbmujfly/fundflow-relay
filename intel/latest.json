@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-08T04:30:21Z",
+ "ts": "2026-11-08T05:00:21Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -341,9 +340,9 @@
   },
   {
    "src": "gnews",
-   "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting - DW.com",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
-   "ts": "Sat, 07 Nov 2026 04:55:32 GMT"
+   "title": "Bessent, Greer Raise Concerns on China Trade Deal Actions - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUThIM0tOMDlPV2h4TURPZHZyVlJjUGRLWlZOV21nb3gwS3RON3RQdk1PZUFNOTVpZ2k0VG4tQ0xyWWd1R0JrZzV2MVhwS3B6dzY0eGtkbWxXajRreGpIRlZWUXVkc2haWVVsaXNZaUwzYWdmaU8tS21KS1ZaRlVZT3dNanpJamNZRURtOVRibHFpMERibTF0OGNwQnFkWENSVXJScXpJclFuamc?oc=5",
+   "ts": "Sat, 07 Nov 2026 01:33:00 GMT"
   },
   {
    "src": "gnews",
@@ -353,9 +352,9 @@
   },
   {
    "src": "gnews",
-   "title": "Bessent, Greer Raise Concerns on China Trade Deal Actions - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUThIM0tOMDlPV2h4TURPZHZyVlJjUGRLWlZOV21nb3gwS3RON3RQdk1PZUFNOTVpZ2k0VG4tQ0xyWWd1R0JrZzV2MVhwS3B6dzY0eGtkbWxXajRreGpIRlZWUXVkc2haWVVsaXNZaUwzYWdmaU8tS21KS1ZaRlVZT3dNanpJamNZRURtOVRibHFpMERibTF0OGNwQnFkWENSVXJScXpJclFuamc?oc=5",
-   "ts": "Fri, 06 Nov 2026 17:53:42 GMT"
+   "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting - DW.com",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
+   "ts": "Sat, 07 Nov 2026 04:55:32 GMT"
   },
   {
    "src": "gnews",
@@ -395,15 +394,15 @@
   },
   {
    "src": "gnews",
-   "title": "Why EU-China Trade Relations Have Deteriorated - The National Interest",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeWg4TEtKUGZZR01TQU1PWld4amNpUndGaTdLQkNkM3Fmdm02U01HdkcweFFIaUxrRjFaSWdhMjVUWkVKRDhuTDBtNVNEQlBtUEl5OHZ6bm1rendlODBLYmZ2MGVtN2RaZEFTWm5kMEVVNzdWazBOYkdaNjlEQm4wVklBb3FwNGEwOTlV?oc=5",
-   "ts": "Sat, 07 Nov 2026 13:53:55 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory - ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTNUYllWQmZpQmliVmZTSDBSTENwc2hhNUFWU3BGcnBXZmpIZXNSV3VnZVl1NWU5Yi1acXZ3SjduRU9Cc3N4RXJRX19rMEFYQW8tVldQTXg3bjRVZU9KR05zYjdSSk9xX0ZMS1VCQ3hNcXZUX21KZDZlcWhNSmIzQzZBZnZXQXhxVE91LTFBdTQ4NEduYzl4TlliX2pVZy01NFdRcHpJNE80aUQ3cEFr0gG0AUFVX3lxTFBpR1pyM3M4UWU4MXV1d0ZIMkRudjZpYXJYMElUVHlCcXRPUldYbHJBalZsaVlNem4zWlV2QjlkTnFDaDV0b3k1dVhBRE1mVFdtVkpzNU9WajJiVkQzMGpyWFlJZGd5V3lHaU1HaTMyWk9BNkxYbTZmcFg0QmtRb2ExeldQSEtfekpEUTE1cXB5SFNONW1YQXlRVy11YkVBRjN6WHRSTkF1czNxTXJtdUZoSU5pZg?oc=5",
    "ts": "Fri, 06 Nov 2026 20:51:57 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Why EU-China Trade Relations Have Deteriorated - The National Interest",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeWg4TEtKUGZZR01TQU1PWld4amNpUndGaTdLQkNkM3Fmdm02U01HdkcweFFIaUxrRjFaSWdhMjVUWkVKRDhuTDBtNVNEQlBtUEl5OHZ6bm1rendlODBLYmZ2MGVtN2RaZEFTWm5kMEVVNzdWazBOYkdaNjlEQm4wVklBb3FwNGEwOTlV?oc=5",
+   "ts": "Sat, 07 Nov 2026 13:53:55 GMT"
   },
   {
    "src": "gnews",
@@ -425,15 +424,15 @@
   },
   {
    "src": "gnews",
-   "title": "US buyers at China’s largest trade fair soar over 20% after Xi-Trump meeting - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeThpaGNjUmZPTjZKZGpaZnRhVWxqZzkxa0NYdVMyTEJGdGZYOXZITmJKNlNyZk1lSmlncm0tUFFtdHZ1N2M5OEZWc3lwMHJNU1dlNHVYcGtmZ1VwQWFMUHNiWE1ZQU5RdEx2SmxabldETDNqa2ZRc3Bxa0RWeDRZYzAxZnp3TkYtYW9iYXVQZkkwRTAzZ2VLZEhJb3BjVFVsS3VBcmU2YzFsRFJTZ2VNOW1HaVB0TnZhOXF2ZkMxTWRjWi0xdklFOUN30gHKAUFVX3lxTFBZckNVZ3hVd2RnTGtHV00tOHdrLVRVbWFFMzMyQ0ZPNW5MaGtKV20zWVo3R0RNZVZzLTBVVENORjI3akJabjBOMTJTc3hGcHpSQktWYnlFY1p5Y3htMi1CSjVkcFhKSnBQb2RGanJuU0ZUeE1ZYURFS3BQc05mNG9XOGNEdW5XV1BoVTZETlpwSjNHbHpteGduSVJGbjNqbUY5TGpQZmtoOXhzS2Y4V1hEZ0F0RDh5aXFZdEFxRlYwMkVuWkJCT09nZEE?oc=5",
-   "ts": "Sat, 07 Nov 2026 10:00:06 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues - ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjlHb2U1LVBiU29ZOGVGTnhubkJZUUF3ejRLQy12ejROd1lIaVMzTS1hVEVqMWx2Z3VQMmcxakItTzNzQVJ2WU1qN2tCUWNCMkUtVi1Od0FyejlRVUNTb01ZX29WUGwxU0g0RlFrU09Mc0lQZlZuaFNGVTdiUTBEQW5VM28xcFd6a2k3RW5GNGJlZktPRG5zbFB6a0hFOUpLRWNhSU9WaGg4LTRUOVBWSmxtWG5zd9IBuwFBVV95cUxQUFFsbWN1ZmxlNWRuaFAxaXBqUTJLVjFDX2M5Ui15TjhSeGpyRjN5NVZMZ01TNlVWX2NGU0tGVThHSE5jZVhFdFowSVhMTjNVdmVEd1NwbU1DcFVOaHVaWmwxOG10WWJKSnVVVmhFZGhLa0J0MkMzV2Jock1UdXFtekpKeXAtaDJPWjlfaXhueHpnWW8wcjBwUXNCRGRLVFoyQUREblVacG5QSjZrU3hkQmN6V0RCUmhmZUpv?oc=5",
    "ts": "Fri, 06 Nov 2026 04:06:34 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US buyers at China’s largest trade fair soar over 20% after Xi-Trump meeting - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeThpaGNjUmZPTjZKZGpaZnRhVWxqZzkxa0NYdVMyTEJGdGZYOXZITmJKNlNyZk1lSmlncm0tUFFtdHZ1N2M5OEZWc3lwMHJNU1dlNHVYcGtmZ1VwQWFMUHNiWE1ZQU5RdEx2SmxabldETDNqa2ZRc3Bxa0RWeDRZYzAxZnp3TkYtYW9iYXVQZkkwRTAzZ2VLZEhJb3BjVFVsS3VBcmU2YzFsRFJTZ2VNOW1HaVB0TnZhOXF2ZkMxTWRjWi0xdklFOUN30gHKAUFVX3lxTFBZckNVZ3hVd2RnTGtHV00tOHdrLVRVbWFFMzMyQ0ZPNW5MaGtKV20zWVo3R0RNZVZzLTBVVENORjI3akJabjBOMTJTc3hGcHpSQktWYnlFY1p5Y3htMi1CSjVkcFhKSnBQb2RGanJuU0ZUeE1ZYURFS3BQc05mNG9XOGNEdW5XV1BoVTZETlpwSjNHbHpteGduSVJGbjNqbUY5TGpQZmtoOXhzS2Y4V1hEZ0F0RDh5aXFZdEFxRlYwMkVuWkJCT09nZEE?oc=5",
+   "ts": "Sat, 07 Nov 2026 10:00:06 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +457,126 @@
    "title": "Opinion | China-Swiss trade partnership offers a model amid fraught EU ties - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSGluWEprUmJ2Njhoazc3VGJjMXZxT0hrWG1YYWRDQXhpeU0zTlRoSG4zRVdQOHhKa2pYS2JVUjN2NUJ5c01EeVlUQkgtakNCQUpMNVlCelJnSER6OExSaEtVSWVVVUNUX1JwanYxZXBVZ1o1ZWoyNExqS3Rza1V2SjQyZXd3aldHTUJDZVl5bHJyTzBiTDNyaTFUUzI1VmFRZnZSaVZnaHV3dzZWelJSUUxmLWFfbGRZaUtJUUtBai16dnB2eWE40gHHAUFVX3lxTE1MM2hVUUwtM05uNnpQNi1qQ3Nxb2lrVmJwclFxY0hyTzhhWmwzUUJuSzg4UkxVUWp4TGw3SDVkd0M5M29WNG9yckxHNzA1eWVhSjNPMzZxYXJVWUNqY3Y5dlhtRnBxQ3cwbGNERFljMkJWd1N3VkJFY01DajZYaEM3T2E2MVhyVG9QQVZuQWxmemMxWFhVdjcxOTlEc3RmcWN2ZWdMa3BhZnZSdmVtSkFza1NfWkkzYU1iMXZKaFJtZEc0bzdlZW8?oc=5",
    "ts": "Sat, 07 Nov 2026 12:30:05 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "newsroomamerica . com",
+   "url": "https://newsroomamerica.com/?before=120465",
+   "ts": "20261108T000000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Oil tumbles as US midterm results raise hopes of Iran peace deal",
+   "url": "http://www.theusnews.com/news/279411615/oil-tumbles-as-us-midterm-results-raise-hopes-of-iran-peace-deal",
+   "ts": "20261108T000000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  황금 같은 기회 … 트럼프 , 민주당 AI 데이터센터 규제에 정면 대응",
+   "url": "https://www.fnnews.com/news/202611080808131994",
+   "ts": "20261108T000000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": " [ 美선거 산업여파 ] ② 자동차 관세 부담 지속될 듯 … 전기차는 기대",
+   "url": "https://www.fnnews.com/news/202611080532096016",
+   "ts": "20261108T000000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "글로벌 증시 급락에 상장지수펀드 순자산 400조원 깨졌다",
+   "url": "https://www.fnnews.com/news/202611080605462805",
+   "ts": "20261108T000000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Tag : health _ care _ facilities",
+   "url": "https://newsroomamerica.com/tag/health_care_facilities",
+   "ts": "20261108T000000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump orders DOJ probe into Democrats over alleged threats against admin officials",
+   "url": "https://www.fox7austin.com/news/trump-orders-doj-probe-democrats-over-alleged-threats-against-admin-officials",
+   "ts": "20261108T000000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Работа пресс - секретаря Трамп предлагает должность Дане Уайту",
+   "url": "https://focus.ua/world/773965-rabota-press-sekretarya-tramp-predlagaet-dolzhnost-dane-uaytu",
+   "ts": "20261108T000000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Oil tumbles as US midterm results raise hopes of Iran peace deal",
+   "url": "http://www.coloradostar.com/news/279411615/oil-tumbles-as-us-midterm-results-raise-hopes-of-iran-peace-deal",
+   "ts": "20261108T000000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Taiwan seeks progress on stalled $14 billion US arms deal",
+   "url": "http://www.dallassun.com/news/279414927/taiwan-seeks-progress-on-stalled-usd14-billion-us-arms-deal",
+   "ts": "20261108T000000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Oil tumbles as US midterm results raise hopes of Iran peace deal",
+   "url": "http://www.sierraleonetimes.com/news/279411615/oil-tumbles-as-us-midterm-results-raise-hopes-of-iran-peace-deal",
+   "ts": "20261108T000000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump orders DOJ probe into Democrats over alleged threats against admin officials",
+   "url": "https://www.fox5dc.com/news/trump-orders-doj-probe-democrats-over-alleged-threats-against-admin-officials",
+   "ts": "20261108T000000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Drone and missile attacks wound 9 in Ukraine",
+   "url": "https://www.mercurynews.com/2026/11/07/drone-and-missile-attacks-wound-9-as-ukraine-prepares-for-talks-with-russia-and-the-us/",
+   "ts": "20261108T000000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Sen . Ron Johnson Moves to Postpone Senate Leadership Elections",
+   "url": "https://wcbm.com/national-headline/sen-ron-johnson-moves-to-postpone-senate-leadership-elections/",
+   "ts": "20261108T000000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "اشتباكات عنيفة بين الشرطة ومحتجين في ألبانيا - بوابة الشروق",
+   "url": "https://www.shorouknews.com/news/view.aspx?cdate=08112026&id=0f61d9e0-3388-4956-bc84-e3b8d1e4bf12",
+   "ts": "20261108T000000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Legal Fights &  Extinction Fear : Shannon Bream on the Midterm Fallout",
+   "url": "https://radio.foxnews.com/2026/11/07/legal-fights-extinction-fears-shannon-bream-on-the-midterm-fallout/",
+   "ts": "20261108T000000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump says he asked UFC Dana White to be his press secretary",
+   "url": "https://www.mercurynews.com/2026/11/07/trump-says-hes-asked-ufcs-dana-white-to-be-his-press-secretary-no-one-will-say-if-hes-joking/",
+   "ts": "20261108T000000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Oil tumbles as US midterm results raise hopes of Iran peace deal",
+   "url": "http://www.haitisun.com/news/279411615/oil-tumbles-as-us-midterm-results-raise-hopes-of-iran-peace-deal",
+   "ts": "20261108T000000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Column | Le Pen als Franse Trump wordt erg gecompliceerd",
+   "url": "https://www.nrc.nl/nieuws/2026/11/06/le-pen-als-franse-trump-wordt-erg-gecompliceerd-a4940626",
+   "ts": "20261108T000000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "دانا وايت يرفض عرض ترامب لتولي منصب المتحدث باسم البيت الأبيض – قناة المنار",
+   "url": "https://www.almanar.com.lb/article/1333172/",
+   "ts": "20261108T000000Z"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-08T01:15:19Z",
+ "ts": "2026-11-08T01:30:21Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -377,15 +377,15 @@
   },
   {
    "src": "gnews",
-   "title": "US buyers at China’s largest trade fair soar over 20% after Xi-Trump meeting - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeThpaGNjUmZPTjZKZGpaZnRhVWxqZzkxa0NYdVMyTEJGdGZYOXZITmJKNlNyZk1lSmlncm0tUFFtdHZ1N2M5OEZWc3lwMHJNU1dlNHVYcGtmZ1VwQWFMUHNiWE1ZQU5RdEx2SmxabldETDNqa2ZRc3Bxa0RWeDRZYzAxZnp3TkYtYW9iYXVQZkkwRTAzZ2VLZEhJb3BjVFVsS3VBcmU2YzFsRFJTZ2VNOW1HaVB0TnZhOXF2ZkMxTWRjWi0xdklFOUN30gHKAUFVX3lxTFBZckNVZ3hVd2RnTGtHV00tOHdrLVRVbWFFMzMyQ0ZPNW5MaGtKV20zWVo3R0RNZVZzLTBVVENORjI3akJabjBOMTJTc3hGcHpSQktWYnlFY1p5Y3htMi1CSjVkcFhKSnBQb2RGanJuU0ZUeE1ZYURFS3BQc05mNG9XOGNEdW5XV1BoVTZETlpwSjNHbHpteGduSVJGbjNqbUY5TGpQZmtoOXhzS2Y4V1hEZ0F0RDh5aXFZdEFxRlYwMkVuWkJCT09nZEE?oc=5",
-   "ts": "Sat, 07 Nov 2026 10:00:06 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump’s Canada Tariffs - WSJ",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVhNeS1XX0xDd1ZkN3JZMkdWcUJkaFhONTBWSmprcWxkRVpqbU02QUQxWnRVRXdlTHBzaVJNMENWaE5HaFcyU2pCVDl3SkpXV3Y4UTlEMzM4STJFc3FGVVByUW1xUHh1QWlqOWx2bHBKQTZxb09zSDQtMklkRFpsRENDbWRiNzg3dzlwMnVqbVpLQkhRVWwwT0F6UUxFODdybWFqekNqUVhrcEZKNzZz?oc=5",
    "ts": "Fri, 06 Nov 2026 02:02:52 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US buyers at China’s largest trade fair soar over 20% after Xi-Trump meeting - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeThpaGNjUmZPTjZKZGpaZnRhVWxqZzkxa0NYdVMyTEJGdGZYOXZITmJKNlNyZk1lSmlncm0tUFFtdHZ1N2M5OEZWc3lwMHJNU1dlNHVYcGtmZ1VwQWFMUHNiWE1ZQU5RdEx2SmxabldETDNqa2ZRc3Bxa0RWeDRZYzAxZnp3TkYtYW9iYXVQZkkwRTAzZ2VLZEhJb3BjVFVsS3VBcmU2YzFsRFJTZ2VNOW1HaVB0TnZhOXF2ZkMxTWRjWi0xdklFOUN30gHKAUFVX3lxTFBZckNVZ3hVd2RnTGtHV00tOHdrLVRVbWFFMzMyQ0ZPNW5MaGtKV20zWVo3R0RNZVZzLTBVVENORjI3akJabjBOMTJTc3hGcHpSQktWYnlFY1p5Y3htMi1CSjVkcFhKSnBQb2RGanJuU0ZUeE1ZYURFS3BQc05mNG9XOGNEdW5XV1BoVTZETlpwSjNHbHpteGduSVJGbjNqbUY5TGpQZmtoOXhzS2Y4V1hEZ0F0RDh5aXFZdEFxRlYwMkVuWkJCT09nZEE?oc=5",
+   "ts": "Sat, 07 Nov 2026 10:00:06 GMT"
   },
   {
    "src": "gnews",
@@ -413,21 +413,27 @@
   },
   {
    "src": "gnews",
+   "title": "US urges China to honour Busan trade deal commitments - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemI4U2V6Z1BYeGlHbDlHSENZR1JaR1VxQ0hZVFRZWTlpNGhfMDdDel9udEcyVTM5eThkaDJENTUzdURpTGFwTFl0WkRpVjl5dGFvZEgydXk3ZDRNN1ZTZHZIRXVvclY3OGRPemk1eWtCSWdTY2RvdVpLSjByTXNkR202ZDZxNFNUNmh1SnBQUW1BNjdwRzRUajRTYnZxZ9IBowFBVV95cUxOajB4Y3FQZHRmZlp5ZHNiMThkUk5ZMEt0cjNyZDBmY1JhREVQRkRRbnZiRWxUZzdEaUJqcDZDMEc3c2xqMVkzSmZwaUdvSk5jMHdOLWlfTU12bzJWaVBTeVYzYUFiNlRoQnlTOXc4TkpKWGRYQjZReEFaTG9CYkxTTUQ5Y0tScWpQVVhjLWtrNlNNUzJkVE9NSFFZM184YTJhQWNN?oc=5",
+   "ts": "Fri, 06 Nov 2026 23:18:04 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
    "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump-Backed Trade Corridor Advances Despite Geopolitical Resistance - Crude Oil Prices Today | OilPrice.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNld0QXZUbGxFTGlfWkxKZFhWRnRfRks0ZmY5LTZYclJTZXowZldpMGNWNkxKd0xvVkZubFdPTEQtSDlwbEJTbHVQci1VakRwRENnMGZuVkZtRjFOU05EZ0V3WS01VTdJOHh1allrQkNPVW5UWld1WDdIS1FMeFo3SFJDYXl5eXJESHN3ZlhVb0hSeEI3RTNOdGpwbUNEUzUzcE9jdU54VkZrRVBHR09QaNIBtgFBVV95cUxPeGR4Q3lzc0VtY2dLbjhtRG5VVGxCXzBoN3pUMHNQb0ViZ3NWdTUtVlJlRHVJbWhpdGpadVdHaTJTejJBaWNIWTZiSE4tSWRXYzMtaWtOT1JDYXVEaGVjVi0ya2t5dlh3N0dIbDlNMk4xcjdYMzZHMWZncVBBTlgzbFJGM0wzVDBhZVBPT2tLTm55SFM2QnB2N0U2cUJoUXlQWmN3Z1drR2huXzBwdG9DYXh3OVJvUQ?oc=5",
-   "ts": "Sat, 07 Nov 2026 18:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China threatens retaliation as EU mulls trade “kill-switch” - Euronews.com",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHBIVUJVUy1WX2c0dm5wZjhYWERMOU1GcGY5VDJvR1h4VlFvWGJDdzRyQVdEYzFaNEZqbERsb0VrN3FWQU9nVkhOSFdVOHZQaEN3ck05U2FuSzUtMUFtYUVwa2Q4VFh3UUNjZWVyUTc1UC02RTF6dUxHeGxURjBmc29EQWJZdjZXbnhmcXR5LUhnZk5HbktPdkUwdzFaUnJOTkp1My1OT2FuMEFKTWpzZDJ6TEViRUU?oc=5",
    "ts": "Thu, 05 Nov 2026 11:21:01 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump-Backed Trade Corridor Advances Despite Geopolitical Resistance - Crude Oil Prices Today | OilPrice.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNld0QXZUbGxFTGlfWkxKZFhWRnRfRks0ZmY5LTZYclJTZXowZldpMGNWNkxKd0xvVkZubFdPTEQtSDlwbEJTbHVQci1VakRwRENnMGZuVkZtRjFOU05EZ0V3WS01VTdJOHh1allrQkNPVW5UWld1WDdIS1FMeFo3SFJDYXl5eXJESHN3ZlhVb0hSeEI3RTNOdGpwbUNEUzUzcE9jdU54VkZrRVBHR09QaNIBtgFBVV95cUxPeGR4Q3lzc0VtY2dLbjhtRG5VVGxCXzBoN3pUMHNQb0ViZ3NWdTUtVlJlRHVJbWhpdGpadVdHaTJTejJBaWNIWTZiSE4tSWRXYzMtaWtOT1JDYXVEaGVjVi0ya2t5dlh3N0dIbDlNMk4xcjdYMzZHMWZncVBBTlgzbFJGM0wzVDBhZVBPT2tLTm55SFM2QnB2N0U2cUJoUXlQWmN3Z1drR2huXzBwdG9DYXh3OVJvUQ?oc=5",
+   "ts": "Sat, 07 Nov 2026 18:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -440,12 +446,6 @@
    "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues - ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjlHb2U1LVBiU29ZOGVGTnhubkJZUUF3ejRLQy12ejROd1lIaVMzTS1hVEVqMWx2Z3VQMmcxakItTzNzQVJ2WU1qN2tCUWNCMkUtVi1Od0FyejlRVUNTb01ZX29WUGwxU0g0RlFrU09Mc0lQZlZuaFNGVTdiUTBEQW5VM28xcFd6a2k3RW5GNGJlZktPRG5zbFB6a0hFOUpLRWNhSU9WaGg4LTRUOVBWSmxtWG5zd9IBuwFBVV95cUxQUFFsbWN1ZmxlNWRuaFAxaXBqUTJLVjFDX2M5Ui15TjhSeGpyRjN5NVZMZ01TNlVWX2NGU0tGVThHSE5jZVhFdFowSVhMTjNVdmVEd1NwbU1DcFVOaHVaWmwxOG10WWJKSnVVVmhFZGhLa0J0MkMzV2Jock1UdXFtekpKeXAtaDJPWjlfaXhueHpnWW8wcjBwUXNCRGRLVFoyQUREblVacG5QSjZrU3hkQmN6V0RCUmhmZUpv?oc=5",
    "ts": "Fri, 06 Nov 2026 04:06:34 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump's political humbling signals short-term gain, long-term pain for China - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVBkVEFRMUNIQ0xmQVZXR1lLZmJBeVJiMXJMalZKLTRCaG00cmhCWjVKQjZmUUh3ajlGY3hjejlwRm40M1BNVXlwWFJjcXU0Um40QVNQY1BjNEZFbGF0RUdvamZYNlBCelY2UFBuOHVzU2pRYWk5RXRPbjU5QkdwcUo2cXhKU2JqMy01ZHpoQk5MbTg2a19rdXRCR1JLeFI2RzJMNDNtMm9LelZOWS1vaVpyNG5GS2pManc?oc=5",
-   "ts": "Thu, 05 Nov 2026 07:57:00 GMT"
   },
   {
    "src": "gnews",

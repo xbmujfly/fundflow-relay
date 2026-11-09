@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-09T14:45:20Z",
+ "ts": "2026-11-09T15:00:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -365,6 +365,18 @@
   },
   {
    "src": "gnews",
+   "title": "China is extending its U.S.-China trade truce through January, keeping 10% tariff - Quartz",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpUlZZblVpYUlnZ0VCZmdDMmdsN0FZRklFRHVFOXFkbGJhdnl3dVEzZ1lOUTZkMXQ5QkNieXpBMkpnSi1UY1gzMjlVVHJ3TEhmd0N5bFRSUXAzSTd4RXNUSG9MTXR2a2ZobWktUXRxZnE?oc=5",
+   "ts": "Mon, 09 Nov 2026 12:26:37 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Midterm Voters Disapproved Of Trump’s Tariffs And Immigration Policies - Forbes",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHowVm5MaWdLbnZhbVJmb0o3Rk5MSzNDZXN0bU1BTWpkMGJaTWU5aFpGRGFteEtudmU5YXN1VzNoRGI4MnRzVmRpMUlDRkRzUTk1eHpEckIzWkl0RkVOczhmc1dfc191S1ZDYlZmX2lzenlibF90TEtsQVd1NHNQcW01WjRwYXR0aUNOdjF1bW55allXN2pNRTdQblhrQTR2bTNJNEFYbDdZLUR1NWdSWmdqQTNhWmo3UWZMWjBmVUo0ZjQ?oc=5",
+   "ts": "Mon, 09 Nov 2026 14:32:10 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Could the blue wave change Trump's tune with Canada? | Opinion - Akron Beacon Journal",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSVBYQzZlTmhES1Z5ZXUtM1BvZ1d4TlVmUGkzQ1dqZEhZTU5yU0s4bXROR3FZRmlERGF5NjhaZEw0OE83OGYtaDhhaW5jSHpiOXZrTk1hOFA2am5MY0xwZUhjN2JVSG01WThRVGxQNXNZS3NCZk4tX2I2STV6d3hKaUdOdXhJZnJxWjFzTWx1Um1YR0htZWZkd1R3a0lEbGFDWm1KaExyNUZJX1Z0dUMycEU0Wi01M1c4R3hUai1mSXVNUFU?oc=5",
    "ts": "Mon, 09 Nov 2026 11:03:00 GMT"
@@ -377,15 +389,15 @@
   },
   {
    "src": "gnews",
-   "title": "China is extending its U.S.-China trade truce through January, keeping 10% tariff - Quartz",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpUlZZblVpYUlnZ0VCZmdDMmdsN0FZRklFRHVFOXFkbGJhdnl3dVEzZ1lOUTZkMXQ5QkNieXpBMkpnSi1UY1gzMjlVVHJ3TEhmd0N5bFRSUXAzSTd4RXNUSG9MTXR2a2ZobWktUXRxZnE?oc=5",
-   "ts": "Mon, 09 Nov 2026 12:26:37 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Southeast Asia rides out the return of Trump’s tariffs - East Asia Forum",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcEFNXzAxYlB2M0g2SkhWY3F6ZEFFbXl5TzkzUWZFSkxWVUMxRHoxRU4tMnlUV180VjNtaFZWNFNpTEwyckVQRVZOYnZGZEtJS0FmZloybFZzU1VJS0cxaEJPVXZPZTJjU29MMF9BMFkxajZYQlVab0U0M2FMSTNaZTh0R1FmSl9wS0t3eVpsclIyWHV3RWc?oc=5",
    "ts": "Mon, 09 Nov 2026 11:04:04 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "The Trump Trade Is Dead. Don't Buy The Dip Yet (SOX) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRVlsSXdrVGdBVVVPYUdWeTJlTWV5MUhEQm8ydEtNTUtPR09jZTV6TjFtMTdCbUxNOXl6bDRVVEdCMDVKU1pNd3RfZy1zZ3VpZ192RUh0RkJEbWY5S2w2NU81VzZ0bzg5N2ozV0hlcWpUV2ROekJ5NHhveGVRb0hUcjdDSnhmYlUyTzVDOE5R?oc=5",
+   "ts": "Mon, 09 Nov 2026 13:36:00 GMT"
   },
   {
    "src": "gnews",
@@ -422,18 +434,6 @@
    "title": "Trump’s trade chief pushing him to step up negotiations with Canada - Politico",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUY3c1JIclBSa09VTXM3UlJiMWtrUkxUdFJoRTV6Zl9ZZGJQcUlCTFppQm9ESWhrcGVfTWRHdy1SSkU4U2ktY2ZiMEtWNnBiWkhDQmVuajlhTlFDa3NJM0dESGNTeWdPbmNMWTBxV2swVkhLbV9QdFdhUWhORl9Ca2NHUFlxNEFFamRWNzhQRlJEdFNadkd5M1RQMTM?oc=5",
    "ts": "Tue, 03 Nov 2026 23:55:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "US urges China to honour Busan trade deal commitments - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemI4U2V6Z1BYeGlHbDlHSENZR1JaR1VxQ0hZVFRZWTlpNGhfMDdDel9udEcyVTM5eThkaDJENTUzdURpTGFwTFl0WkRpVjl5dGFvZEgydXk3ZDRNN1ZTZHZIRXVvclY3OGRPemk1eWtCSWdTY2RvdVpLSjByTXNkR202ZDZxNFNUNmh1SnBQUW1BNjdwRzRUajRTYnZxZ9IBowFBVV95cUxOajB4Y3FQZHRmZlp5ZHNiMThkUk5ZMEt0cjNyZDBmY1JhREVQRkRRbnZiRWxUZzdEaUJqcDZDMEc3c2xqMVkzSmZwaUdvSk5jMHdOLWlfTU12bzJWaVBTeVYzYUFiNlRoQnlTOXc4TkpKWGRYQjZReEFaTG9CYkxTTUQ5Y0tScWpQVVhjLWtrNlNNUzJkVE9NSFFZM184YTJhQWNN?oc=5",
-   "ts": "Fri, 06 Nov 2026 23:18:04 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "The Trump Trade Is Dead. Don't Buy The Dip Yet (SOX) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRVlsSXdrVGdBVVVPYUdWeTJlTWV5MUhEQm8ydEtNTUtPR09jZTV6TjFtMTdCbUxNOXl6bDRVVEdCMDVKU1pNd3RfZy1zZ3VpZ192RUh0RkJEbWY5S2w2NU81VzZ0bzg5N2ozV0hlcWpUV2ROekJ5NHhveGVRb0hUcjdDSnhmYlUyTzVDOE5R?oc=5",
-   "ts": "Mon, 09 Nov 2026 13:36:00 GMT"
   },
   {
    "src": "gnews",

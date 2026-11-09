@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-09T01:00:27Z",
+ "ts": "2026-11-09T01:15:20Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,13 +341,19 @@
   },
   {
    "src": "gnews",
+   "title": "Similarity is not exposure: Measuring spillovers from US–China trade frictions - CEPR",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVJHQXU2RG1VeWxpZjdjVkRaY2FRQVRRQWVpbG95Qmx4RjY0MTdGZVRjb0dDM1doN0lYb083ckNPVHNZUzJqN00ybWc3bjRTRk5ZRUQxMTlSZ3VFdnBOSU9iTmZmbndsRm9CdkE3MmQ3LTFJYVZzdHRFYXVaZmxyb1dtQTRfa185clRQT1o1enN6c3E2MWgyTzB2b0JqQnNrcEE?oc=5",
+   "ts": "Mon, 09 Nov 2026 01:02:45 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting - DW.com",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
    "ts": "Sun, 08 Nov 2026 01:47:07 GMT"
   },
   {
    "src": "gnews",
-   "title": "Bessent, Greer Raise Concerns on China Trade Deal Actions - Bloomberg",
+   "title": "Bessent, Greer Raise Concerns on China Trade Deal Actions - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUThIM0tOMDlPV2h4TURPZHZyVlJjUGRLWlZOV21nb3gwS3RON3RQdk1PZUFNOTVpZ2k0VG4tQ0xyWWd1R0JrZzV2MVhwS3B6dzY0eGtkbWxXajRreGpIRlZWUXVkc2haWVVsaXNZaUwzYWdmaU8tS21KS1ZaRlVZT3dNanpJamNZRURtOVRibHFpMERibTF0OGNwQnFkWENSVXJScXpJclFuamc?oc=5",
    "ts": "Sat, 07 Nov 2026 01:33:00 GMT"
   },
@@ -434,12 +440,6 @@
    "title": "China threatens retaliation as EU mulls trade “kill-switch” - Euronews.com",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHBIVUJVUy1WX2c0dm5wZjhYWERMOU1GcGY5VDJvR1h4VlFvWGJDdzRyQVdEYzFaNEZqbERsb0VrN3FWQU9nVkhOSFdVOHZQaEN3ck05U2FuSzUtMUFtYUVwa2Q4VFh3UUNjZWVyUTc1UC02RTF6dUxHeGxURjBmc29EQWJZdjZXbnhmcXR5LUhnZk5HbktPdkUwdzFaUnJOTkp1My1OT2FuMEFKTWpzZDJ6TEViRUU?oc=5",
    "ts": "Thu, 05 Nov 2026 11:21:01 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s Push to Expand Yuan Use in Africa: Strategy, Trade and Financial Influence - Modern Diplomacy",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNzRZSllzNm9Ja0xmajcwOVlZWjhzaXUzWHZrUE9rMEhVOTBnN1lXbEJGN0pTTWkwYTd4b2g3UV9pbWdSMmpjaXpVNjNMemVZQnRJVWpMLVQzOXM3RmJoR05RMklOZ29OZnItNGN5WVVkaEZYZlZOLTdjNHY2dC02U19pTEhWSlBlenJsUEVLRzBDTGxKSVZtUktyXzg2UTlSb29Vb09oMG9NWTloMk5uV3dJcS0wWXY4UGc?oc=5",
-   "ts": "Sun, 08 Nov 2026 14:30:33 GMT"
   },
   {
    "src": "gnews",

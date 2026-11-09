@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-09T05:45:19Z",
+ "ts": "2026-11-09T06:00:26Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -400,15 +401,15 @@
   },
   {
    "src": "gnews",
-   "title": "Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles - FreightWaves",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGh6VTh3aDhXRmw4S1NkQ3ZtbEJ4YU5mdWthalVqdk44bW02VzhDWDV4NmpMWGhpX3JxaE1xV3NtWnF1aXBsN3ZsQTVNN0ZGNXYyZk41Q01Nc0JRMEtpMFdDeGtwVjNYVFZJMTJTalpzaGYwWjdNWFdINGNaQXItYkV0N0RLTHZ0VWFFVTREdGlDRlQyYlZtX3NoVWJRc0M1VXZpd01mcEo2MkRsbGdj?oc=5",
-   "ts": "Sun, 08 Nov 2026 12:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory - ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTNUYllWQmZpQmliVmZTSDBSTENwc2hhNUFWU3BGcnBXZmpIZXNSV3VnZVl1NWU5Yi1acXZ3SjduRU9Cc3N4RXJRX19rMEFYQW8tVldQTXg3bjRVZU9KR05zYjdSSk9xX0ZMS1VCQ3hNcXZUX21KZDZlcWhNSmIzQzZBZnZXQXhxVE91LTFBdTQ4NEduYzl4TlliX2pVZy01NFdRcHpJNE80aUQ3cEFr0gG0AUFVX3lxTFBpR1pyM3M4UWU4MXV1d0ZIMkRudjZpYXJYMElUVHlCcXRPUldYbHJBalZsaVlNem4zWlV2QjlkTnFDaDV0b3k1dVhBRE1mVFdtVkpzNU9WajJiVkQzMGpyWFlJZGd5V3lHaU1HaTMyWk9BNkxYbTZmcFg0QmtRb2ExeldQSEtfekpEUTE1cXB5SFNONW1YQXlRVy11YkVBRjN6WHRSTkF1czNxTXJtdUZoSU5pZg?oc=5",
    "ts": "Fri, 06 Nov 2026 20:51:57 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles - FreightWaves",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGh6VTh3aDhXRmw4S1NkQ3ZtbEJ4YU5mdWthalVqdk44bW02VzhDWDV4NmpMWGhpX3JxaE1xV3NtWnF1aXBsN3ZsQTVNN0ZGNXYyZk41Q01Nc0JRMEtpMFdDeGtwVjNYVFZJMTJTalpzaGYwWjdNWFdINGNaQXItYkV0N0RLTHZ0VWFFVTREdGlDRlQyYlZtX3NoVWJRc0M1VXZpd01mcEo2MkRsbGdj?oc=5",
+   "ts": "Sun, 08 Nov 2026 12:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -457,126 +458,6 @@
    "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues - ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjlHb2U1LVBiU29ZOGVGTnhubkJZUUF3ejRLQy12ejROd1lIaVMzTS1hVEVqMWx2Z3VQMmcxakItTzNzQVJ2WU1qN2tCUWNCMkUtVi1Od0FyejlRVUNTb01ZX29WUGwxU0g0RlFrU09Mc0lQZlZuaFNGVTdiUTBEQW5VM28xcFd6a2k3RW5GNGJlZktPRG5zbFB6a0hFOUpLRWNhSU9WaGg4LTRUOVBWSmxtWG5zd9IBuwFBVV95cUxQUFFsbWN1ZmxlNWRuaFAxaXBqUTJLVjFDX2M5Ui15TjhSeGpyRjN5NVZMZ01TNlVWX2NGU0tGVThHSE5jZVhFdFowSVhMTjNVdmVEd1NwbU1DcFVOaHVaWmwxOG10WWJKSnVVVmhFZGhLa0J0MkMzV2Jock1UdXFtekpKeXAtaDJPWjlfaXhueHpnWW8wcjBwUXNCRGRLVFoyQUREblVacG5QSjZrU3hkQmN6V0RCUmhmZUpv?oc=5",
    "ts": "Fri, 06 Nov 2026 04:06:34 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "China poses a serious threat to American space dominance",
-   "url": "https://aninews.in/news/world/asia/china-poses-a-serious-threat-to-american-space-dominance20261109072947/",
-   "ts": "20261109T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " [ 미국 특징주 ] 폭스 , 로쿠 220억달러 인수 완료 ... 스트리밍 공룡 출범",
-   "url": "https://www.newspim.com/news/view/20261109000842",
-   "ts": "20261109T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Asian stocks steady as AI , Mideast jitters recede",
-   "url": "https://www.bordermail.com.au/story/9388242/asian-stocks-steady-as-ai-mideast-jitters-recede/",
-   "ts": "20261109T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says his deportation policy  might have been too tough  for voters",
-   "url": "https://www.bournemouthecho.co.uk/news/national/26710164.trump-says-deportation-policy-might-tough-voters/",
-   "ts": "20261109T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ایران جنگ کے خاتمے کی کوششیں ، ٹرمپ اور قطری وزیراعظم آج وائٹ ہاؤس میں ملیں گے",
-   "url": "https://www.express.pk/story/2843124/trump-to-meet-qatar-prime-minister-at-white-house-amid-iran-conflict-2843124",
-   "ts": "20261109T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Nvidia launches investigation into CEO alleged relationship with Chinese spy",
-   "url": "https://news.wjct.org/national-news/2026-11-08/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
-   "ts": "20261109T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "特朗普回应黄仁勋出轨 ： 他是跟某个人有过来往 但谁不是这般呢",
-   "url": "https://finance.sina.com.cn/tech/roll/2026-11-09/doc-iniycfmy3005355.shtml",
-   "ts": "20261109T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Стубб и премьер Норвегии тайно месяцами готовили звонок Путину",
-   "url": "https://aif.ru/politics/world/stubb-i-premer-norvegii-tayno-mesyacami-gotovili-zvonok-putinu",
-   "ts": "20261109T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Pope Leo urges President Milei , a Trump ally , to  safeguard democracy  on arrival in Argentina",
-   "url": "https://krdo.com/news/national-world/cnn-world/2026/11/08/pope-leo-urges-president-milei-a-trump-ally-to-safeguard-democracy-on-arrival-in-argentina/",
-   "ts": "20261109T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Трамп обозначил потенциальных преемников на пост президента США",
-   "url": "https://news.day.az/world/1873166.html",
-   "ts": "20261109T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Defends Record In  60 Minute Interview | News Talk 1090 WKBZ - AM",
-   "url": "https://newstalk1090.iheart.com/content/2026-11-09-trump-defends-record-in-60-minutes-interview/",
-   "ts": "20261109T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Veteran GOP strategist gets savage reminder after saying voters  believed  GOP failed",
-   "url": "https://www.rawstory.com/newt-gingrich-2678334236/",
-   "ts": "20261109T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "马斯克跟帖  吃瓜  黄仁勋出轨风波 ， 转帖后只回复了一句话 ： 我同意  |韩国|特朗普",
-   "url": "https://www.163.com/dy/article/LB9UM2KQ0514D3UH.html",
-   "ts": "20261109T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says  a lot of people  objected to Vance remarks blaming midterm defeat on Iran war",
-   "url": "https://aninews.in/news/world/us/trump-says-a-lot-of-people-objected-to-vances-remarks-blaming-midterm-defeat-on-iran-war20261109080332/",
-   "ts": "20261109T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "The digital age of distrust",
-   "url": "https://www.michigandaily.com/opinion/columns/the-digital-age-of-distrust/",
-   "ts": "20261109T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Іран оголосив Трампу вимоги для припинення війни та нові погрози DSnews . ua",
-   "url": "https://www.dsnews.ua/ukr/world/iran-ogolosiv-trampu-vimogi-dlya-pripinennya-viyni-ta-novi-pogrozi-09112026-471422",
-   "ts": "20261109T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Iranian Armed Forces warn US against hegemonic policies , say any aggression will lead to  collapse , disintegration  ",
-   "url": "http://www.iranherald.com/news/279420853/iranian-armed-forces-warn-us-against-hegemonic-policies-say-any-aggression-will-lead-to-collapse-disintegration",
-   "ts": "20261109T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "엔비디아 AI데이 향하는 참석자들",
-   "url": "https://www.newspim.com/news/view/20261109000859",
-   "ts": "20261109T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says his deportation policy  might have been too tough  for voters",
-   "url": "https://www.wharfedaleobserver.co.uk/news/national/26710164.trump-says-deportation-policy-might-tough-voters/",
-   "ts": "20261109T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Война в Иране : почему Трамп требует от союзников компенсаций",
-   "url": "https://iz.ru/2198465/2026-11-09/tramp-obiazal-strany-blizhnego-vostoka-polnostiu-oplatit-voennye-izderzhki-ssha",
-   "ts": "20261109T053000Z"
   }
  ]
 }

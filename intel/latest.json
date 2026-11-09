@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-09T13:15:19Z",
+ "ts": "2026-11-09T13:30:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -389,21 +389,15 @@
   },
   {
    "src": "gnews",
-   "title": "After the Midterm Rout, Can Trump Change Course Without Giving Up Tariffs? - Carnegie Endowment for International Peace",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTlPWVM2SzF4RmJ1Ry1oX2NOMWc0MGJQREpBLTE5OEZ2RnVDT2JtZFZXR1JYWDRka19hUWkzTWJCR1ZrNVQ3R0RTUEFOcDJVSXJnWE54YjFlOUR6RkVUWTNiYWJweWsxQUI2TmpGWTdFZmtOc1VnVllRdWM1ajlhbjg5UXkxZ3Vid3c?oc=5",
-   "ts": "Fri, 06 Nov 2026 18:10:28 GMT"
+   "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYy1vdWUwVXRwOE5ZT180NmxHZ0JocXpNaEpYQWNmYmh4dXBrN1Q0SFBpYkMtXzRJSFQ4WkNKbUI5Z1VCS25kRVZpSDJaSTlEY1FsVlNkZTUxSG1jclhnNDlaZnNWMTdLWG9QQmdLZjhWOElZNDVGeVlYdFA0TVVvUW51ZFk?oc=5",
+   "ts": "Fri, 06 Nov 2026 17:20:21 GMT"
   },
   {
    "src": "gnews",
    "title": "Port fee truce extended to January as Democratic sweep clouds US-China trade outlook - Kuehne+Nagel",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVlPeHdfaWNFa0xCeGtmVzlacXFJbzhNeDBoTVhLUTcwdW5nQW1ZNExSQVBrUlY0QS05V3BwYVNqbjc4TTRhd3pyOWtpaEZLN3dfYWlhZXFzVXlqZnVWTl9rWEVMN2stZkJxTVN0SXZyc0lkQjZLb0hmb2pnUmpVVkdtN3FhUHc?oc=5",
    "ts": "Mon, 09 Nov 2026 12:21:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYy1vdWUwVXRwOE5ZT180NmxHZ0JocXpNaEpYQWNmYmh4dXBrN1Q0SFBpYkMtXzRJSFQ4WkNKbUI5Z1VCS25kRVZpSDJaSTlEY1FsVlNkZTUxSG1jclhnNDlaZnNWMTdLWG9QQmdLZjhWOElZNDVGeVlYdFA0TVVvUW51ZFk?oc=5",
-   "ts": "Fri, 06 Nov 2026 17:20:21 GMT"
   },
   {
    "src": "gnews",
@@ -425,15 +419,21 @@
   },
   {
    "src": "gnews",
+   "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
+   "ts": "Thu, 29 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China Extends Pause on US Tariffs and Trade Curbs for Two Months - Bloomberg Law News",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTGFhYV9BRkdQN2tMQl9jX05tTDBmNFVDTnJlZWkwcUQycmJzX0RDR1o4SzNtT1JRdVJIVW83RmRnRlFUeURZNXBjaTg0RDZrYzFiZ1c0MHNxZ2JOcHdtcENORURLRTdVRU1XZFF1UGtxUEYtc0JxZ0ZWTlR0TTZrdHFVWmNEWFdxd1hwZHNOaTBJbkVpeGFSYm5MbEtkR0xfcDhVMllGdWpEYzZGYlBKVnJ2dkg?oc=5",
    "ts": "Mon, 09 Nov 2026 08:52:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
-   "ts": "Thu, 29 Oct 2026 07:00:00 GMT"
+   "title": "Diplomat: Finland hopes for mutually beneficial EU-China trade - CGTN",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzk5M19DaUstcmpXMVNoTThOS043bnp5S0c1d3haZm5YdkEwTVN0NU9WNnc5Tlh1NmlyZFJ2dk9MMVktV0lrYk5HMVJXY2RXclJDZjBTckZ3ZWlEdzhyRFNpTEJTbHFvbXpvdlJUU0NtYlhtUDA1cXhxRmJTQ1FJbkJrU2dLWHFWVGFHc3U3aVEzVThHNnM1QmFoc2RVT19xaW1GbDJnQnV6cDhZWDgyb2tNWDhqZk82WGc?oc=5",
+   "ts": "Mon, 09 Nov 2026 10:33:00 GMT"
   },
   {
    "src": "gnews",
@@ -455,7 +455,7 @@
   },
   {
    "src": "gnews",
-   "title": "Poll: China's export growth expected to have remained strong in October - Reuters",
+   "title": "China's export growth expected to have remained strong in October: Reuters poll - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVRFNzRhZTJPcFpDcVlpQ05KaGtod1BoMC1rSW9YbHdYZkZxMUR0aFdTODIwUlBRVGxhUGo0Y1RNT3JibHg4SjVpUWg1d2kxN2Q4QlR5Q1l2Wnp0cUtzUW83eW95ZkxNSVBaT2ZDNFhMdFpJQVp5Y3dCclpvY0JuWnRHUGNaS1NmTmZpeF9DbWFRQ3ExVVhaWHpXdGlYNTJYaWxxdnRLWTZ2NmpYc1NaYXUxOA?oc=5",
    "ts": "Mon, 09 Nov 2026 07:13:00 GMT"
   }

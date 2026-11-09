@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-09T23:30:25Z",
+ "ts": "2026-11-09T23:45:34Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -371,9 +371,15 @@
   },
   {
    "src": "gnews",
-   "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting - Deutsche Welle",
+   "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting - DW.com",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
-   "ts": "Sun, 08 Nov 2026 01:47:07 GMT"
+   "ts": "Sat, 07 Nov 2026 04:46:35 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US-China Flights: A Stalled Recovery - The US-China Business Council",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6N1ZrUlNUV1oyVllsN2pYVkVlanY0cV9iWThPTE9NRldpOUZ5eVkyTkdFcVJFLW5xOVpJQ1E2NWRJRGF6d2J5UXE2bmZGeno5WVBXNEhQS1UtQUFMMWpQMjNZQU1zSmo0QlJkc0hETUltNnM4WDVucA?oc=5",
+   "ts": "Mon, 09 Nov 2026 17:34:25 GMT"
   },
   {
    "src": "gnews",
@@ -386,12 +392,6 @@
    "title": "Similarity is not exposure: Measuring spillovers from US–China trade frictions - CEPR",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVJHQXU2RG1VeWxpZjdjVkRaY2FRQVRRQWVpbG95Qmx4RjY0MTdGZVRjb0dDM1doN0lYb083ckNPVHNZUzJqN00ybWc3bjRTRk5ZRUQxMTlSZ3VFdnBOSU9iTmZmbndsRm9CdkE3MmQ3LTFJYVZzdHRFYXVaZmxyb1dtQTRfa185clRQT1o1enN6c3E2MWgyTzB2b0JqQnNrcEE?oc=5",
    "ts": "Mon, 09 Nov 2026 01:02:45 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "US-China Flights: A Stalled Recovery - The US-China Business Council",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6N1ZrUlNUV1oyVllsN2pYVkVlanY0cV9iWThPTE9NRldpOUZ5eVkyTkdFcVJFLW5xOVpJQ1E2NWRJRGF6d2J5UXE2bmZGeno5WVBXNEhQS1UtQUFMMWpQMjNZQU1zSmo0QlJkc0hETUltNnM4WDVucA?oc=5",
-   "ts": "Mon, 09 Nov 2026 17:32:57 GMT"
   },
   {
    "src": "gnews",
@@ -419,9 +419,9 @@
   },
   {
    "src": "gnews",
-   "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5",
-   "ts": "Mon, 09 Nov 2026 18:37:00 GMT"
+   "title": "The Trump Trade Is Dead. Don't Buy The Dip Yet (SOX) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRVlsSXdrVGdBVVVPYUdWeTJlTWV5MUhEQm8ydEtNTUtPR09jZTV6TjFtMTdCbUxNOXl6bDRVVEdCMDVKU1pNd3RfZy1zZ3VpZ192RUh0RkJEbWY5S2w2NU81VzZ0bzg5N2ozV0hlcWpUV2ROekJ5NHhveGVRb0hUcjdDSnhmYlUyTzVDOE5R?oc=5",
+   "ts": "Mon, 09 Nov 2026 13:36:00 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "The Trump Trade Is Dead. Don't Buy The Dip Yet (SOX) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRVlsSXdrVGdBVVVPYUdWeTJlTWV5MUhEQm8ydEtNTUtPR09jZTV6TjFtMTdCbUxNOXl6bDRVVEdCMDVKU1pNd3RfZy1zZ3VpZ192RUh0RkJEbWY5S2w2NU81VzZ0bzg5N2ozV0hlcWpUV2ROekJ5NHhveGVRb0hUcjdDSnhmYlUyTzVDOE5R?oc=5",
-   "ts": "Mon, 09 Nov 2026 13:36:00 GMT"
+   "title": "Event calendar in Asia Tuesday, November 10, 2026: BoJ and China trade data - investingLive",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hQenlWQ2ZnNnY0SnBJdEhOVEk1cEIyR0ZFWnRRX2lqRW0weUUwNzlmTW5QNzYwMjRldDR3VUNrTU0wVjdjWDNoWVJxdDUwaGhzWWY4UW9iVDRLV2lVV25XS3JPakRaQ3NuU2Vtb2l4eFRUaGFWb2dFRGlpQ1ZYVUJ1bjBNQ3ZoTkwzQzJyOThaY1pmektwdnBkRDRQYVlXT1h1TnUxZVprMmtPamV2bzYyaw?oc=5",
+   "ts": "Mon, 09 Nov 2026 21:03:48 GMT"
   }
  ]
 }

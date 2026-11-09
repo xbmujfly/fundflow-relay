@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-09T10:30:21Z",
+ "ts": "2026-11-09T10:45:21Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -340,15 +340,15 @@
   },
   {
    "src": "gnews",
-   "title": "China Extends Pause on US Tariffs and Trade Curbs for Two Months - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkVXSkNKNzRBdXBNUlFmNVlEZ3gtUVhRbVVZcENiS3B6RXBlMDNvQ2lrU19fMXoyYkdSQWc5amg5OXlhcmtKX0JHZHR2amtKY2hzZllpQUhWS3lTNndnT2NDZFdYUHNCeG1MVHZmMWV5RjEwTXJqVmlLQTJDU0d3SHN2aHVOZ291bTNqNnprR3U2TndhUEs0ZHdDTVM2NlRsZW5VQUxKd25JLXV0MlJ6aXRR?oc=5",
-   "ts": "Mon, 09 Nov 2026 08:52:55 GMT"
+   "title": "China extends US trade truce by two months - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5",
+   "ts": "Mon, 09 Nov 2026 02:48:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "China extends suspensions of 24% tariff on US goods, port fees on US ships for two months - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5",
-   "ts": "Mon, 09 Nov 2026 02:48:00 GMT"
+   "title": "China Extends Pause on US Tariffs and Trade Curbs for Two Months - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkVXSkNKNzRBdXBNUlFmNVlEZ3gtUVhRbVVZcENiS3B6RXBlMDNvQ2lrU19fMXoyYkdSQWc5amg5OXlhcmtKX0JHZHR2amtKY2hzZllpQUhWS3lTNndnT2NDZFdYUHNCeG1MVHZmMWV5RjEwTXJqVmlLQTJDU0d3SHN2aHVOZ291bTNqNnprR3U2TndhUEs0ZHdDTVM2NlRsZW5VQUxKd25JLXV0MlJ6aXRR?oc=5",
+   "ts": "Mon, 09 Nov 2026 08:52:55 GMT"
   },
   {
    "src": "gnews",
@@ -394,6 +394,12 @@
   },
   {
    "src": "gnews",
+   "title": "China Extends Pause on US Tariffs and Trade Curbs for Two Months - Bloomberg Law News",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTGFhYV9BRkdQN2tMQl9jX05tTDBmNFVDTnJlZWkwcUQycmJzX0RDR1o4SzNtT1JRdVJIVW83RmRnRlFUeURZNXBjaTg0RDZrYzFiZ1c0MHNxZ2JOcHdtcENORURLRTdVRU1XZFF1UGtxUEYtc0JxZ0ZWTlR0TTZrdHFVWmNEWFdxd1hwZHNOaTBJbkVpeGFSYm5MbEtkR0xfcDhVMllGdWpEYzZGYlBKVnJ2dkg?oc=5",
+   "ts": "Mon, 09 Nov 2026 08:52:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
    "ts": "Thu, 29 Oct 2026 07:00:00 GMT"
@@ -421,12 +427,6 @@
    "title": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory - ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTNUYllWQmZpQmliVmZTSDBSTENwc2hhNUFWU3BGcnBXZmpIZXNSV3VnZVl1NWU5Yi1acXZ3SjduRU9Cc3N4RXJRX19rMEFYQW8tVldQTXg3bjRVZU9KR05zYjdSSk9xX0ZMS1VCQ3hNcXZUX21KZDZlcWhNSmIzQzZBZnZXQXhxVE91LTFBdTQ4NEduYzl4TlliX2pVZy01NFdRcHpJNE80aUQ3cEFr0gG0AUFVX3lxTFBpR1pyM3M4UWU4MXV1d0ZIMkRudjZpYXJYMElUVHlCcXRPUldYbHJBalZsaVlNem4zWlV2QjlkTnFDaDV0b3k1dVhBRE1mVFdtVkpzNU9WajJiVkQzMGpyWFlJZGd5V3lHaU1HaTMyWk9BNkxYbTZmcFg0QmtRb2ExeldQSEtfekpEUTE1cXB5SFNONW1YQXlRVy11YkVBRjN6WHRSTkF1czNxTXJtdUZoSU5pZg?oc=5",
    "ts": "Fri, 06 Nov 2026 20:51:57 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Port fee truce extended to January as Democratic sweep clouds US-China trade outlook - Lloyd's List",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTmQ4c0pqcHZEYjRfSXlNZzYzVTNRcXBYcWI3RVVTandmUTlvLVU4S09ESXljUjljLTl4Wi11cTJmRXBNZ1RZaG52NEtFaU9KcjNXbUhNdXQ5eVpfWTVlVHd2MjE4bWc1Wm9LYWJWWmhuU2lORlNCN3cyb0V2eExLeTNEdUJhdWtXNTMzMlZNblQzZmlLLW9ZcGpXUDBfLUk2bGUzWGowdWdqNUtXV05QYlNPZmJmaHJzRGVmS19B?oc=5",
-   "ts": "Mon, 09 Nov 2026 07:45:04 GMT"
   },
   {
    "src": "gnews",

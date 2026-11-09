@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-09T00:45:18Z",
+ "ts": "2026-11-09T01:00:27Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -436,6 +437,12 @@
   },
   {
    "src": "gnews",
+   "title": "China’s Push to Expand Yuan Use in Africa: Strategy, Trade and Financial Influence - Modern Diplomacy",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNzRZSllzNm9Ja0xmajcwOVlZWjhzaXUzWHZrUE9rMEhVOTBnN1lXbEJGN0pTTWkwYTd4b2g3UV9pbWdSMmpjaXpVNjNMemVZQnRJVWpMLVQzOXM3RmJoR05RMklOZ29OZnItNGN5WVVkaEZYZlZOLTdjNHY2dC02U19pTEhWSlBlenJsUEVLRzBDTGxKSVZtUktyXzg2UTlSb29Vb09oMG9NWTloMk5uV3dJcS0wWXY4UGc?oc=5",
+   "ts": "Sun, 08 Nov 2026 14:30:33 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "How Canada Inflicted Maximum Midterms Pain on Trump - Politico",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeXJXbDVQZnhtc1Vva2NDUTB3VHotRDFjUzk4QzZIX3pqYU1hdDhKYklUZDJDM2xYU3hqMXZMRlphQXo1dXYyTGZIaGYtNWpYMFg1a25PQTA0UzhES2ZQRERLRFNId1RhRE5lVXJYSFA3V1pKaEJvSXFXYmMwaUFuRENBRjd3NFBKWG9CTmxxd3JqbkNHUkhOUVNmb0hqcFVURUE?oc=5",
    "ts": "Sun, 08 Nov 2026 12:00:00 GMT"
@@ -448,135 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade - Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnlsdF9sNDNwY0VTbjBVa1QwUmFYZXJQUWhfcEdtSF9NUWFlNS1KOTh5RW1EcXQ3NUpsVnFVazZsSmRBZ01pUkRkVFRRTXlvWkcxUjFzYVlMa2d3YmZqaWs0dXBzLTBWNE5MZ19wWW1LQldvbFJSNUM4MzBnUUZsYVlDczRmLWI3UnZ2WTFxT1VwWkFWZHBUdXYyUWlZeE9XSWVxTDhSSmxyUktGb0dIaXMyUnJqdw?oc=5",
-   "ts": "Fri, 06 Nov 2026 20:37:40 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump's political humbling signals short-term gain, long-term pain for China - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVBkVEFRMUNIQ0xmQVZXR1lLZmJBeVJiMXJMalZKLTRCaG00cmhCWjVKQjZmUUh3ajlGY3hjejlwRm40M1BNVXlwWFJjcXU0Um40QVNQY1BjNEZFbGF0RUdvamZYNlBCelY2UFBuOHVzU2pRYWk5RXRPbjU5QkdwcUo2cXhKU2JqMy01ZHpoQk5MbTg2a19rdXRCR1JLeFI2RzJMNDNtMm9LelZOWS1vaVpyNG5GS2pManc?oc=5",
    "ts": "Thu, 05 Nov 2026 12:53:07 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda | National",
-   "url": "http://www.thedailytimes.com/ap/national/democrats-plan-to-push-clean-energy-to-lower-bills-and-challenge-trump-s-fossil-fuel/article_87dbe6de-c3b2-54d7-90a3-b5297add1bff.html",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Трамп потребовал от Нетаниягу начать реализацию плана по Газе , не дожидаясь нового правительства",
-   "url": "https://www.newsru.co.il/israel/8nov2026/trump_0014.html",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Another aircraft carrier arrived in Norway , as did a new US ambassador | Norway News in English www . newsinenglish . no",
-   "url": "https://www.newsinenglish.no/2026/11/08/another-aircraft-carrier-arrived-in-norway-as-did-a-new-us-ambassador/",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " / Foto / Planinari iz Hrvatske i inozemstva pohodili Kutjevo i uživali u vinskoj tradiciji",
-   "url": "https://www.glas-slavonije.hr/regija/2026/11/08/martinje-u-kutjevu-vise-od-80-planinarskih-drustava-i-slavonsko-gostoprimstvo-796646/",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Jeffries Supports Impeachment Of Defense Secretary Hegseth",
-   "url": "https://wiba.iheart.com/content/2026-11-08-jeffries-supports-impeachment-of-defense-secretary-hegseth/",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "GOP civil war ignites in Arizona as Meghan McCain takes on Kirk Turning Point group",
-   "url": "https://www.rawstory.com/meghan-mccain-2678334643/",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Europe to join U . S .- brokered Ukraine talks in Abu Dhabi , defying Kremlin objections",
-   "url": "https://www.wuft.org/2026-11-08/europe-to-join-u-s-brokered-ukraine-talks-in-abu-dhabi-defying-kremlin-objections",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Houston to limit ICE cooperation after Democrats take power in Texas",
-   "url": "https://www.kristv.com/news/texas-news/houston-will-limit-ice-cooperation-in-response-to-democrats-taking-power-in-texas-mayor-says",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Fox News pundit exposes how her colleagues are lying to viewers",
-   "url": "https://www.alternet.org/fox-news-midterms-jessica-tarlov/",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Τραμπ για Ιράν : « Εξαιρετικά απίθανα » νέα πλήγματα , αλλά « είμαστε έτοιμοι » ",
-   "url": "https://www.kathimerini.gr/world/564576265/tramp-gia-iran-exairetika-apithana-nea-pligmata-alla-eimaste-etoimoi/",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Sunday Edition : Behind the Blue Wave",
-   "url": "https://www.whqr.org/local/2026-11-08/sunday-edition-behind-the-blue-wave",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Princess Anne praises SA agricultural industry in whistle - stop visit to Cape",
-   "url": "https://www.dailymaverick.co.za/article/2026-11-08-princess-anne-praises-sas-agricultural-industry-in-whistle-stop-visit-to-cape/",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "98º Encoge encerra edio com propostas para fortalecer o Judiciário",
-   "url": "https://tribunahoje.com/noticias/cidades/2026/11/08/198313-98o-encoge-encerra-edicao-com-propostas-para-fortalecer-o-judiciario",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "LIVE De Wever trekt begrotingsonderhandelingen morgen opnieuw op gang , Zuhal Demir en Bill White in de clinch",
-   "url": "https://www.vrt.be/vrtnws/nl/liveblog/de-wever-trekt-begrotingsonderhandelingen-morgen-opnieuw-op-gang~1793247532380/",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Dana White to visit White House after Trump offers him press secretary role",
-   "url": "https://www.wxii12.com/article/ufc-ceo-dana-white-press-secretary-offer/74367833",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ιράν : Η Τεχεράνη δηλώνει ότι οι διαπραγματεύσεις για τον τερματισμό του ... ",
-   "url": "https://www.capital.gr/diethni/4028579/iran-i-texerani-dilonei-oti-oi-diapragmateuseis-gia-ton-termatismo-tou-polemou-exoun-diakopei/",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "U . S . District Court Judge Issues TRO to Prevent Federal Government from Ordering Washington State Election Officials Not to Process 400 Ballots",
-   "url": "https://ballot-access.org/2026/11/08/u-s-district-court-judge-issues-tro-to-prevent-federal-government-from-ordering-washington-state-election-officials-from-processing-400-ballots/",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Europe to join U . S .- brokered Ukraine talks in Abu Dhabi , defying Kremlin objections",
-   "url": "https://www.wncw.org/2026-11-08/europe-to-join-u-s-brokered-ukraine-talks-in-abu-dhabi-defying-kremlin-objections",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Calgary police investigate morning hit - and - run in city northeast",
-   "url": "https://calgarysun.com/news/calgary-police-investigate-morning-hit-and-run-northeast",
-   "ts": "20261108T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "В секторе Газа пять палестинцев погибли при обрушении склона на палатки",
-   "url": "https://ria.ru/20261108/gaza-2130177926.html",
-   "ts": "20261108T210000Z"
   }
  ]
 }

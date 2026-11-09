@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-09T07:15:22Z",
+ "ts": "2026-11-09T07:30:33Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -418,21 +419,15 @@
   },
   {
    "src": "gnews",
-   "title": "Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles - FreightWaves",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGh6VTh3aDhXRmw4S1NkQ3ZtbEJ4YU5mdWthalVqdk44bW02VzhDWDV4NmpMWGhpX3JxaE1xV3NtWnF1aXBsN3ZsQTVNN0ZGNXYyZk41Q01Nc0JRMEtpMFdDeGtwVjNYVFZJMTJTalpzaGYwWjdNWFdINGNaQXItYkV0N0RLTHZ0VWFFVTREdGlDRlQyYlZtX3NoVWJRc0M1VXZpd01mcEo2MkRsbGdj?oc=5",
-   "ts": "Sun, 08 Nov 2026 12:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQODVTbG5PRGFYaVRPT1FGZ2pTTlpVeTNiVExObUFqcFFxUU5uZW9XbzlrVDZ5NEIya2d0REkzTlJPTk5hdF9mQmtHOU1aejBZcnJFY01MN2pUZmxLNUh2YWdPWlFYYjJDbDdHeVZUSlNON2g4M1VwUFZmSVFnem1mMU1jX1FkbFc2eVZhY0FMaHU1bHdGaGxneHpOM21qcmZmYXZ4d2FIdGNLUnJZaWs4N21VTDRUN01OcHNNOXlGU0Q4LU9lNjZvWlFn0gHKAUFVX3lxTE43UmQ4YTNqQ1RQajlMZ3FuY1d2bjd6czBST0cyZExtN1BLT3hIdnl2U0g0SWpXck16RUhPYld4YmV5YmF3dWdDLTlfeXpLVHhmTHN4SE5VSHBraUVaMGpuWm8yeTA0UXVzMi1IYkZ2ZzNQY1E4OVRBeGRVTEMyN19nSVlobUc4cXI5VW5oTU43OC05UHNwb2w2anRWNTBNZi11VUNDdWFJSy00VWtmMkpBUExjMTY4SUItbERkVlpOQnY5NUczRWRQcnc?oc=5",
    "ts": "Fri, 06 Nov 2026 18:34:11 GMT"
   },
   {
    "src": "gnews",
-   "title": "Same Tariffs, New Gavels: What the Midterms Mean for US-China Trade Relations - The US-China Business Council",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTVdPcmpoZ1J4bjBVbFlQV2xqT1F4dlRvZGw4b2JlSWFTSVU1dmZ6LUsxMHdfWWhZc1h3TkZPLTBFWGtWdFh5cWJuMU56UnoxX2tTSldJa2s5NWJjUWdqeTFNdVpKNktmNUY4NkFRc3NrRmI0S1ZIMGU1QWQ4cWVLa09jbEQ1WVdRYkNyQzVyV09yRXhyWTdQWE5CQ19pYTNIcXNEUFBJZGpXX0tnMnc?oc=5",
-   "ts": "Fri, 06 Nov 2026 15:40:10 GMT"
+   "title": "Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles - FreightWaves",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGh6VTh3aDhXRmw4S1NkQ3ZtbEJ4YU5mdWthalVqdk44bW02VzhDWDV4NmpMWGhpX3JxaE1xV3NtWnF1aXBsN3ZsQTVNN0ZGNXYyZk41Q01Nc0JRMEtpMFdDeGtwVjNYVFZJMTJTalpzaGYwWjdNWFdINGNaQXItYkV0N0RLTHZ0VWFFVTREdGlDRlQyYlZtX3NoVWJRc0M1VXZpd01mcEo2MkRsbGdj?oc=5",
+   "ts": "Sun, 08 Nov 2026 12:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -459,124 +454,10 @@
    "ts": "Sun, 08 Nov 2026 12:00:00 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "Trump says his deportation policy  might have been too tough  for voters",
-   "url": "https://www.gazetteseries.co.uk/news/national/26710164.trump-says-deportation-policy-might-tough-voters/",
-   "ts": "20261109T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says deportations were  too tough , hurt him during midterms – NBC4 Washington",
-   "url": "https://www.nbcwashington.com/news/politics/trump-says-deportations-hurt-him-during-midterms/4179850/",
-   "ts": "20261109T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "How Nvidia came to investigate CEO Jensen Huang affair with suspected Chinese spy - 09 - Nov - 2026",
-   "url": "https://home.nzcity.co.nz/news/article.aspx?id=457684&fm=psp,tst",
-   "ts": "20261109T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Deportation flight of Iranians from US scuttled at last minute , attorney says",
-   "url": "https://www.wjcl.com/article/iran-deportation-flight-canceled-last-minute/74371093",
-   "ts": "20261109T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ترامب : سياستنا في الترحيل ربما كانت متشددة أكثر من اللازم",
-   "url": "https://www.shorouknews.com/news/view.aspx?cdate=09112026&id=10a3c6ff-3278-4c35-be47-990acfabc7a8",
-   "ts": "20261109T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ترامب : ترشيح دانا وايت لمنصب متحدث البيت الأبيض كان مجرد مزاح",
-   "url": "https://www.shorouknews.com/news/view.aspx?cdate=09112026&id=9e8b8f9a-2237-41b0-9265-d1bc56a41645",
-   "ts": "20261109T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Jokes About Dana White As Press Secretary",
-   "url": "https://1190talkradio.iheart.com/content/2026-11-09-trump-jokes-about-dana-white-as-press-secretary/",
-   "ts": "20261109T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Трамп : Война закончится . Украина « будет выглядеть немного иначе » ",
-   "url": "https://haqqin.az/newsarchive/397903",
-   "ts": "20261109T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Дональд Трамп собирается принять участие в саммите АТЭС в Китае . Новости . Первый канал",
-   "url": "https://www.1tv.ru/news/2026-11-09/558382",
-   "ts": "20261109T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "امریکی عوام میں اسرائیل کیلئے شدید ناپسندیدگی پائی جاتی ہے : ڈونلڈ ٹرمپ",
-   "url": "https://jang.com.pk/news/1631753",
-   "ts": "20261109T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Deportation flight of Iranians from US scuttled at last minute , attorney says",
-   "url": "https://www.wisn.com/article/iran-deportation-flight-canceled-last-minute/74371093",
-   "ts": "20261109T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "헤그세스 탄핵 표결 초읽기 ...  트럼프 심판  민심 , 의회서도 통할까 - 국제ㅣ한국일보",
-   "url": "https://www.hankookilbo.com/news/article/A2026110914000003780",
-   "ts": "20261109T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Το μεγάλο στοίχημα της μετά Τραμπ Αμερικής : Ποιος θα κληρονομήσει την εξουσία και ποιος το MAGA ;» ",
-   "url": "https://www.newsbomb.gr/scenario/story/1775108/to-megalo-stoixima-tis-meta-tramp-amerikis-poios-tha-klironomisei-tin-eksousia-kai-poios-to-maga",
-   "ts": "20261109T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "النفط ينخفض بعد استبعاد ترامب شن ضربات جديدة ضد إيران",
-   "url": "https://www.albayan.ae/economy/business/world-economy/1563709",
-   "ts": "20261109T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "How Nvidia came to investigate CEO Jensen Huang affair with suspected Chinese spy - 09 - Nov - 2026",
-   "url": "https://home.nzcity.co.nz/news/article.aspx?id=457684&fm=psp,tsf",
-   "ts": "20261109T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Blackstone - backed Aadhar Housing Finance sees limited El Niño risk to loan book",
-   "url": "https://www.livemint.com/companies/news/blackstone-backed-aadhar-housing-finance-sees-limited-el-ni-o-risk-to-loan-book-11794196156405.html",
-   "ts": "20261109T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Defends Record In  60 Minute Interview",
-   "url": "https://kprcradio.iheart.com/content/2026-11-09-trump-defends-record-in-60-minutes-interview/",
-   "ts": "20261109T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ترامب يرجح لقاء بوتين وشي لمناقشة إنهاء الحرب في إيران",
-   "url": "https://www.albayan.ae/news/world/1563710",
-   "ts": "20261109T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Jensen Huang : Silicon Valley superstar engulfed by personal scandal",
-   "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
-   "ts": "20261109T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "الذهب يرتفع أكثر من 1 % مع تراجع مخاوف التضخم",
-   "url": "https://www.albayan.ae/economy/business/gold-markets/1563701",
-   "ts": "20261109T063000Z"
+   "src": "gnews",
+   "title": "China's export growth expected to have remained strong in October - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVRFNzRhZTJPcFpDcVlpQ05KaGtod1BoMC1rSW9YbHdYZkZxMUR0aFdTODIwUlBRVGxhUGo0Y1RNT3JibHg4SjVpUWg1d2kxN2Q4QlR5Q1l2Wnp0cUtzUW83eW95ZkxNSVBaT2ZDNFhMdFpJQVp5Y3dCclpvY0JuWnRHUGNaS1NmTmZpeF9DbWFRQ3ExVVhaWHpXdGlYNTJYaWxxdnRLWTZ2NmpYc1NaYXUxOA?oc=5",
+   "ts": "Mon, 09 Nov 2026 07:13:00 GMT"
   }
  ]
 }

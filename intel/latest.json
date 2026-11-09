@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-09T13:30:23Z",
+ "ts": "2026-11-09T13:45:20Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -343,13 +343,19 @@
    "src": "gnews",
    "title": "China extends US trade truce by two months - Reuters",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5",
-   "ts": "Mon, 09 Nov 2026 02:48:00 GMT"
+   "ts": "Mon, 09 Nov 2026 12:23:09 GMT"
   },
   {
    "src": "gnews",
    "title": "China Extends Pause on US Tariffs and Trade Curbs for Two Months - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkVXSkNKNzRBdXBNUlFmNVlEZ3gtUVhRbVVZcENiS3B6RXBlMDNvQ2lrU19fMXoyYkdSQWc5amg5OXlhcmtKX0JHZHR2amtKY2hzZllpQUhWS3lTNndnT2NDZFdYUHNCeG1MVHZmMWV5RjEwTXJqVmlLQTJDU0d3SHN2aHVOZ291bTNqNnprR3U2TndhUEs0ZHdDTVM2NlRsZW5VQUxKd25JLXV0MlJ6aXRR?oc=5",
    "ts": "Mon, 09 Nov 2026 08:52:55 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China's undervalued currency is driving its trade surplus higher - Peterson Institute for International Economics",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnkzZE15TVlhc1FHU1hzOFJXNklMWERBbUpCSVNLVUw1OFdSS25xOEdZSEY5bXNjclhEWnFCcXF4WUJmUDRyTWpnMWdoMmRyWXVTYkYtUFhmellzaDJUeUladm4zcDYwWEw2eWpLVjQzZVl3c3o5VFZHM2NnM2R6YVJMS1Qtd1d6LVRkMmZtbFZtOHl3cExTTHBwNlhsZVRETVEyWk9ZLUdBQmp3dGNycQ?oc=5",
+   "ts": "Mon, 09 Nov 2026 13:36:56 GMT"
   },
   {
    "src": "gnews",
@@ -365,15 +371,15 @@
   },
   {
    "src": "gnews",
-   "title": "Southeast Asia rides out the return of Trump’s tariffs - East Asia Forum",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcEFNXzAxYlB2M0g2SkhWY3F6ZEFFbXl5TzkzUWZFSkxWVUMxRHoxRU4tMnlUV180VjNtaFZWNFNpTEwyckVQRVZOYnZGZEtJS0FmZloybFZzU1VJS0cxaEJPVXZPZTJjU29MMF9BMFkxajZYQlVab0U0M2FMSTNaZTh0R1FmSl9wS0t3eVpsclIyWHV3RWc?oc=5",
-   "ts": "Mon, 09 Nov 2026 11:04:04 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting - DW.com",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
    "ts": "Sun, 08 Nov 2026 01:47:07 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Southeast Asia rides out the return of Trump’s tariffs - East Asia Forum",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcEFNXzAxYlB2M0g2SkhWY3F6ZEFFbXl5TzkzUWZFSkxWVUMxRHoxRU4tMnlUV180VjNtaFZWNFNpTEwyckVQRVZOYnZGZEtJS0FmZloybFZzU1VJS0cxaEJPVXZPZTJjU29MMF9BMFkxajZYQlVab0U0M2FMSTNaZTh0R1FmSl9wS0t3eVpsclIyWHV3RWc?oc=5",
+   "ts": "Mon, 09 Nov 2026 11:04:04 GMT"
   },
   {
    "src": "gnews",
@@ -407,6 +413,12 @@
   },
   {
    "src": "gnews",
+   "title": "Gary Doer Says Canadian Agriculture May Have Just Caught a Break - SeedWorld",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOTB0dXU3bkxIUjBmTnAxZWQ0YnVTYTNPc3cyWGtiMnloa1FfX0taaTVyQktDc0w0WFltYjZpOEVTRThqaE42YkEtTEo2VEZzeUZ4WjBmYl91NXBVaHZxc1A5bkxKclY4T0pfQjQzRzFoSnJVUmFFY1JpWXAxNm1KS09RclZYRXlzdlNxZnRFV04?oc=5",
+   "ts": "Mon, 09 Nov 2026 13:32:14 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump’s trade chief pushing him to step up negotiations with Canada - Politico",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUY3c1JIclBSa09VTXM3UlJiMWtrUkxUdFJoRTV6Zl9ZZGJQcUlCTFppQm9ESWhrcGVfTWRHdy1SSkU4U2ktY2ZiMEtWNnBiWkhDQmVuajlhTlFDa3NJM0dESGNTeWdPbmNMWTBxV2swVkhLbV9QdFdhUWhORl9Ca2NHUFlxNEFFamRWNzhQRlJEdFNadkd5M1RQMTM?oc=5",
    "ts": "Tue, 03 Nov 2026 23:55:00 GMT"
@@ -419,21 +431,9 @@
   },
   {
    "src": "gnews",
-   "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
-   "ts": "Thu, 29 Oct 2026 07:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China Extends Pause on US Tariffs and Trade Curbs for Two Months - Bloomberg Law News",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTGFhYV9BRkdQN2tMQl9jX05tTDBmNFVDTnJlZWkwcUQycmJzX0RDR1o4SzNtT1JRdVJIVW83RmRnRlFUeURZNXBjaTg0RDZrYzFiZ1c0MHNxZ2JOcHdtcENORURLRTdVRU1XZFF1UGtxUEYtc0JxZ0ZWTlR0TTZrdHFVWmNEWFdxd1hwZHNOaTBJbkVpeGFSYm5MbEtkR0xfcDhVMllGdWpEYzZGYlBKVnJ2dkg?oc=5",
-   "ts": "Mon, 09 Nov 2026 08:52:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Diplomat: Finland hopes for mutually beneficial EU-China trade - CGTN",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzk5M19DaUstcmpXMVNoTThOS043bnp5S0c1d3haZm5YdkEwTVN0NU9WNnc5Tlh1NmlyZFJ2dk9MMVktV0lrYk5HMVJXY2RXclJDZjBTckZ3ZWlEdzhyRFNpTEJTbHFvbXpvdlJUU0NtYlhtUDA1cXhxRmJTQ1FJbkJrU2dLWHFWVGFHc3U3aVEzVThHNnM1QmFoc2RVT19xaW1GbDJnQnV6cDhZWDgyb2tNWDhqZk82WGc?oc=5",
-   "ts": "Mon, 09 Nov 2026 10:33:00 GMT"
+   "title": "The Trump Trade Is Dead. Don't Buy The Dip Yet (SOX) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRVlsSXdrVGdBVVVPYUdWeTJlTWV5MUhEQm8ydEtNTUtPR09jZTV6TjFtMTdCbUxNOXl6bDRVVEdCMDVKU1pNd3RfZy1zZ3VpZ192RUh0RkJEbWY5S2w2NU81VzZ0bzg5N2ozV0hlcWpUV2ROekJ5NHhveGVRb0hUcjdDSnhmYlUyTzVDOE5R?oc=5",
+   "ts": "Mon, 09 Nov 2026 13:36:00 GMT"
   },
   {
    "src": "gnews",

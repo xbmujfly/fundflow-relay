@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-09T03:00:32Z",
+ "ts": "2026-11-09T03:15:22Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -347,15 +346,15 @@
   },
   {
    "src": "gnews",
-   "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting - DW.com",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
-   "ts": "Sun, 08 Nov 2026 01:47:07 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Bessent, Greer Raise Concerns on China Trade Deal Actions - Bloomberg",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUThIM0tOMDlPV2h4TURPZHZyVlJjUGRLWlZOV21nb3gwS3RON3RQdk1PZUFNOTVpZ2k0VG4tQ0xyWWd1R0JrZzV2MVhwS3B6dzY0eGtkbWxXajRreGpIRlZWUXVkc2haWVVsaXNZaUwzYWdmaU8tS21KS1ZaRlVZT3dNanpJamNZRURtOVRibHFpMERibTF0OGNwQnFkWENSVXJScXpJclFuamc?oc=5",
    "ts": "Sat, 07 Nov 2026 01:33:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting - DW.com",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
+   "ts": "Sun, 08 Nov 2026 01:47:07 GMT"
   },
   {
    "src": "gnews",
@@ -401,27 +400,27 @@
   },
   {
    "src": "gnews",
-   "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
-   "ts": "Thu, 29 Oct 2026 07:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump’s Canada Tariffs - WSJ",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVhNeS1XX0xDd1ZkN3JZMkdWcUJkaFhONTBWSmprcWxkRVpqbU02QUQxWnRVRXdlTHBzaVJNMENWaE5HaFcyU2pCVDl3SkpXV3Y4UTlEMzM4STJFc3FGVVByUW1xUHh1QWlqOWx2bHBKQTZxb09zSDQtMklkRFpsRENDbWRiNzg3dzlwMnVqbVpLQkhRVWwwT0F6UUxFODdybWFqekNqUVhrcEZKNzZz?oc=5",
    "ts": "Fri, 06 Nov 2026 02:02:52 GMT"
   },
   {
    "src": "gnews",
-   "title": "Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles - FreightWaves",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGh6VTh3aDhXRmw4S1NkQ3ZtbEJ4YU5mdWthalVqdk44bW02VzhDWDV4NmpMWGhpX3JxaE1xV3NtWnF1aXBsN3ZsQTVNN0ZGNXYyZk41Q01Nc0JRMEtpMFdDeGtwVjNYVFZJMTJTalpzaGYwWjdNWFdINGNaQXItYkV0N0RLTHZ0VWFFVTREdGlDRlQyYlZtX3NoVWJRc0M1VXZpd01mcEo2MkRsbGdj?oc=5",
-   "ts": "Sun, 08 Nov 2026 12:00:00 GMT"
+   "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
+   "ts": "Thu, 29 Oct 2026 07:00:00 GMT"
   },
   {
    "src": "gnews",
    "title": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory - ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTNUYllWQmZpQmliVmZTSDBSTENwc2hhNUFWU3BGcnBXZmpIZXNSV3VnZVl1NWU5Yi1acXZ3SjduRU9Cc3N4RXJRX19rMEFYQW8tVldQTXg3bjRVZU9KR05zYjdSSk9xX0ZMS1VCQ3hNcXZUX21KZDZlcWhNSmIzQzZBZnZXQXhxVE91LTFBdTQ4NEduYzl4TlliX2pVZy01NFdRcHpJNE80aUQ3cEFr0gG0AUFVX3lxTFBpR1pyM3M4UWU4MXV1d0ZIMkRudjZpYXJYMElUVHlCcXRPUldYbHJBalZsaVlNem4zWlV2QjlkTnFDaDV0b3k1dVhBRE1mVFdtVkpzNU9WajJiVkQzMGpyWFlJZGd5V3lHaU1HaTMyWk9BNkxYbTZmcFg0QmtRb2ExeldQSEtfekpEUTE1cXB5SFNONW1YQXlRVy11YkVBRjN6WHRSTkF1czNxTXJtdUZoSU5pZg?oc=5",
    "ts": "Fri, 06 Nov 2026 20:51:57 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles - FreightWaves",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGh6VTh3aDhXRmw4S1NkQ3ZtbEJ4YU5mdWthalVqdk44bW02VzhDWDV4NmpMWGhpX3JxaE1xV3NtWnF1aXBsN3ZsQTVNN0ZGNXYyZk41Q01Nc0JRMEtpMFdDeGtwVjNYVFZJMTJTalpzaGYwWjdNWFdINGNaQXItYkV0N0RLTHZ0VWFFVTREdGlDRlQyYlZtX3NoVWJRc0M1VXZpd01mcEo2MkRsbGdj?oc=5",
+   "ts": "Sun, 08 Nov 2026 12:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -434,6 +433,12 @@
    "title": "Same Tariffs, New Gavels: What the Midterms Mean for US-China Trade Relations - The US-China Business Council",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTVdPcmpoZ1J4bjBVbFlQV2xqT1F4dlRvZGw4b2JlSWFTSVU1dmZ6LUsxMHdfWWhZc1h3TkZPLTBFWGtWdFh5cWJuMU56UnoxX2tTSldJa2s5NWJjUWdqeTFNdVpKNktmNUY4NkFRc3NrRmI0S1ZIMGU1QWQ4cWVLa09jbEQ1WVdRYkNyQzVyV09yRXhyWTdQWE5CQ19pYTNIcXNEUFBJZGpXX0tnMnc?oc=5",
    "ts": "Fri, 06 Nov 2026 15:40:10 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Democrats take aim at Trump’s tariffs, but a rollback faces a veto wall - Firstpost",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQnduekJNTXNkR29DYl9OYWhMc1hUVkdwN0F2Tk1NcUVjXzJFMU1QQ1QzTi1rWmFwVVNDR1lIOUh0a1FNMXZJSXBYRkd1X1B6U3AwMnJ4UEE1cEd5VTBoTzgwTFJpQlN0SEZrUWpESmxkTE9XSFNhNUlZalZ2b1FoOUVNa2hYUnZaUlpUcUtockJ3OUFIWEVENnJVQXMyR3RzaWpNTEJlS3dkR3ZOQlgxbDRfWTVUaDlvNDZnS3AySGhEQVF2Nk5yNNIBzgFBVV95cUxPdjFHNTVEUUllMGY3M1BhSFdLWk02a0lmS2dRal8xaDBhbUZrcUprblpRdnIyMGowYkRvalRYZE1FV2h2UktiYzc3TG9fSnQxUHRVMW03TnlpazBKM1p1SU9WS0pTSWRNbHVVUEpxd1pPOXhxcF9LcnM2ZXZEdlo2YkpZWngtRkhJa21rZ2xyOHhmR01SZFE3TWpYM2xQNERBeXpBeXNXZGh2akdaS0JmTm1pcDU4N1FESnZ4YWRvOXpTLUFvN1ViOS1QZTMydw?oc=5",
+   "ts": "Sun, 08 Nov 2026 19:14:40 GMT"
   },
   {
    "src": "gnews",
@@ -454,10 +459,124 @@
    "ts": "Fri, 06 Nov 2026 04:06:34 GMT"
   },
   {
-   "src": "gnews",
-   "title": "Trump's political humbling signals short-term gain, long-term pain for China - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVBkVEFRMUNIQ0xmQVZXR1lLZmJBeVJiMXJMalZKLTRCaG00cmhCWjVKQjZmUUh3ajlGY3hjejlwRm40M1BNVXlwWFJjcXU0Um40QVNQY1BjNEZFbGF0RUdvamZYNlBCelY2UFBuOHVzU2pRYWk5RXRPbjU5QkdwcUo2cXhKU2JqMy01ZHpoQk5MbTg2a19rdXRCR1JLeFI2RzJMNDNtMm9LelZOWS1vaVpyNG5GS2pManc?oc=5",
-   "ts": "Thu, 05 Nov 2026 12:53:07 GMT"
+   "src": "gdelt",
+   "title": "Nvidia investigates Jensen Huang relationship with Chinese spy",
+   "url": "https://www.boston.com/news/national-news/2026/11/08/nvidia-opens-investigation-into-jensen-huangs-relationship-with-chinese-spy/",
+   "ts": "20261109T020000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "黄仁勋承认婚外情 特朗普回应 _ 东方财富网",
+   "url": "https://finance.eastmoney.com/a/202611093925772766.html",
+   "ts": "20261109T020000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Iran FM Abbas Araghchi gives ultimatum to US on ending war :  Our 2 - day proposal stands  ",
+   "url": "https://www.hindustantimes.com/world-news/irans-fm-abbas-araghchi-gives-ultimatum-to-us-on-ending-war-our-2-day-proposal-stands-101794181550576.html",
+   "ts": "20261109T020000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "트럼프  이란 재공격 가능성 매우 낮아 … 협상 강조 속 군사압박",
+   "url": "https://www.etoday.co.kr/news/view/2645489",
+   "ts": "20261109T020000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Democrats plan investigations as Trump , DOJ push back",
+   "url": "https://www.wxii12.com/article/trump-democrats-congress-investigations-midterm-victories/74369198",
+   "ts": "20261109T020000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump tells 60 Minutes how his net worth reportedly increased by $3 billion since he returned to office",
+   "url": "https://www.hindustantimes.com/world-news/us-news/trump-tells-60-minutes-how-his-net-worth-reportedly-increased-by-3-billion-since-he-returned-to-office-101794174671590.html",
+   "ts": "20261109T020000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "黄仁勋 、 马斯克 ， 有大麻烦",
+   "url": "https://www.163.com/dy/article/LB9JLSIE0519DH2H.html",
+   "ts": "20261109T020000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "The world largest telecoms firm is on trial and the outcome has global implications",
+   "url": "https://www.wxxinews.org/npr-news/2026-11-08/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
+   "ts": "20261109T020000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Man Mailed 700 Threatening Letters to Government Officials , complaint says",
+   "url": "https://drudge.com/news/295440/man-mailed-700-threatening-letters",
+   "ts": "20261109T020000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "CoreWeave债券收益率飙破16 % AI狂潮最大的灰犀牛要来 ？ _ 东方财富网",
+   "url": "https://finance.eastmoney.com/a/202611093925768059.html",
+   "ts": "20261109T020000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Gaza Three Years Later : Continuities and Discontinuities",
+   "url": "https://countercurrents.org/2026/11/gaza-three-years-later-continuities-and-discontinuities/",
+   "ts": "20261109T020000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Pope lands in Argentina and tells Milei that people , not the economy , come first",
+   "url": "https://www.hillingdontimes.co.uk/news/national/26709744.pope-lands-argentina-tells-milei-people-not-economy-come-first/",
+   "ts": "20261109T020000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Israel president gives Eisenkot the first chance to form the next government | News",
+   "url": "http://www.goskagit.com/news/world/israel-s-president-gives-eisenkot-the-first-chance-to-form-the-next-government/article_1de152de-6626-5b24-89d5-9c90dd294826.html",
+   "ts": "20261109T020000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump  Looks Extremely Unwell  and Sounds  Haggard , Critics Claim , After Democrat Midterm Victory",
+   "url": "https://www.ibtimes.co.uk/trump-appearance-scrutiny-senate-gridlock-midterm-losses-1830930",
+   "ts": "20261109T020000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US Parliament Session Begins ; Donald Trump Last Chance For Key Decisions",
+   "url": "https://www.divyabhaskar.co.in/international/news/us-parliament-session-donald-trump-agenda-washington-dc-139633460.html",
+   "ts": "20261109T020000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Defends Record In  60 Minute Interview | NewsRadio 1170 WWVA",
+   "url": "https://newsradio1170.iheart.com/content/2026-11-09-trump-defends-record-in-60-minutes-interview/",
+   "ts": "20261109T020000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "트럼프 , SNS에 격투기 선수들이 기자들 때려눕히는 애니메이션 - 국제ㅣ한국일보",
+   "url": "https://www.hankookilbo.com/news/article/A2026110909270005781",
+   "ts": "20261109T020000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Mexico cartels fire up the migrant caravans after Democrat win",
+   "url": "https://www.americanthinker.com/blog/2026/11/mexico-s-cartels-fire-up-the-migrant-caravans-after-democrat-win/",
+   "ts": "20261109T020000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "ترامب عن أسباب خسارة الانتخابات : استياء كبير من  إسرائيل  لدى الناخبين – قناة المنار",
+   "url": "https://www.almanar.com.lb/article/1335922/",
+   "ts": "20261109T020000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Jokes About Dana White As Press Secretary",
+   "url": "https://jetradio1400.iheart.com/content/2026-11-09-trump-jokes-about-dana-white-as-press-secretary/",
+   "ts": "20261109T020000Z"
   }
  ]
 }

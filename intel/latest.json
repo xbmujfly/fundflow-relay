@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-09T07:00:24Z",
+ "ts": "2026-11-09T07:15:22Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -458,6 +457,126 @@
    "title": "How Canada Inflicted Maximum Midterms Pain on Trump - Politico",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeXJXbDVQZnhtc1Vva2NDUTB3VHotRDFjUzk4QzZIX3pqYU1hdDhKYklUZDJDM2xYU3hqMXZMRlphQXo1dXYyTGZIaGYtNWpYMFg1a25PQTA0UzhES2ZQRERLRFNId1RhRE5lVXJYSFA3V1pKaEJvSXFXYmMwaUFuRENBRjd3NFBKWG9CTmxxd3JqbkNHUkhOUVNmb0hqcFVURUE?oc=5",
    "ts": "Sun, 08 Nov 2026 12:00:00 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump says his deportation policy  might have been too tough  for voters",
+   "url": "https://www.gazetteseries.co.uk/news/national/26710164.trump-says-deportation-policy-might-tough-voters/",
+   "ts": "20261109T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump says deportations were  too tough , hurt him during midterms – NBC4 Washington",
+   "url": "https://www.nbcwashington.com/news/politics/trump-says-deportations-hurt-him-during-midterms/4179850/",
+   "ts": "20261109T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "How Nvidia came to investigate CEO Jensen Huang affair with suspected Chinese spy - 09 - Nov - 2026",
+   "url": "https://home.nzcity.co.nz/news/article.aspx?id=457684&fm=psp,tst",
+   "ts": "20261109T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Deportation flight of Iranians from US scuttled at last minute , attorney says",
+   "url": "https://www.wjcl.com/article/iran-deportation-flight-canceled-last-minute/74371093",
+   "ts": "20261109T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "ترامب : سياستنا في الترحيل ربما كانت متشددة أكثر من اللازم",
+   "url": "https://www.shorouknews.com/news/view.aspx?cdate=09112026&id=10a3c6ff-3278-4c35-be47-990acfabc7a8",
+   "ts": "20261109T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "ترامب : ترشيح دانا وايت لمنصب متحدث البيت الأبيض كان مجرد مزاح",
+   "url": "https://www.shorouknews.com/news/view.aspx?cdate=09112026&id=9e8b8f9a-2237-41b0-9265-d1bc56a41645",
+   "ts": "20261109T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Jokes About Dana White As Press Secretary",
+   "url": "https://1190talkradio.iheart.com/content/2026-11-09-trump-jokes-about-dana-white-as-press-secretary/",
+   "ts": "20261109T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Трамп : Война закончится . Украина « будет выглядеть немного иначе » ",
+   "url": "https://haqqin.az/newsarchive/397903",
+   "ts": "20261109T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Дональд Трамп собирается принять участие в саммите АТЭС в Китае . Новости . Первый канал",
+   "url": "https://www.1tv.ru/news/2026-11-09/558382",
+   "ts": "20261109T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "امریکی عوام میں اسرائیل کیلئے شدید ناپسندیدگی پائی جاتی ہے : ڈونلڈ ٹرمپ",
+   "url": "https://jang.com.pk/news/1631753",
+   "ts": "20261109T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Deportation flight of Iranians from US scuttled at last minute , attorney says",
+   "url": "https://www.wisn.com/article/iran-deportation-flight-canceled-last-minute/74371093",
+   "ts": "20261109T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "헤그세스 탄핵 표결 초읽기 ...  트럼프 심판  민심 , 의회서도 통할까 - 국제ㅣ한국일보",
+   "url": "https://www.hankookilbo.com/news/article/A2026110914000003780",
+   "ts": "20261109T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Το μεγάλο στοίχημα της μετά Τραμπ Αμερικής : Ποιος θα κληρονομήσει την εξουσία και ποιος το MAGA ;» ",
+   "url": "https://www.newsbomb.gr/scenario/story/1775108/to-megalo-stoixima-tis-meta-tramp-amerikis-poios-tha-klironomisei-tin-eksousia-kai-poios-to-maga",
+   "ts": "20261109T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "النفط ينخفض بعد استبعاد ترامب شن ضربات جديدة ضد إيران",
+   "url": "https://www.albayan.ae/economy/business/world-economy/1563709",
+   "ts": "20261109T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "How Nvidia came to investigate CEO Jensen Huang affair with suspected Chinese spy - 09 - Nov - 2026",
+   "url": "https://home.nzcity.co.nz/news/article.aspx?id=457684&fm=psp,tsf",
+   "ts": "20261109T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Blackstone - backed Aadhar Housing Finance sees limited El Niño risk to loan book",
+   "url": "https://www.livemint.com/companies/news/blackstone-backed-aadhar-housing-finance-sees-limited-el-ni-o-risk-to-loan-book-11794196156405.html",
+   "ts": "20261109T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Defends Record In  60 Minute Interview",
+   "url": "https://kprcradio.iheart.com/content/2026-11-09-trump-defends-record-in-60-minutes-interview/",
+   "ts": "20261109T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "ترامب يرجح لقاء بوتين وشي لمناقشة إنهاء الحرب في إيران",
+   "url": "https://www.albayan.ae/news/world/1563710",
+   "ts": "20261109T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Jensen Huang : Silicon Valley superstar engulfed by personal scandal",
+   "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
+   "ts": "20261109T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "الذهب يرتفع أكثر من 1 % مع تراجع مخاوف التضخم",
+   "url": "https://www.albayan.ae/economy/business/gold-markets/1563701",
+   "ts": "20261109T063000Z"
   }
  ]
 }

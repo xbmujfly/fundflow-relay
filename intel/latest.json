@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-09T04:00:26Z",
+ "ts": "2026-11-09T04:15:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -407,12 +407,6 @@
   },
   {
    "src": "gnews",
-   "title": "3 US Chip Stocks for AI Exposure With Lower China Risk - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY0d5VWQ0SUl5bjJST2I5cnpBQ21XaG5CSVZqX0hCMUpUVU0xLUd3bm1pcUlURTN1aHRxUmhfeVAtelJkRU1NZGNWSjVDWTBRbmh0UXNsZ1ZKOXF1Z2dUSDVrNl9NSXFZQV84cFhXNEF3aFFQcE5RVmgtc1Y3TGRKTXJJNnd5ejZHXzRR?oc=5",
-   "ts": "Mon, 09 Nov 2026 02:12:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump’s Canada Tariffs - WSJ",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVhNeS1XX0xDd1ZkN3JZMkdWcUJkaFhONTBWSmprcWxkRVpqbU02QUQxWnRVRXdlTHBzaVJNMENWaE5HaFcyU2pCVDl3SkpXV3Y4UTlEMzM4STJFc3FGVVByUW1xUHh1QWlqOWx2bHBKQTZxb09zSDQtMklkRFpsRENDbWRiNzg3dzlwMnVqbVpLQkhRVWwwT0F6UUxFODdybWFqekNqUVhrcEZKNzZz?oc=5",
    "ts": "Fri, 06 Nov 2026 02:02:52 GMT"
@@ -443,6 +437,18 @@
   },
   {
    "src": "gnews",
+   "title": "Democrats take aim at Trump’s tariffs, but a rollback faces a veto wall - Firstpost",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQnduekJNTXNkR29DYl9OYWhMc1hUVkdwN0F2Tk1NcUVjXzJFMU1QQ1QzTi1rWmFwVVNDR1lIOUh0a1FNMXZJSXBYRkd1X1B6U3AwMnJ4UEE1cEd5VTBoTzgwTFJpQlN0SEZrUWpESmxkTE9XSFNhNUlZalZ2b1FoOUVNa2hYUnZaUlpUcUtockJ3OUFIWEVENnJVQXMyR3RzaWpNTEJlS3dkR3ZOQlgxbDRfWTVUaDlvNDZnS3AySGhEQVF2Nk5yNNIBzgFBVV95cUxPdjFHNTVEUUllMGY3M1BhSFdLWk02a0lmS2dRal8xaDBhbUZrcUprblpRdnIyMGowYkRvalRYZE1FV2h2UktiYzc3TG9fSnQxUHRVMW03TnlpazBKM1p1SU9WS0pTSWRNbHVVUEpxd1pPOXhxcF9LcnM2ZXZEdlo2YkpZWngtRkhJa21rZ2xyOHhmR01SZFE3TWpYM2xQNERBeXpBeXNXZGh2akdaS0JmTm1pcDU4N1FESnZ4YWRvOXpTLUFvN1ViOS1QZTMydw?oc=5",
+   "ts": "Sun, 08 Nov 2026 19:14:40 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
+   "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "How Canada Inflicted Maximum Midterms Pain on Trump - Politico",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeXJXbDVQZnhtc1Vva2NDUTB3VHotRDFjUzk4QzZIX3pqYU1hdDhKYklUZDJDM2xYU3hqMXZMRlphQXo1dXYyTGZIaGYtNWpYMFg1a25PQTA0UzhES2ZQRERLRFNId1RhRE5lVXJYSFA3V1pKaEJvSXFXYmMwaUFuRENBRjd3NFBKWG9CTmxxd3JqbkNHUkhOUVNmb0hqcFVURUE?oc=5",
    "ts": "Sun, 08 Nov 2026 12:00:00 GMT"
@@ -452,12 +458,6 @@
    "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues - ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjlHb2U1LVBiU29ZOGVGTnhubkJZUUF3ejRLQy12ejROd1lIaVMzTS1hVEVqMWx2Z3VQMmcxakItTzNzQVJ2WU1qN2tCUWNCMkUtVi1Od0FyejlRVUNTb01ZX29WUGwxU0g0RlFrU09Mc0lQZlZuaFNGVTdiUTBEQW5VM28xcFd6a2k3RW5GNGJlZktPRG5zbFB6a0hFOUpLRWNhSU9WaGg4LTRUOVBWSmxtWG5zd9IBuwFBVV95cUxQUFFsbWN1ZmxlNWRuaFAxaXBqUTJLVjFDX2M5Ui15TjhSeGpyRjN5NVZMZ01TNlVWX2NGU0tGVThHSE5jZVhFdFowSVhMTjNVdmVEd1NwbU1DcFVOaHVaWmwxOG10WWJKSnVVVmhFZGhLa0J0MkMzV2Jock1UdXFtekpKeXAtaDJPWjlfaXhueHpnWW8wcjBwUXNCRGRLVFoyQUREblVacG5QSjZrU3hkQmN6V0RCUmhmZUpv?oc=5",
    "ts": "Fri, 06 Nov 2026 04:06:34 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Sudden Distress at Top-Rated Firm Tests China’s Rating Crackdown - Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGNUVk83VE9LaWJUbFR4VmtHNDhvVmpVR1FqMFFMdHBPMG40b1JRY1NRSDA3cWUyV2YwN0VUcFFzN0RRZm9oMk5PaDFjVG5oNnlSeGZwdWMzbk0tOWplNGR6Nm1aRF96RmFVdTZSLUxCWjRiSnpFVG51MS16ZUN2MmR4TWMySEdKSEVReGxJRTYxYVdRV0RNeVpmdV9KQWdYUjQ4c2VZVTVJU3NBQm5tb2I2dy14UQ?oc=5",
-   "ts": "Sun, 08 Nov 2026 23:52:21 GMT"
   }
  ]
 }

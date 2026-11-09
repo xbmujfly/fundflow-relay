@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-09T12:45:20Z",
+ "ts": "2026-11-09T13:00:25Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -401,6 +401,12 @@
   },
   {
    "src": "gnews",
+   "title": "Port fee truce extended to January as Democratic sweep clouds US-China trade outlook - Kuehne+Nagel",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVlPeHdfaWNFa0xCeGtmVzlacXFJbzhNeDBoTVhLUTcwdW5nQW1ZNExSQVBrUlY0QS05V3BwYVNqbjc4TTRhd3pyOWtpaEZLN3dfYWlhZXFzVXlqZnVWTl9rWEVMN2stZkJxTVN0SXZyc0lkQjZLb0hmb2pnUmpVVkdtN3FhUHc?oc=5",
+   "ts": "Mon, 09 Nov 2026 12:21:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYy1vdWUwVXRwOE5ZT180NmxHZ0JocXpNaEpYQWNmYmh4dXBrN1Q0SFBpYkMtXzRJSFQ4WkNKbUI5Z1VCS25kRVZpSDJaSTlEY1FsVlNkZTUxSG1jclhnNDlaZnNWMTdLWG9QQmdLZjhWOElZNDVGeVlYdFA0TVVvUW51ZFk?oc=5",
    "ts": "Fri, 06 Nov 2026 17:20:21 GMT"
@@ -428,12 +434,6 @@
    "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
    "ts": "Thu, 29 Oct 2026 07:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Diplomat: Finland hopes for mutually beneficial EU-China trade - CGTN",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzk5M19DaUstcmpXMVNoTThOS043bnp5S0c1d3haZm5YdkEwTVN0NU9WNnc5Tlh1NmlyZFJ2dk9MMVktV0lrYk5HMVJXY2RXclJDZjBTckZ3ZWlEdzhyRFNpTEJTbHFvbXpvdlJUU0NtYlhtUDA1cXhxRmJTQ1FJbkJrU2dLWHFWVGFHc3U3aVEzVThHNnM1QmFoc2RVT19xaW1GbDJnQnV6cDhZWDgyb2tNWDhqZk82WGc?oc=5",
-   "ts": "Mon, 09 Nov 2026 10:33:00 GMT"
   },
   {
    "src": "gnews",

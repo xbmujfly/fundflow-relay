@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-09T14:30:24Z",
+ "ts": "2026-11-09T14:45:20Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -370,15 +371,15 @@
   },
   {
    "src": "gnews",
-   "title": "China is extending its U.S.-China trade truce through January, keeping 10% tariff - Quartz",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpUlZZblVpYUlnZ0VCZmdDMmdsN0FZRklFRHVFOXFkbGJhdnl3dVEzZ1lOUTZkMXQ5QkNieXpBMkpnSi1UY1gzMjlVVHJ3TEhmd0N5bFRSUXAzSTd4RXNUSG9MTXR2a2ZobWktUXRxZnE?oc=5",
-   "ts": "Mon, 09 Nov 2026 12:26:37 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting - DW.com",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
    "ts": "Sun, 08 Nov 2026 01:47:07 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China is extending its U.S.-China trade truce through January, keeping 10% tariff - Quartz",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpUlZZblVpYUlnZ0VCZmdDMmdsN0FZRklFRHVFOXFkbGJhdnl3dVEzZ1lOUTZkMXQ5QkNieXpBMkpnSi1UY1gzMjlVVHJ3TEhmd0N5bFRSUXAzSTd4RXNUSG9MTXR2a2ZobWktUXRxZnE?oc=5",
+   "ts": "Mon, 09 Nov 2026 12:26:37 GMT"
   },
   {
    "src": "gnews",
@@ -457,126 +458,6 @@
    "title": "China's export growth expected to have remained strong in October: Reuters poll - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVRFNzRhZTJPcFpDcVlpQ05KaGtod1BoMC1rSW9YbHdYZkZxMUR0aFdTODIwUlBRVGxhUGo0Y1RNT3JibHg4SjVpUWg1d2kxN2Q4QlR5Q1l2Wnp0cUtzUW83eW95ZkxNSVBaT2ZDNFhMdFpJQVp5Y3dCclpvY0JuWnRHUGNaS1NmTmZpeF9DbWFRQ3ExVVhaWHpXdGlYNTJYaWxxdnRLWTZ2NmpYc1NaYXUxOA?oc=5",
    "ts": "Mon, 09 Nov 2026 07:13:00 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Турция запустит ИИ - систему для контроля телеэфира и цифровых платформ | Газета « Совершенно Секретно » ",
-   "url": "https://www.sovsekretno.ru/news/turtsiya-zapustit-ii-sistemu-dlya-kontrolya-teleefira-i-tsifrovykh-platform/",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump :  Immigratiebeleid van Amerikaanse regering was misschien te hard  ",
-   "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/trump-immigratiebeleid-van-amerikaanse-regering-was-te-hard/",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says Vance was right that Iran war cost GOP midterms",
-   "url": "https://www.inquisitr.com/trump-vance-iran-war-midterms/",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "مأساة شعب غزة المنكوب",
-   "url": "https://www.raya.ps/articles/1228467.html",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says his deportation policy  might have been too tough  for voters",
-   "url": "https://www.wimbledonguardian.co.uk/news/national/26710164.trump-says-deportation-policy-might-tough-voters/",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "COP31 faces uphill battle as war , AI reshape climate agenda",
-   "url": "https://www.middle-east-online.com/en/cop31-faces-uphill-battle-war-ai-reshape-climate-agenda",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Šef najvrjednije korporacije na svijetu prevario ženu s kineskom špijunkom",
-   "url": "https://www.index.hr/vijesti/clanak/sef-najvrjednije-korporacije-na-svijetu-na-prevario-zenu-s-kineskom-spijunkom/2854708.aspx?index_ref=homepage_comment_box_d&commentId=12442862",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump calls Jensen Huang  honorable , says he has not discussed allegations with Nvidia CEO",
-   "url": "https://www.chinatechnews.com/2026/11/09/132383-trump-calls-jensen-huang-honorable-says-he-has-not-discussed-allegations-with-nvidia-ceo",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "G7 allies weigh impact of US election results on Ukraine , Middle East",
-   "url": "https://www.middle-east-online.com/en/g7-allies-weigh-impact-us-election-results-ukraine-middle-east",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Трамп заявил , что Украина проявила  огромное неуважение  к России",
-   "url": "https://www.m24.ru/news/09112026/961973",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Rupee gains 25 paise against US dollar on lower crude , positive global cues",
-   "url": "https://www.prokerala.com/news/articles/a1834545.html",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "How a bank collapse left millions in limbo and toppled Paraguay president",
-   "url": "https://www.wxxinews.org/npr-news/2026-11-09/how-a-bank-collapse-left-millions-in-limbo-and-toppled-paraguays-president",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says his deportation policy  might have been too tough  for voters",
-   "url": "https://www.freepressseries.co.uk/news/national/26710164.trump-says-deportation-policy-might-tough-voters/",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says his deportation policy  might have been too tough  for voters in the election",
-   "url": "https://abcnews.com/US/wireStory/trump-deportation-policy-tough-voters-election-137963472",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "How a bank collapse left millions in limbo and toppled Paraguay president",
-   "url": "https://www.ksmu.org/2026-11-09/how-a-bank-collapse-left-millions-in-limbo-and-toppled-paraguays-president",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Трамп заявил , что подпишет « огромное количество помилований », уходя с поста",
-   "url": "https://aif.ru/politics/world/tramp-zayavil-chto-podpishet-ogromnoe-kolichestvo-pomilovaniy-uhodya-s-posta",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Pope Leo urges Argentina to protect democracy during visit with President Milei",
-   "url": "https://cphpost.dk/2026-11-09/global/pope-leo-urges-argentina-to-protect-democracy-during-visit-with-president-milei/",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "What did RFK Jr . former advisor say about Trump administration",
-   "url": "https://www.themarysue.com/rfk-jr-s-former-advisor-speaks-about-alleged-internal-corruption-within-the-trump-administration-that-led-to-his-departure/",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Встреча Трампа , Путина и Си : президент США раскрыл детали",
-   "url": "https://www.unian.net/world/vstrecha-trampa-putina-i-si-prezident-ssha-raskryl-detali-13553838.html",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump admits deportation policies have been too harsh , offers to work with Democrats",
-   "url": "https://cphpost.dk/2026-11-09/global/trump-admits-deportation-policies-have-been-too-harsh-offers-to-work-with-democrats/",
-   "ts": "20261109T070000Z"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-09T09:45:22Z",
+ "ts": "2026-11-09T10:15:20Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -370,15 +371,15 @@
   },
   {
    "src": "gnews",
-   "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYy1vdWUwVXRwOE5ZT180NmxHZ0JocXpNaEpYQWNmYmh4dXBrN1Q0SFBpYkMtXzRJSFQ4WkNKbUI5Z1VCS25kRVZpSDJaSTlEY1FsVlNkZTUxSG1jclhnNDlaZnNWMTdLWG9QQmdLZjhWOElZNDVGeVlYdFA0TVVvUW51ZFk?oc=5",
-   "ts": "Fri, 06 Nov 2026 17:20:21 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Quo vadis: EU-China trade relations – from de-risking to technical fixes - Pekingnology",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94VGJ1MWFOQ2JUekp2eGY1Mmd1SVBBS3Y1Vk9JNTVld2JwejZybENQaVhwMDhpelZsWTBrWVJTZW5LRldETWJjWXFoMzdXTGhiRzFXdER6cXBwRkxnZzBQbnZCb29VaEstaHluOWQtSncyNWM?oc=5",
    "ts": "Sun, 08 Nov 2026 21:54:18 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYy1vdWUwVXRwOE5ZT180NmxHZ0JocXpNaEpYQWNmYmh4dXBrN1Q0SFBpYkMtXzRJSFQ4WkNKbUI5Z1VCS25kRVZpSDJaSTlEY1FsVlNkZTUxSG1jclhnNDlaZnNWMTdLWG9QQmdLZjhWOElZNDVGeVlYdFA0TVVvUW51ZFk?oc=5",
+   "ts": "Fri, 06 Nov 2026 17:20:21 GMT"
   },
   {
    "src": "gnews",
@@ -394,6 +395,18 @@
   },
   {
    "src": "gnews",
+   "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
+   "ts": "Thu, 29 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China Extends Suspension of 24% Tariff on US Imports and Port Fees for Two Months - Global Trade Magazine",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVVBJczFuRTN5TnBMN3JDN1FqZ1ZuTHo0OUVyN2ZidlczZHB0WkpLOE5pdnZpekxPYVVld2FqWnNSdVYwc2g4TWxLeHRJR1BKZlVJT2NzVmZqMklaR3llZ0p2V2U4QTJqQWZYTmVwT2N2N3VyMUlRZGl6aEg1QUxYWEQ2N05NX3c4N3hCRHBaZEMya2JJYTFoUGdvN0I2MlItWkYzMFZJX0NDWHRaQ1ZqMEd3?oc=5",
+   "ts": "Mon, 09 Nov 2026 09:03:30 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China-Europe Economic and Trade Relations: Shared Space, New Frontiers - Modern Diplomacy",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWpqYmxKT2dtQzVaa1BpUUdnbjJQNmpXbEFYbHhieGVyLXlBb28tYjJnbk1JX21mOWk4UHp0azRGMkJkbGY1X2pqSlVuZ1RWTmloUGZjeFhpT2ZEUzJ6OUFpaHlwQnp6OHVob1RfaUxkSnhFVTNDWFRtS25oUDFORlRLS3N1RHhfRm03Y0FQcHlYWU10M1hFODN1X1pnQk40Wk9SakdIUGpLblE?oc=5",
    "ts": "Mon, 09 Nov 2026 06:30:01 GMT"
@@ -406,27 +419,15 @@
   },
   {
    "src": "gnews",
-   "title": "China Extends Suspension of 24% Tariff on US Imports and Port Fees for Two Months - Global Trade Magazine",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVVBJczFuRTN5TnBMN3JDN1FqZ1ZuTHo0OUVyN2ZidlczZHB0WkpLOE5pdnZpekxPYVVld2FqWnNSdVYwc2g4TWxLeHRJR1BKZlVJT2NzVmZqMklaR3llZ0p2V2U4QTJqQWZYTmVwT2N2N3VyMUlRZGl6aEg1QUxYWEQ2N05NX3c4N3hCRHBaZEMya2JJYTFoUGdvN0I2MlItWkYzMFZJX0NDWHRaQ1ZqMEd3?oc=5",
-   "ts": "Mon, 09 Nov 2026 09:03:30 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Transshipment Crackdowns Won’t Fix the U.S.-China Trade Imbalance - CSIS | Center for Strategic and International Studies",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcG9ITGxQVlBOVnBOMTY5VUthQi1XTGN1QjNBZjR0SVlINlh6T05mTHZBMWRpb21tQm9ZcnpvUnBZanM0Z0tqakhoN2hDbzNiaDVyb0Vob0Q3ZVpkWWNpS2VSb0FzRUtfb3ZaZmVYVVBzZDVHMkg4LUU3ZnoycFBvM2FTVjVoelRQTWJWMXRjaHpmUQ?oc=5",
-   "ts": "Thu, 29 Oct 2026 07:00:00 GMT"
+   "title": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTNUYllWQmZpQmliVmZTSDBSTENwc2hhNUFWU3BGcnBXZmpIZXNSV3VnZVl1NWU5Yi1acXZ3SjduRU9Cc3N4RXJRX19rMEFYQW8tVldQTXg3bjRVZU9KR05zYjdSSk9xX0ZMS1VCQ3hNcXZUX21KZDZlcWhNSmIzQzZBZnZXQXhxVE91LTFBdTQ4NEduYzl4TlliX2pVZy01NFdRcHpJNE80aUQ3cEFr0gG0AUFVX3lxTFBpR1pyM3M4UWU4MXV1d0ZIMkRudjZpYXJYMElUVHlCcXRPUldYbHJBalZsaVlNem4zWlV2QjlkTnFDaDV0b3k1dVhBRE1mVFdtVkpzNU9WajJiVkQzMGpyWFlJZGd5V3lHaU1HaTMyWk9BNkxYbTZmcFg0QmtRb2ExeldQSEtfekpEUTE1cXB5SFNONW1YQXlRVy11YkVBRjN6WHRSTkF1czNxTXJtdUZoSU5pZg?oc=5",
+   "ts": "Fri, 06 Nov 2026 20:51:57 GMT"
   },
   {
    "src": "gnews",
    "title": "Port fee truce extended to January as Democratic sweep clouds US-China trade outlook - Lloyd's List",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTmQ4c0pqcHZEYjRfSXlNZzYzVTNRcXBYcWI3RVVTandmUTlvLVU4S09ESXljUjljLTl4Wi11cTJmRXBNZ1RZaG52NEtFaU9KcjNXbUhNdXQ5eVpfWTVlVHd2MjE4bWc1Wm9LYWJWWmhuU2lORlNCN3cyb0V2eExLeTNEdUJhdWtXNTMzMlZNblQzZmlLLW9ZcGpXUDBfLUk2bGUzWGowdWdqNUtXV05QYlNPZmJmaHJzRGVmS19B?oc=5",
    "ts": "Mon, 09 Nov 2026 07:45:04 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTNUYllWQmZpQmliVmZTSDBSTENwc2hhNUFWU3BGcnBXZmpIZXNSV3VnZVl1NWU5Yi1acXZ3SjduRU9Cc3N4RXJRX19rMEFYQW8tVldQTXg3bjRVZU9KR05zYjdSSk9xX0ZMS1VCQ3hNcXZUX21KZDZlcWhNSmIzQzZBZnZXQXhxVE91LTFBdTQ4NEduYzl4TlliX2pVZy01NFdRcHpJNE80aUQ3cEFr0gG0AUFVX3lxTFBpR1pyM3M4UWU4MXV1d0ZIMkRudjZpYXJYMElUVHlCcXRPUldYbHJBalZsaVlNem4zWlV2QjlkTnFDaDV0b3k1dVhBRE1mVFdtVkpzNU9WajJiVkQzMGpyWFlJZGd5V3lHaU1HaTMyWk9BNkxYbTZmcFg0QmtRb2ExeldQSEtfekpEUTE1cXB5SFNONW1YQXlRVy11YkVBRjN6WHRSTkF1czNxTXJtdUZoSU5pZg?oc=5",
-   "ts": "Fri, 06 Nov 2026 20:51:57 GMT"
   },
   {
    "src": "gnews",
@@ -457,126 +458,6 @@
    "title": "Poll: China's export growth expected to have remained strong in October - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVRFNzRhZTJPcFpDcVlpQ05KaGtod1BoMC1rSW9YbHdYZkZxMUR0aFdTODIwUlBRVGxhUGo0Y1RNT3JibHg4SjVpUWg1d2kxN2Q4QlR5Q1l2Wnp0cUtzUW83eW95ZkxNSVBaT2ZDNFhMdFpJQVp5Y3dCclpvY0JuWnRHUGNaS1NmTmZpeF9DbWFRQ3ExVVhaWHpXdGlYNTJYaWxxdnRLWTZ2NmpYc1NaYXUxOA?oc=5",
    "ts": "Mon, 09 Nov 2026 07:13:00 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Турция запустит ИИ - систему для контроля телеэфира и цифровых платформ | Газета « Совершенно Секретно » ",
-   "url": "https://www.sovsekretno.ru/news/turtsiya-zapustit-ii-sistemu-dlya-kontrolya-teleefira-i-tsifrovykh-platform/",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump :  Immigratiebeleid van Amerikaanse regering was misschien te hard  ",
-   "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/trump-immigratiebeleid-van-amerikaanse-regering-was-te-hard/",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says Vance was right that Iran war cost GOP midterms",
-   "url": "https://www.inquisitr.com/trump-vance-iran-war-midterms/",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "مأساة شعب غزة المنكوب",
-   "url": "https://www.raya.ps/articles/1228467.html",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says his deportation policy  might have been too tough  for voters",
-   "url": "https://www.wimbledonguardian.co.uk/news/national/26710164.trump-says-deportation-policy-might-tough-voters/",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "COP31 faces uphill battle as war , AI reshape climate agenda",
-   "url": "https://www.middle-east-online.com/en/cop31-faces-uphill-battle-war-ai-reshape-climate-agenda",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Šef najvrjednije korporacije na svijetu prevario ženu s kineskom špijunkom",
-   "url": "https://www.index.hr/vijesti/clanak/sef-najvrjednije-korporacije-na-svijetu-na-prevario-zenu-s-kineskom-spijunkom/2854708.aspx?index_ref=homepage_comment_box_d&commentId=12442862",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump calls Jensen Huang  honorable , says he has not discussed allegations with Nvidia CEO",
-   "url": "https://www.chinatechnews.com/2026/11/09/132383-trump-calls-jensen-huang-honorable-says-he-has-not-discussed-allegations-with-nvidia-ceo",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "G7 allies weigh impact of US election results on Ukraine , Middle East",
-   "url": "https://www.middle-east-online.com/en/g7-allies-weigh-impact-us-election-results-ukraine-middle-east",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Трамп заявил , что Украина проявила  огромное неуважение  к России",
-   "url": "https://www.m24.ru/news/09112026/961973",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Rupee gains 25 paise against US dollar on lower crude , positive global cues",
-   "url": "https://www.prokerala.com/news/articles/a1834545.html",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "How a bank collapse left millions in limbo and toppled Paraguay president",
-   "url": "https://www.wxxinews.org/npr-news/2026-11-09/how-a-bank-collapse-left-millions-in-limbo-and-toppled-paraguays-president",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says his deportation policy  might have been too tough  for voters",
-   "url": "https://www.freepressseries.co.uk/news/national/26710164.trump-says-deportation-policy-might-tough-voters/",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says his deportation policy  might have been too tough  for voters in the election",
-   "url": "https://abcnews.com/US/wireStory/trump-deportation-policy-tough-voters-election-137963472",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "How a bank collapse left millions in limbo and toppled Paraguay president",
-   "url": "https://www.ksmu.org/2026-11-09/how-a-bank-collapse-left-millions-in-limbo-and-toppled-paraguays-president",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Трамп заявил , что подпишет « огромное количество помилований », уходя с поста",
-   "url": "https://aif.ru/politics/world/tramp-zayavil-chto-podpishet-ogromnoe-kolichestvo-pomilovaniy-uhodya-s-posta",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Pope Leo urges Argentina to protect democracy during visit with President Milei",
-   "url": "https://cphpost.dk/2026-11-09/global/pope-leo-urges-argentina-to-protect-democracy-during-visit-with-president-milei/",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "What did RFK Jr . former advisor say about Trump administration",
-   "url": "https://www.themarysue.com/rfk-jr-s-former-advisor-speaks-about-alleged-internal-corruption-within-the-trump-administration-that-led-to-his-departure/",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Встреча Трампа , Путина и Си : президент США раскрыл детали",
-   "url": "https://www.unian.net/world/vstrecha-trampa-putina-i-si-prezident-ssha-raskryl-detali-13553838.html",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump admits deportation policies have been too harsh , offers to work with Democrats",
-   "url": "https://cphpost.dk/2026-11-09/global/trump-admits-deportation-policies-have-been-too-harsh-offers-to-work-with-democrats/",
-   "ts": "20261109T070000Z"
   }
  ]
 }

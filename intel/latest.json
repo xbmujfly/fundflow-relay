@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-09T15:45:19Z",
+ "ts": "2026-11-09T23:00:21Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,11 +33,18 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
+  {
+   "src": "whitehouse",
+   "title": "Nominations and Withdrawals Sent to the Senate",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-ba2b/",
+   "ts": "Mon, 09 Nov 2026 22:53:29 +0000"
+  },
   {
    "src": "whitehouse",
    "title": "ESTABLISHMENT OF THE OVAL OFFICE NATIONAL MONUMENT",
@@ -153,12 +160,6 @@
    "ts": "Tue, 29 Sep 2026 14:50:54 +0000"
   },
   {
-   "src": "whitehouse",
-   "title": "Nominations Sent to the Senate",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-e1fc/",
-   "ts": "Mon, 28 Sep 2026 19:59:28 +0000"
-  },
-  {
    "src": "ustr",
    "title": "Weekly Trade Focus: APEC",
    "url": "https://ustr.gov/about-us/policy-offices/press-office/blog/weekly-trade-focus-apec",
@@ -217,6 +218,12 @@
    "title": "USTR Announces 2026 Award Recipients",
    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ustr-announces-2026-award-recipients",
    "ts": "Wed, 21 Oct 2026 23:05:13 +0000"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+   "ts": "Mon, 9 Nov 2026 21:00:00 GMT"
   },
   {
    "src": "fed",
@@ -333,12 +340,6 @@
    "ts": "Fri, 18 Sep 2026 15:00:00 GMT"
   },
   {
-   "src": "fed",
-   "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
-   "ts": "Fri, 18 Sep 2026 15:00:00 GMT"
-  },
-  {
    "src": "gnews",
    "title": "China extends US trade truce by two months - Reuters",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5",
@@ -354,19 +355,7 @@
    "src": "gnews",
    "title": "China's undervalued currency is driving its trade surplus higher - Peterson Institute for International Economics",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnkzZE15TVlhc1FHU1hzOFJXNklMWERBbUpCSVNLVUw1OFdSS25xOEdZSEY5bXNjclhEWnFCcXF4WUJmUDRyTWpnMWdoMmRyWXVTYkYtUFhmellzaDJUeUladm4zcDYwWEw2eWpLVjQzZVl3c3o5VFZHM2NnM2R6YVJMS1Qtd1d6LVRkMmZtbFZtOHl3cExTTHBwNlhsZVRETVEyWk9ZLUdBQmp3dGNycQ?oc=5",
-   "ts": "Mon, 09 Nov 2026 13:36:56 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Similarity is not exposure: Measuring spillovers from US–China trade frictions - CEPR",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVJHQXU2RG1VeWxpZjdjVkRaY2FRQVRRQWVpbG95Qmx4RjY0MTdGZVRjb0dDM1doN0lYb083ckNPVHNZUzJqN00ybWc3bjRTRk5ZRUQxMTlSZ3VFdnBOSU9iTmZmbndsRm9CdkE3MmQ3LTFJYVZzdHRFYXVaZmxyb1dtQTRfa185clRQT1o1enN6c3E2MWgyTzB2b0JqQnNrcEE?oc=5",
-   "ts": "Mon, 09 Nov 2026 01:02:45 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China is extending its U.S.-China trade truce through January, keeping 10% tariff - Quartz",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpUlZZblVpYUlnZ0VCZmdDMmdsN0FZRklFRHVFOXFkbGJhdnl3dVEzZ1lOUTZkMXQ5QkNieXpBMkpnSi1UY1gzMjlVVHJ3TEhmd0N5bFRSUXAzSTd4RXNUSG9MTXR2a2ZobWktUXRxZnE?oc=5",
-   "ts": "Mon, 09 Nov 2026 12:26:37 GMT"
+   "ts": "Mon, 09 Nov 2026 14:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -376,27 +365,33 @@
   },
   {
    "src": "gnews",
-   "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting - DW.com",
+   "title": "China is extending its U.S.-China trade truce through January, keeping 10% tariff - Quartz",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpUlZZblVpYUlnZ0VCZmdDMmdsN0FZRklFRHVFOXFkbGJhdnl3dVEzZ1lOUTZkMXQ5QkNieXpBMkpnSi1UY1gzMjlVVHJ3TEhmd0N5bFRSUXAzSTd4RXNUSG9MTXR2a2ZobWktUXRxZnE?oc=5",
+   "ts": "Mon, 09 Nov 2026 12:26:37 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting - Deutsche Welle",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
    "ts": "Sun, 08 Nov 2026 01:47:07 GMT"
   },
   {
    "src": "gnews",
-   "title": "Could the blue wave change Trump's tune with Canada? | Opinion - Akron Beacon Journal",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSVBYQzZlTmhES1Z5ZXUtM1BvZ1d4TlVmUGkzQ1dqZEhZTU5yU0s4bXROR3FZRmlERGF5NjhaZEw0OE83OGYtaDhhaW5jSHpiOXZrTk1hOFA2am5MY0xwZUhjN2JVSG01WThRVGxQNXNZS3NCZk4tX2I2STV6d3hKaUdOdXhJZnJxWjFzTWx1Um1YR0htZWZkd1R3a0lEbGFDWm1KaExyNUZJX1Z0dUMycEU0Wi01M1c4R3hUai1mSXVNUFU?oc=5",
-   "ts": "Mon, 09 Nov 2026 11:03:00 GMT"
+   "title": "Similarity is not exposure: Measuring spillovers from US–China trade frictions - CEPR",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVJHQXU2RG1VeWxpZjdjVkRaY2FRQVRRQWVpbG95Qmx4RjY0MTdGZVRjb0dDM1doN0lYb083ckNPVHNZUzJqN00ybWc3bjRTRk5ZRUQxMTlSZ3VFdnBOSU9iTmZmbndsRm9CdkE3MmQ3LTFJYVZzdHRFYXVaZmxyb1dtQTRfa185clRQT1o1enN6c3E2MWgyTzB2b0JqQnNrcEE?oc=5",
+   "ts": "Mon, 09 Nov 2026 01:02:45 GMT"
   },
   {
    "src": "gnews",
-   "title": "Southeast Asia rides out the return of Trump’s tariffs - East Asia Forum",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcEFNXzAxYlB2M0g2SkhWY3F6ZEFFbXl5TzkzUWZFSkxWVUMxRHoxRU4tMnlUV180VjNtaFZWNFNpTEwyckVQRVZOYnZGZEtJS0FmZloybFZzU1VJS0cxaEJPVXZPZTJjU29MMF9BMFkxajZYQlVab0U0M2FMSTNaZTh0R1FmSl9wS0t3eVpsclIyWHV3RWc?oc=5",
-   "ts": "Mon, 09 Nov 2026 11:04:04 GMT"
+   "title": "China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZTE5VFprcnF6YTMxUkFqZzlfUE41Uk9iUmx1Y3NTdkIxLWJiSUVLaDlOVGlDR2hYT0pFbEVPaVBtR2p4SF9qYXZ6SG91YnBDcHJJbjRiWmw5QzR5ajJkQS1pdUo1WVJGV2lMZ0xvc2JFdmVJeVBJM2EtRU9mUnd5WnNMMGpZQU11M2xsdlhvQktlLUQ2?oc=5",
+   "ts": "Mon, 09 Nov 2026 04:36:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "The Trump Trade Is Dead. Don't Buy The Dip Yet (SOX) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRVlsSXdrVGdBVVVPYUdWeTJlTWV5MUhEQm8ydEtNTUtPR09jZTV6TjFtMTdCbUxNOXl6bDRVVEdCMDVKU1pNd3RfZy1zZ3VpZ192RUh0RkJEbWY5S2w2NU81VzZ0bzg5N2ozV0hlcWpUV2ROekJ5NHhveGVRb0hUcjdDSnhmYlUyTzVDOE5R?oc=5",
-   "ts": "Mon, 09 Nov 2026 13:36:00 GMT"
+   "title": "US-China Flights: A Stalled Recovery - The US-China Business Council",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6N1ZrUlNUV1oyVllsN2pYVkVlanY0cV9iWThPTE9NRldpOUZ5eVkyTkdFcVJFLW5xOVpJQ1E2NWRJRGF6d2J5UXE2bmZGeno5WVBXNEhQS1UtQUFMMWpQMjNZQU1zSmo0QlJkc0hETUltNnM4WDVucA?oc=5",
+   "ts": "Mon, 09 Nov 2026 17:32:57 GMT"
   },
   {
    "src": "gnews",
@@ -406,39 +401,39 @@
   },
   {
    "src": "gnews",
+   "title": "Could the blue wave change Trump's tune with Canada? | Opinion - Akron Beacon Journal",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSVBYQzZlTmhES1Z5ZXUtM1BvZ1d4TlVmUGkzQ1dqZEhZTU5yU0s4bXROR3FZRmlERGF5NjhaZEw0OE83OGYtaDhhaW5jSHpiOXZrTk1hOFA2am5MY0xwZUhjN2JVSG01WThRVGxQNXNZS3NCZk4tX2I2STV6d3hKaUdOdXhJZnJxWjFzTWx1Um1YR0htZWZkd1R3a0lEbGFDWm1KaExyNUZJX1Z0dUMycEU0Wi01M1c4R3hUai1mSXVNUFU?oc=5",
+   "ts": "Mon, 09 Nov 2026 11:03:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYy1vdWUwVXRwOE5ZT180NmxHZ0JocXpNaEpYQWNmYmh4dXBrN1Q0SFBpYkMtXzRJSFQ4WkNKbUI5Z1VCS25kRVZpSDJaSTlEY1FsVlNkZTUxSG1jclhnNDlaZnNWMTdLWG9QQmdLZjhWOElZNDVGeVlYdFA0TVVvUW51ZFk?oc=5",
    "ts": "Fri, 06 Nov 2026 17:20:21 GMT"
   },
   {
    "src": "gnews",
-   "title": "Gary Doer Says Canadian Agriculture May Have Just Caught a Break - SeedWorld",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOTB0dXU3bkxIUjBmTnAxZWQ0YnVTYTNPc3cyWGtiMnloa1FfX0taaTVyQktDc0w0WFltYjZpOEVTRThqaE42YkEtTEo2VEZzeUZ4WjBmYl91NXBVaHZxc1A5bkxKclY4T0pfQjQzRzFoSnJVUmFFY1JpWXAxNm1KS09RclZYRXlzdlNxZnRFV04?oc=5",
-   "ts": "Mon, 09 Nov 2026 13:33:50 GMT"
+   "title": "Southeast Asia rides out the return of Trump’s tariffs - East Asia Forum",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcEFNXzAxYlB2M0g2SkhWY3F6ZEFFbXl5TzkzUWZFSkxWVUMxRHoxRU4tMnlUV180VjNtaFZWNFNpTEwyckVQRVZOYnZGZEtJS0FmZloybFZzU1VJS0cxaEJPVXZPZTJjU29MMF9BMFkxajZYQlVab0U0M2FMSTNaZTh0R1FmSl9wS0t3eVpsclIyWHV3RWc?oc=5",
+   "ts": "Mon, 09 Nov 2026 11:04:51 GMT"
   },
   {
    "src": "gnews",
-   "title": "Port fee truce extended to January as Democratic sweep clouds US-China trade outlook - Kuehne+Nagel",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVlPeHdfaWNFa0xCeGtmVzlacXFJbzhNeDBoTVhLUTcwdW5nQW1ZNExSQVBrUlY0QS05V3BwYVNqbjc4TTRhd3pyOWtpaEZLN3dfYWlhZXFzVXlqZnVWTl9rWEVMN2stZkJxTVN0SXZyc0lkQjZLb0hmb2pnUmpVVkdtN3FhUHc?oc=5",
-   "ts": "Mon, 09 Nov 2026 12:21:00 GMT"
+   "title": "The Trump Trade Is Dead. Don't Buy The Dip Yet (SOX) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRVlsSXdrVGdBVVVPYUdWeTJlTWV5MUhEQm8ydEtNTUtPR09jZTV6TjFtMTdCbUxNOXl6bDRVVEdCMDVKU1pNd3RfZy1zZ3VpZ192RUh0RkJEbWY5S2w2NU81VzZ0bzg5N2ozV0hlcWpUV2ROekJ5NHhveGVRb0hUcjdDSnhmYlUyTzVDOE5R?oc=5",
+   "ts": "Mon, 09 Nov 2026 13:36:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Quo vadis: EU-China trade relations – from de-risking to technical fixes - Pekingnology",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94VGJ1MWFOQ2JUekp2eGY1Mmd1SVBBS3Y1Vk9JNTVld2JwejZybENQaVhwMDhpelZsWTBrWVJTZW5LRldETWJjWXFoMzdXTGhiRzFXdER6cXBwRkxnZzBQbnZCb29VaEstaHluOWQtSncyNWM?oc=5",
-   "ts": "Sun, 08 Nov 2026 21:54:18 GMT"
+   "title": "China extends pause on US tariffs, rare-earth curbs for another two months - Baltimore Sun",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMlR0N0VyZmpweTVyTllocWtjTkRta21xVG53X3lPeVdZX25BdDVxTE9tMWhvQ3RTQU5xaU4xYWhHX0FfNlQ1ODVjT0ZkWXN5WlNUbVNPVDJzZVlGME4wX0Z3Rk45dUYxbERoc0s4TkI1dDRmLTRtTXdReVhsRnhvbzdwNndsNTVULUVFMzlTYW81S1JJakZ2S0JxVmhpZEc3dEotV1BpaU91NUpvOWgwcWctdWQ?oc=5",
+   "ts": "Mon, 09 Nov 2026 18:05:25 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump’s trade chief pushing him to step up negotiations with Canada - Politico",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUY3c1JIclBSa09VTXM3UlJiMWtrUkxUdFJoRTV6Zl9ZZGJQcUlCTFppQm9ESWhrcGVfTWRHdy1SSkU4U2ktY2ZiMEtWNnBiWkhDQmVuajlhTlFDa3NJM0dESGNTeWdPbmNMWTBxV2swVkhLbV9QdFdhUWhORl9Ca2NHUFlxNEFFamRWNzhQRlJEdFNadkd5M1RQMTM?oc=5",
-   "ts": "Tue, 03 Nov 2026 23:55:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump administration's embrace of \"perp\" futures sets off risk alarms for Wall Street stalwarts - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYVZsYWtjTnU4dVhYU3o4LWJCeVdPOUNhNGdUVUhLdG1iZTE3REw3QmR6RHRzblFjc3RKYmlvS1JkRlFJakFpMExqdGx2ZDU1OGcxME5OazNFVTVGYTRQLTlSTjFhTk5Wc041TnV5dUtRdGdWWVQwWXRhMzdMaE9sdmdWOFROSGVoOTR1Z201THNOb25PTmdzWkdraGNkWEg2bFljcld6SDM0MzJvdG84amJkNGRBYjJyMDRCemVFMVhUMzZvcTZR?oc=5",
-   "ts": "Mon, 09 Nov 2026 11:49:25 GMT"
+   "title": "China's export growth expected to have remained strong in October: Reuters poll - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVRFNzRhZTJPcFpDcVlpQ05KaGtod1BoMC1rSW9YbHdYZkZxMUR0aFdTODIwUlBRVGxhUGo0Y1RNT3JibHg4SjVpUWg1d2kxN2Q4QlR5Q1l2Wnp0cUtzUW83eW95ZkxNSVBaT2ZDNFhMdFpJQVp5Y3dCclpvY0JuWnRHUGNaS1NmTmZpeF9DbWFRQ3ExVVhaWHpXdGlYNTJYaWxxdnRLWTZ2NmpYc1NaYXUxOA?oc=5",
+   "ts": "Mon, 09 Nov 2026 07:13:00 GMT"
   },
   {
    "src": "gnews",
@@ -448,135 +443,21 @@
   },
   {
    "src": "gnews",
-   "title": "The Democrats’ partial return to tariff sanity - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa0lzWFdXYktkcGQ3eWRIdEI1MXpmMWpaM1hIYW53OTNWaFVlYmw5eTZmOURJRFJDNUJnem5OQjNmWDhIWmFsTURNSE0taFpzanQ2XzFjam5Qcjg4ZGw3RE9tVHctakxsSW0xVVhrXzM4X2FGQnVMZzdOZW5HOTE3SVlHY3k?oc=5",
-   "ts": "Mon, 09 Nov 2026 12:31:02 GMT"
+   "title": "US, China officially extend trade war truce by 2 months - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQODJqdHZBSllhdEdlU2pudFAySzcwaUdvanduOVgzRVRDbWZHcktlNU9tX2hOcjViTGRQWXlBcEdEV2xESGl1ZjRwYTJFY3AxaTRBZGJKTFV6N2R5S1JxM29vRUFjOXpYY3ZkX01jdElFc21Tci1MWTZYdE4wU0R1bWMyNmlZTnJ4OEtZeHY5Q3pBSlFpUi1oY2JZZFR3dw?oc=5",
+   "ts": "Mon, 09 Nov 2026 14:00:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "China's export growth expected to have remained strong in October: Reuters poll - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVRFNzRhZTJPcFpDcVlpQ05KaGtod1BoMC1rSW9YbHdYZkZxMUR0aFdTODIwUlBRVGxhUGo0Y1RNT3JibHg4SjVpUWg1d2kxN2Q4QlR5Q1l2Wnp0cUtzUW83eW95ZkxNSVBaT2ZDNFhMdFpJQVp5Y3dCclpvY0JuWnRHUGNaS1NmTmZpeF9DbWFRQ3ExVVhaWHpXdGlYNTJYaWxxdnRLWTZ2NmpYc1NaYXUxOA?oc=5",
-   "ts": "Mon, 09 Nov 2026 07:13:00 GMT"
+   "title": "Trump administration's embrace of \"perp\" futures sets off risk alarms for Wall Street stalwarts - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYVZsYWtjTnU4dVhYU3o4LWJCeVdPOUNhNGdUVUhLdG1iZTE3REw3QmR6RHRzblFjc3RKYmlvS1JkRlFJakFpMExqdGx2ZDU1OGcxME5OazNFVTVGYTRQLTlSTjFhTk5Wc041TnV5dUtRdGdWWVQwWXRhMzdMaE9sdmdWOFROSGVoOTR1Z201THNOb25PTmdzWkdraGNkWEg2bFljcld6SDM0MzJvdG84amJkNGRBYjJyMDRCemVFMVhUMzZvcTZR?oc=5",
+   "ts": "Mon, 09 Nov 2026 17:23:42 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "Турция запустит ИИ - систему для контроля телеэфира и цифровых платформ | Газета « Совершенно Секретно » ",
-   "url": "https://www.sovsekretno.ru/news/turtsiya-zapustit-ii-sistemu-dlya-kontrolya-teleefira-i-tsifrovykh-platform/",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump :  Immigratiebeleid van Amerikaanse regering was misschien te hard  ",
-   "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/trump-immigratiebeleid-van-amerikaanse-regering-was-te-hard/",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says Vance was right that Iran war cost GOP midterms",
-   "url": "https://www.inquisitr.com/trump-vance-iran-war-midterms/",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "مأساة شعب غزة المنكوب",
-   "url": "https://www.raya.ps/articles/1228467.html",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says his deportation policy  might have been too tough  for voters",
-   "url": "https://www.wimbledonguardian.co.uk/news/national/26710164.trump-says-deportation-policy-might-tough-voters/",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "COP31 faces uphill battle as war , AI reshape climate agenda",
-   "url": "https://www.middle-east-online.com/en/cop31-faces-uphill-battle-war-ai-reshape-climate-agenda",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Šef najvrjednije korporacije na svijetu prevario ženu s kineskom špijunkom",
-   "url": "https://www.index.hr/vijesti/clanak/sef-najvrjednije-korporacije-na-svijetu-na-prevario-zenu-s-kineskom-spijunkom/2854708.aspx?index_ref=homepage_comment_box_d&commentId=12442862",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump calls Jensen Huang  honorable , says he has not discussed allegations with Nvidia CEO",
-   "url": "https://www.chinatechnews.com/2026/11/09/132383-trump-calls-jensen-huang-honorable-says-he-has-not-discussed-allegations-with-nvidia-ceo",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "G7 allies weigh impact of US election results on Ukraine , Middle East",
-   "url": "https://www.middle-east-online.com/en/g7-allies-weigh-impact-us-election-results-ukraine-middle-east",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Трамп заявил , что Украина проявила  огромное неуважение  к России",
-   "url": "https://www.m24.ru/news/09112026/961973",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Rupee gains 25 paise against US dollar on lower crude , positive global cues",
-   "url": "https://www.prokerala.com/news/articles/a1834545.html",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "How a bank collapse left millions in limbo and toppled Paraguay president",
-   "url": "https://www.wxxinews.org/npr-news/2026-11-09/how-a-bank-collapse-left-millions-in-limbo-and-toppled-paraguays-president",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says his deportation policy  might have been too tough  for voters",
-   "url": "https://www.freepressseries.co.uk/news/national/26710164.trump-says-deportation-policy-might-tough-voters/",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says his deportation policy  might have been too tough  for voters in the election",
-   "url": "https://abcnews.com/US/wireStory/trump-deportation-policy-tough-voters-election-137963472",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "How a bank collapse left millions in limbo and toppled Paraguay president",
-   "url": "https://www.ksmu.org/2026-11-09/how-a-bank-collapse-left-millions-in-limbo-and-toppled-paraguays-president",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Трамп заявил , что подпишет « огромное количество помилований », уходя с поста",
-   "url": "https://aif.ru/politics/world/tramp-zayavil-chto-podpishet-ogromnoe-kolichestvo-pomilovaniy-uhodya-s-posta",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Pope Leo urges Argentina to protect democracy during visit with President Milei",
-   "url": "https://cphpost.dk/2026-11-09/global/pope-leo-urges-argentina-to-protect-democracy-during-visit-with-president-milei/",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "What did RFK Jr . former advisor say about Trump administration",
-   "url": "https://www.themarysue.com/rfk-jr-s-former-advisor-speaks-about-alleged-internal-corruption-within-the-trump-administration-that-led-to-his-departure/",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Встреча Трампа , Путина и Си : президент США раскрыл детали",
-   "url": "https://www.unian.net/world/vstrecha-trampa-putina-i-si-prezident-ssha-raskryl-detali-13553838.html",
-   "ts": "20261109T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump admits deportation policies have been too harsh , offers to work with Democrats",
-   "url": "https://cphpost.dk/2026-11-09/global/trump-admits-deportation-policies-have-been-too-harsh-offers-to-work-with-democrats/",
-   "ts": "20261109T070000Z"
+   "src": "gnews",
+   "title": "Event calendar in Asia Tuesday, November 10, 2026: BoJ and China trade data - investingLive",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hQenlWQ2ZnNnY0SnBJdEhOVEk1cEIyR0ZFWnRRX2lqRW0weUUwNzlmTW5QNzYwMjRldDR3VUNrTU0wVjdjWDNoWVJxdDUwaGhzWWY4UW9iVDRLV2lVV25XS3JPakRaQ3NuU2Vtb2l4eFRUaGFWb2dFRGlpQ1ZYVUJ1bjBNQ3ZoTkwzQzJyOThaY1pmektwdnBkRDRQYVlXT1h1TnUxZVprMmtPamV2bzYyaw?oc=5",
+   "ts": "Mon, 09 Nov 2026 21:03:48 GMT"
   }
  ]
 }

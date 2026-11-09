@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-09T05:15:21Z",
+ "ts": "2026-11-09T05:30:24Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -406,12 +407,6 @@
   },
   {
    "src": "gnews",
-   "title": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump’s Canada Tariffs - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVhNeS1XX0xDd1ZkN3JZMkdWcUJkaFhONTBWSmprcWxkRVpqbU02QUQxWnRVRXdlTHBzaVJNMENWaE5HaFcyU2pCVDl3SkpXV3Y4UTlEMzM4STJFc3FGVVByUW1xUHh1QWlqOWx2bHBKQTZxb09zSDQtMklkRFpsRENDbWRiNzg3dzlwMnVqbVpLQkhRVWwwT0F6UUxFODdybWFqekNqUVhrcEZKNzZz?oc=5",
-   "ts": "Fri, 06 Nov 2026 02:02:52 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory - ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTNUYllWQmZpQmliVmZTSDBSTENwc2hhNUFWU3BGcnBXZmpIZXNSV3VnZVl1NWU5Yi1acXZ3SjduRU9Cc3N4RXJRX19rMEFYQW8tVldQTXg3bjRVZU9KR05zYjdSSk9xX0ZMS1VCQ3hNcXZUX21KZDZlcWhNSmIzQzZBZnZXQXhxVE91LTFBdTQ4NEduYzl4TlliX2pVZy01NFdRcHpJNE80aUQ3cEFr0gG0AUFVX3lxTFBpR1pyM3M4UWU4MXV1d0ZIMkRudjZpYXJYMElUVHlCcXRPUldYbHJBalZsaVlNem4zWlV2QjlkTnFDaDV0b3k1dVhBRE1mVFdtVkpzNU9WajJiVkQzMGpyWFlJZGd5V3lHaU1HaTMyWk9BNkxYbTZmcFg0QmtRb2ExeldQSEtfekpEUTE1cXB5SFNONW1YQXlRVy11YkVBRjN6WHRSTkF1czNxTXJtdUZoSU5pZg?oc=5",
    "ts": "Fri, 06 Nov 2026 20:51:57 GMT"
@@ -436,9 +431,21 @@
   },
   {
    "src": "gnews",
+   "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
+   "ts": "Sun, 01 Nov 2026 12:00:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "US urges China to meet rare earths, agriculture commitments ahead of Trump-Xi meetings - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY1NQbGhDdzBnZUVPRWxZMzdCdlUxcTdxTlhaVXYwclNRTm92UXdGanlUVmpxQUczWFItME5kaWp3NWFKVDZUWW5GVlowUnFrYktvOEdvYTNlclhVRUQxbWlia18zQW1RRzhJMlhoRjE3b2xIdlllYXZCSm5BUTR1SFdudTNfS0ZRWUtjenNLS0NwOUMyN0gtb3JkX0NQaE1EdjluMkI3aFhscEplOWVXM0FIZTI4N3IxV3pLWGhsNUZLUQ?oc=5",
    "ts": "Fri, 06 Nov 2026 17:53:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Democrat triumph offers China ‘window to catch up’ on AI - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN3pjQmFySi0wZGtaT2x3Vk9ncjBYUGJwOGhiVFczWUVKNGJnaHRwMC0xQV9vZ3JKQklJeG1kLUhlc0VvanN1cGM5RjVwcUlYT1k0TWVBRFc0Vk5lemd3YmhqYVRnR3dITWxnMEVudndhR0dneXpVWDd5OUJTS1g1UGQ3UzY?oc=5",
+   "ts": "Mon, 09 Nov 2026 05:00:48 GMT"
   },
   {
    "src": "gnews",
@@ -448,135 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "Democrat triumph offers China ‘window to catch up’ on AI - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN3pjQmFySi0wZGtaT2x3Vk9ncjBYUGJwOGhiVFczWUVKNGJnaHRwMC0xQV9vZ3JKQklJeG1kLUhlc0VvanN1cGM5RjVwcUlYT1k0TWVBRFc0Vk5lemd3YmhqYVRnR3dITWxnMEVudndhR0dneXpVWDd5OUJTS1g1UGQ3UzY?oc=5",
-   "ts": "Mon, 09 Nov 2026 05:01:34 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues - ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjlHb2U1LVBiU29ZOGVGTnhubkJZUUF3ejRLQy12ejROd1lIaVMzTS1hVEVqMWx2Z3VQMmcxakItTzNzQVJ2WU1qN2tCUWNCMkUtVi1Od0FyejlRVUNTb01ZX29WUGwxU0g0RlFrU09Mc0lQZlZuaFNGVTdiUTBEQW5VM28xcFd6a2k3RW5GNGJlZktPRG5zbFB6a0hFOUpLRWNhSU9WaGg4LTRUOVBWSmxtWG5zd9IBuwFBVV95cUxQUFFsbWN1ZmxlNWRuaFAxaXBqUTJLVjFDX2M5Ui15TjhSeGpyRjN5NVZMZ01TNlVWX2NGU0tGVThHSE5jZVhFdFowSVhMTjNVdmVEd1NwbU1DcFVOaHVaWmwxOG10WWJKSnVVVmhFZGhLa0J0MkMzV2Jock1UdXFtekpKeXAtaDJPWjlfaXhueHpnWW8wcjBwUXNCRGRLVFoyQUREblVacG5QSjZrU3hkQmN6V0RCUmhmZUpv?oc=5",
    "ts": "Fri, 06 Nov 2026 04:06:34 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Президент США назвал шуткой предложение главе UFC стать пресс - секретарем Белого дома",
-   "url": "http://govoritmoskva.ru/news/511467/",
-   "ts": "20261109T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Pope lands in Argentina and tells Milei that people , not the economy , come first",
-   "url": "https://www.eastlondonadvertiser.co.uk/news/national/26709744.pope-lands-argentina-tells-milei-people-not-economy-come-first/",
-   "ts": "20261109T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Potential Vance challengers smell blood in the water after brutal GOP losses",
-   "url": "https://www.inquirer.com/politics/vance-2028-presiential-run-challengers-desantis-cruz-kemp-pence-trump-20261108.html",
-   "ts": "20261109T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "استعدوا لزيادة تعرفة الكهرباء – قناة المنار",
-   "url": "https://www.almanar.com.lb/article/1335982/",
-   "ts": "20261109T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says his deportation policy  might have been too tough  for voters",
-   "url": "https://www.borehamwoodtimes.co.uk/news/national/26710164.trump-says-deportation-policy-might-tough-voters/",
-   "ts": "20261109T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Brazil : Lessons for the Left",
-   "url": "https://cpa.org.au/guardian/issue-2214/brazil-lessons-for-the-left/",
-   "ts": "20261109T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Скандал вокруг Nvidia – связи Дженсена Хуанга с женщиной Алисой Хуанг , которую подозревают в шпионаже в пользу Китая",
-   "url": "https://www.obozrevatel.com/section-novosti-mir/news-nvidia-rozsliduye-zvyazky-svoho-hendyrektora-z-ymovirnoyu-kytayskoyu-shpyhunkoyu-podrobytsi-skandalu-09-11-2026.html",
-   "ts": "20261109T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Dana White Meets Trump Over Press Secretary Job as Podium Sits Empty Three Weeks After Zacharia Five - Day Stint",
-   "url": "https://www.ibtimes.co.uk/dana-white-trump-press-secretary-offer-1830939",
-   "ts": "20261109T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Jeffries backs impeaching Hegseth as Democrats push for accountability",
-   "url": "https://www.inquirer.com/politics/impeach-hegseth-jeffries-hard-yes-massie-trump-iran-war-democrats-republicans-20261108.html",
-   "ts": "20261109T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "CNBC : Bầu cử giữa nhiệm kỳ khó tạo bước ngoặt cho chính sách kinh tế Mỹ",
-   "url": "https://vietbao.vn/cnbc-bau-cu-giua-nhiem-ky-kho-tao-buoc-ngoat-cho-chinh-sach-kinh-te-my-615120.html",
-   "ts": "20261109T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "G7 meet as Europe seeks greater say in Ukraine peace talks",
-   "url": "https://www.dw.com/en/g7-ministers-meet-as-europe-seeks-greater-say-in-ukraine-peace-talks/a-79894960",
-   "ts": "20261109T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Defends Record In  60 Minute Interview",
-   "url": "https://wtag.iheart.com/content/2026-11-09-trump-defends-record-in-60-minutes-interview/",
-   "ts": "20261109T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Nvidia CEO जेनसन हुआंग के अफेयर पर बवाल , चीनी महिला से जुड़ा नाम ; कंपनी ने शुरू की जांच",
-   "url": "https://www.haribhoomi.com/world/news/nvidia-ceo-jensen-huang-affair-chinese-spy-probe-121139",
-   "ts": "20261109T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Tarascon - sur - Ariège . Lagenda culturel de la semaine",
-   "url": "https://www.ladepeche.fr/2026/11/09/lagenda-culturel-de-la-semaine-13643480.php",
-   "ts": "20261109T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "CDC deputy director resigns after being hired in April – KTBB News , Weather , Talk",
-   "url": "https://ktbb.com/post/?p=1558865",
-   "ts": "20261109T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump opposes impeachment of Pete Hegseth",
-   "url": "https://en.apa.az/america/trump-opposes-impeachment-of-pete-hegseth-535002",
-   "ts": "20261109T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Kết quả bầu cử giữa kỳ Mỹ tác động ra sao tới kinh tế thế giới , doanh nghiệp Việt ? ",
-   "url": "https://vietbao.vn/ket-qua-bau-cu-giua-ky-my-tac-dong-ra-sao-toi-kinh-te-the-gioi-doanh-nghiep-viet-615119.html",
-   "ts": "20261109T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Share Market Fall : मुहूर्त ट्रेडिंग के बाद बाजार में गिरावट , सेंसेक्स डे - हाई से 625 अंक टूटा ; निफ्टी भी फिसला",
-   "url": "https://www.haribhoomi.com/business/news/share-market-fall-sensex-nifty-fall-three-reasons-muhurat-trading-121142",
-   "ts": "20261109T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Prix des carburants dans les Yvelines : voici les stations les moins chères ce lundi 9 novembre",
-   "url": "https://www.leparisien.fr/economie/consommation/prix-des-carburants-dans-les-yvelines-voici-les-stations-les-moins-cheres-ce-lundi-9-novembre-09-11-2026-VFNCE24Z4RCUPOUV2QAXXME2ME.php",
-   "ts": "20261109T050000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says his deportation policy  might have been too tough  for voters",
-   "url": "https://www.northwichguardian.co.uk/news/national/26710164.trump-says-deportation-policy-might-tough-voters/",
-   "ts": "20261109T050000Z"
   }
  ]
 }

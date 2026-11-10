@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-10T02:30:25Z",
+ "ts": "2026-11-10T02:45:22Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -371,15 +371,15 @@
   },
   {
    "src": "gnews",
-   "title": "China is extending its U.S.-China trade truce through January, keeping 10% tariff - Quartz",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpUlZZblVpYUlnZ0VCZmdDMmdsN0FZRklFRHVFOXFkbGJhdnl3dVEzZ1lOUTZkMXQ5QkNieXpBMkpnSi1UY1gzMjlVVHJ3TEhmd0N5bFRSUXAzSTd4RXNUSG9MTXR2a2ZobWktUXRxZnE?oc=5",
-   "ts": "Mon, 09 Nov 2026 12:26:37 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting - DW.com",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
    "ts": "Sat, 07 Nov 2026 04:46:35 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China is extending its U.S.-China trade truce through January, keeping 10% tariff - Quartz",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpUlZZblVpYUlnZ0VCZmdDMmdsN0FZRklFRHVFOXFkbGJhdnl3dVEzZ1lOUTZkMXQ5QkNieXpBMkpnSi1UY1gzMjlVVHJ3TEhmd0N5bFRSUXAzSTd4RXNUSG9MTXR2a2ZobWktUXRxZnE?oc=5",
+   "ts": "Mon, 09 Nov 2026 12:26:37 GMT"
   },
   {
    "src": "gnews",
@@ -389,15 +389,15 @@
   },
   {
    "src": "gnews",
-   "title": "China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZTE5VFprcnF6YTMxUkFqZzlfUE41Uk9iUmx1Y3NTdkIxLWJiSUVLaDlOVGlDR2hYT0pFbEVPaVBtR2p4SF9qYXZ6SG91YnBDcHJJbjRiWmw5QzR5ajJkQS1pdUo1WVJGV2lMZ0xvc2JFdmVJeVBJM2EtRU9mUnd5WnNMMGpZQU11M2xsdlhvQktlLUQ2?oc=5",
-   "ts": "Mon, 09 Nov 2026 04:36:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Similarity is not exposure: Measuring spillovers from US–China trade frictions - CEPR",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVJHQXU2RG1VeWxpZjdjVkRaY2FRQVRRQWVpbG95Qmx4RjY0MTdGZVRjb0dDM1doN0lYb083ckNPVHNZUzJqN00ybWc3bjRTRk5ZRUQxMTlSZ3VFdnBOSU9iTmZmbndsRm9CdkE3MmQ3LTFJYVZzdHRFYXVaZmxyb1dtQTRfa185clRQT1o1enN6c3E2MWgyTzB2b0JqQnNrcEE?oc=5",
    "ts": "Mon, 09 Nov 2026 01:02:45 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZTE5VFprcnF6YTMxUkFqZzlfUE41Uk9iUmx1Y3NTdkIxLWJiSUVLaDlOVGlDR2hYT0pFbEVPaVBtR2p4SF9qYXZ6SG91YnBDcHJJbjRiWmw5QzR5ajJkQS1pdUo1WVJGV2lMZ0xvc2JFdmVJeVBJM2EtRU9mUnd5WnNMMGpZQU11M2xsdlhvQktlLUQ2?oc=5",
+   "ts": "Mon, 09 Nov 2026 04:36:00 GMT"
   },
   {
    "src": "gnews",
@@ -443,8 +443,8 @@
   },
   {
    "src": "gnews",
-   "title": "Analysis-China seeks high-tech upper hand in industry carrying 80% of global trade - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSDVIZGtBQVQ5YjhzYkhQZ3VoV09qNERfMGVScWZLd0EtZ1QtUkotTzBYRFYwZ3RROUxqVE16c3ZlOHcxSGNiSWdsOXpNN0ZjaW9GMjRPYmF1akZNcVUybnVQZnU3MWRXOWVSUm1ZY3k1dldlOVpjbnlkTG9ibEhsWjV6cWE0bmlkZFZCYXZ3S3g?oc=5",
+   "title": "China seeks high-tech upper hand in industry carrying 80% of global trade - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWNwN3AyR0VFQTBqeUREa3A0M25yWkktTGFNX082dE5xSzl1NXk5ajRhajRXb0tOdUVYT1FXQm11WHduOGR1Z09YQlByZklSNE96UTlySkhYM0F4TmZNWHluNFpuTDM2dHNfZG9za1U5bHM0Qjh6Z2hwTWd6TmV2OFE2dll3RlZ0YlM2azc1UmdxN0RnVzAzQkpjaFN0UFhWNFNVZzEwRDlWLWFjbkM5UXNLNmI?oc=5",
    "ts": "Tue, 10 Nov 2026 01:50:00 GMT"
   },
   {
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5",
-   "ts": "Mon, 09 Nov 2026 18:37:00 GMT"
+   "title": "Trump’s trade chief pushing him to step up negotiations with Canada - Politico",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUY3c1JIclBSa09VTXM3UlJiMWtrUkxUdFJoRTV6Zl9ZZGJQcUlCTFppQm9ESWhrcGVfTWRHdy1SSkU4U2ktY2ZiMEtWNnBiWkhDQmVuajlhTlFDa3NJM0dESGNTeWdPbmNMWTBxV2swVkhLbV9QdFdhUWhORl9Ca2NHUFlxNEFFamRWNzhQRlJEdFNadkd5M1RQMTM?oc=5",
+   "ts": "Tue, 03 Nov 2026 23:55:00 GMT"
   }
  ]
 }

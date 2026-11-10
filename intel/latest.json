@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-10T03:15:20Z",
+ "ts": "2026-11-10T03:30:36Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -10,9 +10,8 @@
    "n": 10
   },
   "fed": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 404: Not Found"
+   "ok": true,
+   "n": 20
   },
   "reuters": {
    "ok": false,
@@ -221,6 +220,126 @@
    "ts": "Wed, 21 Oct 2026 23:05:13 +0000"
   },
   {
+   "src": "fed",
+   "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+   "ts": "Mon, 9 Nov 2026 21:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+   "ts": "Thu, 5 Nov 2026 16:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+   "ts": "Thu, 29 Oct 2026 20:30:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve issues FOMC statement",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+   "ts": "Wed, 28 Oct 2026 18:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+   "ts": "Fri, 16 Oct 2026 15:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+   "ts": "Tue, 13 Oct 2026 18:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+   "ts": "Fri, 9 Oct 2026 14:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity rel",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+   "ts": "Thu, 8 Oct 2026 20:30:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+   "ts": "Wed, 7 Oct 2026 18:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+   "ts": "Mon, 5 Oct 2026 20:30:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+   "ts": "Fri, 2 Oct 2026 20:45:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
+   "ts": "Fri, 2 Oct 2026 20:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
+   "ts": "Fri, 2 Oct 2026 15:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+   "ts": "Wed, 30 Sep 2026 13:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
+   "ts": "Tue, 29 Sep 2026 20:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+   "ts": "Fri, 25 Sep 2026 20:30:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+   "ts": "Thu, 24 Sep 2026 18:30:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
+   "ts": "Thu, 24 Sep 2026 15:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
+   "ts": "Tue, 22 Sep 2026 20:30:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+   "ts": "Fri, 18 Sep 2026 15:00:00 GMT"
+  },
+  {
    "src": "gnews",
    "title": "China's trade surplus soars past $1 trillion, October exports jump 35.2% y/y - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
@@ -234,21 +353,33 @@
   },
   {
    "src": "gnews",
+   "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
+   "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China's undervalued currency is driving its trade surplus higher - Peterson Institute for International Economics",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnkzZE15TVlhc1FHU1hzOFJXNklMWERBbUpCSVNLVUw1OFdSS25xOEdZSEY5bXNjclhEWnFCcXF4WUJmUDRyTWpnMWdoMmRyWXVTYkYtUFhmellzaDJUeUladm4zcDYwWEw2eWpLVjQzZVl3c3o5VFZHM2NnM2R6YVJMS1Qtd1d6LVRkMmZtbFZtOHl3cExTTHBwNlhsZVRETVEyWk9ZLUdBQmp3dGNycQ?oc=5",
    "ts": "Mon, 09 Nov 2026 14:00:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Midterm Voters Disapproved Of Trump’s Tariffs And Immigration Policies - Forbes",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHowVm5MaWdLbnZhbVJmb0o3Rk5MSzNDZXN0bU1BTWpkMGJaTWU5aFpGRGFteEtudmU5YXN1VzNoRGI4MnRzVmRpMUlDRkRzUTk1eHpEckIzWkl0RkVOczhmc1dfc191S1ZDYlZmX2lzenlibF90TEtsQVd1NHNQcW01WjRwYXR0aUNOdjF1bW55allXN2pNRTdQblhrQTR2bTNJNEFYbDdZLUR1NWdSWmdqQTNhWmo3UWZMWjBmVUo0ZjQ?oc=5",
-   "ts": "Mon, 09 Nov 2026 14:32:10 GMT"
+   "title": "China's trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - WRAL",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa1QxeG9GaWhUc2FwNEVNR25GX1FydTlwWWQ4bWhMNExIamtFZnhCbFZZWmlqSHBocmxneklHMXQtQldWVVhoX05HX3RmUDdNQjl0Sk1GOU95WlBMZDZxbEd1bzE2YUV0VENvS2tTUG5CelhNbl9IbTZPVlNGZkxLN1R4WUZ4bWpqakMyZjl6RmxGRlVxOEtaWEFWS2V3Yzdod19adG9EQ2RWNGM0SzZRTDBFVXYwOGV5blBNZFJ3?oc=5",
+   "ts": "Tue, 10 Nov 2026 03:20:54 GMT"
   },
   {
    "src": "gnews",
-   "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Central Oregon Daily",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQc2hSdUM1M3RaVFpRYVJ3WDVWdjE4YlhPdjVJUnRIUXVMaG9wTHVlejUtNk8zbDlxRkg4MlE4T1lUc2lncWNheVUxNU1hTEtYNG9Zckd0dnRmWkkxNGZEUXN1Y1QycVh2OUlCc1AwaHhrSnVsQVlsNFFyZHI3d0FJb21sMWxWZXRMYXFjdWFRdnhRYWt3Zm8zalJfektDaEZEaXNzcG1VRE5FakRFa2pQUDJjQ25LSHRSNHRHb3hockZabWEzSnFGbDVQMXBiYkZ0UVNiU0xrUEZIbkJXVlplYUtVUXFVTG5EVE42MWtFaDV1REhCaHhMWnRRbw?oc=5",
-   "ts": "Tue, 10 Nov 2026 03:02:48 GMT"
+   "title": "China’s trade surplus exceeds $1tn for first 10 months of year - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmpqbG1WMjVjVGtaTmdwR2hnbkJ0OWxiS2NZNXVWSklHZDNoZTR6eXZXTWhTZHdIeUg1elJYLUNaNGhMNHB4dGVUMnBJMlNTVVpmSVBoX3o2Z1JTTFZKa3VTVVlnQkNtZk54VVEwdWVQMjhkakJGbXpiYU94YVdPSmdzYl8?oc=5",
+   "ts": "Tue, 10 Nov 2026 03:11:45 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China exports, imports soar past expectations in October — surplus narrows sharply - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzk1R09TQzJMMElPWWVSLXhRSkZUVFJWWW85cjV2QjFtMXJRcWVKX2VjSm83XzRNZUE3VFpucUk3SHdPbXd4b0tnMkVVamxsLUEtMTcyejJLUlBSNURlSkR6bjVKUzNENWZmVE1LcHpiakk2RXViWVJDVmR5bDlyX3BpMGJJWW1J?oc=5",
+   "ts": "Tue, 10 Nov 2026 02:38:00 GMT"
   },
   {
    "src": "gnews",
@@ -264,21 +395,9 @@
   },
   {
    "src": "gnews",
-   "title": "China’s trade surplus exceeds $1tn for first 10 months of year - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmpqbG1WMjVjVGtaTmdwR2hnbkJ0OWxiS2NZNXVWSklHZDNoZTR6eXZXTWhTZHdIeUg1elJYLUNaNGhMNHB4dGVUMnBJMlNTVVpmSVBoX3o2Z1JTTFZKa3VTVVlnQkNtZk54VVEwdWVQMjhkakJGbXpiYU94YVdPSmdzYl8?oc=5",
-   "ts": "Tue, 10 Nov 2026 03:11:45 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China is extending its U.S.-China trade truce through January, keeping 10% tariff - Quartz",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpUlZZblVpYUlnZ0VCZmdDMmdsN0FZRklFRHVFOXFkbGJhdnl3dVEzZ1lOUTZkMXQ5QkNieXpBMkpnSi1UY1gzMjlVVHJ3TEhmd0N5bFRSUXAzSTd4RXNUSG9MTXR2a2ZobWktUXRxZnE?oc=5",
    "ts": "Mon, 09 Nov 2026 12:26:37 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "US-China Flights: A Stalled Recovery - The US-China Business Council",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6N1ZrUlNUV1oyVllsN2pYVkVlanY0cV9iWThPTE9NRldpOUZ5eVkyTkdFcVJFLW5xOVpJQ1E2NWRJRGF6d2J5UXE2bmZGeno5WVBXNEhQS1UtQUFMMWpQMjNZQU1zSmo0QlJkc0hETUltNnM4WDVucA?oc=5",
-   "ts": "Mon, 09 Nov 2026 17:34:25 GMT"
   },
   {
    "src": "gnews",
@@ -288,15 +407,15 @@
   },
   {
    "src": "gnews",
-   "title": "China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZTE5VFprcnF6YTMxUkFqZzlfUE41Uk9iUmx1Y3NTdkIxLWJiSUVLaDlOVGlDR2hYT0pFbEVPaVBtR2p4SF9qYXZ6SG91YnBDcHJJbjRiWmw5QzR5ajJkQS1pdUo1WVJGV2lMZ0xvc2JFdmVJeVBJM2EtRU9mUnd5WnNMMGpZQU11M2xsdlhvQktlLUQ2?oc=5",
-   "ts": "Mon, 09 Nov 2026 04:36:00 GMT"
+   "title": "US-China Flights: A Stalled Recovery - The US-China Business Council",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6N1ZrUlNUV1oyVllsN2pYVkVlanY0cV9iWThPTE9NRldpOUZ5eVkyTkdFcVJFLW5xOVpJQ1E2NWRJRGF6d2J5UXE2bmZGeno5WVBXNEhQS1UtQUFMMWpQMjNZQU1zSmo0QlJkc0hETUltNnM4WDVucA?oc=5",
+   "ts": "Mon, 09 Nov 2026 17:34:25 GMT"
   },
   {
    "src": "gnews",
-   "title": "Despite US-China trade deal, tariffs remain on essential baby products - Kiowa County Press",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQXBMbUVibWV2MG9TdEE1TENRcTUxUGxoNGtldmVNN2d0em1uSzZGYmx4cmtGM1doeF81WUlkcDZla0lBM3NMSS1uTFhJQ1ZKaUl5dmRDeWtSS1lGbGlWa3AzM0pRdGo5ei04dzRhZGdwUmJZT1dJbzdnMXIxdkZKNUFHYTRvaGUxclJDeEZoaUpjOTZlNjZNV1VxcWxUNGVfdlBRUzdB?oc=5",
-   "ts": "Mon, 09 Nov 2026 12:00:00 GMT"
+   "title": "China’s Trade Surplus Tops $1 Trillion as October Exports Surge - The China-Global South Project",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMFNyY08wX2V5MHlpbFJqMDJQc25HMkJqeFRRRmZlMmdmdmNpUXRNNjhBYlBpNWNVYWZrTmJvODN6dnhpUHF2c2EzeDJxWW9ubEtvck1hTlROcF9Bd1F2bVI2RUlXUTVQMk1SY0djdVVDMm9mSDlkemJzUnFuYWlBQWZ4NVJaTEhZ?oc=5",
+   "ts": "Tue, 10 Nov 2026 03:18:24 GMT"
   },
   {
    "src": "gnews",
@@ -309,12 +428,6 @@
    "title": "Bessent, Greer Raise Concerns on China Trade Deal Compliance - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUThIM0tOMDlPV2h4TURPZHZyVlJjUGRLWlZOV21nb3gwS3RON3RQdk1PZUFNOTVpZ2k0VG4tQ0xyWWd1R0JrZzV2MVhwS3B6dzY0eGtkbWxXajRreGpIRlZWUXVkc2haWVVsaXNZaUwzYWdmaU8tS21KS1ZaRlVZT3dNanpJamNZRURtOVRibHFpMERibTF0OGNwQnFkWENSVXJScXpJclFuamc?oc=5",
    "ts": "Sat, 07 Nov 2026 01:33:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYy1vdWUwVXRwOE5ZT180NmxHZ0JocXpNaEpYQWNmYmh4dXBrN1Q0SFBpYkMtXzRJSFQ4WkNKbUI5Z1VCS25kRVZpSDJaSTlEY1FsVlNkZTUxSG1jclhnNDlaZnNWMTdLWG9QQmdLZjhWOElZNDVGeVlYdFA0TVVvUW51ZFk?oc=5",
-   "ts": "Fri, 06 Nov 2026 17:20:21 GMT"
   },
   {
    "src": "gnews",
@@ -336,9 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Could the blue wave change Trump's tune with Canada? | Opinion - Akron Beacon Journal",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSVBYQzZlTmhES1Z5ZXUtM1BvZ1d4TlVmUGkzQ1dqZEhZTU5yU0s4bXROR3FZRmlERGF5NjhaZEw0OE83OGYtaDhhaW5jSHpiOXZrTk1hOFA2am5MY0xwZUhjN2JVSG01WThRVGxQNXNZS3NCZk4tX2I2STV6d3hKaUdOdXhJZnJxWjFzTWx1Um1YR0htZWZkd1R3a0lEbGFDWm1KaExyNUZJX1Z0dUMycEU0Wi01M1c4R3hUai1mSXVNUFU?oc=5",
-   "ts": "Mon, 09 Nov 2026 11:03:00 GMT"
+   "title": "China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZTE5VFprcnF6YTMxUkFqZzlfUE41Uk9iUmx1Y3NTdkIxLWJiSUVLaDlOVGlDR2hYT0pFbEVPaVBtR2p4SF9qYXZ6SG91YnBDcHJJbjRiWmw5QzR5ajJkQS1pdUo1WVJGV2lMZ0xvc2JFdmVJeVBJM2EtRU9mUnd5WnNMMGpZQU11M2xsdlhvQktlLUQ2?oc=5",
+   "ts": "Mon, 09 Nov 2026 04:36:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYy1vdWUwVXRwOE5ZT180NmxHZ0JocXpNaEpYQWNmYmh4dXBrN1Q0SFBpYkMtXzRJSFQ4WkNKbUI5Z1VCS25kRVZpSDJaSTlEY1FsVlNkZTUxSG1jclhnNDlaZnNWMTdLWG9QQmdLZjhWOElZNDVGeVlYdFA0TVVvUW51ZFk?oc=5",
+   "ts": "Fri, 06 Nov 2026 17:20:21 GMT"
   }
  ]
 }

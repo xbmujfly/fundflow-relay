@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-10T07:45:23Z",
+ "ts": "2026-11-10T08:00:26Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
   }
  },
  "items": [
@@ -359,21 +359,21 @@
   },
   {
    "src": "gnews",
-   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
-   "ts": "Tue, 10 Nov 2026 06:23:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s monthly imports grow at fastest pace in five years as surplus crosses $1 trillion in 2026 - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzk1R09TQzJMMElPWWVSLXhRSkZUVFJWWW85cjV2QjFtMXJRcWVKX2VjSm83XzRNZUE3VFpucUk3SHdPbXd4b0tnMkVVamxsLUEtMTcyejJLUlBSNURlSkR6bjVKUzNENWZmVE1LcHpiakk2RXViWVJDVmR5bDlyX3BpMGJJWW1J?oc=5",
    "ts": "Tue, 10 Nov 2026 02:38:00 GMT"
   },
   {
    "src": "gnews",
+   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
+   "ts": "Tue, 10 Nov 2026 06:23:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China’s trade surplus exceeds $1tn for first 10 months of year - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmpqbG1WMjVjVGtaTmdwR2hnbkJ0OWxiS2NZNXVWSklHZDNoZTR6eXZXTWhTZHdIeUg1elJYLUNaNGhMNHB4dGVUMnBJMlNTVVpmSVBoX3o2Z1JTTFZKa3VTVVlnQkNtZk54VVEwdWVQMjhkakJGbXpiYU94YVdPSmdzYl8?oc=5",
-   "ts": "Tue, 10 Nov 2026 03:09:14 GMT"
+   "ts": "Tue, 10 Nov 2026 06:09:45 GMT"
   },
   {
    "src": "gnews",
@@ -413,9 +413,9 @@
   },
   {
    "src": "gnews",
-   "title": "China extends trade truce with US by two months - The Journal Record",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObkFqc091Z2RDX3dCZ052b21fcHE4dEpZSktXbnlnSHJQLXBpZFJkZjR1NUl4UUF5a2NrNHdNbkRXVUZSQnBEb1YwSlFwR0ZoV1dGRExxd1hSMVRZYWFBMlJhak85d0ZOOGVpWWtZMnM0cnVBZ2JucVpQSlVraGdSUmlfc0hpOVU1?oc=5",
-   "ts": "Mon, 09 Nov 2026 18:05:57 GMT"
+   "title": "China seeks high-tech upper hand in industry carrying 80% of global trade - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWNwN3AyR0VFQTBqeUREa3A0M25yWkktTGFNX082dE5xSzl1NXk5ajRhajRXb0tOdUVYT1FXQm11WHduOGR1Z09YQlByZklSNE96UTlySkhYM0F4TmZNWHluNFpuTDM2dHNfZG9za1U5bHM0Qjh6Z2hwTWd6TmV2OFE2dll3RlZ0YlM2azc1UmdxN0RnVzAzQkpjaFN0UFhWNFNVZzEwRDlWLWFjbkM5UXNLNmI?oc=5",
+   "ts": "Tue, 10 Nov 2026 01:50:00 GMT"
   },
   {
    "src": "gnews",
@@ -431,9 +431,15 @@
   },
   {
    "src": "gnews",
-   "title": "China seeks high-tech upper hand in industry carrying 80% of global trade - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWNwN3AyR0VFQTBqeUREa3A0M25yWkktTGFNX082dE5xSzl1NXk5ajRhajRXb0tOdUVYT1FXQm11WHduOGR1Z09YQlByZklSNE96UTlySkhYM0F4TmZNWHluNFpuTDM2dHNfZG9za1U5bHM0Qjh6Z2hwTWd6TmV2OFE2dll3RlZ0YlM2azc1UmdxN0RnVzAzQkpjaFN0UFhWNFNVZzEwRDlWLWFjbkM5UXNLNmI?oc=5",
-   "ts": "Tue, 10 Nov 2026 01:50:00 GMT"
+   "title": "China extends US trade truce by two months - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5",
+   "ts": "Mon, 09 Nov 2026 02:48:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China Extends Pause on US Tariffs and Trade Curbs for Two Months - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkVXSkNKNzRBdXBNUlFmNVlEZ3gtUVhRbVVZcENiS3B6RXBlMDNvQ2lrU19fMXoyYkdSQWc5amg5OXlhcmtKX0JHZHR2amtKY2hzZllpQUhWS3lTNndnT2NDZFdYUHNCeG1MVHZmMWV5RjEwTXJqVmlLQTJDU0d3SHN2aHVOZ291bTNqNnprR3U2TndhUEs0ZHdDTVM2NlRsZW5VQUxKd25JLXV0MlJ6aXRR?oc=5",
+   "ts": "Mon, 09 Nov 2026 08:52:55 GMT"
   },
   {
    "src": "gnews",
@@ -452,12 +458,6 @@
    "title": "China's trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - News-Press NOW",
    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQXzRBdnRucXltenpmY0ItMmpYWDctNXMwbWtHM19uSHh5V09GelNGSGpKbUkzNG5reWtBZ0ZvR2xlY2VpclI2ZUNNYUE3aFZzeHNPUnFjSlpkWlJHNkJrazR1RG1wTFNtS0g3WjJvSlNFQUNIQ1VHRFhsQXlDSU80Q1UwdzVXVTltRk94cElrUUJmczNMVFkzakFBMEFzY3N5SmZLWm80NFBwMy1fOF9VdlJLZ2ZwTTRTaEdpNWZfQlJqdm54Nk5oQmVhS0tBX2NXRloyUVZrMkVMWWNGN2V2OGJCNmhlMGNWRk8zS0ktNnVaVGpWOF9maEhxeUZXcVRKUkM2RDRCdG1wOWJo?oc=5",
    "ts": "Tue, 10 Nov 2026 06:23:53 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China's export growth expected to have remained strong in October: Reuters poll - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVRFNzRhZTJPcFpDcVlpQ05KaGtod1BoMC1rSW9YbHdYZkZxMUR0aFdTODIwUlBRVGxhUGo0Y1RNT3JibHg4SjVpUWg1d2kxN2Q4QlR5Q1l2Wnp0cUtzUW83eW95ZkxNSVBaT2ZDNFhMdFpJQVp5Y3dCclpvY0JuWnRHUGNaS1NmTmZpeF9DbWFRQ3ExVVhaWHpXdGlYNTJYaWxxdnRLWTZ2NmpYc1NaYXUxOA?oc=5",
-   "ts": "Mon, 09 Nov 2026 07:13:00 GMT"
   }
  ]
 }

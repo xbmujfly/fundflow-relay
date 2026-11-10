@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-10T05:45:20Z",
+ "ts": "2026-11-10T06:00:26Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -401,7 +400,7 @@
   },
   {
    "src": "gnews",
-   "title": "China exports, imports soar past expectations in October — surplus narrows sharply - CNBC",
+   "title": "China’s monthly imports grow at fastest pace in five years as surplus crosses $1 trillion in 2026 - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzk1R09TQzJMMElPWWVSLXhRSkZUVFJWWW85cjV2QjFtMXJRcWVKX2VjSm83XzRNZUE3VFpucUk3SHdPbXd4b0tnMkVVamxsLUEtMTcyejJLUlBSNURlSkR6bjVKUzNENWZmVE1LcHpiakk2RXViWVJDVmR5bDlyX3BpMGJJWW1J?oc=5",
    "ts": "Tue, 10 Nov 2026 02:38:00 GMT"
   },
@@ -449,15 +448,135 @@
   },
   {
    "src": "gnews",
+   "title": "China trade recap: surplus tops $1 trillion as AI boom powers exports, tensions loom - investingLive",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2JtN1pBMWJUbVNaODJGS3N2VVNHMFRkOHZEckd2RGp4dVE1ZmVzRld0WWxjeWdPM0hDeWxBenBNUXhIeW1wRXJPeUZieXhMOFFHWkRnUGxheHAwN184RjRnU3lheWxGTEp0QnBnTmNNbWVtOWt3WVcxdEJNczQ2N2hVampsNFBRQTlManRNTXFUU25jTHFqZmdUekRjQm9HQWowUmM3dV9QVjBUSFU2U2pDTQ?oc=5",
+   "ts": "Tue, 10 Nov 2026 04:28:05 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China is extending its U.S.-China trade truce through January, keeping 10% tariff - Quartz",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpUlZZblVpYUlnZ0VCZmdDMmdsN0FZRklFRHVFOXFkbGJhdnl3dVEzZ1lOUTZkMXQ5QkNieXpBMkpnSi1UY1gzMjlVVHJ3TEhmd0N5bFRSUXAzSTd4RXNUSG9MTXR2a2ZobWktUXRxZnE?oc=5",
    "ts": "Mon, 09 Nov 2026 12:26:37 GMT"
   },
   {
-   "src": "gnews",
-   "title": "Similarity is not exposure: Measuring spillovers from US–China trade frictions - CEPR",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVJHQXU2RG1VeWxpZjdjVkRaY2FRQVRRQWVpbG95Qmx4RjY0MTdGZVRjb0dDM1doN0lYb083ckNPVHNZUzJqN00ybWc3bjRTRk5ZRUQxMTlSZ3VFdnBOSU9iTmZmbndsRm9CdkE3MmQ3LTFJYVZzdHRFYXVaZmxyb1dtQTRfa185clRQT1o1enN6c3E2MWgyTzB2b0JqQnNrcEE?oc=5",
-   "ts": "Mon, 09 Nov 2026 01:02:45 GMT"
+   "src": "gdelt",
+   "title": "Liberia Backs Ukraine Truce At UN , Urges Lasting Humanitarian Deals",
+   "url": "https://allafrica.com/stories/202611100021.html",
+   "ts": "20261110T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "البرنامج المسائي - إعادة",
+   "url": "https://sarabic.ae/20261110/1118547254.html",
+   "ts": "20261110T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Thune , Schumer face questions about Senate leadership",
+   "url": "https://www.wtae.com/article/thune-schumer-questions-senate-leadership-midterms/74381263",
+   "ts": "20261110T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Jon Stewart Breaks Down Trump  60 Minute Interview",
+   "url": "https://variety.com/2026/tv/news/jon-stewart-trumps-60-minutes-interview-1236943796/",
+   "ts": "20261110T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "2026年11月10日今日美元走势最新分析 _ 汇市观察 _ 外汇 _ 中金在线",
+   "url": "http://forex.cnfol.com/jingjiyaowen/20261110/32419806.shtml",
+   "ts": "20261110T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Пять оставшихся у Трампа способов изменить мир ( Bloomberg , США ) ",
+   "url": "https://inosmi.ru/20261110/tramp-281098250.html",
+   "ts": "20261110T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "ภาวะตลาดหุ้นโตเกียว : นิกเกอิปิดเช้าพุ่ง 2 . 89 % ทะลุ 60 , 000 จุด",
+   "url": "https://www.ryt9.com/s/iq/12855556",
+   "ts": "20261110T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "美联储12月会议前的最后一份CPI ， 月度读数比年率更重要 _ 汇市观察 _ 外汇 _ 中金在线",
+   "url": "http://forex.cnfol.com/jingjiyaowen/20261110/32419663.shtml",
+   "ts": "20261110T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "The blue tsunami and the message Washington must hear Opinion & Editorial Columnists",
+   "url": "https://asianjournal.com/features/opinion-editorial-columnists/the-blue-tsunami-and-the-message-washington-must-hear/",
+   "ts": "20261110T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Τραμπ : « Θετική ορμή » προς συμφωνία με το Ιράν",
+   "url": "https://www.inewsgr.com/182/trab-thetiki-ormi-pros-symfonia-me-to-iran.htm",
+   "ts": "20261110T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Venäjän ja Ukrainan neuvottelut alkavat Abu Dhabissa",
+   "url": "https://www.kouvolansanomat.fi/uutissuomalainen/9940773",
+   "ts": "20261110T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Nvidia scandal raises questions on relationship to Illinois schools – NBC Chicago",
+   "url": "https://www.nbcchicago.com/investigations/chinese-espionage-scandal-raises-questions-for-illinois-universities-and-nvidia/4014417/",
+   "ts": "20261110T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "美国10月非农暗藏反转信号 ： AI非但没有抢工作 ， 反而在创造岗位 _ 汇市观察 _ 外汇 _ 中金在线",
+   "url": "http://forex.cnfol.com/jingjiyaowen/20261110/32419775.shtml",
+   "ts": "20261110T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US - brokered talks are set to start in Abu Dhabi to discuss Ukraine - Russia peace deal",
+   "url": "https://www.clickondetroit.com/news/world/2026/11/10/us-brokered-talks-are-set-to-start-in-abu-dhabi-to-discuss-ukraine-russia-peace-deal/",
+   "ts": "20261110T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "1800余万元税惠红利赋能焦作产业 - 焦作网WWW . JZRB . COM",
+   "url": "http://www.jzrb.com/news/bendi/202611/966685.shtml",
+   "ts": "20261110T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump defends Hegseth amid impeachment push , calls him",
+   "url": "http://www.bignewsnetwork.com/news/279423107/trump-defends-hegseth-amid-impeachment-push-calls-him-most-responsible-for-the-war-in-iran",
+   "ts": "20261110T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "ตลาดหุ้นเอเชียปิดเช้าบวก นลท . ช้อนซื้อหุ้นกลุ่มเทคฯ",
+   "url": "https://www.ryt9.com/s/iq/12855573",
+   "ts": "20261110T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Nvidia shares slide as board probes CEO over China spy reports",
+   "url": "https://www.ewn.co.za/2026/11/10/nvidia-shares-slide-as-board-probes-ceo-over-china-spy-reports",
+   "ts": "20261110T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "China trade surplus tops $1 trn for 2nd straight year , exports jump 35 % ",
+   "url": "https://www.business-standard.com/world-news/china-s-trade-surplus-tops-1-trn-for-2nd-straight-year-exports-jump-35-126111000109_1.html",
+   "ts": "20261110T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Democrats have gained control in more states . That could change the way the US elects its president – Winnipeg Free Press",
+   "url": "https://www.winnipegfreepress.com/world/2026/11/10/democrats-have-gained-control-in-more-states-that-could-change-the-way-the-us-elects-its-president",
+   "ts": "20261110T053000Z"
   }
  ]
 }

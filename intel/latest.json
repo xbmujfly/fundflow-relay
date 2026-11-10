@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-10T03:45:19Z",
+ "ts": "2026-11-10T04:00:25Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -343,7 +342,7 @@
    "src": "gnews",
    "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
-   "ts": "Tue, 10 Nov 2026 03:04:09 GMT"
+   "ts": "Tue, 10 Nov 2026 02:42:00 GMT"
   },
   {
    "src": "gnews",
@@ -374,6 +373,12 @@
    "title": "China's trade surplus soars past $1 trillion, October exports jump 35.2% y/y - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMUVlUlV3YlliY3pWSzlJT19pbTExU1J0azA5SnU5eFRVZVQ3emZmX0VjamUySTNIYVdLUWRuc01LLUxxQVNvSTZrV3I4YzQ2ZXozQjJBRWc0eERhU2NSSzBHTnpncV9KRnB1QUJiUGxIMmdzUy1zenozMGY2dzNWQjFwbC1pSXRsb0Roa2c3LXhfS2xldzhlX3otOUg?oc=5",
    "ts": "Tue, 10 Nov 2026 02:55:20 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
+   "ts": "Tue, 10 Nov 2026 03:08:00 GMT"
   },
   {
    "src": "gnews",
@@ -413,15 +418,15 @@
   },
   {
    "src": "gnews",
-   "title": "US-China Flights: A Stalled Recovery - The US-China Business Council",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6N1ZrUlNUV1oyVllsN2pYVkVlanY0cV9iWThPTE9NRldpOUZ5eVkyTkdFcVJFLW5xOVpJQ1E2NWRJRGF6d2J5UXE2bmZGeno5WVBXNEhQS1UtQUFMMWpQMjNZQU1zSmo0QlJkc0hETUltNnM4WDVucA?oc=5",
-   "ts": "Mon, 09 Nov 2026 17:34:25 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s Trade Surplus Tops $1 Trillion as October Exports Surge - The China-Global South Project",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMFNyY08wX2V5MHlpbFJqMDJQc25HMkJqeFRRRmZlMmdmdmNpUXRNNjhBYlBpNWNVYWZrTmJvODN6dnhpUHF2c2EzeDJxWW9ubEtvck1hTlROcF9Bd1F2bVI2RUlXUTVQMk1SY0djdVVDMm9mSDlkemJzUnFuYWlBQWZ4NVJaTEhZ?oc=5",
    "ts": "Tue, 10 Nov 2026 03:18:24 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US-China Flights: A Stalled Recovery - The US-China Business Council",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6N1ZrUlNUV1oyVllsN2pYVkVlanY0cV9iWThPTE9NRldpOUZ5eVkyTkdFcVJFLW5xOVpJQ1E2NWRJRGF6d2J5UXE2bmZGeno5WVBXNEhQS1UtQUFMMWpQMjNZQU1zSmo0QlJkc0hETUltNnM4WDVucA?oc=5",
+   "ts": "Mon, 09 Nov 2026 17:34:25 GMT"
   },
   {
    "src": "gnews",
@@ -454,10 +459,124 @@
    "ts": "Mon, 09 Nov 2026 17:23:42 GMT"
   },
   {
-   "src": "gnews",
-   "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYy1vdWUwVXRwOE5ZT180NmxHZ0JocXpNaEpYQWNmYmh4dXBrN1Q0SFBpYkMtXzRJSFQ4WkNKbUI5Z1VCS25kRVZpSDJaSTlEY1FsVlNkZTUxSG1jclhnNDlaZnNWMTdLWG9QQmdLZjhWOElZNDVGeVlYdFA0TVVvUW51ZFk?oc=5",
-   "ts": "Fri, 06 Nov 2026 17:20:21 GMT"
+   "src": "gdelt",
+   "title": "Глава Пентагона сделал заявление о помощи Европе",
+   "url": "https://ria.ru/20261110/ssha-2130453167.html",
+   "ts": "20261110T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump says he believes war with Iran is militarily  effectively over  ",
+   "url": "https://www.bostonherald.com/2026/11/09/trump-iran-us-war/",
+   "ts": "20261110T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "围剿马斯克黄仁勋 ， 美国  蓝色浪潮  启动了  追杀令  | 京酿馆 _ 新浪科技 _ 新浪网",
+   "url": "https://finance.sina.com.cn/tech/roll/2026-11-10/doc-iniyfkmh9377139.shtml",
+   "ts": "20261110T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "特朗普称结束伊朗战争出现积极势头 和平前景显现 _ 军事频道 _ 中华网",
+   "url": "https://military.china.com/news/13004177/20261110/49856506.html",
+   "ts": "20261110T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Praises Nvidia Jensen Huang Amid Spy Probe",
+   "url": "https://wtam.iheart.com/content/2026-11-09-trump-praises-nvidias-jensen-huang-amid-spy-probe/",
+   "ts": "20261110T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Senate advances sweeping energy legislation in first major action since midterm elections",
+   "url": "https://www.yakimaherald.com/news/nation_and_world/nation/senate-advances-sweeping-energy-legislation-in-first-major-action-since-midterm-elections/article_5cefe0db-ccef-562a-a4ca-f8f5727b4f4b.html",
+   "ts": "20261110T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US says Russia - Ukraine talks in Abu Dhabi aim to start",
+   "url": "http://www.heraldglobe.com/news/279422728/us-says-russia-ukraine-talks-in-abu-dhabi-aim-to-start-final-end-to-war",
+   "ts": "20261110T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "This Veterans Day , Let Focus on Preventing War",
+   "url": "https://progressive.org/op-eds/this-veterans-day-lets-focus-on-preventing-war-witt-20261109/",
+   "ts": "20261110T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Stands By Hegseth Amid Impeachment Push | News Radio 103 . 1 and 810 WGY",
+   "url": "https://wgy.iheart.com/content/2026-11-09-trump-stands-by-hegseth-amid-impeachment-push/",
+   "ts": "20261110T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "LIVE ! Trump casts doubts on voting machines after midterm loss",
+   "url": "https://m.rediff.com/news/commentary/2026/nov/10/liveupdates.htm",
+   "ts": "20261110T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump says FBI is looking at Nvidia CEO Jensen Huang affair with alleged Chinese agent",
+   "url": "https://www.kitv.com/news/business/trump-says-fbi-is-looking-at-nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-agent/article_cda7f055-232d-50e1-a5fc-11374fa621ed.html",
+   "ts": "20261110T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "英 부커상에 M . 존 해리슨의  모든 것의 끝  수상",
+   "url": "https://biz.chosun.com/international/international_general/2026/11/10/326XTNH5ABHE3I5WG5MGM34DXY/",
+   "ts": "20261110T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Praises Nvidia Jensen Huang Amid Spy Probe | News Radio 103 . 1 and 810 WGY",
+   "url": "https://wgy.iheart.com/content/2026-11-09-trump-praises-nvidias-jensen-huang-amid-spy-probe/",
+   "ts": "20261110T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "엔비디아 - 美상무부 접촉 후  불륜 상대 기업  조사 중단 … 민주당  안보 방기  총공세 - 국제ㅣ한국일보",
+   "url": "https://www.hankookilbo.com/news/article/A2026111010300004924",
+   "ts": "20261110T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "特朗普就中期选举结果最新发声 经济压力成关键因素 _ 军事频道 _ 中华网",
+   "url": "https://military.china.com/news/13004177/20261110/49856527.html",
+   "ts": "20261110T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Honda announces new $3B plant in Ohio , expected to increase U . S . production to about 1 . 3M vehicles annually",
+   "url": "https://www.oann.com/newsroom/honda-announces-new-3b-plant-in-ohio-expected-to-increase-u-s-production-to-about-1-3m-vehicles-annually/",
+   "ts": "20261110T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  우리 군인 , 전쟁의 바다로 보낼 수 없다  청와대 앞  인간띠  ",
+   "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003283457&PAGE_CD=N0002&CMPT_CD=M0112",
+   "ts": "20261110T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Thune and Schumer face questions about Senate leadership in aftermath of elections",
+   "url": "https://www.journal-advocate.com/2026/11/09/senate-leadership-thune-schumer/",
+   "ts": "20261110T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  젠슨 황 불륜녀  앨리스 황의 외모를 두고 여러 뒷얘기가 나오는 이유",
+   "url": "https://www.wikitree.co.kr/articles/1173280",
+   "ts": "20261110T033000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump met with Qatar prime minister at the White House on Monday as his administration e",
+   "url": "https://wach.com/news/nation-world/trump-meets-qatars-prime-minister-as-white-house-weighs-next-steps-for-iran-conflict-marco-rubio",
+   "ts": "20261110T033000Z"
   }
  ]
 }

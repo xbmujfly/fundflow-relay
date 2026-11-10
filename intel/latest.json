@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-10T04:30:24Z",
+ "ts": "2026-11-10T04:45:19Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -359,6 +359,12 @@
   },
   {
    "src": "gnews",
+   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
+   "ts": "Tue, 10 Nov 2026 03:17:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China’s trade surplus exceeds $1tn for first 10 months of year - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmpqbG1WMjVjVGtaTmdwR2hnbkJ0OWxiS2NZNXVWSklHZDNoZTR6eXZXTWhTZHdIeUg1elJYLUNaNGhMNHB4dGVUMnBJMlNTVVpmSVBoX3o2Z1JTTFZKa3VTVVlnQkNtZk54VVEwdWVQMjhkakJGbXpiYU94YVdPSmdzYl8?oc=5",
    "ts": "Tue, 10 Nov 2026 03:12:51 GMT"
@@ -371,21 +377,15 @@
   },
   {
    "src": "gnews",
-   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
-   "ts": "Tue, 10 Nov 2026 03:08:00 GMT"
+   "title": "China's trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - WRAL",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa1QxeG9GaWhUc2FwNEVNR25GX1FydTlwWWQ4bWhMNExIamtFZnhCbFZZWmlqSHBocmxneklHMXQtQldWVVhoX05HX3RmUDdNQjl0Sk1GOU95WlBMZDZxbEd1bzE2YUV0VENvS2tTUG5CelhNbl9IbTZPVlNGZkxLN1R4WUZ4bWpqakMyZjl6RmxGRlVxOEtaWEFWS2V3Yzdod19adG9EQ2RWNGM0SzZRTDBFVXYwOGV5blBNZFJ3?oc=5",
+   "ts": "Tue, 10 Nov 2026 03:20:54 GMT"
   },
   {
    "src": "gnews",
    "title": "China's undervalued currency is driving its trade surplus higher - Peterson Institute for International Economics",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnkzZE15TVlhc1FHU1hzOFJXNklMWERBbUpCSVNLVUw1OFdSS25xOEdZSEY5bXNjclhEWnFCcXF4WUJmUDRyTWpnMWdoMmRyWXVTYkYtUFhmellzaDJUeUladm4zcDYwWEw2eWpLVjQzZVl3c3o5VFZHM2NnM2R6YVJMS1Qtd1d6LVRkMmZtbFZtOHl3cExTTHBwNlhsZVRETVEyWk9ZLUdBQmp3dGNycQ?oc=5",
    "ts": "Mon, 09 Nov 2026 14:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - myMotherLode.com",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY0pRUmxZdGFMeVpCQUhNbU1yTjlOMmtvT1d5Slduemh1MXpjcG9PenBXMkVFdWR3a1IwcGc1WllSaUQ3SUJ0dk9JVXZPZjMxNWczUV81dzM3SXNOSXV1ZENfLXpzLUJ0VjVaTWNCbi1pbkFVdWd6YnFBb2d1ZXREN1JQNGozYUw4Nk1XalFBaXM3ZDh0QVVWZ1RsMDlkQTB2RTJFME5ybUFHX3RZRWJSbG1ZQ1M2dmFncWxGTHdOLWQ1T2daeDEtd3dIQnVjNldx0gHWAUFVX3lxTFBKNkxCWmR0b1g2ZTUxTnRfZmgzWnJnZDNNbVJOaEpxWmlzWVZuSmNXNFJkZjNpZWFwVUUtaWdaOEFJa01vSDhnMnQxTkFXWG1wSktzMHdvQWlBYVR3WlRIVDhlQ0o2OVFaUG9oNDFWOUtTM0loWE16b1M2eUZ6ZEFhQ2pWY1NJVDZwM0hvS05TVmhLZ1REWTZ0Wjhzb1lDYVo3M0JnTU1oVlB6a1R4WkVULTRSUEtka3BkLWR4RHBCRFFvUk9DU3RZcEJST3prSUU5YUgtTVE?oc=5",
-   "ts": "Tue, 10 Nov 2026 04:09:12 GMT"
   },
   {
    "src": "gnews",
@@ -413,9 +413,9 @@
   },
   {
    "src": "gnews",
-   "title": "US, China officially extend trade war truce by 2 months - Supply Chain Dive",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdHp0dkJNcWRDam16TzVsWnp3MTM2Tjg3Y1JNbnVTY01LbldhbG5TSGJZMzgxWVpVdlNQWk1DV2U0M2lnb0RyMExvV0MxTzNUU2hJNkZkeU1uaXRkbnlQTkpxN2tFNWFldkpHODl1T25qaGNyQUxlR1dkOUctYy1neVNHbU5tUktob0NURUNCckkyTVB3ZGtNdXlURFh6d0F5?oc=5",
-   "ts": "Mon, 09 Nov 2026 17:04:22 GMT"
+   "title": "China's trade surplus surpasses $1 trillion as AI boom powers exports - Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHpmQ004SnRvTzRmXzFseXp4THJEWWJFeXNlVUY3eEUxVDdfbVpTUTMxNTdZVm14VmJyQkZOaUh0QTRCb0Zjc3VwRzJkY0pseG5idk5BQ0hBME5STDBwTlJCZmpHb0xhVEUwd29FRHRyWm1yQXY3bFNWNDh3c2xiSFJzUFdRWlRQdWJzWVBGS3hSYm8tUl9GS1JNZ3pWdWJpdXoweTFn?oc=5",
+   "ts": "Tue, 10 Nov 2026 04:29:31 GMT"
   },
   {
    "src": "gnews",
@@ -431,15 +431,15 @@
   },
   {
    "src": "gnews",
-   "title": "COMMENTARY: Fund sellers, China buyers squeeze copper's tariff trade - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWlpXV0JiLWp6alEyWjJXejVxdE95VFBrMzVVcDJiOGtWc2NFcUtNN0R1cXl2cmlQdmhlMjI1ZDA3U2pzcko1UjYtc013SDNfNlZ2TUJlbUlIQnhDMXNxZmtDVHE5VUdwQWxER19oSjNLN052bnVrYlQ0QVNzallzOVU1bXdxNFlHSy1idC0zTGlNTnBscUNDdTNjdDBpb3BtUjJqMnpIRE1MQzVIVVRPeUMxUnE0LU1mb2h4T3hJVno?oc=5",
-   "ts": "Mon, 09 Nov 2026 23:05:11 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Bessent, Greer Raise Concerns on China Trade Deal Compliance - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUThIM0tOMDlPV2h4TURPZHZyVlJjUGRLWlZOV21nb3gwS3RON3RQdk1PZUFNOTVpZ2k0VG4tQ0xyWWd1R0JrZzV2MVhwS3B6dzY0eGtkbWxXajRreGpIRlZWUXVkc2haWVVsaXNZaUwzYWdmaU8tS21KS1ZaRlVZT3dNanpJamNZRURtOVRibHFpMERibTF0OGNwQnFkWENSVXJScXpJclFuamc?oc=5",
    "ts": "Sat, 07 Nov 2026 01:33:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "COMMENTARY: Fund sellers, China buyers squeeze copper's tariff trade - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWlpXV0JiLWp6alEyWjJXejVxdE95VFBrMzVVcDJiOGtWc2NFcUtNN0R1cXl2cmlQdmhlMjI1ZDA3U2pzcko1UjYtc013SDNfNlZ2TUJlbUlIQnhDMXNxZmtDVHE5VUdwQWxER19oSjNLN052bnVrYlQ0QVNzallzOVU1bXdxNFlHSy1idC0zTGlNTnBscUNDdTNjdDBpb3BtUjJqMnpIRE1MQzVIVVRPeUMxUnE0LU1mb2h4T3hJVno?oc=5",
+   "ts": "Mon, 09 Nov 2026 23:05:11 GMT"
   },
   {
    "src": "gnews",

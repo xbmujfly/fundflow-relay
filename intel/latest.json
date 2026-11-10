@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-10T14:15:18Z",
+ "ts": "2026-11-10T14:30:21Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
   }
  },
  "items": [
@@ -401,27 +401,27 @@
   },
   {
    "src": "gnews",
-   "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
-   "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China says its trade surplus exceeded $1 trillion for a 2nd straight year, as exports in October surged 35% - ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYndlVGRFeUZ0c3hXakVXMnFEUzlGdF9rTVRlYnVubERWUWxYbGRZaVdFUFdWd3NpcXc2WjJVY3o1akZSYTFja1hIYUFEdmlwZWJfeHFwNWJFMzRub0lsVHhvZUJRNXlvYjBrMDFqWGxuU19SaHBkUjctV0JSbmxxYjVoVXJZUENJNWh0X0hDdDdzSVU0TjdDaUNtY9IBoAFBVV95cUxOTDJvOGY2dkt0dkZ5ejRCYXdLMnQzNzExcjJEU2E1S21uMHd1dEFOejRna3gyRXgtQ1FZcG9KWmtROWpoR05RZ3lUdUM1bExyeTE4Y1lDTlZXQzIyNDZOTXFVLXB2bWlKLXVBT3hILUtFYWYzR21oREtJNUswd254V1lBNEk3RlpfZ2tRRlRpcGRoaHpYTlI5bTFoOUU5d1dZ?oc=5",
    "ts": "Tue, 10 Nov 2026 06:35:29 GMT"
   },
   {
    "src": "gnews",
-   "title": "The hybrid car deal won't stop the EU-China slide - The Parliament Magazine",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYjBYbWwxTXg0andnRzl4dFdFb2R3UW5hZzl2QldBR1Q5a05zQkFFSlVDS0ZWU0JRdHJkT3ZwMElWSnZUcUhNVWxYYUNIOW1PMUpoYzJKZkw1ZlRFbHh4SDFlNHhaNEw1dlJ1d3ZXYXZSUjNmQ3dqbXd6QWdDWlZ4NHV2Q1dYY05xVHRVMEtoX0tJOUlrQlA5UWhScHRFdE9qeHRLZW05T2Y4c19PY2ZaZg?oc=5",
-   "ts": "Tue, 10 Nov 2026 08:19:46 GMT"
+   "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
+   "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "China seeks high-tech upper hand in industry carrying 80% of global trade - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWNwN3AyR0VFQTBqeUREa3A0M25yWkktTGFNX082dE5xSzl1NXk5ajRhajRXb0tOdUVYT1FXQm11WHduOGR1Z09YQlByZklSNE96UTlySkhYM0F4TmZNWHluNFpuTDM2dHNfZG9za1U5bHM0Qjh6Z2hwTWd6TmV2OFE2dll3RlZ0YlM2azc1UmdxN0RnVzAzQkpjaFN0UFhWNFNVZzEwRDlWLWFjbkM5UXNLNmI?oc=5",
-   "ts": "Tue, 10 Nov 2026 06:03:44 GMT"
+   "title": "China's trade surplus topped $1 trillion for a second year, two months early - Quartz",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Pd2haMkJqS3d4aEJwNTFNTEdwQ2tXSDNxSGZfUlN5MThKeFZ3aEpLV0RBekdiMHRKUkhsVUJSN0pSeEljSUxiWVptOHF3ZWlsRkZjMFQ5UzZJU09yS0hIZE9lMWhLMHNsWUU0R1J1MW1DUQ?oc=5",
+   "ts": "Tue, 10 Nov 2026 14:15:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China extends US trade truce by two months - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5",
+   "ts": "Mon, 09 Nov 2026 02:48:00 GMT"
   },
   {
    "src": "gnews",
@@ -437,9 +437,9 @@
   },
   {
    "src": "gnews",
-   "title": "China extends US trade truce by two months - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5",
-   "ts": "Mon, 09 Nov 2026 02:48:00 GMT"
+   "title": "China seeks high-tech upper hand in industry carrying 80% of global trade - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWNwN3AyR0VFQTBqeUREa3A0M25yWkktTGFNX082dE5xSzl1NXk5ajRhajRXb0tOdUVYT1FXQm11WHduOGR1Z09YQlByZklSNE96UTlySkhYM0F4TmZNWHluNFpuTDM2dHNfZG9za1U5bHM0Qjh6Z2hwTWd6TmV2OFE2dll3RlZ0YlM2azc1UmdxN0RnVzAzQkpjaFN0UFhWNFNVZzEwRDlWLWFjbkM5UXNLNmI?oc=5",
+   "ts": "Tue, 10 Nov 2026 01:50:00 GMT"
   },
   {
    "src": "gnews",
@@ -449,15 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - The Seattle Times",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb1JaemFnZElPSHJwMTlvWGxyZmpGMlBiaElHTVZaMjh3WWNybHlLRmZ5LTh6dzRvNEVPSm9EeXRLZzZhOE5UUFo3LUNfUkoxc0U5aTVfLWV2YnZabW4zRkdnZ1U0Wm1TZmhuZVBzLVk2UWF4UFFzRUFpVW5QbE5icU5SS2JRTkhacEN4dUtwaGtpbDRQNG9OQ3dPRjhwbUFsYUpvS3V3RGxDQUVVN0tfbUkweFFHSXdPUjVRU0N2a3JDdw?oc=5",
-   "ts": "Tue, 10 Nov 2026 11:51:24 GMT"
+   "title": "The hybrid car deal won't stop the EU-China slide - The Parliament Magazine",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYjBYbWwxTXg0andnRzl4dFdFb2R3UW5hZzl2QldBR1Q5a05zQkFFSlVDS0ZWU0JRdHJkT3ZwMElWSnZUcUhNVWxYYUNIOW1PMUpoYzJKZkw1ZlRFbHh4SDFlNHhaNEw1dlJ1d3ZXYXZSUjNmQ3dqbXd6QWdDWlZ4NHV2Q1dYY05xVHRVMEtoX0tJOUlrQlA5UWhScHRFdE9qeHRLZW05T2Y4c19PY2ZaZg?oc=5",
+   "ts": "Tue, 10 Nov 2026 08:19:46 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump Trade Adviser Says 'We Are Quadrupling Down On Tariffs' After The GOP Lost Congress. Here's What Yale Budget Lab Says Tariffs Cost The Average American Household - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOUUJkNl82QWdTaU0zSFpYb3o1Ym9HdDB6YzVtaEpoNFRGeDlKVVFMbFZuRVh2T2d4a2tGbUZUSEJoU0VBSEVnamVCWlpUdWhPaDYxMXZtOXFlbUR6Y01sdWxiZGczUlVwaHJlbERkLTNZUHlnTTNDSFZPNnptY28zQ1RDQzlKalBHY181S3hhX0dMdXo0T2pfb2VVNXE4VHQ4RjNOWDVRVG50UkI3VjROWnVvOWgzYVdLV1V2UXBoZHhIRF9ZSFBxb1BjODFRYmYzb3BxRmpuVWxRWGU3MlpFQmRWWlFnSVBmSnk5Zm13bG1WYXQzdVo1M1d3akR6dDdram9wTlV4X3hnT2ZMNE11STNYNzdsSTVkX2J5LUJ5LU1GaEVoQjJiOHpELTNtWldm?oc=5",
-   "ts": "Tue, 10 Nov 2026 10:36:00 GMT"
+   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - The Seattle Times",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb1JaemFnZElPSHJwMTlvWGxyZmpGMlBiaElHTVZaMjh3WWNybHlLRmZ5LTh6dzRvNEVPSm9EeXRLZzZhOE5UUFo3LUNfUkoxc0U5aTVfLWV2YnZabW4zRkdnZ1U0Wm1TZmhuZVBzLVk2UWF4UFFzRUFpVW5QbE5icU5SS2JRTkhacEN4dUtwaGtpbDRQNG9OQ3dPRjhwbUFsYUpvS3V3RGxDQUVVN0tfbUkweFFHSXdPUjVRU0N2a3JDdw?oc=5",
+   "ts": "Tue, 10 Nov 2026 11:51:24 GMT"
   }
  ]
 }

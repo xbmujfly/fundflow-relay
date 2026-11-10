@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-10T15:45:20Z",
+ "ts": "2026-11-10T23:00:18Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,11 +33,30 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
+  {
+   "src": "whitehouse",
+   "title": "Nominations and Withdrawals Sent to the Senate",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-b6a4/",
+   "ts": "Tue, 10 Nov 2026 21:56:49 +0000"
+  },
+  {
+   "src": "whitehouse",
+   "title": "VETERANS DAY, 2026",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/veterans-day-2026/",
+   "ts": "Tue, 10 Nov 2026 21:12:15 +0000"
+  },
+  {
+   "src": "whitehouse",
+   "title": "Presidential Determination Concerning Wildfire Suppression Activities in the United States",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states/",
+   "ts": "Tue, 10 Nov 2026 21:11:07 +0000"
+  },
   {
    "src": "whitehouse",
    "title": "Nominations and Withdrawals Sent to the Senate",
@@ -139,24 +158,6 @@
    "title": "National Manufacturing Day, 2026",
    "url": "https://www.whitehouse.gov/presidential-actions/2026/10/national-manufacturing-day-2026/",
    "ts": "Fri, 02 Oct 2026 19:29:58 +0000"
-  },
-  {
-   "src": "whitehouse",
-   "title": "Eliminating Disease-Carrying Pests And Restoring Enjoyment Of The Great Outdoors",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/eliminating-disease-carrying-pests-and-restoring-enjoyment-of-the-great-outdoors/",
-   "ts": "Tue, 29 Sep 2026 21:23:48 +0000"
-  },
-  {
-   "src": "whitehouse",
-   "title": "Inaugurating The Era Of Super Intelligence",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
-   "ts": "Tue, 29 Sep 2026 21:17:25 +0000"
-  },
-  {
-   "src": "whitehouse",
-   "title": "Streamlining Access to Government Services Through America.gov",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/streamlining-access-to-government-services-through-america-gov/",
-   "ts": "Tue, 29 Sep 2026 14:50:54 +0000"
   },
   {
    "src": "ustr",
@@ -346,12 +347,6 @@
   },
   {
    "src": "gnews",
-   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
-   "ts": "Tue, 10 Nov 2026 14:37:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
    "ts": "Tue, 10 Nov 2026 02:42:00 GMT"
@@ -364,9 +359,27 @@
   },
   {
    "src": "gnews",
+   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
+   "ts": "Tue, 10 Nov 2026 03:20:51 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s Trade Surplus Surged Past $1 Trillion in October - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNEdJRlEzYnZIbVRkWi1rc252aE9SbXdwZDVnWGwtVnhfNzBKMWJRUHZDdWJlZno4MC1WVFhKc3JMQ05IUjFQQjlMcmd2QVBYNFhFaDZmMXo2WlgzU2hhQm1FYm9zZXRoLWdRazFLdUVkOXU5eU83X0VNNjNQVzhZZmpDS25FTDVSQlk1TjZtUlpZcnJZN0VaR0Nfbw?oc=5",
+   "ts": "Tue, 10 Nov 2026 04:05:01 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China’s trade surplus exceeds $1tn for first 10 months of year - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmpqbG1WMjVjVGtaTmdwR2hnbkJ0OWxiS2NZNXVWSklHZDNoZTR6eXZXTWhTZHdIeUg1elJYLUNaNGhMNHB4dGVUMnBJMlNTVVpmSVBoX3o2Z1JTTFZKa3VTVVlnQkNtZk54VVEwdWVQMjhkakJGbXpiYU94YVdPSmdzYl8?oc=5",
    "ts": "Tue, 10 Nov 2026 03:09:14 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "U.S. Extends Trade Truce with China for Two Months - Sandler, Travis & Rosenberg, P.A.",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVm03ZTN1YlM0SVRjaU9wbnZycVYteG9JNjhKX08yeDZ4azdXaHNtQ3FYYjdtdTY2S29zSWV6dDBaT21IWEVaVXM1UGFZRXFHNF9pdkZ3SmZaWlJvZEdHUWFnYXJqVzdWUVhpeW1zU2h0REN0SGJxS3R4UVpPcEFZVVNGWk1tZVN3UVBSc3FQRGJ5TjE5RlRFNnNkcVNsSHBlWGNmLUhQbVBBUkxKanc3MnIxQWNTY0Jzc29KeTRR?oc=5",
+   "ts": "Tue, 10 Nov 2026 20:13:48 GMT"
   },
   {
    "src": "gnews",
@@ -376,9 +389,15 @@
   },
   {
    "src": "gnews",
-   "title": "China’s Trade Surplus Surged Past $1 Trillion in October - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNEdJRlEzYnZIbVRkWi1rc252aE9SbXdwZDVnWGwtVnhfNzBKMWJRUHZDdWJlZno4MC1WVFhKc3JMQ05IUjFQQjlMcmd2QVBYNFhFaDZmMXo2WlgzU2hhQm1FYm9zZXRoLWdRazFLdUVkOXU5eU83X0VNNjNQVzhZZmpDS25FTDVSQlk1TjZtUlpZcnJZN0VaR0Nfbw?oc=5",
-   "ts": "Tue, 10 Nov 2026 04:04:00 GMT"
+   "title": "China’s trade surplus soars past $1T - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEhtRkVwYWNDRlNwRkg1eTIxTFpod0NYQ1lLdjFldWN2eHpscUFyQjYyNHdvMEJJTHRmWkVaOXBhN0JXU3lta25ValdOaEdubllvb1ljTmtjcEh4T3JKYV85MDhoM1cyN1FfODR2ckpycFpBWDhuOTlSdEJaY0s4SnhlMkR5ZGl4eG5RVkdCVGJCU3E0endCcXJucw?oc=5",
+   "ts": "Tue, 10 Nov 2026 12:24:30 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Canada Signs New Deals With China After Trump Drops Trade Demand - Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS3pQMVV1M2ZfcjF4OExma2lteTJDMkF3ZzdNZXdPY21KMHVpYklwb2RJcFhoTVJBZ0ppd1NTVm5oMHhZd1dMOXZ1bUZRZ2hCRVN4ejRoUmdLYjJkVVJaaVc0TWRmYUg3ekl3WE1lSEY3UmJldXppLVg0YkI3YTVXakVVNDM0WHlPcFp3?oc=5",
+   "ts": "Tue, 10 Nov 2026 13:03:00 GMT"
   },
   {
    "src": "gnews",
@@ -394,39 +413,21 @@
   },
   {
    "src": "gnews",
-   "title": "China’s trade surplus soars past $1T - Semafor",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbHpHTlRyZW9rTFJ0XzFaNVRfRVFtTlZfME1sQzJJOWZ0OU8wbEJ6SE9ONTRiTk5vSDNRbXpYTm9HcjBxQk1yZ0VhNHNQYkNVcTBQb1pxQm9HN3puQmpjSkVDT29ZZXUySTFvWFJQR1JMeTdXQ204SS16UFRkQjV6ckZJdld3ZDhYcTdRQ2N2dW5yd08yMXM3NG5rNFVubWIyS25HczF5V1Bic21rZkRYSVNqejc?oc=5",
-   "ts": "Tue, 10 Nov 2026 12:24:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China's trade surplus surpasses $1 trillion as AI boom powers exports - Euronews.com",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHpmQ004SnRvTzRmXzFseXp4THJEWWJFeXNlVUY3eEUxVDdfbVpTUTMxNTdZVm14VmJyQkZOaUh0QTRCb0Zjc3VwRzJkY0pseG5idk5BQ0hBME5STDBwTlJCZmpHb0xhVEUwd29FRHRyWm1yQXY3bFNWNDh3c2xiSFJzUFdRWlRQdWJzWVBGS3hSYm8tUl9GS1JNZ3pWdWJpdXoweTFn?oc=5",
    "ts": "Tue, 10 Nov 2026 04:29:31 GMT"
   },
   {
    "src": "gnews",
-   "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
-   "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China says its trade surplus exceeded $1 trillion for a 2nd straight year, as exports in October surged 35% - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYndlVGRFeUZ0c3hXakVXMnFEUzlGdF9rTVRlYnVubERWUWxYbGRZaVdFUFdWd3NpcXc2WjJVY3o1akZSYTFja1hIYUFEdmlwZWJfeHFwNWJFMzRub0lsVHhvZUJRNXlvYjBrMDFqWGxuU19SaHBkUjctV0JSbmxxYjVoVXJZUENJNWh0X0hDdDdzSVU0TjdDaUNtY9IBoAFBVV95cUxOTDJvOGY2dkt0dkZ5ejRCYXdLMnQzNzExcjJEU2E1S21uMHd1dEFOejRna3gyRXgtQ1FZcG9KWmtROWpoR05RZ3lUdUM1bExyeTE4Y1lDTlZXQzIyNDZOTXFVLXB2bWlKLXVBT3hILUtFYWYzR21oREtJNUswd254V1lBNEk3RlpfZ2tRRlRpcGRoaHpYTlI5bTFoOUU5d1dZ?oc=5",
-   "ts": "Tue, 10 Nov 2026 06:35:29 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China's trade surplus soars past $1 trillion, October exports jump 35.2% y/y - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMUVlUlV3YlliY3pWSzlJT19pbTExU1J0azA5SnU5eFRVZVQ3emZmX0VjamUySTNIYVdLUWRuc01LLUxxQVNvSTZrV3I4YzQ2ZXozQjJBRWc0eERhU2NSSzBHTnpncV9KRnB1QUJiUGxIMmdzUy1zenozMGY2dzNWQjFwbC1pSXRsb0Roa2c3LXhfS2xldzhlX3otOUg?oc=5",
-   "ts": "Tue, 10 Nov 2026 02:55:20 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China extends US trade truce by two months - Reuters",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5",
    "ts": "Mon, 09 Nov 2026 02:48:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaFdhSXUwZmVuNVZuLXZleE84ak1aVEFJMWVJWnU5OXc1dlpsSTMwckVzVTBGNWdtOGp5SGVLV1BJS21lYlpPV1pFVTNBTnBlbjdqbFpUUDNHZHNNTXBTY3daV2JVS2FPZHpYbmJFSFEtTWhPV1dJaFUwSExnVW9VMDRrM05BQQ?oc=5",
+   "ts": "Tue, 10 Nov 2026 20:28:02 GMT"
   },
   {
    "src": "gnews",
@@ -442,141 +443,21 @@
   },
   {
    "src": "gnews",
-   "title": "COMMENTARY: Fund sellers, China buyers squeeze copper's tariff trade - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWlpXV0JiLWp6alEyWjJXejVxdE95VFBrMzVVcDJiOGtWc2NFcUtNN0R1cXl2cmlQdmhlMjI1ZDA3U2pzcko1UjYtc013SDNfNlZ2TUJlbUlIQnhDMXNxZmtDVHE5VUdwQWxER19oSjNLN052bnVrYlQ0QVNzallzOVU1bXdxNFlHSy1idC0zTGlNTnBscUNDdTNjdDBpb3BtUjJqMnpIRE1MQzVIVVRPeUMxUnE0LU1mb2h4T3hJVno?oc=5",
-   "ts": "Mon, 09 Nov 2026 23:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "The hybrid car deal won't stop the EU-China slide - The Parliament Magazine",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYjBYbWwxTXg0andnRzl4dFdFb2R3UW5hZzl2QldBR1Q5a05zQkFFSlVDS0ZWU0JRdHJkT3ZwMElWSnZUcUhNVWxYYUNIOW1PMUpoYzJKZkw1ZlRFbHh4SDFlNHhaNEw1dlJ1d3ZXYXZSUjNmQ3dqbXd6QWdDWlZ4NHV2Q1dYY05xVHRVMEtoX0tJOUlrQlA5UWhScHRFdE9qeHRLZW05T2Y4c19PY2ZaZg?oc=5",
-   "ts": "Tue, 10 Nov 2026 08:19:46 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China's undervalued currency is driving its trade surplus higher - Peterson Institute for International Economics",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnkzZE15TVlhc1FHU1hzOFJXNklMWERBbUpCSVNLVUw1OFdSS25xOEdZSEY5bXNjclhEWnFCcXF4WUJmUDRyTWpnMWdoMmRyWXVTYkYtUFhmellzaDJUeUladm4zcDYwWEw2eWpLVjQzZVl3c3o5VFZHM2NnM2R6YVJMS1Qtd1d6LVRkMmZtbFZtOHl3cExTTHBwNlhsZVRETVEyWk9ZLUdBQmp3dGNycQ?oc=5",
    "ts": "Mon, 09 Nov 2026 14:00:00 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "Трамп поддержал главу Nvidia на фоне скандала с изменой и шпионажем",
-   "url": "https://news.mail.ru/politics/73036308/",
-   "ts": "20261110T060000Z"
+   "src": "gnews",
+   "title": "China says its trade surplus exceeded $1 trillion for a 2nd straight year, as exports in October surged 35% - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYndlVGRFeUZ0c3hXakVXMnFEUzlGdF9rTVRlYnVubERWUWxYbGRZaVdFUFdWd3NpcXc2WjJVY3o1akZSYTFja1hIYUFEdmlwZWJfeHFwNWJFMzRub0lsVHhvZUJRNXlvYjBrMDFqWGxuU19SaHBkUjctV0JSbmxxYjVoVXJZUENJNWh0X0hDdDdzSVU0TjdDaUNtY9IBoAFBVV95cUxOTDJvOGY2dkt0dkZ5ejRCYXdLMnQzNzExcjJEU2E1S21uMHd1dEFOejRna3gyRXgtQ1FZcG9KWmtROWpoR05RZ3lUdUM1bExyeTE4Y1lDTlZXQzIyNDZOTXFVLXB2bWlKLXVBT3hILUtFYWYzR21oREtJNUswd254V1lBNEk3RlpfZ2tRRlRpcGRoaHpYTlI5bTFoOUU5d1dZ?oc=5",
+   "ts": "Tue, 10 Nov 2026 06:35:29 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "Hegseth is set for his first Pentagon news briefing since May as he faces possible impeachment",
-   "url": "http://www.dailyadvance.com/news/national/hegseth-is-set-for-his-first-pentagon-news-briefing-since-may-as-he-faces-possible/article_7f69bbdc-4b40-5d86-a907-fff6d8bf4814.html",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "UFC Dana White appears with Trump at a White House briefing but wont be his press secretary",
-   "url": "https://mymotherlode.com/news/national/11295703/ufcs-dana-white-appears-with-trump-at-a-white-house-briefing-but-wont-be-his-press-secretary.html",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Στο μικροσκόπιο του FBI το ερωτικό σκάνδαλο κατασκοπείας στη Nvidia",
-   "url": "https://www.cretalive.gr/kosmos/sto-mikroskopio-toy-fbi-erotiko-skandalo-kataskopeias-sti-nvidia",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Democrats have gained control in more states . That could change the way the US elects its president",
-   "url": "https://www.therecord.com/news/world/united-states/democrats-have-gained-control-in-more-states-that-could-change-the-way-the-us-elects-its-president/article_a2dc4e4c-4131-5b95-b07f-d7452999c61d.html",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Thune and Schumer face questions about Senate leadership in aftermath of elections",
-   "url": "https://mymotherlode.com/news/national/general-election/11295668/thune-and-schumer-face-questions-about-senate-leadership-in-aftermath-of-elections.html",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Dana White Declines Trump Press Secretary Offer | Newstalk 1400 , 104 . 5 , and 105 . 9 WJMX",
-   "url": "https://newstalk1400online.iheart.com/content/2026-11-10-dana-white-declines-trumps-press-secretary-offer/",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Представители США обозначили ожидания от встречи в Абу - Даби по Украине",
-   "url": "https://www.mk.ru/politics/2026/11/10/predstaviteli-ssha-oboznachili-ozhidaniya-ot-vstrechi-v-abu-dabi-po-ukraine.html",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Dana White Declines Trump Press Secretary Offer",
-   "url": "https://1190kex.iheart.com/content/2026-11-10-dana-white-declines-trumps-press-secretary-offer/",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Journalists Don Lemon , Georgia Fort seek dismissal in St . Paul church protest case",
-   "url": "https://www.fox9.com/news/journalists-don-lemon-georgia-fort-seek-dismissal-st-paul-church-protest-case",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US stocks rally and recover most of last week losses as oil prices swing lower",
-   "url": "https://www.manilatimes.net/2026/11/10/business/foreign-business/us-stocks-rally-and-recover-most-of-last-weeks-losses-as-oil-prices-swing-lower/2465954",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Montana Healthcare Gets Big Boost Thanks to President Trump",
-   "url": "https://k96fm.com/ixp/1106/p/montana-rural-healthcare-funding-boost/",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  Biggest oil deal in world history : JD Vance claims US control of Venezuelan reserves , energy dominance",
-   "url": "http://www.venezuelastar.com/news/279423115/biggest-oil-deal-in-world-history-jd-vance-claims-us-control-of-venezuelan-reserves-energy-dominance",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  젠슨 황은 대체 불가 … 머스크 · 월가 거물들 ,  中 스파이 불륜  감싸나",
-   "url": "https://www.fnnews.com/news/202611101429483262",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ο Τραμπ πέφτει στην παγίδα των δασμών του",
-   "url": "https://www.capital.gr/carnegieeurope-eu/4028813/o-tramp-peftei-stin-pagida-ton-dasmon-tou/",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "特朗普说没他以色列将不复存在 盟友关系被标价 _ 军事频道 _ 中华网",
-   "url": "https://military.china.com/news/13004177/20261110/49856019.html",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Rep . Thomas Massie of Kentucky launches bid to impeach Defense Secretary Pete Hegseth",
-   "url": "https://www.santafenewmexican.com/ap/washington/rep-thomas-massie-of-kentucky-launches-bid-to-impeach-defense-secretary-pete-hegseth/article_ae8f93c6-865a-5433-9153-4aa69d6fe653.html",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Нова надежда за мир ? Русия и Украйна сядат на масата за преговори в Абу Даби с посредничеството на САЩ",
-   "url": "https://dariknews.bg/novini/sviat/nova-nadezhda-za-mir-rusiia-i-ukrajna-siadat-na-masata-za-pregovori-v-abu-dabi-s-posrednichestvoto-na-sasht-2471595",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "हार के बाद ट्रंप का बड़ा खुलासा , ईरान युद्ध ने बदल दिया चुनावी गणित",
-   "url": "https://www.deshbandhu.co.in/world/trumps-major-revelation-following-his-defeat-iran-war-altered-the-electoral-calculus-330633",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Democrats have gained control in more states . That could change the way the US elects its president",
-   "url": "http://www.dailyadvance.com/news/national/democrats-have-gained-control-in-more-states-that-could-change-the-way-the-us-elects/article_96b1caa5-28ad-5de9-9397-4273491e242c.html",
-   "ts": "20261110T060000Z"
+   "src": "gnews",
+   "title": "It’s not a shock, it’s an ocean: reframing the EU’s strategic response to China - Real Instituto Elcano",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZUdPeElhMmowdmhmZU55X0Z1d1lqbjE5dnk1SXVBaHdBbnJkRExIb3JBbzU4NWVwbGNhTWdBVTJSZHRFTy1TSXlBUVozZGtzVEJWREhIS29nT3J3VkRnUjN6VWllZFY1UzhJNF9aV2ZueHlSVjhUWFBXeFlEQ3VicmFmYnAwVHlSTmNOOGsxSm1DUTVXWDNUbW1KWXZyMGRLZGlsc0p5TjhvTV95eFJqTU5uWThsbjdQX0c4WkM3WW9LMFN6eEE?oc=5",
+   "ts": "Tue, 10 Nov 2026 15:44:38 GMT"
   }
  ]
 }

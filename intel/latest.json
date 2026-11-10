@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-10T10:45:19Z",
+ "ts": "2026-11-10T11:00:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -377,15 +377,15 @@
   },
   {
    "src": "gnews",
-   "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
-   "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "EU manufacturers could give up on competing with China by 2030, warns commerce chief - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHlRN0liRTl3WUQxVlItUVFGNXJzbkliWnd3aVBKTVNGaW5ILWdNNVljWmZnbWxVcHY3OWxRRE9MSWJMZEJnamFTaTRodjdqVFR4VHNFR19DVWphcVJFMFFuU2l0MDJvNjRKMF8xSk1TWDdGUU02cW5fNHJqeXp4dUtXLV9iZW9vY2lSMkhB?oc=5",
    "ts": "Tue, 10 Nov 2026 06:02:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
+   "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
   },
   {
    "src": "gnews",

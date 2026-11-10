@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-10T12:00:26Z",
+ "ts": "2026-11-10T12:15:26Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -371,12 +371,6 @@
   },
   {
    "src": "gnews",
-   "title": "Chinese Trade Surplus Tops $1 Trillion for Second Time Ever - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV09ia2ZxQ0QxUDlzdC1TRFhXRENHNG9kc0NTQjk2YXljZTlhcDNrSHl5WENNRkNFS3VLS3Q1cEo5Q29tOVNzQm5yMGJRQ2ExTF92OTdKeFJRRDNrWE5Fb3ZmZThrWkh1cEU3U3ItS1l2SFN3TEU0V2lTVlNJVlJISDVoVXhMRlpCTWsyeFVJMWxGd1Q3THRnXzRsUFR2QWUycllJRGFQZmt2aTVvWUhpYmVkTDM?oc=5",
-   "ts": "Tue, 10 Nov 2026 04:39:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
    "ts": "Tue, 10 Nov 2026 06:23:00 GMT"
@@ -386,6 +380,12 @@
    "title": "EU manufacturers could give up on competing with China by 2030, warns commerce chief - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHlRN0liRTl3WUQxVlItUVFGNXJzbkliWnd3aVBKTVNGaW5ILWdNNVljWmZnbWxVcHY3OWxRRE9MSWJMZEJnamFTaTRodjdqVFR4VHNFR19DVWphcVJFMFFuU2l0MDJvNjRKMF8xSk1TWDdGUU02cW5fNHJqeXp4dUtXLV9iZW9vY2lSMkhB?oc=5",
    "ts": "Tue, 10 Nov 2026 06:02:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Watch China Trade Surplus Tops $1 Trillion for Second Time - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQjdlYzlfM2QtQ1E2MzRmZ0h0cUlxLTlKVTVBTXZXNVg3RmdqaXlVeExiNVJLMnFLRlNZTjJaSDFzRGtkSW1oNC10d0JrR3JRc2N3Tmp5QVI2VWJIbmp2TTFHR0pZaE5Jc0JYdGNwM182MlFMUFVtVERJeFZYNU43X2ZMOHg4UHM?oc=5",
+   "ts": "Tue, 10 Nov 2026 06:47:52 GMT"
   },
   {
    "src": "gnews",
@@ -425,9 +425,9 @@
   },
   {
    "src": "gnews",
-   "title": "Watch China Trade Surplus Tops $1 Trillion for Second Time - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQjdlYzlfM2QtQ1E2MzRmZ0h0cUlxLTlKVTVBTXZXNVg3RmdqaXlVeExiNVJLMnFLRlNZTjJaSDFzRGtkSW1oNC10d0JrR3JRc2N3Tmp5QVI2VWJIbmp2TTFHR0pZaE5Jc0JYdGNwM182MlFMUFVtVERJeFZYNU43X2ZMOHg4UHM?oc=5",
-   "ts": "Tue, 10 Nov 2026 06:47:52 GMT"
+   "title": "AI Boom Helps Fuel China Exports, Pushing Trade Surplus Above $1 Trillion - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFZ3N2Um5fYmdDcnFhUVphOTNBeDhjR2J3Y2hsa1lSaXFvMzNRZndtbEtWbk5UUm9tNmdJdDQzV2txMFZfVzRsVjZ3bWszTi1pX2xIRXhPV2ZuOXRkVVRXVjY2dlVfRURQWlFxWm0zaEstMzJqRUdJRWtmMlpZQQ?oc=5",
+   "ts": "Tue, 10 Nov 2026 12:00:01 GMT"
   },
   {
    "src": "gnews",

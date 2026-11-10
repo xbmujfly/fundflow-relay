@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-10T06:30:31Z",
+ "ts": "2026-11-10T06:45:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -401,9 +401,9 @@
   },
   {
    "src": "gnews",
-   "title": "Midterm Voters Disapproved Of Trump’s Tariffs And Immigration Policies - Forbes",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHowVm5MaWdLbnZhbVJmb0o3Rk5MSzNDZXN0bU1BTWpkMGJaTWU5aFpGRGFteEtudmU5YXN1VzNoRGI4MnRzVmRpMUlDRkRzUTk1eHpEckIzWkl0RkVOczhmc1dfc191S1ZDYlZmX2lzenlibF90TEtsQVd1NHNQcW01WjRwYXR0aUNOdjF1bW55allXN2pNRTdQblhrQTR2bTNJNEFYbDdZLUR1NWdSWmdqQTNhWmo3UWZMWjBmVUo0ZjQ?oc=5",
-   "ts": "Mon, 09 Nov 2026 14:32:10 GMT"
+   "title": "China says its trade surplus exceeded $1 trillion for a 2nd straight year, as exports in October surged 35% - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYndlVGRFeUZ0c3hXakVXMnFEUzlGdF9rTVRlYnVubERWUWxYbGRZaVdFUFdWd3NpcXc2WjJVY3o1akZSYTFja1hIYUFEdmlwZWJfeHFwNWJFMzRub0lsVHhvZUJRNXlvYjBrMDFqWGxuU19SaHBkUjctV0JSbmxxYjVoVXJZUENJNWh0X0hDdDdzSVU0TjdDaUNtY9IBoAFBVV95cUxOTDJvOGY2dkt0dkZ5ejRCYXdLMnQzNzExcjJEU2E1S21uMHd1dEFOejRna3gyRXgtQ1FZcG9KWmtROWpoR05RZ3lUdUM1bExyeTE4Y1lDTlZXQzIyNDZOTXFVLXB2bWlKLXVBT3hILUtFYWYzR21oREtJNUswd254V1lBNEk3RlpfZ2tRRlRpcGRoaHpYTlI5bTFoOUU5d1dZ?oc=5",
+   "ts": "Tue, 10 Nov 2026 06:35:29 GMT"
   },
   {
    "src": "gnews",
@@ -425,6 +425,12 @@
   },
   {
    "src": "gnews",
+   "title": "Bessent, Greer Raise Concerns on China Trade Deal Compliance - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUThIM0tOMDlPV2h4TURPZHZyVlJjUGRLWlZOV21nb3gwS3RON3RQdk1PZUFNOTVpZ2k0VG4tQ0xyWWd1R0JrZzV2MVhwS3B6dzY0eGtkbWxXajRreGpIRlZWUXVkc2haWVVsaXNZaUwzYWdmaU8tS21KS1ZaRlVZT3dNanpJamNZRURtOVRibHFpMERibTF0OGNwQnFkWENSVXJScXpJclFuamc?oc=5",
+   "ts": "Sat, 07 Nov 2026 01:33:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China seeks high-tech upper hand in industry carrying 80% of global trade - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWNwN3AyR0VFQTBqeUREa3A0M25yWkktTGFNX082dE5xSzl1NXk5ajRhajRXb0tOdUVYT1FXQm11WHduOGR1Z09YQlByZklSNE96UTlySkhYM0F4TmZNWHluNFpuTDM2dHNfZG9za1U5bHM0Qjh6Z2hwTWd6TmV2OFE2dll3RlZ0YlM2azc1UmdxN0RnVzAzQkpjaFN0UFhWNFNVZzEwRDlWLWFjbkM5UXNLNmI?oc=5",
    "ts": "Tue, 10 Nov 2026 01:50:00 GMT"
@@ -443,21 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Bessent, Greer Raise Concerns on China Trade Deal Compliance - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUThIM0tOMDlPV2h4TURPZHZyVlJjUGRLWlZOV21nb3gwS3RON3RQdk1PZUFNOTVpZ2k0VG4tQ0xyWWd1R0JrZzV2MVhwS3B6dzY0eGtkbWxXajRreGpIRlZWUXVkc2haWVVsaXNZaUwzYWdmaU8tS21KS1ZaRlVZT3dNanpJamNZRURtOVRibHFpMERibTF0OGNwQnFkWENSVXJScXpJclFuamc?oc=5",
-   "ts": "Sat, 07 Nov 2026 01:33:00 GMT"
+   "title": "China's export growth expected to have remained strong in October: Reuters poll - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVRFNzRhZTJPcFpDcVlpQ05KaGtod1BoMC1rSW9YbHdYZkZxMUR0aFdTODIwUlBRVGxhUGo0Y1RNT3JibHg4SjVpUWg1d2kxN2Q4QlR5Q1l2Wnp0cUtzUW83eW95ZkxNSVBaT2ZDNFhMdFpJQVp5Y3dCclpvY0JuWnRHUGNaS1NmTmZpeF9DbWFRQ3ExVVhaWHpXdGlYNTJYaWxxdnRLWTZ2NmpYc1NaYXUxOA?oc=5",
+   "ts": "Mon, 09 Nov 2026 07:13:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "China trade balance shrinks more than expected in Oct; imports surge - Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQi1lcFNFdi1jbVhLc1V2b0V2M0hSNkRhTDAwelJhYlB6dHM2dkxuTkpYN0JXRkZScFh6YWNma2hlRGg0SVRqUllrVVROZ0Z2MlZHNHJJdjhRRG54eG55NnRCejFDUjFqNnJqUWhLNVdIUEs4cFBfZWswZEVMa0hZR0lFQ2RaZmhPR1N6dnhDenN3TlVnUGJJa1B1aTF3TGp1ZnQxNGtRUm00a3VqTEdBeE9DcEFLOFRqTDlrSkgwQUxuYTll?oc=5",
-   "ts": "Tue, 10 Nov 2026 03:07:29 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s imports outpace exports in October as trade surplus passes US$1 trillion - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMWZWdno2R1M1NGQxZ1FoMi1PVTBsblN5Qk9Ia0hadnVKU05NbFBBbmk1U0hDRFZ2Nmg3aFE0LUxyLWdKRTlKVmt4TnB0Z3JUVzJUcFAxS1huTnluakhBMWYxM1ctb0lXWjVfZjdVN0dGRUFlb2t4cW5ra2MwQklYSTZYV1RCUkJRMTRxUWdOcmhqVW5xalp1YkhlUUFlT3ZyTXNuUTNaa202UHJiREI3RkFLM3MwUllzNkgwOE5OeVFIQnY5YkhISjdVNG8tUXBL0gHQAUFVX3lxTE1uOFJFVTFUYTI1NmUwZEt0aUdVR3J5R0N3Z0x0MXUzZ1RqaHhJN1F0eVQtTElXSDUyT1NSZlloQ3Z4Skw4WWN4M1p3clZaWlBVeDBNMmJuWU5fTFlUai1Oc0hpaFBPSzVPUi1HanN2djJIY21ieGlnczROWWQ0VHFyczhHdzBlSmJ0ci1feGVNZXp2QVRteGN3cVd5ZHpscVZkVFhZYXNKaDBweHRkRGlBMEdRV3RBX25EZnBZVzY4RDQ2TkpvcFBfR2NhZkV0dG0?oc=5",
-   "ts": "Tue, 10 Nov 2026 02:43:24 GMT"
+   "title": "China's trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - The Killeen Daily Herald",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTzhyM09YZzVBamlHZlhqaFJmRkxqVGJwMmh0aDZKZVpZTkRDMTJPalFLX25iTVIyb0oxbDI1UThwZU1hVUpsaTlMczB1b242Q3lRNGhCbm1RQWtpckx3Tnprdm1TR2hUby0zd2RrZ09GdXRLM25IeHkxR04yaHA4a1U4WVlRNURKMlBjc3R2Z3h4RmFXclRzZERNTUx2UG9fTHdKbVBrUi1xRVZvRVF3ZjVGZkQ2VmZBdXVaNk01YXgyRzRiTVR0N3EzUzhHbi00bXlDNmxrTnBYVGNLazNWZnY5V0Y5MTZlUTdqZU1EektyVkVBTEFST01n?oc=5",
+   "ts": "Tue, 10 Nov 2026 06:23:53 GMT"
   }
  ]
 }

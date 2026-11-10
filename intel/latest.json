@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-10T00:00:25Z",
+ "ts": "2026-11-10T00:15:21Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -395,15 +395,15 @@
   },
   {
    "src": "gnews",
-   "title": "Could the blue wave change Trump's tune with Canada? | Opinion - Akron Beacon Journal",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSVBYQzZlTmhES1Z5ZXUtM1BvZ1d4TlVmUGkzQ1dqZEhZTU5yU0s4bXROR3FZRmlERGF5NjhaZEw0OE83OGYtaDhhaW5jSHpiOXZrTk1hOFA2am5MY0xwZUhjN2JVSG01WThRVGxQNXNZS3NCZk4tX2I2STV6d3hKaUdOdXhJZnJxWjFzTWx1Um1YR0htZWZkd1R3a0lEbGFDWm1KaExyNUZJX1Z0dUMycEU0Wi01M1c4R3hUai1mSXVNUFU?oc=5",
-   "ts": "Mon, 09 Nov 2026 11:03:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Despite US-China trade deal, tariffs remain on essential baby products - Kiowa County Press",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQXBMbUVibWV2MG9TdEE1TENRcTUxUGxoNGtldmVNN2d0em1uSzZGYmx4cmtGM1doeF81WUlkcDZla0lBM3NMSS1uTFhJQ1ZKaUl5dmRDeWtSS1lGbGlWa3AzM0pRdGo5ei04dzRhZGdwUmJZT1dJbzdnMXIxdkZKNUFHYTRvaGUxclJDeEZoaUpjOTZlNjZNV1VxcWxUNGVfdlBRUzdB?oc=5",
    "ts": "Mon, 09 Nov 2026 12:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Could the blue wave change Trump's tune with Canada? | Opinion - Akron Beacon Journal",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSVBYQzZlTmhES1Z5ZXUtM1BvZ1d4TlVmUGkzQ1dqZEhZTU5yU0s4bXROR3FZRmlERGF5NjhaZEw0OE83OGYtaDhhaW5jSHpiOXZrTk1hOFA2am5MY0xwZUhjN2JVSG01WThRVGxQNXNZS3NCZk4tX2I2STV6d3hKaUdOdXhJZnJxWjFzTWx1Um1YR0htZWZkd1R3a0lEbGFDWm1KaExyNUZJX1Z0dUMycEU0Wi01M1c4R3hUai1mSXVNUFU?oc=5",
+   "ts": "Mon, 09 Nov 2026 11:03:00 GMT"
   },
   {
    "src": "gnews",

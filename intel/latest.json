@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-10T01:00:27Z",
+ "ts": "2026-11-10T01:15:19Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -400,15 +401,15 @@
   },
   {
    "src": "gnews",
-   "title": "Despite US-China trade deal, tariffs remain on essential baby products - Kiowa County Press",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQXBMbUVibWV2MG9TdEE1TENRcTUxUGxoNGtldmVNN2d0em1uSzZGYmx4cmtGM1doeF81WUlkcDZla0lBM3NMSS1uTFhJQ1ZKaUl5dmRDeWtSS1lGbGlWa3AzM0pRdGo5ei04dzRhZGdwUmJZT1dJbzdnMXIxdkZKNUFHYTRvaGUxclJDeEZoaUpjOTZlNjZNV1VxcWxUNGVfdlBRUzdB?oc=5",
-   "ts": "Mon, 09 Nov 2026 12:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYy1vdWUwVXRwOE5ZT180NmxHZ0JocXpNaEpYQWNmYmh4dXBrN1Q0SFBpYkMtXzRJSFQ4WkNKbUI5Z1VCS25kRVZpSDJaSTlEY1FsVlNkZTUxSG1jclhnNDlaZnNWMTdLWG9QQmdLZjhWOElZNDVGeVlYdFA0TVVvUW51ZFk?oc=5",
    "ts": "Fri, 06 Nov 2026 17:20:21 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Despite US-China trade deal, tariffs remain on essential baby products - Kiowa County Press",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQXBMbUVibWV2MG9TdEE1TENRcTUxUGxoNGtldmVNN2d0em1uSzZGYmx4cmtGM1doeF81WUlkcDZla0lBM3NMSS1uTFhJQ1ZKaUl5dmRDeWtSS1lGbGlWa3AzM0pRdGo5ei04dzRhZGdwUmJZT1dJbzdnMXIxdkZKNUFHYTRvaGUxclJDeEZoaUpjOTZlNjZNV1VxcWxUNGVfdlBRUzdB?oc=5",
+   "ts": "Mon, 09 Nov 2026 12:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -457,126 +458,6 @@
    "title": "Event calendar in Asia Tuesday, November 10, 2026: BoJ and China trade data - investingLive",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hQenlWQ2ZnNnY0SnBJdEhOVEk1cEIyR0ZFWnRRX2lqRW0weUUwNzlmTW5QNzYwMjRldDR3VUNrTU0wVjdjWDNoWVJxdDUwaGhzWWY4UW9iVDRLV2lVV25XS3JPakRaQ3NuU2Vtb2l4eFRUaGFWb2dFRGlpQ1ZYVUJ1bjBNQ3ZoTkwzQzJyOThaY1pmektwdnBkRDRQYVlXT1h1TnUxZVprMmtPamV2bzYyaw?oc=5",
    "ts": "Mon, 09 Nov 2026 21:03:48 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "트럼프  이란전 군사적으로 사실상 끝⋯종전 긍정적 모멘텀  ",
-   "url": "https://www.etoday.co.kr/news/view/2646067",
-   "ts": "20261110T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "SCOTUS Allows Trump Border Wall Construction In Texas",
-   "url": "https://wmanfm.iheart.com/content/2026-11-09-scotus-allows-trump-border-wall-construction-in-texas/",
-   "ts": "20261110T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump administration moves to lift logging restrictions in national forests",
-   "url": "https://www.kasu.org/weather-environment-infrastructure/2026-11-09/trump-administration-moves-to-lift-logging-restrictions-in-national-forests",
-   "ts": "20261110T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Stands By Hegseth Amid Impeachment Push | News Talk 1090 WKBZ - AM",
-   "url": "https://newstalk1090.iheart.com/content/2026-11-09-trump-stands-by-hegseth-amid-impeachment-push/",
-   "ts": "20261110T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Почему Трамп хочет отказаться финансировать Израиль : заявление Рубио",
-   "url": "https://ura.news/news/1053142816",
-   "ts": "20261110T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "FBI to probe Nvidia chief affair with alleged spy",
-   "url": "https://www.crookwellgazette.com.au/story/9388674/fbi-to-probe-nvidia-chiefs-affair-with-alleged-spy/",
-   "ts": "20261110T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Democrats plan to use new power to rein in Trump education agenda , but their tools are limited",
-   "url": "https://www.dailypress.com/2026/11/09/election-2026-democrats-education/",
-   "ts": "20261110T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Senate Advances Bipartisan Permitting Reform Bill",
-   "url": "https://wflanews.iheart.com/content/2026-11-09-senate-advances-bipartisan-permitting-reform-bill/",
-   "ts": "20261110T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Donald Trump says he believes war with Iran is militarily  effectively over  ",
-   "url": "https://www.barryanddistrictnews.co.uk/news/national/26713949.donald-trump-says-believes-war-iran-militarily-effectively-over/",
-   "ts": "20261110T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ICE separates 8 - year - old Haitian child from caretaker",
-   "url": "https://www.kshb.com/politics/immigration/ice-separates-8-year-old-haitian-child-from-caretaker",
-   "ts": "20261110T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "The Middle Just Moved . Now Comes the Hard Part . ",
-   "url": "https://www.wisbusiness.com/2026/the-middle-just-moved-now-comes-the-hard-part/",
-   "ts": "20261110T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Рубіо розповів , які гарантії безпеки матиме Україна",
-   "url": "https://www.rbc.ua/rus/news/ukrayina-otrimae-lishe-garantiyi-bezpeki-1794261373.html",
-   "ts": "20261110T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "China holds up imports as 600 , 000 Nvidia chips sit in Hong Kong",
-   "url": "http://www.londonmercury.com/news/279414595/china-holds-up-imports-as-600-000-nvidia-chips-sit-in-hong-kong",
-   "ts": "20261110T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ٹرمپ نے وسط مدتی انتخابات کے نتائج پر دھاندلی کے الزامات لگا دئیے",
-   "url": "https://jang.com.pk/news/1632037-topstory",
-   "ts": "20261110T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "存储巨头 、 光通信 ， 直线拉升 ！ ",
-   "url": "https://www.163.com/dy/article/LBC0VTGK0530NLC9.html",
-   "ts": "20261110T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "孙和声 ： 美式经济活力与道德危害 | 名家 | 评论",
-   "url": "https://www.orientaldaily.com.my/news/mingjia/2026/11/10/861549",
-   "ts": "20261110T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Homelessness rate slows in Kentucky",
-   "url": "https://www.the-messenger.com/news/article_c820a79d-1ca0-54f6-bcb9-044062789d9f.html",
-   "ts": "20261110T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump admin sued over  crushing blow  to science :  Disservice to the American public  ",
-   "url": "https://www.rawstory.com/trump-admin-2678348735/",
-   "ts": "20261110T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump administration investigates APS , Santa Fe schools over gender transition policies",
-   "url": "https://www.abqjournal.com/news/trump-administration-launches-investigation-into-aps-santa-fe-public-schools-over-gender-transition-policies/3159110",
-   "ts": "20261110T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "特朗普称没必要再对伊朗采取军事行动 局势趋向缓和 _ 军事频道 _ 中华网",
-   "url": "https://military.china.com/news/13004177/20261110/49855288.html",
-   "ts": "20261110T003000Z"
   }
  ]
 }

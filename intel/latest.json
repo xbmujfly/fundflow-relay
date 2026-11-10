@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-10T10:30:26Z",
+ "ts": "2026-11-10T10:45:19Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -354,7 +355,7 @@
    "src": "gnews",
    "title": "China’s trade surplus exceeds $1tn for first 10 months of year - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmpqbG1WMjVjVGtaTmdwR2hnbkJ0OWxiS2NZNXVWSklHZDNoZTR6eXZXTWhTZHdIeUg1elJYLUNaNGhMNHB4dGVUMnBJMlNTVVpmSVBoX3o2Z1JTTFZKa3VTVVlnQkNtZk54VVEwdWVQMjhkakJGbXpiYU94YVdPSmdzYl8?oc=5",
-   "ts": "Tue, 10 Nov 2026 06:09:45 GMT"
+   "ts": "Tue, 10 Nov 2026 03:09:14 GMT"
   },
   {
    "src": "gnews",
@@ -366,7 +367,7 @@
    "src": "gnews",
    "title": "China’s Trade Surplus Surged Past $1 Trillion in October - WSJ",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNEdJRlEzYnZIbVRkWi1rc252aE9SbXdwZDVnWGwtVnhfNzBKMWJRUHZDdWJlZno4MC1WVFhKc3JMQ05IUjFQQjlMcmd2QVBYNFhFaDZmMXo2WlgzU2hhQm1FYm9zZXRoLWdRazFLdUVkOXU5eU83X0VNNjNQVzhZZmpDS25FTDVSQlk1TjZtUlpZcnJZN0VaR0Nfbw?oc=5",
-   "ts": "Tue, 10 Nov 2026 04:04:00 GMT"
+   "ts": "Tue, 10 Nov 2026 04:05:01 GMT"
   },
   {
    "src": "gnews",
@@ -454,129 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "China's trade surplus tops $1 trillion as exports surge - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUDBub1BwU2toamQ2Z3ZhX2N3ZG1JUVJOc3owTUQ5S1VhX2JkQ1EyZjJhbFQ2WTVSMnpleXJFNnJHRmF2WlJ0aG5odGM3YnBkVzRRblhqa0J4NG5IY1llRm56QXFCd2RiQllXd1ZNbjRQVUc3ejBQcWpwemNxd3o1dlhTbHpGRlpGalV0QzU5cEM3aVpPZU5Z?oc=5",
-   "ts": "Tue, 10 Nov 2026 04:33:00 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Трамп поддержал главу Nvidia на фоне скандала с изменой и шпионажем",
-   "url": "https://news.mail.ru/politics/73036308/",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Hegseth is set for his first Pentagon news briefing since May as he faces possible impeachment",
-   "url": "http://www.dailyadvance.com/news/national/hegseth-is-set-for-his-first-pentagon-news-briefing-since-may-as-he-faces-possible/article_7f69bbdc-4b40-5d86-a907-fff6d8bf4814.html",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "UFC Dana White appears with Trump at a White House briefing but wont be his press secretary",
-   "url": "https://mymotherlode.com/news/national/11295703/ufcs-dana-white-appears-with-trump-at-a-white-house-briefing-but-wont-be-his-press-secretary.html",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Στο μικροσκόπιο του FBI το ερωτικό σκάνδαλο κατασκοπείας στη Nvidia",
-   "url": "https://www.cretalive.gr/kosmos/sto-mikroskopio-toy-fbi-erotiko-skandalo-kataskopeias-sti-nvidia",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Democrats have gained control in more states . That could change the way the US elects its president",
-   "url": "https://www.therecord.com/news/world/united-states/democrats-have-gained-control-in-more-states-that-could-change-the-way-the-us-elects-its-president/article_a2dc4e4c-4131-5b95-b07f-d7452999c61d.html",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Thune and Schumer face questions about Senate leadership in aftermath of elections",
-   "url": "https://mymotherlode.com/news/national/general-election/11295668/thune-and-schumer-face-questions-about-senate-leadership-in-aftermath-of-elections.html",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Dana White Declines Trump Press Secretary Offer | Newstalk 1400 , 104 . 5 , and 105 . 9 WJMX",
-   "url": "https://newstalk1400online.iheart.com/content/2026-11-10-dana-white-declines-trumps-press-secretary-offer/",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Представители США обозначили ожидания от встречи в Абу - Даби по Украине",
-   "url": "https://www.mk.ru/politics/2026/11/10/predstaviteli-ssha-oboznachili-ozhidaniya-ot-vstrechi-v-abu-dabi-po-ukraine.html",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Dana White Declines Trump Press Secretary Offer",
-   "url": "https://1190kex.iheart.com/content/2026-11-10-dana-white-declines-trumps-press-secretary-offer/",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Journalists Don Lemon , Georgia Fort seek dismissal in St . Paul church protest case",
-   "url": "https://www.fox9.com/news/journalists-don-lemon-georgia-fort-seek-dismissal-st-paul-church-protest-case",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US stocks rally and recover most of last week losses as oil prices swing lower",
-   "url": "https://www.manilatimes.net/2026/11/10/business/foreign-business/us-stocks-rally-and-recover-most-of-last-weeks-losses-as-oil-prices-swing-lower/2465954",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Montana Healthcare Gets Big Boost Thanks to President Trump",
-   "url": "https://k96fm.com/ixp/1106/p/montana-rural-healthcare-funding-boost/",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  Biggest oil deal in world history : JD Vance claims US control of Venezuelan reserves , energy dominance",
-   "url": "http://www.venezuelastar.com/news/279423115/biggest-oil-deal-in-world-history-jd-vance-claims-us-control-of-venezuelan-reserves-energy-dominance",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  젠슨 황은 대체 불가 … 머스크 · 월가 거물들 ,  中 스파이 불륜  감싸나",
-   "url": "https://www.fnnews.com/news/202611101429483262",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ο Τραμπ πέφτει στην παγίδα των δασμών του",
-   "url": "https://www.capital.gr/carnegieeurope-eu/4028813/o-tramp-peftei-stin-pagida-ton-dasmon-tou/",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "特朗普说没他以色列将不复存在 盟友关系被标价 _ 军事频道 _ 中华网",
-   "url": "https://military.china.com/news/13004177/20261110/49856019.html",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Rep . Thomas Massie of Kentucky launches bid to impeach Defense Secretary Pete Hegseth",
-   "url": "https://www.santafenewmexican.com/ap/washington/rep-thomas-massie-of-kentucky-launches-bid-to-impeach-defense-secretary-pete-hegseth/article_ae8f93c6-865a-5433-9153-4aa69d6fe653.html",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Нова надежда за мир ? Русия и Украйна сядат на масата за преговори в Абу Даби с посредничеството на САЩ",
-   "url": "https://dariknews.bg/novini/sviat/nova-nadezhda-za-mir-rusiia-i-ukrajna-siadat-na-masata-za-pregovori-v-abu-dabi-s-posrednichestvoto-na-sasht-2471595",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "हार के बाद ट्रंप का बड़ा खुलासा , ईरान युद्ध ने बदल दिया चुनावी गणित",
-   "url": "https://www.deshbandhu.co.in/world/trumps-major-revelation-following-his-defeat-iran-war-altered-the-electoral-calculus-330633",
-   "ts": "20261110T060000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Democrats have gained control in more states . That could change the way the US elects its president",
-   "url": "http://www.dailyadvance.com/news/national/democrats-have-gained-control-in-more-states-that-could-change-the-way-the-us-elects/article_96b1caa5-28ad-5de9-9397-4273491e242c.html",
-   "ts": "20261110T060000Z"
+   "title": "Can China’s Copper Demand Reverse the US Tariff Trade as AI Market Optimism Fades? - Modern Diplomacy",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZGtaQy14eDZBT3B0YjZabHVWLWFUVGhlZC1GMGNpZXh5VVZ1THNsSldqNEhCQ3pobm1iM0ItYWtUV0hETTQ3Q3JRX2JKZS02azlGa090RHJZYXFlS2J6NDRrUzVvOE00ZTgwUHpCMmwxVnVTMDJaekNJU0tuUnlFR3EzU1FfWGNyWWlRUC1FYWtJM1RjeTh0YzF3STlGVlJYTUZubU9jVi1jWEV5UEJyemZsbzRueXRqZ3dB?oc=5",
+   "ts": "Tue, 10 Nov 2026 07:50:00 GMT"
   }
  ]
 }

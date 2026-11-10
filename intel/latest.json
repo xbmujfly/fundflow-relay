@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-10T05:30:28Z",
+ "ts": "2026-11-10T05:45:20Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -371,6 +371,12 @@
   },
   {
    "src": "gnews",
+   "title": "China's trade surplus surpasses $1 trillion as AI boom powers exports - Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHpmQ004SnRvTzRmXzFseXp4THJEWWJFeXNlVUY3eEUxVDdfbVpTUTMxNTdZVm14VmJyQkZOaUh0QTRCb0Zjc3VwRzJkY0pseG5idk5BQ0hBME5STDBwTlJCZmpHb0xhVEUwd29FRHRyWm1yQXY3bFNWNDh3c2xiSFJzUFdRWlRQdWJzWVBGS3hSYm8tUl9GS1JNZ3pWdWJpdXoweTFn?oc=5",
+   "ts": "Tue, 10 Nov 2026 04:29:31 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China Extends Pause on US Tariffs and Trade Curbs for Two Months - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkVXSkNKNzRBdXBNUlFmNVlEZ3gtUVhRbVVZcENiS3B6RXBlMDNvQ2lrU19fMXoyYkdSQWc5amg5OXlhcmtKX0JHZHR2amtKY2hzZllpQUhWS3lTNndnT2NDZFdYUHNCeG1MVHZmMWV5RjEwTXJqVmlLQTJDU0d3SHN2aHVOZ291bTNqNnprR3U2TndhUEs0ZHdDTVM2NlRsZW5VQUxKd25JLXV0MlJ6aXRR?oc=5",
    "ts": "Mon, 09 Nov 2026 08:52:55 GMT"
@@ -413,12 +419,6 @@
   },
   {
    "src": "gnews",
-   "title": "China is extending its U.S.-China trade truce through January, keeping 10% tariff - Quartz",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpUlZZblVpYUlnZ0VCZmdDMmdsN0FZRklFRHVFOXFkbGJhdnl3dVEzZ1lOUTZkMXQ5QkNieXpBMkpnSi1UY1gzMjlVVHJ3TEhmd0N5bFRSUXAzSTd4RXNUSG9MTXR2a2ZobWktUXRxZnE?oc=5",
-   "ts": "Mon, 09 Nov 2026 12:26:37 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China's trade surplus soars past $1 trillion, October exports jump 35.2% y/y - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMUVlUlV3YlliY3pWSzlJT19pbTExU1J0azA5SnU5eFRVZVQ3emZmX0VjamUySTNIYVdLUWRuc01LLUxxQVNvSTZrV3I4YzQ2ZXozQjJBRWc0eERhU2NSSzBHTnpncV9KRnB1QUJiUGxIMmdzUy1zenozMGY2dzNWQjFwbC1pSXRsb0Roa2c3LXhfS2xldzhlX3otOUg?oc=5",
    "ts": "Tue, 10 Nov 2026 02:55:20 GMT"
@@ -449,15 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Similarity is not exposure: Measuring spillovers from US–China trade frictions - CEPR",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVJHQXU2RG1VeWxpZjdjVkRaY2FRQVRRQWVpbG95Qmx4RjY0MTdGZVRjb0dDM1doN0lYb083ckNPVHNZUzJqN00ybWc3bjRTRk5ZRUQxMTlSZ3VFdnBOSU9iTmZmbndsRm9CdkE3MmQ3LTFJYVZzdHRFYXVaZmxyb1dtQTRfa185clRQT1o1enN6c3E2MWgyTzB2b0JqQnNrcEE?oc=5",
-   "ts": "Mon, 09 Nov 2026 01:02:45 GMT"
+   "title": "China is extending its U.S.-China trade truce through January, keeping 10% tariff - Quartz",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpUlZZblVpYUlnZ0VCZmdDMmdsN0FZRklFRHVFOXFkbGJhdnl3dVEzZ1lOUTZkMXQ5QkNieXpBMkpnSi1UY1gzMjlVVHJ3TEhmd0N5bFRSUXAzSTd4RXNUSG9MTXR2a2ZobWktUXRxZnE?oc=5",
+   "ts": "Mon, 09 Nov 2026 12:26:37 GMT"
   },
   {
    "src": "gnews",
-   "title": "Developing | China’s imports outpace exports in October amid efforts to tackle record surplus - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMWZWdno2R1M1NGQxZ1FoMi1PVTBsblN5Qk9Ia0hadnVKU05NbFBBbmk1U0hDRFZ2Nmg3aFE0LUxyLWdKRTlKVmt4TnB0Z3JUVzJUcFAxS1huTnluakhBMWYxM1ctb0lXWjVfZjdVN0dGRUFlb2t4cW5ra2MwQklYSTZYV1RCUkJRMTRxUWdOcmhqVW5xalp1YkhlUUFlT3ZyTXNuUTNaa202UHJiREI3RkFLM3MwUllzNkgwOE5OeVFIQnY5YkhISjdVNG8tUXBL0gHQAUFVX3lxTE1uOFJFVTFUYTI1NmUwZEt0aUdVR3J5R0N3Z0x0MXUzZ1RqaHhJN1F0eVQtTElXSDUyT1NSZlloQ3Z4Skw4WWN4M1p3clZaWlBVeDBNMmJuWU5fTFlUai1Oc0hpaFBPSzVPUi1HanN2djJIY21ieGlnczROWWQ0VHFyczhHdzBlSmJ0ci1feGVNZXp2QVRteGN3cVd5ZHpscVZkVFhZYXNKaDBweHRkRGlBMEdRV3RBX25EZnBZVzY4RDQ2TkpvcFBfR2NhZkV0dG0?oc=5",
-   "ts": "Tue, 10 Nov 2026 03:51:51 GMT"
+   "title": "Similarity is not exposure: Measuring spillovers from US–China trade frictions - CEPR",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVJHQXU2RG1VeWxpZjdjVkRaY2FRQVRRQWVpbG95Qmx4RjY0MTdGZVRjb0dDM1doN0lYb083ckNPVHNZUzJqN00ybWc3bjRTRk5ZRUQxMTlSZ3VFdnBOSU9iTmZmbndsRm9CdkE3MmQ3LTFJYVZzdHRFYXVaZmxyb1dtQTRfa185clRQT1o1enN6c3E2MWgyTzB2b0JqQnNrcEE?oc=5",
+   "ts": "Mon, 09 Nov 2026 01:02:45 GMT"
   }
  ]
 }

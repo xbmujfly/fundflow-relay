@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-10T13:15:27Z",
+ "ts": "2026-11-10T13:30:25Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -373,7 +373,7 @@
    "src": "gnews",
    "title": "China’s Trade Surplus Surged Past $1 Trillion in October - WSJ",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNEdJRlEzYnZIbVRkWi1rc252aE9SbXdwZDVnWGwtVnhfNzBKMWJRUHZDdWJlZno4MC1WVFhKc3JMQ05IUjFQQjlMcmd2QVBYNFhFaDZmMXo2WlgzU2hhQm1FYm9zZXRoLWdRazFLdUVkOXU5eU83X0VNNjNQVzhZZmpDS25FTDVSQlk1TjZtUlpZcnJZN0VaR0Nfbw?oc=5",
-   "ts": "Tue, 10 Nov 2026 04:05:01 GMT"
+   "ts": "Tue, 10 Nov 2026 04:04:00 GMT"
   },
   {
    "src": "gnews",
@@ -413,6 +413,12 @@
   },
   {
    "src": "gnews",
+   "title": "Trump Trade Adviser Says 'We Are Quadrupling Down On Tariffs' After The GOP Lost Congress. Here's What Yale Budget Lab Says Tariffs Cost The Average American Household - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOUUJkNl82QWdTaU0zSFpYb3o1Ym9HdDB6YzVtaEpoNFRGeDlKVVFMbFZuRVh2T2d4a2tGbUZUSEJoU0VBSEVnamVCWlpUdWhPaDYxMXZtOXFlbUR6Y01sdWxiZGczUlVwaHJlbERkLTNZUHlnTTNDSFZPNnptY28zQ1RDQzlKalBHY181S3hhX0dMdXo0T2pfb2VVNXE4VHQ4RjNOWDVRVG50UkI3VjROWnVvOWgzYVdLV1V2UXBoZHhIRF9ZSFBxb1BjODFRYmYzb3BxRmpuVWxRWGU3MlpFQmRWWlFnSVBmSnk5Zm13bG1WYXQzdVo1M1d3akR6dDdram9wTlV4X3hnT2ZMNE11STNYNzdsSTVkX2J5LUJ5LU1GaEVoQjJiOHpELTNtWldm?oc=5",
+   "ts": "Tue, 10 Nov 2026 10:36:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China extends US trade truce by two months - Reuters",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5",
    "ts": "Mon, 09 Nov 2026 02:48:00 GMT"
@@ -443,21 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Trade Adviser Says 'We Are Quadrupling Down On Tariffs' After The GOP Lost Congress. Here's What Yale Budget Lab Says Tariffs Cost The Average American Household - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOUUJkNl82QWdTaU0zSFpYb3o1Ym9HdDB6YzVtaEpoNFRGeDlKVVFMbFZuRVh2T2d4a2tGbUZUSEJoU0VBSEVnamVCWlpUdWhPaDYxMXZtOXFlbUR6Y01sdWxiZGczUlVwaHJlbERkLTNZUHlnTTNDSFZPNnptY28zQ1RDQzlKalBHY181S3hhX0dMdXo0T2pfb2VVNXE4VHQ4RjNOWDVRVG50UkI3VjROWnVvOWgzYVdLV1V2UXBoZHhIRF9ZSFBxb1BjODFRYmYzb3BxRmpuVWxRWGU3MlpFQmRWWlFnSVBmSnk5Zm13bG1WYXQzdVo1M1d3akR6dDdram9wTlV4X3hnT2ZMNE11STNYNzdsSTVkX2J5LUJ5LU1GaEVoQjJiOHpELTNtWldm?oc=5",
-   "ts": "Tue, 10 Nov 2026 10:36:00 GMT"
+   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - The Seattle Times",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb1JaemFnZElPSHJwMTlvWGxyZmpGMlBiaElHTVZaMjh3WWNybHlLRmZ5LTh6dzRvNEVPSm9EeXRLZzZhOE5UUFo3LUNfUkoxc0U5aTVfLWV2YnZabW4zRkdnZ1U0Wm1TZmhuZVBzLVk2UWF4UFFzRUFpVW5QbE5icU5SS2JRTkhacEN4dUtwaGtpbDRQNG9OQ3dPRjhwbUFsYUpvS3V3RGxDQUVVN0tfbUkweFFHSXdPUjVRU0N2a3JDdw?oc=5",
+   "ts": "Tue, 10 Nov 2026 11:51:24 GMT"
   },
   {
    "src": "gnews",
    "title": "Iranian delegation at China import expo says ‘indirect trade’ up since war began - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQVVsakFTeHV5LU14ZjEtXzRwbGduLTNFZHctRzYwdmNQelp0ejJrblA0Sml2MjJvalpoaXdHUmRWWC1DTHd3ajlFTDBPdWc5czVTQ3ZWdDJZNkl6dzUwa2VIeFZuVGNQNGFxdENYQWZmWGlKUVBxSzhBSlFMYWY2VXNiOTFHOERLVXRqVnVnU1dyMGNZWDVncEpRN1dCaG1KNjFjYng5c3lNR29yNUZsbzFDbU5qeXNvR1hOTzVaRUd5SkphTGlnemlCdmlBdnA50gHQAUFVX3lxTE80TXNjNHpDMWFKNjBQMEl3SlZGdnd6a2F1Z25hejFuUVVyWmZ2R3libVZXaEJDUXBiTmZEcTU5VW14UUR1QS1ncHJxbXJ0VnN2Y3VlSk9lRkVRUjhTNXQtNWxhX0p4WmtVMnQ1VlFaLTczZy1WMUhoLW1WVmpfYXJXY2MtazlNdGZzRmMzMmk1TWs2RGdBalBWLUdjZDJleFdfNFU0d05MZGZWZ0JBUE1GMmFYYVNXY0hyZjlhaUF5SlhtNW9qTHN1VVFkLWZEY2o?oc=5",
    "ts": "Tue, 10 Nov 2026 11:00:08 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "The hybrid car deal won't stop the EU-China slide - The Parliament Magazine",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYjBYbWwxTXg0andnRzl4dFdFb2R3UW5hZzl2QldBR1Q5a05zQkFFSlVDS0ZWU0JRdHJkT3ZwMElWSnZUcUhNVWxYYUNIOW1PMUpoYzJKZkw1ZlRFbHh4SDFlNHhaNEw1dlJ1d3ZXYXZSUjNmQ3dqbXd6QWdDWlZ4NHV2Q1dYY05xVHRVMEtoX0tJOUlrQlA5UWhScHRFdE9qeHRLZW05T2Y4c19PY2ZaZg?oc=5",
-   "ts": "Tue, 10 Nov 2026 07:59:56 GMT"
   }
  ]
 }

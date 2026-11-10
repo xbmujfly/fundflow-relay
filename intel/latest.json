@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-10T00:30:21Z",
+ "ts": "2026-11-10T00:45:18Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,9 +341,9 @@
   },
   {
    "src": "gnews",
-   "title": "China extends US trade truce by two months - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5",
-   "ts": "Mon, 09 Nov 2026 02:48:00 GMT"
+   "title": "COMMENTARY: Fund sellers, China buyers squeeze copper's tariff trade - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWlpXV0JiLWp6alEyWjJXejVxdE95VFBrMzVVcDJiOGtWc2NFcUtNN0R1cXl2cmlQdmhlMjI1ZDA3U2pzcko1UjYtc013SDNfNlZ2TUJlbUlIQnhDMXNxZmtDVHE5VUdwQWxER19oSjNLN052bnVrYlQ0QVNzallzOVU1bXdxNFlHSy1idC0zTGlNTnBscUNDdTNjdDBpb3BtUjJqMnpIRE1MQzVIVVRPeUMxUnE0LU1mb2h4T3hJVno?oc=5",
+   "ts": "Mon, 09 Nov 2026 23:05:11 GMT"
   },
   {
    "src": "gnews",
@@ -362,6 +362,12 @@
    "title": "Midterm Voters Disapproved Of Trump’s Tariffs And Immigration Policies - Forbes",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHowVm5MaWdLbnZhbVJmb0o3Rk5MSzNDZXN0bU1BTWpkMGJaTWU5aFpGRGFteEtudmU5YXN1VzNoRGI4MnRzVmRpMUlDRkRzUTk1eHpEckIzWkl0RkVOczhmc1dfc191S1ZDYlZmX2lzenlibF90TEtsQVd1NHNQcW01WjRwYXR0aUNOdjF1bW55allXN2pNRTdQblhrQTR2bTNJNEFYbDdZLUR1NWdSWmdqQTNhWmo3UWZMWjBmVUo0ZjQ?oc=5",
    "ts": "Mon, 09 Nov 2026 14:32:10 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China extends trade truce with US by two months - The Journal Record",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObkFqc091Z2RDX3dCZ052b21fcHE4dEpZSktXbnlnSHJQLXBpZFJkZjR1NUl4UUF5a2NrNHdNbkRXVUZSQnBEb1YwSlFwR0ZoV1dGRExxd1hSMVRZYWFBMlJhak85d0ZOOGVpWWtZMnM0cnVBZ2JucVpQSlVraGdSUmlfc0hpOVU1?oc=5",
+   "ts": "Mon, 09 Nov 2026 18:05:57 GMT"
   },
   {
    "src": "gnews",
@@ -422,12 +428,6 @@
    "title": "The Trump Trade Is Dead. Don't Buy The Dip Yet (SOX) - Seeking Alpha",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRVlsSXdrVGdBVVVPYUdWeTJlTWV5MUhEQm8ydEtNTUtPR09jZTV6TjFtMTdCbUxNOXl6bDRVVEdCMDVKU1pNd3RfZy1zZ3VpZ192RUh0RkJEbWY5S2w2NU81VzZ0bzg5N2ozV0hlcWpUV2ROekJ5NHhveGVRb0hUcjdDSnhmYlUyTzVDOE5R?oc=5",
    "ts": "Mon, 09 Nov 2026 13:36:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "COMMENTARY: Fund sellers, China buyers squeeze copper's tariff trade - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWlpXV0JiLWp6alEyWjJXejVxdE95VFBrMzVVcDJiOGtWc2NFcUtNN0R1cXl2cmlQdmhlMjI1ZDA3U2pzcko1UjYtc013SDNfNlZ2TUJlbUlIQnhDMXNxZmtDVHE5VUdwQWxER19oSjNLN052bnVrYlQ0QVNzallzOVU1bXdxNFlHSy1idC0zTGlNTnBscUNDdTNjdDBpb3BtUjJqMnpIRE1MQzVIVVRPeUMxUnE0LU1mb2h4T3hJVno?oc=5",
-   "ts": "Mon, 09 Nov 2026 23:05:11 GMT"
   },
   {
    "src": "gnews",

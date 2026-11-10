@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-10T04:45:19Z",
+ "ts": "2026-11-10T05:00:44Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -389,6 +388,12 @@
   },
   {
    "src": "gnews",
+   "title": "China's trade surplus surpasses $1 trillion as AI boom powers exports - Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHpmQ004SnRvTzRmXzFseXp4THJEWWJFeXNlVUY3eEUxVDdfbVpTUTMxNTdZVm14VmJyQkZOaUh0QTRCb0Zjc3VwRzJkY0pseG5idk5BQ0hBME5STDBwTlJCZmpHb0xhVEUwd29FRHRyWm1yQXY3bFNWNDh3c2xiSFJzUFdRWlRQdWJzWVBGS3hSYm8tUl9GS1JNZ3pWdWJpdXoweTFn?oc=5",
+   "ts": "Tue, 10 Nov 2026 04:29:31 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China's trade surplus soars past $1 trillion, October exports jump 35.2% y/y - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMUVlUlV3YlliY3pWSzlJT19pbTExU1J0azA5SnU5eFRVZVQ3emZmX0VjamUySTNIYVdLUWRuc01LLUxxQVNvSTZrV3I4YzQ2ZXozQjJBRWc0eERhU2NSSzBHTnpncV9KRnB1QUJiUGxIMmdzUy1zenozMGY2dzNWQjFwbC1pSXRsb0Roa2c3LXhfS2xldzhlX3otOUg?oc=5",
    "ts": "Tue, 10 Nov 2026 02:55:20 GMT"
@@ -404,18 +409,6 @@
    "title": "China extends trade truce with US by two months - The Journal Record",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObkFqc091Z2RDX3dCZ052b21fcHE4dEpZSktXbnlnSHJQLXBpZFJkZjR1NUl4UUF5a2NrNHdNbkRXVUZSQnBEb1YwSlFwR0ZoV1dGRExxd1hSMVRZYWFBMlJhak85d0ZOOGVpWWtZMnM0cnVBZ2JucVpQSlVraGdSUmlfc0hpOVU1?oc=5",
    "ts": "Mon, 09 Nov 2026 18:05:57 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting - DW.com",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
-   "ts": "Sat, 07 Nov 2026 04:46:35 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China's trade surplus surpasses $1 trillion as AI boom powers exports - Euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHpmQ004SnRvTzRmXzFseXp4THJEWWJFeXNlVUY3eEUxVDdfbVpTUTMxNTdZVm14VmJyQkZOaUh0QTRCb0Zjc3VwRzJkY0pseG5idk5BQ0hBME5STDBwTlJCZmpHb0xhVEUwd29FRHRyWm1yQXY3bFNWNDh3c2xiSFJzUFdRWlRQdWJzWVBGS3hSYm8tUl9GS1JNZ3pWdWJpdXoweTFn?oc=5",
-   "ts": "Tue, 10 Nov 2026 04:29:31 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +451,132 @@
    "title": "Similarity is not exposure: Measuring spillovers from US–China trade frictions - CEPR",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVJHQXU2RG1VeWxpZjdjVkRaY2FRQVRRQWVpbG95Qmx4RjY0MTdGZVRjb0dDM1doN0lYb083ckNPVHNZUzJqN00ybWc3bjRTRk5ZRUQxMTlSZ3VFdnBOSU9iTmZmbndsRm9CdkE3MmQ3LTFJYVZzdHRFYXVaZmxyb1dtQTRfa185clRQT1o1enN6c3E2MWgyTzB2b0JqQnNrcEE?oc=5",
    "ts": "Mon, 09 Nov 2026 01:02:45 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s Trade Surplus Tops $1 Trillion as October Exports Surge - The China-Global South Project",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMFNyY08wX2V5MHlpbFJqMDJQc25HMkJqeFRRRmZlMmdmdmNpUXRNNjhBYlBpNWNVYWZrTmJvODN6dnhpUHF2c2EzeDJxWW9ubEtvck1hTlROcF9Bd1F2bVI2RUlXUTVQMk1SY0djdVVDMm9mSDlkemJzUnFuYWlBQWZ4NVJaTEhZ?oc=5",
+   "ts": "Tue, 10 Nov 2026 03:18:24 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Thune , Schumer face questions about Senate leadership",
+   "url": "https://www.wmur.com/article/thune-schumer-questions-senate-leadership-midterms/74381263",
+   "ts": "20261110T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Plan to Lower Drug Prices in U . S . Is Leading to Fewer New Drugs in Europe",
+   "url": "https://www.hindustantimes.com/world-news/trumps-plan-to-lower-drug-prices-in-u-s-is-leading-to-fewer-new-drugs-in-europe-101794280642665.html",
+   "ts": "20261110T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Rubio memo flagged Nvidia CEO alleged China link , but Trump says it made little impact",
+   "url": "https://www.moneycontrol.com/world/rubio-memo-flagged-nvidia-ceo-s-alleged-china-link-but-trump-says-it-made-little-impact-article-14075926.html",
+   "ts": "20261110T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Praises Nvidia Jensen Huang Amid Spy Probe | Talk Radio 105 . 9",
+   "url": "https://knrs.iheart.com/content/2026-11-09-trump-praises-nvidias-jensen-huang-amid-spy-probe/",
+   "ts": "20261110T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Wall Street jumps as oil slide cools inflation worries ; Nvidia slumps",
+   "url": "https://www.moneycontrol.com/news/business/markets/wall-street-jumps-as-oil-slide-cools-inflation-worries-nvidia-slumps-14075800.html",
+   "ts": "20261110T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "道德也有双标 - 博客",
+   "url": "https://blog.wenxuecity.com/myblog/81015/202611/6818.html",
+   "ts": "20261110T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Senate Advances Bipartisan Permitting Reform Bill",
+   "url": "https://wvoc.iheart.com/content/2026-11-09-senate-advances-bipartisan-permitting-reform-bill/",
+   "ts": "20261110T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Asian Markets A Sea Of Green",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70081511-asian-markets-a-sea-of-green-020.htm",
+   "ts": "20261110T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Выбирает убежище в 45 странах . Раскрыто , куда Зеленский сбежит из Киева",
+   "url": "https://aif.ru/politics/world/vybiraet-ubezhishche-v-45-stranah-raskryto-kuda-zelenskiy-sbezhit-iz-kieva",
+   "ts": "20261110T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "CBS Lets Jamie Raskin Compare Midterms to French Revolution , Gettysburg",
+   "url": "https://www.newsbusters.org/blogs/nb/emily-keegan/2026/11/09/cbs-doesnt-blink-dem-compares-midterms-french-revolution",
+   "ts": "20261110T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "The Spy Scandal That Lays Bare Nvidia Governance Vacuum",
+   "url": "https://www.hindustantimes.com/world-news/the-spy-scandal-that-lays-bare-nvidia-s-governance-vacuum-101794280480097.html",
+   "ts": "20261110T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "NYP : Закария хочет вернуться на должность пресс - секретаря Белого дома",
+   "url": "https://life.ru/p/ustanovivshaya-antirekord-eks-press-sekretar-belogo-doma-hochet-vernut-dolzhnost",
+   "ts": "20261110T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "UFC Dana White appears with Trump at a White House briefing",
+   "url": "https://www.ketv.com/article/dana-white-trump-white-house-briefing/74381719",
+   "ts": "20261110T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "UFC Dana White appears with Trump at a White House briefing",
+   "url": "https://www.wmur.com/article/dana-white-trump-white-house-briefing/74381719",
+   "ts": "20261110T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Asian stocks climb as sliding oil prices lift sentiment",
+   "url": "https://www.sconeadvocate.com.au/story/9389055/asian-stocks-climb-as-sliding-oil-prices-lift-sentiment/",
+   "ts": "20261110T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Gold and silver price today , November 10 : Check rates of 24K , 22K gold in Delhi , Mumbai , Kolkata other cities",
+   "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-and-silver-price-today-november-10-check-rates-of-24k-22k-gold-in-delhi-mumbai-kolkata-other-cities-14075921.html",
+   "ts": "20261110T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Dana White takes over the White House press room after President Trump job offer",
+   "url": "https://bloodyelbow.com/2026/11/09/dana-white-takes-over-the-white-house-press-room-after-president-trumps-job-offer/",
+   "ts": "20261110T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Hegseth impeachment on to - do list as lame duck session gets underway",
+   "url": "https://www.wlwt.com/article/hegseth-impeachment-vote-lame-duck-session/74380621",
+   "ts": "20261110T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Thune , Schumer face questions about Senate leadership",
+   "url": "https://www.wlwt.com/article/thune-schumer-questions-senate-leadership-midterms/74381263",
+   "ts": "20261110T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "California Voters Reject Unprecedented Tax on Billionaires",
+   "url": "https://www.hindustantimes.com/world-news/california-voters-reject-unprecedented-tax-on-billionaires-101794280266842.html",
+   "ts": "20261110T043000Z"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-10T14:00:25Z",
+ "ts": "2026-11-10T14:15:18Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -347,15 +347,15 @@
   },
   {
    "src": "gnews",
-   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
-   "ts": "Tue, 10 Nov 2026 06:23:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
    "ts": "Tue, 10 Nov 2026 09:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
+   "ts": "Tue, 10 Nov 2026 06:23:00 GMT"
   },
   {
    "src": "gnews",
@@ -371,15 +371,15 @@
   },
   {
    "src": "gnews",
-   "title": "AI Boom Helps Fuel China Exports, Pushing Trade Surplus Above $1 Trillion - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFZ3N2Um5fYmdDcnFhUVphOTNBeDhjR2J3Y2hsa1lSaXFvMzNRZndtbEtWbk5UUm9tNmdJdDQzV2txMFZfVzRsVjZ3bWszTi1pX2xIRXhPV2ZuOXRkVVRXVjY2dlVfRURQWlFxWm0zaEstMzJqRUdJRWtmMlpZQQ?oc=5",
-   "ts": "Tue, 10 Nov 2026 12:00:01 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s Trade Surplus Surged Past $1 Trillion in October - WSJ",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNEdJRlEzYnZIbVRkWi1rc252aE9SbXdwZDVnWGwtVnhfNzBKMWJRUHZDdWJlZno4MC1WVFhKc3JMQ05IUjFQQjlMcmd2QVBYNFhFaDZmMXo2WlgzU2hhQm1FYm9zZXRoLWdRazFLdUVkOXU5eU83X0VNNjNQVzhZZmpDS25FTDVSQlk1TjZtUlpZcnJZN0VaR0Nfbw?oc=5",
    "ts": "Tue, 10 Nov 2026 04:04:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "AI Boom Helps Fuel China Exports, Pushing Trade Surplus Above $1 Trillion - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFZ3N2Um5fYmdDcnFhUVphOTNBeDhjR2J3Y2hsa1lSaXFvMzNRZndtbEtWbk5UUm9tNmdJdDQzV2txMFZfVzRsVjZ3bWszTi1pX2xIRXhPV2ZuOXRkVVRXVjY2dlVfRURQWlFxWm0zaEstMzJqRUdJRWtmMlpZQQ?oc=5",
+   "ts": "Tue, 10 Nov 2026 12:00:01 GMT"
   },
   {
    "src": "gnews",
@@ -413,15 +413,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Trade Adviser Says 'We Are Quadrupling Down On Tariffs' After The GOP Lost Congress. Here's What Yale Budget Lab Says Tariffs Cost The Average American Household - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOUUJkNl82QWdTaU0zSFpYb3o1Ym9HdDB6YzVtaEpoNFRGeDlKVVFMbFZuRVh2T2d4a2tGbUZUSEJoU0VBSEVnamVCWlpUdWhPaDYxMXZtOXFlbUR6Y01sdWxiZGczUlVwaHJlbERkLTNZUHlnTTNDSFZPNnptY28zQ1RDQzlKalBHY181S3hhX0dMdXo0T2pfb2VVNXE4VHQ4RjNOWDVRVG50UkI3VjROWnVvOWgzYVdLV1V2UXBoZHhIRF9ZSFBxb1BjODFRYmYzb3BxRmpuVWxRWGU3MlpFQmRWWlFnSVBmSnk5Zm13bG1WYXQzdVo1M1d3akR6dDdram9wTlV4X3hnT2ZMNE11STNYNzdsSTVkX2J5LUJ5LU1GaEVoQjJiOHpELTNtWldm?oc=5",
-   "ts": "Tue, 10 Nov 2026 10:36:00 GMT"
+   "title": "The hybrid car deal won't stop the EU-China slide - The Parliament Magazine",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYjBYbWwxTXg0andnRzl4dFdFb2R3UW5hZzl2QldBR1Q5a05zQkFFSlVDS0ZWU0JRdHJkT3ZwMElWSnZUcUhNVWxYYUNIOW1PMUpoYzJKZkw1ZlRFbHh4SDFlNHhaNEw1dlJ1d3ZXYXZSUjNmQ3dqbXd6QWdDWlZ4NHV2Q1dYY05xVHRVMEtoX0tJOUlrQlA5UWhScHRFdE9qeHRLZW05T2Y4c19PY2ZaZg?oc=5",
+   "ts": "Tue, 10 Nov 2026 08:19:46 GMT"
   },
   {
    "src": "gnews",
-   "title": "China extends US trade truce by two months - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5",
-   "ts": "Mon, 09 Nov 2026 02:48:00 GMT"
+   "title": "China seeks high-tech upper hand in industry carrying 80% of global trade - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWNwN3AyR0VFQTBqeUREa3A0M25yWkktTGFNX082dE5xSzl1NXk5ajRhajRXb0tOdUVYT1FXQm11WHduOGR1Z09YQlByZklSNE96UTlySkhYM0F4TmZNWHluNFpuTDM2dHNfZG9za1U5bHM0Qjh6Z2hwTWd6TmV2OFE2dll3RlZ0YlM2azc1UmdxN0RnVzAzQkpjaFN0UFhWNFNVZzEwRDlWLWFjbkM5UXNLNmI?oc=5",
+   "ts": "Tue, 10 Nov 2026 06:03:44 GMT"
   },
   {
    "src": "gnews",
@@ -437,9 +437,9 @@
   },
   {
    "src": "gnews",
-   "title": "China seeks high-tech upper hand in industry carrying 80% of global trade - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWNwN3AyR0VFQTBqeUREa3A0M25yWkktTGFNX082dE5xSzl1NXk5ajRhajRXb0tOdUVYT1FXQm11WHduOGR1Z09YQlByZklSNE96UTlySkhYM0F4TmZNWHluNFpuTDM2dHNfZG9za1U5bHM0Qjh6Z2hwTWd6TmV2OFE2dll3RlZ0YlM2azc1UmdxN0RnVzAzQkpjaFN0UFhWNFNVZzEwRDlWLWFjbkM5UXNLNmI?oc=5",
-   "ts": "Tue, 10 Nov 2026 01:50:00 GMT"
+   "title": "China extends US trade truce by two months - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5",
+   "ts": "Mon, 09 Nov 2026 02:48:00 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "Iranian delegation at China import expo says ‘indirect trade’ up since war began - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQVVsakFTeHV5LU14ZjEtXzRwbGduLTNFZHctRzYwdmNQelp0ejJrblA0Sml2MjJvalpoaXdHUmRWWC1DTHd3ajlFTDBPdWc5czVTQ3ZWdDJZNkl6dzUwa2VIeFZuVGNQNGFxdENYQWZmWGlKUVBxSzhBSlFMYWY2VXNiOTFHOERLVXRqVnVnU1dyMGNZWDVncEpRN1dCaG1KNjFjYng5c3lNR29yNUZsbzFDbU5qeXNvR1hOTzVaRUd5SkphTGlnemlCdmlBdnA50gHQAUFVX3lxTE80TXNjNHpDMWFKNjBQMEl3SlZGdnd6a2F1Z25hejFuUVVyWmZ2R3libVZXaEJDUXBiTmZEcTU5VW14UUR1QS1ncHJxbXJ0VnN2Y3VlSk9lRkVRUjhTNXQtNWxhX0p4WmtVMnQ1VlFaLTczZy1WMUhoLW1WVmpfYXJXY2MtazlNdGZzRmMzMmk1TWs2RGdBalBWLUdjZDJleFdfNFU0d05MZGZWZ0JBUE1GMmFYYVNXY0hyZjlhaUF5SlhtNW9qTHN1VVFkLWZEY2o?oc=5",
-   "ts": "Tue, 10 Nov 2026 11:00:08 GMT"
+   "title": "Trump Trade Adviser Says 'We Are Quadrupling Down On Tariffs' After The GOP Lost Congress. Here's What Yale Budget Lab Says Tariffs Cost The Average American Household - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOUUJkNl82QWdTaU0zSFpYb3o1Ym9HdDB6YzVtaEpoNFRGeDlKVVFMbFZuRVh2T2d4a2tGbUZUSEJoU0VBSEVnamVCWlpUdWhPaDYxMXZtOXFlbUR6Y01sdWxiZGczUlVwaHJlbERkLTNZUHlnTTNDSFZPNnptY28zQ1RDQzlKalBHY181S3hhX0dMdXo0T2pfb2VVNXE4VHQ4RjNOWDVRVG50UkI3VjROWnVvOWgzYVdLV1V2UXBoZHhIRF9ZSFBxb1BjODFRYmYzb3BxRmpuVWxRWGU3MlpFQmRWWlFnSVBmSnk5Zm13bG1WYXQzdVo1M1d3akR6dDdram9wTlV4X3hnT2ZMNE11STNYNzdsSTVkX2J5LUJ5LU1GaEVoQjJiOHpELTNtWldm?oc=5",
+   "ts": "Tue, 10 Nov 2026 10:36:00 GMT"
   }
  ]
 }

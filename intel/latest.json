@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-11T23:15:16Z",
+ "ts": "2026-11-11T23:30:19Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -10,8 +10,9 @@
    "n": 10
   },
   "fed": {
-   "ok": true,
-   "n": 20
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 404: Not Found"
   },
   "reuters": {
    "ok": false,
@@ -33,8 +34,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -219,126 +221,6 @@
    "ts": "Wed, 21 Oct 2026 23:05:13 +0000"
   },
   {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-   "ts": "Mon, 9 Nov 2026 21:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
-   "ts": "Thu, 5 Nov 2026 16:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
-   "ts": "Thu, 29 Oct 2026 20:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve issues FOMC statement",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-   "ts": "Wed, 28 Oct 2026 18:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
-   "ts": "Fri, 16 Oct 2026 15:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-   "ts": "Tue, 13 Oct 2026 18:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-   "ts": "Fri, 9 Oct 2026 14:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity rel",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-   "ts": "Thu, 8 Oct 2026 20:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-   "ts": "Wed, 7 Oct 2026 18:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
-   "ts": "Mon, 5 Oct 2026 20:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-   "ts": "Fri, 2 Oct 2026 20:45:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-   "ts": "Fri, 2 Oct 2026 20:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
-   "ts": "Fri, 2 Oct 2026 15:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-   "ts": "Wed, 30 Sep 2026 13:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
-   "ts": "Tue, 29 Sep 2026 20:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
-   "ts": "Fri, 25 Sep 2026 20:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
-   "ts": "Thu, 24 Sep 2026 18:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
-   "ts": "Thu, 24 Sep 2026 15:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
-   "ts": "Tue, 22 Sep 2026 20:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
-   "ts": "Fri, 18 Sep 2026 15:00:00 GMT"
-  },
-  {
    "src": "gnews",
    "title": "Why China’s $1 trillion trade surplus isn’t all good news for its economy - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZV95STRtMWZoX0pmMWxWa3JBcVZsRFdoNERTNU9uTTNFYjBRb2RYY2NFZ1R5cEtDV2R6Y0ZwMG42TVNGVk1NR3EzS0FLUmpJWDJoMVVNWXFSenU3Q2ZSYjJwb0taaVh2NmxkQ29jc2FSaGd2ZlpNYWk1Z0FGMUljSGo3UnBjVGEwYktIbjV6YndCcFNPU3EyM0VZMzRJendqUEpVVVdtdS02dUkxaXU5NG9uRnowUdIBuwFBVV95cUxPMHhkXzZLYjk1SDNuOF80RGNKdF9YVEVVd0hVb3lsbzRYU0NJRi1LRFUwN3ZWRjJ2V0o1Tldpa3Y0RTRYM0NjQ29TZEluNjZPRmxjMkg5UzVzUGxJMUhtdi1tSlBFS2J5Nnp6RlJKSjNVLWsycWhfSUtuWnBuOXpiODdKRE02TDF6T29NcWxxQ1RTX0F4Qm5JdXowUWZoN0JFRnN4SUNnN1lETFNHRmRLTWdlNTYydnNuSHRZ?oc=5",
@@ -424,15 +306,15 @@
   },
   {
    "src": "gnews",
-   "title": "Deal vs deal? US, China trade calls to honour commitments before Xi-Trump summit - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUE9IeC1zRXNEQ2QwSDA1b3NZR0Z1OXB3RW96SzNaZGRmOXNOMjdMYmpFTzAwYTFsUU1pN05GYXIzWlZqX1VYV3ZJbW4xNFdxU2dsenZHbTM1QmU0cEh4cUlNdG5ULXRCSXNsbEhCQTljbzdENEpKYnUxVWJqdjRHT2tHSUlKMDFCUXJ0OGEzTlVIR1hrUUJVSjRVQmFud3JSMG9ma0tjUVp3NTd4T0c0S2lBUlZFNGRObHJqekVTRS3SAcABQVVfeXFMTWlaT3FKN2dWcVMxb1ZMcm1OTkg0aC1FeHY4SFNibU1fRnh1X01fckZMLUtvNDNMa1ZKZ3NzUm8tVFZCWlZQa2xNYTd4R0Q0b213RE9MMXVDUlBkZnFGcEZaMktYQXpnaXVGd0paV0FhNTdMS1YtNWQzclM2WkJldWZPOFRiR3B6dUJJVEx0VVJlRzBUWkhLT2gzZFE5NFNpOFlVcHk3T25ZNUk5cTY1Qi1NVEJEbS0taUNtOW5CMWpJ?oc=5",
-   "ts": "Wed, 11 Nov 2026 02:34:23 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s passenger car exports surge in October as domestic demand remains weak - myMotherLode.com",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX09pYno5NjJjOEEtU2Jid3kyUnh4bmRjSTdLY1JvUHJwTGw2R0pFUHRWZ2Q0dnZmWTlTNG4wWTNnXzlGXzl3dTFyb3BfTmtIcHJyU0ZmaTI4d3Bad3BHZnZhOEkxZXpMWlhJLTlIZlpSODJtcDBJZndzVW94aF9oc2VCQ1d1SllsdGlURTkyckk1RzJfcDlmNWZrTjduNnAtQkUwUlNyUG1oRWRXVkxEVnVpcTJULWRFd2N5Yml3dUxYZk4yLVHSAcsBQVVfeXFMUENmaDZ1bG1rZWxTOURYQUtEUko0RHBoR1RZOUZsZmFlU202Y25WOHlJdUQ2aG5ISlVydnBWZ3psRkdWN1k2LWJmWjFMSDBuVG5vaTNXX3RDQUk3YkJqb3FIUUpXb2ZOdy1leDBRZk14dlpvSFFHZHJBakpjWXpKMmM1N3Q4Sk5Vakpnd2RzRFptNkUyTzRGbEpDUVQyV1hVMlZmRWZIbFZHdTlEYUtOWEdKMS00Zy1kWk9XbFBualhaZGdnaGw5NFUzcXc?oc=5",
    "ts": "Wed, 11 Nov 2026 12:20:25 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Deal vs deal? US, China trade calls to honour commitments before Xi-Trump summit - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUE9IeC1zRXNEQ2QwSDA1b3NZR0Z1OXB3RW96SzNaZGRmOXNOMjdMYmpFTzAwYTFsUU1pN05GYXIzWlZqX1VYV3ZJbW4xNFdxU2dsenZHbTM1QmU0cEh4cUlNdG5ULXRCSXNsbEhCQTljbzdENEpKYnUxVWJqdjRHT2tHSUlKMDFCUXJ0OGEzTlVIR1hrUUJVSjRVQmFud3JSMG9ma0tjUVp3NTd4T0c0S2lBUlZFNGRObHJqekVTRS3SAcABQVVfeXFMTWlaT3FKN2dWcVMxb1ZMcm1OTkg0aC1FeHY4SFNibU1fRnh1X01fckZMLUtvNDNMa1ZKZ3NzUm8tVFZCWlZQa2xNYTd4R0Q0b213RE9MMXVDUlBkZnFGcEZaMktYQXpnaXVGd0paV0FhNTdMS1YtNWQzclM2WkJldWZPOFRiR3B6dUJJVEx0VVJlRzBUWkhLT2gzZFE5NFNpOFlVcHk3T25ZNUk5cTY1Qi1NVEJEbS0taUNtOW5CMWpJ?oc=5",
+   "ts": "Wed, 11 Nov 2026 02:34:23 GMT"
   },
   {
    "src": "gnews",
@@ -457,126 +339,6 @@
    "title": "Unstoppable Record: China's Trade Surplus Tops $1 Trillion, Powered by the AI Hardware Boom - Latin Times",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUmFudE0wVFdoZzVQNlBNUDRCR3BibnBBY1ZPMllQdDh3NVNkSXJTR3Zfb3IzLXBsakliUHQtSUFMLTVYeWRiUmt5Z1B2ZGJ4MUwzV0JQOWc4eE13RjVjeFlhRzllcllxS2RTM2huUlB3ZEFBVlNuWVZfT3Rrd3FjWmdmUkFpa3Ny?oc=5",
    "ts": "Wed, 11 Nov 2026 12:34:54 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Immigration arrests go on unabated after GOP midterm wipeout",
-   "url": "https://www.wokv.com/news/national/immigration-arrests/C5RMEWOR7Q3OFGD5V4BJOAI5VQ/",
-   "ts": "20261111T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Federal government failed to hold Epstein accountable , Republican committee says",
-   "url": "https://www.wvtf.org/2026-11-10/federal-government-failed-to-hold-epstein-accountable-republican-committee-says",
-   "ts": "20261111T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Treasury Secretary Scott Bessent calls for more balanced US - China trade ties ahead of Trump - Xi talks",
-   "url": "http://www.cecildaily.com/ap/nation/treasury-secretary-scott-bessent-calls-for-more-balanced-us-china-trade-ties-ahead-of-trump/article_f0b5c6af-43c8-5dce-a2a5-0a286f8fe201.html",
-   "ts": "20261111T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US - China AI cooperation and competition : Bessent",
-   "url": "https://www.chinatechnews.com/2026/11/11/132538-us-china-ai-cooperation-and-competition-bessent",
-   "ts": "20261111T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "After Brazil election , Lula national address pledges austerity and police repression",
-   "url": "https://www.wsws.org/en/articles/2026/11/11/tnjm-n11.html",
-   "ts": "20261111T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "House votes to set aside Hegseth impeachment",
-   "url": "https://www.wsws.org/en/articles/2026/11/11/wdrd-n11.html",
-   "ts": "20261111T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Nvidia board backs Huang as spy probe raises questions",
-   "url": "http://www.taiwansun.com/news/279422428/nvidia-board-backs-huang-as-spy-probe-raises-questions",
-   "ts": "20261111T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump private message to Biden emerges in new memoir",
-   "url": "https://www.wmtw.com/article/trump-letter-to-joe-biden-white-house-book/74394674",
-   "ts": "20261111T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Biden Reveals Trump Message In 2021 Letter",
-   "url": "https://wsyr.iheart.com/content/2026-11-11-biden-reveals-trumps-message-in-2021-letter/",
-   "ts": "20261111T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Amazon peut - il imposer ses robots patrouilleurs dans les entreprises et les foyers ? ",
-   "url": "https://www.generation-nt.com/actualites/amazon-robots-patrouilleurs-entreprises-foyers-2084293",
-   "ts": "20261111T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Carburants en Seine - et - Marne : où faire le plein dessence ou de gazole au meilleur prix ce mercredi 11 novembre ? ",
-   "url": "https://www.leparisien.fr/economie/consommation/carburants-en-seine-et-marne-ou-faire-le-plein-dessence-ou-de-gazole-au-meilleur-prix-ce-mercredi-11-novembre-11-11-2026-XRH72TOYY5G37OSLDJ4UPQSJMQ.php",
-   "ts": "20261111T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "House Blocks Impeachment Effort Against Hegseth",
-   "url": "https://650keni.iheart.com/content/2026-11-11-house-blocks-impeachment-effort-against-hegseth/",
-   "ts": "20261111T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Prix des carburants dans le Val - dOise : où trouver les stations les moins chères ce mercredi 11 novembre ? ",
-   "url": "https://www.leparisien.fr/economie/consommation/carburants-dans-le-val-doise-ou-faire-le-plein-dessence-ou-de-gazole-au-meilleur-prix-ce-mercredi-11-novembre-11-11-2026-CKDZ5G26SZA5DEO5DKKW6IWZDU.php",
-   "ts": "20261111T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "U . S . stocks slide Tuesday as sell - off in Nvidia extends",
-   "url": "http://www.indiagazette.com/news/279424719/u-s-stocks-slide-tuesday-as-sell-off-in-nvidia-extends",
-   "ts": "20261111T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " [ 미국 특징주 ]  골드만 , 앤스로픽 2030년 매출액 작년 150배 추정  ",
-   "url": "https://www.newspim.com/news/view/20261111000211",
-   "ts": "20261111T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties",
-   "url": "https://ksevradio.com/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/",
-   "ts": "20261111T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Florida court rules Donald Trump defamation case against BBC can proceed",
-   "url": "https://www.gazetteseries.co.uk/news/national/26718032.florida-court-rules-donald-trumps-defamation-case-bbc-can-proceed/",
-   "ts": "20261111T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump private message to Biden emerges in new memoir",
-   "url": "https://www.koat.com/article/trump-letter-to-joe-biden-white-house-book/74394674",
-   "ts": "20261111T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Tanker involved in incident in Strait of Hormuz : united kingdom maritime agency",
-   "url": "https://tribune.com.pk/story/2639736/tanker-involved-in-incident-in-strait-of-hormuz-uk-maritime-agency",
-   "ts": "20261111T063000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US beef market leads Australian exports despite softer demand | North Queensland Register",
-   "url": "https://www.northqueenslandregister.com.au/story/9388746/us-beef-market-leads-australian-exports-despite-softer-demand/",
-   "ts": "20261111T063000Z"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-11T12:30:24Z",
+ "ts": "2026-11-11T12:45:19Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -389,6 +389,12 @@
   },
   {
    "src": "gnews",
+   "title": "China’s passenger car exports surge in October as domestic demand remains weak - myMotherLode.com",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX09pYno5NjJjOEEtU2Jid3kyUnh4bmRjSTdLY1JvUHJwTGw2R0pFUHRWZ2Q0dnZmWTlTNG4wWTNnXzlGXzl3dTFyb3BfTmtIcHJyU0ZmaTI4d3Bad3BHZnZhOEkxZXpMWlhJLTlIZlpSODJtcDBJZndzVW94aF9oc2VCQ1d1SllsdGlURTkyckk1RzJfcDlmNWZrTjduNnAtQkUwUlNyUG1oRWRXVkxEVnVpcTJULWRFd2N5Yml3dUxYZk4yLVHSAcsBQVVfeXFMUENmaDZ1bG1rZWxTOURYQUtEUko0RHBoR1RZOUZsZmFlU202Y25WOHlJdUQ2aG5ISlVydnBWZ3psRkdWN1k2LWJmWjFMSDBuVG5vaTNXX3RDQUk3YkJqb3FIUUpXb2ZOdy1leDBRZk14dlpvSFFHZHJBakpjWXpKMmM1N3Q4Sk5Vakpnd2RzRFptNkUyTzRGbEpDUVQyV1hVMlZmRWZIbFZHdTlEYUtOWEdKMS00Zy1kWk9XbFBualhaZGdnaGw5NFUzcXc?oc=5",
+   "ts": "Wed, 11 Nov 2026 12:20:25 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "U.S. Container Imports Hit Record High as China Trade Surges, Port Delays Mount - MarineLink",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaS1qcE5nT2NfNWlFRFdKTHJXNVVqX3d1aDdyUTVEdjh0QlRGOFNVVl9LZ1k5blh0ZVk3cjE4cERCOWpHUzdpVWprM0txXzJBSUtXWnZkVFlvLWdDekt0Vm1fTFNfbkVnWmU0c2lYb2JkT1RfSWRZYkk5ZG1UbEY3SA?oc=5",
    "ts": "Wed, 11 Nov 2026 11:47:23 GMT"
@@ -397,7 +403,7 @@
    "src": "gnews",
    "title": "Nvidia spy scandal exposes Singapore’s role in China’s AI chip trade - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWc2RWkwdFhTMDdpYjlfY1pQcWNnVkVDYXBYZmtEUEJVQkVpYmtZZlNpNmRIa2duTy1zeUtONHZ4eGx1UmgzbkctUHhxNERXSTJCVWhhU1BkVmhxc1FRalBONUdZS3lzc0ZTMlBZOXhUbVVzUFBXb29qOVp6N2hickhiOXU?oc=5",
-   "ts": "Wed, 11 Nov 2026 05:00:22 GMT"
+   "ts": "Wed, 11 Nov 2026 05:00:41 GMT"
   },
   {
    "src": "gnews",
@@ -452,12 +458,6 @@
    "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices - CNBC",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaFdhSXUwZmVuNVZuLXZleE84ak1aVEFJMWVJWnU5OXc1dlpsSTMwckVzVTBGNWdtOGp5SGVLV1BJS21lYlpPV1pFVTNBTnBlbjdqbFpUUDNHZHNNTXBTY3daV2JVS2FPZHpYbmJFSFEtTWhPV1dJaFUwSExnVW9VMDRrM05BQQ?oc=5",
    "ts": "Tue, 10 Nov 2026 20:28:02 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - The Killeen Daily Herald",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMktCWGxjdGFuLWhFQXZWb3BFT0V5RUoxY1R6ZHhkMThWR1RnN0hGRnNlYWM4NEFnbFhYbldSNnRGVkJHcEhpOFV2T214RF92OE1QV3hRbVBaMnZ5S0VSdXVDM3dVTnlLMmZSbXFfQ1JUWlRWNlh5VHdMeDZTQUpHYkpXeVM0ZDVhWmdjTm1ncEtTZ2JhUFRQRUFEOWFKVWc3WkpSNWdmMWxQczhPUnBsOVRKLWVpZkhJUEdqWFFaRW1YTWw3LWprR01TbFpFMW51ZnhUNjdTenVhaDdMNkVmVk9EQ2NTTjZmOEM2OTMyZkFhYVVtczNsMDRwUFhoR09aZl9V?oc=5",
-   "ts": "Wed, 11 Nov 2026 02:28:44 GMT"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-11T09:00:19Z",
+ "ts": "2026-11-11T09:15:17Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -359,15 +358,15 @@
   },
   {
    "src": "gnews",
-   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - WRAL",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdVZqSFA4bFhBbTU0Q3lXYjlDVGllaXIwUzJzUGl2dEVyYnJkLWk1aGw1TmRMMHdNOEdvVmdYUlozVFRhdFNaZC1jLTVKN1ktNjlwZTYwaEdqTVB5bHB0MUpmRWIzRGFsVnUzSnU0SkZVZmZzcjROeWJDeHdOaG1XcU1aaG85MU5aR0JJUzJqR1VYdDFWRGdYYV9yZTZsQzNLc0NhcTFWOEp0Z0NuZDhaRk1PSUdFMFNwTVZjR0RiYlRaRk9jdFQ2elRNc0JVZWNtUGc?oc=5",
-   "ts": "Wed, 11 Nov 2026 02:35:37 GMT"
+   "title": "Why China’s $1 trillion trade surplus isn’t all good news for its economy - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZV95STRtMWZoX0pmMWxWa3JBcVZsRFdoNERTNU9uTTNFYjBRb2RYY2NFZ1R5cEtDV2R6Y0ZwMG42TVNGVk1NR3EzS0FLUmpJWDJoMVVNWXFSenU3Q2ZSYjJwb0taaVh2NmxkQ29jc2FSaGd2ZlpNYWk1Z0FGMUljSGo3UnBjVGEwYktIbjV6YndCcFNPU3EyM0VZMzRJendqUEpVVVdtdS02dUkxaXU5NG9uRnowUdIBuwFBVV95cUxPMHhkXzZLYjk1SDNuOF80RGNKdF9YVEVVd0hVb3lsbzRYU0NJRi1LRFUwN3ZWRjJ2V0o1Tldpa3Y0RTRYM0NjQ29TZEluNjZPRmxjMkg5UzVzUGxJMUhtdi1tSlBFS2J5Nnp6RlJKSjNVLWsycWhfSUtuWnBuOXpiODdKRE02TDF6T29NcWxxQ1RTX0F4Qm5JdXowUWZoN0JFRnN4SUNnN1lETFNHRmRLTWdlNTYydnNuSHRZ?oc=5",
+   "ts": "Wed, 11 Nov 2026 08:36:09 GMT"
   },
   {
    "src": "gnews",
-   "title": "Why China’s $1 trillion trade surplus isn’t all good news for its economy - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZV95STRtMWZoX0pmMWxWa3JBcVZsRFdoNERTNU9uTTNFYjBRb2RYY2NFZ1R5cEtDV2R6Y0ZwMG42TVNGVk1NR3EzS0FLUmpJWDJoMVVNWXFSenU3Q2ZSYjJwb0taaVh2NmxkQ29jc2FSaGd2ZlpNYWk1Z0FGMUljSGo3UnBjVGEwYktIbjV6YndCcFNPU3EyM0VZMzRJendqUEpVVVdtdS02dUkxaXU5NG9uRnowUdIBuwFBVV95cUxPMHhkXzZLYjk1SDNuOF80RGNKdF9YVEVVd0hVb3lsbzRYU0NJRi1LRFUwN3ZWRjJ2V0o1Tldpa3Y0RTRYM0NjQ29TZEluNjZPRmxjMkg5UzVzUGxJMUhtdi1tSlBFS2J5Nnp6RlJKSjNVLWsycWhfSUtuWnBuOXpiODdKRE02TDF6T29NcWxxQ1RTX0F4Qm5JdXowUWZoN0JFRnN4SUNnN1lETFNHRmRLTWdlNTYydnNuSHRZ?oc=5",
-   "ts": "Wed, 11 Nov 2026 08:30:24 GMT"
+   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - WRAL",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdVZqSFA4bFhBbTU0Q3lXYjlDVGllaXIwUzJzUGl2dEVyYnJkLWk1aGw1TmRMMHdNOEdvVmdYUlozVFRhdFNaZC1jLTVKN1ktNjlwZTYwaEdqTVB5bHB0MUpmRWIzRGFsVnUzSnU0SkZVZmZzcjROeWJDeHdOaG1XcU1aaG85MU5aR0JJUzJqR1VYdDFWRGdYYV9yZTZsQzNLc0NhcTFWOEp0Z0NuZDhaRk1PSUdFMFNwTVZjR0RiYlRaRk9jdFQ2elRNc0JVZWNtUGc?oc=5",
+   "ts": "Wed, 11 Nov 2026 02:35:37 GMT"
   },
   {
    "src": "gnews",
@@ -401,27 +400,21 @@
   },
   {
    "src": "gnews",
-   "title": "Without US action on China’s innovation blitz, biotech leaders see a Rust Belt future - BioSpace",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRG43TVpRUmc0eVlOUTJTdmE5bWNzeHlxb1NYaDRRVEFvNmFQY1cxLTlQa1dIckhYSDViSFFBd2xZTDk0ck1hNGVfM0NBWkxiVGx5LS0tQ29CR0IzSllEcVJUaXZjbFZZSzB0NllQal9OUlhuM1FEUzFsUWVCU1A3SnVPSjJIOHpCemZRckt4R29XS0hqMUlMaGpWemd6THl4R1JqeFNhR1dZeUpDV0tXYWFPRGx2WlpU?oc=5",
-   "ts": "Wed, 11 Nov 2026 05:37:30 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - Chattanooga Times Free Press",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdlcxNjZ4dTRWTTdzZ01TWFNhZUFmMHV4TzkxODNpSEljb1VOWE4zdEx0SVJIYlR1LUZuNV9JZDlIU0lPVlVkN0dlbk55b294WERBU1I4QXQ4OVNRREh5a0JYMFZTT1FzMTN1YzVmUTlraENkYWhfcXZaZnd2bF8zbnpRcFZJTFRMTGltX00xbWRMWXFFdlBRV19GSjNpZXRsVXFQM2R2c3lhQU5zU2p1c01RMWJzamNkMFZkNl9vRmdZMW1DOE41MkE1SkdwS1E?oc=5",
    "ts": "Wed, 11 Nov 2026 03:40:42 GMT"
   },
   {
    "src": "gnews",
-   "title": "AI Boom Helps Fuel China Exports, Pushing Trade Surplus Above $1 Trillion - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFZ3N2Um5fYmdDcnFhUVphOTNBeDhjR2J3Y2hsa1lSaXFvMzNRZndtbEtWbk5UUm9tNmdJdDQzV2txMFZfVzRsVjZ3bWszTi1pX2xIRXhPV2ZuOXRkVVRXVjY2dlVfRURQWlFxWm0zaEstMzJqRUdJRWtmMlpZQQ?oc=5",
-   "ts": "Tue, 10 Nov 2026 12:00:01 GMT"
+   "title": "Watch Citi's Poon Werkun on AI Trade, Fed, China - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY0xmT2J6MG9xWlVCQ0ZGU255SDFhYzFwc1poTHVmYk9Eem5LQ0RlTnVncnEwTFVxX1lISkw0RFFQLW9rVElwUkJnZmV2NFhWLUcyS3ZLdzdrUVpuSllMOExmeFpXRkJKVVFkRVBlSkhJZERsRG9va3lXTXBhN0FzZXRHMjdjNG1HMGpJR0ZZcXJ3ZXRNQUdxXzdlYw?oc=5",
+   "ts": "Wed, 11 Nov 2026 00:00:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "China's undervalued currency is driving its trade surplus higher - Peterson Institute for International Economics",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnkzZE15TVlhc1FHU1hzOFJXNklMWERBbUpCSVNLVUw1OFdSS25xOEdZSEY5bXNjclhEWnFCcXF4WUJmUDRyTWpnMWdoMmRyWXVTYkYtUFhmellzaDJUeUladm4zcDYwWEw2eWpLVjQzZVl3c3o5VFZHM2NnM2R6YVJMS1Qtd1d6LVRkMmZtbFZtOHl3cExTTHBwNlhsZVRETVEyWk9ZLUdBQmp3dGNycQ?oc=5",
-   "ts": "Mon, 09 Nov 2026 14:00:00 GMT"
+   "title": "Without US action on China’s innovation blitz, biotech leaders see a Rust Belt future - BioSpace",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRG43TVpRUmc0eVlOUTJTdmE5bWNzeHlxb1NYaDRRVEFvNmFQY1cxLTlQa1dIckhYSDViSFFBd2xZTDk0ck1hNGVfM0NBWkxiVGx5LS0tQ29CR0IzSllEcVJUaXZjbFZZSzB0NllQal9OUlhuM1FEUzFsUWVCU1A3SnVPSjJIOHpCemZRckt4R29XS0hqMUlMaGpWemd6THl4R1JqeFNhR1dZeUpDV0tXYWFPRGx2WlpU?oc=5",
+   "ts": "Wed, 11 Nov 2026 05:37:30 GMT"
   },
   {
    "src": "gnews",
@@ -431,9 +424,9 @@
   },
   {
    "src": "gnews",
-   "title": "China’s trade surplus soars past $1T - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEhtRkVwYWNDRlNwRkg1eTIxTFpod0NYQ1lLdjFldWN2eHpscUFyQjYyNHdvMEJJTHRmWkVaOXBhN0JXU3lta25ValdOaEdubllvb1ljTmtjcEh4T3JKYV85MDhoM1cyN1FfODR2ckpycFpBWDhuOTlSdEJaY0s4SnhlMkR5ZGl4eG5RVkdCVGJCU3E0endCcXJucw?oc=5",
-   "ts": "Tue, 10 Nov 2026 12:24:30 GMT"
+   "title": "China's undervalued currency is driving its trade surplus higher - Peterson Institute for International Economics",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnkzZE15TVlhc1FHU1hzOFJXNklMWERBbUpCSVNLVUw1OFdSS25xOEdZSEY5bXNjclhEWnFCcXF4WUJmUDRyTWpnMWdoMmRyWXVTYkYtUFhmellzaDJUeUladm4zcDYwWEw2eWpLVjQzZVl3c3o5VFZHM2NnM2R6YVJMS1Qtd1d6LVRkMmZtbFZtOHl3cExTTHBwNlhsZVRETVEyWk9ZLUdBQmp3dGNycQ?oc=5",
+   "ts": "Mon, 09 Nov 2026 14:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -443,21 +436,147 @@
   },
   {
    "src": "gnews",
-   "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaFdhSXUwZmVuNVZuLXZleE84ak1aVEFJMWVJWnU5OXc1dlpsSTMwckVzVTBGNWdtOGp5SGVLV1BJS21lYlpPV1pFVTNBTnBlbjdqbFpUUDNHZHNNTXBTY3daV2JVS2FPZHpYbmJFSFEtTWhPV1dJaFUwSExnVW9VMDRrM05BQQ?oc=5",
-   "ts": "Tue, 10 Nov 2026 20:28:02 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s trade surplus exceeds $1tn for first 10 months of year - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmpqbG1WMjVjVGtaTmdwR2hnbkJ0OWxiS2NZNXVWSklHZDNoZTR6eXZXTWhTZHdIeUg1elJYLUNaNGhMNHB4dGVUMnBJMlNTVVpmSVBoX3o2Z1JTTFZKa3VTVVlnQkNtZk54VVEwdWVQMjhkakJGbXpiYU94YVdPSmdzYl8?oc=5",
    "ts": "Tue, 10 Nov 2026 06:09:45 GMT"
   },
   {
    "src": "gnews",
+   "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaFdhSXUwZmVuNVZuLXZleE84ak1aVEFJMWVJWnU5OXc1dlpsSTMwckVzVTBGNWdtOGp5SGVLV1BJS21lYlpPV1pFVTNBTnBlbjdqbFpUUDNHZHNNTXBTY3daV2JVS2FPZHpYbmJFSFEtTWhPV1dJaFUwSExnVW9VMDRrM05BQQ?oc=5",
+   "ts": "Tue, 10 Nov 2026 20:28:02 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "AI Boom Helps Fuel China Exports, Pushing Trade Surplus Above $1 Trillion - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFZ3N2Um5fYmdDcnFhUVphOTNBeDhjR2J3Y2hsa1lSaXFvMzNRZndtbEtWbk5UUm9tNmdJdDQzV2txMFZfVzRsVjZ3bWszTi1pX2xIRXhPV2ZuOXRkVVRXVjY2dlVfRURQWlFxWm0zaEstMzJqRUdJRWtmMlpZQQ?oc=5",
+   "ts": "Tue, 10 Nov 2026 12:00:01 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Canada Signs New Deals With China After Trump Drops Trade Demand - Newsweek",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS3pQMVV1M2ZfcjF4OExma2lteTJDMkF3ZzdNZXdPY21KMHVpYklwb2RJcFhoTVJBZ0ppd1NTVm5oMHhZd1dMOXZ1bUZRZ2hCRVN4ejRoUmdLYjJkVVJaaVc0TWRmYUg3ekl3WE1lSEY3UmJldXppLVg0YkI3YTVXakVVNDM0WHlPcFp3?oc=5",
    "ts": "Tue, 10 Nov 2026 13:03:00 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Immigration arrests go on unabated after GOP midterm wipeout",
+   "url": "https://www.wokv.com/news/national/immigration-arrests/C5RMEWOR7Q3OFGD5V4BJOAI5VQ/",
+   "ts": "20261111T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Federal government failed to hold Epstein accountable , Republican committee says",
+   "url": "https://www.wvtf.org/2026-11-10/federal-government-failed-to-hold-epstein-accountable-republican-committee-says",
+   "ts": "20261111T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Treasury Secretary Scott Bessent calls for more balanced US - China trade ties ahead of Trump - Xi talks",
+   "url": "http://www.cecildaily.com/ap/nation/treasury-secretary-scott-bessent-calls-for-more-balanced-us-china-trade-ties-ahead-of-trump/article_f0b5c6af-43c8-5dce-a2a5-0a286f8fe201.html",
+   "ts": "20261111T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US - China AI cooperation and competition : Bessent",
+   "url": "https://www.chinatechnews.com/2026/11/11/132538-us-china-ai-cooperation-and-competition-bessent",
+   "ts": "20261111T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "After Brazil election , Lula national address pledges austerity and police repression",
+   "url": "https://www.wsws.org/en/articles/2026/11/11/tnjm-n11.html",
+   "ts": "20261111T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "House votes to set aside Hegseth impeachment",
+   "url": "https://www.wsws.org/en/articles/2026/11/11/wdrd-n11.html",
+   "ts": "20261111T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Nvidia board backs Huang as spy probe raises questions",
+   "url": "http://www.taiwansun.com/news/279422428/nvidia-board-backs-huang-as-spy-probe-raises-questions",
+   "ts": "20261111T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump private message to Biden emerges in new memoir",
+   "url": "https://www.wmtw.com/article/trump-letter-to-joe-biden-white-house-book/74394674",
+   "ts": "20261111T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Biden Reveals Trump Message In 2021 Letter",
+   "url": "https://wsyr.iheart.com/content/2026-11-11-biden-reveals-trumps-message-in-2021-letter/",
+   "ts": "20261111T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Amazon peut - il imposer ses robots patrouilleurs dans les entreprises et les foyers ? ",
+   "url": "https://www.generation-nt.com/actualites/amazon-robots-patrouilleurs-entreprises-foyers-2084293",
+   "ts": "20261111T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Carburants en Seine - et - Marne : où faire le plein dessence ou de gazole au meilleur prix ce mercredi 11 novembre ? ",
+   "url": "https://www.leparisien.fr/economie/consommation/carburants-en-seine-et-marne-ou-faire-le-plein-dessence-ou-de-gazole-au-meilleur-prix-ce-mercredi-11-novembre-11-11-2026-XRH72TOYY5G37OSLDJ4UPQSJMQ.php",
+   "ts": "20261111T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "House Blocks Impeachment Effort Against Hegseth",
+   "url": "https://650keni.iheart.com/content/2026-11-11-house-blocks-impeachment-effort-against-hegseth/",
+   "ts": "20261111T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Prix des carburants dans le Val - dOise : où trouver les stations les moins chères ce mercredi 11 novembre ? ",
+   "url": "https://www.leparisien.fr/economie/consommation/carburants-dans-le-val-doise-ou-faire-le-plein-dessence-ou-de-gazole-au-meilleur-prix-ce-mercredi-11-novembre-11-11-2026-CKDZ5G26SZA5DEO5DKKW6IWZDU.php",
+   "ts": "20261111T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "U . S . stocks slide Tuesday as sell - off in Nvidia extends",
+   "url": "http://www.indiagazette.com/news/279424719/u-s-stocks-slide-tuesday-as-sell-off-in-nvidia-extends",
+   "ts": "20261111T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": " [ 미국 특징주 ]  골드만 , 앤스로픽 2030년 매출액 작년 150배 추정  ",
+   "url": "https://www.newspim.com/news/view/20261111000211",
+   "ts": "20261111T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties",
+   "url": "https://ksevradio.com/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/",
+   "ts": "20261111T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Florida court rules Donald Trump defamation case against BBC can proceed",
+   "url": "https://www.gazetteseries.co.uk/news/national/26718032.florida-court-rules-donald-trumps-defamation-case-bbc-can-proceed/",
+   "ts": "20261111T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump private message to Biden emerges in new memoir",
+   "url": "https://www.koat.com/article/trump-letter-to-joe-biden-white-house-book/74394674",
+   "ts": "20261111T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Tanker involved in incident in Strait of Hormuz : united kingdom maritime agency",
+   "url": "https://tribune.com.pk/story/2639736/tanker-involved-in-incident-in-strait-of-hormuz-uk-maritime-agency",
+   "ts": "20261111T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US beef market leads Australian exports despite softer demand | North Queensland Register",
+   "url": "https://www.northqueenslandregister.com.au/story/9388746/us-beef-market-leads-australian-exports-despite-softer-demand/",
+   "ts": "20261111T063000Z"
   }
  ]
 }

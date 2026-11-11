@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-11T11:45:18Z",
+ "ts": "2026-11-11T12:00:24Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "err": "URLError: <urlopen error timed out>"
   }
  },
  "items": [
@@ -361,7 +361,7 @@
    "src": "gnews",
    "title": "Why China’s $1 trillion trade surplus isn’t all good news for its economy - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZV95STRtMWZoX0pmMWxWa3JBcVZsRFdoNERTNU9uTTNFYjBRb2RYY2NFZ1R5cEtDV2R6Y0ZwMG42TVNGVk1NR3EzS0FLUmpJWDJoMVVNWXFSenU3Q2ZSYjJwb0taaVh2NmxkQ29jc2FSaGd2ZlpNYWk1Z0FGMUljSGo3UnBjVGEwYktIbjV6YndCcFNPU3EyM0VZMzRJendqUEpVVVdtdS02dUkxaXU5NG9uRnowUdIBuwFBVV95cUxPMHhkXzZLYjk1SDNuOF80RGNKdF9YVEVVd0hVb3lsbzRYU0NJRi1LRFUwN3ZWRjJ2V0o1Tldpa3Y0RTRYM0NjQ29TZEluNjZPRmxjMkg5UzVzUGxJMUhtdi1tSlBFS2J5Nnp6RlJKSjNVLWsycWhfSUtuWnBuOXpiODdKRE02TDF6T29NcWxxQ1RTX0F4Qm5JdXowUWZoN0JFRnN4SUNnN1lETFNHRmRLTWdlNTYydnNuSHRZ?oc=5",
-   "ts": "Wed, 11 Nov 2026 08:36:09 GMT"
+   "ts": "Wed, 11 Nov 2026 08:42:04 GMT"
   },
   {
    "src": "gnews",
@@ -389,9 +389,21 @@
   },
   {
    "src": "gnews",
+   "title": "China’s Trade Surplus Surged Past $1 Trillion in October - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNEdJRlEzYnZIbVRkWi1rc252aE9SbXdwZDVnWGwtVnhfNzBKMWJRUHZDdWJlZno4MC1WVFhKc3JMQ05IUjFQQjlMcmd2QVBYNFhFaDZmMXo2WlgzU2hhQm1FYm9zZXRoLWdRazFLdUVkOXU5eU83X0VNNjNQVzhZZmpDS25FTDVSQlk1TjZtUlpZcnJZN0VaR0Nfbw?oc=5",
+   "ts": "Tue, 10 Nov 2026 04:04:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - The Seattle Times",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUndVcjlLOVlDZnV1TFJDeV9XczYwam1SM25vS19BM1Nwa0pRMUZNYTFpVnNVVmFzSDFrV3lmVjZLUjlnazZlTENvNE5QSkNxSFZ6SXl2NFBTNHZUbWQ3bmdLMEVfZnF2bDAtUjVuOTVPdFU1eEs3RFJNV3ZPOXB1MUxlV3YtTnBXSElhMVRpcWo2OXJKZlZOX3BZWG43NjFGTk91LTEtVlhUczh1b0dHaXh3QS1TVXBXWVBXMDEtUHllRUF6S09ZLXV2eFpGakw4WEVFbFhn?oc=5",
    "ts": "Wed, 11 Nov 2026 02:29:12 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "U.S. Container Imports Hit Record High as China Trade Surges, Port Delays Mount - MarineLink",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaS1qcE5nT2NfNWlFRFdKTHJXNVVqX3d1aDdyUTVEdjh0QlRGOFNVVl9LZ1k5blh0ZVk3cjE4cERCOWpHUzdpVWprM0txXzJBSUtXWnZkVFlvLWdDekt0Vm1fTFNfbkVnWmU0c2lYb2JkT1RfSWRZYkk5ZG1UbEY3SA?oc=5",
+   "ts": "Wed, 11 Nov 2026 11:47:23 GMT"
   },
   {
    "src": "gnews",
@@ -419,12 +431,6 @@
   },
   {
    "src": "gnews",
-   "title": "Watch Citi's Poon Werkun on AI Trade, Fed, China - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY0xmT2J6MG9xWlVCQ0ZGU255SDFhYzFwc1poTHVmYk9Eem5LQ0RlTnVncnEwTFVxX1lISkw0RFFQLW9rVElwUkJnZmV2NFhWLUcyS3ZLdzdrUVpuSllMOExmeFpXRkJKVVFkRVBlSkhJZERsRG9va3lXTXBhN0FzZXRHMjdjNG1HMGpJR0ZZcXJ3ZXRNQUdxXzdlYw?oc=5",
-   "ts": "Wed, 11 Nov 2026 00:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "US and China should stay clear-eyed on AI cooperation and competition, Bessent says - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUdDU2JVSnpLTmIzYVRmNm5Wb2Y3UC1vVElXMTZwdlM4M2YwRGZKT2tkYXI5YVlzRk1GZm5HRmY3NDlPQm1UaC1McjQ3STR0ME1LeDJCQ2NPQlVyU1RBa0RkSUotV2tSWndkN3NiQmdsVFFoVENFUVdFTExITml0bnc3RVdGcU1mSTB1T1gzcHpWMUM4MXFnSm1oWTdhZ0I2TG11M1JBU0xfUUtYLTNDRlcxeFpWcWZSUFVz?oc=5",
    "ts": "Wed, 11 Nov 2026 01:25:00 GMT"
@@ -437,27 +443,21 @@
   },
   {
    "src": "gnews",
+   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - AP News",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzZvaHZqSTdNX2R6b1BzNzJKdnI4NDNacDYzdkhud2ZUcERRVlBjcTdsZWxBVDZZYUlaRFdDZlpyMHhSNEJfVUk0TG1HQTRMOWloMlR0QWdEakxjZEN5UV85a2hQa2NNYnlfcjNiU3A4cVdCVnQ1dzNMZW82cWNxU0RKVU9aTkpWQUtxNG85aG9KQQ?oc=5",
+   "ts": "Wed, 11 Nov 2026 02:28:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices - CNBC",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaFdhSXUwZmVuNVZuLXZleE84ak1aVEFJMWVJWnU5OXc1dlpsSTMwckVzVTBGNWdtOGp5SGVLV1BJS21lYlpPV1pFVTNBTnBlbjdqbFpUUDNHZHNNTXBTY3daV2JVS2FPZHpYbmJFSFEtTWhPV1dJaFUwSExnVW9VMDRrM05BQQ?oc=5",
    "ts": "Tue, 10 Nov 2026 20:28:02 GMT"
   },
   {
    "src": "gnews",
-   "title": "AI Boom Helps Fuel China Exports, Pushing Trade Surplus Above $1 Trillion - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFZ3N2Um5fYmdDcnFhUVphOTNBeDhjR2J3Y2hsa1lSaXFvMzNRZndtbEtWbk5UUm9tNmdJdDQzV2txMFZfVzRsVjZ3bWszTi1pX2xIRXhPV2ZuOXRkVVRXVjY2dlVfRURQWlFxWm0zaEstMzJqRUdJRWtmMlpZQQ?oc=5",
-   "ts": "Tue, 10 Nov 2026 12:00:01 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "EU manufacturers could give up on competing with China by 2030, warns commerce chief - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHlRN0liRTl3WUQxVlItUVFGNXJzbkliWnd3aVBKTVNGaW5ILWdNNVljWmZnbWxVcHY3OWxRRE9MSWJMZEJnamFTaTRodjdqVFR4VHNFR19DVWphcVJFMFFuU2l0MDJvNjRKMF8xSk1TWDdGUU02cW5fNHJqeXp4dUtXLV9iZW9vY2lSMkhB?oc=5",
    "ts": "Tue, 10 Nov 2026 06:02:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - Ottumwa Courier",
-   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQVXoxRnN5cnZRcjlBRjRaenA1ZzdJdHVaaTMtZTBxZFRvZDNQeXZlUV9WMk1kVVZpNkdaU1ZsTWhYMW9YbEJFQTVENVFZdXRNTTJpa2xIVzlSdUhRV3RpZi1CU2I1R3gwRmx4LXlOOHY5cEsydWY5TkgyTll6QjE2ek9oWHVjamtzREJ0NmgwVXJRd05oSjRiOG54U2ZMNUtXMm5QekN4RTcyYTlUZ05YekJCdTBqWURXZzB6WDhLd2hqeU5vSEp1Y1NlQ2k5VmJ4dUcwV2hFdnFuV08yTVNMd3RCRHlUeDVHRlpEcHdtMnN5dGxwUHQtRURDYjBPUWdsV3pqYnVzY2hNSVZlVTZrNVRVRmI?oc=5",
-   "ts": "Wed, 11 Nov 2026 02:28:44 GMT"
   }
  ]
 }

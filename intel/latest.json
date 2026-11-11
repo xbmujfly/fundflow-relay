@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-11T03:45:18Z",
+ "ts": "2026-11-11T04:00:21Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -458,6 +457,126 @@
    "title": "EU manufacturers could give up on competing with China by 2030, warns commerce chief - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHlRN0liRTl3WUQxVlItUVFGNXJzbkliWnd3aVBKTVNGaW5ILWdNNVljWmZnbWxVcHY3OWxRRE9MSWJMZEJnamFTaTRodjdqVFR4VHNFR19DVWphcVJFMFFuU2l0MDJvNjRKMF8xSk1TWDdGUU02cW5fNHJqeXp4dUtXLV9iZW9vY2lSMkhB?oc=5",
    "ts": "Tue, 10 Nov 2026 06:02:00 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Obsolete And Overdue : Withdrawing US Forces From The Gulf",
+   "url": "https://www.scoop.co.nz/stories/HL2611/S00028/obsolete-and-overdue-withdrawing-us-forces-from-the-gulf.htm",
+   "ts": "20261111T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Sanders , Slotkin Dont Support Chuck Schumer As Leader",
+   "url": "https://hotair.com/john-s-2/2026/11/10/sanders-slotkin-dont-support-chuck-schumer-as-leader-n3820875",
+   "ts": "20261111T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Florida court rules Donald Trump defamation case against BBC can proceed",
+   "url": "https://www.richmondandtwickenhamtimes.co.uk/news/national/26718032.florida-court-rules-donald-trumps-defamation-case-bbc-can-proceed/",
+   "ts": "20261111T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Could Be There Less Rather Than More to Wes Moore Thrilling Life Story",
+   "url": "https://hotair.com/tree-hugging-sister/2026/11/10/could-be-theres-less-rather-than-more-to-wes-moores-thrilling-life-story-n3820833",
+   "ts": "20261111T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Rubio pushes for united kingdom and European allies to have seat at Ukraine peace talks",
+   "url": "https://www.eastlondonadvertiser.co.uk/news/national/26717998.rubio-pushes-uk-european-allies-seat-ukraine-peace-talks/",
+   "ts": "20261111T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "New England governors urge Congress to provide $3 billion in additional heating assistance",
+   "url": "https://www.foxbangor.com/news/new-england-governors-urge-congress-to-provide-3-billion-in-additional-heating-assistance/article_863b0ecf-a6e3-4396-8915-236f03d55294.html",
+   "ts": "20261111T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Twice - deported illegal immigrant tried to breach United cockpit : DHS",
+   "url": "https://www.foxnews.com/us/twice-deported-illegal-immigrant-accused-trying-storm-united-cockpit-threatening-bomb-dhs",
+   "ts": "20261111T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Rubio : No further Iran military action needed ; Hegseth responds to  farce  – World Tribune : U . S . Politics and Culture , Geostrategy , China , North Korea , Corporate Watch , Media Watch",
+   "url": "https://worldtribune.com/rubio-no-further-iran-military-action-needed-hegseth-responds-to-farce/",
+   "ts": "20261111T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Florida court rules Donald Trump defamation case against BBC can proceed",
+   "url": "https://www.dudleynews.co.uk/news/national/26718032.florida-court-rules-donald-trumps-defamation-case-bbc-can-proceed/",
+   "ts": "20261111T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Illegals cheer midterm results as they head for the U . S . border",
+   "url": "https://worldtribune.com/illegals-cheer-midterm-results-as-they-head-for-the-u-s-border/",
+   "ts": "20261111T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "House Republicans quash effort to impeach US defence secretary Hegseth",
+   "url": "https://www.richmondandtwickenhamtimes.co.uk/news/national/26718015.house-republicans-quash-effort-impeach-us-defence-secretary-hegseth/",
+   "ts": "20261111T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Kennedy family members ask judge to block Trump memorial arch – NBC10 Philadelphia",
+   "url": "https://www.nbcphiladelphia.com/news/national-international/kennedy-family-members-trump-arch-lawsuit/4495265/",
+   "ts": "20261111T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "211票对204票 美国共和党阻挠弹劾国防部长 | 国际",
+   "url": "https://www.orientaldaily.com.my/news/international/2026/11/11/861912",
+   "ts": "20261111T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Florida court rules Donald Trump defamation case against BBC can proceed",
+   "url": "https://www.warringtonguardian.co.uk/news/national/26718032.florida-court-rules-donald-trumps-defamation-case-bbc-can-proceed/",
+   "ts": "20261111T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": " 【 桃色风暴间谍疑云 】 英伟达聘美最大律师楼之一 调查黄仁勋婚外情 | 国际",
+   "url": "https://www.orientaldaily.com.my/news/international/2026/11/11/861930",
+   "ts": "20261111T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Камарата на САЩ блокира импийчмънта на Хегсет",
+   "url": "https://fakti.bg/world/1099578-kamarata-na-predstavitelite-blokira-impiichmanta-na-hegset",
+   "ts": "20261111T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Federal government failed to hold Epstein accountable , Republican committee says",
+   "url": "https://www.knau.org/npr-news/2026-11-10/federal-government-failed-to-hold-epstein-accountable-republican-committee-says",
+   "ts": "20261111T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Japanese Market Notably Higher",
+   "url": "https://www.rttnews.com/3712775/japanese-market-notably-higher.aspx",
+   "ts": "20261111T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "최민희 , 사진기자에  하이에나 떼  표현 사과 ... 정점식  與 언론혐오 또 불거져  ",
+   "url": "https://www.newspim.com/news/view/20261111000667",
+   "ts": "20261111T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "House Republicans quash effort to impeach US defence secretary Hegseth",
+   "url": "https://www.tivysideadvertiser.co.uk/news/national/26718015.house-republicans-quash-effort-impeach-us-defence-secretary-hegseth/",
+   "ts": "20261111T030000Z"
   }
  ]
 }

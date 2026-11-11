@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-11T06:30:23Z",
+ "ts": "2026-11-11T06:45:17Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -395,15 +395,15 @@
   },
   {
    "src": "gnews",
-   "title": "AI Boom Helps Fuel China Exports, Pushing Trade Surplus Above $1 Trillion - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFZ3N2Um5fYmdDcnFhUVphOTNBeDhjR2J3Y2hsa1lSaXFvMzNRZndtbEtWbk5UUm9tNmdJdDQzV2txMFZfVzRsVjZ3bWszTi1pX2xIRXhPV2ZuOXRkVVRXVjY2dlVfRURQWlFxWm0zaEstMzJqRUdJRWtmMlpZQQ?oc=5",
-   "ts": "Tue, 10 Nov 2026 12:00:01 GMT"
+   "title": "Nvidia spy scandal exposes Singapore’s role in China’s AI chip trade - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWc2RWkwdFhTMDdpYjlfY1pQcWNnVkVDYXBYZmtEUEJVQkVpYmtZZlNpNmRIa2duTy1zeUtONHZ4eGx1UmgzbkctUHhxNERXSTJCVWhhU1BkVmhxc1FRalBONUdZS3lzc0ZTMlBZOXhUbVVzUFBXb29qOVp6N2hickhiOXU?oc=5",
+   "ts": "Wed, 11 Nov 2026 05:00:22 GMT"
   },
   {
    "src": "gnews",
-   "title": "Canada Signs New Deals With China After Trump Drops Trade Demand - Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS3pQMVV1M2ZfcjF4OExma2lteTJDMkF3ZzdNZXdPY21KMHVpYklwb2RJcFhoTVJBZ0ppd1NTVm5oMHhZd1dMOXZ1bUZRZ2hCRVN4ejRoUmdLYjJkVVJaaVc0TWRmYUg3ekl3WE1lSEY3UmJldXppLVg0YkI3YTVXakVVNDM0WHlPcFp3?oc=5",
-   "ts": "Tue, 10 Nov 2026 13:03:00 GMT"
+   "title": "AI Boom Helps Fuel China Exports, Pushing Trade Surplus Above $1 Trillion - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFZ3N2Um5fYmdDcnFhUVphOTNBeDhjR2J3Y2hsa1lSaXFvMzNRZndtbEtWbk5UUm9tNmdJdDQzV2txMFZfVzRsVjZ3bWszTi1pX2xIRXhPV2ZuOXRkVVRXVjY2dlVfRURQWlFxWm0zaEstMzJqRUdJRWtmMlpZQQ?oc=5",
+   "ts": "Tue, 10 Nov 2026 12:00:01 GMT"
   },
   {
    "src": "gnews",
@@ -413,15 +413,15 @@
   },
   {
    "src": "gnews",
-   "title": "China’s trade surplus soars past $1T - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEhtRkVwYWNDRlNwRkg1eTIxTFpod0NYQ1lLdjFldWN2eHpscUFyQjYyNHdvMEJJTHRmWkVaOXBhN0JXU3lta25ValdOaEdubllvb1ljTmtjcEh4T3JKYV85MDhoM1cyN1FfODR2ckpycFpBWDhuOTlSdEJaY0s4SnhlMkR5ZGl4eG5RVkdCVGJCU3E0endCcXJucw?oc=5",
-   "ts": "Tue, 10 Nov 2026 12:24:30 GMT"
+   "title": "Canada Signs New Deals With China After Trump Drops Trade Demand - Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS3pQMVV1M2ZfcjF4OExma2lteTJDMkF3ZzdNZXdPY21KMHVpYklwb2RJcFhoTVJBZ0ppd1NTVm5oMHhZd1dMOXZ1bUZRZ2hCRVN4ejRoUmdLYjJkVVJaaVc0TWRmYUg3ekl3WE1lSEY3UmJldXppLVg0YkI3YTVXakVVNDM0WHlPcFp3?oc=5",
+   "ts": "Tue, 10 Nov 2026 13:03:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "China’s trade surplus exceeds $1tn for first 10 months of year - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmpqbG1WMjVjVGtaTmdwR2hnbkJ0OWxiS2NZNXVWSklHZDNoZTR6eXZXTWhTZHdIeUg1elJYLUNaNGhMNHB4dGVUMnBJMlNTVVpmSVBoX3o2Z1JTTFZKa3VTVVlnQkNtZk54VVEwdWVQMjhkakJGbXpiYU94YVdPSmdzYl8?oc=5",
-   "ts": "Tue, 10 Nov 2026 06:09:45 GMT"
+   "title": "China’s trade surplus soars past $1T - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEhtRkVwYWNDRlNwRkg1eTIxTFpod0NYQ1lLdjFldWN2eHpscUFyQjYyNHdvMEJJTHRmWkVaOXBhN0JXU3lta25ValdOaEdubllvb1ljTmtjcEh4T3JKYV85MDhoM1cyN1FfODR2ckpycFpBWDhuOTlSdEJaY0s4SnhlMkR5ZGl4eG5RVkdCVGJCU3E0endCcXJucw?oc=5",
+   "ts": "Tue, 10 Nov 2026 12:24:30 GMT"
   },
   {
    "src": "gnews",
@@ -443,6 +443,12 @@
   },
   {
    "src": "gnews",
+   "title": "China’s trade surplus exceeds $1tn for first 10 months of year - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmpqbG1WMjVjVGtaTmdwR2hnbkJ0OWxiS2NZNXVWSklHZDNoZTR6eXZXTWhTZHdIeUg1elJYLUNaNGhMNHB4dGVUMnBJMlNTVVpmSVBoX3o2Z1JTTFZKa3VTVVlnQkNtZk54VVEwdWVQMjhkakJGbXpiYU94YVdPSmdzYl8?oc=5",
+   "ts": "Tue, 10 Nov 2026 06:09:45 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China seeks high-tech upper hand in industry carrying 80% of global trade - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWNwN3AyR0VFQTBqeUREa3A0M25yWkktTGFNX082dE5xSzl1NXk5ajRhajRXb0tOdUVYT1FXQm11WHduOGR1Z09YQlByZklSNE96UTlySkhYM0F4TmZNWHluNFpuTDM2dHNfZG9za1U5bHM0Qjh6Z2hwTWd6TmV2OFE2dll3RlZ0YlM2azc1UmdxN0RnVzAzQkpjaFN0UFhWNFNVZzEwRDlWLWFjbkM5UXNLNmI?oc=5",
    "ts": "Tue, 10 Nov 2026 01:50:00 GMT"
@@ -452,12 +458,6 @@
    "title": "Watch Citi's Poon Werkun on AI Trade, Fed, China - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY0xmT2J6MG9xWlVCQ0ZGU255SDFhYzFwc1poTHVmYk9Eem5LQ0RlTnVncnEwTFVxX1lISkw0RFFQLW9rVElwUkJnZmV2NFhWLUcyS3ZLdzdrUVpuSllMOExmeFpXRkJKVVFkRVBlSkhJZERsRG9va3lXTXBhN0FzZXRHMjdjNG1HMGpJR0ZZcXJ3ZXRNQUdxXzdlYw?oc=5",
    "ts": "Wed, 11 Nov 2026 00:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China's undervalued currency is driving its trade surplus higher - Peterson Institute for International Economics",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnkzZE15TVlhc1FHU1hzOFJXNklMWERBbUpCSVNLVUw1OFdSS25xOEdZSEY5bXNjclhEWnFCcXF4WUJmUDRyTWpnMWdoMmRyWXVTYkYtUFhmellzaDJUeUladm4zcDYwWEw2eWpLVjQzZVl3c3o5VFZHM2NnM2R6YVJMS1Qtd1d6LVRkMmZtbFZtOHl3cExTTHBwNlhsZVRETVEyWk9ZLUdBQmp3dGNycQ?oc=5",
-   "ts": "Mon, 09 Nov 2026 14:00:00 GMT"
   }
  ]
 }

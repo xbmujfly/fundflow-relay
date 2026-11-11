@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-11T11:15:22Z",
+ "ts": "2026-11-11T11:30:26Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,6 +341,12 @@
   },
   {
    "src": "gnews",
+   "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
+   "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
    "ts": "Tue, 10 Nov 2026 14:37:00 GMT"
@@ -350,12 +356,6 @@
    "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
    "ts": "Tue, 10 Nov 2026 02:42:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
-   "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
   },
   {
    "src": "gnews",
@@ -377,27 +377,21 @@
   },
   {
    "src": "gnews",
-   "title": "Nvidia spy scandal exposes Singapore’s role in China’s AI chip trade - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWc2RWkwdFhTMDdpYjlfY1pQcWNnVkVDYXBYZmtEUEJVQkVpYmtZZlNpNmRIa2duTy1zeUtONHZ4eGx1UmgzbkctUHhxNERXSTJCVWhhU1BkVmhxc1FRalBONUdZS3lzc0ZTMlBZOXhUbVVzUFBXb29qOVp6N2hickhiOXU?oc=5",
-   "ts": "Wed, 11 Nov 2026 05:00:41 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
    "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - The Seattle Times",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUndVcjlLOVlDZnV1TFJDeV9XczYwam1SM25vS19BM1Nwa0pRMUZNYTFpVnNVVmFzSDFrV3lmVjZLUjlnazZlTENvNE5QSkNxSFZ6SXl2NFBTNHZUbWQ3bmdLMEVfZnF2bDAtUjVuOTVPdFU1eEs3RFJNV3ZPOXB1MUxlV3YtTnBXSElhMVRpcWo2OXJKZlZOX3BZWG43NjFGTk91LTEtVlhUczh1b0dHaXh3QS1TVXBXWVBXMDEtUHllRUF6S09ZLXV2eFpGakw4WEVFbFhn?oc=5",
-   "ts": "Wed, 11 Nov 2026 02:29:12 GMT"
+   "title": "Nvidia spy scandal exposes Singapore’s role in China’s AI chip trade - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWc2RWkwdFhTMDdpYjlfY1pQcWNnVkVDYXBYZmtEUEJVQkVpYmtZZlNpNmRIa2duTy1zeUtONHZ4eGx1UmgzbkctUHhxNERXSTJCVWhhU1BkVmhxc1FRalBONUdZS3lzc0ZTMlBZOXhUbVVzUFBXb29qOVp6N2hickhiOXU?oc=5",
+   "ts": "Wed, 11 Nov 2026 05:00:41 GMT"
   },
   {
    "src": "gnews",
-   "title": "Watch Citi's Poon Werkun on AI Trade, Fed, China - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY0xmT2J6MG9xWlVCQ0ZGU255SDFhYzFwc1poTHVmYk9Eem5LQ0RlTnVncnEwTFVxX1lISkw0RFFQLW9rVElwUkJnZmV2NFhWLUcyS3ZLdzdrUVpuSllMOExmeFpXRkJKVVFkRVBlSkhJZERsRG9va3lXTXBhN0FzZXRHMjdjNG1HMGpJR0ZZcXJ3ZXRNQUdxXzdlYw?oc=5",
-   "ts": "Wed, 11 Nov 2026 00:00:00 GMT"
+   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - The Seattle Times",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUndVcjlLOVlDZnV1TFJDeV9XczYwam1SM25vS19BM1Nwa0pRMUZNYTFpVnNVVmFzSDFrV3lmVjZLUjlnazZlTENvNE5QSkNxSFZ6SXl2NFBTNHZUbWQ3bmdLMEVfZnF2bDAtUjVuOTVPdFU1eEs3RFJNV3ZPOXB1MUxlV3YtTnBXSElhMVRpcWo2OXJKZlZOX3BZWG43NjFGTk91LTEtVlhUczh1b0dHaXh3QS1TVXBXWVBXMDEtUHllRUF6S09ZLXV2eFpGakw4WEVFbFhn?oc=5",
+   "ts": "Wed, 11 Nov 2026 02:29:12 GMT"
   },
   {
    "src": "gnews",
@@ -422,6 +416,12 @@
    "title": "Similarity is not exposure: Measuring spillovers from US–China trade frictions - CEPR",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVJHQXU2RG1VeWxpZjdjVkRaY2FRQVRRQWVpbG95Qmx4RjY0MTdGZVRjb0dDM1doN0lYb083ckNPVHNZUzJqN00ybWc3bjRTRk5ZRUQxMTlSZ3VFdnBOSU9iTmZmbndsRm9CdkE3MmQ3LTFJYVZzdHRFYXVaZmxyb1dtQTRfa185clRQT1o1enN6c3E2MWgyTzB2b0JqQnNrcEE?oc=5",
    "ts": "Mon, 09 Nov 2026 01:02:45 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Watch Citi's Poon Werkun on AI Trade, Fed, China - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY0xmT2J6MG9xWlVCQ0ZGU255SDFhYzFwc1poTHVmYk9Eem5LQ0RlTnVncnEwTFVxX1lISkw0RFFQLW9rVElwUkJnZmV2NFhWLUcyS3ZLdzdrUVpuSllMOExmeFpXRkJKVVFkRVBlSkhJZERsRG9va3lXTXBhN0FzZXRHMjdjNG1HMGpJR0ZZcXJ3ZXRNQUdxXzdlYw?oc=5",
+   "ts": "Wed, 11 Nov 2026 00:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "China's trade surplus topped $1 trillion for a second year, two months early - Quartz",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Pd2haMkJqS3d4aEJwNTFNTEdwQ2tXSDNxSGZfUlN5MThKeFZ3aEpLV0RBekdiMHRKUkhsVUJSN0pSeEljSUxiWVptOHF3ZWlsRkZjMFQ5UzZJU09yS0hIZE9lMWhLMHNsWUU0R1J1MW1DUQ?oc=5",
-   "ts": "Tue, 10 Nov 2026 14:15:44 GMT"
+   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - Ottumwa Courier",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQVXoxRnN5cnZRcjlBRjRaenA1ZzdJdHVaaTMtZTBxZFRvZDNQeXZlUV9WMk1kVVZpNkdaU1ZsTWhYMW9YbEJFQTVENVFZdXRNTTJpa2xIVzlSdUhRV3RpZi1CU2I1R3gwRmx4LXlOOHY5cEsydWY5TkgyTll6QjE2ek9oWHVjamtzREJ0NmgwVXJRd05oSjRiOG54U2ZMNUtXMm5QekN4RTcyYTlUZ05YekJCdTBqWURXZzB6WDhLd2hqeU5vSEp1Y1NlQ2k5VmJ4dUcwV2hFdnFuV08yTVNMd3RCRHlUeDVHRlpEcHdtMnN5dGxwUHQtRURDYjBPUWdsV3pqYnVzY2hNSVZlVTZrNVRVRmI?oc=5",
+   "ts": "Wed, 11 Nov 2026 02:28:44 GMT"
   }
  ]
 }

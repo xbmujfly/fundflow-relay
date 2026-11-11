@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-11T07:00:23Z",
+ "ts": "2026-11-11T07:15:17Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -340,6 +340,12 @@
   },
   {
    "src": "gnews",
+   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
+   "ts": "Tue, 10 Nov 2026 14:37:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
    "ts": "Tue, 10 Nov 2026 02:42:00 GMT"
@@ -364,9 +370,9 @@
   },
   {
    "src": "gnews",
-   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
-   "ts": "Tue, 10 Nov 2026 03:20:51 GMT"
+   "title": "Nvidia spy scandal exposes Singapore’s role in China’s AI chip trade - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWc2RWkwdFhTMDdpYjlfY1pQcWNnVkVDYXBYZmtEUEJVQkVpYmtZZlNpNmRIa2duTy1zeUtONHZ4eGx1UmgzbkctUHhxNERXSTJCVWhhU1BkVmhxc1FRalBONUdZS3lzc0ZTMlBZOXhUbVVzUFBXb29qOVp6N2hickhiOXU?oc=5",
+   "ts": "Wed, 11 Nov 2026 05:00:22 GMT"
   },
   {
    "src": "gnews",
@@ -376,27 +382,21 @@
   },
   {
    "src": "gnews",
-   "title": "Nvidia spy scandal exposes Singapore’s role in China’s AI chip trade - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWc2RWkwdFhTMDdpYjlfY1pQcWNnVkVDYXBYZmtEUEJVQkVpYmtZZlNpNmRIa2duTy1zeUtONHZ4eGx1UmgzbkctUHhxNERXSTJCVWhhU1BkVmhxc1FRalBONUdZS3lzc0ZTMlBZOXhUbVVzUFBXb29qOVp6N2hickhiOXU?oc=5",
-   "ts": "Wed, 11 Nov 2026 05:00:22 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - The Seattle Times",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUndVcjlLOVlDZnV1TFJDeV9XczYwam1SM25vS19BM1Nwa0pRMUZNYTFpVnNVVmFzSDFrV3lmVjZLUjlnazZlTENvNE5QSkNxSFZ6SXl2NFBTNHZUbWQ3bmdLMEVfZnF2bDAtUjVuOTVPdFU1eEs3RFJNV3ZPOXB1MUxlV3YtTnBXSElhMVRpcWo2OXJKZlZOX3BZWG43NjFGTk91LTEtVlhUczh1b0dHaXh3QS1TVXBXWVBXMDEtUHllRUF6S09ZLXV2eFpGakw4WEVFbFhn?oc=5",
    "ts": "Wed, 11 Nov 2026 02:29:12 GMT"
   },
   {
    "src": "gnews",
-   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - Chattanooga Times Free Press",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdlcxNjZ4dTRWTTdzZ01TWFNhZUFmMHV4TzkxODNpSEljb1VOWE4zdEx0SVJIYlR1LUZuNV9JZDlIU0lPVlVkN0dlbk55b294WERBU1I4QXQ4OVNRREh5a0JYMFZTT1FzMTN1YzVmUTlraENkYWhfcXZaZnd2bF8zbnpRcFZJTFRMTGltX00xbWRMWXFFdlBRV19GSjNpZXRsVXFQM2R2c3lhQU5zU2p1c01RMWJzamNkMFZkNl9vRmdZMW1DOE41MkE1SkdwS1E?oc=5",
-   "ts": "Wed, 11 Nov 2026 03:40:42 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
    "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - Chattanooga Times Free Press",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdlcxNjZ4dTRWTTdzZ01TWFNhZUFmMHV4TzkxODNpSEljb1VOWE4zdEx0SVJIYlR1LUZuNV9JZDlIU0lPVlVkN0dlbk55b294WERBU1I4QXQ4OVNRREh5a0JYMFZTT1FzMTN1YzVmUTlraENkYWhfcXZaZnd2bF8zbnpRcFZJTFRMTGltX00xbWRMWXFFdlBRV19GSjNpZXRsVXFQM2R2c3lhQU5zU2p1c01RMWJzamNkMFZkNl9vRmdZMW1DOE41MkE1SkdwS1E?oc=5",
+   "ts": "Wed, 11 Nov 2026 03:40:42 GMT"
   },
   {
    "src": "gnews",
@@ -454,9 +454,9 @@
   },
   {
    "src": "gnews",
-   "title": "China's trade surplus topped $1 trillion for a second year, two months early - Quartz",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Pd2haMkJqS3d4aEJwNTFNTEdwQ2tXSDNxSGZfUlN5MThKeFZ3aEpLV0RBekdiMHRKUkhsVUJSN0pSeEljSUxiWVptOHF3ZWlsRkZjMFQ5UzZJU09yS0hIZE9lMWhLMHNsWUU0R1J1MW1DUQ?oc=5",
-   "ts": "Tue, 10 Nov 2026 14:15:44 GMT"
+   "title": "China's undervalued currency is driving its trade surplus higher - Peterson Institute for International Economics",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnkzZE15TVlhc1FHU1hzOFJXNklMWERBbUpCSVNLVUw1OFdSS25xOEdZSEY5bXNjclhEWnFCcXF4WUJmUDRyTWpnMWdoMmRyWXVTYkYtUFhmellzaDJUeUladm4zcDYwWEw2eWpLVjQzZVl3c3o5VFZHM2NnM2R6YVJMS1Qtd1d6LVRkMmZtbFZtOHl3cExTTHBwNlhsZVRETVEyWk9ZLUdBQmp3dGNycQ?oc=5",
+   "ts": "Mon, 09 Nov 2026 14:00:00 GMT"
   },
   {
    "src": "gdelt",

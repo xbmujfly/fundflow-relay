@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-11T01:15:18Z",
+ "ts": "2026-11-11T01:30:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -388,15 +389,15 @@
   },
   {
    "src": "gnews",
-   "title": "China’s trade surplus exceeds $1tn for first 10 months of year - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmpqbG1WMjVjVGtaTmdwR2hnbkJ0OWxiS2NZNXVWSklHZDNoZTR6eXZXTWhTZHdIeUg1elJYLUNaNGhMNHB4dGVUMnBJMlNTVVpmSVBoX3o2Z1JTTFZKa3VTVVlnQkNtZk54VVEwdWVQMjhkakJGbXpiYU94YVdPSmdzYl8?oc=5",
-   "ts": "Tue, 10 Nov 2026 03:09:14 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s trade surplus soars past $1T - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEhtRkVwYWNDRlNwRkg1eTIxTFpod0NYQ1lLdjFldWN2eHpscUFyQjYyNHdvMEJJTHRmWkVaOXBhN0JXU3lta25ValdOaEdubllvb1ljTmtjcEh4T3JKYV85MDhoM1cyN1FfODR2ckpycFpBWDhuOTlSdEJaY0s4SnhlMkR5ZGl4eG5RVkdCVGJCU3E0endCcXJucw?oc=5",
    "ts": "Tue, 10 Nov 2026 12:24:30 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s trade surplus exceeds $1tn for first 10 months of year - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmpqbG1WMjVjVGtaTmdwR2hnbkJ0OWxiS2NZNXVWSklHZDNoZTR6eXZXTWhTZHdIeUg1elJYLUNaNGhMNHB4dGVUMnBJMlNTVVpmSVBoX3o2Z1JTTFZKa3VTVVlnQkNtZk54VVEwdWVQMjhkakJGbXpiYU94YVdPSmdzYl8?oc=5",
+   "ts": "Tue, 10 Nov 2026 03:09:14 GMT"
   },
   {
    "src": "gnews",
@@ -457,126 +458,6 @@
    "title": "It’s not a shock, it’s an ocean: reframing the EU’s strategic response to China - Real Instituto Elcano",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZUdPeElhMmowdmhmZU55X0Z1d1lqbjE5dnk1SXVBaHdBbnJkRExIb3JBbzU4NWVwbGNhTWdBVTJSZHRFTy1TSXlBUVozZGtzVEJWREhIS29nT3J3VkRnUjN6VWllZFY1UzhJNF9aV2ZueHlSVjhUWFBXeFlEQ3VicmFmYnAwVHlSTmNOOGsxSm1DUTVXWDNUbW1KWXZyMGRLZGlsc0p5TjhvTV95eFJqTU5uWThsbjdQX0c4WkM3WW9LMFN6eEE?oc=5",
    "ts": "Tue, 10 Nov 2026 15:44:38 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "물가에 심판받은 트럼프 … 민주당 이겼지만 관세 전면 철회 어렵다  ",
-   "url": "https://www.edaily.co.kr/News/Read?newsId=03224246645644736&mediaCodeNo=257",
-   "ts": "20261111T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ゼレンスキー氏 「 生産的だった 」 米露ウクライナ和平協議 、 初日終了 11日も継続へ",
-   "url": "https://www.sankei.com/article/20261111-KMPAVX3AKRMNJJBSSPXLX7CW44/",
-   "ts": "20261111T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " « Нарисовать победу ». Как принуждают Путина к миру",
-   "url": "https://korrespondent.net/ukraine/4927698-narysovat-pobedu-kak-prynuzhdauit-putyna-k-myru",
-   "ts": "20261111T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "What to know about Jim Jordan , the House Republican next leader",
-   "url": "https://www.fox26houston.com/news/what-know-about-jim-jordan",
-   "ts": "20261111T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "俄美乌时隔9个月再谈 欧洲争取上桌 俄乌互袭不止",
-   "url": "https://www.cqnews.net/web/content_1569975414005370880.html",
-   "ts": "20261111T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Stock Market Falls On Hot Inflation Data , Rate - Hike Fears ; Amazon Rallies",
-   "url": "https://www.investors.com/market-trend/the-big-picture/stock-market-hot-inflation-data-amazon-stock-amzn/",
-   "ts": "20261111T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "HHS announces $10 billion in rural healthcare funds to be disbursed across all 50 states",
-   "url": "https://cnycentral.com/news/nation-world/hhs-announces-10-billion-in-rural-healthcare-funds-to-be-disbursed-across-all-50-states-robert-f-kennedy-jr-cms-mehmet-oz-rrt",
-   "ts": "20261111T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Rubio pushes for united kingdom and European allies to have seat at Ukraine peace talks",
-   "url": "https://www.nwemail.co.uk/news/national/26717998.rubio-pushes-uk-european-allies-seat-ukraine-peace-talks/",
-   "ts": "20261111T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Judge sets summer 2028 trial for the man accused of killing Charlie Kirk | News , Sports , Jobs",
-   "url": "https://www.faribaultcountyregister.com/wire/?category=5050&ID=401768",
-   "ts": "20261111T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "House Republicans quash effort to impeach Defense Secretary Hegseth - Las Vegas Sun News",
-   "url": "https://lasvegassun.com/news/2026/nov/10/house-republicans-quash-effort-to-impeach-defense-/",
-   "ts": "20261111T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "House Republicans Choose Jim Jordan As Minority Leader",
-   "url": "https://newsradio1470.iheart.com/content/2026-11-10-house-republicans-choose-jim-jordan-as-minority-leader/",
-   "ts": "20261111T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  한국이 쿠팡 차별  주장 짐 조던 , 미 공화 하원 원내 대표에",
-   "url": "https://www.hani.co.kr/arti/international/international_general/1286726.html",
-   "ts": "20261111T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "House Republicans quash effort to impeach Defense Secretary Hegseth",
-   "url": "https://www.wesh.com/article/defense-secretary-hegseth-impeachment-house/74393214",
-   "ts": "20261111T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "House to vote on impeachment effort against Defense Secretary Pete Hegseth",
-   "url": "https://www.wapt.com/article/house-to-vote-impeachment-effort-against-defense-secretary-pete-hegseth/74392643",
-   "ts": "20261111T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Editorial : Voter work doesnt end when the election does | Editorials",
-   "url": "https://www.theshorthorn.com/opinion/editorials/editorial-voters-work-doesn-t-end-when-the-election-does/article_e5ed6258-b8b2-457f-9b3c-7a2f81bc2d37.html",
-   "ts": "20261111T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Pete Hegseth",
-   "url": "https://deadline.com/2026/11/pete-hegseth-impeachment-trump-2-1237219386/",
-   "ts": "20261111T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Hooggerechtshof West Virginia spreekt zich niet uit over verzoek 33 conservatieve methodistengemeenten rond kerkelijke bezittingen",
-   "url": "https://drimble.nl/economie/108561731/hooggerechtshof-west-virginia-spreekt-zich-niet-uit-over-verzoek-33-conservatieve-methodistengemeenten-rond-kerkelijke-bezittingen.html",
-   "ts": "20261111T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Republican Maria Elvira Salazar wins reelection to U . S . House in Florida 27th Congressional District – Brandon Sun",
-   "url": "https://www.brandonsun.com/world/2026/11/10/republican-maria-elvira-salazar-wins-reelection-to-u-s-house-in-floridas-27th-congressional-district",
-   "ts": "20261111T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "House Republicans Choose Jim Jordan As Minority Leader",
-   "url": "https://kfiam640.iheart.com/content/2026-11-10-house-republicans-choose-jim-jordan-as-minority-leader/",
-   "ts": "20261111T000000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Most Americans want new Democratic Congress to end Trump Iran war , poll finds",
-   "url": "https://www.navytimes.com/news/pentagon-congress/2026/11/10/most-americans-want-new-democratic-congress-to-end-trumps-iran-war-poll-finds/",
-   "ts": "20261111T000000Z"
   }
  ]
 }

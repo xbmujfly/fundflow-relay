@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-11T13:45:18Z",
+ "ts": "2026-11-11T14:00:24Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -29,8 +29,9 @@
    "err": "HTTPError: HTTP Error 403: Forbidden"
   },
   "gnews": {
-   "ok": true,
-   "n": 25
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   "gdelt": {
    "ok": false,
@@ -338,126 +339,6 @@
    "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
    "ts": "Fri, 18 Sep 2026 15:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
-   "ts": "Tue, 10 Nov 2026 02:42:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Why China’s $1 trillion trade surplus isn’t all good news for its economy - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZV95STRtMWZoX0pmMWxWa3JBcVZsRFdoNERTNU9uTTNFYjBRb2RYY2NFZ1R5cEtDV2R6Y0ZwMG42TVNGVk1NR3EzS0FLUmpJWDJoMVVNWXFSenU3Q2ZSYjJwb0taaVh2NmxkQ29jc2FSaGd2ZlpNYWk1Z0FGMUljSGo3UnBjVGEwYktIbjV6YndCcFNPU3EyM0VZMzRJendqUEpVVVdtdS02dUkxaXU5NG9uRnowUdIBuwFBVV95cUxPMHhkXzZLYjk1SDNuOF80RGNKdF9YVEVVd0hVb3lsbzRYU0NJRi1LRFUwN3ZWRjJ2V0o1Tldpa3Y0RTRYM0NjQ29TZEluNjZPRmxjMkg5UzVzUGxJMUhtdi1tSlBFS2J5Nnp6RlJKSjNVLWsycWhfSUtuWnBuOXpiODdKRE02TDF6T29NcWxxQ1RTX0F4Qm5JdXowUWZoN0JFRnN4SUNnN1lETFNHRmRLTWdlNTYydnNuSHRZ?oc=5",
-   "ts": "Wed, 11 Nov 2026 08:42:04 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "US Signals Frustration at Slow Pace of Rare Earth Exports From China - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdk13bXE2Y0hmY2NQUnhvR2h1Qm1WTHhLa19ZRDVCcF92Y3BuWWxHZWp4ZV96V2ZpcFlvRzVPVmp4cXFfTUdmaUN6VWtPZTIwMHdiZkdvRncyRF90UlhmQ2xuQ2tMQTJFN1lPbHhHamJuN0RBWDBfVzZ4TWhTbFN3SGd2aw?oc=5",
-   "ts": "Wed, 11 Nov 2026 12:00:01 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
-   "ts": "Tue, 10 Nov 2026 09:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
-   "ts": "Tue, 10 Nov 2026 14:37:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzk1R09TQzJMMElPWWVSLXhRSkZUVFJWWW85cjV2QjFtMXJRcWVKX2VjSm83XzRNZUE3VFpucUk3SHdPbXd4b0tnMkVVamxsLUEtMTcyejJLUlBSNURlSkR6bjVKUzNENWZmVE1LcHpiakk2RXViWVJDVmR5bDlyX3BpMGJJWW1J?oc=5",
-   "ts": "Tue, 10 Nov 2026 02:38:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Deal vs deal? US, China trade calls to honour commitments before Xi-Trump summit - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUE9IeC1zRXNEQ2QwSDA1b3NZR0Z1OXB3RW96SzNaZGRmOXNOMjdMYmpFTzAwYTFsUU1pN05GYXIzWlZqX1VYV3ZJbW4xNFdxU2dsenZHbTM1QmU0cEh4cUlNdG5ULXRCSXNsbEhCQTljbzdENEpKYnUxVWJqdjRHT2tHSUlKMDFCUXJ0OGEzTlVIR1hrUUJVSjRVQmFud3JSMG9ma0tjUVp3NTd4T0c0S2lBUlZFNGRObHJqekVTRS3SAcABQVVfeXFMTWlaT3FKN2dWcVMxb1ZMcm1OTkg0aC1FeHY4SFNibU1fRnh1X01fckZMLUtvNDNMa1ZKZ3NzUm8tVFZCWlZQa2xNYTd4R0Q0b213RE9MMXVDUlBkZnFGcEZaMktYQXpnaXVGd0paV0FhNTdMS1YtNWQzclM2WkJldWZPOFRiR3B6dUJJVEx0VVJlRzBUWkhLT2gzZFE5NFNpOFlVcHk3T25ZNUk5cTY1Qi1NVEJEbS0taUNtOW5CMWpJ?oc=5",
-   "ts": "Wed, 11 Nov 2026 02:34:23 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
-   "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s passenger car exports surge in October as domestic demand remains weak - myMotherLode.com",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX09pYno5NjJjOEEtU2Jid3kyUnh4bmRjSTdLY1JvUHJwTGw2R0pFUHRWZ2Q0dnZmWTlTNG4wWTNnXzlGXzl3dTFyb3BfTmtIcHJyU0ZmaTI4d3Bad3BHZnZhOEkxZXpMWlhJLTlIZlpSODJtcDBJZndzVW94aF9oc2VCQ1d1SllsdGlURTkyckk1RzJfcDlmNWZrTjduNnAtQkUwUlNyUG1oRWRXVkxEVnVpcTJULWRFd2N5Yml3dUxYZk4yLVHSAcsBQVVfeXFMUENmaDZ1bG1rZWxTOURYQUtEUko0RHBoR1RZOUZsZmFlU202Y25WOHlJdUQ2aG5ISlVydnBWZ3psRkdWN1k2LWJmWjFMSDBuVG5vaTNXX3RDQUk3YkJqb3FIUUpXb2ZOdy1leDBRZk14dlpvSFFHZHJBakpjWXpKMmM1N3Q4Sk5Vakpnd2RzRFptNkUyTzRGbEpDUVQyV1hVMlZmRWZIbFZHdTlEYUtOWEdKMS00Zy1kWk9XbFBualhaZGdnaGw5NFUzcXc?oc=5",
-   "ts": "Wed, 11 Nov 2026 12:20:25 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "U.S. Container Imports Hit Record High as China Trade Surges, Port Delays Mount - MarineLink",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaS1qcE5nT2NfNWlFRFdKTHJXNVVqX3d1aDdyUTVEdjh0QlRGOFNVVl9LZ1k5blh0ZVk3cjE4cERCOWpHUzdpVWprM0txXzJBSUtXWnZkVFlvLWdDekt0Vm1fTFNfbkVnWmU0c2lYb2JkT1RfSWRZYkk5ZG1UbEY3SA?oc=5",
-   "ts": "Wed, 11 Nov 2026 11:47:23 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s trade surplus exceeds $1tn for first 10 months of year - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmpqbG1WMjVjVGtaTmdwR2hnbkJ0OWxiS2NZNXVWSklHZDNoZTR6eXZXTWhTZHdIeUg1elJYLUNaNGhMNHB4dGVUMnBJMlNTVVpmSVBoX3o2Z1JTTFZKa3VTVVlnQkNtZk54VVEwdWVQMjhkakJGbXpiYU94YVdPSmdzYl8?oc=5",
-   "ts": "Tue, 10 Nov 2026 06:09:45 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s Trade Surplus Surged Past $1 Trillion in October - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNEdJRlEzYnZIbVRkWi1rc252aE9SbXdwZDVnWGwtVnhfNzBKMWJRUHZDdWJlZno4MC1WVFhKc3JMQ05IUjFQQjlMcmd2QVBYNFhFaDZmMXo2WlgzU2hhQm1FYm9zZXRoLWdRazFLdUVkOXU5eU83X0VNNjNQVzhZZmpDS25FTDVSQlk1TjZtUlpZcnJZN0VaR0Nfbw?oc=5",
-   "ts": "Tue, 10 Nov 2026 04:04:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - The Seattle Times",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUndVcjlLOVlDZnV1TFJDeV9XczYwam1SM25vS19BM1Nwa0pRMUZNYTFpVnNVVmFzSDFrV3lmVjZLUjlnazZlTENvNE5QSkNxSFZ6SXl2NFBTNHZUbWQ3bmdLMEVfZnF2bDAtUjVuOTVPdFU1eEs3RFJNV3ZPOXB1MUxlV3YtTnBXSElhMVRpcWo2OXJKZlZOX3BZWG43NjFGTk91LTEtVlhUczh1b0dHaXh3QS1TVXBXWVBXMDEtUHllRUF6S09ZLXV2eFpGakw4WEVFbFhn?oc=5",
-   "ts": "Wed, 11 Nov 2026 02:29:12 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China's undervalued currency is driving its trade surplus higher - Peterson Institute for International Economics",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnkzZE15TVlhc1FHU1hzOFJXNklMWERBbUpCSVNLVUw1OFdSS25xOEdZSEY5bXNjclhEWnFCcXF4WUJmUDRyTWpnMWdoMmRyWXVTYkYtUFhmellzaDJUeUladm4zcDYwWEw2eWpLVjQzZVl3c3o5VFZHM2NnM2R6YVJMS1Qtd1d6LVRkMmZtbFZtOHl3cExTTHBwNlhsZVRETVEyWk9ZLUdBQmp3dGNycQ?oc=5",
-   "ts": "Mon, 09 Nov 2026 14:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Unstoppable Record: China's Trade Surplus Tops $1 Trillion, Powered by the AI Hardware Boom - Latin Times",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUmFudE0wVFdoZzVQNlBNUDRCR3BibnBBY1ZPMllQdDh3NVNkSXJTR3Zfb3IzLXBsakliUHQtSUFMLTVYeWRiUmt5Z1B2ZGJ4MUwzV0JQOWc4eE13RjVjeFlhRzllcllxS2RTM2huUlB3ZEFBVlNuWVZfT3Rrd3FjWmdmUkFpa3Ny?oc=5",
-   "ts": "Wed, 11 Nov 2026 12:34:54 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Without US action on China’s innovation blitz, biotech leaders see a Rust Belt future - BioSpace",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRG43TVpRUmc0eVlOUTJTdmE5bWNzeHlxb1NYaDRRVEFvNmFQY1cxLTlQa1dIckhYSDViSFFBd2xZTDk0ck1hNGVfM0NBWkxiVGx5LS0tQ29CR0IzSllEcVJUaXZjbFZZSzB0NllQal9OUlhuM1FEUzFsUWVCU1A3SnVPSjJIOHpCemZRckt4R29XS0hqMUlMaGpWemd6THl4R1JqeFNhR1dZeUpDV0tXYWFPRGx2WlpU?oc=5",
-   "ts": "Wed, 11 Nov 2026 05:40:09 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "US and China should stay clear-eyed on AI cooperation and competition, Bessent says - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUdDU2JVSnpLTmIzYVRmNm5Wb2Y3UC1vVElXMTZwdlM4M2YwRGZKT2tkYXI5YVlzRk1GZm5HRmY3NDlPQm1UaC1McjQ3STR0ME1LeDJCQ2NPQlVyU1RBa0RkSUotV2tSWndkN3NiQmdsVFFoVENFUVdFTExITml0bnc3RVdGcU1mSTB1T1gzcHpWMUM4MXFnSm1oWTdhZ0I2TG11M1JBU0xfUUtYLTNDRlcxeFpWcWZSUFVz?oc=5",
-   "ts": "Wed, 11 Nov 2026 01:25:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Nvidia spy scandal exposes Singapore’s role in China’s AI chip trade - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWc2RWkwdFhTMDdpYjlfY1pQcWNnVkVDYXBYZmtEUEJVQkVpYmtZZlNpNmRIa2duTy1zeUtONHZ4eGx1UmgzbkctUHhxNERXSTJCVWhhU1BkVmhxc1FRalBONUdZS3lzc0ZTMlBZOXhUbVVzUFBXb29qOVp6N2hickhiOXU?oc=5",
-   "ts": "Wed, 11 Nov 2026 05:00:41 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - AP News",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzZvaHZqSTdNX2R6b1BzNzJKdnI4NDNacDYzdkhud2ZUcERRVlBjcTdsZWxBVDZZYUlaRFdDZlpyMHhSNEJfVUk0TG1HQTRMOWloMlR0QWdEakxjZEN5UV85a2hQa2NNYnlfcjNiU3A4cVdCVnQ1dzNMZW82cWNxU0RKVU9aTkpWQUtxNG85aG9KQQ?oc=5",
-   "ts": "Wed, 11 Nov 2026 02:28:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaFdhSXUwZmVuNVZuLXZleE84ak1aVEFJMWVJWnU5OXc1dlpsSTMwckVzVTBGNWdtOGp5SGVLV1BJS21lYlpPV1pFVTNBTnBlbjdqbFpUUDNHZHNNTXBTY3daV2JVS2FPZHpYbmJFSFEtTWhPV1dJaFUwSExnVW9VMDRrM05BQQ?oc=5",
-   "ts": "Tue, 10 Nov 2026 20:28:02 GMT"
   }
  ]
 }

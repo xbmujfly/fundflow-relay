@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-11T03:30:24Z",
+ "ts": "2026-11-11T03:45:18Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -383,6 +383,12 @@
   },
   {
    "src": "gnews",
+   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - Chattanooga Times Free Press",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdlcxNjZ4dTRWTTdzZ01TWFNhZUFmMHV4TzkxODNpSEljb1VOWE4zdEx0SVJIYlR1LUZuNV9JZDlIU0lPVlVkN0dlbk55b294WERBU1I4QXQ4OVNRREh5a0JYMFZTT1FzMTN1YzVmUTlraENkYWhfcXZaZnd2bF8zbnpRcFZJTFRMTGltX00xbWRMWXFFdlBRV19GSjNpZXRsVXFQM2R2c3lhQU5zU2p1c01RMWJzamNkMFZkNl9vRmdZMW1DOE41MkE1SkdwS1E?oc=5",
+   "ts": "Wed, 11 Nov 2026 03:40:42 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China’s trade surplus exceeds $1tn for first 10 months of year - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmpqbG1WMjVjVGtaTmdwR2hnbkJ0OWxiS2NZNXVWSklHZDNoZTR6eXZXTWhTZHdIeUg1elJYLUNaNGhMNHB4dGVUMnBJMlNTVVpmSVBoX3o2Z1JTTFZKa3VTVVlnQkNtZk54VVEwdWVQMjhkakJGbXpiYU94YVdPSmdzYl8?oc=5",
    "ts": "Tue, 10 Nov 2026 06:09:45 GMT"
@@ -407,15 +413,15 @@
   },
   {
    "src": "gnews",
-   "title": "China's trade surplus topped $1 trillion for a second year, two months early - Quartz",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Pd2haMkJqS3d4aEJwNTFNTEdwQ2tXSDNxSGZfUlN5MThKeFZ3aEpLV0RBekdiMHRKUkhsVUJSN0pSeEljSUxiWVptOHF3ZWlsRkZjMFQ5UzZJU09yS0hIZE9lMWhLMHNsWUU0R1J1MW1DUQ?oc=5",
-   "ts": "Tue, 10 Nov 2026 14:15:44 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - The Killeen Daily Herald",
    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMktCWGxjdGFuLWhFQXZWb3BFT0V5RUoxY1R6ZHhkMThWR1RnN0hGRnNlYWM4NEFnbFhYbldSNnRGVkJHcEhpOFV2T214RF92OE1QV3hRbVBaMnZ5S0VSdXVDM3dVTnlLMmZSbXFfQ1JUWlRWNlh5VHdMeDZTQUpHYkpXeVM0ZDVhWmdjTm1ncEtTZ2JhUFRQRUFEOWFKVWc3WkpSNWdmMWxQczhPUnBsOVRKLWVpZkhJUEdqWFFaRW1YTWw3LWprR01TbFpFMW51ZnhUNjdTenVhaDdMNkVmVk9EQ2NTTjZmOEM2OTMyZkFhYVVtczNsMDRwUFhoR09aZl9V?oc=5",
    "ts": "Wed, 11 Nov 2026 02:28:44 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China's trade surplus topped $1 trillion for a second year, two months early - Quartz",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Pd2haMkJqS3d4aEJwNTFNTEdwQ2tXSDNxSGZfUlN5MThKeFZ3aEpLV0RBekdiMHRKUkhsVUJSN0pSeEljSUxiWVptOHF3ZWlsRkZjMFQ5UzZJU09yS0hIZE9lMWhLMHNsWUU0R1J1MW1DUQ?oc=5",
+   "ts": "Tue, 10 Nov 2026 14:15:44 GMT"
   },
   {
    "src": "gnews",
@@ -431,12 +437,6 @@
   },
   {
    "src": "gnews",
-   "title": "Similarity is not exposure: Measuring spillovers from US–China trade frictions - CEPR",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVJHQXU2RG1VeWxpZjdjVkRaY2FRQVRRQWVpbG95Qmx4RjY0MTdGZVRjb0dDM1doN0lYb083ckNPVHNZUzJqN00ybWc3bjRTRk5ZRUQxMTlSZ3VFdnBOSU9iTmZmbndsRm9CdkE3MmQ3LTFJYVZzdHRFYXVaZmxyb1dtQTRfa185clRQT1o1enN6c3E2MWgyTzB2b0JqQnNrcEE?oc=5",
-   "ts": "Mon, 09 Nov 2026 01:02:45 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices - CNBC",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaFdhSXUwZmVuNVZuLXZleE84ak1aVEFJMWVJWnU5OXc1dlpsSTMwckVzVTBGNWdtOGp5SGVLV1BJS21lYlpPV1pFVTNBTnBlbjdqbFpUUDNHZHNNTXBTY3daV2JVS2FPZHpYbmJFSFEtTWhPV1dJaFUwSExnVW9VMDRrM05BQQ?oc=5",
    "ts": "Tue, 10 Nov 2026 20:28:02 GMT"
@@ -449,15 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "EU manufacturers could give up on competing with China by 2030, warns commerce chief - The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHlRN0liRTl3WUQxVlItUVFGNXJzbkliWnd3aVBKTVNGaW5ILWdNNVljWmZnbWxVcHY3OWxRRE9MSWJMZEJnamFTaTRodjdqVFR4VHNFR19DVWphcVJFMFFuU2l0MDJvNjRKMF8xSk1TWDdGUU02cW5fNHJqeXp4dUtXLV9iZW9vY2lSMkhB?oc=5",
-   "ts": "Tue, 10 Nov 2026 06:02:00 GMT"
+   "title": "Similarity is not exposure: Measuring spillovers from US–China trade frictions - CEPR",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVJHQXU2RG1VeWxpZjdjVkRaY2FRQVRRQWVpbG95Qmx4RjY0MTdGZVRjb0dDM1doN0lYb083ckNPVHNZUzJqN00ybWc3bjRTRk5ZRUQxMTlSZ3VFdnBOSU9iTmZmbndsRm9CdkE3MmQ3LTFJYVZzdHRFYXVaZmxyb1dtQTRfa185clRQT1o1enN6c3E2MWgyTzB2b0JqQnNrcEE?oc=5",
+   "ts": "Mon, 09 Nov 2026 01:02:45 GMT"
   },
   {
    "src": "gnews",
-   "title": "Watch China Trade Surplus Tops $1 Trillion for Second Time - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQjdlYzlfM2QtQ1E2MzRmZ0h0cUlxLTlKVTVBTXZXNVg3RmdqaXlVeExiNVJLMnFLRlNZTjJaSDFzRGtkSW1oNC10d0JrR3JRc2N3Tmp5QVI2VWJIbmp2TTFHR0pZaE5Jc0JYdGNwM182MlFMUFVtVERJeFZYNU43X2ZMOHg4UHM?oc=5",
-   "ts": "Tue, 10 Nov 2026 06:47:52 GMT"
+   "title": "EU manufacturers could give up on competing with China by 2030, warns commerce chief - The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHlRN0liRTl3WUQxVlItUVFGNXJzbkliWnd3aVBKTVNGaW5ILWdNNVljWmZnbWxVcHY3OWxRRE9MSWJMZEJnamFTaTRodjdqVFR4VHNFR19DVWphcVJFMFFuU2l0MDJvNjRKMF8xSk1TWDdGUU02cW5fNHJqeXp4dUtXLV9iZW9vY2lSMkhB?oc=5",
+   "ts": "Tue, 10 Nov 2026 06:02:00 GMT"
   }
  ]
 }

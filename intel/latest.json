@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-11T05:30:23Z",
+ "ts": "2026-11-11T05:45:18Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -419,6 +419,12 @@
   },
   {
    "src": "gnews",
+   "title": "Without US action on China’s innovation blitz, biotech leaders see a Rust Belt future - BioSpace",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRG43TVpRUmc0eVlOUTJTdmE5bWNzeHlxb1NYaDRRVEFvNmFQY1cxLTlQa1dIckhYSDViSFFBd2xZTDk0ck1hNGVfM0NBWkxiVGx5LS0tQ29CR0IzSllEcVJUaXZjbFZZSzB0NllQal9OUlhuM1FEUzFsUWVCU1A3SnVPSjJIOHpCemZRckt4R29XS0hqMUlMaGpWemd6THl4R1JqeFNhR1dZeUpDV0tXYWFPRGx2WlpU?oc=5",
+   "ts": "Wed, 11 Nov 2026 05:37:30 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - The Killeen Daily Herald",
    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMktCWGxjdGFuLWhFQXZWb3BFT0V5RUoxY1R6ZHhkMThWR1RnN0hGRnNlYWM4NEFnbFhYbldSNnRGVkJHcEhpOFV2T214RF92OE1QV3hRbVBaMnZ5S0VSdXVDM3dVTnlLMmZSbXFfQ1JUWlRWNlh5VHdMeDZTQUpHYkpXeVM0ZDVhWmdjTm1ncEtTZ2JhUFRQRUFEOWFKVWc3WkpSNWdmMWxQczhPUnBsOVRKLWVpZkhJUEdqWFFaRW1YTWw3LWprR01TbFpFMW51ZnhUNjdTenVhaDdMNkVmVk9EQ2NTTjZmOEM2OTMyZkFhYVVtczNsMDRwUFhoR09aZl9V?oc=5",
    "ts": "Wed, 11 Nov 2026 02:28:44 GMT"
@@ -428,12 +434,6 @@
    "title": "China's trade surplus topped $1 trillion for a second year, two months early - Quartz",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Pd2haMkJqS3d4aEJwNTFNTEdwQ2tXSDNxSGZfUlN5MThKeFZ3aEpLV0RBekdiMHRKUkhsVUJSN0pSeEljSUxiWVptOHF3ZWlsRkZjMFQ5UzZJU09yS0hIZE9lMWhLMHNsWUU0R1J1MW1DUQ?oc=5",
    "ts": "Tue, 10 Nov 2026 14:15:44 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China's undervalued currency is driving its trade surplus higher - Peterson Institute for International Economics",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnkzZE15TVlhc1FHU1hzOFJXNklMWERBbUpCSVNLVUw1OFdSS25xOEdZSEY5bXNjclhEWnFCcXF4WUJmUDRyTWpnMWdoMmRyWXVTYkYtUFhmellzaDJUeUladm4zcDYwWEw2eWpLVjQzZVl3c3o5VFZHM2NnM2R6YVJMS1Qtd1d6LVRkMmZtbFZtOHl3cExTTHBwNlhsZVRETVEyWk9ZLUdBQmp3dGNycQ?oc=5",
-   "ts": "Mon, 09 Nov 2026 14:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "Similarity is not exposure: Measuring spillovers from US–China trade frictions - CEPR",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVJHQXU2RG1VeWxpZjdjVkRaY2FRQVRRQWVpbG95Qmx4RjY0MTdGZVRjb0dDM1doN0lYb083ckNPVHNZUzJqN00ybWc3bjRTRk5ZRUQxMTlSZ3VFdnBOSU9iTmZmbndsRm9CdkE3MmQ3LTFJYVZzdHRFYXVaZmxyb1dtQTRfa185clRQT1o1enN6c3E2MWgyTzB2b0JqQnNrcEE?oc=5",
-   "ts": "Mon, 09 Nov 2026 01:02:45 GMT"
+   "title": "China's undervalued currency is driving its trade surplus higher - Peterson Institute for International Economics",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnkzZE15TVlhc1FHU1hzOFJXNklMWERBbUpCSVNLVUw1OFdSS25xOEdZSEY5bXNjclhEWnFCcXF4WUJmUDRyTWpnMWdoMmRyWXVTYkYtUFhmellzaDJUeUladm4zcDYwWEw2eWpLVjQzZVl3c3o5VFZHM2NnM2R6YVJMS1Qtd1d6LVRkMmZtbFZtOHl3cExTTHBwNlhsZVRETVEyWk9ZLUdBQmp3dGNycQ?oc=5",
+   "ts": "Mon, 09 Nov 2026 14:00:00 GMT"
   }
  ]
 }

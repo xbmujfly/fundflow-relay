@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-11T02:15:20Z",
+ "ts": "2026-11-11T02:30:25Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -365,21 +365,27 @@
   },
   {
    "src": "gnews",
+   "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
+   "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "AI Boom Helps Fuel China Exports, Pushing Trade Surplus Above $1 Trillion - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFZ3N2Um5fYmdDcnFhUVphOTNBeDhjR2J3Y2hsa1lSaXFvMzNRZndtbEtWbk5UUm9tNmdJdDQzV2txMFZfVzRsVjZ3bWszTi1pX2xIRXhPV2ZuOXRkVVRXVjY2dlVfRURQWlFxWm0zaEstMzJqRUdJRWtmMlpZQQ?oc=5",
    "ts": "Tue, 10 Nov 2026 12:00:01 GMT"
   },
   {
    "src": "gnews",
-   "title": "U.S. Extends Trade Truce with China for Two Months - Sandler, Travis & Rosenberg, P.A.",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVm03ZTN1YlM0SVRjaU9wbnZycVYteG9JNjhKX08yeDZ4azdXaHNtQ3FYYjdtdTY2S29zSWV6dDBaT21IWEVaVXM1UGFZRXFHNF9pdkZ3SmZaWlJvZEdHUWFnYXJqVzdWUVhpeW1zU2h0REN0SGJxS3R4UVpPcEFZVVNGWk1tZVN3UVBSc3FQRGJ5TjE5RlRFNnNkcVNsSHBlWGNmLUhQbVBBUkxKanc3MnIxQWNTY0Jzc29KeTRR?oc=5",
-   "ts": "Tue, 10 Nov 2026 20:13:48 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s Trade Surplus Surged Past $1 Trillion in October - WSJ",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNEdJRlEzYnZIbVRkWi1rc252aE9SbXdwZDVnWGwtVnhfNzBKMWJRUHZDdWJlZno4MC1WVFhKc3JMQ05IUjFQQjlMcmd2QVBYNFhFaDZmMXo2WlgzU2hhQm1FYm9zZXRoLWdRazFLdUVkOXU5eU83X0VNNjNQVzhZZmpDS25FTDVSQlk1TjZtUlpZcnJZN0VaR0Nfbw?oc=5",
    "ts": "Tue, 10 Nov 2026 04:04:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "U.S. Extends Trade Truce with China for Two Months - Sandler, Travis & Rosenberg, P.A.",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVm03ZTN1YlM0SVRjaU9wbnZycVYteG9JNjhKX08yeDZ4azdXaHNtQ3FYYjdtdTY2S29zSWV6dDBaT21IWEVaVXM1UGFZRXFHNF9pdkZ3SmZaWlJvZEdHUWFnYXJqVzdWUVhpeW1zU2h0REN0SGJxS3R4UVpPcEFZVVNGWk1tZVN3UVBSc3FQRGJ5TjE5RlRFNnNkcVNsSHBlWGNmLUhQbVBBUkxKanc3MnIxQWNTY0Jzc29KeTRR?oc=5",
+   "ts": "Tue, 10 Nov 2026 20:13:48 GMT"
   },
   {
    "src": "gnews",
@@ -443,21 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "China's trade surplus surpasses $1 trillion as AI boom powers exports - Euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHpmQ004SnRvTzRmXzFseXp4THJEWWJFeXNlVUY3eEUxVDdfbVpTUTMxNTdZVm14VmJyQkZOaUh0QTRCb0Zjc3VwRzJkY0pseG5idk5BQ0hBME5STDBwTlJCZmpHb0xhVEUwd29FRHRyWm1yQXY3bFNWNDh3c2xiSFJzUFdRWlRQdWJzWVBGS3hSYm8tUl9GS1JNZ3pWdWJpdXoweTFn?oc=5",
-   "ts": "Tue, 10 Nov 2026 04:29:31 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "It’s not a shock, it’s an ocean: reframing the EU’s strategic response to China - Real Instituto Elcano",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZUdPeElhMmowdmhmZU55X0Z1d1lqbjE5dnk1SXVBaHdBbnJkRExIb3JBbzU4NWVwbGNhTWdBVTJSZHRFTy1TSXlBUVozZGtzVEJWREhIS29nT3J3VkRnUjN6VWllZFY1UzhJNF9aV2ZueHlSVjhUWFBXeFlEQ3VicmFmYnAwVHlSTmNOOGsxSm1DUTVXWDNUbW1KWXZyMGRLZGlsc0p5TjhvTV95eFJqTU5uWThsbjdQX0c4WkM3WW9LMFN6eEE?oc=5",
    "ts": "Tue, 10 Nov 2026 15:44:38 GMT"
   },
   {
    "src": "gnews",
-   "title": "China says its trade surplus exceeded $1 trillion for a 2nd straight year, as exports in October surged 35% - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYndlVGRFeUZ0c3hXakVXMnFEUzlGdF9rTVRlYnVubERWUWxYbGRZaVdFUFdWd3NpcXc2WjJVY3o1akZSYTFja1hIYUFEdmlwZWJfeHFwNWJFMzRub0lsVHhvZUJRNXlvYjBrMDFqWGxuU19SaHBkUjctV0JSbmxxYjVoVXJZUENJNWh0X0hDdDdzSVU0TjdDaUNtY9IBoAFBVV95cUxOTDJvOGY2dkt0dkZ5ejRCYXdLMnQzNzExcjJEU2E1S21uMHd1dEFOejRna3gyRXgtQ1FZcG9KWmtROWpoR05RZ3lUdUM1bExyeTE4Y1lDTlZXQzIyNDZOTXFVLXB2bWlKLXVBT3hILUtFYWYzR21oREtJNUswd254V1lBNEk3RlpfZ2tRRlRpcGRoaHpYTlI5bTFoOUU5d1dZ?oc=5",
-   "ts": "Tue, 10 Nov 2026 06:35:29 GMT"
+   "title": "China's trade surplus surpasses $1 trillion as AI boom powers exports - Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHpmQ004SnRvTzRmXzFseXp4THJEWWJFeXNlVUY3eEUxVDdfbVpTUTMxNTdZVm14VmJyQkZOaUh0QTRCb0Zjc3VwRzJkY0pseG5idk5BQ0hBME5STDBwTlJCZmpHb0xhVEUwd29FRHRyWm1yQXY3bFNWNDh3c2xiSFJzUFdRWlRQdWJzWVBGS3hSYm8tUl9GS1JNZ3pWdWJpdXoweTFn?oc=5",
+   "ts": "Tue, 10 Nov 2026 04:29:31 GMT"
   }
  ]
 }

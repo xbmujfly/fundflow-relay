@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-11T06:15:20Z",
+ "ts": "2026-11-11T06:30:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
   }
  },
  "items": [
@@ -341,12 +341,6 @@
   },
   {
    "src": "gnews",
-   "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
-   "ts": "Tue, 10 Nov 2026 09:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
    "ts": "Tue, 10 Nov 2026 02:42:00 GMT"
@@ -356,6 +350,12 @@
    "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - WRAL",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdVZqSFA4bFhBbTU0Q3lXYjlDVGllaXIwUzJzUGl2dEVyYnJkLWk1aGw1TmRMMHdNOEdvVmdYUlozVFRhdFNaZC1jLTVKN1ktNjlwZTYwaEdqTVB5bHB0MUpmRWIzRGFsVnUzSnU0SkZVZmZzcjROeWJDeHdOaG1XcU1aaG85MU5aR0JJUzJqR1VYdDFWRGdYYV9yZTZsQzNLc0NhcTFWOEp0Z0NuZDhaRk1PSUdFMFNwTVZjR0RiYlRaRk9jdFQ2elRNc0JVZWNtUGc?oc=5",
    "ts": "Wed, 11 Nov 2026 02:35:37 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
+   "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
   },
   {
    "src": "gnews",
@@ -407,27 +407,27 @@
   },
   {
    "src": "gnews",
-   "title": "China’s trade surplus soars past $1T - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEhtRkVwYWNDRlNwRkg1eTIxTFpod0NYQ1lLdjFldWN2eHpscUFyQjYyNHdvMEJJTHRmWkVaOXBhN0JXU3lta25ValdOaEdubllvb1ljTmtjcEh4T3JKYV85MDhoM1cyN1FfODR2ckpycFpBWDhuOTlSdEJaY0s4SnhlMkR5ZGl4eG5RVkdCVGJCU3E0endCcXJucw?oc=5",
-   "ts": "Tue, 10 Nov 2026 12:24:30 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Without US action on China’s innovation blitz, biotech leaders see a Rust Belt future - BioSpace",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRG43TVpRUmc0eVlOUTJTdmE5bWNzeHlxb1NYaDRRVEFvNmFQY1cxLTlQa1dIckhYSDViSFFBd2xZTDk0ck1hNGVfM0NBWkxiVGx5LS0tQ29CR0IzSllEcVJUaXZjbFZZSzB0NllQal9OUlhuM1FEUzFsUWVCU1A3SnVPSjJIOHpCemZRckt4R29XS0hqMUlMaGpWemd6THl4R1JqeFNhR1dZeUpDV0tXYWFPRGx2WlpU?oc=5",
    "ts": "Wed, 11 Nov 2026 05:37:30 GMT"
   },
   {
    "src": "gnews",
-   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - The Killeen Daily Herald",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMktCWGxjdGFuLWhFQXZWb3BFT0V5RUoxY1R6ZHhkMThWR1RnN0hGRnNlYWM4NEFnbFhYbldSNnRGVkJHcEhpOFV2T214RF92OE1QV3hRbVBaMnZ5S0VSdXVDM3dVTnlLMmZSbXFfQ1JUWlRWNlh5VHdMeDZTQUpHYkpXeVM0ZDVhWmdjTm1ncEtTZ2JhUFRQRUFEOWFKVWc3WkpSNWdmMWxQczhPUnBsOVRKLWVpZkhJUEdqWFFaRW1YTWw3LWprR01TbFpFMW51ZnhUNjdTenVhaDdMNkVmVk9EQ2NTTjZmOEM2OTMyZkFhYVVtczNsMDRwUFhoR09aZl9V?oc=5",
-   "ts": "Wed, 11 Nov 2026 02:28:44 GMT"
+   "title": "China’s trade surplus soars past $1T - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEhtRkVwYWNDRlNwRkg1eTIxTFpod0NYQ1lLdjFldWN2eHpscUFyQjYyNHdvMEJJTHRmWkVaOXBhN0JXU3lta25ValdOaEdubllvb1ljTmtjcEh4T3JKYV85MDhoM1cyN1FfODR2ckpycFpBWDhuOTlSdEJaY0s4SnhlMkR5ZGl4eG5RVkdCVGJCU3E0endCcXJucw?oc=5",
+   "ts": "Tue, 10 Nov 2026 12:24:30 GMT"
   },
   {
    "src": "gnews",
    "title": "China’s trade surplus exceeds $1tn for first 10 months of year - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmpqbG1WMjVjVGtaTmdwR2hnbkJ0OWxiS2NZNXVWSklHZDNoZTR6eXZXTWhTZHdIeUg1elJYLUNaNGhMNHB4dGVUMnBJMlNTVVpmSVBoX3o2Z1JTTFZKa3VTVVlnQkNtZk54VVEwdWVQMjhkakJGbXpiYU94YVdPSmdzYl8?oc=5",
    "ts": "Tue, 10 Nov 2026 06:09:45 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - The Killeen Daily Herald",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMktCWGxjdGFuLWhFQXZWb3BFT0V5RUoxY1R6ZHhkMThWR1RnN0hGRnNlYWM4NEFnbFhYbldSNnRGVkJHcEhpOFV2T214RF92OE1QV3hRbVBaMnZ5S0VSdXVDM3dVTnlLMmZSbXFfQ1JUWlRWNlh5VHdMeDZTQUpHYkpXeVM0ZDVhWmdjTm1ncEtTZ2JhUFRQRUFEOWFKVWc3WkpSNWdmMWxQczhPUnBsOVRKLWVpZkhJUEdqWFFaRW1YTWw3LWprR01TbFpFMW51ZnhUNjdTenVhaDdMNkVmVk9EQ2NTTjZmOEM2OTMyZkFhYVVtczNsMDRwUFhoR09aZl9V?oc=5",
+   "ts": "Wed, 11 Nov 2026 02:28:44 GMT"
   },
   {
    "src": "gnews",
@@ -443,21 +443,21 @@
   },
   {
    "src": "gnews",
-   "title": "Watch Citi's Poon Werkun on AI Trade, Fed, China - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY0xmT2J6MG9xWlVCQ0ZGU255SDFhYzFwc1poTHVmYk9Eem5LQ0RlTnVncnEwTFVxX1lISkw0RFFQLW9rVElwUkJnZmV2NFhWLUcyS3ZLdzdrUVpuSllMOExmeFpXRkJKVVFkRVBlSkhJZERsRG9va3lXTXBhN0FzZXRHMjdjNG1HMGpJR0ZZcXJ3ZXRNQUdxXzdlYw?oc=5",
-   "ts": "Wed, 11 Nov 2026 00:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China seeks high-tech upper hand in industry carrying 80% of global trade - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWNwN3AyR0VFQTBqeUREa3A0M25yWkktTGFNX082dE5xSzl1NXk5ajRhajRXb0tOdUVYT1FXQm11WHduOGR1Z09YQlByZklSNE96UTlySkhYM0F4TmZNWHluNFpuTDM2dHNfZG9za1U5bHM0Qjh6Z2hwTWd6TmV2OFE2dll3RlZ0YlM2azc1UmdxN0RnVzAzQkpjaFN0UFhWNFNVZzEwRDlWLWFjbkM5UXNLNmI?oc=5",
    "ts": "Tue, 10 Nov 2026 01:50:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Nvidia spy scandal exposes Singapore’s role in China’s AI chip trade - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWc2RWkwdFhTMDdpYjlfY1pQcWNnVkVDYXBYZmtEUEJVQkVpYmtZZlNpNmRIa2duTy1zeUtONHZ4eGx1UmgzbkctUHhxNERXSTJCVWhhU1BkVmhxc1FRalBONUdZS3lzc0ZTMlBZOXhUbVVzUFBXb29qOVp6N2hickhiOXU?oc=5",
-   "ts": "Wed, 11 Nov 2026 05:00:22 GMT"
+   "title": "Watch Citi's Poon Werkun on AI Trade, Fed, China - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY0xmT2J6MG9xWlVCQ0ZGU255SDFhYzFwc1poTHVmYk9Eem5LQ0RlTnVncnEwTFVxX1lISkw0RFFQLW9rVElwUkJnZmV2NFhWLUcyS3ZLdzdrUVpuSllMOExmeFpXRkJKVVFkRVBlSkhJZERsRG9va3lXTXBhN0FzZXRHMjdjNG1HMGpJR0ZZcXJ3ZXRNQUdxXzdlYw?oc=5",
+   "ts": "Wed, 11 Nov 2026 00:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China's undervalued currency is driving its trade surplus higher - Peterson Institute for International Economics",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnkzZE15TVlhc1FHU1hzOFJXNklMWERBbUpCSVNLVUw1OFdSS25xOEdZSEY5bXNjclhEWnFCcXF4WUJmUDRyTWpnMWdoMmRyWXVTYkYtUFhmellzaDJUeUladm4zcDYwWEw2eWpLVjQzZVl3c3o5VFZHM2NnM2R6YVJMS1Qtd1d6LVRkMmZtbFZtOHl3cExTTHBwNlhsZVRETVEyWk9ZLUdBQmp3dGNycQ?oc=5",
+   "ts": "Mon, 09 Nov 2026 14:00:00 GMT"
   }
  ]
 }

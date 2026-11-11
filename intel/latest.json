@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-11T05:45:18Z",
+ "ts": "2026-11-11T06:00:24Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -413,15 +413,15 @@
   },
   {
    "src": "gnews",
-   "title": "China’s trade surplus exceeds $1tn for first 10 months of year - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmpqbG1WMjVjVGtaTmdwR2hnbkJ0OWxiS2NZNXVWSklHZDNoZTR6eXZXTWhTZHdIeUg1elJYLUNaNGhMNHB4dGVUMnBJMlNTVVpmSVBoX3o2Z1JTTFZKa3VTVVlnQkNtZk54VVEwdWVQMjhkakJGbXpiYU94YVdPSmdzYl8?oc=5",
-   "ts": "Tue, 10 Nov 2026 06:09:45 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Without US action on China’s innovation blitz, biotech leaders see a Rust Belt future - BioSpace",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRG43TVpRUmc0eVlOUTJTdmE5bWNzeHlxb1NYaDRRVEFvNmFQY1cxLTlQa1dIckhYSDViSFFBd2xZTDk0ck1hNGVfM0NBWkxiVGx5LS0tQ29CR0IzSllEcVJUaXZjbFZZSzB0NllQal9OUlhuM1FEUzFsUWVCU1A3SnVPSjJIOHpCemZRckt4R29XS0hqMUlMaGpWemd6THl4R1JqeFNhR1dZeUpDV0tXYWFPRGx2WlpU?oc=5",
    "ts": "Wed, 11 Nov 2026 05:37:30 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s trade surplus exceeds $1tn for first 10 months of year - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmpqbG1WMjVjVGtaTmdwR2hnbkJ0OWxiS2NZNXVWSklHZDNoZTR6eXZXTWhTZHdIeUg1elJYLUNaNGhMNHB4dGVUMnBJMlNTVVpmSVBoX3o2Z1JTTFZKa3VTVVlnQkNtZk54VVEwdWVQMjhkakJGbXpiYU94YVdPSmdzYl8?oc=5",
+   "ts": "Tue, 10 Nov 2026 06:09:45 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "China's undervalued currency is driving its trade surplus higher - Peterson Institute for International Economics",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnkzZE15TVlhc1FHU1hzOFJXNklMWERBbUpCSVNLVUw1OFdSS25xOEdZSEY5bXNjclhEWnFCcXF4WUJmUDRyTWpnMWdoMmRyWXVTYkYtUFhmellzaDJUeUladm4zcDYwWEw2eWpLVjQzZVl3c3o5VFZHM2NnM2R6YVJMS1Qtd1d6LVRkMmZtbFZtOHl3cExTTHBwNlhsZVRETVEyWk9ZLUdBQmp3dGNycQ?oc=5",
-   "ts": "Mon, 09 Nov 2026 14:00:00 GMT"
+   "title": "Nvidia spy scandal exposes Singapore’s role in China’s AI chip trade - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWc2RWkwdFhTMDdpYjlfY1pQcWNnVkVDYXBYZmtEUEJVQkVpYmtZZlNpNmRIa2duTy1zeUtONHZ4eGx1UmgzbkctUHhxNERXSTJCVWhhU1BkVmhxc1FRalBONUdZS3lzc0ZTMlBZOXhUbVVzUFBXb29qOVp6N2hickhiOXU?oc=5",
+   "ts": "Wed, 11 Nov 2026 05:00:22 GMT"
   }
  ]
 }

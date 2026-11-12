@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-12T08:00:56Z",
+ "ts": "2026-11-12T08:15:50Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -407,15 +407,15 @@
   },
   {
    "src": "gnews",
-   "title": "China trade surplus on track for new record as tensions with EU grow - World Socialist Web Site",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yMmhtM3RuMWNpVlZKV1lyU0RKemxucVEzQ1gycE1jYUdRN1k4eEotUzZvdWtJYlozVHU3UE05VHprbGxCV2daaWRyMFpJRkg1eHNUTFJDNERNWGplOGJ3NC1vbXUzN21P?oc=5",
-   "ts": "Thu, 12 Nov 2026 04:48:05 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s Trade Surplus Surged Past $1 Trillion in October - WSJ",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNEdJRlEzYnZIbVRkWi1rc252aE9SbXdwZDVnWGwtVnhfNzBKMWJRUHZDdWJlZno4MC1WVFhKc3JMQ05IUjFQQjlMcmd2QVBYNFhFaDZmMXo2WlgzU2hhQm1FYm9zZXRoLWdRazFLdUVkOXU5eU83X0VNNjNQVzhZZmpDS25FTDVSQlk1TjZtUlpZcnJZN0VaR0Nfbw?oc=5",
    "ts": "Tue, 10 Nov 2026 04:04:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China trade surplus on track for new record as tensions with EU grow - World Socialist Web Site",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yMmhtM3RuMWNpVlZKV1lyU0RKemxucVEzQ1gycE1jYUdRN1k4eEotUzZvdWtJYlozVHU3UE05VHprbGxCV2daaWRyMFpJRkg1eHNUTFJDNERNWGplOGJ3NC1vbXUzN21P?oc=5",
+   "ts": "Thu, 12 Nov 2026 04:48:05 GMT"
   },
   {
    "src": "gnews",

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-12T11:01:10Z",
+ "ts": "2026-11-12T11:16:03Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -359,6 +359,12 @@
   },
   {
    "src": "gnews",
+   "title": "Nvidia Fallout Puts Trade Truce to the Test as Xi Welcomes Trump - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHB3ZXVuek1Nc2czX3hVUVBUTVMxM0hUVzhESEhOeGVjU1haSzdINFBTejRqbGZEZHFUWG94dHZiNHVqaDAyUjc0RFBpSExYWDZPRFpyanB2eTJwYUhoMTIxVUJIX1UtMDJ3MGkxMFVITDBpQXJFMVdYSVF0eEEzb1FRRTJlaEFRU3F5Wk5TRjE4Vl80Q1I4X1J6R2FpczR4MGZMZDN3ZUc1VnByMmpKTXJYdkxEUQ?oc=5",
+   "ts": "Thu, 12 Nov 2026 08:12:28 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China's trade surplus hits record high through October - CNN",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1JBRFVrR3l5eUE1djZHek5RUjlhT1dzUkVzNVpRY0xDRFdlR2FiRk5ma0JYemVyajU3eVkyRzBYaEluekhuOVZPdF9iblBLMVV0eUNpZUh3VXIxUjE3Y05TRlNZbHhLTzVkTC1TNmVYUlE3a19ZWjI4MGtkbFFISEtFRGtKb0ZWeFpKRWFwR21udjdkR3VhVDNXSUJmN0k1c21Wc3RTMXl0eGhycWc?oc=5",
    "ts": "Wed, 11 Nov 2026 23:03:02 GMT"
@@ -389,12 +395,6 @@
   },
   {
    "src": "gnews",
-   "title": "Nvidia fallout puts trade truce to the test as Xi welcomes Trump - The Japan Times",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUN4WWtWd2xiaFBZQ3VXWFVYSE11YlN2OG5nZmVERHVwOWtiMXZDSVZxZkpGaGkxUzNzLXFhUUlkYXBRYXRWNjFJUTNpeHYwVWFBcS1sYVlYclhvTm9reGxBUmxZcGkwQU45Rnc3eXRGMk9RS01jS3B3OWZtT2NwWG9IVGRkNEdfRlE?oc=5",
-   "ts": "Thu, 12 Nov 2026 02:39:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China in South Asia: October 2026 - Council on Foreign Relations",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Pb01CTjloNk9WeFhmTVRKeXhjVElJUUpRQkstZFNuamQyNGZ5dGVBbE5XOTY3OXZBOVdHVERsdHpUTDBEeTFmajJkWW1YZUNzalZuc1hjX1ZPRUFUQ084dEdjbDFCRXl0YW5wc3Fn?oc=5",
    "ts": "Wed, 11 Nov 2026 17:23:10 GMT"
@@ -413,15 +413,21 @@
   },
   {
    "src": "gnews",
-   "title": "Nvidia Fallout Puts Trade Truce to the Test as Xi Welcomes Trump - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHB3ZXVuek1Nc2czX3hVUVBUTVMxM0hUVzhESEhOeGVjU1haSzdINFBTejRqbGZEZHFUWG94dHZiNHVqaDAyUjc0RFBpSExYWDZPRFpyanB2eTJwYUhoMTIxVUJIX1UtMDJ3MGkxMFVITDBpQXJFMVdYSVF0eEEzb1FRRTJlaEFRU3F5Wk5TRjE4Vl80Q1I4X1J6R2FpczR4MGZMZDN3ZUc1VnByMmpKTXJYdkxEUQ?oc=5",
-   "ts": "Thu, 12 Nov 2026 02:01:03 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s Trade Surplus Surged Past $1 Trillion in October - WSJ",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNEdJRlEzYnZIbVRkWi1rc252aE9SbXdwZDVnWGwtVnhfNzBKMWJRUHZDdWJlZno4MC1WVFhKc3JMQ05IUjFQQjlMcmd2QVBYNFhFaDZmMXo2WlgzU2hhQm1FYm9zZXRoLWdRazFLdUVkOXU5eU83X0VNNjNQVzhZZmpDS25FTDVSQlk1TjZtUlpZcnJZN0VaR0Nfbw?oc=5",
    "ts": "Tue, 10 Nov 2026 04:04:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China trade surplus on track for new record as tensions with EU grow - World Socialist Web Site",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yMmhtM3RuMWNpVlZKV1lyU0RKemxucVEzQ1gycE1jYUdRN1k4eEotUzZvdWtJYlozVHU3UE05VHprbGxCV2daaWRyMFpJRkg1eHNUTFJDNERNWGplOGJ3NC1vbXUzN21P?oc=5",
+   "ts": "Thu, 12 Nov 2026 04:48:05 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s trade surplus exceeds $1tn for first 10 months of year - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmpqbG1WMjVjVGtaTmdwR2hnbkJ0OWxiS2NZNXVWSklHZDNoZTR6eXZXTWhTZHdIeUg1elJYLUNaNGhMNHB4dGVUMnBJMlNTVVpmSVBoX3o2Z1JTTFZKa3VTVVlnQkNtZk54VVEwdWVQMjhkakJGbXpiYU94YVdPSmdzYl8?oc=5",
+   "ts": "Tue, 10 Nov 2026 06:09:45 GMT"
   },
   {
    "src": "gnews",
@@ -431,21 +437,15 @@
   },
   {
    "src": "gnews",
-   "title": "China’s trade surplus hits record high through October - CNN",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdEUtZHEzQjY5czhvQjdzRTNnSlVmS0NGOUZ5TVdoei1mQWI2ZXhqWW04clZWaEdwWWljOWxrLUNxeFZ2S2pGTGpGUk9RdWV4SEdXY1Y1Y2wzRVM4YXlLT1VUaUs5T3l6YXJKbC1OYW94SFhNbThfRl9Jcjd6ZXdJWmUwVzFicHpnOXd2TkVNLU9vNUtfRHlIM2d3dm1iNWZnd3l3N1dtaUJiY2dhendsSWVKcw?oc=5",
-   "ts": "Wed, 11 Nov 2026 23:03:02 GMT"
+   "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
+   "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
   },
   {
    "src": "gnews",
    "title": "Citi turns to China Inc.'s global expansion, yuan to grow cross-border business - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFNpalg1VUw0c2hJZE1iYndPQ0dHTU9EZ0pucGVYUWc1Qi0wRzRBODJhajNfdDFxajhabFV3ek1QRk5TQWFfeU5vNTc3eE8waGhmTTFvMlVJV19jb3V5LVdMdVg4ZFAydl85ZFdfZ3RPWnVlSzJHbTVxd05IVENEN21jUm1kazZYQ0xaLUZEMVpTZFFNRkhyZ0tfakk0TmtuUW1FU2Y1TmEzZ0RhTkRkT3lhRmVCal9RSFpKRkwzVF8?oc=5",
    "ts": "Thu, 12 Nov 2026 08:29:17 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
-   "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
   },
   {
    "src": "gnews",

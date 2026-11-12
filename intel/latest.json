@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-12T10:01:04Z",
+ "ts": "2026-11-12T10:15:53Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -353,6 +353,12 @@
   },
   {
    "src": "gnews",
+   "title": "Nvidia fallout could hamper US-China trade talks - Semafor",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNm1WbHVHSkZsX0FCWmxVVFFETnE2LUJaR1ZMLXNJcTlpRzhURy1WSlRBRDIzWUN4c0hkMndMcXJGUzNsdno1Tm9ObkM2QlE1SlBmbmJWZDZPWGNvai1QbGt3QXZtR0RCZEhoLUlxZjZYbFZkMHFFcV9nYjJUejZUTHItMGZLUGpxQ1FIUnVZMjFrOVV0RGc?oc=5",
+   "ts": "Thu, 12 Nov 2026 09:58:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China's trade surplus hits record high through October - CNN",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1JBRFVrR3l5eUE1djZHek5RUjlhT1dzUkVzNVpRY0xDRFdlR2FiRk5ma0JYemVyajU3eVkyRzBYaEluekhuOVZPdF9iblBLMVV0eUNpZUh3VXIxUjE3Y05TRlNZbHhLTzVkTC1TNmVYUlE3a19ZWjI4MGtkbFFISEtFRGtKb0ZWeFpKRWFwR21udjdkR3VhVDNXSUJmN0k1c21Wc3RTMXl0eGhycWc?oc=5",
    "ts": "Wed, 11 Nov 2026 23:03:02 GMT"
@@ -434,12 +440,6 @@
    "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
    "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSU1YMHJMZ1Z5dkdxNWx5S3gyOUlSSVZiQW9LNEZvVmlTblc1SW1vVFZiZ2R1alZDQjI3QnZERy1VNmxxcUZUSlNrNzBVd0xEUUp2dlRUd2tNVzNjX0lRYl9iV0Y1cjR0cmE5NHE1VzBqVFU4WndsdGtEN1RqRmUxa2dOb3FBVmM?oc=5",
-   "ts": "Wed, 11 Nov 2026 20:02:12 GMT"
   },
   {
    "src": "gnews",

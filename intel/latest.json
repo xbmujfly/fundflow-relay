@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-12T10:15:53Z",
+ "ts": "2026-11-12T10:30:57Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -425,27 +425,27 @@
   },
   {
    "src": "gnews",
-   "title": "China’s trade surplus exceeds $1tn for first 10 months of year - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmpqbG1WMjVjVGtaTmdwR2hnbkJ0OWxiS2NZNXVWSklHZDNoZTR6eXZXTWhTZHdIeUg1elJYLUNaNGhMNHB4dGVUMnBJMlNTVVpmSVBoX3o2Z1JTTFZKa3VTVVlnQkNtZk54VVEwdWVQMjhkakJGbXpiYU94YVdPSmdzYl8?oc=5",
-   "ts": "Tue, 10 Nov 2026 06:09:45 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "As China’s futuristic city hosts Trump, its startups bank on foreign buyers - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOG43c09QM3ZmaVpnZ1EwX1E5TlNiMUdLS1BKdWU0bHMxSkYwUmNoUzV6UG9aS3c0SXlIZXhXYXpZQzduQUt3MTRUSjdadVpHQ2wwM1RhZ0xVSTdNajZfODdzYk9zcl9MRzFRU3Fmdnc0S0hqQmRneGE1S0YzRm5KcDhTTnc1akRsZ19hXzhwelhuM1VyUXZNRDM0NlpTTVZndEdKMmlqVmo1TV9yTUV5LW9rbWRCRERX?oc=5",
    "ts": "Thu, 12 Nov 2026 05:03:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
-   "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
+   "title": "China’s trade surplus hits record high through October - CNN",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdEUtZHEzQjY5czhvQjdzRTNnSlVmS0NGOUZ5TVdoei1mQWI2ZXhqWW04clZWaEdwWWljOWxrLUNxeFZ2S2pGTGpGUk9RdWV4SEdXY1Y1Y2wzRVM4YXlLT1VUaUs5T3l6YXJKbC1OYW94SFhNbThfRl9Jcjd6ZXdJWmUwVzFicHpnOXd2TkVNLU9vNUtfRHlIM2d3dm1iNWZnd3l3N1dtaUJiY2dhendsSWVKcw?oc=5",
+   "ts": "Wed, 11 Nov 2026 23:03:02 GMT"
   },
   {
    "src": "gnews",
    "title": "Citi turns to China Inc.'s global expansion, yuan to grow cross-border business - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFNpalg1VUw0c2hJZE1iYndPQ0dHTU9EZ0pucGVYUWc1Qi0wRzRBODJhajNfdDFxajhabFV3ek1QRk5TQWFfeU5vNTc3eE8waGhmTTFvMlVJV19jb3V5LVdMdVg4ZFAydl85ZFdfZ3RPWnVlSzJHbTVxd05IVENEN21jUm1kazZYQ0xaLUZEMVpTZFFNRkhyZ0tfakk0TmtuUW1FU2Y1TmEzZ0RhTkRkT3lhRmVCal9RSFpKRkwzVF8?oc=5",
    "ts": "Thu, 12 Nov 2026 08:29:17 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
+   "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
   },
   {
    "src": "gnews",

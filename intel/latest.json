@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-12T01:45:17Z",
+ "ts": "2026-11-12T02:00:24Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -359,6 +359,12 @@
   },
   {
    "src": "gnews",
+   "title": "China in South Asia: October 2026 - Council on Foreign Relations",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Pb01CTjloNk9WeFhmTVRKeXhjVElJUUpRQkstZFNuamQyNGZ5dGVBbE5XOTY3OXZBOVdHVERsdHpUTDBEeTFmajJkWW1YZUNzalZuc1hjX1ZPRUFUQ084dEdjbDFCRXl0YW5wc3Fn?oc=5",
+   "ts": "Wed, 11 Nov 2026 17:23:10 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
    "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
@@ -371,15 +377,9 @@
   },
   {
    "src": "gnews",
-   "title": "China in South Asia: October 2026 - Council on Foreign Relations",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Pb01CTjloNk9WeFhmTVRKeXhjVElJUUpRQkstZFNuamQyNGZ5dGVBbE5XOTY3OXZBOVdHVERsdHpUTDBEeTFmajJkWW1YZUNzalZuc1hjX1ZPRUFUQ084dEdjbDFCRXl0YW5wc3Fn?oc=5",
-   "ts": "Wed, 11 Nov 2026 17:23:10 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
-   "ts": "Tue, 10 Nov 2026 14:37:00 GMT"
+   "ts": "Tue, 10 Nov 2026 03:20:51 GMT"
   },
   {
    "src": "gnews",
@@ -401,15 +401,21 @@
   },
   {
    "src": "gnews",
+   "title": "China's undervalued currency is driving its trade surplus higher - Peterson Institute for International Economics",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnkzZE15TVlhc1FHU1hzOFJXNklMWERBbUpCSVNLVUw1OFdSS25xOEdZSEY5bXNjclhEWnFCcXF4WUJmUDRyTWpnMWdoMmRyWXVTYkYtUFhmellzaDJUeUladm4zcDYwWEw2eWpLVjQzZVl3c3o5VFZHM2NnM2R6YVJMS1Qtd1d6LVRkMmZtbFZtOHl3cExTTHBwNlhsZVRETVEyWk9ZLUdBQmp3dGNycQ?oc=5",
+   "ts": "Mon, 09 Nov 2026 14:00:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China’s Trade Surplus Surged Past $1 Trillion in October - WSJ",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNEdJRlEzYnZIbVRkWi1rc252aE9SbXdwZDVnWGwtVnhfNzBKMWJRUHZDdWJlZno4MC1WVFhKc3JMQ05IUjFQQjlMcmd2QVBYNFhFaDZmMXo2WlgzU2hhQm1FYm9zZXRoLWdRazFLdUVkOXU5eU83X0VNNjNQVzhZZmpDS25FTDVSQlk1TjZtUlpZcnJZN0VaR0Nfbw?oc=5",
    "ts": "Tue, 10 Nov 2026 04:04:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "China's undervalued currency is driving its trade surplus higher - Peterson Institute for International Economics",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnkzZE15TVlhc1FHU1hzOFJXNklMWERBbUpCSVNLVUw1OFdSS25xOEdZSEY5bXNjclhEWnFCcXF4WUJmUDRyTWpnMWdoMmRyWXVTYkYtUFhmellzaDJUeUladm4zcDYwWEw2eWpLVjQzZVl3c3o5VFZHM2NnM2R6YVJMS1Qtd1d6LVRkMmZtbFZtOHl3cExTTHBwNlhsZVRETVEyWk9ZLUdBQmp3dGNycQ?oc=5",
-   "ts": "Mon, 09 Nov 2026 14:00:00 GMT"
+   "title": "Contributor: Democrats should sort out South Korean trade disparities as well as China issues - Los Angeles Times",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMDktZHpxdTFVZ1R2dzNmT0lYOFpNdWJKbVdJVEtOUFpfZWhPLXJOc0xKZk1zLThjTE1kVHZJRjFTazNOZEZlY2QwdVIyZzRXX0ZDWk5CVkhORHJzNm5DM3N3LUN4MHNSUzQxV3Jkdm1iUlJheFR1TXhKN3BUTkgxZmowaFJVU1h0b0xidEhMaVBKU0NKRVBUOQ?oc=5",
+   "ts": "Wed, 11 Nov 2026 20:42:45 GMT"
   },
   {
    "src": "gnews",
@@ -419,9 +425,9 @@
   },
   {
    "src": "gnews",
-   "title": "Contributor: Democrats should sort out South Korean trade disparities as well as China issues - Los Angeles Times",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMDktZHpxdTFVZ1R2dzNmT0lYOFpNdWJKbVdJVEtOUFpfZWhPLXJOc0xKZk1zLThjTE1kVHZJRjFTazNOZEZlY2QwdVIyZzRXX0ZDWk5CVkhORHJzNm5DM3N3LUN4MHNSUzQxV3Jkdm1iUlJheFR1TXhKN3BUTkgxZmowaFJVU1h0b0xidEhMaVBKU0NKRVBUOQ?oc=5",
-   "ts": "Wed, 11 Nov 2026 20:42:45 GMT"
+   "title": "China’s passenger car exports surge in October as domestic demand remains weak - Japan Today",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQXUzd2lqeGlkaEltY0I4MUZmbGZ2Y0wzNGsyTUd2a0IwM0ljeWtuS0p3SWFTbVRzNExsUDdpakozaUhTaEVBSjJpbXRRbWd2bXQ5bHZocm1sTTgtWVVVZ1ZZUmZ4UnBtNU5tVmxCN21DV29tM2JmX3ZVZGxZcTk1eFNsaXM1RURPYlZRcS1xcUlrR3VtZzNyZjlzd1lHWFR0b25TUExDU1dldnZuOTdreXhqTThCbUpUTmpWTTdvWHBVRU5IMnc?oc=5",
+   "ts": "Wed, 11 Nov 2026 19:45:00 GMT"
   },
   {
    "src": "gnews",
@@ -440,12 +446,6 @@
    "title": "U.S. Container Imports Hit Record High as China Trade Surges, Port Delays Mount - MarineLink",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaS1qcE5nT2NfNWlFRFdKTHJXNVVqX3d1aDdyUTVEdjh0QlRGOFNVVl9LZ1k5blh0ZVk3cjE4cERCOWpHUzdpVWprM0txXzJBSUtXWnZkVFlvLWdDekt0Vm1fTFNfbkVnWmU0c2lYb2JkT1RfSWRZYkk5ZG1UbEY3SA?oc=5",
    "ts": "Wed, 11 Nov 2026 11:47:23 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s passenger car exports surge in October as domestic demand remains weak - Japan Today",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQXUzd2lqeGlkaEltY0I4MUZmbGZ2Y0wzNGsyTUd2a0IwM0ljeWtuS0p3SWFTbVRzNExsUDdpakozaUhTaEVBSjJpbXRRbWd2bXQ5bHZocm1sTTgtWVVVZ1ZZUmZ4UnBtNU5tVmxCN21DV29tM2JmX3ZVZGxZcTk1eFNsaXM1RURPYlZRcS1xcUlrR3VtZzNyZjlzd1lHWFR0b25TUExDU1dldnZuOTdreXhqTThCbUpUTmpWTTdvWHBVRU5IMnc?oc=5",
-   "ts": "Wed, 11 Nov 2026 19:45:00 GMT"
   },
   {
    "src": "gnews",

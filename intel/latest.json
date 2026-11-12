@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-12T15:46:05Z",
+ "ts": "2026-11-12T23:01:03Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,11 +33,18 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "URLError: <urlopen error timed out>"
   }
  },
  "items": [
+  {
+   "src": "whitehouse",
+   "title": "Nominations Sent to the Senate",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6/",
+   "ts": "Thu, 12 Nov 2026 22:04:41 +0000"
+  },
   {
    "src": "whitehouse",
    "title": "Nominations and Withdrawals Sent to the Senate",
@@ -153,12 +160,6 @@
    "ts": "Tue, 06 Oct 2026 01:13:53 +0000"
   },
   {
-   "src": "whitehouse",
-   "title": "National Manufacturing Day, 2026",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/national-manufacturing-day-2026/",
-   "ts": "Fri, 02 Oct 2026 19:29:58 +0000"
-  },
-  {
    "src": "ustr",
    "title": "Weekly Trade Focus: APEC",
    "url": "https://ustr.gov/about-us/policy-offices/press-office/blog/weekly-trade-focus-apec",
@@ -217,6 +218,24 @@
    "title": "USTR Announces 2026 Award Recipients",
    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ustr-announces-2026-award-recipients",
    "ts": "Wed, 21 Oct 2026 23:05:13 +0000"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check ",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+   "ts": "Thu, 12 Nov 2026 18:30:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+   "ts": "Thu, 12 Nov 2026 17:45:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+   "ts": "Thu, 12 Nov 2026 16:00:00 GMT"
   },
   {
    "src": "fed",
@@ -321,30 +340,6 @@
    "ts": "Thu, 24 Sep 2026 18:30:00 GMT"
   },
   {
-   "src": "fed",
-   "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
-   "ts": "Thu, 24 Sep 2026 15:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
-   "ts": "Tue, 22 Sep 2026 20:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
-   "ts": "Fri, 18 Sep 2026 15:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Nvidia Fallout Puts Trade Truce to the Test as Xi Welcomes Trump - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHB3ZXVuek1Nc2czX3hVUVBUTVMxM0hUVzhESEhOeGVjU1haSzdINFBTejRqbGZEZHFUWG94dHZiNHVqaDAyUjc0RFBpSExYWDZPRFpyanB2eTJwYUhoMTIxVUJIX1UtMDJ3MGkxMFVITDBpQXJFMVdYSVF0eEEzb1FRRTJlaEFRU3F5Wk5TRjE4Vl80Q1I4X1J6R2FpczR4MGZMZDN3ZUc1VnByMmpKTXJYdkxEUQ?oc=5",
-   "ts": "Thu, 12 Nov 2026 08:12:28 GMT"
-  },
-  {
    "src": "gnews",
    "title": "Trump trade chief Greer speaks with 'Squawk Box' as tariff threats rise - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREd1Qk8yb2FyRTJnblVuX0lQNkhyZWFfckhCVjZVTVJBR0RwbUtNZEppUHVWZ015aThqZGY1bG9BRExVRVhIM0E5NEhOa05wRENZNmswWWQ1TXlnWTlEZVJzSnhhLThZWDB5QS1QVElqMkFyZzBuZnJXOGNEd19XcnZFQU5YTk9S?oc=5",
@@ -358,9 +353,9 @@
   },
   {
    "src": "gnews",
-   "title": "Nvidia fallout could hamper US-China trade talks - Semafor",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNm1WbHVHSkZsX0FCWmxVVFFETnE2LUJaR1ZMLXNJcTlpRzhURy1WSlRBRDIzWUN4c0hkMndMcXJGUzNsdno1Tm9ObkM2QlE1SlBmbmJWZDZPWGNvai1QbGt3QXZtR0RCZEhoLUlxZjZYbFZkMHFFcV9nYjJUejZUTHItMGZLUGpxQ1FIUnVZMjFrOVV0RGc?oc=5",
-   "ts": "Thu, 12 Nov 2026 09:58:00 GMT"
+   "title": "Nvidia Fallout Puts Trade Truce to the Test as Xi Welcomes Trump - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHB3ZXVuek1Nc2czX3hVUVBUTVMxM0hUVzhESEhOeGVjU1haSzdINFBTejRqbGZEZHFUWG94dHZiNHVqaDAyUjc0RFBpSExYWDZPRFpyanB2eTJwYUhoMTIxVUJIX1UtMDJ3MGkxMFVITDBpQXJFMVdYSVF0eEEzb1FRRTJlaEFRU3F5Wk5TRjE4Vl80Q1I4X1J6R2FpczR4MGZMZDN3ZUc1VnByMmpKTXJYdkxEUQ?oc=5",
+   "ts": "Thu, 12 Nov 2026 08:12:28 GMT"
   },
   {
    "src": "gnews",
@@ -370,15 +365,15 @@
   },
   {
    "src": "gnews",
-   "title": "China's trade surplus hits record high through October - CNN",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1JBRFVrR3l5eUE1djZHek5RUjlhT1dzUkVzNVpRY0xDRFdlR2FiRk5ma0JYemVyajU3eVkyRzBYaEluekhuOVZPdF9iblBLMVV0eUNpZUh3VXIxUjE3Y05TRlNZbHhLTzVkTC1TNmVYUlE3a19ZWjI4MGtkbFFISEtFRGtKb0ZWeFpKRWFwR21udjdkR3VhVDNXSUJmN0k1c21Wc3RTMXl0eGhycWc?oc=5",
-   "ts": "Wed, 11 Nov 2026 23:03:02 GMT"
+   "title": "Bessent calls for more balanced trade with China ahead of Trump-Xi talks - The Hill",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYlhRbEROWDNNT2N0RGJHMDJwaGJ3WjFhdVhPMW1Rejcwc3VyS1hzMy1SdU5sZDVuUGN6Vi1WZGlKUnQ3RzlUV3ZsSDBfOXQ2QzNCNmVJdVBzR2F3WFJGTDREQmR1MVJlaW1wcTF5d0VKLTE1c3d0dWtkTUVhX256NW1vbHpEWWVCSHAxREZ3clc0SlVCMkx6bjA3RkJNY3pjUjEwRFFoUXpZVGFWdEU3TtIBtgFBVV95cUxONkg0M2NHZE1HU1hnQ2x2QnVwZlhMMmRWaENPdFN5TUstSzAwUFhIYTduN1czd1FDNHUzbV8zOEdVZWR2T0luOTIyWnhoa0tscmZQMFBCTS1pMWo5RXlBQVVQUC1rOWp0UW1rWTBiamxqN1hPQjUwaWxZZGQxSUhST1FUYWc3d2VveDdnb3VtRVdZZTQ0R2JvNzBYenJZN3FzcVp1ZE1IVk1iUGRNUmhIczBnQ01wZw?oc=5",
+   "ts": "Wed, 11 Nov 2026 14:02:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Bessent calls for more balanced trade with China ahead of Trump-Xi talks - The Hill",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYlhRbEROWDNNT2N0RGJHMDJwaGJ3WjFhdVhPMW1Rejcwc3VyS1hzMy1SdU5sZDVuUGN6Vi1WZGlKUnQ3RzlUV3ZsSDBfOXQ2QzNCNmVJdVBzR2F3WFJGTDREQmR1MVJlaW1wcTF5d0VKLTE1c3d0dWtkTUVhX256NW1vbHpEWWVCSHAxREZ3clc0SlVCMkx6bjA3RkJNY3pjUjEwRFFoUXpZVGFWdEU3Tg?oc=5",
-   "ts": "Wed, 11 Nov 2026 14:02:00 GMT"
+   "title": "Nvidia fallout could hamper US-China trade talks - Semafor",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNm1WbHVHSkZsX0FCWmxVVFFETnE2LUJaR1ZMLXNJcTlpRzhURy1WSlRBRDIzWUN4c0hkMndMcXJGUzNsdno1Tm9ObkM2QlE1SlBmbmJWZDZPWGNvai1QbGt3QXZtR0RCZEhoLUlxZjZYbFZkMHFFcV9nYjJUejZUTHItMGZLUGpxQ1FIUnVZMjFrOVV0RGc?oc=5",
+   "ts": "Thu, 12 Nov 2026 09:58:00 GMT"
   },
   {
    "src": "gnews",
@@ -394,6 +389,12 @@
   },
   {
    "src": "gnews",
+   "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
+   "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China’s Trade Surplus Surged Past $1 Trillion in October - WSJ",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNEdJRlEzYnZIbVRkWi1rc252aE9SbXdwZDVnWGwtVnhfNzBKMWJRUHZDdWJlZno4MC1WVFhKc3JMQ05IUjFQQjlMcmd2QVBYNFhFaDZmMXo2WlgzU2hhQm1FYm9zZXRoLWdRazFLdUVkOXU5eU83X0VNNjNQVzhZZmpDS25FTDVSQlk1TjZtUlpZcnJZN0VaR0Nfbw?oc=5",
    "ts": "Tue, 10 Nov 2026 04:04:00 GMT"
@@ -406,15 +407,21 @@
   },
   {
    "src": "gnews",
-   "title": "Bessent calls for balanced US-China trade ahead of Trump-Xi meeting next week - Baltimore Sun",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMER4SEp3ckk1VnlPMkpYT2pGT21fejJEVkFlZW1HYXhWV0hqbnBkSUVxNk41OVRrZ2tjN0Z5VDZ3V3NlYVowWUNMbFpaX2Vhc0VYMmlYQlBEeVRHbWNDamVMbnRCYzVWMk5BRkJPcXpQN2VKN21iRGVJV1U0VGNMRzE5ZUxTTWhsWTVwdDVOT0MyYVJsLW4xbWdQSWpWRzlsVzIwcHMtSU5GTDZsWjRTVGYzRWlZLTkxUVE?oc=5",
-   "ts": "Thu, 12 Nov 2026 12:58:16 GMT"
+   "title": "China’s trade surplus exceeds $1tn for first 10 months of year - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmpqbG1WMjVjVGtaTmdwR2hnbkJ0OWxiS2NZNXVWSklHZDNoZTR6eXZXTWhTZHdIeUg1elJYLUNaNGhMNHB4dGVUMnBJMlNTVVpmSVBoX3o2Z1JTTFZKa3VTVVlnQkNtZk54VVEwdWVQMjhkakJGbXpiYU94YVdPSmdzYl8?oc=5",
+   "ts": "Tue, 10 Nov 2026 06:09:45 GMT"
   },
   {
    "src": "gnews",
-   "title": "China’s trade surplus exceeds $1tn for first 10 months of year - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmpqbG1WMjVjVGtaTmdwR2hnbkJ0OWxiS2NZNXVWSklHZDNoZTR6eXZXTWhTZHdIeUg1elJYLUNaNGhMNHB4dGVUMnBJMlNTVVpmSVBoX3o2Z1JTTFZKa3VTVVlnQkNtZk54VVEwdWVQMjhkakJGbXpiYU94YVdPSmdzYl8?oc=5",
-   "ts": "Tue, 10 Nov 2026 03:09:14 GMT"
+   "title": "White House weighs Commerce Secretary Lutnick's ouster amid Nvidia export concerns, sources say - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ2JBc1RoY3pGRnZ0R1BzOW43SHY5eGxjZHpwMlZVZWNSRDMxaG51ZkVSdkVuN1I4bkdCTEZTV3ZETGRpVTBxaGhHSlprM25XNFd0b3N6eHJhc3RneHJrWGl2alVlTVh6R0xtbFJVLTRjaEE0djZxTE54Nkp4UHBYWVJKdGlhM2hmNFM2dWRNeWF0d2tRcnVYT0dtOXZDdGx4QXlsUHAzOHNKQUpaTFE?oc=5",
+   "ts": "Thu, 12 Nov 2026 22:26:27 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trafigura Is Key Player in LME Aluminum Squeeze With China Trade - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSTlHdGJudFBBbEQ1V2tkY09oZ3Q2b050dkc2RnU0ejhoWV93M1phbnNMa096ZTdRd0p2TEd6TmFWS1Npa1pTY1lkWGlGVkM4RENSSnVMVHhMRjFmTE1Wb2VLQldiRWJYaU1XVXkwYzZ6NldRT0hGbDlmVlpuaU5ydUNJM0Z5ZGFSSkxoWHcyMTl2amVmQ05ORlJXOHhsTU5YUDhJSERlcmJKb1gteFcxT2pDZXZmdw?oc=5",
+   "ts": "Thu, 12 Nov 2026 20:16:33 GMT"
   },
   {
    "src": "gnews",
@@ -424,159 +431,33 @@
   },
   {
    "src": "gnews",
-   "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
-   "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
+   "title": "This Trader Raised Alarm About Nvidia’s China Entanglements Months Ago - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX2FTU2VwZWc4azh1MzNySzJzQ29qWXV4akVDNUF3Y0g3NjR4VDRvdUtZRkNDd2tuTnpvS3hUc0VFR185YU9WNjhpa25zcWtYSkJWbnhMOE1fWFpXd0UtMloxZmtmMzBMZFJjWWhwbXU4Q2NrRkVsTExvdTRVTmFmTTB6Z0QyYXdnZmx3?oc=5",
+   "ts": "Thu, 12 Nov 2026 22:10:13 GMT"
   },
   {
    "src": "gnews",
    "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - AP News",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzZvaHZqSTdNX2R6b1BzNzJKdnI4NDNacDYzdkhud2ZUcERRVlBjcTdsZWxBVDZZYUlaRFdDZlpyMHhSNEJfVUk0TG1HQTRMOWloMlR0QWdEakxjZEN5UV85a2hQa2NNYnlfcjNiU3A4cVdCVnQ1dzNMZW82cWNxU0RKVU9aTkpWQUtxNG85aG9KQQ?oc=5",
-   "ts": "Wed, 11 Nov 2026 02:28:00 GMT"
+   "ts": "Wed, 11 Nov 2026 02:30:56 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China's trade surplus hits record high through October - CNN",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1JBRFVrR3l5eUE1djZHek5RUjlhT1dzUkVzNVpRY0xDRFdlR2FiRk5ma0JYemVyajU3eVkyRzBYaEluekhuOVZPdF9iblBLMVV0eUNpZUh3VXIxUjE3Y05TRlNZbHhLTzVkTC1TNmVYUlE3a19ZWjI4MGtkbFFISEtFRGtKb0ZWeFpKRWFwR21udjdkR3VhVDNXSUJmN0k1c21Wc3RTMXl0eGhycWc?oc=5",
+   "ts": "Wed, 11 Nov 2026 23:03:02 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "COMMENTARY: Fund sellers, China buyers squeeze copper's tariff trade - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWlpXV0JiLWp6alEyWjJXejVxdE95VFBrMzVVcDJiOGtWc2NFcUtNN0R1cXl2cmlQdmhlMjI1ZDA3U2pzcko1UjYtc013SDNfNlZ2TUJlbUlIQnhDMXNxZmtDVHE5VUdwQWxER19oSjNLN052bnVrYlQ0QVNzallzOVU1bXdxNFlHSy1idC0zTGlNTnBscUNDdTNjdDBpb3BtUjJqMnpIRE1MQzVIVVRPeUMxUnE0LU1mb2h4T3hJVno?oc=5",
+   "ts": "Mon, 09 Nov 2026 23:00:00 GMT"
   },
   {
    "src": "gnews",
    "title": "As China’s futuristic city hosts Trump, its startups bank on foreign buyers - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOG43c09QM3ZmaVpnZ1EwX1E5TlNiMUdLS1BKdWU0bHMxSkYwUmNoUzV6UG9aS3c0SXlIZXhXYXpZQzduQUt3MTRUSjdadVpHQ2wwM1RhZ0xVSTdNajZfODdzYk9zcl9MRzFRU3Fmdnc0S0hqQmRneGE1S0YzRm5KcDhTTnc1akRsZ19hXzhwelhuM1VyUXZNRDM0NlpTTVZndEdKMmlqVmo1TV9yTUV5LW9rbWRCRERX?oc=5",
    "ts": "Thu, 12 Nov 2026 05:03:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Citi turns to China Inc.'s global expansion, yuan to grow cross-border business - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFNpalg1VUw0c2hJZE1iYndPQ0dHTU9EZ0pucGVYUWc1Qi0wRzRBODJhajNfdDFxajhabFV3ek1QRk5TQWFfeU5vNTc3eE8waGhmTTFvMlVJV19jb3V5LVdMdVg4ZFAydl85ZFdfZ3RPWnVlSzJHbTVxd05IVENEN21jUm1kazZYQ0xaLUZEMVpTZFFNRkhyZ0tfakk0TmtuUW1FU2Y1TmEzZ0RhTkRkT3lhRmVCal9RSFpKRkwzVF8?oc=5",
-   "ts": "Thu, 12 Nov 2026 08:29:17 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump's ties to Nvidia CEO Jensen Huang in the spotlight - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1RYYVlNcjVQeGNHTUREclhvOXJQaEtpd2N5UmU2em9ZSTRQdTFJTjZlTGVBQTlSUGJuanhhXzV1cXNoVFBYbDk1aHNWeGpPcl9Hd2ZCM0w2YW95T1c3dFJUX0Z2WVF5cEZRNVBWaXNTRF9nOElKbnFuN3g1R0lXdTViRXpQclFxR2dyR0hpVlIxSk81?oc=5",
-   "ts": "Thu, 12 Nov 2026 01:56:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China's CNOOC reports major ultra-deep gas discovery in Bohai Sea - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONEUzYUd5S2Q2WUdwS0pHd2wtQ1dvM1QtQVhVdFRjRzVpcUEwZzZJTnpuWk5Id0RtZUZzWGVUaktBenFRcWNnaWw0M1ZMYl9kdjIzSTdpMUpvSnF0OWRXRVVtRzB4TnExLW44QzlZb1c0di1ickdreGdnWVBELTdaMk1XUVVucUdjb1JEdXlSaERmNTB2LXFrQjlqZ2FZck9WM25Xc3RTSmpoM2xDM2tBYzBkMA?oc=5",
-   "ts": "Thu, 12 Nov 2026 03:07:43 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Democrats flock to Denver to set a post - midterms agenda",
-   "url": "https://www.wokv.com/news/politics/democrats-flock/OU576L7Z4M7TFFGZLP4G4HTST4/",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Nvidia faces more risks in deal pace than Jensen Huang exit , says Bloomberg Intelligence",
-   "url": "https://www.businesstimes.com.sg/companies-markets/nvidia-faces-more-risks-deal-pace-jensen-huang-exit-bloomberg-intelligence",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Wysłannicy Donalda Trumpa wylądowali w Moskwie . Do sieci trafiło nagranie",
-   "url": "https://wiadomosci.onet.pl/swiat/wyslannicy-donalda-trumpa-wyladowali-w-moskwie-do-sieci-trafilo-nagranie/yp4z46b",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Yhdysvaltain erityislähettilt Moskovaan tapaamaan Putinia",
-   "url": "https://www.kaleva.fi/yhdysvaltain-erityislahettilaat-moskovaan-tapaamaa/13751580",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Heute geschlossen : Beitrag finnischer Botschaft wird zu Meme",
-   "url": "https://www.gn-online.de/panorama/heute-geschlossen-beitrag-finnischer-botschaft-wird-zu-meme-628231.html",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "خبير إستراتيجي : التلويح الأمريكي بـ « أم القنابل » ضد إيران رسالة للضغط وفرض تنازلات نووية وصاروخية",
-   "url": "https://www.vetogate.com/5768587",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Что говорят о переговорах по Украине в Абу - Даби ? ",
-   "url": "https://www.amic.ru/news/proyavili-gibkost-kak-v-mire-ocenili-trehstoronnie-peregovory-po-ukraine-v-abu-dabi-596542",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Мирні переговори - деякі європейці налаштовані скептично та побоюються російської пастки – ZN . ua",
-   "url": "https://zn.ua/ukr/war/uchast-jevropi-v-perehovorakh-shchodo-ukrajini-jevropejtsi-osterihajutsja-rosijskoji-pastki-politico.html",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "50 leaders in Dublin for State largest diplomatic event",
-   "url": "https://www.rte.ie/news/eu-presidency/2026/1112/1598891-epc-summit/",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump - Xi - Putin Summit : Will China Join Nuclear Talks Amid Global Tensions ? ",
-   "url": "https://openthemagazine.com/world/rubio-wang-call-puts-trump-xi-putin-summit-in-focus-will-china-agree-to-nuclear-talks",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Fifty heads of state gather in Dublin for major European summit",
-   "url": "https://www.ilfordrecorder.co.uk/news/national/26721808.fifty-heads-state-gather-dublin-major-european-summit/",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "UN Security Council to meet on  situation in the Middle East  ",
-   "url": "https://news.webindia123.com/news/Articles/World/20261112/4518644.html",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Tom Purcell - What if a coma patient awakes after the midterms ? ",
-   "url": "http://www.crescent-news.com/opinion/opinion_columnists/tom-purcell---what-if-a-coma-patient-awakes-after-the-midterms/article_89dae72b-bac3-4993-90b0-517bd12a991a.html",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Στη Μόσχα Γουίτκοφ και Κούσνερ - Θα συναντηθούν με τον Βλαντίμιρ Πούτιν",
-   "url": "https://www.newsbomb.gr/kosmos/story/1775968/sti-mosxa-gouitkof-kai-koysner-tha-synantithoyn-me-ton-vlantimir-poytin",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "The New Democrat Congress Will Produce a Disappointing Scorecard",
-   "url": "https://townhall.com/columnists/terrypaulson/2026/11/12/the-new-democrat-congress-will-produce-a-disappointing-scorecard-n2686239",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Fifty heads of state gather in Dublin for major European summit",
-   "url": "https://www.bracknellnews.co.uk/news/national/26721808.fifty-heads-state-gather-dublin-major-european-summit/",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "万斯获特朗普授权主导对伊朗谈判 考虑与伊朗高级安全官员直接会面",
-   "url": "https://original.ifeng.com/c/8xzaGjATITd",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Nvidia Board May Remove CEO Jensen Huang Amid Scandal",
-   "url": "https://udaipurkiran.com/nvidia-board-may-remove-ceo-jensen-huang-amid-scandal/",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "4K à 120 i / s , double écran OLED , étanche à 20 m … et - 40 % : la DJI Osmo Action 5 Pro met GoPro sous pression ⚡️",
-   "url": "https://www.presse-citron.net/4k-a-120-i-s-double-ecran-oled-etanche-a-20-m-et-40-la-dji-osmo-action-5-pro-met-gopro-sous-pression/",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Fear Jon Ossoff - Daily Press",
-   "url": "https://www.dailypress.net/opinion/local-columns/2026/11/fear-jon-ossoff/",
-   "ts": "20261112T070000Z"
   }
  ]
 }

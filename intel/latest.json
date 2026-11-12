@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-12T03:30:25Z",
+ "ts": "2026-11-12T03:45:19Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,15 +341,15 @@
   },
   {
    "src": "gnews",
-   "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
-   "ts": "Tue, 10 Nov 2026 02:42:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China's trade surplus hits record high through October - CNN",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1JBRFVrR3l5eUE1djZHek5RUjlhT1dzUkVzNVpRY0xDRFdlR2FiRk5ma0JYemVyajU3eVkyRzBYaEluekhuOVZPdF9iblBLMVV0eUNpZUh3VXIxUjE3Y05TRlNZbHhLTzVkTC1TNmVYUlE3a19ZWjI4MGtkbFFISEtFRGtKb0ZWeFpKRWFwR21udjdkR3VhVDNXSUJmN0k1c21Wc3RTMXl0eGhycWc?oc=5",
    "ts": "Wed, 11 Nov 2026 23:03:02 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
+   "ts": "Tue, 10 Nov 2026 02:42:00 GMT"
   },
   {
    "src": "gnews",
@@ -362,12 +362,6 @@
    "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
    "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
-   "ts": "Tue, 10 Nov 2026 14:37:00 GMT"
   },
   {
    "src": "gnews",
@@ -389,6 +383,12 @@
   },
   {
    "src": "gnews",
+   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
+   "ts": "Tue, 10 Nov 2026 03:20:51 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Nvidia Fallout Puts Trade Truce to the Test as Xi Welcomes Trump - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHB3ZXVuek1Nc2czX3hVUVBUTVMxM0hUVzhESEhOeGVjU1haSzdINFBTejRqbGZEZHFUWG94dHZiNHVqaDAyUjc0RFBpSExYWDZPRFpyanB2eTJwYUhoMTIxVUJIX1UtMDJ3MGkxMFVITDBpQXJFMVdYSVF0eEEzb1FRRTJlaEFRU3F5Wk5TRjE4Vl80Q1I4X1J6R2FpczR4MGZMZDN3ZUc1VnByMmpKTXJYdkxEUQ?oc=5",
    "ts": "Thu, 12 Nov 2026 02:01:00 GMT"
@@ -401,15 +401,15 @@
   },
   {
    "src": "gnews",
-   "title": "Scoop: Lutnick stalled curbing Nvidia chip sales to China — again — after Oval Office showdown - Axios",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa01VNnZpTE10OFNfTFRXZDZzeUJwSjFkNmlhVjFwUVExM3RmaUlNOG1jWm1aYXJMRHkyb2s1WGdMQU9IQUN6RE5kVi1ub3JkQ0wxVnc2YWFvY2VzTWRiX0FZeVlpdDNsMzBhcWpzOVhqNVh4UUFCa2cySy1ZSlkwTGRxbHVjcEU?oc=5",
-   "ts": "Thu, 12 Nov 2026 00:10:42 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China's undervalued currency is driving its trade surplus higher - Peterson Institute for International Economics",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnkzZE15TVlhc1FHU1hzOFJXNklMWERBbUpCSVNLVUw1OFdSS25xOEdZSEY5bXNjclhEWnFCcXF4WUJmUDRyTWpnMWdoMmRyWXVTYkYtUFhmellzaDJUeUladm4zcDYwWEw2eWpLVjQzZVl3c3o5VFZHM2NnM2R6YVJMS1Qtd1d6LVRkMmZtbFZtOHl3cExTTHBwNlhsZVRETVEyWk9ZLUdBQmp3dGNycQ?oc=5",
    "ts": "Mon, 09 Nov 2026 14:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Scoop: Lutnick stalled curbing Nvidia chip sales to China — again — after Oval Office showdown - Axios",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa01VNnZpTE10OFNfTFRXZDZzeUJwSjFkNmlhVjFwUVExM3RmaUlNOG1jWm1aYXJMRHkyb2s1WGdMQU9IQUN6RE5kVi1ub3JkQ0wxVnc2YWFvY2VzTWRiX0FZeVlpdDNsMzBhcWpzOVhqNVh4UUFCa2cySy1ZSlkwTGRxbHVjcEU?oc=5",
+   "ts": "Thu, 12 Nov 2026 00:10:42 GMT"
   },
   {
    "src": "gnews",
@@ -425,9 +425,9 @@
   },
   {
    "src": "gnews",
-   "title": "Canada Signs New Deals With China After Trump Drops Trade Demand - Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS3pQMVV1M2ZfcjF4OExma2lteTJDMkF3ZzdNZXdPY21KMHVpYklwb2RJcFhoTVJBZ0ppd1NTVm5oMHhZd1dMOXZ1bUZRZ2hCRVN4ejRoUmdLYjJkVVJaaVc0TWRmYUg3ekl3WE1lSEY3UmJldXppLVg0YkI3YTVXakVVNDM0WHlPcFp3?oc=5",
-   "ts": "Tue, 10 Nov 2026 13:03:00 GMT"
+   "title": "U.S. Container Imports Hit Record High as China Trade Surges, Port Delays Mount - MarineLink",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaS1qcE5nT2NfNWlFRFdKTHJXNVVqX3d1aDdyUTVEdjh0QlRGOFNVVl9LZ1k5blh0ZVk3cjE4cERCOWpHUzdpVWprM0txXzJBSUtXWnZkVFlvLWdDekt0Vm1fTFNfbkVnWmU0c2lYb2JkT1RfSWRZYkk5ZG1UbEY3SA?oc=5",
+   "ts": "Wed, 11 Nov 2026 11:47:23 GMT"
   },
   {
    "src": "gnews",

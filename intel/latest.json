@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-12T08:46:01Z",
+ "ts": "2026-11-12T09:00:57Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -353,15 +353,15 @@
   },
   {
    "src": "gnews",
-   "title": "Nvidia Fallout Puts Trade Truce to the Test as Xi Welcomes Trump - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHB3ZXVuek1Nc2czX3hVUVBUTVMxM0hUVzhESEhOeGVjU1haSzdINFBTejRqbGZEZHFUWG94dHZiNHVqaDAyUjc0RFBpSExYWDZPRFpyanB2eTJwYUhoMTIxVUJIX1UtMDJ3MGkxMFVITDBpQXJFMVdYSVF0eEEzb1FRRTJlaEFRU3F5Wk5TRjE4Vl80Q1I4X1J6R2FpczR4MGZMZDN3ZUc1VnByMmpKTXJYdkxEUQ?oc=5",
-   "ts": "Thu, 12 Nov 2026 08:12:28 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China's trade surplus hits record high through October - CNN",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1JBRFVrR3l5eUE1djZHek5RUjlhT1dzUkVzNVpRY0xDRFdlR2FiRk5ma0JYemVyajU3eVkyRzBYaEluekhuOVZPdF9iblBLMVV0eUNpZUh3VXIxUjE3Y05TRlNZbHhLTzVkTC1TNmVYUlE3a19ZWjI4MGtkbFFISEtFRGtKb0ZWeFpKRWFwR21udjdkR3VhVDNXSUJmN0k1c21Wc3RTMXl0eGhycWc?oc=5",
    "ts": "Wed, 11 Nov 2026 23:03:02 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Nvidia Fallout Puts Trade Truce to the Test as Xi Welcomes Trump - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHB3ZXVuek1Nc2czX3hVUVBUTVMxM0hUVzhESEhOeGVjU1haSzdINFBTejRqbGZEZHFUWG94dHZiNHVqaDAyUjc0RFBpSExYWDZPRFpyanB2eTJwYUhoMTIxVUJIX1UtMDJ3MGkxMFVITDBpQXJFMVdYSVF0eEEzb1FRRTJlaEFRU3F5Wk5TRjE4Vl80Q1I4X1J6R2FpczR4MGZMZDN3ZUc1VnByMmpKTXJYdkxEUQ?oc=5",
+   "ts": "Thu, 12 Nov 2026 08:12:28 GMT"
   },
   {
    "src": "gnews",
@@ -443,15 +443,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump's ties to Nvidia CEO Jensen Huang in the spotlight - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1RYYVlNcjVQeGNHTUREclhvOXJQaEtpd2N5UmU2em9ZSTRQdTFJTjZlTGVBQTlSUGJuanhhXzV1cXNoVFBYbDk1aHNWeGpPcl9Hd2ZCM0w2YW95T1c3dFJUX0Z2WVF5cEZRNVBWaXNTRF9nOElKbnFuN3g1R0lXdTViRXpQclFxR2dyR0hpVlIxSk81?oc=5",
-   "ts": "Thu, 12 Nov 2026 01:56:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Citi turns to China Inc.'s global expansion, yuan to grow cross-border business - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFNpalg1VUw0c2hJZE1iYndPQ0dHTU9EZ0pucGVYUWc1Qi0wRzRBODJhajNfdDFxajhabFV3ek1QRk5TQWFfeU5vNTc3eE8waGhmTTFvMlVJV19jb3V5LVdMdVg4ZFAydl85ZFdfZ3RPWnVlSzJHbTVxd05IVENEN21jUm1kazZYQ0xaLUZEMVpTZFFNRkhyZ0tfakk0TmtuUW1FU2Y1TmEzZ0RhTkRkT3lhRmVCal9RSFpKRkwzVF8?oc=5",
    "ts": "Thu, 12 Nov 2026 08:29:17 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump's ties to Nvidia CEO Jensen Huang in the spotlight - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1RYYVlNcjVQeGNHTUREclhvOXJQaEtpd2N5UmU2em9ZSTRQdTFJTjZlTGVBQTlSUGJuanhhXzV1cXNoVFBYbDk1aHNWeGpPcl9Hd2ZCM0w2YW95T1c3dFJUX0Z2WVF5cEZRNVBWaXNTRF9nOElKbnFuN3g1R0lXdTViRXpQclFxR2dyR0hpVlIxSk81?oc=5",
+   "ts": "Thu, 12 Nov 2026 01:56:00 GMT"
   },
   {
    "src": "gnews",

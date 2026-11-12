@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-12T04:00:23Z",
+ "ts": "2026-11-12T04:57:02Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -371,9 +371,9 @@
   },
   {
    "src": "gnews",
-   "title": "China in South Asia: October 2026 - Council on Foreign Relations",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Pb01CTjloNk9WeFhmTVRKeXhjVElJUUpRQkstZFNuamQyNGZ5dGVBbE5XOTY3OXZBOVdHVERsdHpUTDBEeTFmajJkWW1YZUNzalZuc1hjX1ZPRUFUQ084dEdjbDFCRXl0YW5wc3Fn?oc=5",
-   "ts": "Wed, 11 Nov 2026 17:23:10 GMT"
+   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
+   "ts": "Tue, 10 Nov 2026 14:37:00 GMT"
   },
   {
    "src": "gnews",
@@ -383,9 +383,9 @@
   },
   {
    "src": "gnews",
-   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
-   "ts": "Tue, 10 Nov 2026 03:20:51 GMT"
+   "title": "China in South Asia: October 2026 - Council on Foreign Relations",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Pb01CTjloNk9WeFhmTVRKeXhjVElJUUpRQkstZFNuamQyNGZ5dGVBbE5XOTY3OXZBOVdHVERsdHpUTDBEeTFmajJkWW1YZUNzalZuc1hjX1ZPRUFUQ084dEdjbDFCRXl0YW5wc3Fn?oc=5",
+   "ts": "Wed, 11 Nov 2026 17:23:10 GMT"
   },
   {
    "src": "gnews",
@@ -407,6 +407,12 @@
   },
   {
    "src": "gnews",
+   "title": "China trade surplus on track for new record as tensions with EU grow - World Socialist Web Site",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yMmhtM3RuMWNpVlZKV1lyU0RKemxucVEzQ1gycE1jYUdRN1k4eEotUzZvdWtJYlozVHU3UE05VHprbGxCV2daaWRyMFpJRkg1eHNUTFJDNERNWGplOGJ3NC1vbXUzN21P?oc=5",
+   "ts": "Thu, 12 Nov 2026 04:49:37 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Scoop: Lutnick stalled curbing Nvidia chip sales to China — again — after Oval Office showdown - Axios",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa01VNnZpTE10OFNfTFRXZDZzeUJwSjFkNmlhVjFwUVExM3RmaUlNOG1jWm1aYXJMRHkyb2s1WGdMQU9IQUN6RE5kVi1ub3JkQ0wxVnc2YWFvY2VzTWRiX0FZeVlpdDNsMzBhcWpzOVhqNVh4UUFCa2cySy1ZSlkwTGRxbHVjcEU?oc=5",
    "ts": "Thu, 12 Nov 2026 00:10:42 GMT"
@@ -416,18 +422,6 @@
    "title": "China’s trade surplus exceeds $1tn for first 10 months of year - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmpqbG1WMjVjVGtaTmdwR2hnbkJ0OWxiS2NZNXVWSklHZDNoZTR6eXZXTWhTZHdIeUg1elJYLUNaNGhMNHB4dGVUMnBJMlNTVVpmSVBoX3o2Z1JTTFZKa3VTVVlnQkNtZk54VVEwdWVQMjhkakJGbXpiYU94YVdPSmdzYl8?oc=5",
    "ts": "Tue, 10 Nov 2026 06:09:45 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Contributor: Democrats should sort out South Korean trade disparities as well as China issues - Los Angeles Times",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMDktZHpxdTFVZ1R2dzNmT0lYOFpNdWJKbVdJVEtOUFpfZWhPLXJOc0xKZk1zLThjTE1kVHZJRjFTazNOZEZlY2QwdVIyZzRXX0ZDWk5CVkhORHJzNm5DM3N3LUN4MHNSUzQxV3Jkdm1iUlJheFR1TXhKN3BUTkgxZmowaFJVU1h0b0xidEhMaVBKU0NKRVBUOQ?oc=5",
-   "ts": "Wed, 11 Nov 2026 20:42:45 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Nvidia fallout puts trade truce to the test as Xi welcomes Trump - The Japan Times",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUN4WWtWd2xiaFBZQ3VXWFVYSE11YlN2OG5nZmVERHVwOWtiMXZDSVZxZkpGaGkxUzNzLXFhUUlkYXBRYXRWNjFJUTNpeHYwVWFBcS1sYVlYclhvTm9reGxBUmxZcGkwQU45Rnc3eXRGMk9RS01jS3B3OWZtT2NwWG9IVGRkNEdfRlE?oc=5",
-   "ts": "Thu, 12 Nov 2026 02:39:00 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +452,12 @@
    "title": "China's CNOOC reports major ultra-deep gas discovery in Bohai Sea - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONEUzYUd5S2Q2WUdwS0pHd2wtQ1dvM1QtQVhVdFRjRzVpcUEwZzZJTnpuWk5Id0RtZUZzWGVUaktBenFRcWNnaWw0M1ZMYl9kdjIzSTdpMUpvSnF0OWRXRVVtRzB4TnExLW44QzlZb1c0di1ickdreGdnWVBELTdaMk1XUVVucUdjb1JEdXlSaERmNTB2LXFrQjlqZ2FZck9WM25Xc3RTSmpoM2xDM2tBYzBkMA?oc=5",
    "ts": "Thu, 12 Nov 2026 03:06:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Malaysia to Keep Taiwan Trade Ties While Sticking to ‘One China’ - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3dXXzN4SEFMMjJRT0o2RHlqWG81NW54c01fOFhYNno3Zy0zOGJGcnZoY0w1a3NPZVF6djhoVHRvNE91eE5OVzRHMWxrbmZFX2FacWhyWXFraERnZkJMVHNXaVNIZzNYQWFjUkZnMF9qWEZMMGVEb0tGUE9YaDRIa0NhNTJBZ3A2a21mYTJlb1BNd0otbldVOWV1MnVwS2F2UDgtM2E2bFQtTXFFOThJZ1YzVmRYWjFFSGc?oc=5",
+   "ts": "Thu, 12 Nov 2026 04:16:00 GMT"
   }
  ]
 }

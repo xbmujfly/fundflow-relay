@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-12T02:15:16Z",
+ "ts": "2026-11-12T02:30:20Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -378,7 +379,7 @@
    "src": "gnews",
    "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
-   "ts": "Tue, 10 Nov 2026 03:20:51 GMT"
+   "ts": "Tue, 10 Nov 2026 14:37:00 GMT"
   },
   {
    "src": "gnews",
@@ -388,15 +389,15 @@
   },
   {
    "src": "gnews",
-   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - Monterey Herald",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUjVidG5qUG1obkRoVFRMOVNEaU1mdzJQNEp4Qk02bERJQnhJV25kYmpvd0JXRGtqbnBvTDY3YjE5bnBpWC0xdEdnZ0JHWm9CYjVLaWtLekFneVN1QVhWX1JYTUY4dDdEWmR3Ym1ERkdRSlRaY180VWFVc0JpUXI2aVp3?oc=5",
-   "ts": "Wed, 11 Nov 2026 20:01:45 GMT"
+   "title": "Nvidia Fallout Puts Trade Truce to the Test as Xi Welcomes Trump - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHB3ZXVuek1Nc2czX3hVUVBUTVMxM0hUVzhESEhOeGVjU1haSzdINFBTejRqbGZEZHFUWG94dHZiNHVqaDAyUjc0RFBpSExYWDZPRFpyanB2eTJwYUhoMTIxVUJIX1UtMDJ3MGkxMFVITDBpQXJFMVdYSVF0eEEzb1FRRTJlaEFRU3F5Wk5TRjE4Vl80Q1I4X1J6R2FpczR4MGZMZDN3ZUc1VnByMmpKTXJYdkxEUQ?oc=5",
+   "ts": "Thu, 12 Nov 2026 02:01:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "US Signals Frustration at Slow Pace of Rare Earth Exports From China - Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdk13bXE2Y0hmY2NQUnhvR2h1Qm1WTHhLa19ZRDVCcF92Y3BuWWxHZWp4ZV96V2ZpcFlvRzVPVmp4cXFfTUdmaUN6VWtPZTIwMHdiZkdvRncyRF90UlhmQ2xuQ2tMQTJFN1lPbHhHamJuN0RBWDBfVzZ4TWhTbFN3SGd2aw?oc=5",
-   "ts": "Wed, 11 Nov 2026 12:00:01 GMT"
+   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - Monterey Herald",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUjVidG5qUG1obkRoVFRMOVNEaU1mdzJQNEp4Qk02bERJQnhJV25kYmpvd0JXRGtqbnBvTDY3YjE5bnBpWC0xdEdnZ0JHWm9CYjVLaWtLekFneVN1QVhWX1JYTUY4dDdEWmR3Ym1ERkdRSlRaY180VWFVc0JpUXI2aVp3?oc=5",
+   "ts": "Wed, 11 Nov 2026 20:01:45 GMT"
   },
   {
    "src": "gnews",
@@ -430,15 +431,15 @@
   },
   {
    "src": "gnews",
-   "title": "China Expands Its Central Asian Footprint Through Aviation, Energy, and Trade - Crude Oil Prices Today | OilPrice.com",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeGVvSnRMT0x4eld5Z2RnUW5HU3F1cHRTLWg1SnZIeXl0UjlnZ19vVHdQTkVvNWJxMXdiYlhtYnkyTmpWZUhQREg2blMzazVkb0NWallWWVM3T3NVTld4YW45VVJxcGVEb0JTemoyTVQ4SGpzU05lSDdXQUVhbkpYS3Z5bXhETjh2UkJXVE44MEk5T3AycVJZOEVwTmxNVHVMcVd1SjdJelA2YmRjRG9oXzFrRTMwWGJuRGpib1pMeELSAcYBQVVfeXFMTl9tMlJtU0VxOEdXbVVwMXN0WDhKckVwcnpHR3hUTWtCUWpsSVZxcDZlS21uN2N5SG9Yb1lCSFVVbld2QjZlR1hnX1VlRWtuS2hEaWdxd3l1UUZ0dGdiZjI3aGpBUzBxcXpNZm5FY1hrNUtwbk1SUE1IaEJuQTBON20zQjJGRFU2dGFvZzNteUoyQ0NfUHJvNlBSZW1tUnkwSDVfcmlKSkVSNXl0WGRlX3pSamt5ZGJVcU9KeVJmVGdHREQ1VHN3?oc=5",
-   "ts": "Wed, 11 Nov 2026 19:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "U.S. Container Imports Hit Record High as China Trade Surges, Port Delays Mount - MarineLink",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaS1qcE5nT2NfNWlFRFdKTHJXNVVqX3d1aDdyUTVEdjh0QlRGOFNVVl9LZ1k5blh0ZVk3cjE4cERCOWpHUzdpVWprM0txXzJBSUtXWnZkVFlvLWdDekt0Vm1fTFNfbkVnWmU0c2lYb2JkT1RfSWRZYkk5ZG1UbEY3SA?oc=5",
    "ts": "Wed, 11 Nov 2026 11:47:23 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China Expands Its Central Asian Footprint Through Aviation, Energy, and Trade - Crude Oil Prices Today | OilPrice.com",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeGVvSnRMT0x4eld5Z2RnUW5HU3F1cHRTLWg1SnZIeXl0UjlnZ19vVHdQTkVvNWJxMXdiYlhtYnkyTmpWZUhQREg2blMzazVkb0NWallWWVM3T3NVTld4YW45VVJxcGVEb0JTemoyTVQ4SGpzU05lSDdXQUVhbkpYS3Z5bXhETjh2UkJXVE44MEk5T3AycVJZOEVwTmxNVHVMcVd1SjdJelA2YmRjRG9oXzFrRTMwWGJuRGpib1pMeELSAcYBQVVfeXFMTl9tMlJtU0VxOEdXbVVwMXN0WDhKckVwcnpHR3hUTWtCUWpsSVZxcDZlS21uN2N5SG9Yb1lCSFVVbld2QjZlR1hnX1VlRWtuS2hEaWdxd3l1UUZ0dGdiZjI3aGpBUzBxcXpNZm5FY1hrNUtwbk1SUE1IaEJuQTBON20zQjJGRFU2dGFvZzNteUoyQ0NfUHJvNlBSZW1tUnkwSDVfcmlKSkVSNXl0WGRlX3pSamt5ZGJVcU9KeVJmVGdHREQ1VHN3?oc=5",
+   "ts": "Wed, 11 Nov 2026 19:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -448,135 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSU1YMHJMZ1Z5dkdxNWx5S3gyOUlSSVZiQW9LNEZvVmlTblc1SW1vVFZiZ2R1alZDQjI3QnZERy1VNmxxcUZUSlNrNzBVd0xEUUp2dlRUd2tNVzNjX0lRYl9iV0Y1cjR0cmE5NHE1VzBqVFU4WndsdGtEN1RqRmUxa2dOb3FBVmM?oc=5",
-   "ts": "Wed, 11 Nov 2026 20:02:12 GMT"
+   "title": "US Signals Frustration at Slow Pace of Rare Earth Exports From China - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdk13bXE2Y0hmY2NQUnhvR2h1Qm1WTHhLa19ZRDVCcF92Y3BuWWxHZWp4ZV96V2ZpcFlvRzVPVmp4cXFfTUdmaUN6VWtPZTIwMHdiZkdvRncyRF90UlhmQ2xuQ2tMQTJFN1lPbHhHamJuN0RBWDBfVzZ4TWhTbFN3SGd2aw?oc=5",
+   "ts": "Wed, 11 Nov 2026 12:00:01 GMT"
   },
   {
    "src": "gnews",
-   "title": "Nvidia Fallout Puts Trade Truce to the Test as Xi Welcomes Trump - Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHB3ZXVuek1Nc2czX3hVUVBUTVMxM0hUVzhESEhOeGVjU1haSzdINFBTejRqbGZEZHFUWG94dHZiNHVqaDAyUjc0RFBpSExYWDZPRFpyanB2eTJwYUhoMTIxVUJIX1UtMDJ3MGkxMFVITDBpQXJFMVdYSVF0eEEzb1FRRTJlaEFRU3F5Wk5TRjE4Vl80Q1I4X1J6R2FpczR4MGZMZDN3ZUc1VnByMmpKTXJYdkxEUQ?oc=5",
-   "ts": "Thu, 12 Nov 2026 02:01:00 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "OPINION : Honoring Montana Veteran Owned , American - Made Small Businesses Justin Everett",
-   "url": "https://www.glasgowcourier.com/story/2026/11/11/opinion/opinion-honoring-montanas-veteran-owned-american-made-small-businesses-justin-everett/19172.html",
-   "ts": "20261112T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Спецпосланник Трампа заявил о планах подключить Европу к переговорам по Украине",
-   "url": "https://www.vesti.ru/ns/specposlannik-trampa-zayavil-o-planakh-podklyuchit-evropu-k-peregovoram-po-ukraine",
-   "ts": "20261112T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Axios узнал о предложении США России по безопасности в Европе",
-   "url": "https://www.tatar-inform.ru/news/axios-uznal-o-predlozenii-ssa-rossii-po-bezopasnosti-v-evrope-6048648",
-   "ts": "20261112T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Lula da Silva y Delcy Rodríguez acuerdan reactivar relaciones  al más alto nivel  ",
-   "url": "https://www.telesurtv.net/lula-delcy-rodriguez-relaciones-alto-nivel/",
-   "ts": "20261112T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Pete Hegseth avoids impeachment after House vote fails",
-   "url": "https://www.kiro7.com/news/local/defense-secretary-pete-hegseth-escapes-impeachment-attempt-house-vote/UPXXVARNIND33B4S4OX6SKMJIQ/",
-   "ts": "20261112T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Immigration arrests go on unabated despite Trump misgivings after the GOP midterm wipeout",
-   "url": "https://www.santafenewmexican.com/ap/national/immigration-arrests-go-on-unabated-despite-trumps-misgivings-after-the-gops-midterm-wipeout/article_aeca66e6-1f54-53c1-9210-e7bb458b5316.html",
-   "ts": "20261112T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Andy Burnham pledges  new era of British climate leadership  at Cop31 summit",
-   "url": "https://www.cotswoldjournal.co.uk/news/national/26721762.andy-burnham-pledges-new-era-british-climate-leadership-cop31-summit/",
-   "ts": "20261112T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "我们正目睹乔布斯后科技史上最严重的逼宫",
-   "url": "https://www.163.com/dy/article/LBH8HLP705118O8G.html",
-   "ts": "20261112T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "With Democrats Now Controlling Congress , DHS Chief Markwayne Mullin Pledges 3 , 600 Daily Deportations Will Continue Uninterrupted",
-   "url": "https://www.foreignpolicyjournal.com/2026/11/11/with-democrats-now-controlling-congress-dhs-chief-markwayne-mullin-pledges-3600-daily-deportations-will-continue-uninterrupted/",
-   "ts": "20261112T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " 【 建设亚太共同体 促进共同繁荣 】 共建普惠包容的开放型亚太经济",
-   "url": "https://news.cctv.com/2026/11/11/ARTIRsZ843lzMPJpONPgbjN0261111.shtml",
-   "ts": "20261112T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "India Steps Up Mediation Efforts With Russia , Ukraine",
-   "url": "https://foreignpolicy.com/2026/11/11/india-ukraine-war-russia-mediation-black-sea/",
-   "ts": "20261112T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  America did not start war with Iran : Trump says wants to have  total victory  ",
-   "url": "http://www.asiabulletin.com/news/279427169/america-did-not-start-war-with-iran-trump-says-wants-to-have-total-victory",
-   "ts": "20261112T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "The biggest swing",
-   "url": "https://www.ncspin.com:443/the-biggest-swing",
-   "ts": "20261112T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "11 Democrats Criticized For Missing Hegseth Impeachment Vote | PowerTalk 1460 AM & 101 . 1 FM",
-   "url": "https://powertalk1460.iheart.com/content/2026-11-11-11-democrats-criticized-for-missing-hegseth-impeachment-vote/",
-   "ts": "20261112T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Nvidia preparing to oust CEO Jensen Huang US media",
-   "url": "https://www.manilatimes.net/2026/11/12/business/sunday-business-it/nvidia-preparing-to-oust-ceo-jensen-huang-us-media/2468000",
-   "ts": "20261112T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "11月12日财经早餐 ： 美元高位压制金价 ， 伊朗称不允许浓缩核材料运出 ， 油价获供应风险支撑 _ 期市动态 _ 期货 _ 中金在线",
-   "url": "http://futures.cnfol.com/qishidongtai/20261112/32421583.shtml",
-   "ts": "20261112T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump agent  dead to me  rant exposes  compelling  motive in shooting : ex - prosecutor",
-   "url": "https://www.rawstory.com/ice-agent-shooting/",
-   "ts": "20261112T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Andy Burnham pledges  new era of British climate leadership  at Cop31 summit",
-   "url": "https://www.timesandstar.co.uk/news/national/26721762.andy-burnham-pledges-new-era-british-climate-leadership-cop31-summit/",
-   "ts": "20261112T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Democrat Scott Colom wins Mississippi Senate race",
-   "url": "https://www.ksmu.org/2026-11-11/democrat-scott-colom-wins-mississippi-senate-race",
-   "ts": "20261112T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Why are gas prices dropping and how low will they go ? ",
-   "url": "https://www.koat.com/article/why-are-gas-prices-dropping-and-how-low-will-they-go/74404165",
-   "ts": "20261112T013000Z"
+   "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSU1YMHJMZ1Z5dkdxNWx5S3gyOUlSSVZiQW9LNEZvVmlTblc1SW1vVFZiZ2R1alZDQjI3QnZERy1VNmxxcUZUSlNrNzBVd0xEUUp2dlRUd2tNVzNjX0lRYl9iV0Y1cjR0cmE5NHE1VzBqVFU4WndsdGtEN1RqRmUxa2dOb3FBVmM?oc=5",
+   "ts": "Wed, 11 Nov 2026 20:02:12 GMT"
   }
  ]
 }

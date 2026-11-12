@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-12T11:46:01Z",
+ "ts": "2026-11-12T12:01:07Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -382,15 +383,15 @@
   },
   {
    "src": "gnews",
-   "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzk1R09TQzJMMElPWWVSLXhRSkZUVFJWWW85cjV2QjFtMXJRcWVKX2VjSm83XzRNZUE3VFpucUk3SHdPbXd4b0tnMkVVamxsLUEtMTcyejJLUlBSNURlSkR6bjVKUzNENWZmVE1LcHpiakk2RXViWVJDVmR5bDlyX3BpMGJJWW1J?oc=5",
-   "ts": "Tue, 10 Nov 2026 02:38:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
    "ts": "Tue, 10 Nov 2026 14:37:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzk1R09TQzJMMElPWWVSLXhRSkZUVFJWWW85cjV2QjFtMXJRcWVKX2VjSm83XzRNZUE3VFpucUk3SHdPbXd4b0tnMkVVamxsLUEtMTcyejJLUlBSNURlSkR6bjVKUzNENWZmVE1LcHpiakk2RXViWVJDVmR5bDlyX3BpMGJJWW1J?oc=5",
+   "ts": "Tue, 10 Nov 2026 02:38:00 GMT"
   },
   {
    "src": "gnews",
@@ -457,126 +458,6 @@
    "title": "China's CNOOC reports major ultra-deep gas discovery in Bohai Sea - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONEUzYUd5S2Q2WUdwS0pHd2wtQ1dvM1QtQVhVdFRjRzVpcUEwZzZJTnpuWk5Id0RtZUZzWGVUaktBenFRcWNnaWw0M1ZMYl9kdjIzSTdpMUpvSnF0OWRXRVVtRzB4TnExLW44QzlZb1c0di1ickdreGdnWVBELTdaMk1XUVVucUdjb1JEdXlSaERmNTB2LXFrQjlqZ2FZck9WM25Xc3RTSmpoM2xDM2tBYzBkMA?oc=5",
    "ts": "Thu, 12 Nov 2026 03:06:00 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Democrats flock to Denver to set a post - midterms agenda",
-   "url": "https://www.wokv.com/news/politics/democrats-flock/OU576L7Z4M7TFFGZLP4G4HTST4/",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Nvidia faces more risks in deal pace than Jensen Huang exit , says Bloomberg Intelligence",
-   "url": "https://www.businesstimes.com.sg/companies-markets/nvidia-faces-more-risks-deal-pace-jensen-huang-exit-bloomberg-intelligence",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Wysłannicy Donalda Trumpa wylądowali w Moskwie . Do sieci trafiło nagranie",
-   "url": "https://wiadomosci.onet.pl/swiat/wyslannicy-donalda-trumpa-wyladowali-w-moskwie-do-sieci-trafilo-nagranie/yp4z46b",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Yhdysvaltain erityislähettilt Moskovaan tapaamaan Putinia",
-   "url": "https://www.kaleva.fi/yhdysvaltain-erityislahettilaat-moskovaan-tapaamaa/13751580",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Heute geschlossen : Beitrag finnischer Botschaft wird zu Meme",
-   "url": "https://www.gn-online.de/panorama/heute-geschlossen-beitrag-finnischer-botschaft-wird-zu-meme-628231.html",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "خبير إستراتيجي : التلويح الأمريكي بـ « أم القنابل » ضد إيران رسالة للضغط وفرض تنازلات نووية وصاروخية",
-   "url": "https://www.vetogate.com/5768587",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Что говорят о переговорах по Украине в Абу - Даби ? ",
-   "url": "https://www.amic.ru/news/proyavili-gibkost-kak-v-mire-ocenili-trehstoronnie-peregovory-po-ukraine-v-abu-dabi-596542",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Мирні переговори - деякі європейці налаштовані скептично та побоюються російської пастки – ZN . ua",
-   "url": "https://zn.ua/ukr/war/uchast-jevropi-v-perehovorakh-shchodo-ukrajini-jevropejtsi-osterihajutsja-rosijskoji-pastki-politico.html",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "50 leaders in Dublin for State largest diplomatic event",
-   "url": "https://www.rte.ie/news/eu-presidency/2026/1112/1598891-epc-summit/",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump - Xi - Putin Summit : Will China Join Nuclear Talks Amid Global Tensions ? ",
-   "url": "https://openthemagazine.com/world/rubio-wang-call-puts-trump-xi-putin-summit-in-focus-will-china-agree-to-nuclear-talks",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Fifty heads of state gather in Dublin for major European summit",
-   "url": "https://www.ilfordrecorder.co.uk/news/national/26721808.fifty-heads-state-gather-dublin-major-european-summit/",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "UN Security Council to meet on  situation in the Middle East  ",
-   "url": "https://news.webindia123.com/news/Articles/World/20261112/4518644.html",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Tom Purcell - What if a coma patient awakes after the midterms ? ",
-   "url": "http://www.crescent-news.com/opinion/opinion_columnists/tom-purcell---what-if-a-coma-patient-awakes-after-the-midterms/article_89dae72b-bac3-4993-90b0-517bd12a991a.html",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Στη Μόσχα Γουίτκοφ και Κούσνερ - Θα συναντηθούν με τον Βλαντίμιρ Πούτιν",
-   "url": "https://www.newsbomb.gr/kosmos/story/1775968/sti-mosxa-gouitkof-kai-koysner-tha-synantithoyn-me-ton-vlantimir-poytin",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "The New Democrat Congress Will Produce a Disappointing Scorecard",
-   "url": "https://townhall.com/columnists/terrypaulson/2026/11/12/the-new-democrat-congress-will-produce-a-disappointing-scorecard-n2686239",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Fifty heads of state gather in Dublin for major European summit",
-   "url": "https://www.bracknellnews.co.uk/news/national/26721808.fifty-heads-state-gather-dublin-major-european-summit/",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "万斯获特朗普授权主导对伊朗谈判 考虑与伊朗高级安全官员直接会面",
-   "url": "https://original.ifeng.com/c/8xzaGjATITd",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Nvidia Board May Remove CEO Jensen Huang Amid Scandal",
-   "url": "https://udaipurkiran.com/nvidia-board-may-remove-ceo-jensen-huang-amid-scandal/",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "4K à 120 i / s , double écran OLED , étanche à 20 m … et - 40 % : la DJI Osmo Action 5 Pro met GoPro sous pression ⚡️",
-   "url": "https://www.presse-citron.net/4k-a-120-i-s-double-ecran-oled-etanche-a-20-m-et-40-la-dji-osmo-action-5-pro-met-gopro-sous-pression/",
-   "ts": "20261112T070000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Fear Jon Ossoff - Daily Press",
-   "url": "https://www.dailypress.net/opinion/local-columns/2026/11/fear-jon-ossoff/",
-   "ts": "20261112T070000Z"
   }
  ]
 }

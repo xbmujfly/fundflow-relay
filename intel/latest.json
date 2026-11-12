@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-12T05:45:51Z",
+ "ts": "2026-11-12T06:01:01Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -407,6 +406,12 @@
   },
   {
    "src": "gnews",
+   "title": "Scoop: Lutnick stalled curbing Nvidia chip sales to China — again — after Oval Office showdown - Axios",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa01VNnZpTE10OFNfTFRXZDZzeUJwSjFkNmlhVjFwUVExM3RmaUlNOG1jWm1aYXJMRHkyb2s1WGdMQU9IQUN6RE5kVi1ub3JkQ0wxVnc2YWFvY2VzTWRiX0FZeVlpdDNsMzBhcWpzOVhqNVh4UUFCa2cySy1ZSlkwTGRxbHVjcEU?oc=5",
+   "ts": "Thu, 12 Nov 2026 00:10:42 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Nvidia Fallout Puts Trade Truce to the Test as Xi Welcomes Trump - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHB3ZXVuek1Nc2czX3hVUVBUTVMxM0hUVzhESEhOeGVjU1haSzdINFBTejRqbGZEZHFUWG94dHZiNHVqaDAyUjc0RFBpSExYWDZPRFpyanB2eTJwYUhoMTIxVUJIX1UtMDJ3MGkxMFVITDBpQXJFMVdYSVF0eEEzb1FRRTJlaEFRU3F5Wk5TRjE4Vl80Q1I4X1J6R2FpczR4MGZMZDN3ZUc1VnByMmpKTXJYdkxEUQ?oc=5",
    "ts": "Thu, 12 Nov 2026 02:01:03 GMT"
@@ -419,15 +424,9 @@
   },
   {
    "src": "gnews",
-   "title": "Scoop: Lutnick stalled curbing Nvidia chip sales to China — again — after Oval Office showdown - Axios",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa01VNnZpTE10OFNfTFRXZDZzeUJwSjFkNmlhVjFwUVExM3RmaUlNOG1jWm1aYXJMRHkyb2s1WGdMQU9IQUN6RE5kVi1ub3JkQ0wxVnc2YWFvY2VzTWRiX0FZeVlpdDNsMzBhcWpzOVhqNVh4UUFCa2cySy1ZSlkwTGRxbHVjcEU?oc=5",
-   "ts": "Thu, 12 Nov 2026 00:10:42 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump's ties to Nvidia CEO Jensen Huang in the spotlight - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1RYYVlNcjVQeGNHTUREclhvOXJQaEtpd2N5UmU2em9ZSTRQdTFJTjZlTGVBQTlSUGJuanhhXzV1cXNoVFBYbDk1aHNWeGpPcl9Hd2ZCM0w2YW95T1c3dFJUX0Z2WVF5cEZRNVBWaXNTRF9nOElKbnFuN3g1R0lXdTViRXpQclFxR2dyR0hpVlIxSk81?oc=5",
-   "ts": "Thu, 12 Nov 2026 01:56:00 GMT"
+   "title": "As China’s futuristic city hosts Trump, its startups bank on foreign buyers - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOG43c09QM3ZmaVpnZ1EwX1E5TlNiMUdLS1BKdWU0bHMxSkYwUmNoUzV6UG9aS3c0SXlIZXhXYXpZQzduQUt3MTRUSjdadVpHQ2wwM1RhZ0xVSTdNajZfODdzYk9zcl9MRzFRU3Fmdnc0S0hqQmRneGE1S0YzRm5KcDhTTnc1akRsZ19hXzhwelhuM1VyUXZNRDM0NlpTTVZndEdKMmlqVmo1TV9yTUV5LW9rbWRCRERX?oc=5",
+   "ts": "Thu, 12 Nov 2026 05:03:00 GMT"
   },
   {
    "src": "gnews",
@@ -449,15 +448,135 @@
   },
   {
    "src": "gnews",
-   "title": "As China’s futuristic city hosts Trump, its startups bank on foreign buyers - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOG43c09QM3ZmaVpnZ1EwX1E5TlNiMUdLS1BKdWU0bHMxSkYwUmNoUzV6UG9aS3c0SXlIZXhXYXpZQzduQUt3MTRUSjdadVpHQ2wwM1RhZ0xVSTdNajZfODdzYk9zcl9MRzFRU3Fmdnc0S0hqQmRneGE1S0YzRm5KcDhTTnc1akRsZ19hXzhwelhuM1VyUXZNRDM0NlpTTVZndEdKMmlqVmo1TV9yTUV5LW9rbWRCRERX?oc=5",
-   "ts": "Thu, 12 Nov 2026 05:03:00 GMT"
+   "title": "Trump's ties to Nvidia CEO Jensen Huang in the spotlight - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1RYYVlNcjVQeGNHTUREclhvOXJQaEtpd2N5UmU2em9ZSTRQdTFJTjZlTGVBQTlSUGJuanhhXzV1cXNoVFBYbDk1aHNWeGpPcl9Hd2ZCM0w2YW95T1c3dFJUX0Z2WVF5cEZRNVBWaXNTRF9nOElKbnFuN3g1R0lXdTViRXpQclFxR2dyR0hpVlIxSk81?oc=5",
+   "ts": "Thu, 12 Nov 2026 01:56:00 GMT"
   },
   {
    "src": "gnews",
    "title": "China's CNOOC reports major ultra-deep gas discovery in Bohai Sea - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONEUzYUd5S2Q2WUdwS0pHd2wtQ1dvM1QtQVhVdFRjRzVpcUEwZzZJTnpuWk5Id0RtZUZzWGVUaktBenFRcWNnaWw0M1ZMYl9kdjIzSTdpMUpvSnF0OWRXRVVtRzB4TnExLW44QzlZb1c0di1ickdreGdnWVBELTdaMk1XUVVucUdjb1JEdXlSaERmNTB2LXFrQjlqZ2FZck9WM25Xc3RTSmpoM2xDM2tBYzBkMA?oc=5",
    "ts": "Thu, 12 Nov 2026 03:06:00 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "미 - 중 외교수장 , 아펙 앞  안정적 관계  강조 … 미 ,  핵군축 3자 정상회담  기대",
+   "url": "https://www.hani.co.kr/arti/international/china/1286984.html",
+   "ts": "20261112T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "نتنياهو يستعد لمواجهة عقوبات غربية",
+   "url": "https://rtarabic.com/press/1852507-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9/",
+   "ts": "20261112T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Dogane , stretta sulle informazioni tariffarie : via ai controlli su codice e validità",
+   "url": "https://www.italiaoggi.it/diritto-e-fisco/dogane-stretta-sulle-informazioni-tariffarie-via-ai-controlli-su-codice-e-validita-l6m9xcgb",
+   "ts": "20261112T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Fifty heads of state gather in Dublin for major European summit",
+   "url": "https://www.thisisoxfordshire.co.uk/news/national/26721808.fifty-heads-state-gather-dublin-major-european-summit/",
+   "ts": "20261112T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Tulane Med School Program For  Underrepresented  College Students Challenged By Equal Protection Project",
+   "url": "https://legalinsurrection.com/2026/11/tulane-med-school-program-for-underrepresented-college-students-challenged-by-equal-protection-project/",
+   "ts": "20261112T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump to flex muscles on Asia tour after midterms losses",
+   "url": "https://www.koreatimes.co.kr/world/20261112/trump-to-flex-muscles-on-asia-tour-after-midterms-losses",
+   "ts": "20261112T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Fifty heads of state gather in Dublin for major European summit",
+   "url": "https://www.newhamrecorder.co.uk/news/national/26721808.fifty-heads-state-gather-dublin-major-european-summit/",
+   "ts": "20261112T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "США ищут решение по Донбассу - Зеленский",
+   "url": "https://korrespondent.net/ukraine/4928038-ssha-yschut-reshenye-po-donbassu-zelenskyi",
+   "ts": "20261112T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Can Trump Weakness Be Europe Opportunity for Peace ? - The American Conservative",
+   "url": "https://www.theamericanconservative.com/can-trumps-weakness-be-europes-opportunity-for-peace/",
+   "ts": "20261112T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "As Geopolitical Realities Shift , Trump Power to Shape Events Recedes",
+   "url": "https://www.theamericanconservative.com/as-geopolitical-realities-shift-trumps-power-to-shape-events-recedes/",
+   "ts": "20261112T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Stock Market Today : बाजार पर आज इन खबरों का दिखेगा असर , कोई ट्रेड लेने से पहले इन पर डाल लें एक नजर",
+   "url": "https://hindi.moneycontrol.com/news/markets/stock-market-today-top-10-news-market-outlook-for-november-12-trends-in-the-gift-nifty-2465009.html",
+   "ts": "20261112T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Nvidia board meets to decide future of embattled boss",
+   "url": "https://www.northerndailyleader.com.au/story/9390294/nvidia-board-meets-to-decide-future-of-embattled-boss/",
+   "ts": "20261112T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Colom bude prvním černošským senátorem v Mississippi od občanské války",
+   "url": "https://www.ceskenoviny.cz/zpravy/colom-bude-prvnim-cernosskym-senatorem-v-mississippi-od-obcanske-valky/2900913",
+   "ts": "20261112T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Fifty heads of state gather in Dublin for major European summit",
+   "url": "https://www.lynnnews.co.uk/national/fifty-heads-of-state-gather-in-dublin-for-major-european-summit-174191/",
+   "ts": "20261112T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "El Salvador is exporting the  Bukele model  to Haiti - but the gang offensive is a gamble for both nations",
+   "url": "http://www.haitisun.com/news/279427292/el-salvador-is-exporting-the-bukele-model-to-haiti-but-the-gang-offensive-is-a-gamble-for-both-nations",
+   "ts": "20261112T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ντόναλντ Τραμπ Τζούνιορ : Υπερασπίζεται τον καταδικασμένο για βιασμό Ράσελ Μπραντ και μιλά για « πολιτική δίωξη » ",
+   "url": "https://www.in.gr/2026/11/12/life/woman/ntonalnt-tramp-tzounior-yperaspizetai-ton-katadikasmeno-gia-viasmo-rasel-mprant-kai-mila-gia-politiki-dioksi/",
+   "ts": "20261112T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "헤그세스 , 국립묘지서 떠들다 혼쭐 … 병사  정숙하라  호통",
+   "url": "https://www.hani.co.kr/arti/international/america/1286981.html",
+   "ts": "20261112T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Gold Price Today : भाई दूज के अगले दिन सोना फिसला , दिल्ली में ₹130290 पर आया 22 कैरेट",
+   "url": "https://hindi.moneycontrol.com/news/your-money/gold-price-today-on-november-12-sone-ka-bhav-aaj-check-latest-gold-rates-in-delhi-mumbai-hyderabad-jaipur-lucknow-18-22-24-carat-rate-2464792.html",
+   "ts": "20261112T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  We cant be at the bottom indefinitely : Can Britain most maligned service station be turned around ? | Road transport",
+   "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/12/motorway-services",
+   "ts": "20261112T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "TÉMOIGNAGE .  On se lève tous les jours avec la boule au ventre  : en Tarn - et - Garonne , un pompiste indépendant lance un cri dalarme sur les difficultés dapprovisionnement",
+   "url": "https://www.ladepeche.fr/2026/11/12/temoignage-on-se-leve-tous-les-jours-avec-la-boule-au-ventre-en-tarn-et-garonne-un-pompiste-independant-lance-un-cri-dalarme-sur-les-difficultes-13646207.php",
+   "ts": "20261112T053000Z"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-12T00:30:18Z",
+ "ts": "2026-11-12T00:45:16Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -353,6 +353,12 @@
   },
   {
    "src": "gnews",
+   "title": "China's trade surplus hits record high through October - CNN",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1JBRFVrR3l5eUE1djZHek5RUjlhT1dzUkVzNVpRY0xDRFdlR2FiRk5ma0JYemVyajU3eVkyRzBYaEluekhuOVZPdF9iblBLMVV0eUNpZUh3VXIxUjE3Y05TRlNZbHhLTzVkTC1TNmVYUlE3a19ZWjI4MGtkbFFISEtFRGtKb0ZWeFpKRWFwR21udjdkR3VhVDNXSUJmN0k1c21Wc3RTMXl0eGhycWc?oc=5",
+   "ts": "Wed, 11 Nov 2026 23:03:02 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
    "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
@@ -386,12 +392,6 @@
    "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - Monterey Herald",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUjVidG5qUG1obkRoVFRMOVNEaU1mdzJQNEp4Qk02bERJQnhJV25kYmpvd0JXRGtqbnBvTDY3YjE5bnBpWC0xdEdnZ0JHWm9CYjVLaWtLekFneVN1QVhWX1JYTUY4dDdEWmR3Ym1ERkdRSlRaY180VWFVc0JpUXI2aVp3?oc=5",
    "ts": "Wed, 11 Nov 2026 20:01:45 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
-   "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
   },
   {
    "src": "gnews",
@@ -443,9 +443,9 @@
   },
   {
    "src": "gnews",
-   "title": "U.S. Container Imports Hit Record High as China Trade Surges, Port Delays Mount - MarineLink",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaS1qcE5nT2NfNWlFRFdKTHJXNVVqX3d1aDdyUTVEdjh0QlRGOFNVVl9LZ1k5blh0ZVk3cjE4cERCOWpHUzdpVWprM0txXzJBSUtXWnZkVFlvLWdDekt0Vm1fTFNfbkVnWmU0c2lYb2JkT1RfSWRZYkk5ZG1UbEY3SA?oc=5",
-   "ts": "Wed, 11 Nov 2026 11:47:23 GMT"
+   "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
+   "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "Canada Signs New Deals With China After Trump Drops Trade Demand - Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS3pQMVV1M2ZfcjF4OExma2lteTJDMkF3ZzdNZXdPY21KMHVpYklwb2RJcFhoTVJBZ0ppd1NTVm5oMHhZd1dMOXZ1bUZRZ2hCRVN4ejRoUmdLYjJkVVJaaVc0TWRmYUg3ekl3WE1lSEY3UmJldXppLVg0YkI3YTVXakVVNDM0WHlPcFp3?oc=5",
-   "ts": "Tue, 10 Nov 2026 13:03:00 GMT"
+   "title": "U.S. Container Imports Hit Record High as China Trade Surges, Port Delays Mount - MarineLink",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaS1qcE5nT2NfNWlFRFdKTHJXNVVqX3d1aDdyUTVEdjh0QlRGOFNVVl9LZ1k5blh0ZVk3cjE4cERCOWpHUzdpVWprM0txXzJBSUtXWnZkVFlvLWdDekt0Vm1fTFNfbkVnWmU0c2lYb2JkT1RfSWRZYkk5ZG1UbEY3SA?oc=5",
+   "ts": "Wed, 11 Nov 2026 11:47:23 GMT"
   }
  ]
 }

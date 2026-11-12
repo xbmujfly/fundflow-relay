@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-12T11:16:03Z",
+ "ts": "2026-11-12T11:31:10Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -401,12 +401,6 @@
   },
   {
    "src": "gnews",
-   "title": "Trump’s tariffs echo Jefferson’s failed attempt to weaponise trade - The National",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORi1UWUVkb1VHNHkwTU5wN3lwb3ljTm93MGpYY3VWaFh3c1BYTGY4QkZ1a3BGWk4ycTliTFBfVzlaQVBKZ0xVRlRyY0QtclVJMm1wQWN1b3RGVlptT3lMQkM3WWJkb3JaMzlzSzl2dkVNVjRsMmNIRlpqUUlQTmFFWUp2WTUxRDdseFZiQ2N0b2hwMHQ2aEhn?oc=5",
-   "ts": "Thu, 12 Nov 2026 07:03:53 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China's undervalued currency is driving its trade surplus higher - Peterson Institute for International Economics",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnkzZE15TVlhc1FHU1hzOFJXNklMWERBbUpCSVNLVUw1OFdSS25xOEdZSEY5bXNjclhEWnFCcXF4WUJmUDRyTWpnMWdoMmRyWXVTYkYtUFhmellzaDJUeUladm4zcDYwWEw2eWpLVjQzZVl3c3o5VFZHM2NnM2R6YVJMS1Qtd1d6LVRkMmZtbFZtOHl3cExTTHBwNlhsZVRETVEyWk9ZLUdBQmp3dGNycQ?oc=5",
    "ts": "Mon, 09 Nov 2026 14:00:00 GMT"
@@ -440,6 +434,12 @@
    "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
    "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSU1YMHJMZ1Z5dkdxNWx5S3gyOUlSSVZiQW9LNEZvVmlTblc1SW1vVFZiZ2R1alZDQjI3QnZERy1VNmxxcUZUSlNrNzBVd0xEUUp2dlRUd2tNVzNjX0lRYl9iV0Y1cjR0cmE5NHE1VzBqVFU4WndsdGtEN1RqRmUxa2dOb3FBVmM?oc=5",
+   "ts": "Wed, 11 Nov 2026 20:02:12 GMT"
   },
   {
    "src": "gnews",

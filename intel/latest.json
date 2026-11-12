@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-12T00:15:15Z",
+ "ts": "2026-11-12T00:30:18Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -389,15 +389,15 @@
   },
   {
    "src": "gnews",
-   "title": "US Signals Frustration at Slow Pace of Rare Earth Exports From China - Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdk13bXE2Y0hmY2NQUnhvR2h1Qm1WTHhLa19ZRDVCcF92Y3BuWWxHZWp4ZV96V2ZpcFlvRzVPVmp4cXFfTUdmaUN6VWtPZTIwMHdiZkdvRncyRF90UlhmQ2xuQ2tMQTJFN1lPbHhHamJuN0RBWDBfVzZ4TWhTbFN3SGd2aw?oc=5",
-   "ts": "Wed, 11 Nov 2026 12:00:01 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
    "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US Signals Frustration at Slow Pace of Rare Earth Exports From China - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdk13bXE2Y0hmY2NQUnhvR2h1Qm1WTHhLa19ZRDVCcF92Y3BuWWxHZWp4ZV96V2ZpcFlvRzVPVmp4cXFfTUdmaUN6VWtPZTIwMHdiZkdvRncyRF90UlhmQ2xuQ2tMQTJFN1lPbHhHamJuN0RBWDBfVzZ4TWhTbFN3SGd2aw?oc=5",
+   "ts": "Wed, 11 Nov 2026 12:00:01 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "Unstoppable Record: China's Trade Surplus Tops $1 Trillion, Powered by the AI Hardware Boom - Latin Times",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUmFudE0wVFdoZzVQNlBNUDRCR3BibnBBY1ZPMllQdDh3NVNkSXJTR3Zfb3IzLXBsakliUHQtSUFMLTVYeWRiUmt5Z1B2ZGJ4MUwzV0JQOWc4eE13RjVjeFlhRzllcllxS2RTM2huUlB3ZEFBVlNuWVZfT3Rrd3FjWmdmUkFpa3Ny?oc=5",
-   "ts": "Wed, 11 Nov 2026 12:34:54 GMT"
+   "title": "Canada Signs New Deals With China After Trump Drops Trade Demand - Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS3pQMVV1M2ZfcjF4OExma2lteTJDMkF3ZzdNZXdPY21KMHVpYklwb2RJcFhoTVJBZ0ppd1NTVm5oMHhZd1dMOXZ1bUZRZ2hCRVN4ejRoUmdLYjJkVVJaaVc0TWRmYUg3ekl3WE1lSEY3UmJldXppLVg0YkI3YTVXakVVNDM0WHlPcFp3?oc=5",
+   "ts": "Tue, 10 Nov 2026 13:03:00 GMT"
   }
  ]
 }

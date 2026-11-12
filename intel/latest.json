@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-12T02:30:20Z",
+ "ts": "2026-11-12T02:45:17Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -389,15 +389,15 @@
   },
   {
    "src": "gnews",
-   "title": "Nvidia Fallout Puts Trade Truce to the Test as Xi Welcomes Trump - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHB3ZXVuek1Nc2czX3hVUVBUTVMxM0hUVzhESEhOeGVjU1haSzdINFBTejRqbGZEZHFUWG94dHZiNHVqaDAyUjc0RFBpSExYWDZPRFpyanB2eTJwYUhoMTIxVUJIX1UtMDJ3MGkxMFVITDBpQXJFMVdYSVF0eEEzb1FRRTJlaEFRU3F5Wk5TRjE4Vl80Q1I4X1J6R2FpczR4MGZMZDN3ZUc1VnByMmpKTXJYdkxEUQ?oc=5",
-   "ts": "Thu, 12 Nov 2026 02:01:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - Monterey Herald",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUjVidG5qUG1obkRoVFRMOVNEaU1mdzJQNEp4Qk02bERJQnhJV25kYmpvd0JXRGtqbnBvTDY3YjE5bnBpWC0xdEdnZ0JHWm9CYjVLaWtLekFneVN1QVhWX1JYTUY4dDdEWmR3Ym1ERkdRSlRaY180VWFVc0JpUXI2aVp3?oc=5",
    "ts": "Wed, 11 Nov 2026 20:01:45 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US Signals Frustration at Slow Pace of Rare Earth Exports From China - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdk13bXE2Y0hmY2NQUnhvR2h1Qm1WTHhLa19ZRDVCcF92Y3BuWWxHZWp4ZV96V2ZpcFlvRzVPVmp4cXFfTUdmaUN6VWtPZTIwMHdiZkdvRncyRF90UlhmQ2xuQ2tMQTJFN1lPbHhHamJuN0RBWDBfVzZ4TWhTbFN3SGd2aw?oc=5",
+   "ts": "Wed, 11 Nov 2026 12:00:01 GMT"
   },
   {
    "src": "gnews",
@@ -425,12 +425,6 @@
   },
   {
    "src": "gnews",
-   "title": "EU manufacturers could give up on competing with China by 2030, warns commerce chief - The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHlRN0liRTl3WUQxVlItUVFGNXJzbkliWnd3aVBKTVNGaW5ILWdNNVljWmZnbWxVcHY3OWxRRE9MSWJMZEJnamFTaTRodjdqVFR4VHNFR19DVWphcVJFMFFuU2l0MDJvNjRKMF8xSk1TWDdGUU02cW5fNHJqeXp4dUtXLV9iZW9vY2lSMkhB?oc=5",
-   "ts": "Tue, 10 Nov 2026 06:02:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "U.S. Container Imports Hit Record High as China Trade Surges, Port Delays Mount - MarineLink",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaS1qcE5nT2NfNWlFRFdKTHJXNVVqX3d1aDdyUTVEdjh0QlRGOFNVVl9LZ1k5blh0ZVk3cjE4cERCOWpHUzdpVWprM0txXzJBSUtXWnZkVFlvLWdDekt0Vm1fTFNfbkVnWmU0c2lYb2JkT1RfSWRZYkk5ZG1UbEY3SA?oc=5",
    "ts": "Wed, 11 Nov 2026 11:47:23 GMT"
@@ -443,15 +437,21 @@
   },
   {
    "src": "gnews",
+   "title": "China’s passenger car exports surge in October as domestic demand remains weak - Japan Today",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQXUzd2lqeGlkaEltY0I4MUZmbGZ2Y0wzNGsyTUd2a0IwM0ljeWtuS0p3SWFTbVRzNExsUDdpakozaUhTaEVBSjJpbXRRbWd2bXQ5bHZocm1sTTgtWVVVZ1ZZUmZ4UnBtNU5tVmxCN21DV29tM2JmX3ZVZGxZcTk1eFNsaXM1RURPYlZRcS1xcUlrR3VtZzNyZjlzd1lHWFR0b25TUExDU1dldnZuOTdreXhqTThCbUpUTmpWTTdvWHBVRU5IMnc?oc=5",
+   "ts": "Wed, 11 Nov 2026 19:45:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
    "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "US Signals Frustration at Slow Pace of Rare Earth Exports From China - Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdk13bXE2Y0hmY2NQUnhvR2h1Qm1WTHhLa19ZRDVCcF92Y3BuWWxHZWp4ZV96V2ZpcFlvRzVPVmp4cXFfTUdmaUN6VWtPZTIwMHdiZkdvRncyRF90UlhmQ2xuQ2tMQTJFN1lPbHhHamJuN0RBWDBfVzZ4TWhTbFN3SGd2aw?oc=5",
-   "ts": "Wed, 11 Nov 2026 12:00:01 GMT"
+   "title": "Nvidia Fallout Puts Trade Truce to the Test as Xi Welcomes Trump - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHB3ZXVuek1Nc2czX3hVUVBUTVMxM0hUVzhESEhOeGVjU1haSzdINFBTejRqbGZEZHFUWG94dHZiNHVqaDAyUjc0RFBpSExYWDZPRFpyanB2eTJwYUhoMTIxVUJIX1UtMDJ3MGkxMFVITDBpQXJFMVdYSVF0eEEzb1FRRTJlaEFRU3F5Wk5TRjE4Vl80Q1I4X1J6R2FpczR4MGZMZDN3ZUc1VnByMmpKTXJYdkxEUQ?oc=5",
+   "ts": "Thu, 12 Nov 2026 02:01:00 GMT"
   },
   {
    "src": "gnews",

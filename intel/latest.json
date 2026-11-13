@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-13T11:01:12Z",
+ "ts": "2026-11-13T11:16:05Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -413,21 +413,21 @@
   },
   {
    "src": "gnews",
-   "title": "Trump, Xi, and Putin: What to expect from the APEC summit - Brookings",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVTF3bzN2UHIzWkxmQjl6RTJzTUs4aFg0T0NVUnQ1SGtrLWxYRnlfLS13S19LaHZsNzZxeTBRcjRrNXpfb2Jta1MzUUFfSnZvd3Q4WUp3VmJ2WVlOYVJWUUZzSWFXTUVFOUV6VHpBdUlFYnFaVjF4RzNLUW9BSkVWLWJud3Y1MENITzFIZlhDOWxpU0Vt?oc=5",
-   "ts": "Thu, 12 Nov 2026 17:24:34 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Canada threatens to sue Stellantis over auto plant sale as Trump’s trade war shifts production south - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnlhQ0lXZEVGVEl1WVVmREVnME1EX1VVZkE5b2k2c3RsenVjNERHNDFrb1FVeEdCQzk4bHRxN1ZnYmxNS2FBXzk4VWlCcmhEUlN3UFc3RnVJUEF3djFMWTNuQkdheGtIdkRWTkdwMUpZOUtnQUY5allQZ1pheFdmMUlZWC12Zy03eXhBQ3RpUkF0NXp3ZDJhd2V2WG9NQl8tN2JR?oc=5",
    "ts": "Thu, 12 Nov 2026 23:21:04 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump trade chief Greer speaks with 'Squawk Box' as tariff threats rise - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREd1Qk8yb2FyRTJnblVuX0lQNkhyZWFfckhCVjZVTVJBR0RwbUtNZEppUHVWZ015aThqZGY1bG9BRExVRVhIM0E5NEhOa05wRENZNmswWWQ1TXlnWTlEZVJzSnhhLThZWDB5QS1QVElqMkFyZzBuZnJXOGNEd19XcnZFQU5YTk9S0gGOAUFVX3lxTE12b1JISnFVV18zV2RlTzAxX3lyX2pHSmg3Qkh2b3VuNmFXcjlCUExLaHd5TGZjQ0JCRmNwTy0yc19iQ2FEa1ktRDdZeExMSm9mZ2lQcWNnSHFCYzVzRmg4NUR4MWJzdHpfNDY5Zjl2QmNnSkJlTXYtRUZNb0pfWkY1Z1BCSmpBU3NBeE0xZUE?oc=5",
-   "ts": "Thu, 12 Nov 2026 13:31:40 GMT"
+   "title": "Trump, Xi, and Putin: What to expect from the APEC summit - Brookings",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVTF3bzN2UHIzWkxmQjl6RTJzTUs4aFg0T0NVUnQ1SGtrLWxYRnlfLS13S19LaHZsNzZxeTBRcjRrNXpfb2Jta1MzUUFfSnZvd3Q4WUp3VmJ2WVlOYVJWUUZzSWFXTUVFOUV6VHpBdUlFYnFaVjF4RzNLUW9BSkVWLWJud3Y1MENITzFIZlhDOWxpU0Vt?oc=5",
+   "ts": "Thu, 12 Nov 2026 17:24:34 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzk1R09TQzJMMElPWWVSLXhRSkZUVFJWWW85cjV2QjFtMXJRcWVKX2VjSm83XzRNZUE3VFpucUk3SHdPbXd4b0tnMkVVamxsLUEtMTcyejJLUlBSNURlSkR6bjVKUzNENWZmVE1LcHpiakk2RXViWVJDVmR5bDlyX3BpMGJJWW1J?oc=5",
+   "ts": "Tue, 10 Nov 2026 02:38:00 GMT"
   },
   {
    "src": "gnews",
@@ -439,7 +439,7 @@
    "src": "gnews",
    "title": "This Trader Raised Alarm About Nvidia’s China Entanglements Months Ago - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX2FTU2VwZWc4azh1MzNySzJzQ29qWXV4akVDNUF3Y0g3NjR4VDRvdUtZRkNDd2tuTnpvS3hUc0VFR185YU9WNjhpa25zcWtYSkJWbnhMOE1fWFpXd0UtMloxZmtmMzBMZFJjWWhwbXU4Q2NrRkVsTExvdTRVTmFmTTB6Z0QyYXdnZmx3?oc=5",
-   "ts": "Fri, 13 Nov 2026 08:11:08 GMT"
+   "ts": "Fri, 13 Nov 2026 11:09:52 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzk1R09TQzJMMElPWWVSLXhRSkZUVFJWWW85cjV2QjFtMXJRcWVKX2VjSm83XzRNZUE3VFpucUk3SHdPbXd4b0tnMkVVamxsLUEtMTcyejJLUlBSNURlSkR6bjVKUzNENWZmVE1LcHpiakk2RXViWVJDVmR5bDlyX3BpMGJJWW1J?oc=5",
-   "ts": "Tue, 10 Nov 2026 02:38:00 GMT"
+   "title": "Trump trade chief Greer speaks with 'Squawk Box' as tariff threats rise - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREd1Qk8yb2FyRTJnblVuX0lQNkhyZWFfckhCVjZVTVJBR0RwbUtNZEppUHVWZ015aThqZGY1bG9BRExVRVhIM0E5NEhOa05wRENZNmswWWQ1TXlnWTlEZVJzSnhhLThZWDB5QS1QVElqMkFyZzBuZnJXOGNEd19XcnZFQU5YTk9S0gGOAUFVX3lxTE12b1JISnFVV18zV2RlTzAxX3lyX2pHSmg3Qkh2b3VuNmFXcjlCUExLaHd5TGZjQ0JCRmNwTy0yc19iQ2FEa1ktRDdZeExMSm9mZ2lQcWNnSHFCYzVzRmg4NUR4MWJzdHpfNDY5Zjl2QmNnSkJlTXYtRUZNb0pfWkY1Z1BCSmpBU3NBeE0xZUE?oc=5",
+   "ts": "Thu, 12 Nov 2026 13:31:40 GMT"
   }
  ]
 }

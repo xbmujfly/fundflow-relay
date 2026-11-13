@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-13T01:31:19Z",
+ "ts": "2026-11-13T01:46:04Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -395,15 +395,15 @@
   },
   {
    "src": "gnews",
-   "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
-   "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Canada threatens to sue Stellantis over auto plant sale as Trump’s trade war shifts production south - The Seattle Times",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjVJYmRZeTIxM19tZmk2ZFNsaVM1QWw0Y0Z4NnZKWGJoQnhEa2hKcUd6bnFra2RzRG9tME4tZmtXay1FT0VDZHk1SWZ6ekZGZ1RnSUpCZThIcTR6VmhJdlNxR3NXYVF5SF9qY3VNbWZJcE81N2ZJclZXcTBCdUN4UGQydW9tamJPZm5vc28zcVVOemYzanZERGRhTnpzVXZUN280VGJSRmNQYVJXQ2hTWjlsRnVIajN0Q2ZkOUo4bzB0d3lqRk9yRUNnN05tRjJyZDFoZA?oc=5",
    "ts": "Thu, 12 Nov 2026 23:22:07 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzZDOGNvVTFCTVR0a3V2RkFNSHREcWFJbnAzM054cmEzODdWV09CSU5wNi1JNXZWZW1GdkQ1QW1NVHBIQ2wteFVHNTRzd2dQZmdIUmc1SHh5YXQ3QzY1ZERlQVEzSGNUSGNnOGM4X2VTLXlZdWIwcU1DS2ozS19rY2VHdWZudw?oc=5",
+   "ts": "Tue, 10 Nov 2026 04:10:00 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "This Trader Raised Alarm About Nvidia’s China Entanglements Months Ago - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX2FTU2VwZWc4azh1MzNySzJzQ29qWXV4akVDNUF3Y0g3NjR4VDRvdUtZRkNDd2tuTnpvS3hUc0VFR185YU9WNjhpa25zcWtYSkJWbnhMOE1fWFpXd0UtMloxZmtmMzBMZFJjWWhwbXU4Q2NrRkVsTExvdTRVTmFmTTB6Z0QyYXdnZmx3?oc=5",
-   "ts": "Thu, 12 Nov 2026 19:29:00 GMT"
+   "title": "China’s trade surplus exceeds $1tn for first 10 months of year - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmpqbG1WMjVjVGtaTmdwR2hnbkJ0OWxiS2NZNXVWSklHZDNoZTR6eXZXTWhTZHdIeUg1elJYLUNaNGhMNHB4dGVUMnBJMlNTVVpmSVBoX3o2Z1JTTFZKa3VTVVlnQkNtZk54VVEwdWVQMjhkakJGbXpiYU94YVdPSmdzYl8?oc=5",
+   "ts": "Tue, 10 Nov 2026 06:09:45 GMT"
   }
  ]
 }

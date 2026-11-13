@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-13T14:01:13Z",
+ "ts": "2026-11-13T14:16:11Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -340,6 +340,12 @@
   },
   {
    "src": "gnews",
+   "title": "Trump’s tariffs face a new threat: Republicans - CNN",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
+   "ts": "Fri, 13 Nov 2026 10:00:15 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans - CNBC",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFRLX3NsenJzNmtnMmVMUXhtakFGcEU2RFRRZEk1NUl4aF8wWEtZQ1RuVG1oZ0ZJRmJqc3N3VnpfQjhLcV80UGxTTFc5Q0Z1Z01YNXJTNXZYZUhsRjhNWWx5bXdMTlI5dGF3VUJNQUR4VFNnb3pLLXFXY1dmUnJXVFVoaVTSAYoBQVVfeXFMTmVzVXVTOFZDV2VKVzM3T2NsVF9xSmtfcFNscWJNYTNZV3RtNExYMWRjQUM5bmxxOXk1eU8zR09iZVRlNXctTWlROVlQWEcwY3FnYy1scjRuZU5RbS1EUDNuMWI5d1hvTXpURENab1A4eURib3BqYjFaRXlXVFJXRHBsYU5NSG5QZktR?oc=5",
    "ts": "Fri, 13 Nov 2026 09:44:38 GMT"
@@ -364,6 +370,12 @@
   },
   {
    "src": "gnews",
+   "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
+   "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Foreign Ministry Spokesperson Mao Ning’s Regular Press Conference on November 13, 2026 - 中华人民共和国外交部",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NNlNEWGtJNWJwVDhHV01YUDVsM1R0SGxkNW9hSUI4Y2Rhc3lTV1ZOaTN2MkNUanhpcm9aR1FoWFV1Q0E1TTdscW9pQVp5U0tXN2ZHTDVITko2OE9GNndHTUp2SHdaM2JnaUg2cnhuTUNZUHM1dV9OYnRyT2Q?oc=5",
    "ts": "Fri, 13 Nov 2026 11:03:00 GMT"
@@ -376,12 +388,6 @@
   },
   {
    "src": "gnews",
-   "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
-   "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
    "ts": "Tue, 10 Nov 2026 14:37:00 GMT"
@@ -391,6 +397,12 @@
    "title": "Why China’s $1 trillion trade surplus isn’t all good news for its economy - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZV95STRtMWZoX0pmMWxWa3JBcVZsRFdoNERTNU9uTTNFYjBRb2RYY2NFZ1R5cEtDV2R6Y0ZwMG42TVNGVk1NR3EzS0FLUmpJWDJoMVVNWXFSenU3Q2ZSYjJwb0taaVh2NmxkQ29jc2FSaGd2ZlpNYWk1Z0FGMUljSGo3UnBjVGEwYktIbjV6YndCcFNPU3EyM0VZMzRJendqUEpVVVdtdS02dUkxaXU5NG9uRnowUdIBuwFBVV95cUxPMHhkXzZLYjk1SDNuOF80RGNKdF9YVEVVd0hVb3lsbzRYU0NJRi1LRFUwN3ZWRjJ2V0o1Tldpa3Y0RTRYM0NjQ29TZEluNjZPRmxjMkg5UzVzUGxJMUhtdi1tSlBFS2J5Nnp6RlJKSjNVLWsycWhfSUtuWnBuOXpiODdKRE02TDF6T29NcWxxQ1RTX0F4Qm5JdXowUWZoN0JFRnN4SUNnN1lETFNHRmRLTWdlNTYydnNuSHRZ?oc=5",
    "ts": "Wed, 11 Nov 2026 08:42:04 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China could cap rare earths sales if US expands chip curbs over Nvidia: analysts - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObmIxT2FWVk9hRUdTbm80NEotRVE1VEkzSklWOTVoODlaVU1Vb3dMQWpwbUw0QllvZGNGb016YjBfRXJHRlgyLWFmd2VSN2k0MFJHa1dvVzFUNkVoQ0RNVlNKQ0RxTjJ6SDFYOHMyZVEzUWNDdkk1bDg4RDA1N3haNTU1R3ctZHdaOS1COVNtZG5rN3dETVR0Y1Uxcm9ZTlJRVnphYmU0YWpVTFl5enBLdkl2QndwRVowNUJDS1VxbFRMVmRxeWpsV3B6MWhvaEJvdHBMUlZ0blFXNjRhTXNPdA?oc=5",
+   "ts": "Fri, 13 Nov 2026 13:00:08 GMT"
   },
   {
    "src": "gnews",
@@ -409,12 +421,6 @@
    "title": "Innovation key driver of growth in APEC trade - Time Magazine",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObmFZT2pxUjZoUFVHTzBZRTMyMWppYWtOV0VOWTRJNHlDa3NtdmItTUpCalJEUm0zQTNkbzFZbnhTanotVW82SDNEa2FlbFJjY3MxQjE4WW82N3BKSUR2OGNZMGhER09ZSmV3d0ZVUVp2azJnWUMwcEh2U2lRd3dBZGNSQWFZU3RZMDNjNmJBLXdnUk5pM1E?oc=5",
    "ts": "Fri, 13 Nov 2026 09:58:39 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China could cap rare earths sales if US expands chip curbs over Nvidia: analysts - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObmIxT2FWVk9hRUdTbm80NEotRVE1VEkzSklWOTVoODlaVU1Vb3dMQWpwbUw0QllvZGNGb016YjBfRXJHRlgyLWFmd2VSN2k0MFJHa1dvVzFUNkVoQ0RNVlNKQ0RxTjJ6SDFYOHMyZVEzUWNDdkk1bDg4RDA1N3haNTU1R3ctZHdaOS1COVNtZG5rN3dETVR0Y1Uxcm9ZTlJRVnphYmU0YWpVTFl5enBLdkl2QndwRVowNUJDS1VxbFRMVmRxeWpsV3B6MWhvaEJvdHBMUlZ0blFXNjRhTXNPdA?oc=5",
-   "ts": "Fri, 13 Nov 2026 13:00:08 GMT"
   },
   {
    "src": "gnews",
@@ -439,12 +445,6 @@
    "title": "COMMENTARY: Fund sellers, China buyers squeeze copper's tariff trade - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWlpXV0JiLWp6alEyWjJXejVxdE95VFBrMzVVcDJiOGtWc2NFcUtNN0R1cXl2cmlQdmhlMjI1ZDA3U2pzcko1UjYtc013SDNfNlZ2TUJlbUlIQnhDMXNxZmtDVHE5VUdwQWxER19oSjNLN052bnVrYlQ0QVNzallzOVU1bXdxNFlHSy1idC0zTGlNTnBscUNDdTNjdDBpb3BtUjJqMnpIRE1MQzVIVVRPeUMxUnE0LU1mb2h4T3hJVno?oc=5",
    "ts": "Mon, 09 Nov 2026 23:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Nvidia Fallout Puts Trade Truce to the Test as Xi Welcomes Trump - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHB3ZXVuek1Nc2czX3hVUVBUTVMxM0hUVzhESEhOeGVjU1haSzdINFBTejRqbGZEZHFUWG94dHZiNHVqaDAyUjc0RFBpSExYWDZPRFpyanB2eTJwYUhoMTIxVUJIX1UtMDJ3MGkxMFVITDBpQXJFMVdYSVF0eEEzb1FRRTJlaEFRU3F5Wk5TRjE4Vl80Q1I4X1J6R2FpczR4MGZMZDN3ZUc1VnByMmpKTXJYdkxEUQ?oc=5",
-   "ts": "Thu, 12 Nov 2026 08:12:28 GMT"
   },
   {
    "src": "gnews",

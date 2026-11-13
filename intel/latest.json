@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-13T12:01:05Z",
+ "ts": "2026-11-13T12:16:03Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -413,6 +413,12 @@
   },
   {
    "src": "gnews",
+   "title": "News Democrat success may mean more trade stability, but alongside tariffs - The Loadstar",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZl9yYmVjQnFXRWdEVUw0SXJYOUd1UUdEZUpQNGZrN2o2MFFDY0JJcXR3SGI3ZEFUWUhBRE5zVW5HWm1wZFIyamJ6WmduM051d3Z5STVMVV9ZQmd6a1ByNXNyVWY2MktRUnNlN2JTODRwTEpUdDI5cHlPRUdsVjRxcVZsTW9GdG5Va3hOcEU2Ty1qOFpUcmQyWg?oc=5",
+   "ts": "Fri, 13 Nov 2026 11:45:19 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Canada threatens to sue Stellantis over auto plant sale as Trump’s trade war shifts production south - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnlhQ0lXZEVGVEl1WVVmREVnME1EX1VVZkE5b2k2c3RsenVjNERHNDFrb1FVeEdCQzk4bHRxN1ZnYmxNS2FBXzk4VWlCcmhEUlN3UFc3RnVJUEF3djFMWTNuQkdheGtIdkRWTkdwMUpZOUtnQUY5allQZ1pheFdmMUlZWC12Zy03eXhBQ3RpUkF0NXp3ZDJhd2V2WG9NQl8tN2JR?oc=5",
    "ts": "Thu, 12 Nov 2026 23:21:04 GMT"
@@ -422,12 +428,6 @@
    "title": "China’s Trade Surplus Surged Past $1 Trillion in October - WSJ",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNEdJRlEzYnZIbVRkWi1rc252aE9SbXdwZDVnWGwtVnhfNzBKMWJRUHZDdWJlZno4MC1WVFhKc3JMQ05IUjFQQjlMcmd2QVBYNFhFaDZmMXo2WlgzU2hhQm1FYm9zZXRoLWdRazFLdUVkOXU5eU83X0VNNjNQVzhZZmpDS25FTDVSQlk1TjZtUlpZcnJZN0VaR0Nfbw?oc=5",
    "ts": "Tue, 10 Nov 2026 04:04:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump, Xi, and Putin: What to expect from the APEC summit - Brookings",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVTF3bzN2UHIzWkxmQjl6RTJzTUs4aFg0T0NVUnQ1SGtrLWxYRnlfLS13S19LaHZsNzZxeTBRcjRrNXpfb2Jta1MzUUFfSnZvd3Q4WUp3VmJ2WVlOYVJWUUZzSWFXTUVFOUV6VHpBdUlFYnFaVjF4RzNLUW9BSkVWLWJud3Y1MENITzFIZlhDOWxpU0Vt?oc=5",
-   "ts": "Thu, 12 Nov 2026 17:24:34 GMT"
   },
   {
    "src": "gnews",

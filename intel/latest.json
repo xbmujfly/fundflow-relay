@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-13T13:01:12Z",
+ "ts": "2026-11-13T13:16:05Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -412,6 +413,12 @@
   },
   {
    "src": "gnews",
+   "title": "China could cap rare earths sales if US expands chip curbs over Nvidia: analysts - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObmIxT2FWVk9hRUdTbm80NEotRVE1VEkzSklWOTVoODlaVU1Vb3dMQWpwbUw0QllvZGNGb016YjBfRXJHRlgyLWFmd2VSN2k0MFJHa1dvVzFUNkVoQ0RNVlNKQ0RxTjJ6SDFYOHMyZVEzUWNDdkk1bDg4RDA1N3haNTU1R3ctZHdaOS1COVNtZG5rN3dETVR0Y1Uxcm9ZTlJRVnphYmU0YWpVTFl5enBLdkl2QndwRVowNUJDS1VxbFRMVmRxeWpsV3B6MWhvaEJvdHBMUlZ0blFXNjRhTXNPdA?oc=5",
+   "ts": "Fri, 13 Nov 2026 13:00:08 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "News Democrat success may mean more trade stability, but alongside tariffs - The Loadstar",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZl9yYmVjQnFXRWdEVUw0SXJYOUd1UUdEZUpQNGZrN2o2MFFDY0JJcXR3SGI3ZEFUWUhBRE5zVW5HWm1wZFIyamJ6WmduM051d3Z5STVMVV9ZQmd6a1ByNXNyVWY2MktRUnNlN2JTODRwTEpUdDI5cHlPRUdsVjRxcVZsTW9GdG5Va3hOcEU2Ty1qOFpUcmQyWg?oc=5",
    "ts": "Fri, 13 Nov 2026 11:45:19 GMT"
@@ -421,12 +428,6 @@
    "title": "Canada threatens to sue Stellantis over auto plant sale as Trump’s trade war shifts production south - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnlhQ0lXZEVGVEl1WVVmREVnME1EX1VVZkE5b2k2c3RsenVjNERHNDFrb1FVeEdCQzk4bHRxN1ZnYmxNS2FBXzk4VWlCcmhEUlN3UFc3RnVJUEF3djFMWTNuQkdheGtIdkRWTkdwMUpZOUtnQUY5allQZ1pheFdmMUlZWC12Zy03eXhBQ3RpUkF0NXp3ZDJhd2V2WG9NQl8tN2JR?oc=5",
    "ts": "Thu, 12 Nov 2026 23:21:04 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s Trade Surplus Surged Past $1 Trillion in October - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNEdJRlEzYnZIbVRkWi1rc252aE9SbXdwZDVnWGwtVnhfNzBKMWJRUHZDdWJlZno4MC1WVFhKc3JMQ05IUjFQQjlMcmd2QVBYNFhFaDZmMXo2WlgzU2hhQm1FYm9zZXRoLWdRazFLdUVkOXU5eU83X0VNNjNQVzhZZmpDS25FTDVSQlk1TjZtUlpZcnJZN0VaR0Nfbw?oc=5",
-   "ts": "Tue, 10 Nov 2026 04:04:00 GMT"
   },
   {
    "src": "gnews",
@@ -457,126 +458,6 @@
    "title": "Trump trade chief Greer speaks with 'Squawk Box' as tariff threats rise - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREd1Qk8yb2FyRTJnblVuX0lQNkhyZWFfckhCVjZVTVJBR0RwbUtNZEppUHVWZ015aThqZGY1bG9BRExVRVhIM0E5NEhOa05wRENZNmswWWQ1TXlnWTlEZVJzSnhhLThZWDB5QS1QVElqMkFyZzBuZnJXOGNEd19XcnZFQU5YTk9S0gGOAUFVX3lxTE12b1JISnFVV18zV2RlTzAxX3lyX2pHSmg3Qkh2b3VuNmFXcjlCUExLaHd5TGZjQ0JCRmNwTy0yc19iQ2FEa1ktRDdZeExMSm9mZ2lQcWNnSHFCYzVzRmg4NUR4MWJzdHpfNDY5Zjl2QmNnSkJlTXYtRUZNb0pfWkY1Z1BCSmpBU3NBeE0xZUE?oc=5",
    "ts": "Thu, 12 Nov 2026 13:31:40 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Democrat Midterm Wins Encourage Activists at Climate Change Convention",
-   "url": "https://www.theepochtimes.com/business/democrats-midterm-wins-encourage-activists-at-climate-change-convention-6124411",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ICE reports record immigration arrests , deportations since Trump return",
-   "url": "https://www.twincities.com/2026/11/12/ice-record-high-arrests-deportations/",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "There can be no progress in reaching Ukraine peace agreement without EU – Martin",
-   "url": "https://www.barryanddistrictnews.co.uk/news/national/26725533.can-no-progress-reaching-ukraine-peace-agreement-without-eu---martin/",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "早报丨黄仁勋卸任离场 ， 美国司法部将调查英伟达 ； 特斯拉与SpaceX合并推进 ， 最快12月公布 ； 思科上调全年指引 ， 应用材料交出亮眼业绩 _ 东方财富网",
-   "url": "https://finance.eastmoney.com/a/202611133930295541.html",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Donald Trump Jr . exits advisory role at prediction market Kalshi",
-   "url": "https://www.clickondetroit.com/tech/2026/11/12/donald-trump-jr-exits-advisory-role-at-prediction-market-kalshi/",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Donald Trump Jr . exits advisory role at prediction market Kalshi",
-   "url": "https://www.sbsun.com/2026/11/12/donald-trump-jr-kalshi/",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Colorado flood victims hope for speedier federal help",
-   "url": "https://www.ksmu.org/2026-11-12/colorado-flood-victims-hope-for-speedier-federal-help",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "黄仁勋辞职 ！ 特朗普 、 马斯克发声",
-   "url": "https://www.163.com/dy/article/LBJNRKF905128U4M.html",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  대체불가  젠슨 황 떠난 자리 … 후임은 누구 ? - 헤럴드경제 미주판",
-   "url": "https://www.heraldk.com/article/2026111215314408786",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Pushes for Nvidia to Hire Former Apple Chief Tim Cook to Replace Jensen Huang",
-   "url": "https://www.breitbart.com/politics/2026/11/12/trump-pushes-for-nvidia-to-hire-former-apple-chief-tim-cook-to-replace-jensen-huang/",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "乌克兰后悔了 ！ 白宫斡旋的临时停火 ， 反成俄军增兵跳板 赫尔松再陷险境 _ 新闻频道 _ 中华网",
-   "url": "https://news.china.com/socialgd/10000169/20261113/49867509.html",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Tinubu , 2027 and the price of losing trusted journalism",
-   "url": "https://punchng.com/tinubu-2027-and-the-price-of-losing-trusted-journalism/",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "U . S . stocks lose steam on Nvidia CEO exit , rising bond yields",
-   "url": "http://www.bangladeshsun.com/news/279429293/u-s-stocks-lose-steam-on-nvidia-ceo-exit-rising-bond-yields",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump claims arch at Arlington National Cemetery would honor military personnel , veterans",
-   "url": "https://www.armytimes.com/veterans/2026/11/12/trump-claims-arch-at-arlington-national-cemetery-would-honor-military-personnel-veterans/",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "غافلگیری ستاره رئال مادرید برای ظاهر ، پسر سودانی که جنگ پاهایش را گرفت",
-   "url": "https://www.bbc.com/persian/articles/c6wy430n1nkno",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "美股收盘 ： AMD  五连阳  累涨超40 % 科技硬件链盘后利好频出 _ 腾讯新闻",
-   "url": "https://news.qq.com/rain/a/20261113A02W4J00",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump bluntly tells JD Vance to shift focus from Iran",
-   "url": "https://www.twincities.com/2026/11/12/us-iran-war-trump-vance-focus/",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "The Beginning Of The End : Israel At The Heart Of America Political Civil War",
-   "url": "https://www.scoop.co.nz/stories/HL2611/S00032/the-beginning-of-the-end-israel-at-the-heart-of-americas-political-civil-war.htm",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Кремль требует документального оформления гарантий нерасширения НАТО",
-   "url": "https://www.obozrevatel.com/section-politics-news/news-kreml-vymahaye-dokumentalnoho-oformlennya-harantiy-nerozshyrennya-nato-na-skhid-pyeskov-12-11-2026.html",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "8点1氪丨英伟达宣布CEO黄仁勋辞职 ， 特朗普 ： 建议库克接任 ； 腾讯  裁员50 %？ 知情人士回应 ； 宣扬错误婚恋观 ， 德芙代运营方被罚80万|知名企业|蒂姆 · 库克|唐纳 · 川普",
-   "url": "https://www.163.com/dy/article/LBJP2QG805118DFD.html",
-   "ts": "20261113T004500Z"
   }
  ]
 }

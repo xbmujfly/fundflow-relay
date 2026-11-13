@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-13T15:46:07Z",
+ "ts": "2026-11-13T23:01:03Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -10,8 +10,9 @@
    "n": 10
   },
   "fed": {
-   "ok": true,
-   "n": 20
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 404: Not Found"
   },
   "reuters": {
    "ok": false,
@@ -35,7 +36,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
+   "err": "URLError: <urlopen error timed out>"
   }
  },
  "items": [
@@ -167,6 +168,12 @@
   },
   {
    "src": "ustr",
+   "title": "United States Seeks Mexico’s Review of Alleged Denial of Workers’ Rights at Industrias FG",
+   "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-industrias-fg",
+   "ts": "Fri, 13 Nov 2026 21:27:00 +0000"
+  },
+  {
+   "src": "ustr",
    "title": "Readout of Ambassador Greer’s Call with China’s Vice Premier He Lifeng",
    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/readout-ambassador-greers-call-chinas-vice-premier-he-lifeng",
    "ts": "Fri, 06 Nov 2026 18:42:20 +0000"
@@ -214,136 +221,28 @@
    "ts": "Fri, 23 Oct 2026 13:06:37 +0000"
   },
   {
-   "src": "ustr",
-   "title": "USTR Announces 2026 Award Recipients",
-   "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ustr-announces-2026-award-recipients",
-   "ts": "Wed, 21 Oct 2026 23:05:13 +0000"
+   "src": "gnews",
+   "title": "How Congress might take back its trade powers and limit Trump's tariffs - Peterson Institute for International Economics",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd3dkbjI5MjdTckFXd2lKQk5VWTJybnlhMzVIVWRNLTdjQXA5aEQ2U2g0SjdETDRTSEtiLXBQS2JpQWwzQXNPNVhKMXpfRm16ckJNYTdTUl9iRnBqTmFrRnptLW1NWmVVUzd6QUVPTl90QlR6MUdBVEVINDJ3VG9lWDBEbWMwQjZTcUhxTThDeXlOREFBcEc3QTk2Qlo1QUZkd29kT3FsMG8wNkhpRzVnZWVDTQ?oc=5",
+   "ts": "Fri, 13 Nov 2026 16:57:34 GMT"
   },
   {
-   "src": "fed",
-   "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check ",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-   "ts": "Thu, 12 Nov 2026 18:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-   "ts": "Thu, 12 Nov 2026 17:45:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
-   "ts": "Thu, 12 Nov 2026 16:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-   "ts": "Mon, 9 Nov 2026 21:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
-   "ts": "Thu, 5 Nov 2026 16:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
-   "ts": "Thu, 29 Oct 2026 20:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve issues FOMC statement",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-   "ts": "Wed, 28 Oct 2026 18:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
-   "ts": "Fri, 16 Oct 2026 15:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-   "ts": "Tue, 13 Oct 2026 18:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-   "ts": "Fri, 9 Oct 2026 14:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity rel",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-   "ts": "Thu, 8 Oct 2026 20:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-   "ts": "Wed, 7 Oct 2026 18:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
-   "ts": "Mon, 5 Oct 2026 20:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-   "ts": "Fri, 2 Oct 2026 20:45:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-   "ts": "Fri, 2 Oct 2026 20:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
-   "ts": "Fri, 2 Oct 2026 15:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-   "ts": "Wed, 30 Sep 2026 13:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
-   "ts": "Tue, 29 Sep 2026 20:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
-   "ts": "Fri, 25 Sep 2026 20:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
-   "ts": "Thu, 24 Sep 2026 18:30:00 GMT"
+   "src": "gnews",
+   "title": "Tariffs Don’t Drain the Swamp—They Fill It - Cato Institute",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tTjA0d3NqcGFyM2tCV0gtTzNoQzJrQWEwQnZXY2dSNWlUTGhwMW1SZGFGbzVISG9kRWdORFoyZVV2dkNVSF9kdWhzY1QwQk5wdnlFUUlUbkExVTVVaXRPQ3ZGSVpray1CMncwZWQzS2g?oc=5",
+   "ts": "Fri, 13 Nov 2026 16:37:20 GMT"
   },
   {
    "src": "gnews",
    "title": "The EU’s shaky start to balancing trade with China - GIS Reports",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yN0tONWZ1NjZ3dHZ5eEIxck1VTHNvTmN0Y3htZ2xXNnI3d0V5dkZYRTFWV2RjNDJGS1V6eVlxY2FUWDMxdjhZcUR4RXp3Vm5GSloyMEFlZ2Q2bGNDclIyZmthV0FYdS1KeUdaT2pMTUgyWWNEMXc?oc=5",
    "ts": "Fri, 13 Nov 2026 07:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump and Xi Can Reopen Trade. But for Whom? - The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNU02NXZtbkJlbXE0dGNEU1A2b1FUdW8wNU0xV2EzOGJ4Y3BxZGhpd3VuZUpTYno5MWNRLUxMc3hIMXJDd2xuTXotQUdsZjNvc09LdnhtSENfeUpVWVgxZ1FNOVJSQy1JX3dEbi1tb3BPVjN6M0xoVHI3YU9hdTE1RQ?oc=5",
+   "ts": "Fri, 13 Nov 2026 20:32:50 GMT"
   },
   {
    "src": "gnews",
@@ -359,21 +258,9 @@
   },
   {
    "src": "gnews",
-   "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
-   "ts": "Tue, 10 Nov 2026 02:42:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trafigura Is Key Player in LME Aluminum Squeeze With China Trade - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSTlHdGJudFBBbEQ1V2tkY09oZ3Q2b050dkc2RnU0ejhoWV93M1phbnNMa096ZTdRd0p2TEd6TmFWS1Npa1pTY1lkWGlGVkM4RENSSnVMVHhMRjFmTE1Wb2VLQldiRWJYaU1XVXkwYzZ6NldRT0hGbDlmVlpuaU5ydUNJM0Z5ZGFSSkxoWHcyMTl2amVmQ05ORlJXOHhsTU5YUDhJSERlcmJKb1gteFcxT2pDZXZmdw?oc=5",
-   "ts": "Fri, 13 Nov 2026 10:32:22 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
-   "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
+   "title": "US Treasury's Bessent says he is optimistic on trade deals with Canada, Mexico - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdWdSaDA1Z1ZyaFBzb2lWR1VzcEs5OGlsZzJhX2tNNXRia3NBcElYZzB2OTR3NW4wV09fY29NZ2JjRUFrazRwY3BkUllCX0FWWkFoNkhienpZMXFEOG9jLW02NWtubXpHZDRiRHFKeENZVlpORjFOMXE3UEkxUnA3aWFnX2QxQldMd2VVNDdwVmwxSUE3eVlEMzN2d0NnanBFbkFVY3pKRkY3bjdneVFyWEV0VjM2Y29qdnNXV0tB?oc=5",
+   "ts": "Fri, 13 Nov 2026 14:24:31 GMT"
   },
   {
    "src": "gnews",
@@ -383,9 +270,27 @@
   },
   {
    "src": "gnews",
-   "title": "Foreign Ministry Spokesperson Mao Ning’s Regular Press Conference on November 13, 2026 - 中华人民共和国外交部",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NNlNEWGtJNWJwVDhHV01YUDVsM1R0SGxkNW9hSUI4Y2Rhc3lTV1ZOaTN2MkNUanhpcm9aR1FoWFV1Q0E1TTdscW9pQVp5U0tXN2ZHTDVITko2OE9GNndHTUp2SHdaM2JnaUg2cnhuTUNZUHM1dV9OYnRyT2Q?oc=5",
-   "ts": "Fri, 13 Nov 2026 11:03:00 GMT"
+   "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
+   "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Soybean Farmers Push for China Trade Progress and Removal of Remaining Tariffs - RFD-TV",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGJiYWM0RDYteGVIVV9Jd1RTNWppRWVneU1SakU1NjJkcVd5MnZ2QldZZVZfWGtwakx1dExpbWZWdjFzTFM4TnBUWFNpei1DYW5pRTlFb1Q1TXVnT2FOMlNpLWRleEx2ODVRdkVRSUc2Z3ZnOXRucGllM1dsZXNQNmdvdTRIZXBDcG1lWUZNLTVMcWNxMk5MZHMxbWh3QjhiR2c?oc=5",
+   "ts": "Fri, 13 Nov 2026 16:26:25 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "U.S. Senator Tammy Baldwin joined seven other colleagues in pressing Federal Trade Commission (FTC) Chairman Andrew Ferguson to investigate major corporations pocketing government tariff refunds - Civ",
+   "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNT0FaY1pRX1NUSjlBOTJ4aUhPOHViQlFyVnE1SmJzYkNVa084UXVZcU45Z256SEtSWGU3dDVXdTBYdVNXaVhOSVBvRThsNG1zYjlhMmVGNlVFU0VtdkFQa281WHI0clhpUU1rS2xRRG83M1ZqS1AyZmdoN2U4LTdwUmlIOE5mMVp1WENWZzlMcF91UDd4RWJXTThCNTFybXdHclRhdVo0aFd2UDNXQTBZNGp2Rm5EWi1kTFJTUUNZckRadDBiakFSYnRoQ00tLUdJajg0Q0RicUpTSlZYMW5EUHBrUnFaWW5EODQzV2FER2VZY1ZrdlB5eU5LV0VMMFhOQmhfUm1wVnU4T3VMWkk3eEhrMkNOUDVObUM4clRab0ZFTVJoVDBLQmhsdWVIRTRSMm9MYmpQVk44ZVBLb1dEWDR3Skd4aEdLQko4Xw?oc=5",
+   "ts": "Fri, 13 Nov 2026 19:44:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trafigura Is Key Player in LME Aluminum Squeeze With China Trade - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSTlHdGJudFBBbEQ1V2tkY09oZ3Q2b050dkc2RnU0ejhoWV93M1phbnNMa096ZTdRd0p2TEd6TmFWS1Npa1pTY1lkWGlGVkM4RENSSnVMVHhMRjFmTE1Wb2VLQldiRWJYaU1XVXkwYzZ6NldRT0hGbDlmVlpuaU5ydUNJM0Z5ZGFSSkxoWHcyMTl2amVmQ05ORlJXOHhsTU5YUDhJSERlcmJKb1gteFcxT2pDZXZmdw?oc=5",
+   "ts": "Fri, 13 Nov 2026 10:32:22 GMT"
   },
   {
    "src": "gnews",
@@ -395,69 +300,45 @@
   },
   {
    "src": "gnews",
+   "title": "Washington’s efforts to block Beijing’s access to Nvidia chips could spark a ‘short-lived U.S.-China trade war’ that rattles markets - MarketWatch",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSmo5YUxEVksxZzdSNkEtcFVQZkt0bDlaYUtzVHd5TER3bU5kNGJSUGpvZi1PQ05lYUZmbExoOV9XdC1FSTh5RjNjei1OeGRGTkRlVmxuNTRZbDAzVjJFcklGZGlhSDByUWIwcEQ4LWplbHJ2akhwN183YXdaU2NDTFYtcnQtS1dKV2pNMC1uUVJkY3VtYmd4dzJoREZyRExJMzhsaWVfRjJiQ0VDaXc2bW90VlZPVi1QSV9ZNzEwUlVEUDVKRE9oNkpwRnEtTTVPZU1rRVdOTFZCOURtcXFaNV9US2F2ZW1GWFVTNGNMQTRlTnVQSTE3WnA2ZWN0X00?oc=5",
+   "ts": "Fri, 13 Nov 2026 19:19:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
    "ts": "Tue, 10 Nov 2026 14:37:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "China could cap rare earths sales if US expands chip curbs over Nvidia: analysts - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObmIxT2FWVk9hRUdTbm80NEotRVE1VEkzSklWOTVoODlaVU1Vb3dMQWpwbUw0QllvZGNGb016YjBfRXJHRlgyLWFmd2VSN2k0MFJHa1dvVzFUNkVoQ0RNVlNKQ0RxTjJ6SDFYOHMyZVEzUWNDdkk1bDg4RDA1N3haNTU1R3ctZHdaOS1COVNtZG5rN3dETVR0Y1Uxcm9ZTlJRVnphYmU0YWpVTFl5enBLdkl2QndwRVowNUJDS1VxbFRMVmRxeWpsV3B6MWhvaEJvdHBMUlZ0blFXNjRhTXNPdA?oc=5",
-   "ts": "Fri, 13 Nov 2026 13:00:08 GMT"
+   "title": "Trump–Xi talks to test progress on trade, SI and strategic stability - VOA - Voice of America English News",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPek1jUjFZUC1ZWE9GZm95MmhwNUx0LWVOTkpyWWFxb2x2ZUxCVDFKS0RFOWR2M1pTUnRkWFIyWkpUNk5RUUNUc29jN1FLTEs3VlNzZElGWXpacHZzclJfekZpem53cjdBS0tDckJCS2ZVV010MHFMLVl4Z2NaR1AtMW9BTnVyTmRpN1JJcjZTTVJ1V1ZQSkM3bUMtRVdUSUpXUGE4dlNqVV9jcnN6Tnp2dlVOb3VJZ9IBuAFBVV95cUxOU2E0alRBWWxaRGRpRkgxcm9RVk1mVWxsdWlUNTNCQjk2U3dITDVGZUNoLWV1amg0alYzb0x2ZnIyZzVGRjZVQ1JrRmt2YjAwNkpINjRLQ0JPOHBtTEpTWjJaejd5ZnZTMzhSeTFrLXE4Z3BZVjN5Y2F4WXllZXFfMEZRY2p0UUhzUEhtRmdkVEVuUnEyeW5PQk44bmJHX2FwdGlla2NDT1JMMHB0UjhCTWFxTmhFbjQy?oc=5",
+   "ts": "Fri, 13 Nov 2026 21:39:28 GMT"
   },
   {
    "src": "gnews",
-   "title": "EXPLAINER – Trade, technology and possible Putin talks: What awaits Trump in Asia? - Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVjMzblI0YkpHZXZMM0c2bG8ydktJNlVrVEx2ZTA3SmJHOGtQSlZiSFlaTGtWaURCNmlzcmxYNXZKU0owdk8wcUtGQ2dHcnZadXdzaUpFbF96SFNaYkp2c1Y0dEpuQm9CRFJDT3pkZ3NHRFozbENnLUV1M3V0c0JFaXluNFVMeVMyWVZSWGRlLW4tQVJVMXI2UlhIN0FITGNJUXZiTlFoMEtXeHFNUWdZTU9jMXlNXzVmdV9z?oc=5",
-   "ts": "Fri, 13 Nov 2026 14:11:05 GMT"
+   "title": "US, China hold first Board of Trade meeting - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc01lX1pFekl6SmdEY1p3SHlENVI0MkZCT2RCLV95bWt5UThVblZpRFNGTVBHZDk4d3JoM0txYzUxRGtQS3dxRTc4MlZzaklnMGJXWFRCVHN4SS11RUdELUZnVXlsMmZQV0szQlNxS3M3Mi1lVHRUVzRJSVB1LWlfa3VvRHkzV1EzTjVUUm1iRVM?oc=5",
+   "ts": "Fri, 13 Nov 2026 18:02:11 GMT"
   },
   {
    "src": "gnews",
-   "title": "China Looks to Shake Up Centuries-Old Business of Insuring Ships - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVF9MMFk5aGVhdlluOG02Y05WSkpJVGVhRlctT3BuazNQVGNGRkJDemFFOGZEc256RXdMYmJVY3V4dzVZUG1ZeTVyTkdNdkpOandVSHR2dUtfbjNWSTFpbE9WNEpBUlVjWkVGaHo0bGNuTi15WE5YcnhLV3lPdnlXSXdvNjVBWjV6OW03ZF96Qk4tNGhWVzBYaGtLaURHYXlOY0lTWmx0bjVvX0FZMGVZ?oc=5",
-   "ts": "Fri, 13 Nov 2026 12:06:00 GMT"
+   "title": "Silverado's Dmitri Alperovitch on what's ahead for U.S.-China trade after Nvidia revelations - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM2NpNWtPM0wyR2Q1OE42Z0wzOXNKTTJ1WXc1TmMxUDN6Yno1R1paMDNDUzN0WTNvT3J1QUJMclA1MFIyZHF2bjktUVItcUg0VUlwWEFoT3I5ZDVKY3k3ejVPMHBvX2JvWFdjUDZvLUdnOGtnM0M0bUxtTGg5OTY3d2M2bXdWenYzamJKM2JVMndtZktGd1F2Um1vWkFjWXFSUW1aNk5KXzdMcTAxbW9BWDZIaTQwVURYa3pNQnRnWVhQekVFeTRjaW94TQ?oc=5",
+   "ts": "Fri, 13 Nov 2026 21:58:26 GMT"
   },
   {
    "src": "gnews",
-   "title": "Slotkin Joins Colleagues in Demanding Action After Trump Appointee Interfered in Investigation on Insider Trading in Oil Markets - U.S. Senate (.gov)",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQV3VMdkg2UTdjeFJ5QmtkUDVkcEVFa29ZXzFtRVN5dUZ3XzRDejdHV0NmZC1kZ0RTSGMtb0JtbEJjYzRTbk9ZM0lpMGgxaGlPbk5YaGhFWlJ1c01kODdKTHVVLTBpXzVIdmJYdk5sRVM1NEwwanV4TGJrN3dJazVpdkRBY3F0U0ZQQmM0dEpwZnNWbDM0eWxqZlNQZFBDby1Zem5rQTZCY0t6QnlRME5DZDU4OG9GVmlFdUp6eXh0WHRVZkd5VUx6SDBLQlFiTDlmcHZZVTV0OGswY1RCYW1TWmFTWnE1Z2FKVU1ZQVQydTN6a1BFczZ1TGVJQWRncm9a?oc=5",
-   "ts": "Fri, 13 Nov 2026 00:52:55 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "US Treasury's Bessent says he is optimistic on trade deals with Canada, Mexico - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdWdSaDA1Z1ZyaFBzb2lWR1VzcEs5OGlsZzJhX2tNNXRia3NBcElYZzB2OTR3NW4wV09fY29NZ2JjRUFrazRwY3BkUllCX0FWWkFoNkhienpZMXFEOG9jLW02NWtubXpHZDRiRHFKeENZVlpORjFOMXE3UEkxUnA3aWFnX2QxQldMd2VVNDdwVmwxSUE3eVlEMzN2d0NnanBFbkFVY3pKRkY3bjdneVFyWEV0VjM2Y29qdnNXV0tB?oc=5",
-   "ts": "Fri, 13 Nov 2026 14:24:31 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Watch CNBC's full interview with Treasury Sec. Scott Bessent on Nvidia, China trade - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUmZ2cWxCS1J3Zk9kNlRFNXJvX3d4OGotaGdteG03SG94WklqVlRhRGJjYUVCMWQ5TEh4UzhUdWY1MHJkeHdhTTUzbnRHSEMxNDNJTTZvNU5IVmROUUpXTlNiOXh2MV9LZTdMTTNiTDRCT1B0YmNGVlJfUEpzSWU0VS1RX0t0bW43MWFRdXlvSm5keVNIa01tSHlRQTRqX2ZCLVh2WVdhbTlmSzJoYlNwSVVFWjg1Y3JZc1VISzgyb2o?oc=5",
-   "ts": "Fri, 13 Nov 2026 12:57:04 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - AP News",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzZvaHZqSTdNX2R6b1BzNzJKdnI4NDNacDYzdkhud2ZUcERRVlBjcTdsZWxBVDZZYUlaRFdDZlpyMHhSNEJfVUk0TG1HQTRMOWloMlR0QWdEakxjZEN5UV85a2hQa2NNYnlfcjNiU3A4cVdCVnQ1dzNMZW82cWNxU0RKVU9aTkpWQUtxNG85aG9KQQ?oc=5",
-   "ts": "Wed, 11 Nov 2026 02:30:56 GMT"
+   "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
+   "ts": "Tue, 10 Nov 2026 02:42:00 GMT"
   },
   {
    "src": "gnews",
    "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzk1R09TQzJMMElPWWVSLXhRSkZUVFJWWW85cjV2QjFtMXJRcWVKX2VjSm83XzRNZUE3VFpucUk3SHdPbXd4b0tnMkVVamxsLUEtMTcyejJLUlBSNURlSkR6bjVKUzNENWZmVE1LcHpiakk2RXViWVJDVmR5bDlyX3BpMGJJWW1J?oc=5",
    "ts": "Tue, 10 Nov 2026 02:38:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "COMMENTARY: Fund sellers, China buyers squeeze copper's tariff trade - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWlpXV0JiLWp6alEyWjJXejVxdE95VFBrMzVVcDJiOGtWc2NFcUtNN0R1cXl2cmlQdmhlMjI1ZDA3U2pzcko1UjYtc013SDNfNlZ2TUJlbUlIQnhDMXNxZmtDVHE5VUdwQWxER19oSjNLN052bnVrYlQ0QVNzallzOVU1bXdxNFlHSy1idC0zTGlNTnBscUNDdTNjdDBpb3BtUjJqMnpIRE1MQzVIVVRPeUMxUnE0LU1mb2h4T3hJVno?oc=5",
-   "ts": "Mon, 09 Nov 2026 23:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump trade chief Greer speaks with 'Squawk Box' as tariff threats rise - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREd1Qk8yb2FyRTJnblVuX0lQNkhyZWFfckhCVjZVTVJBR0RwbUtNZEppUHVWZ015aThqZGY1bG9BRExVRVhIM0E5NEhOa05wRENZNmswWWQ1TXlnWTlEZVJzSnhhLThZWDB5QS1QVElqMkFyZzBuZnJXOGNEd19XcnZFQU5YTk9S0gGOAUFVX3lxTE12b1JISnFVV18zV2RlTzAxX3lyX2pHSmg3Qkh2b3VuNmFXcjlCUExLaHd5TGZjQ0JCRmNwTy0yc19iQ2FEa1ktRDdZeExMSm9mZ2lQcWNnSHFCYzVzRmg4NUR4MWJzdHpfNDY5Zjl2QmNnSkJlTXYtRUZNb0pfWkY1Z1BCSmpBU3NBeE0xZUE?oc=5",
-   "ts": "Thu, 12 Nov 2026 13:31:40 GMT"
   }
  ]
 }

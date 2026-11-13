@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-13T15:01:19Z",
+ "ts": "2026-11-13T15:16:03Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,12 +341,6 @@
   },
   {
    "src": "gnews",
-   "title": "Trump’s tariffs face a new threat: Republicans - CNN",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
-   "ts": "Fri, 13 Nov 2026 10:00:15 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans - CNBC",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFRLX3NsenJzNmtnMmVMUXhtakFGcEU2RFRRZEk1NUl4aF8wWEtZQ1RuVG1oZ0ZJRmJqc3N3VnpfQjhLcV80UGxTTFc5Q0Z1Z01YNXJTNXZYZUhsRjhNWWx5bXdMTlI5dGF3VUJNQUR4VFNnb3pLLXFXY1dmUnJXVFVoaVTSAYoBQVVfeXFMTmVzVXVTOFZDV2VKVzM3T2NsVF9xSmtfcFNscWJNYTNZV3RtNExYMWRjQUM5bmxxOXk1eU8zR09iZVRlNXctTWlROVlQWEcwY3FnYy1scjRuZU5RbS1EUDNuMWI5d1hvTXpURENab1A4eURib3BqYjFaRXlXVFJXRHBsYU5NSG5QZktR?oc=5",
    "ts": "Fri, 13 Nov 2026 09:44:38 GMT"
@@ -356,6 +350,12 @@
    "title": "The EU’s shaky start to balancing trade with China - GIS Reports",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yN0tONWZ1NjZ3dHZ5eEIxck1VTHNvTmN0Y3htZ2xXNnI3d0V5dkZYRTFWV2RjNDJGS1V6eVlxY2FUWDMxdjhZcUR4RXp3Vm5GSloyMEFlZ2Q2bGNDclIyZmthV0FYdS1KeUdaT2pMTUgyWWNEMXc?oc=5",
    "ts": "Fri, 13 Nov 2026 07:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump’s tariffs face a new threat: Republicans - CNN",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
+   "ts": "Fri, 13 Nov 2026 10:00:15 GMT"
   },
   {
    "src": "gnews",
@@ -449,9 +449,9 @@
   },
   {
    "src": "gnews",
-   "title": "Watch CNBC's full interview with Treasury Sec. Scott Bessent on Nvidia, China trade - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUmZ2cWxCS1J3Zk9kNlRFNXJvX3d4OGotaGdteG03SG94WklqVlRhRGJjYUVCMWQ5TEh4UzhUdWY1MHJkeHdhTTUzbnRHSEMxNDNJTTZvNU5IVmROUUpXTlNiOXh2MV9LZTdMTTNiTDRCT1B0YmNGVlJfUEpzSWU0VS1RX0t0bW43MWFRdXlvSm5keVNIa01tSHlRQTRqX2ZCLVh2WVdhbTlmSzJoYlNwSVVFWjg1Y3JZc1VISzgyb2o?oc=5",
-   "ts": "Fri, 13 Nov 2026 13:39:51 GMT"
+   "title": "Trump trade chief Greer speaks with 'Squawk Box' as tariff threats rise - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREd1Qk8yb2FyRTJnblVuX0lQNkhyZWFfckhCVjZVTVJBR0RwbUtNZEppUHVWZ015aThqZGY1bG9BRExVRVhIM0E5NEhOa05wRENZNmswWWQ1TXlnWTlEZVJzSnhhLThZWDB5QS1QVElqMkFyZzBuZnJXOGNEd19XcnZFQU5YTk9S0gGOAUFVX3lxTE12b1JISnFVV18zV2RlTzAxX3lyX2pHSmg3Qkh2b3VuNmFXcjlCUExLaHd5TGZjQ0JCRmNwTy0yc19iQ2FEa1ktRDdZeExMSm9mZ2lQcWNnSHFCYzVzRmg4NUR4MWJzdHpfNDY5Zjl2QmNnSkJlTXYtRUZNb0pfWkY1Z1BCSmpBU3NBeE0xZUE?oc=5",
+   "ts": "Thu, 12 Nov 2026 13:31:40 GMT"
   },
   {
    "src": "gnews",

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-13T10:31:08Z",
+ "ts": "2026-11-13T10:46:02Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -352,21 +353,27 @@
   },
   {
    "src": "gnews",
+   "title": "Trafigura Is Key Player in LME Aluminum Squeeze With China Trade - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSTlHdGJudFBBbEQ1V2tkY09oZ3Q2b050dkc2RnU0ejhoWV93M1phbnNMa096ZTdRd0p2TEd6TmFWS1Npa1pTY1lkWGlGVkM4RENSSnVMVHhMRjFmTE1Wb2VLQldiRWJYaU1XVXkwYzZ6NldRT0hGbDlmVlpuaU5ydUNJM0Z5ZGFSSkxoWHcyMTl2amVmQ05ORlJXOHhsTU5YUDhJSERlcmJKb1gteFcxT2pDZXZmdw?oc=5",
+   "ts": "Fri, 13 Nov 2026 10:32:22 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
    "ts": "Tue, 10 Nov 2026 02:42:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Bessent calls for more balanced trade with China ahead of Trump-Xi talks - The Hill",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYlhRbEROWDNNT2N0RGJHMDJwaGJ3WjFhdVhPMW1Rejcwc3VyS1hzMy1SdU5sZDVuUGN6Vi1WZGlKUnQ3RzlUV3ZsSDBfOXQ2QzNCNmVJdVBzR2F3WFJGTDREQmR1MVJlaW1wcTF5d0VKLTE1c3d0dWtkTUVhX256NW1vbHpEWWVCSHAxREZ3clc0SlVCMkx6bjA3RkJNY3pjUjEwRFFoUXpZVGFWdEU3TtIBtgFBVV95cUxONkg0M2NHZE1HU1hnQ2x2QnVwZlhMMmRWaENPdFN5TUstSzAwUFhIYTduN1czd1FDNHUzbV8zOEdVZWR2T0luOTIyWnhoa0tscmZQMFBCTS1pMWo5RXlBQVVQUC1rOWp0UW1rWTBiamxqN1hPQjUwaWxZZGQxSUhST1FUYWc3d2VveDdnb3VtRVdZZTQ0R2JvNzBYenJZN3FzcVp1ZE1IVk1iUGRNUmhIczBnQ01wZw?oc=5",
-   "ts": "Wed, 11 Nov 2026 14:02:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump’s tariffs face a new threat: Republicans - CNN",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
    "ts": "Fri, 13 Nov 2026 10:00:15 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Bessent calls for more balanced trade with China ahead of Trump-Xi talks - The Hill",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYlhRbEROWDNNT2N0RGJHMDJwaGJ3WjFhdVhPMW1Rejcwc3VyS1hzMy1SdU5sZDVuUGN6Vi1WZGlKUnQ3RzlUV3ZsSDBfOXQ2QzNCNmVJdVBzR2F3WFJGTDREQmR1MVJlaW1wcTF5d0VKLTE1c3d0dWtkTUVhX256NW1vbHpEWWVCSHAxREZ3clc0SlVCMkx6bjA3RkJNY3pjUjEwRFFoUXpZVGFWdEU3TtIBtgFBVV95cUxONkg0M2NHZE1HU1hnQ2x2QnVwZlhMMmRWaENPdFN5TUstSzAwUFhIYTduN1czd1FDNHUzbV8zOEdVZWR2T0luOTIyWnhoa0tscmZQMFBCTS1pMWo5RXlBQVVQUC1rOWp0UW1rWTBiamxqN1hPQjUwaWxZZGQxSUhST1FUYWc3d2VveDdnb3VtRVdZZTQ0R2JvNzBYenJZN3FzcVp1ZE1IVk1iUGRNUmhIczBnQ01wZw?oc=5",
+   "ts": "Wed, 11 Nov 2026 14:02:00 GMT"
   },
   {
    "src": "gnews",
@@ -400,9 +407,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trafigura Is Key Player in LME Aluminum Squeeze With China Trade - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSTlHdGJudFBBbEQ1V2tkY09oZ3Q2b050dkc2RnU0ejhoWV93M1phbnNMa096ZTdRd0p2TEd6TmFWS1Npa1pTY1lkWGlGVkM4RENSSnVMVHhMRjFmTE1Wb2VLQldiRWJYaU1XVXkwYzZ6NldRT0hGbDlmVlpuaU5ydUNJM0Z5ZGFSSkxoWHcyMTl2amVmQ05ORlJXOHhsTU5YUDhJSERlcmJKb1gteFcxT2pDZXZmdw?oc=5",
-   "ts": "Thu, 12 Nov 2026 20:16:33 GMT"
+   "title": "China’s Trade Surplus Surged Past $1 Trillion in October - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNEdJRlEzYnZIbVRkWi1rc252aE9SbXdwZDVnWGwtVnhfNzBKMWJRUHZDdWJlZno4MC1WVFhKc3JMQ05IUjFQQjlMcmd2QVBYNFhFaDZmMXo2WlgzU2hhQm1FYm9zZXRoLWdRazFLdUVkOXU5eU83X0VNNjNQVzhZZmpDS25FTDVSQlk1TjZtUlpZcnJZN0VaR0Nfbw?oc=5",
+   "ts": "Wed, 11 Nov 2026 08:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -415,12 +422,6 @@
    "title": "Canada threatens to sue Stellantis over auto plant sale as Trump’s trade war shifts production south - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnlhQ0lXZEVGVEl1WVVmREVnME1EX1VVZkE5b2k2c3RsenVjNERHNDFrb1FVeEdCQzk4bHRxN1ZnYmxNS2FBXzk4VWlCcmhEUlN3UFc3RnVJUEF3djFMWTNuQkdheGtIdkRWTkdwMUpZOUtnQUY5allQZ1pheFdmMUlZWC12Zy03eXhBQ3RpUkF0NXp3ZDJhd2V2WG9NQl8tN2JR?oc=5",
    "ts": "Thu, 12 Nov 2026 23:21:04 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s Trade Surplus Surged Past $1 Trillion in October - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNEdJRlEzYnZIbVRkWi1rc252aE9SbXdwZDVnWGwtVnhfNzBKMWJRUHZDdWJlZno4MC1WVFhKc3JMQ05IUjFQQjlMcmd2QVBYNFhFaDZmMXo2WlgzU2hhQm1FYm9zZXRoLWdRazFLdUVkOXU5eU83X0VNNjNQVzhZZmpDS25FTDVSQlk1TjZtUlpZcnJZN0VaR0Nfbw?oc=5",
-   "ts": "Wed, 11 Nov 2026 08:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -457,126 +458,6 @@
    "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzk1R09TQzJMMElPWWVSLXhRSkZUVFJWWW85cjV2QjFtMXJRcWVKX2VjSm83XzRNZUE3VFpucUk3SHdPbXd4b0tnMkVVamxsLUEtMTcyejJLUlBSNURlSkR6bjVKUzNENWZmVE1LcHpiakk2RXViWVJDVmR5bDlyX3BpMGJJWW1J?oc=5",
    "ts": "Tue, 10 Nov 2026 02:38:00 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Democrat Midterm Wins Encourage Activists at Climate Change Convention",
-   "url": "https://www.theepochtimes.com/business/democrats-midterm-wins-encourage-activists-at-climate-change-convention-6124411",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ICE reports record immigration arrests , deportations since Trump return",
-   "url": "https://www.twincities.com/2026/11/12/ice-record-high-arrests-deportations/",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "There can be no progress in reaching Ukraine peace agreement without EU – Martin",
-   "url": "https://www.barryanddistrictnews.co.uk/news/national/26725533.can-no-progress-reaching-ukraine-peace-agreement-without-eu---martin/",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "早报丨黄仁勋卸任离场 ， 美国司法部将调查英伟达 ； 特斯拉与SpaceX合并推进 ， 最快12月公布 ； 思科上调全年指引 ， 应用材料交出亮眼业绩 _ 东方财富网",
-   "url": "https://finance.eastmoney.com/a/202611133930295541.html",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Donald Trump Jr . exits advisory role at prediction market Kalshi",
-   "url": "https://www.clickondetroit.com/tech/2026/11/12/donald-trump-jr-exits-advisory-role-at-prediction-market-kalshi/",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Donald Trump Jr . exits advisory role at prediction market Kalshi",
-   "url": "https://www.sbsun.com/2026/11/12/donald-trump-jr-kalshi/",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Colorado flood victims hope for speedier federal help",
-   "url": "https://www.ksmu.org/2026-11-12/colorado-flood-victims-hope-for-speedier-federal-help",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "黄仁勋辞职 ！ 特朗普 、 马斯克发声",
-   "url": "https://www.163.com/dy/article/LBJNRKF905128U4M.html",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  대체불가  젠슨 황 떠난 자리 … 후임은 누구 ? - 헤럴드경제 미주판",
-   "url": "https://www.heraldk.com/article/2026111215314408786",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Pushes for Nvidia to Hire Former Apple Chief Tim Cook to Replace Jensen Huang",
-   "url": "https://www.breitbart.com/politics/2026/11/12/trump-pushes-for-nvidia-to-hire-former-apple-chief-tim-cook-to-replace-jensen-huang/",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "乌克兰后悔了 ！ 白宫斡旋的临时停火 ， 反成俄军增兵跳板 赫尔松再陷险境 _ 新闻频道 _ 中华网",
-   "url": "https://news.china.com/socialgd/10000169/20261113/49867509.html",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Tinubu , 2027 and the price of losing trusted journalism",
-   "url": "https://punchng.com/tinubu-2027-and-the-price-of-losing-trusted-journalism/",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "U . S . stocks lose steam on Nvidia CEO exit , rising bond yields",
-   "url": "http://www.bangladeshsun.com/news/279429293/u-s-stocks-lose-steam-on-nvidia-ceo-exit-rising-bond-yields",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump claims arch at Arlington National Cemetery would honor military personnel , veterans",
-   "url": "https://www.armytimes.com/veterans/2026/11/12/trump-claims-arch-at-arlington-national-cemetery-would-honor-military-personnel-veterans/",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "غافلگیری ستاره رئال مادرید برای ظاهر ، پسر سودانی که جنگ پاهایش را گرفت",
-   "url": "https://www.bbc.com/persian/articles/c6wy430n1nkno",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "美股收盘 ： AMD  五连阳  累涨超40 % 科技硬件链盘后利好频出 _ 腾讯新闻",
-   "url": "https://news.qq.com/rain/a/20261113A02W4J00",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump bluntly tells JD Vance to shift focus from Iran",
-   "url": "https://www.twincities.com/2026/11/12/us-iran-war-trump-vance-focus/",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "The Beginning Of The End : Israel At The Heart Of America Political Civil War",
-   "url": "https://www.scoop.co.nz/stories/HL2611/S00032/the-beginning-of-the-end-israel-at-the-heart-of-americas-political-civil-war.htm",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Кремль требует документального оформления гарантий нерасширения НАТО",
-   "url": "https://www.obozrevatel.com/section-politics-news/news-kreml-vymahaye-dokumentalnoho-oformlennya-harantiy-nerozshyrennya-nato-na-skhid-pyeskov-12-11-2026.html",
-   "ts": "20261113T004500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "8点1氪丨英伟达宣布CEO黄仁勋辞职 ， 特朗普 ： 建议库克接任 ； 腾讯  裁员50 %？ 知情人士回应 ； 宣扬错误婚恋观 ， 德芙代运营方被罚80万|知名企业|蒂姆 · 库克|唐纳 · 川普",
-   "url": "https://www.163.com/dy/article/LBJP2QG805118DFD.html",
-   "ts": "20261113T004500Z"
   }
  ]
 }

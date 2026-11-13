@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-13T07:31:09Z",
+ "ts": "2026-11-13T07:46:05Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -371,12 +371,6 @@
   },
   {
    "src": "gnews",
-   "title": "Trump, Xi, and Putin: What to expect from the APEC summit - Brookings",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVTF3bzN2UHIzWkxmQjl6RTJzTUs4aFg0T0NVUnQ1SGtrLWxYRnlfLS13S19LaHZsNzZxeTBRcjRrNXpfb2Jta1MzUUFfSnZvd3Q4WUp3VmJ2WVlOYVJWUUZzSWFXTUVFOUV6VHpBdUlFYnFaVjF4RzNLUW9BSkVWLWJud3Y1MENITzFIZlhDOWxpU0Vt?oc=5",
-   "ts": "Thu, 12 Nov 2026 17:24:34 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Slotkin Joins Colleagues in Demanding Action After Trump Appointee Interfered in Investigation on Insider Trading in Oil Markets - U.S. Senate (.gov)",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQV3VMdkg2UTdjeFJ5QmtkUDVkcEVFa29ZXzFtRVN5dUZ3XzRDejdHV0NmZC1kZ0RTSGMtb0JtbEJjYzRTbk9ZM0lpMGgxaGlPbk5YaGhFWlJ1c01kODdKTHVVLTBpXzVIdmJYdk5sRVM1NEwwanV4TGJrN3dJazVpdkRBY3F0U0ZQQmM0dEpwZnNWbDM0eWxqZlNQZFBDby1Zem5rQTZCY0t6QnlRME5DZDU4OG9GVmlFdUp6eXh0WHRVZkd5VUx6SDBLQlFiTDlmcHZZVTV0OGswY1RCYW1TWmFTWnE1Z2FKVU1ZQVQydTN6a1BFczZ1TGVJQWRncm9a?oc=5",
    "ts": "Fri, 13 Nov 2026 00:52:55 GMT"
@@ -386,6 +380,12 @@
    "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
    "ts": "Tue, 10 Nov 2026 14:37:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump, Xi, and Putin: What to expect from the APEC summit - Brookings",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVTF3bzN2UHIzWkxmQjl6RTJzTUs4aFg0T0NVUnQ1SGtrLWxYRnlfLS13S19LaHZsNzZxeTBRcjRrNXpfb2Jta1MzUUFfSnZvd3Q4WUp3VmJ2WVlOYVJWUUZzSWFXTUVFOUV6VHpBdUlFYnFaVjF4RzNLUW9BSkVWLWJud3Y1MENITzFIZlhDOWxpU0Vt?oc=5",
+   "ts": "Thu, 12 Nov 2026 17:24:34 GMT"
   },
   {
    "src": "gnews",
@@ -413,27 +413,21 @@
   },
   {
    "src": "gnews",
-   "title": "Nvidia fallout could hamper US-China trade talks - Semafor",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNm1WbHVHSkZsX0FCWmxVVFFETnE2LUJaR1ZMLXNJcTlpRzhURy1WSlRBRDIzWUN4c0hkMndMcXJGUzNsdno1Tm9ObkM2QlE1SlBmbmJWZDZPWGNvai1QbGt3QXZtR0RCZEhoLUlxZjZYbFZkMHFFcV9nYjJUejZUTHItMGZLUGpxQ1FIUnVZMjFrOVV0RGc?oc=5",
-   "ts": "Thu, 12 Nov 2026 09:58:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s Trade Surplus Surged Past $1 Trillion in October - WSJ",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNEdJRlEzYnZIbVRkWi1rc252aE9SbXdwZDVnWGwtVnhfNzBKMWJRUHZDdWJlZno4MC1WVFhKc3JMQ05IUjFQQjlMcmd2QVBYNFhFaDZmMXo2WlgzU2hhQm1FYm9zZXRoLWdRazFLdUVkOXU5eU83X0VNNjNQVzhZZmpDS25FTDVSQlk1TjZtUlpZcnJZN0VaR0Nfbw?oc=5",
    "ts": "Tue, 10 Nov 2026 04:04:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzk1R09TQzJMMElPWWVSLXhRSkZUVFJWWW85cjV2QjFtMXJRcWVKX2VjSm83XzRNZUE3VFpucUk3SHdPbXd4b0tnMkVVamxsLUEtMTcyejJLUlBSNURlSkR6bjVKUzNENWZmVE1LcHpiakk2RXViWVJDVmR5bDlyX3BpMGJJWW1J?oc=5",
-   "ts": "Tue, 10 Nov 2026 02:38:00 GMT"
+   "title": "Nvidia fallout could hamper US-China trade talks - Semafor",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNm1WbHVHSkZsX0FCWmxVVFFETnE2LUJaR1ZMLXNJcTlpRzhURy1WSlRBRDIzWUN4c0hkMndMcXJGUzNsdno1Tm9ObkM2QlE1SlBmbmJWZDZPWGNvai1QbGt3QXZtR0RCZEhoLUlxZjZYbFZkMHFFcV9nYjJUejZUTHItMGZLUGpxQ1FIUnVZMjFrOVV0RGc?oc=5",
+   "ts": "Thu, 12 Nov 2026 09:58:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Nvidia Fallout Puts Trade Truce to the Test as Xi Welcomes Trump - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHB3ZXVuek1Nc2czX3hVUVBUTVMxM0hUVzhESEhOeGVjU1haSzdINFBTejRqbGZEZHFUWG94dHZiNHVqaDAyUjc0RFBpSExYWDZPRFpyanB2eTJwYUhoMTIxVUJIX1UtMDJ3MGkxMFVITDBpQXJFMVdYSVF0eEEzb1FRRTJlaEFRU3F5Wk5TRjE4Vl80Q1I4X1J6R2FpczR4MGZMZDN3ZUc1VnByMmpKTXJYdkxEUQ?oc=5",
-   "ts": "Thu, 12 Nov 2026 08:12:28 GMT"
+   "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzk1R09TQzJMMElPWWVSLXhRSkZUVFJWWW85cjV2QjFtMXJRcWVKX2VjSm83XzRNZUE3VFpucUk3SHdPbXd4b0tnMkVVamxsLUEtMTcyejJLUlBSNURlSkR6bjVKUzNENWZmVE1LcHpiakk2RXViWVJDVmR5bDlyX3BpMGJJWW1J?oc=5",
+   "ts": "Tue, 10 Nov 2026 02:38:00 GMT"
   },
   {
    "src": "gnews",
@@ -446,6 +440,12 @@
    "title": "COMMENTARY: Fund sellers, China buyers squeeze copper's tariff trade - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWlpXV0JiLWp6alEyWjJXejVxdE95VFBrMzVVcDJiOGtWc2NFcUtNN0R1cXl2cmlQdmhlMjI1ZDA3U2pzcko1UjYtc013SDNfNlZ2TUJlbUlIQnhDMXNxZmtDVHE5VUdwQWxER19oSjNLN052bnVrYlQ0QVNzallzOVU1bXdxNFlHSy1idC0zTGlNTnBscUNDdTNjdDBpb3BtUjJqMnpIRE1MQzVIVVRPeUMxUnE0LU1mb2h4T3hJVno?oc=5",
    "ts": "Mon, 09 Nov 2026 23:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Nvidia Fallout Puts Trade Truce to the Test as Xi Welcomes Trump - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHB3ZXVuek1Nc2czX3hVUVBUTVMxM0hUVzhESEhOeGVjU1haSzdINFBTejRqbGZEZHFUWG94dHZiNHVqaDAyUjc0RFBpSExYWDZPRFpyanB2eTJwYUhoMTIxVUJIX1UtMDJ3MGkxMFVITDBpQXJFMVdYSVF0eEEzb1FRRTJlaEFRU3F5Wk5TRjE4Vl80Q1I4X1J6R2FpczR4MGZMZDN3ZUc1VnByMmpKTXJYdkxEUQ?oc=5",
+   "ts": "Thu, 12 Nov 2026 08:12:28 GMT"
   },
   {
    "src": "gnews",

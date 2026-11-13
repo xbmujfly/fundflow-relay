@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-13T04:16:03Z",
+ "ts": "2026-11-13T04:31:04Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -365,21 +365,27 @@
   },
   {
    "src": "gnews",
+   "title": "Slotkin Joins Colleagues in Demanding Action After Trump Appointee Interfered in Investigation on Insider Trading in Oil Markets - U.S. Senate (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQV3VMdkg2UTdjeFJ5QmtkUDVkcEVFa29ZXzFtRVN5dUZ3XzRDejdHV0NmZC1kZ0RTSGMtb0JtbEJjYzRTbk9ZM0lpMGgxaGlPbk5YaGhFWlJ1c01kODdKTHVVLTBpXzVIdmJYdk5sRVM1NEwwanV4TGJrN3dJazVpdkRBY3F0U0ZQQmM0dEpwZnNWbDM0eWxqZlNQZFBDby1Zem5rQTZCY0t6QnlRME5DZDU4OG9GVmlFdUp6eXh0WHRVZkd5VUx6SDBLQlFiTDlmcHZZVTV0OGswY1RCYW1TWmFTWnE1Z2FKVU1ZQVQydTN6a1BFczZ1TGVJQWRncm9a?oc=5",
+   "ts": "Fri, 13 Nov 2026 00:52:55 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Bessent calls for more balanced trade with China ahead of Trump-Xi talks - The Hill",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYlhRbEROWDNNT2N0RGJHMDJwaGJ3WjFhdVhPMW1Rejcwc3VyS1hzMy1SdU5sZDVuUGN6Vi1WZGlKUnQ3RzlUV3ZsSDBfOXQ2QzNCNmVJdVBzR2F3WFJGTDREQmR1MVJlaW1wcTF5d0VKLTE1c3d0dWtkTUVhX256NW1vbHpEWWVCSHAxREZ3clc0SlVCMkx6bjA3RkJNY3pjUjEwRFFoUXpZVGFWdEU3TtIBtgFBVV95cUxONkg0M2NHZE1HU1hnQ2x2QnVwZlhMMmRWaENPdFN5TUstSzAwUFhIYTduN1czd1FDNHUzbV8zOEdVZWR2T0luOTIyWnhoa0tscmZQMFBCTS1pMWo5RXlBQVVQUC1rOWp0UW1rWTBiamxqN1hPQjUwaWxZZGQxSUhST1FUYWc3d2VveDdnb3VtRVdZZTQ0R2JvNzBYenJZN3FzcVp1ZE1IVk1iUGRNUmhIczBnQ01wZw?oc=5",
    "ts": "Wed, 11 Nov 2026 14:02:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Nvidia Fallout Puts Trade Truce to the Test as Xi Welcomes Trump - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHB3ZXVuek1Nc2czX3hVUVBUTVMxM0hUVzhESEhOeGVjU1haSzdINFBTejRqbGZEZHFUWG94dHZiNHVqaDAyUjc0RFBpSExYWDZPRFpyanB2eTJwYUhoMTIxVUJIX1UtMDJ3MGkxMFVITDBpQXJFMVdYSVF0eEEzb1FRRTJlaEFRU3F5Wk5TRjE4Vl80Q1I4X1J6R2FpczR4MGZMZDN3ZUc1VnByMmpKTXJYdkxEUQ?oc=5",
-   "ts": "Thu, 12 Nov 2026 08:12:28 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Why China’s $1 trillion trade surplus isn’t all good news for its economy - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZV95STRtMWZoX0pmMWxWa3JBcVZsRFdoNERTNU9uTTNFYjBRb2RYY2NFZ1R5cEtDV2R6Y0ZwMG42TVNGVk1NR3EzS0FLUmpJWDJoMVVNWXFSenU3Q2ZSYjJwb0taaVh2NmxkQ29jc2FSaGd2ZlpNYWk1Z0FGMUljSGo3UnBjVGEwYktIbjV6YndCcFNPU3EyM0VZMzRJendqUEpVVVdtdS02dUkxaXU5NG9uRnowUdIBuwFBVV95cUxPMHhkXzZLYjk1SDNuOF80RGNKdF9YVEVVd0hVb3lsbzRYU0NJRi1LRFUwN3ZWRjJ2V0o1Tldpa3Y0RTRYM0NjQ29TZEluNjZPRmxjMkg5UzVzUGxJMUhtdi1tSlBFS2J5Nnp6RlJKSjNVLWsycWhfSUtuWnBuOXpiODdKRE02TDF6T29NcWxxQ1RTX0F4Qm5JdXowUWZoN0JFRnN4SUNnN1lETFNHRmRLTWdlNTYydnNuSHRZ?oc=5",
    "ts": "Wed, 11 Nov 2026 08:42:04 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Nvidia Fallout Puts Trade Truce to the Test as Xi Welcomes Trump - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHB3ZXVuek1Nc2czX3hVUVBUTVMxM0hUVzhESEhOeGVjU1haSzdINFBTejRqbGZEZHFUWG94dHZiNHVqaDAyUjc0RFBpSExYWDZPRFpyanB2eTJwYUhoMTIxVUJIX1UtMDJ3MGkxMFVITDBpQXJFMVdYSVF0eEEzb1FRRTJlaEFRU3F5Wk5TRjE4Vl80Q1I4X1J6R2FpczR4MGZMZDN3ZUc1VnByMmpKTXJYdkxEUQ?oc=5",
+   "ts": "Thu, 12 Nov 2026 08:12:28 GMT"
   },
   {
    "src": "gnews",
@@ -440,12 +446,6 @@
    "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - AP News",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzZvaHZqSTdNX2R6b1BzNzJKdnI4NDNacDYzdkhud2ZUcERRVlBjcTdsZWxBVDZZYUlaRFdDZlpyMHhSNEJfVUk0TG1HQTRMOWloMlR0QWdEakxjZEN5UV85a2hQa2NNYnlfcjNiU3A4cVdCVnQ1dzNMZW82cWNxU0RKVU9aTkpWQUtxNG85aG9KQQ?oc=5",
    "ts": "Wed, 11 Nov 2026 02:30:56 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China's trade surplus hits record high through October - CNN",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1JBRFVrR3l5eUE1djZHek5RUjlhT1dzUkVzNVpRY0xDRFdlR2FiRk5ma0JYemVyajU3eVkyRzBYaEluekhuOVZPdF9iblBLMVV0eUNpZUh3VXIxUjE3Y05TRlNZbHhLTzVkTC1TNmVYUlE3a19ZWjI4MGtkbFFISEtFRGtKb0ZWeFpKRWFwR21udjdkR3VhVDNXSUJmN0k1c21Wc3RTMXl0eGhycWc?oc=5",
-   "ts": "Wed, 11 Nov 2026 23:03:02 GMT"
   },
   {
    "src": "gnews",

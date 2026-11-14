@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-14T03:01:02Z",
+ "ts": "2026-11-14T03:16:00Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -365,6 +365,12 @@
   },
   {
    "src": "gnews",
+   "title": "Bessent calls for more balanced trade with China ahead of Trump-Xi talks - The Hill",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYlhRbEROWDNNT2N0RGJHMDJwaGJ3WjFhdVhPMW1Rejcwc3VyS1hzMy1SdU5sZDVuUGN6Vi1WZGlKUnQ3RzlUV3ZsSDBfOXQ2QzNCNmVJdVBzR2F3WFJGTDREQmR1MVJlaW1wcTF5d0VKLTE1c3d0dWtkTUVhX256NW1vbHpEWWVCSHAxREZ3clc0SlVCMkx6bjA3RkJNY3pjUjEwRFFoUXpZVGFWdEU3TtIBtgFBVV95cUxONkg0M2NHZE1HU1hnQ2x2QnVwZlhMMmRWaENPdFN5TUstSzAwUFhIYTduN1czd1FDNHUzbV8zOEdVZWR2T0luOTIyWnhoa0tscmZQMFBCTS1pMWo5RXlBQVVQUC1rOWp0UW1rWTBiamxqN1hPQjUwaWxZZGQxSUhST1FUYWc3d2VveDdnb3VtRVdZZTQ0R2JvNzBYenJZN3FzcVp1ZE1IVk1iUGRNUmhIczBnQ01wZw?oc=5",
+   "ts": "Wed, 11 Nov 2026 14:02:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
    "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
@@ -428,12 +434,6 @@
    "title": "Trafigura Is Key Player in LME Aluminum Squeeze With China Trade - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSTlHdGJudFBBbEQ1V2tkY09oZ3Q2b050dkc2RnU0ejhoWV93M1phbnNMa096ZTdRd0p2TEd6TmFWS1Npa1pTY1lkWGlGVkM4RENSSnVMVHhMRjFmTE1Wb2VLQldiRWJYaU1XVXkwYzZ6NldRT0hGbDlmVlpuaU5ydUNJM0Z5ZGFSSkxoWHcyMTl2amVmQ05ORlJXOHhsTU5YUDhJSERlcmJKb1gteFcxT2pDZXZmdw?oc=5",
    "ts": "Fri, 13 Nov 2026 10:32:22 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Washington’s efforts to block Beijing’s access to Nvidia chips could spark a ‘short-lived U.S.-China trade war’ that rattles markets - MarketWatch",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSmo5YUxEVksxZzdSNkEtcFVQZkt0bDlaYUtzVHd5TER3bU5kNGJSUGpvZi1PQ05lYUZmbExoOV9XdC1FSTh5RjNjei1OeGRGTkRlVmxuNTRZbDAzVjJFcklGZGlhSDByUWIwcEQ4LWplbHJ2akhwN183YXdaU2NDTFYtcnQtS1dKV2pNMC1uUVJkY3VtYmd4dzJoREZyRExJMzhsaWVfRjJiQ0VDaXc2bW90VlZPVi1QSV9ZNzEwUlVEUDVKRE9oNkpwRnEtTTVPZU1rRVdOTFZCOURtcXFaNV9US2F2ZW1GWFVTNGNMQTRlTnVQSTE3WnA2ZWN0X00?oc=5",
-   "ts": "Fri, 13 Nov 2026 19:19:00 GMT"
   },
   {
    "src": "gnews",

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-14T11:15:19Z",
+ "ts": "2026-11-14T11:30:24Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -406,12 +407,6 @@
   },
   {
    "src": "gnews",
-   "title": "The EU’s shaky start to balancing trade with China - GIS Reports",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yN0tONWZ1NjZ3dHZ5eEIxck1VTHNvTmN0Y3htZ2xXNnI3d0V5dkZYRTFWV2RjNDJGS1V6eVlxY2FUWDMxdjhZcUR4RXp3Vm5GSloyMEFlZ2Q2bGNDclIyZmthV0FYdS1KeUdaT2pMTUgyWWNEMXc?oc=5",
-   "ts": "Fri, 13 Nov 2026 07:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
    "ts": "Tue, 10 Nov 2026 02:42:00 GMT"
@@ -448,135 +443,21 @@
   },
   {
    "src": "gnews",
+   "title": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHV6OEE3TG9DMmR2b2N2OEpUX2IxMlZLTHUyc3FwaTRZbDZ1RWtPaUl3Q2N6c1JOYl9FQ1k4OGxFeTM1czMzV3R2TE5ueXdQdThyZXhWTHJPUEJVLXh4aVhRVGI5Ri1VcEhMREJWbGdtdVcxNjlBYjRsVHhkYktoU2JERjBmRUctUTkzdm9JcTZLdEpwSFM2TXV5WU5LbV9hZlhNMS1ZdXY4QQ?oc=5",
+   "ts": "Sat, 14 Nov 2026 11:09:43 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Despite Democrats' sweeping midterm wins, Carney says Trump remains central to Canada-US trade talks - AP News",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYTNXbGNtenBHWWdEUU45ZW1tNUNWamhPZVk0X3dNS3k0TXhTcmZBSkpqT1NuOFdTNWFydThLVW5mb1dtNFBMOHFpQnBXdTZ5VWhYSGdtYkFmSzZ4R3hhSms2bEljajZSNjBJWnRsYlM4QmptdWVTSW43LUs5V0tOVmRMWXhCdHNXX2gyOFZyN3JBSWlNVE9WaUxJTl9YTklSSW4zdA?oc=5",
    "ts": "Thu, 12 Nov 2026 08:30:43 GMT"
   },
   {
    "src": "gnews",
-   "title": "China's trade surplus hits record high through October - CNN",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1JBRFVrR3l5eUE1djZHek5RUjlhT1dzUkVzNVpRY0xDRFdlR2FiRk5ma0JYemVyajU3eVkyRzBYaEluekhuOVZPdF9iblBLMVV0eUNpZUh3VXIxUjE3Y05TRlNZbHhLTzVkTC1TNmVYUlE3a19ZWjI4MGtkbFFISEtFRGtKb0ZWeFpKRWFwR21udjdkR3VhVDNXSUJmN0k1c21Wc3RTMXl0eGhycWc?oc=5",
-   "ts": "Wed, 11 Nov 2026 23:03:02 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Democrats are weighing impeachment of Robert F . Kennedy Jr . ",
-   "url": "https://www.orlandosentinel.com/2026/11/13/congress-democrats-weighing-impeachment-rfk-jr/",
-   "ts": "20261113T180000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Chris Van Hollen eyes Senate Majority Leader post - The Washington Informer",
-   "url": "https://www.washingtoninformer.com/maryland-democrats-congressional-majorities/",
-   "ts": "20261113T180000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "The fight over Canadian steelworker jobs",
-   "url": "https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs",
-   "ts": "20261113T180000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Says Beijing Has Deep  Hatred  Toward Hong Kong Democracy Activist Jimmy Lai",
-   "url": "https://www.theepochtimes.com/china/trump-says-beijing-has-deep-hatred-toward-hong-kong-democracy-activist-jimmy-lai-6124703",
-   "ts": "20261113T180000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Plug in υβριδικά αυτοκίνητα : Τα πλεονεκτήματα και η τεχνολογία που κερδίζει τους οδηγούς",
-   "url": "https://www.tanea.gr/2026/11/13/autonea/plug-in-yvridika-se-dyo-tamplo/",
-   "ts": "20261113T180000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "La Chine a - t - elle réveillé une industrie qui sendormait ? À lEICMA 2026 , les constructeurs historiques ont été prévenus",
-   "url": "https://www.caradisiac.com/la-chine-a-t-elle-reveille-une-industrie-qui-s-endormait-a-l-eicma-2026-les-constructeurs-historiques-ont-ete-prevenus-225079.htm",
-   "ts": "20261113T180000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Sheinbaum anuncia cambios comerciales antes de su viaje a China – Publimetro México",
-   "url": "https://www.publimetro.com.mx/noticias/2026/11/13/sheinbaum-cambios-immex-triangulacion-comercial/",
-   "ts": "20261113T180000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump tariffs face a new threat : Republicans",
-   "url": "https://www.rnz.co.nz/news/world/2585339/trump-s-tariffs-face-a-new-threat-republicans",
-   "ts": "20261113T180000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Democrats are weighing impeachment of Robert F . Kennedy Jr . ",
-   "url": "https://www.fortmorgantimes.com/2026/11/13/congress-democrats-weighing-impeachment-rfk-jr/",
-   "ts": "20261113T180000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Vance midterm autopsy falls flat among Republicans",
-   "url": "https://foxreno.com/news/nation-world/vice-president-vances-midterm-election-autopsy-falls-flat-among-republicans-gop-trump-john-kennedy-economy-rrt",
-   "ts": "20261113T180000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ilhan Omar  I Know Nothing  Act About Investigation Falls Apart Fast and Were Here FOR IT ( Watch ) – Twitchy : Hilarious Political Commentary & Current Events",
-   "url": "https://twitchy.com/samj/2026/11/13/ilhan-omar-big-trouble-fox-n2434384",
-   "ts": "20261113T180000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Bitcoin Falls Below $69 , 000 After Nvidia CEO Exit . Why ? ",
-   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70128043-bitcoin-falls-below-dollar-69-000-after-nvidia-ceo-exit-why-385.htm",
-   "ts": "20261113T180000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Influencer retracts fraud allegations made against a grocery store in Seattle",
-   "url": "https://kval.com/news/nation-world/nick-shirley-retracts-fraud-allegations-made-against-a-grocery-store-in-seattle-washington-donald-trump-minnesota-rtt",
-   "ts": "20261113T180000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "VOTE : Do you think Chuck Schumer should be the next Senate majority leader ? ",
-   "url": "https://cbs4local.com/question/vote-do-you-think-chuck-schumer-should-be-the-next-senate-majority-leader-question-of-the-day-democrats-senate-sen-chris-van-hollen-majority-leader-president-trump-iran-war-midterm-elections",
-   "ts": "20261113T180000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Труд : Мужчин , эвакуировавшихся из Алешек на Украину , решили призвать в ВСУ",
-   "url": "https://www.trud.ru/article/13-11-2026/1853751_muzhchin_evakuirovavshixsja_iz_aleshek_na_ukrainu_reshili_prizvat_v_vsu.html",
-   "ts": "20261113T180000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "MAFA 2028 :  Make America Florida Again  ",
-   "url": "https://www.theepochtimes.com/opinion/mafa-2028-make-america-florida-again-6124370",
-   "ts": "20261113T180000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Massachusetts funding bill could boost research",
-   "url": "https://www.bostonglobe.com/2026/11/13/newsletters/massachusetts-drive-economic-development-power-play/",
-   "ts": "20261113T180000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump naj bi razmislil o vojaškem napadu na Kubo pred koncem svojega predsednikovanja",
-   "url": "https://www.rtvslo.si/svet/s-in-j-amerika/trump-naj-bi-razmislil-o-vojaskem-napadu-na-kubo-pred-koncem-svojega-predsednikovanja/800063",
-   "ts": "20261113T180000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Republicans show little appetite for breaking with Trump after midterm",
-   "url": "https://www.pressdemocrat.com/2026/11/13/election-2026-republicans-trump/",
-   "ts": "20261113T180000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ΙΕΑ : Ανατροπή στην αγορά πετρελαίου - Τι λέει για το πλεόνασμα",
-   "url": "https://www.enikonomia.gr/international/iea-anatropi-stin-agora-petrelaiou-ti/725076/",
-   "ts": "20261113T180000Z"
+   "title": "The EU’s shaky start to balancing trade with China - GIS Reports",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yN0tONWZ1NjZ3dHZ5eEIxck1VTHNvTmN0Y3htZ2xXNnI3d0V5dkZYRTFWV2RjNDJGS1V6eVlxY2FUWDMxdjhZcUR4RXp3Vm5GSloyMEFlZ2Q2bGNDclIyZmthV0FYdS1KeUdaT2pMTUgyWWNEMXc?oc=5",
+   "ts": "Fri, 13 Nov 2026 07:00:00 GMT"
   }
  ]
 }

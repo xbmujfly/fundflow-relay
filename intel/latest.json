@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-14T14:00:21Z",
+ "ts": "2026-11-14T14:15:28Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -407,12 +407,6 @@
   },
   {
    "src": "gnews",
-   "title": "Tariffs Don’t Drain the Swamp—They Fill It - Cato Institute",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tTjA0d3NqcGFyM2tCV0gtTzNoQzJrQWEwQnZXY2dSNWlUTGhwMW1SZGFGbzVISG9kRWdORFoyZVV2dkNVSF9kdWhzY1QwQk5wdnlFUUlUbkExVTVVaXRPQ3ZGSVpray1CMncwZWQzS2g?oc=5",
-   "ts": "Fri, 13 Nov 2026 16:37:20 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
    "ts": "Tue, 10 Nov 2026 02:42:00 GMT"
@@ -443,6 +437,12 @@
   },
   {
    "src": "gnews",
+   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - AP News",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzZvaHZqSTdNX2R6b1BzNzJKdnI4NDNacDYzdkhud2ZUcERRVlBjcTdsZWxBVDZZYUlaRFdDZlpyMHhSNEJfVUk0TG1HQTRMOWloMlR0QWdEakxjZEN5UV85a2hQa2NNYnlfcjNiU3A4cVdCVnQ1dzNMZW82cWNxU0RKVU9aTkpWQUtxNG85aG9KQQ?oc=5",
+   "ts": "Wed, 11 Nov 2026 02:28:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Silverado's Dmitri Alperovitch on what's ahead for U.S.-China trade after Nvidia revelations - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM2NpNWtPM0wyR2Q1OE42Z0wzOXNKTTJ1WXc1TmMxUDN6Yno1R1paMDNDUzN0WTNvT3J1QUJMclA1MFIyZHF2bjktUVItcUg0VUlwWEFoT3I5ZDVKY3k3ejVPMHBvX2JvWFdjUDZvLUdnOGtnM0M0bUxtTGg5OTY3d2M2bXdWenYzamJKM2JVMndtZktGd1F2Um1vWkFjWXFSUW1aNk5KXzdMcTAxbW9BWDZIaTQwVURYa3pNQnRnWVhQekVFeTRjaW94TQ?oc=5",
    "ts": "Fri, 13 Nov 2026 21:58:00 GMT"
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - AP News",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzZvaHZqSTdNX2R6b1BzNzJKdnI4NDNacDYzdkhud2ZUcERRVlBjcTdsZWxBVDZZYUlaRFdDZlpyMHhSNEJfVUk0TG1HQTRMOWloMlR0QWdEakxjZEN5UV85a2hQa2NNYnlfcjNiU3A4cVdCVnQ1dzNMZW82cWNxU0RKVU9aTkpWQUtxNG85aG9KQQ?oc=5",
-   "ts": "Wed, 11 Nov 2026 02:28:00 GMT"
+   "title": "Tariffs Don’t Drain the Swamp—They Fill It - Cato Institute",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tTjA0d3NqcGFyM2tCV0gtTzNoQzJrQWEwQnZXY2dSNWlUTGhwMW1SZGFGbzVISG9kRWdORFoyZVV2dkNVSF9kdWhzY1QwQk5wdnlFUUlUbkExVTVVaXRPQ3ZGSVpray1CMncwZWQzS2g?oc=5",
+   "ts": "Fri, 13 Nov 2026 16:37:20 GMT"
   }
  ]
 }

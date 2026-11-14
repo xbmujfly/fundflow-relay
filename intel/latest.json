@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-14T07:01:06Z",
+ "ts": "2026-11-14T07:16:07Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -355,7 +354,7 @@
    "src": "gnews",
    "title": "Southeast Asian leaders to meet as Trump visit highlights trade disruption - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWkZoaUVyNE9YWk5BckgwYTc5WWhiemY5TFdvXzljS2ZQcVdnN3ZUZ21KVVVEOWhfcWNTTlZ4MjJUdWhqSXI2ckN4ZXRhaDhZZUxDWjZobF9oTFE4bXM4dFFJX0NfS1lPYnNyeG5MYWdmN25kRzNTMmtJVFl6R0ZTdTVoYmV5ZmVSZll4TDdXRDliRjlLZUQ2bzEwTGtYelVlbUNQaGt6dlR4ZWhNcDhOcWhOV180cXlSYzE00gHAAUFVX3lxTFBYRkRsRXV4NXJtWjR4dkFJbi11eEZBOUlMUDJsc2lVZWk0akRRaWlxN1pwRnpLQnM5TmJGdkxvY3paVnRJM0xuSTNZMlFFd3g2ZGpwNHZWekEtZDlUbXlPMExSY2sxb3lfTVU2S1dXMkJ1NzA1WEdqYzVibEkwNEMtc1FyUHQ3M0E1ZWZnTm1WSXFGVVF1UEdlZm1GSlY5R212VU1pMDlhNkFVQXJDdVY3dzBoNHZiNmxkRUM3QjJjUQ?oc=5",
-   "ts": "Sat, 14 Nov 2026 06:48:29 GMT"
+   "ts": "Sat, 14 Nov 2026 06:51:10 GMT"
   },
   {
    "src": "gnews",
@@ -407,15 +406,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump’s tariffs face a new threat: Republicans - CNN",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
-   "ts": "Fri, 13 Nov 2026 10:00:15 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump–Xi talks to test progress on trade, SI and strategic stability - Voice of America English News",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPek1jUjFZUC1ZWE9GZm95MmhwNUx0LWVOTkpyWWFxb2x2ZUxCVDFKS0RFOWR2M1pTUnRkWFIyWkpUNk5RUUNUc29jN1FLTEs3VlNzZElGWXpacHZzclJfekZpem53cjdBS0tDckJCS2ZVV010MHFMLVl4Z2NaR1AtMW9BTnVyTmRpN1JJcjZTTVJ1V1ZQSkM3bUMtRVdUSUpXUGE4dlNqVV9jcnN6Tnp2dlVOb3VJZ9IBuAFBVV95cUxOU2E0alRBWWxaRGRpRkgxcm9RVk1mVWxsdWlUNTNCQjk2U3dITDVGZUNoLWV1amg0alYzb0x2ZnIyZzVGRjZVQ1JrRmt2YjAwNkpINjRLQ0JPOHBtTEpTWjJaejd5ZnZTMzhSeTFrLXE4Z3BZVjN5Y2F4WXllZXFfMEZRY2p0UUhzUEhtRmdkVEVuUnEyeW5PQk44bmJHX2FwdGlla2NDT1JMMHB0UjhCTWFxTmhFbjQy?oc=5",
    "ts": "Fri, 13 Nov 2026 21:39:28 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump’s tariffs face a new threat: Republicans - CNN",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
+   "ts": "Fri, 13 Nov 2026 10:00:15 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +457,126 @@
    "title": "Trump trade chief Greer speaks with 'Squawk Box' as tariff threats rise - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREd1Qk8yb2FyRTJnblVuX0lQNkhyZWFfckhCVjZVTVJBR0RwbUtNZEppUHVWZ015aThqZGY1bG9BRExVRVhIM0E5NEhOa05wRENZNmswWWQ1TXlnWTlEZVJzSnhhLThZWDB5QS1QVElqMkFyZzBuZnJXOGNEd19XcnZFQU5YTk9S0gGOAUFVX3lxTE12b1JISnFVV18zV2RlTzAxX3lyX2pHSmg3Qkh2b3VuNmFXcjlCUExLaHd5TGZjQ0JCRmNwTy0yc19iQ2FEa1ktRDdZeExMSm9mZ2lQcWNnSHFCYzVzRmg4NUR4MWJzdHpfNDY5Zjl2QmNnSkJlTXYtRUZNb0pfWkY1Z1BCSmpBU3NBeE0xZUE?oc=5",
    "ts": "Thu, 12 Nov 2026 13:31:40 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Democrats are weighing impeachment of Robert F . Kennedy Jr . ",
+   "url": "https://www.orlandosentinel.com/2026/11/13/congress-democrats-weighing-impeachment-rfk-jr/",
+   "ts": "20261113T180000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Chris Van Hollen eyes Senate Majority Leader post - The Washington Informer",
+   "url": "https://www.washingtoninformer.com/maryland-democrats-congressional-majorities/",
+   "ts": "20261113T180000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "The fight over Canadian steelworker jobs",
+   "url": "https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs",
+   "ts": "20261113T180000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Says Beijing Has Deep  Hatred  Toward Hong Kong Democracy Activist Jimmy Lai",
+   "url": "https://www.theepochtimes.com/china/trump-says-beijing-has-deep-hatred-toward-hong-kong-democracy-activist-jimmy-lai-6124703",
+   "ts": "20261113T180000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Plug in υβριδικά αυτοκίνητα : Τα πλεονεκτήματα και η τεχνολογία που κερδίζει τους οδηγούς",
+   "url": "https://www.tanea.gr/2026/11/13/autonea/plug-in-yvridika-se-dyo-tamplo/",
+   "ts": "20261113T180000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "La Chine a - t - elle réveillé une industrie qui sendormait ? À lEICMA 2026 , les constructeurs historiques ont été prévenus",
+   "url": "https://www.caradisiac.com/la-chine-a-t-elle-reveille-une-industrie-qui-s-endormait-a-l-eicma-2026-les-constructeurs-historiques-ont-ete-prevenus-225079.htm",
+   "ts": "20261113T180000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Sheinbaum anuncia cambios comerciales antes de su viaje a China – Publimetro México",
+   "url": "https://www.publimetro.com.mx/noticias/2026/11/13/sheinbaum-cambios-immex-triangulacion-comercial/",
+   "ts": "20261113T180000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump tariffs face a new threat : Republicans",
+   "url": "https://www.rnz.co.nz/news/world/2585339/trump-s-tariffs-face-a-new-threat-republicans",
+   "ts": "20261113T180000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Democrats are weighing impeachment of Robert F . Kennedy Jr . ",
+   "url": "https://www.fortmorgantimes.com/2026/11/13/congress-democrats-weighing-impeachment-rfk-jr/",
+   "ts": "20261113T180000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Vance midterm autopsy falls flat among Republicans",
+   "url": "https://foxreno.com/news/nation-world/vice-president-vances-midterm-election-autopsy-falls-flat-among-republicans-gop-trump-john-kennedy-economy-rrt",
+   "ts": "20261113T180000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ilhan Omar  I Know Nothing  Act About Investigation Falls Apart Fast and Were Here FOR IT ( Watch ) – Twitchy : Hilarious Political Commentary & Current Events",
+   "url": "https://twitchy.com/samj/2026/11/13/ilhan-omar-big-trouble-fox-n2434384",
+   "ts": "20261113T180000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Bitcoin Falls Below $69 , 000 After Nvidia CEO Exit . Why ? ",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70128043-bitcoin-falls-below-dollar-69-000-after-nvidia-ceo-exit-why-385.htm",
+   "ts": "20261113T180000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Influencer retracts fraud allegations made against a grocery store in Seattle",
+   "url": "https://kval.com/news/nation-world/nick-shirley-retracts-fraud-allegations-made-against-a-grocery-store-in-seattle-washington-donald-trump-minnesota-rtt",
+   "ts": "20261113T180000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "VOTE : Do you think Chuck Schumer should be the next Senate majority leader ? ",
+   "url": "https://cbs4local.com/question/vote-do-you-think-chuck-schumer-should-be-the-next-senate-majority-leader-question-of-the-day-democrats-senate-sen-chris-van-hollen-majority-leader-president-trump-iran-war-midterm-elections",
+   "ts": "20261113T180000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Труд : Мужчин , эвакуировавшихся из Алешек на Украину , решили призвать в ВСУ",
+   "url": "https://www.trud.ru/article/13-11-2026/1853751_muzhchin_evakuirovavshixsja_iz_aleshek_na_ukrainu_reshili_prizvat_v_vsu.html",
+   "ts": "20261113T180000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "MAFA 2028 :  Make America Florida Again  ",
+   "url": "https://www.theepochtimes.com/opinion/mafa-2028-make-america-florida-again-6124370",
+   "ts": "20261113T180000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Massachusetts funding bill could boost research",
+   "url": "https://www.bostonglobe.com/2026/11/13/newsletters/massachusetts-drive-economic-development-power-play/",
+   "ts": "20261113T180000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump naj bi razmislil o vojaškem napadu na Kubo pred koncem svojega predsednikovanja",
+   "url": "https://www.rtvslo.si/svet/s-in-j-amerika/trump-naj-bi-razmislil-o-vojaskem-napadu-na-kubo-pred-koncem-svojega-predsednikovanja/800063",
+   "ts": "20261113T180000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Republicans show little appetite for breaking with Trump after midterm",
+   "url": "https://www.pressdemocrat.com/2026/11/13/election-2026-republicans-trump/",
+   "ts": "20261113T180000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "ΙΕΑ : Ανατροπή στην αγορά πετρελαίου - Τι λέει για το πλεόνασμα",
+   "url": "https://www.enikonomia.gr/international/iea-anatropi-stin-agora-petrelaiou-ti/725076/",
+   "ts": "20261113T180000Z"
   }
  ]
 }

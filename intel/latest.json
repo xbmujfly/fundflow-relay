@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-14T06:31:04Z",
+ "ts": "2026-11-14T06:46:02Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -353,15 +353,15 @@
   },
   {
    "src": "gnews",
-   "title": "Former US Trade Officials Challenge Trump's Canada Tariffs - Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdjV2VXkzYm9qT25kRzFoLU9kR3hHREQ3WURkaDNITFNESGhQWGROOUYzUXR4ZHRjdEJxOHVoeUtKc2gtaG5tWU9nOEdrV19pWlRxUUFUQ21fdHc5R0gxVlVycl9ZQ0pqTXN4NDlBMkRuZWJXakE3WU1jWnR0dnlMUmwxdFA5TVg3RXA5OQ?oc=5",
-   "ts": "Fri, 13 Nov 2026 22:59:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
    "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Former US Trade Officials Challenge Trump's Canada Tariffs - Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdjV2VXkzYm9qT25kRzFoLU9kR3hHREQ3WURkaDNITFNESGhQWGROOUYzUXR4ZHRjdEJxOHVoeUtKc2gtaG5tWU9nOEdrV19pWlRxUUFUQ21fdHc5R0gxVlVycl9ZQ0pqTXN4NDlBMkRuZWJXakE3WU1jWnR0dnlMUmwxdFA5TVg3RXA5OQ?oc=5",
+   "ts": "Fri, 13 Nov 2026 22:59:00 GMT"
   },
   {
    "src": "gnews",
@@ -383,27 +383,27 @@
   },
   {
    "src": "gnews",
-   "title": "U.S. Senator Tammy Baldwin joined seven other colleagues in pressing Federal Trade Commission (FTC) Chairman Andrew Ferguson to investigate major corporations pocketing government tariff refunds - Civ",
-   "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNT0FaY1pRX1NUSjlBOTJ4aUhPOHViQlFyVnE1SmJzYkNVa084UXVZcU45Z256SEtSWGU3dDVXdTBYdVNXaVhOSVBvRThsNG1zYjlhMmVGNlVFU0VtdkFQa281WHI0clhpUU1rS2xRRG83M1ZqS1AyZmdoN2U4LTdwUmlIOE5mMVp1WENWZzlMcF91UDd4RWJXTThCNTFybXdHclRhdVo0aFd2UDNXQTBZNGp2Rm5EWi1kTFJTUUNZckRadDBiakFSYnRoQ00tLUdJajg0Q0RicUpTSlZYMW5EUHBrUnFaWW5EODQzV2FER2VZY1ZrdlB5eU5LV0VMMFhOQmhfUm1wVnU4T3VMWkk3eEhrMkNOUDVObUM4clRab0ZFTVJoVDBLQmhsdWVIRTRSMm9MYmpQVk44ZVBLb1dEWDR3Skd4aEdLQko4Xw?oc=5",
-   "ts": "Fri, 13 Nov 2026 19:44:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Why China’s $1 trillion trade surplus isn’t all good news for its economy - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZV95STRtMWZoX0pmMWxWa3JBcVZsRFdoNERTNU9uTTNFYjBRb2RYY2NFZ1R5cEtDV2R6Y0ZwMG42TVNGVk1NR3EzS0FLUmpJWDJoMVVNWXFSenU3Q2ZSYjJwb0taaVh2NmxkQ29jc2FSaGd2ZlpNYWk1Z0FGMUljSGo3UnBjVGEwYktIbjV6YndCcFNPU3EyM0VZMzRJendqUEpVVVdtdS02dUkxaXU5NG9uRnowUdIBuwFBVV95cUxPMHhkXzZLYjk1SDNuOF80RGNKdF9YVEVVd0hVb3lsbzRYU0NJRi1LRFUwN3ZWRjJ2V0o1Tldpa3Y0RTRYM0NjQ29TZEluNjZPRmxjMkg5UzVzUGxJMUhtdi1tSlBFS2J5Nnp6RlJKSjNVLWsycWhfSUtuWnBuOXpiODdKRE02TDF6T29NcWxxQ1RTX0F4Qm5JdXowUWZoN0JFRnN4SUNnN1lETFNHRmRLTWdlNTYydnNuSHRZ?oc=5",
    "ts": "Wed, 11 Nov 2026 08:42:04 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump’s tariffs face a new threat: Republicans - CNN",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
-   "ts": "Fri, 13 Nov 2026 10:00:15 GMT"
+   "title": "U.S. Senator Tammy Baldwin joined seven other colleagues in pressing Federal Trade Commission (FTC) Chairman Andrew Ferguson to investigate major corporations pocketing government tariff refunds - Civ",
+   "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNT0FaY1pRX1NUSjlBOTJ4aUhPOHViQlFyVnE1SmJzYkNVa084UXVZcU45Z256SEtSWGU3dDVXdTBYdVNXaVhOSVBvRThsNG1zYjlhMmVGNlVFU0VtdkFQa281WHI0clhpUU1rS2xRRG83M1ZqS1AyZmdoN2U4LTdwUmlIOE5mMVp1WENWZzlMcF91UDd4RWJXTThCNTFybXdHclRhdVo0aFd2UDNXQTBZNGp2Rm5EWi1kTFJTUUNZckRadDBiakFSYnRoQ00tLUdJajg0Q0RicUpTSlZYMW5EUHBrUnFaWW5EODQzV2FER2VZY1ZrdlB5eU5LV0VMMFhOQmhfUm1wVnU4T3VMWkk3eEhrMkNOUDVObUM4clRab0ZFTVJoVDBLQmhsdWVIRTRSMm9MYmpQVk44ZVBLb1dEWDR3Skd4aEdLQko4Xw?oc=5",
+   "ts": "Fri, 13 Nov 2026 19:44:00 GMT"
   },
   {
    "src": "gnews",
    "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
    "ts": "Tue, 10 Nov 2026 14:37:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump’s tariffs face a new threat: Republicans - CNN",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
+   "ts": "Fri, 13 Nov 2026 10:00:15 GMT"
   },
   {
    "src": "gnews",

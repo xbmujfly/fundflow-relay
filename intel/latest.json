@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-14T10:30:23Z",
+ "ts": "2026-11-14T10:45:25Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,15 +341,15 @@
   },
   {
    "src": "gnews",
-   "title": "US, China hold first Board of Trade meeting - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc01lX1pFekl6SmdEY1p3SHlENVI0MkZCT2RCLV95bWt5UThVblZpRFNGTVBHZDk4d3JoM0txYzUxRGtQS3dxRTc4MlZzaklnMGJXWFRCVHN4SS11RUdELUZnVXlsMmZQV0szQlNxS3M3Mi1lVHRUVzRJSVB1LWlfa3VvRHkzV1EzTjVUUm1iRVM?oc=5",
-   "ts": "Fri, 13 Nov 2026 18:02:11 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "How Congress might take back its trade powers and limit Trump's tariffs - Peterson Institute for International Economics",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd3dkbjI5MjdTckFXd2lKQk5VWTJybnlhMzVIVWRNLTdjQXA5aEQ2U2g0SjdETDRTSEtiLXBQS2JpQWwzQXNPNVhKMXpfRm16ckJNYTdTUl9iRnBqTmFrRnptLW1NWmVVUzd6QUVPTl90QlR6MUdBVEVINDJ3VG9lWDBEbWMwQjZTcUhxTThDeXlOREFBcEc3QTk2Qlo1QUZkd29kT3FsMG8wNkhpRzVnZWVDTQ?oc=5",
    "ts": "Fri, 13 Nov 2026 16:57:34 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US, China hold first Board of Trade meeting - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc01lX1pFekl6SmdEY1p3SHlENVI0MkZCT2RCLV95bWt5UThVblZpRFNGTVBHZDk4d3JoM0txYzUxRGtQS3dxRTc4MlZzaklnMGJXWFRCVHN4SS11RUdELUZnVXlsMmZQV0szQlNxS3M3Mi1lVHRUVzRJSVB1LWlfa3VvRHkzV1EzTjVUUm1iRVM?oc=5",
+   "ts": "Fri, 13 Nov 2026 18:02:11 GMT"
   },
   {
    "src": "gnews",
@@ -371,6 +371,12 @@
   },
   {
    "src": "gnews",
+   "title": "China, US Discuss Tariffs in First Meeting of Trade Council - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1l3WlBYaHhmZFVJSDZ0OHdibV8ybWVSUXZfLU1nY3JWMlVmT1RXR3BraTBqaWItVVNFX1l3YWFnNS1hb2RBcGJQUnJ4TFJMOU8xaXpoekJ6WlRjOFNFU3loUlpfdk5tTEJqVTVWUEZIb1RvZkpKTEp3bUNOUGxkbVl4SGNzUXgwOVdfTGV0eDJMVExaN2pxZlBkVnZnVDNHQ01May01UlhoUUJIRTBoM0p3SQ?oc=5",
+   "ts": "Sat, 14 Nov 2026 07:46:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Former US Trade Officials Challenge Trump's Canada Tariffs - Newsweek",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdjV2VXkzYm9qT25kRzFoLU9kR3hHREQ3WURkaDNITFNESGhQWGROOUYzUXR4ZHRjdEJxOHVoeUtKc2gtaG5tWU9nOEdrV19pWlRxUUFUQ21fdHc5R0gxVlVycl9ZQ0pqTXN4NDlBMkRuZWJXakE3WU1jWnR0dnlMUmwxdFA5TVg3RXA5OQ?oc=5",
    "ts": "Fri, 13 Nov 2026 22:59:00 GMT"
@@ -380,12 +386,6 @@
    "title": "Silverado's Dmitri Alperovitch on what's ahead for U.S.-China trade after Nvidia revelations - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM2NpNWtPM0wyR2Q1OE42Z0wzOXNKTTJ1WXc1TmMxUDN6Yno1R1paMDNDUzN0WTNvT3J1QUJMclA1MFIyZHF2bjktUVItcUg0VUlwWEFoT3I5ZDVKY3k3ejVPMHBvX2JvWFdjUDZvLUdnOGtnM0M0bUxtTGg5OTY3d2M2bXdWenYzamJKM2JVMndtZktGd1F2Um1vWkFjWXFSUW1aNk5KXzdMcTAxbW9BWDZIaTQwVURYa3pNQnRnWVhQekVFeTRjaW94TQ?oc=5",
    "ts": "Fri, 13 Nov 2026 21:58:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China, US Discuss Tariffs in First Meeting of Trade Council - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1l3WlBYaHhmZFVJSDZ0OHdibV8ybWVSUXZfLU1nY3JWMlVmT1RXR3BraTBqaWItVVNFX1l3YWFnNS1hb2RBcGJQUnJ4TFJMOU8xaXpoekJ6WlRjOFNFU3loUlpfdk5tTEJqVTVWUEZIb1RvZkpKTEp3bUNOUGxkbVl4SGNzUXgwOVdfTGV0eDJMVExaN2pxZlBkVnZnVDNHQ01May01UlhoUUJIRTBoM0p3SQ?oc=5",
-   "ts": "Sat, 14 Nov 2026 07:46:00 GMT"
   },
   {
    "src": "gnews",
@@ -425,6 +425,12 @@
   },
   {
    "src": "gnews",
+   "title": "He Was China’s Man in Panama. Then He Became a Wanted Man. - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54eUQxZ1lIZEdRa2JQTk9sS2xoRXNEb3hWYXczakxpX2R1U1Y4TEFybWJBdlVjdHRuVno2WjFDOHljUGtnZDVFLUpjcGtHdXkxSGJIZ215VjNldXcxR29uTThLcHBlUHNFQkR6eThrcjQtSDgyMzFQZm5RVENDQQ?oc=5",
+   "ts": "Sat, 14 Nov 2026 10:00:32 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - AP News",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzZvaHZqSTdNX2R6b1BzNzJKdnI4NDNacDYzdkhud2ZUcERRVlBjcTdsZWxBVDZZYUlaRFdDZlpyMHhSNEJfVUk0TG1HQTRMOWloMlR0QWdEakxjZEN5UV85a2hQa2NNYnlfcjNiU3A4cVdCVnQ1dzNMZW82cWNxU0RKVU9aTkpWQUtxNG85aG9KQQ?oc=5",
    "ts": "Wed, 11 Nov 2026 02:28:00 GMT"
@@ -452,12 +458,6 @@
    "title": "China's trade surplus hits record high through October - CNN",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1JBRFVrR3l5eUE1djZHek5RUjlhT1dzUkVzNVpRY0xDRFdlR2FiRk5ma0JYemVyajU3eVkyRzBYaEluekhuOVZPdF9iblBLMVV0eUNpZUh3VXIxUjE3Y05TRlNZbHhLTzVkTC1TNmVYUlE3a19ZWjI4MGtkbFFISEtFRGtKb0ZWeFpKRWFwR21udjdkR3VhVDNXSUJmN0k1c21Wc3RTMXl0eGhycWc?oc=5",
    "ts": "Wed, 11 Nov 2026 23:03:02 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Soybean Farmers Push for China Trade Progress and Removal of Remaining Tariffs - RFD-TV",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGJiYWM0RDYteGVIVV9Jd1RTNWppRWVneU1SakU1NjJkcVd5MnZ2QldZZVZfWGtwakx1dExpbWZWdjFzTFM4TnBUWFNpei1DYW5pRTlFb1Q1TXVnT2FOMlNpLWRleEx2ODVRdkVRSUc2Z3ZnOXRucGllM1dsZXNQNmdvdTRIZXBDcG1lWUZNLTVMcWNxMk5MZHMxbWh3QjhiR2c?oc=5",
-   "ts": "Fri, 13 Nov 2026 16:26:25 GMT"
   }
  ]
 }

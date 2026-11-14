@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-14T00:16:01Z",
+ "ts": "2026-11-14T00:31:06Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -359,6 +359,12 @@
   },
   {
    "src": "gnews",
+   "title": "Trump–Xi talks to test progress on trade, SI and strategic stability - VOA - Voice of America English News",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPek1jUjFZUC1ZWE9GZm95MmhwNUx0LWVOTkpyWWFxb2x2ZUxCVDFKS0RFOWR2M1pTUnRkWFIyWkpUNk5RUUNUc29jN1FLTEs3VlNzZElGWXpacHZzclJfekZpem53cjdBS0tDckJCS2ZVV010MHFMLVl4Z2NaR1AtMW9BTnVyTmRpN1JJcjZTTVJ1V1ZQSkM3bUMtRVdUSUpXUGE4dlNqVV9jcnN6Tnp2dlVOb3VJZ9IBuAFBVV95cUxOU2E0alRBWWxaRGRpRkgxcm9RVk1mVWxsdWlUNTNCQjk2U3dITDVGZUNoLWV1amg0alYzb0x2ZnIyZzVGRjZVQ1JrRmt2YjAwNkpINjRLQ0JPOHBtTEpTWjJaejd5ZnZTMzhSeTFrLXE4Z3BZVjN5Y2F4WXllZXFfMEZRY2p0UUhzUEhtRmdkVEVuUnEyeW5PQk44bmJHX2FwdGlla2NDT1JMMHB0UjhCTWFxTmhFbjQy?oc=5",
+   "ts": "Fri, 13 Nov 2026 21:39:28 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "U.S. Senator Tammy Baldwin joined seven other colleagues in pressing Federal Trade Commission (FTC) Chairman Andrew Ferguson to investigate major corporations pocketing government tariff refunds - Civ",
    "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNT0FaY1pRX1NUSjlBOTJ4aUhPOHViQlFyVnE1SmJzYkNVa084UXVZcU45Z256SEtSWGU3dDVXdTBYdVNXaVhOSVBvRThsNG1zYjlhMmVGNlVFU0VtdkFQa281WHI0clhpUU1rS2xRRG83M1ZqS1AyZmdoN2U4LTdwUmlIOE5mMVp1WENWZzlMcF91UDd4RWJXTThCNTFybXdHclRhdVo0aFd2UDNXQTBZNGp2Rm5EWi1kTFJTUUNZckRadDBiakFSYnRoQ00tLUdJajg0Q0RicUpTSlZYMW5EUHBrUnFaWW5EODQzV2FER2VZY1ZrdlB5eU5LV0VMMFhOQmhfUm1wVnU4T3VMWkk3eEhrMkNOUDVObUM4clRab0ZFTVJoVDBLQmhsdWVIRTRSMm9MYmpQVk44ZVBLb1dEWDR3Skd4aEdLQko4Xw?oc=5",
    "ts": "Fri, 13 Nov 2026 19:44:00 GMT"
@@ -371,9 +377,9 @@
   },
   {
    "src": "gnews",
-   "title": "The EU’s shaky start to balancing trade with China - GIS Reports",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yN0tONWZ1NjZ3dHZ5eEIxck1VTHNvTmN0Y3htZ2xXNnI3d0V5dkZYRTFWV2RjNDJGS1V6eVlxY2FUWDMxdjhZcUR4RXp3Vm5GSloyMEFlZ2Q2bGNDclIyZmthV0FYdS1KeUdaT2pMTUgyWWNEMXc?oc=5",
-   "ts": "Fri, 13 Nov 2026 07:00:00 GMT"
+   "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
+   "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
   },
   {
    "src": "gnews",
@@ -383,21 +389,15 @@
   },
   {
    "src": "gnews",
-   "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
-   "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
+   "title": "The EU’s shaky start to balancing trade with China - GIS Reports",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yN0tONWZ1NjZ3dHZ5eEIxck1VTHNvTmN0Y3htZ2xXNnI3d0V5dkZYRTFWV2RjNDJGS1V6eVlxY2FUWDMxdjhZcUR4RXp3Vm5GSloyMEFlZ2Q2bGNDclIyZmthV0FYdS1KeUdaT2pMTUgyWWNEMXc?oc=5",
+   "ts": "Fri, 13 Nov 2026 07:00:00 GMT"
   },
   {
    "src": "gnews",
    "title": "US Treasury's Bessent says he is optimistic on trade deals with Canada, Mexico - Reuters",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdWdSaDA1Z1ZyaFBzb2lWR1VzcEs5OGlsZzJhX2tNNXRia3NBcElYZzB2OTR3NW4wV09fY29NZ2JjRUFrazRwY3BkUllCX0FWWkFoNkhienpZMXFEOG9jLW02NWtubXpHZDRiRHFKeENZVlpORjFOMXE3UEkxUnA3aWFnX2QxQldMd2VVNDdwVmwxSUE3eVlEMzN2d0NnanBFbkFVY3pKRkY3bjdneVFyWEV0VjM2Y29qdnNXV0tB?oc=5",
    "ts": "Fri, 13 Nov 2026 14:24:31 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump–Xi talks to test progress on trade, SI and strategic stability - VOA - Voice of America English News",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPek1jUjFZUC1ZWE9GZm95MmhwNUx0LWVOTkpyWWFxb2x2ZUxCVDFKS0RFOWR2M1pTUnRkWFIyWkpUNk5RUUNUc29jN1FLTEs3VlNzZElGWXpacHZzclJfekZpem53cjdBS0tDckJCS2ZVV010MHFMLVl4Z2NaR1AtMW9BTnVyTmRpN1JJcjZTTVJ1V1ZQSkM3bUMtRVdUSUpXUGE4dlNqVV9jcnN6Tnp2dlVOb3VJZ9IBuAFBVV95cUxOU2E0alRBWWxaRGRpRkgxcm9RVk1mVWxsdWlUNTNCQjk2U3dITDVGZUNoLWV1amg0alYzb0x2ZnIyZzVGRjZVQ1JrRmt2YjAwNkpINjRLQ0JPOHBtTEpTWjJaejd5ZnZTMzhSeTFrLXE4Z3BZVjN5Y2F4WXllZXFfMEZRY2p0UUhzUEhtRmdkVEVuUnEyeW5PQk44bmJHX2FwdGlla2NDT1JMMHB0UjhCTWFxTmhFbjQy?oc=5",
-   "ts": "Fri, 13 Nov 2026 21:39:28 GMT"
   },
   {
    "src": "gnews",

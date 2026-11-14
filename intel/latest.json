@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-14T15:00:22Z",
+ "ts": "2026-11-14T15:15:18Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -359,15 +359,15 @@
   },
   {
    "src": "gnews",
-   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SX0FBdkdnb0NoRXdMaWlrZlpyQk1oaEo0bnZSTXJxTDlacFpWTTZldUtrSkg5TGdFcHBxUzFwUlhoOGYtMHh5QUhwbEpFZEtndVhPSEZBNHRRWU1fYndac2VKbXZOWHoyOE1UV3JOcHprWWZFYS1kdS1B0gF_QVVfeXFMT3dWUTRlMEN4SDVQQ3lKWnJlM1AtVHdxakxDNnJ4Wl9QWHdjcURIMndkSzIwdUFyQlVTZXpYdEMxYWoxR0JWaFZBNmYwYm4zYmZfY3NvTDVzb2h3UE4tT18xZmFGd3ZubnVpc1NpLW9IZXBpSTNUVTVoSEIzOTlvMA?oc=5",
-   "ts": "Sat, 14 Nov 2026 08:16:44 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
    "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "The China Shock in the AI Era - Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kVHNxLWdkakZXWEpaa2tHUkwxTnhOYVFqUEgzT0N5cWxzUjZTclZ5N2NHX3pDOGpBOWNYQkNWV3RlaFktOHZNNG1UVHUtRDRmMmI1NjktcTBSalp4NHN3M1JvNEtsWWd2UW5iMTlIblI1azN2?oc=5",
+   "ts": "Sat, 14 Nov 2026 12:00:04 GMT"
   },
   {
    "src": "gnews",
@@ -377,15 +377,21 @@
   },
   {
    "src": "gnews",
-   "title": "China, US Discuss Tariffs in First Meeting of Trade Council - Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1l3WlBYaHhmZFVJSDZ0OHdibV8ybWVSUXZfLU1nY3JWMlVmT1RXR3BraTBqaWItVVNFX1l3YWFnNS1hb2RBcGJQUnJ4TFJMOU8xaXpoekJ6WlRjOFNFU3loUlpfdk5tTEJqVTVWUEZIb1RvZkpKTEp3bUNOUGxkbVl4SGNzUXgwOVdfTGV0eDJMVExaN2pxZlBkVnZnVDNHQ01May01UlhoUUJIRTBoM0p3SQ?oc=5",
-   "ts": "Sat, 14 Nov 2026 07:46:00 GMT"
+   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SX0FBdkdnb0NoRXdMaWlrZlpyQk1oaEo0bnZSTXJxTDlacFpWTTZldUtrSkg5TGdFcHBxUzFwUlhoOGYtMHh5QUhwbEpFZEtndVhPSEZBNHRRWU1fYndac2VKbXZOWHoyOE1UV3JOcHprWWZFYS1kdS1B0gF_QVVfeXFMT3dWUTRlMEN4SDVQQ3lKWnJlM1AtVHdxakxDNnJ4Wl9QWHdjcURIMndkSzIwdUFyQlVTZXpYdEMxYWoxR0JWaFZBNmYwYm4zYmZfY3NvTDVzb2h3UE4tT18xZmFGd3ZubnVpc1NpLW9IZXBpSTNUVTVoSEIzOTlvMA?oc=5",
+   "ts": "Sat, 14 Nov 2026 08:16:44 GMT"
   },
   {
    "src": "gnews",
    "title": "Southeast Asian leaders to meet as Trump visit highlights trade disruption - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWkZoaUVyNE9YWk5BckgwYTc5WWhiemY5TFdvXzljS2ZQcVdnN3ZUZ21KVVVEOWhfcWNTTlZ4MjJUdWhqSXI2ckN4ZXRhaDhZZUxDWjZobF9oTFE4bXM4dFFJX0NfS1lPYnNyeG5MYWdmN25kRzNTMmtJVFl6R0ZTdTVoYmV5ZmVSZll4TDdXRDliRjlLZUQ2bzEwTGtYelVlbUNQaGt6dlR4ZWhNcDhOcWhOV180cXlSYzE00gHAAUFVX3lxTFBYRkRsRXV4NXJtWjR4dkFJbi11eEZBOUlMUDJsc2lVZWk0akRRaWlxN1pwRnpLQnM5TmJGdkxvY3paVnRJM0xuSTNZMlFFd3g2ZGpwNHZWekEtZDlUbXlPMExSY2sxb3lfTVU2S1dXMkJ1NzA1WEdqYzVibEkwNEMtc1FyUHQ3M0E1ZWZnTm1WSXFGVVF1UEdlZm1GSlY5R212VU1pMDlhNkFVQXJDdVY3dzBoNHZiNmxkRUM3QjJjUQ?oc=5",
    "ts": "Sat, 14 Nov 2026 06:51:10 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China, US Discuss Tariffs in First Meeting of Trade Council - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1l3WlBYaHhmZFVJSDZ0OHdibV8ybWVSUXZfLU1nY3JWMlVmT1RXR3BraTBqaWItVVNFX1l3YWFnNS1hb2RBcGJQUnJ4TFJMOU8xaXpoekJ6WlRjOFNFU3loUlpfdk5tTEJqVTVWUEZIb1RvZkpKTEp3bUNOUGxkbVl4SGNzUXgwOVdfTGV0eDJMVExaN2pxZlBkVnZnVDNHQ01May01UlhoUUJIRTBoM0p3SQ?oc=5",
+   "ts": "Sat, 14 Nov 2026 07:46:00 GMT"
   },
   {
    "src": "gnews",
@@ -446,12 +452,6 @@
    "title": "Silverado's Dmitri Alperovitch on what's ahead for U.S.-China trade after Nvidia revelations - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM2NpNWtPM0wyR2Q1OE42Z0wzOXNKTTJ1WXc1TmMxUDN6Yno1R1paMDNDUzN0WTNvT3J1QUJMclA1MFIyZHF2bjktUVItcUg0VUlwWEFoT3I5ZDVKY3k3ejVPMHBvX2JvWFdjUDZvLUdnOGtnM0M0bUxtTGg5OTY3d2M2bXdWenYzamJKM2JVMndtZktGd1F2Um1vWkFjWXFSUW1aNk5KXzdMcTAxbW9BWDZIaTQwVURYa3pNQnRnWVhQekVFeTRjaW94TQ?oc=5",
    "ts": "Fri, 13 Nov 2026 21:58:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump trade chief Greer speaks with 'Squawk Box' as tariff threats rise - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREd1Qk8yb2FyRTJnblVuX0lQNkhyZWFfckhCVjZVTVJBR0RwbUtNZEppUHVWZ015aThqZGY1bG9BRExVRVhIM0E5NEhOa05wRENZNmswWWQ1TXlnWTlEZVJzSnhhLThZWDB5QS1QVElqMkFyZzBuZnJXOGNEd19XcnZFQU5YTk9S0gGOAUFVX3lxTE12b1JISnFVV18zV2RlTzAxX3lyX2pHSmg3Qkh2b3VuNmFXcjlCUExLaHd5TGZjQ0JCRmNwTy0yc19iQ2FEa1ktRDdZeExMSm9mZ2lQcWNnSHFCYzVzRmg4NUR4MWJzdHpfNDY5Zjl2QmNnSkJlTXYtRUZNb0pfWkY1Z1BCSmpBU3NBeE0xZUE?oc=5",
-   "ts": "Thu, 12 Nov 2026 13:31:40 GMT"
   },
   {
    "src": "gnews",

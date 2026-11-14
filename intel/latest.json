@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-14T11:00:27Z",
+ "ts": "2026-11-14T11:15:19Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -340,6 +340,12 @@
   },
   {
    "src": "gnews",
+   "title": "Canada’s Carney reports progress in trade talks with Trump as he expands ties with Asia - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdHVjYWdtYUdLdjRUcjZGRnk4alMta3U0YUNMTVZ1WEJPYjhQblU0TXNFMnRSdlV0UEhLZUtyMHpWT0g4ZGxBYXBEbFVPdDU1OTJWbkZlSGJ2X185ZEVvaEZOc29YSjRWX0FYeTVpN1N3YTl5d1Y1ZGdwTWZzQURiQVF1ekV5eEFhODY4TmVDb1dkVW5paE1fODZISUdmQnlBM0HSAacBQVVfeXFMT01OSjMwUHlwSTdyS3NoNEc2cnFuMTgyMWdfTDlqQTlENmhxbXRBSDBURFk0WUllazZfM01Ka0NwemVHZXlNdUZvVjIxMkxNVDViNkJzdjRuNHVuTzllLWd5RGJrV1NmbWZTWHRyd2lkeDRwQXJCSWVWWlVWN0RiTGp0alZ5X3VQeUlzZENqYnlGSm1YYUNFUmpJdENLTUhqYVYxS3E2cW8?oc=5",
+   "ts": "Sat, 14 Nov 2026 10:40:53 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "How Congress might take back its trade powers and limit Trump's tariffs - Peterson Institute for International Economics",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd3dkbjI5MjdTckFXd2lKQk5VWTJybnlhMzVIVWRNLTdjQXA5aEQ2U2g0SjdETDRTSEtiLXBQS2JpQWwzQXNPNVhKMXpfRm16ckJNYTdTUl9iRnBqTmFrRnptLW1NWmVVUzd6QUVPTl90QlR6MUdBVEVINDJ3VG9lWDBEbWMwQjZTcUhxTThDeXlOREFBcEc3QTk2Qlo1QUZkd29kT3FsMG8wNkhpRzVnZWVDTQ?oc=5",
    "ts": "Fri, 13 Nov 2026 16:57:34 GMT"
@@ -349,12 +355,6 @@
    "title": "US, China hold first Board of Trade meeting - Reuters",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc01lX1pFekl6SmdEY1p3SHlENVI0MkZCT2RCLV95bWt5UThVblZpRFNGTVBHZDk4d3JoM0txYzUxRGtQS3dxRTc4MlZzaklnMGJXWFRCVHN4SS11RUdELUZnVXlsMmZQV0szQlNxS3M3Mi1lVHRUVzRJSVB1LWlfa3VvRHkzV1EzTjVUUm1iRVM?oc=5",
    "ts": "Fri, 13 Nov 2026 18:02:11 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Canada’s Carney reports progress in trade talks with Trump as he expands ties with Asia - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdHVjYWdtYUdLdjRUcjZGRnk4alMta3U0YUNMTVZ1WEJPYjhQblU0TXNFMnRSdlV0UEhLZUtyMHpWT0g4ZGxBYXBEbFVPdDU1OTJWbkZlSGJ2X185ZEVvaEZOc29YSjRWX0FYeTVpN1N3YTl5d1Y1ZGdwTWZzQURiQVF1ekV5eEFhODY4TmVDb1dkVW5paE1fODZISUdmQnlBM0HSAacBQVVfeXFMT01OSjMwUHlwSTdyS3NoNEc2cnFuMTgyMWdfTDlqQTlENmhxbXRBSDBURFk0WUllazZfM01Ka0NwemVHZXlNdUZvVjIxMkxNVDViNkJzdjRuNHVuTzllLWd5RGJrV1NmbWZTWHRyd2lkeDRwQXJCSWVWWlVWN0RiTGp0alZ5X3VQeUlzZENqYnlGSm1YYUNFUmpJdENLTUhqYVYxS3E2cW8?oc=5",
-   "ts": "Sat, 14 Nov 2026 10:40:53 GMT"
   },
   {
    "src": "gnews",
@@ -418,15 +418,15 @@
   },
   {
    "src": "gnews",
-   "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzk1R09TQzJMMElPWWVSLXhRSkZUVFJWWW85cjV2QjFtMXJRcWVKX2VjSm83XzRNZUE3VFpucUk3SHdPbXd4b0tnMkVVamxsLUEtMTcyejJLUlBSNURlSkR6bjVKUzNENWZmVE1LcHpiakk2RXViWVJDVmR5bDlyX3BpMGJJWW1J?oc=5",
-   "ts": "Tue, 10 Nov 2026 02:38:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "He Was China’s Man in Panama. Then He Became a Wanted Man. - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54eUQxZ1lIZEdRa2JQTk9sS2xoRXNEb3hWYXczakxpX2R1U1Y4TEFybWJBdlVjdHRuVno2WjFDOHljUGtnZDVFLUpjcGtHdXkxSGJIZ215VjNldXcxR29uTThLcHBlUHNFQkR6eThrcjQtSDgyMzFQZm5RVENDQQ?oc=5",
    "ts": "Sat, 14 Nov 2026 10:00:32 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzk1R09TQzJMMElPWWVSLXhRSkZUVFJWWW85cjV2QjFtMXJRcWVKX2VjSm83XzRNZUE3VFpucUk3SHdPbXd4b0tnMkVVamxsLUEtMTcyejJLUlBSNURlSkR6bjVKUzNENWZmVE1LcHpiakk2RXViWVJDVmR5bDlyX3BpMGJJWW1J?oc=5",
+   "ts": "Tue, 10 Nov 2026 02:38:00 GMT"
   },
   {
    "src": "gnews",
@@ -448,15 +448,15 @@
   },
   {
    "src": "gnews",
-   "title": "China's trade surplus hits record high through October - CNN",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1JBRFVrR3l5eUE1djZHek5RUjlhT1dzUkVzNVpRY0xDRFdlR2FiRk5ma0JYemVyajU3eVkyRzBYaEluekhuOVZPdF9iblBLMVV0eUNpZUh3VXIxUjE3Y05TRlNZbHhLTzVkTC1TNmVYUlE3a19ZWjI4MGtkbFFISEtFRGtKb0ZWeFpKRWFwR21udjdkR3VhVDNXSUJmN0k1c21Wc3RTMXl0eGhycWc?oc=5",
-   "ts": "Wed, 11 Nov 2026 23:03:02 GMT"
+   "title": "Despite Democrats' sweeping midterm wins, Carney says Trump remains central to Canada-US trade talks - AP News",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYTNXbGNtenBHWWdEUU45ZW1tNUNWamhPZVk0X3dNS3k0TXhTcmZBSkpqT1NuOFdTNWFydThLVW5mb1dtNFBMOHFpQnBXdTZ5VWhYSGdtYkFmSzZ4R3hhSms2bEljajZSNjBJWnRsYlM4QmptdWVTSW43LUs5V0tOVmRMWXhCdHNXX2gyOFZyN3JBSWlNVE9WaUxJTl9YTklSSW4zdA?oc=5",
+   "ts": "Thu, 12 Nov 2026 08:30:43 GMT"
   },
   {
    "src": "gnews",
-   "title": "Nvidia fallout could hamper US-China trade talks - Semafor",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNm1WbHVHSkZsX0FCWmxVVFFETnE2LUJaR1ZMLXNJcTlpRzhURy1WSlRBRDIzWUN4c0hkMndMcXJGUzNsdno1Tm9ObkM2QlE1SlBmbmJWZDZPWGNvai1QbGt3QXZtR0RCZEhoLUlxZjZYbFZkMHFFcV9nYjJUejZUTHItMGZLUGpxQ1FIUnVZMjFrOVV0RGc?oc=5",
-   "ts": "Thu, 12 Nov 2026 09:58:00 GMT"
+   "title": "China's trade surplus hits record high through October - CNN",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1JBRFVrR3l5eUE1djZHek5RUjlhT1dzUkVzNVpRY0xDRFdlR2FiRk5ma0JYemVyajU3eVkyRzBYaEluekhuOVZPdF9iblBLMVV0eUNpZUh3VXIxUjE3Y05TRlNZbHhLTzVkTC1TNmVYUlE3a19ZWjI4MGtkbFFISEtFRGtKb0ZWeFpKRWFwR21udjdkR3VhVDNXSUJmN0k1c21Wc3RTMXl0eGhycWc?oc=5",
+   "ts": "Wed, 11 Nov 2026 23:03:02 GMT"
   },
   {
    "src": "gdelt",

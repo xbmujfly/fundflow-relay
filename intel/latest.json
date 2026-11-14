@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-14T11:30:24Z",
+ "ts": "2026-11-14T11:45:20Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -449,15 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Despite Democrats' sweeping midterm wins, Carney says Trump remains central to Canada-US trade talks - AP News",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYTNXbGNtenBHWWdEUU45ZW1tNUNWamhPZVk0X3dNS3k0TXhTcmZBSkpqT1NuOFdTNWFydThLVW5mb1dtNFBMOHFpQnBXdTZ5VWhYSGdtYkFmSzZ4R3hhSms2bEljajZSNjBJWnRsYlM4QmptdWVTSW43LUs5V0tOVmRMWXhCdHNXX2gyOFZyN3JBSWlNVE9WaUxJTl9YTklSSW4zdA?oc=5",
-   "ts": "Thu, 12 Nov 2026 08:30:43 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "The EU’s shaky start to balancing trade with China - GIS Reports",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yN0tONWZ1NjZ3dHZ5eEIxck1VTHNvTmN0Y3htZ2xXNnI3d0V5dkZYRTFWV2RjNDJGS1V6eVlxY2FUWDMxdjhZcUR4RXp3Vm5GSloyMEFlZ2Q2bGNDclIyZmthV0FYdS1KeUdaT2pMTUgyWWNEMXc?oc=5",
    "ts": "Fri, 13 Nov 2026 07:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Despite Democrats' sweeping midterm wins, Carney says Trump remains central to Canada-US trade talks - AP News",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYTNXbGNtenBHWWdEUU45ZW1tNUNWamhPZVk0X3dNS3k0TXhTcmZBSkpqT1NuOFdTNWFydThLVW5mb1dtNFBMOHFpQnBXdTZ5VWhYSGdtYkFmSzZ4R3hhSms2bEljajZSNjBJWnRsYlM4QmptdWVTSW43LUs5V0tOVmRMWXhCdHNXX2gyOFZyN3JBSWlNVE9WaUxJTl9YTklSSW4zdA?oc=5",
+   "ts": "Thu, 12 Nov 2026 08:30:43 GMT"
   }
  ]
 }

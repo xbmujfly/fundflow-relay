@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-14T13:00:23Z",
+ "ts": "2026-11-14T13:15:19Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -413,6 +413,12 @@
   },
   {
    "src": "gnews",
+   "title": "US and China consult on trade issues ahead of Xi-Trump summit - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOHVpTnNJX0g3ZTU2VkNSYWp0enpnRkhxQ01JbG9FbEFSaENaRkRRNXhoM0FkVDRUUktlOUpxUFFHeHBxQ2xzVGhVbGpVWFRuOEJFQ3VLUEV2bXVtTzEzeUpEeVp2VWYtYjZyaWZpaEFLRXNOUVNseWV6NHJMOU1NYWUyOHF0Z3pnOGRBeDl1RWtoTDV5aWJRci13?oc=5",
+   "ts": "Sat, 14 Nov 2026 12:18:22 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
    "ts": "Tue, 10 Nov 2026 02:42:00 GMT"
@@ -431,12 +437,6 @@
   },
   {
    "src": "gnews",
-   "title": "He Was China’s Man in Panama. Then He Became a Wanted Man. - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54eUQxZ1lIZEdRa2JQTk9sS2xoRXNEb3hWYXczakxpX2R1U1Y4TEFybWJBdlVjdHRuVno2WjFDOHljUGtnZDVFLUpjcGtHdXkxSGJIZ215VjNldXcxR29uTThLcHBlUHNFQkR6eThrcjQtSDgyMzFQZm5RVENDQQ?oc=5",
-   "ts": "Sat, 14 Nov 2026 10:00:32 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Silverado's Dmitri Alperovitch on what's ahead for U.S.-China trade after Nvidia revelations - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM2NpNWtPM0wyR2Q1OE42Z0wzOXNKTTJ1WXc1TmMxUDN6Yno1R1paMDNDUzN0WTNvT3J1QUJMclA1MFIyZHF2bjktUVItcUg0VUlwWEFoT3I5ZDVKY3k3ejVPMHBvX2JvWFdjUDZvLUdnOGtnM0M0bUxtTGg5OTY3d2M2bXdWenYzamJKM2JVMndtZktGd1F2Um1vWkFjWXFSUW1aNk5KXzdMcTAxbW9BWDZIaTQwVURYa3pNQnRnWVhQekVFeTRjaW94TQ?oc=5",
    "ts": "Fri, 13 Nov 2026 21:58:00 GMT"
@@ -449,15 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHV6OEE3TG9DMmR2b2N2OEpUX2IxMlZLTHUyc3FwaTRZbDZ1RWtPaUl3Q2N6c1JOYl9FQ1k4OGxFeTM1czMzV3R2TE5ueXdQdThyZXhWTHJPUEJVLXh4aVhRVGI5Ri1VcEhMREJWbGdtdVcxNjlBYjRsVHhkYktoU2JERjBmRUctUTkzdm9JcTZLdEpwSFM2TXV5WU5LbV9hZlhNMS1ZdXY4QQ?oc=5",
-   "ts": "Sat, 14 Nov 2026 11:41:25 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump trade chief Greer speaks with 'Squawk Box' as tariff threats rise - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREd1Qk8yb2FyRTJnblVuX0lQNkhyZWFfckhCVjZVTVJBR0RwbUtNZEppUHVWZ015aThqZGY1bG9BRExVRVhIM0E5NEhOa05wRENZNmswWWQ1TXlnWTlEZVJzSnhhLThZWDB5QS1QVElqMkFyZzBuZnJXOGNEd19XcnZFQU5YTk9S0gGOAUFVX3lxTE12b1JISnFVV18zV2RlTzAxX3lyX2pHSmg3Qkh2b3VuNmFXcjlCUExLaHd5TGZjQ0JCRmNwTy0yc19iQ2FEa1ktRDdZeExMSm9mZ2lQcWNnSHFCYzVzRmg4NUR4MWJzdHpfNDY5Zjl2QmNnSkJlTXYtRUZNb0pfWkY1Z1BCSmpBU3NBeE0xZUE?oc=5",
    "ts": "Thu, 12 Nov 2026 13:31:40 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - AP News",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzZvaHZqSTdNX2R6b1BzNzJKdnI4NDNacDYzdkhud2ZUcERRVlBjcTdsZWxBVDZZYUlaRFdDZlpyMHhSNEJfVUk0TG1HQTRMOWloMlR0QWdEakxjZEN5UV85a2hQa2NNYnlfcjNiU3A4cVdCVnQ1dzNMZW82cWNxU0RKVU9aTkpWQUtxNG85aG9KQQ?oc=5",
+   "ts": "Wed, 11 Nov 2026 02:28:00 GMT"
   }
  ]
 }

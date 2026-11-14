@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-14T14:30:20Z",
+ "ts": "2026-11-14T14:45:19Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -407,6 +407,12 @@
   },
   {
    "src": "gnews",
+   "title": "The EU’s shaky start to balancing trade with China - GIS Reports",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yN0tONWZ1NjZ3dHZ5eEIxck1VTHNvTmN0Y3htZ2xXNnI3d0V5dkZYRTFWV2RjNDJGS1V6eVlxY2FUWDMxdjhZcUR4RXp3Vm5GSloyMEFlZ2Q2bGNDclIyZmthV0FYdS1KeUdaT2pMTUgyWWNEMXc?oc=5",
+   "ts": "Fri, 13 Nov 2026 07:00:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
    "ts": "Tue, 10 Nov 2026 02:42:00 GMT"
@@ -431,12 +437,6 @@
   },
   {
    "src": "gnews",
-   "title": "He Was China’s Man in Panama. Then He Became a Wanted Man. - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54eUQxZ1lIZEdRa2JQTk9sS2xoRXNEb3hWYXczakxpX2R1U1Y4TEFybWJBdlVjdHRuVno2WjFDOHljUGtnZDVFLUpjcGtHdXkxSGJIZ215VjNldXcxR29uTThLcHBlUHNFQkR6eThrcjQtSDgyMzFQZm5RVENDQQ?oc=5",
-   "ts": "Sat, 14 Nov 2026 10:00:32 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - AP News",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzZvaHZqSTdNX2R6b1BzNzJKdnI4NDNacDYzdkhud2ZUcERRVlBjcTdsZWxBVDZZYUlaRFdDZlpyMHhSNEJfVUk0TG1HQTRMOWloMlR0QWdEakxjZEN5UV85a2hQa2NNYnlfcjNiU3A4cVdCVnQ1dzNMZW82cWNxU0RKVU9aTkpWQUtxNG85aG9KQQ?oc=5",
    "ts": "Wed, 11 Nov 2026 02:28:00 GMT"
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "The EU’s shaky start to balancing trade with China - GIS Reports",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yN0tONWZ1NjZ3dHZ5eEIxck1VTHNvTmN0Y3htZ2xXNnI3d0V5dkZYRTFWV2RjNDJGS1V6eVlxY2FUWDMxdjhZcUR4RXp3Vm5GSloyMEFlZ2Q2bGNDclIyZmthV0FYdS1KeUdaT2pMTUgyWWNEMXc?oc=5",
-   "ts": "Fri, 13 Nov 2026 07:00:00 GMT"
+   "title": "US and China consult on trade issues ahead of Xi-Trump summit - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOHVpTnNJX0g3ZTU2VkNSYWp0enpnRkhxQ01JbG9FbEFSaENaRkRRNXhoM0FkVDRUUktlOUpxUFFHeHBxQ2xzVGhVbGpVWFRuOEJFQ3VLUEV2bXVtTzEzeUpEeVp2VWYtYjZyaWZpaEFLRXNOUVNseWV6NHJMOU1NYWUyOHF0Z3pnOGRBeDl1RWtoTDV5aWJRci13?oc=5",
+   "ts": "Sat, 14 Nov 2026 12:18:22 GMT"
   }
  ]
 }

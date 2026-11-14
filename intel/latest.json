@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-14T08:00:26Z",
+ "ts": "2026-11-14T08:15:20Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -449,15 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFRLX3NsenJzNmtnMmVMUXhtakFGcEU2RFRRZEk1NUl4aF8wWEtZQ1RuVG1oZ0ZJRmJqc3N3VnpfQjhLcV80UGxTTFc5Q0Z1Z01YNXJTNXZYZUhsRjhNWWx5bXdMTlI5dGF3VUJNQUR4VFNnb3pLLXFXY1dmUnJXVFVoaVTSAYoBQVVfeXFMTmVzVXVTOFZDV2VKVzM3T2NsVF9xSmtfcFNscWJNYTNZV3RtNExYMWRjQUM5bmxxOXk1eU8zR09iZVRlNXctTWlROVlQWEcwY3FnYy1scjRuZU5RbS1EUDNuMWI5d1hvTXpURENab1A4eURib3BqYjFaRXlXVFJXRHBsYU5NSG5QZktR?oc=5",
-   "ts": "Fri, 13 Nov 2026 09:44:38 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Soybean Farmers Push for China Trade Progress and Removal of Remaining Tariffs - RFD-TV",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGJiYWM0RDYteGVIVV9Jd1RTNWppRWVneU1SakU1NjJkcVd5MnZ2QldZZVZfWGtwakx1dExpbWZWdjFzTFM4TnBUWFNpei1DYW5pRTlFb1Q1TXVnT2FOMlNpLWRleEx2ODVRdkVRSUc2Z3ZnOXRucGllM1dsZXNQNmdvdTRIZXBDcG1lWUZNLTVMcWNxMk5MZHMxbWh3QjhiR2c?oc=5",
    "ts": "Fri, 13 Nov 2026 16:26:25 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - AP News",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzZvaHZqSTdNX2R6b1BzNzJKdnI4NDNacDYzdkhud2ZUcERRVlBjcTdsZWxBVDZZYUlaRFdDZlpyMHhSNEJfVUk0TG1HQTRMOWloMlR0QWdEakxjZEN5UV85a2hQa2NNYnlfcjNiU3A4cVdCVnQ1dzNMZW82cWNxU0RKVU9aTkpWQUtxNG85aG9KQQ?oc=5",
+   "ts": "Wed, 11 Nov 2026 02:28:00 GMT"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-15T12:45:17Z",
+ "ts": "2026-11-15T13:00:25Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -347,15 +347,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China - Business Insider Africa",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
-   "ts": "Sat, 14 Nov 2026 20:44:32 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "How Congress might take back its trade powers and limit Trump's tariffs - Peterson Institute for International Economics",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd3dkbjI5MjdTckFXd2lKQk5VWTJybnlhMzVIVWRNLTdjQXA5aEQ2U2g0SjdETDRTSEtiLXBQS2JpQWwzQXNPNVhKMXpfRm16ckJNYTdTUl9iRnBqTmFrRnptLW1NWmVVUzd6QUVPTl90QlR6MUdBVEVINDJ3VG9lWDBEbWMwQjZTcUhxTThDeXlOREFBcEc3QTk2Qlo1QUZkd29kT3FsMG8wNkhpRzVnZWVDTQ?oc=5",
    "ts": "Fri, 13 Nov 2026 16:57:34 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China - Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
+   "ts": "Sat, 14 Nov 2026 20:44:32 GMT"
   },
   {
    "src": "gnews",
@@ -401,9 +401,21 @@
   },
   {
    "src": "gnews",
+   "title": "Analysis-Trump's minerals push has yet to loosen China's grip ahead of Xi talks - Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcWVqWjRaV0Naamp2VVFDZ01lQV9yNDVEZm5hME5zNXlEY0ZFcTVLU2t1N0dhaVJhTXBjUlRWM0IzVC0wMHlqdjZ2V2kyaU5LVEJ5a2NPRW1Pa3Jac2pfTEM0VEg1eVJ6V2FQRzlkWXc4ZmJyRk1EdDJ6djAzOV9tbFhLUVZqa2ZJMGc?oc=5",
+   "ts": "Sun, 15 Nov 2026 11:04:14 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump’s tariffs face a new threat: Republicans - CNN",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
    "ts": "Fri, 13 Nov 2026 10:00:15 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Watch Trump Heads to Asia With Trade, Security at Stake - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQenpRdzlNLVJWX2VUaGc0Q0JCVllPODRRRi0zVGQ5U3VRWFF5LXpqVzlGU0xqTy0tSjNlTDFBYW1pYzVnd0NnUmVLVjhkQkhNRGEyUVVCaDlSZ012SWV4eUxDdzYwNFhRcnhJM2M0TmNuVFBYdnFSSXNsbGo2THZhRWlaS21ZTlMtUlRjczExTkpnR0U5dGZvU3ktU2hoR3JKOU45VXRR?oc=5",
+   "ts": "Sun, 15 Nov 2026 12:56:20 GMT"
   },
   {
    "src": "gnews",
@@ -413,27 +425,9 @@
   },
   {
    "src": "gnews",
-   "title": "Analysis-Trump's minerals push has yet to loosen China's grip ahead of Xi talks - Yahoo Finance Singapore",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMVhCQWZiMUllOEs5dWphU0U4TjlHOGpCNnZjeFI0NGxBYjMtMGZfTVlSbUw0ME8xNmE4TlFfYUZhV0wwUGpRam9ZSTFHZkdIQXBwNm54eHI0YzVSbGFmUEpOTWdnZWFVbjFERGJZMklUaVhTZEx5YXNaM3NaWTZ4ZzYtdTZHSU1haHc?oc=5",
-   "ts": "Sun, 15 Nov 2026 11:04:14 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump officials trade blows as Nvidia spying scandal deepens - The Observer",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVlJ2SDZjRkRFSWNXX0RLOHhkZXg2eHNtTloxbDVTUDJ5Y2RoQ2ZMYlZ0WjhVU1VuU2thMGtoTXVEaC1NeERPNkJyNEZtMWJiQ25YVDZCVG81YTkwNkpuR3BERF85dkN3UE1VS3dRQUtVRmhtTnEzZ3ZLbl8yOWZfQWpkNEN3emJnS0lGZFZ5cTFhUzY3cDJhSDBjMUYtbGd5ckpjNnFXWmd1bVFYaTVr?oc=5",
    "ts": "Sun, 15 Nov 2026 08:56:29 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Tariffs Don’t Drain the Swamp—They Fill It - Cato Institute",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tTjA0d3NqcGFyM2tCV0gtTzNoQzJrQWEwQnZXY2dSNWlUTGhwMW1SZGFGbzVISG9kRWdORFoyZVV2dkNVSF9kdWhzY1QwQk5wdnlFUUlUbkExVTVVaXRPQ3ZGSVpray1CMncwZWQzS2g?oc=5",
-   "ts": "Fri, 13 Nov 2026 16:37:20 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "AmCham China president: Why stability matters for US-China business - CGTN",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLVU0X054NXpxZG5PaUJJaVQ1UlF4a1hBeldXeFpvRm9TREVaU2JIbE91YzQ2dUYwRjNCWERjQTkxZmZ0bmZWeENBUzU5NkdYQU4xcHR1c1o3MEIyY2VuaGczY1k3NWFBNmdabE5EUUVPTU93TkllZjcwcFZzYzdZSXFzR3VONk04RS11WE9SUXVFMXdGUHBnb3J6eURqVUI3QmRWT3pReXRtSDJzaFlSdURRNHBMaEJ0STlKNmd6N1I?oc=5",
-   "ts": "Sun, 15 Nov 2026 10:54:55 GMT"
   },
   {
    "src": "gnews",
@@ -443,9 +437,9 @@
   },
   {
    "src": "gnews",
-   "title": "‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFRLX3NsenJzNmtnMmVMUXhtakFGcEU2RFRRZEk1NUl4aF8wWEtZQ1RuVG1oZ0ZJRmJqc3N3VnpfQjhLcV80UGxTTFc5Q0Z1Z01YNXJTNXZYZUhsRjhNWWx5bXdMTlI5dGF3VUJNQUR4VFNnb3pLLXFXY1dmUnJXVFVoaVTSAYoBQVVfeXFMTmVzVXVTOFZDV2VKVzM3T2NsVF9xSmtfcFNscWJNYTNZV3RtNExYMWRjQUM5bmxxOXk1eU8zR09iZVRlNXctTWlROVlQWEcwY3FnYy1scjRuZU5RbS1EUDNuMWI5d1hvTXpURENab1A4eURib3BqYjFaRXlXVFJXRHBsYU5NSG5QZktR?oc=5",
-   "ts": "Fri, 13 Nov 2026 09:44:38 GMT"
+   "title": "Trump trade chief Greer speaks with 'Squawk Box' as tariff threats rise - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREd1Qk8yb2FyRTJnblVuX0lQNkhyZWFfckhCVjZVTVJBR0RwbUtNZEppUHVWZ015aThqZGY1bG9BRExVRVhIM0E5NEhOa05wRENZNmswWWQ1TXlnWTlEZVJzSnhhLThZWDB5QS1QVElqMkFyZzBuZnJXOGNEd19XcnZFQU5YTk9S0gGOAUFVX3lxTE12b1JISnFVV18zV2RlTzAxX3lyX2pHSmg3Qkh2b3VuNmFXcjlCUExLaHd5TGZjQ0JCRmNwTy0yc19iQ2FEa1ktRDdZeExMSm9mZ2lQcWNnSHFCYzVzRmg4NUR4MWJzdHpfNDY5Zjl2QmNnSkJlTXYtRUZNb0pfWkY1Z1BCSmpBU3NBeE0xZUE?oc=5",
+   "ts": "Thu, 12 Nov 2026 13:31:40 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +452,12 @@
    "title": "US, China hold first Board of Trade meeting - Reuters",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc01lX1pFekl6SmdEY1p3SHlENVI0MkZCT2RCLV95bWt5UThVblZpRFNGTVBHZDk4d3JoM0txYzUxRGtQS3dxRTc4MlZzaklnMGJXWFRCVHN4SS11RUdELUZnVXlsMmZQV0szQlNxS3M3Mi1lVHRUVzRJSVB1LWlfa3VvRHkzV1EzTjVUUm1iRVM?oc=5",
    "ts": "Fri, 13 Nov 2026 18:02:11 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFRLX3NsenJzNmtnMmVMUXhtakFGcEU2RFRRZEk1NUl4aF8wWEtZQ1RuVG1oZ0ZJRmJqc3N3VnpfQjhLcV80UGxTTFc5Q0Z1Z01YNXJTNXZYZUhsRjhNWWx5bXdMTlI5dGF3VUJNQUR4VFNnb3pLLXFXY1dmUnJXVFVoaVTSAYoBQVVfeXFMTmVzVXVTOFZDV2VKVzM3T2NsVF9xSmtfcFNscWJNYTNZV3RtNExYMWRjQUM5bmxxOXk1eU8zR09iZVRlNXctTWlROVlQWEcwY3FnYy1scjRuZU5RbS1EUDNuMWI5d1hvTXpURENab1A4eURib3BqYjFaRXlXVFJXRHBsYU5NSG5QZktR?oc=5",
+   "ts": "Fri, 13 Nov 2026 09:44:38 GMT"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-15T06:30:21Z",
+ "ts": "2026-11-15T06:45:19Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -371,12 +371,6 @@
   },
   {
    "src": "gnews",
-   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
-   "ts": "Sat, 14 Nov 2026 07:13:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "How Congress might take back its trade powers and limit Trump's tariffs - Peterson Institute for International Economics",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd3dkbjI5MjdTckFXd2lKQk5VWTJybnlhMzVIVWRNLTdjQXA5aEQ2U2g0SjdETDRTSEtiLXBQS2JpQWwzQXNPNVhKMXpfRm16ckJNYTdTUl9iRnBqTmFrRnptLW1NWmVVUzd6QUVPTl90QlR6MUdBVEVINDJ3VG9lWDBEbWMwQjZTcUhxTThDeXlOREFBcEc3QTk2Qlo1QUZkd29kT3FsMG8wNkhpRzVnZWVDTQ?oc=5",
    "ts": "Fri, 13 Nov 2026 16:57:34 GMT"
@@ -389,6 +383,12 @@
   },
   {
    "src": "gnews",
+   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
+   "ts": "Sat, 14 Nov 2026 07:13:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzk1R09TQzJMMElPWWVSLXhRSkZUVFJWWW85cjV2QjFtMXJRcWVKX2VjSm83XzRNZUE3VFpucUk3SHdPbXd4b0tnMkVVamxsLUEtMTcyejJLUlBSNURlSkR6bjVKUzNENWZmVE1LcHpiakk2RXViWVJDVmR5bDlyX3BpMGJJWW1J?oc=5",
    "ts": "Tue, 10 Nov 2026 02:38:00 GMT"
@@ -398,6 +398,12 @@
    "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
    "ts": "Tue, 10 Nov 2026 14:37:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "The world according to China - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
+   "ts": "Sun, 15 Nov 2026 03:00:23 GMT"
   },
   {
    "src": "gnews",
@@ -431,21 +437,15 @@
   },
   {
    "src": "gnews",
-   "title": "5 Big Questions as C.E.O.s Meet in China - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa3lvRzhHTW9lVGxwdE10ZVFXdV90cnQtSmg2X2pYb2ZqZkxmRjlfU2ZiRk1Cc3JHa3V4MTg0TG5POXV2OE84d1A2cklybmxSR09rNjBZelFuVWZ2dXp0NjVrSlJialpnWEVGWVFyYnowdlM1R3hwZEFnS1NEWHVCSVYzNERWUU1UaWtyOGdZX2ExUQ?oc=5",
-   "ts": "Sat, 14 Nov 2026 13:00:06 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump’s tariffs face a new threat: Republicans - CNN",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
    "ts": "Fri, 13 Nov 2026 10:00:15 GMT"
   },
   {
    "src": "gnews",
-   "title": "Nvidia Scandal Deals Blow to Trump’s Tariff Strategy - Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40ZVJiaDRHX1dQZnd1aEkxRTVtNmdiWEw3NEZtMGtXYWE1ZkZ5Q1p6V1pKQW1EWjdvb3hYa1FyeFdsTk1GSXRFZG9keENHeTBtSjF3WTVYMzNHZktWR3RZNlJlaFVVSk52cHJVdEhjRmdFLUhvM3RMb3FGS001NzQ?oc=5",
-   "ts": "Sat, 14 Nov 2026 17:05:00 GMT"
+   "title": "5 Big Questions as C.E.O.s Meet in China - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa3lvRzhHTW9lVGxwdE10ZVFXdV90cnQtSmg2X2pYb2ZqZkxmRjlfU2ZiRk1Cc3JHa3V4MTg0TG5POXV2OE84d1A2cklybmxSR09rNjBZelFuVWZ2dXp0NjVrSlJialpnWEVGWVFyYnowdlM1R3hwZEFnS1NEWHVCSVYzNERWUU1UaWtyOGdZX2ExUQ?oc=5",
+   "ts": "Sat, 14 Nov 2026 13:00:06 GMT"
   },
   {
    "src": "gnews",

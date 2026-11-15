@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-15T14:30:29Z",
+ "ts": "2026-11-15T14:45:18Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,6 +341,12 @@
   },
   {
    "src": "gnews",
+   "title": "What Japan’s ‘lost decades’ can teach Canada about its growing trade ties with China - The Conversation",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNjN5Y0l2RUwweTlCd1ZndUJrSzdCU1RMR21hdHNuMlA2ZjZvS0hBRDFtbU5PVGtqLWRaZGtqRFlCc296R0VVcnRJS0VtYmdTN3Vjb0hSNXhGMlU5NXg2bWktdEJVTjdrX2tpb0s3ZDIySzBMTmluUjdySkR5UVB4aWZkcWxlMWIxTVZNeHZVVldVSlFzT0YwWm9KZUxKLWYwTHlDUU1nU2x5blNJRWh2QTA0YUxTMDg?oc=5",
+   "ts": "Sun, 15 Nov 2026 13:32:33 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "How Congress might take back its trade powers and limit Trump's tariffs - Peterson Institute for International Economics",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd3dkbjI5MjdTckFXd2lKQk5VWTJybnlhMzVIVWRNLTdjQXA5aEQ2U2g0SjdETDRTSEtiLXBQS2JpQWwzQXNPNVhKMXpfRm16ckJNYTdTUl9iRnBqTmFrRnptLW1NWmVVUzd6QUVPTl90QlR6MUdBVEVINDJ3VG9lWDBEbWMwQjZTcUhxTThDeXlOREFBcEc3QTk2Qlo1QUZkd29kT3FsMG8wNkhpRzVnZWVDTQ?oc=5",
    "ts": "Fri, 13 Nov 2026 16:57:34 GMT"
@@ -362,12 +368,6 @@
    "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
    "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "What Japan’s ‘lost decades’ can teach Canada about its growing trade ties with China - The Conversation",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNjN5Y0l2RUwweTlCd1ZndUJrSzdCU1RMR21hdHNuMlA2ZjZvS0hBRDFtbU5PVGtqLWRaZGtqRFlCc296R0VVcnRJS0VtYmdTN3Vjb0hSNXhGMlU5NXg2bWktdEJVTjdrX2tpb0s3ZDIySzBMTmluUjdySkR5UVB4aWZkcWxlMWIxTVZNeHZVVldVSlFzT0YwWm9KZUxKLWYwTHlDUU1nU2x5blNJRWh2QTA0YUxTMDg?oc=5",
-   "ts": "Sun, 15 Nov 2026 13:32:33 GMT"
   },
   {
    "src": "gnews",
@@ -401,15 +401,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump’s tariffs face a new threat: Republicans - CNN",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
-   "ts": "Fri, 13 Nov 2026 10:00:15 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Analysis-Trump's minerals push has yet to loosen China's grip ahead of Xi talks - Yahoo! Finance Canada",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcWVqWjRaV0Naamp2VVFDZ01lQV9yNDVEZm5hME5zNXlEY0ZFcTVLU2t1N0dhaVJhTXBjUlRWM0IzVC0wMHlqdjZ2V2kyaU5LVEJ5a2NPRW1Pa3Jac2pfTEM0VEg1eVJ6V2FQRzlkWXc4ZmJyRk1EdDJ6djAzOV9tbFhLUVZqa2ZJMGc?oc=5",
    "ts": "Sun, 15 Nov 2026 11:04:14 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump’s tariffs face a new threat: Republicans - CNN",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
+   "ts": "Fri, 13 Nov 2026 10:00:15 GMT"
   },
   {
    "src": "gnews",
@@ -419,15 +419,15 @@
   },
   {
    "src": "gnews",
-   "title": "Watch Trump Heads to Asia With Trade, Security at Stake - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQenpRdzlNLVJWX2VUaGc0Q0JCVllPODRRRi0zVGQ5U3VRWFF5LXpqVzlGU0xqTy0tSjNlTDFBYW1pYzVnd0NnUmVLVjhkQkhNRGEyUVVCaDlSZ012SWV4eUxDdzYwNFhRcnhJM2M0TmNuVFBYdnFSSXNsbGo2THZhRWlaS21ZTlMtUlRjczExTkpnR0U5dGZvU3ktU2hoR3JKOU45VXRR?oc=5",
-   "ts": "Sun, 15 Nov 2026 00:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Tariffs Don’t Drain the Swamp—They Fill It - Cato Institute",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tTjA0d3NqcGFyM2tCV0gtTzNoQzJrQWEwQnZXY2dSNWlUTGhwMW1SZGFGbzVISG9kRWdORFoyZVV2dkNVSF9kdWhzY1QwQk5wdnlFUUlUbkExVTVVaXRPQ3ZGSVpray1CMncwZWQzS2g?oc=5",
    "ts": "Fri, 13 Nov 2026 16:37:20 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump officials trade blows as Nvidia spying scandal deepens - The Observer",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVlJ2SDZjRkRFSWNXX0RLOHhkZXg2eHNtTloxbDVTUDJ5Y2RoQ2ZMYlZ0WjhVU1VuU2thMGtoTXVEaC1NeERPNkJyNEZtMWJiQ25YVDZCVG81YTkwNkpuR3BERF85dkN3UE1VS3dRQUtVRmhtTnEzZ3ZLbl8yOWZfQWpkNEN3emJnS0lGZFZ5cTFhUzY3cDJhSDBjMUYtbGd5ckpjNnFXWmd1bVFYaTVr?oc=5",
+   "ts": "Sun, 15 Nov 2026 08:56:29 GMT"
   },
   {
    "src": "gnews",

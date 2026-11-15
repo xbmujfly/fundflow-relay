@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-14T23:45:17Z",
+ "ts": "2026-11-15T00:00:24Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -347,15 +347,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney Draws Red Line On Trump Trade Deal Over Auto Jobs - Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZm84Z0c0b3VhY2pNckJZUUxxcW80NUJEMVJjeUFGa2QweVhwRXFDU1VOeWltYnZJRFl4U2JkdGdlV2d4akNUYldYYUJfeEdtSEdtMXlaOFNVaGJqWF9DV0hKaXplUnpIMjlSZHdiQWhDRVdSS29nSnhMWXlFZVVqMTlFZF9wWUJuUjhzd2FR?oc=5",
-   "ts": "Sat, 14 Nov 2026 12:01:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China - Business Insider Africa",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
    "ts": "Sat, 14 Nov 2026 20:44:32 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney Draws Red Line On Trump Trade Deal Over Auto Jobs - Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZm84Z0c0b3VhY2pNckJZUUxxcW80NUJEMVJjeUFGa2QweVhwRXFDU1VOeWltYnZJRFl4U2JkdGdlV2d4akNUYldYYUJfeEdtSEdtMXlaOFNVaGJqWF9DV0hKaXplUnpIMjlSZHdiQWhDRVdSS29nSnhMWXlFZVVqMTlFZF9wWUJuUjhzd2FR?oc=5",
+   "ts": "Sat, 14 Nov 2026 12:01:00 GMT"
   },
   {
    "src": "gnews",

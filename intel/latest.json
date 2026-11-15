@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-15T23:15:20Z",
+ "ts": "2026-11-15T23:30:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,15 +341,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal - The Hill",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmNDaEFOUjhyQ3dSTXZ5c1pkT0hpdEVqT0tmOGk2cVVDZ1pZT3EtNVlLczVuYllZd0ZWRGRBQmxiY0hTMFJTQXE0YWN0dTA3RzA2N3VmM0MtRzNycGpqbHh6RlZKMGtnaEkwRzZYVUxuLWs2U19jQS1HLS1xb01hZi13Yjh5UnFxSXdScDI1bUHSAZYBQVVfeXFMT084UmYyZ2JNVTg5ZFJKR0N4MTR2SFF5ekRwdFdsNnlTeVQ5dExLUmhlclcycVFuUS1TRHFRTnFWWHp3MVQ0ZzBFbFdST0VkWEh2QTRreVZnaGpGRTJKM3h1aHhsVHZ1VXJtZGpJb3N3RjE4RXJ5TFNFeGVrTjF6R1R2akUwaU9LQWdfSHZUeDNqOUY1UVlB?oc=5",
-   "ts": "Sun, 15 Nov 2026 00:26:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "The EU’s shaky start to balancing trade with China - GIS Reports",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yN0tONWZ1NjZ3dHZ5eEIxck1VTHNvTmN0Y3htZ2xXNnI3d0V5dkZYRTFWV2RjNDJGS1V6eVlxY2FUWDMxdjhZcUR4RXp3Vm5GSloyMEFlZ2Q2bGNDclIyZmthV0FYdS1KeUdaT2pMTUgyWWNEMXc?oc=5",
    "ts": "Fri, 13 Nov 2026 07:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal - The Hill",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmNDaEFOUjhyQ3dSTXZ5c1pkT0hpdEVqT0tmOGk2cVVDZ1pZT3EtNVlLczVuYllZd0ZWRGRBQmxiY0hTMFJTQXE0YWN0dTA3RzA2N3VmM0MtRzNycGpqbHh6RlZKMGtnaEkwRzZYVUxuLWs2U19jQS1HLS1xb01hZi13Yjh5UnFxSXdScDI1bUHSAZYBQVVfeXFMT084UmYyZ2JNVTg5ZFJKR0N4MTR2SFF5ekRwdFdsNnlTeVQ5dExLUmhlclcycVFuUS1TRHFRTnFWWHp3MVQ0ZzBFbFdST0VkWEh2QTRreVZnaGpGRTJKM3h1aHhsVHZ1VXJtZGpJb3N3RjE4RXJ5TFNFeGVrTjF6R1R2akUwaU9LQWdfSHZUeDNqOUY1UVlB?oc=5",
+   "ts": "Sun, 15 Nov 2026 00:26:00 GMT"
   },
   {
    "src": "gnews",
@@ -368,6 +368,12 @@
    "title": "How Congress might take back its trade powers and limit Trump's tariffs - Peterson Institute for International Economics",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd3dkbjI5MjdTckFXd2lKQk5VWTJybnlhMzVIVWRNLTdjQXA5aEQ2U2g0SjdETDRTSEtiLXBQS2JpQWwzQXNPNVhKMXpfRm16ckJNYTdTUl9iRnBqTmFrRnptLW1NWmVVUzd6QUVPTl90QlR6MUdBVEVINDJ3VG9lWDBEbWMwQjZTcUhxTThDeXlOREFBcEc3QTk2Qlo1QUZkd29kT3FsMG8wNkhpRzVnZWVDTQ?oc=5",
    "ts": "Fri, 13 Nov 2026 16:57:34 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Canada Has ‘Eyes Wide Open’ in Push for Deeper China Trade Ties - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNE5OV29NU2xOdjZvWU50WnIzcFdiRUUyc0VoTE5oSnNibV94WUZacG4wbVBKeDF1NUdVU19mRGk5cjBHYWh1VjJQNDF4a1dpM2xWZ1VzZldxS1psODNsQXZXa25JUDR2RGFjVkJxYkZoLWR0bVpNd0QwVkEtbkg4UlVyZUFFb05yaHFsa2ZzSEU0UWZDa3VfUGZkbF9mdENCX1NNWUh0U1F1eTRweWlPQWNn?oc=5",
+   "ts": "Sun, 15 Nov 2026 23:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -434,12 +440,6 @@
    "title": "Hopes expressed for more gains in China-US trade - China Daily Global Edition",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVTNmUEFQbFhGV0RucUNIMkZzc0dRYUFDM1gyTFhBQXVOQnJuZ1VjOGxHUHA2U1NCcDIwMVRuTGxFOHI1NjJvZmpaOUtoV01ZdjhXTk1IeVNmUXZqNkU1YjlDcWZ4UEVLb0lZeDYxMzkxSHl3bmtGMFlhT2VZc1dZZDJ3?oc=5",
    "ts": "Sun, 15 Nov 2026 15:43:37 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump’s tariffs face a new threat: Republicans - CNN",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
-   "ts": "Fri, 13 Nov 2026 10:00:15 GMT"
   },
   {
    "src": "gnews",

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-15T08:00:21Z",
+ "ts": "2026-11-15T08:15:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -365,15 +365,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney Draws Red Line On Trump Trade Deal Over Auto Jobs - Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZm84Z0c0b3VhY2pNckJZUUxxcW80NUJEMVJjeUFGa2QweVhwRXFDU1VOeWltYnZJRFl4U2JkdGdlV2d4akNUYldYYUJfeEdtSEdtMXlaOFNVaGJqWF9DV0hKaXplUnpIMjlSZHdiQWhDRVdSS29nSnhMWXlFZVVqMTlFZF9wWUJuUjhzd2FR?oc=5",
-   "ts": "Sat, 14 Nov 2026 12:01:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "How Congress might take back its trade powers and limit Trump's tariffs - Peterson Institute for International Economics",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd3dkbjI5MjdTckFXd2lKQk5VWTJybnlhMzVIVWRNLTdjQXA5aEQ2U2g0SjdETDRTSEtiLXBQS2JpQWwzQXNPNVhKMXpfRm16ckJNYTdTUl9iRnBqTmFrRnptLW1NWmVVUzd6QUVPTl90QlR6MUdBVEVINDJ3VG9lWDBEbWMwQjZTcUhxTThDeXlOREFBcEc3QTk2Qlo1QUZkd29kT3FsMG8wNkhpRzVnZWVDTQ?oc=5",
    "ts": "Fri, 13 Nov 2026 16:57:34 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney Draws Red Line On Trump Trade Deal Over Auto Jobs - Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZm84Z0c0b3VhY2pNckJZUUxxcW80NUJEMVJjeUFGa2QweVhwRXFDU1VOeWltYnZJRFl4U2JkdGdlV2d4akNUYldYYUJfeEdtSEdtMXlaOFNVaGJqWF9DV0hKaXplUnpIMjlSZHdiQWhDRVdSS29nSnhMWXlFZVVqMTlFZF9wWUJuUjhzd2FR?oc=5",
+   "ts": "Sat, 14 Nov 2026 12:01:00 GMT"
   },
   {
    "src": "gnews",
@@ -401,15 +401,9 @@
   },
   {
    "src": "gnews",
-   "title": "China's trade surplus hits record high through October - CNN",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1JBRFVrR3l5eUE1djZHek5RUjlhT1dzUkVzNVpRY0xDRFdlR2FiRk5ma0JYemVyajU3eVkyRzBYaEluekhuOVZPdF9iblBLMVV0eUNpZUh3VXIxUjE3Y05TRlNZbHhLTzVkTC1TNmVYUlE3a19ZWjI4MGtkbFFISEtFRGtKb0ZWeFpKRWFwR21udjdkR3VhVDNXSUJmN0k1c21Wc3RTMXl0eGhycWc?oc=5",
-   "ts": "Wed, 11 Nov 2026 23:03:02 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "The world according to China - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
-   "ts": "Sun, 15 Nov 2026 03:00:02 GMT"
+   "title": "Trump’s tariffs face a new threat: Republicans - CNN",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
+   "ts": "Fri, 13 Nov 2026 10:00:15 GMT"
   },
   {
    "src": "gnews",
@@ -419,9 +413,15 @@
   },
   {
    "src": "gnews",
-   "title": "The China Shock in the AI Era - Time Magazine",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kVHNxLWdkakZXWEpaa2tHUkwxTnhOYVFqUEgzT0N5cWxzUjZTclZ5N2NHX3pDOGpBOWNYQkNWV3RlaFktOHZNNG1UVHUtRDRmMmI1NjktcTBSalp4NHN3M1JvNEtsWWd2UW5iMTlIblI1azN2?oc=5",
-   "ts": "Sat, 14 Nov 2026 12:00:04 GMT"
+   "title": "The world according to China - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
+   "ts": "Sun, 15 Nov 2026 03:00:02 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Tariffs Don’t Drain the Swamp—They Fill It - Cato Institute",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tTjA0d3NqcGFyM2tCV0gtTzNoQzJrQWEwQnZXY2dSNWlUTGhwMW1SZGFGbzVISG9kRWdORFoyZVV2dkNVSF9kdWhzY1QwQk5wdnlFUUlUbkExVTVVaXRPQ3ZGSVpray1CMncwZWQzS2g?oc=5",
+   "ts": "Fri, 13 Nov 2026 16:37:20 GMT"
   },
   {
    "src": "gnews",
@@ -431,15 +431,9 @@
   },
   {
    "src": "gnews",
-   "title": "Despite Democrats' sweeping midterm wins, Carney says Trump remains central to Canada-US trade talks - AP News",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYTNXbGNtenBHWWdEUU45ZW1tNUNWamhPZVk0X3dNS3k0TXhTcmZBSkpqT1NuOFdTNWFydThLVW5mb1dtNFBMOHFpQnBXdTZ5VWhYSGdtYkFmSzZ4R3hhSms2bEljajZSNjBJWnRsYlM4QmptdWVTSW43LUs5V0tOVmRMWXhCdHNXX2gyOFZyN3JBSWlNVE9WaUxJTl9YTklSSW4zdA?oc=5",
-   "ts": "Thu, 12 Nov 2026 08:30:43 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump’s tariffs face a new threat: Republicans - CNN",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
-   "ts": "Fri, 13 Nov 2026 10:00:15 GMT"
+   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - AP News",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzZvaHZqSTdNX2R6b1BzNzJKdnI4NDNacDYzdkhud2ZUcERRVlBjcTdsZWxBVDZZYUlaRFdDZlpyMHhSNEJfVUk0TG1HQTRMOWloMlR0QWdEakxjZEN5UV85a2hQa2NNYnlfcjNiU3A4cVdCVnQ1dzNMZW82cWNxU0RKVU9aTkpWQUtxNG85aG9KQQ?oc=5",
+   "ts": "Wed, 11 Nov 2026 02:28:00 GMT"
   },
   {
    "src": "gnews",
@@ -449,15 +443,21 @@
   },
   {
    "src": "gnews",
-   "title": "US, China hold first Board of Trade meeting - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc01lX1pFekl6SmdEY1p3SHlENVI0MkZCT2RCLV95bWt5UThVblZpRFNGTVBHZDk4d3JoM0txYzUxRGtQS3dxRTc4MlZzaklnMGJXWFRCVHN4SS11RUdELUZnVXlsMmZQV0szQlNxS3M3Mi1lVHRUVzRJSVB1LWlfa3VvRHkzV1EzTjVUUm1iRVM?oc=5",
-   "ts": "Fri, 13 Nov 2026 18:02:11 GMT"
+   "title": "China's trade surplus hits record high through October - CNN",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1JBRFVrR3l5eUE1djZHek5RUjlhT1dzUkVzNVpRY0xDRFdlR2FiRk5ma0JYemVyajU3eVkyRzBYaEluekhuOVZPdF9iblBLMVV0eUNpZUh3VXIxUjE3Y05TRlNZbHhLTzVkTC1TNmVYUlE3a19ZWjI4MGtkbFFISEtFRGtKb0ZWeFpKRWFwR21udjdkR3VhVDNXSUJmN0k1c21Wc3RTMXl0eGhycWc?oc=5",
+   "ts": "Wed, 11 Nov 2026 23:03:02 GMT"
   },
   {
    "src": "gnews",
-   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - AP News",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzZvaHZqSTdNX2R6b1BzNzJKdnI4NDNacDYzdkhud2ZUcERRVlBjcTdsZWxBVDZZYUlaRFdDZlpyMHhSNEJfVUk0TG1HQTRMOWloMlR0QWdEakxjZEN5UV85a2hQa2NNYnlfcjNiU3A4cVdCVnQ1dzNMZW82cWNxU0RKVU9aTkpWQUtxNG85aG9KQQ?oc=5",
-   "ts": "Wed, 11 Nov 2026 02:28:00 GMT"
+   "title": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHV6OEE3TG9DMmR2b2N2OEpUX2IxMlZLTHUyc3FwaTRZbDZ1RWtPaUl3Q2N6c1JOYl9FQ1k4OGxFeTM1czMzV3R2TE5ueXdQdThyZXhWTHJPUEJVLXh4aVhRVGI5Ri1VcEhMREJWbGdtdVcxNjlBYjRsVHhkYktoU2JERjBmRUctUTkzdm9JcTZLdEpwSFM2TXV5WU5LbV9hZlhNMS1ZdXY4QQ?oc=5",
+   "ts": "Sat, 14 Nov 2026 20:23:56 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "The China Shock in the AI Era - Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kVHNxLWdkakZXWEpaa2tHUkwxTnhOYVFqUEgzT0N5cWxzUjZTclZ5N2NHX3pDOGpBOWNYQkNWV3RlaFktOHZNNG1UVHUtRDRmMmI1NjktcTBSalp4NHN3M1JvNEtsWWd2UW5iMTlIblI1azN2?oc=5",
+   "ts": "Sat, 14 Nov 2026 12:00:04 GMT"
   }
  ]
 }

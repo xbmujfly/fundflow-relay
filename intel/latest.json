@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-15T00:00:24Z",
+ "ts": "2026-11-15T00:15:18Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -407,15 +407,21 @@
   },
   {
    "src": "gnews",
+   "title": "China's trade surplus hits record high through October - CNN",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1JBRFVrR3l5eUE1djZHek5RUjlhT1dzUkVzNVpRY0xDRFdlR2FiRk5ma0JYemVyajU3eVkyRzBYaEluekhuOVZPdF9iblBLMVV0eUNpZUh3VXIxUjE3Y05TRlNZbHhLTzVkTC1TNmVYUlE3a19ZWjI4MGtkbFFISEtFRGtKb0ZWeFpKRWFwR21udjdkR3VhVDNXSUJmN0k1c21Wc3RTMXl0eGhycWc?oc=5",
+   "ts": "Wed, 11 Nov 2026 23:03:02 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China, US Discuss Tariffs in First Meeting of Trade Council - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1l3WlBYaHhmZFVJSDZ0OHdibV8ybWVSUXZfLU1nY3JWMlVmT1RXR3BraTBqaWItVVNFX1l3YWFnNS1hb2RBcGJQUnJ4TFJMOU8xaXpoekJ6WlRjOFNFU3loUlpfdk5tTEJqVTVWUEZIb1RvZkpKTEp3bUNOUGxkbVl4SGNzUXgwOVdfTGV0eDJMVExaN2pxZlBkVnZnVDNHQ01May01UlhoUUJIRTBoM0p3SQ?oc=5",
    "ts": "Sat, 14 Nov 2026 07:46:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "China's trade surplus hits record high through October - CNN",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1JBRFVrR3l5eUE1djZHek5RUjlhT1dzUkVzNVpRY0xDRFdlR2FiRk5ma0JYemVyajU3eVkyRzBYaEluekhuOVZPdF9iblBLMVV0eUNpZUh3VXIxUjE3Y05TRlNZbHhLTzVkTC1TNmVYUlE3a19ZWjI4MGtkbFFISEtFRGtKb0ZWeFpKRWFwR21udjdkR3VhVDNXSUJmN0k1c21Wc3RTMXl0eGhycWc?oc=5",
-   "ts": "Wed, 11 Nov 2026 23:03:02 GMT"
+   "title": "Nvidia fallout could hamper US-China trade talks - Semafor",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNm1WbHVHSkZsX0FCWmxVVFFETnE2LUJaR1ZMLXNJcTlpRzhURy1WSlRBRDIzWUN4c0hkMndMcXJGUzNsdno1Tm9ObkM2QlE1SlBmbmJWZDZPWGNvai1QbGt3QXZtR0RCZEhoLUlxZjZYbFZkMHFFcV9nYjJUejZUTHItMGZLUGpxQ1FIUnVZMjFrOVV0RGc?oc=5",
+   "ts": "Thu, 12 Nov 2026 09:58:00 GMT"
   },
   {
    "src": "gnews",
@@ -425,15 +431,15 @@
   },
   {
    "src": "gnews",
-   "title": "Despite Democrats' sweeping midterm wins, Carney says Trump remains central to Canada-US trade talks - AP News",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYTNXbGNtenBHWWdEUU45ZW1tNUNWamhPZVk0X3dNS3k0TXhTcmZBSkpqT1NuOFdTNWFydThLVW5mb1dtNFBMOHFpQnBXdTZ5VWhYSGdtYkFmSzZ4R3hhSms2bEljajZSNjBJWnRsYlM4QmptdWVTSW43LUs5V0tOVmRMWXhCdHNXX2gyOFZyN3JBSWlNVE9WaUxJTl9YTklSSW4zdA?oc=5",
-   "ts": "Thu, 12 Nov 2026 08:30:43 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Nvidia Scandal Deals Blow to Trump’s Tariff Strategy - Newsweek",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40ZVJiaDRHX1dQZnd1aEkxRTVtNmdiWEw3NEZtMGtXYWE1ZkZ5Q1p6V1pKQW1EWjdvb3hYa1FyeFdsTk1GSXRFZG9keENHeTBtSjF3WTVYMzNHZktWR3RZNlJlaFVVSk52cHJVdEhjRmdFLUhvM3RMb3FGS001NzQ?oc=5",
    "ts": "Sat, 14 Nov 2026 17:05:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - AP News",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzZvaHZqSTdNX2R6b1BzNzJKdnI4NDNacDYzdkhud2ZUcERRVlBjcTdsZWxBVDZZYUlaRFdDZlpyMHhSNEJfVUk0TG1HQTRMOWloMlR0QWdEakxjZEN5UV85a2hQa2NNYnlfcjNiU3A4cVdCVnQ1dzNMZW82cWNxU0RKVU9aTkpWQUtxNG85aG9KQQ?oc=5",
+   "ts": "Wed, 11 Nov 2026 02:28:00 GMT"
   },
   {
    "src": "gnews",
@@ -446,12 +452,6 @@
    "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
    "ts": "Sat, 14 Nov 2026 07:13:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - AP News",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzZvaHZqSTdNX2R6b1BzNzJKdnI4NDNacDYzdkhud2ZUcERRVlBjcTdsZWxBVDZZYUlaRFdDZlpyMHhSNEJfVUk0TG1HQTRMOWloMlR0QWdEakxjZEN5UV85a2hQa2NNYnlfcjNiU3A4cVdCVnQ1dzNMZW82cWNxU0RKVU9aTkpWQUtxNG85aG9KQQ?oc=5",
-   "ts": "Wed, 11 Nov 2026 02:28:00 GMT"
   },
   {
    "src": "gnews",

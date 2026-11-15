@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-15T10:45:17Z",
+ "ts": "2026-11-15T11:00:24Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -346,9 +347,9 @@
   },
   {
    "src": "gnews",
-   "title": "Canada’s Carney reports progress in trade talks with Trump as he expands ties with Asia - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdHVjYWdtYUdLdjRUcjZGRnk4alMta3U0YUNMTVZ1WEJPYjhQblU0TXNFMnRSdlV0UEhLZUtyMHpWT0g4ZGxBYXBEbFVPdDU1OTJWbkZlSGJ2X185ZEVvaEZOc29YSjRWX0FYeTVpN1N3YTl5d1Y1ZGdwTWZzQURiQVF1ekV5eEFhODY4TmVDb1dkVW5paE1fODZISUdmQnlBM0HSAacBQVVfeXFMT01OSjMwUHlwSTdyS3NoNEc2cnFuMTgyMWdfTDlqQTlENmhxbXRBSDBURFk0WUllazZfM01Ka0NwemVHZXlNdUZvVjIxMkxNVDViNkJzdjRuNHVuTzllLWd5RGJrV1NmbWZTWHRyd2lkeDRwQXJCSWVWWlVWN0RiTGp0alZ5X3VQeUlzZENqYnlGSm1YYUNFUmpJdENLTUhqYVYxS3E2cW8?oc=5",
-   "ts": "Sat, 14 Nov 2026 10:40:53 GMT"
+   "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
+   "ts": "Tue, 10 Nov 2026 02:42:00 GMT"
   },
   {
    "src": "gnews",
@@ -358,9 +359,21 @@
   },
   {
    "src": "gnews",
+   "title": "Canada’s Carney reports progress in trade talks with Trump as he expands ties with Asia - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdHVjYWdtYUdLdjRUcjZGRnk4alMta3U0YUNMTVZ1WEJPYjhQblU0TXNFMnRSdlV0UEhLZUtyMHpWT0g4ZGxBYXBEbFVPdDU1OTJWbkZlSGJ2X185ZEVvaEZOc29YSjRWX0FYeTVpN1N3YTl5d1Y1ZGdwTWZzQURiQVF1ekV5eEFhODY4TmVDb1dkVW5paE1fODZISUdmQnlBM0HSAacBQVVfeXFMT01OSjMwUHlwSTdyS3NoNEc2cnFuMTgyMWdfTDlqQTlENmhxbXRBSDBURFk0WUllazZfM01Ka0NwemVHZXlNdUZvVjIxMkxNVDViNkJzdjRuNHVuTzllLWd5RGJrV1NmbWZTWHRyd2lkeDRwQXJCSWVWWlVWN0RiTGp0alZ5X3VQeUlzZENqYnlGSm1YYUNFUmpJdENLTUhqYVYxS3E2cW8?oc=5",
+   "ts": "Sat, 14 Nov 2026 10:40:53 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China - Business Insider Africa",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
    "ts": "Sat, 14 Nov 2026 20:44:32 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzk1R09TQzJMMElPWWVSLXhRSkZUVFJWWW85cjV2QjFtMXJRcWVKX2VjSm83XzRNZUE3VFpucUk3SHdPbXd4b0tnMkVVamxsLUEtMTcyejJLUlBSNURlSkR6bjVKUzNENWZmVE1LcHpiakk2RXViWVJDVmR5bDlyX3BpMGJJWW1J?oc=5",
+   "ts": "Tue, 10 Nov 2026 02:38:00 GMT"
   },
   {
    "src": "gnews",
@@ -376,21 +389,9 @@
   },
   {
    "src": "gnews",
-   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
-   "ts": "Sat, 14 Nov 2026 08:38:39 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney Draws Red Line On Trump Trade Deal Over Auto Jobs - Newsweek",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZm84Z0c0b3VhY2pNckJZUUxxcW80NUJEMVJjeUFGa2QweVhwRXFDU1VOeWltYnZJRFl4U2JkdGdlV2d4akNUYldYYUJfeEdtSEdtMXlaOFNVaGJqWF9DV0hKaXplUnpIMjlSZHdiQWhDRVdSS29nSnhMWXlFZVVqMTlFZF9wWUJuUjhzd2FR?oc=5",
    "ts": "Sat, 14 Nov 2026 12:01:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzk1R09TQzJMMElPWWVSLXhRSkZUVFJWWW85cjV2QjFtMXJRcWVKX2VjSm83XzRNZUE3VFpucUk3SHdPbXd4b0tnMkVVamxsLUEtMTcyejJLUlBSNURlSkR6bjVKUzNENWZmVE1LcHpiakk2RXViWVJDVmR5bDlyX3BpMGJJWW1J?oc=5",
-   "ts": "Tue, 10 Nov 2026 02:38:00 GMT"
   },
   {
    "src": "gnews",
@@ -412,21 +413,21 @@
   },
   {
    "src": "gnews",
-   "title": "Nvidia fallout could hamper US-China trade talks - Semafor",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNm1WbHVHSkZsX0FCWmxVVFFETnE2LUJaR1ZMLXNJcTlpRzhURy1WSlRBRDIzWUN4c0hkMndMcXJGUzNsdno1Tm9ObkM2QlE1SlBmbmJWZDZPWGNvai1QbGt3QXZtR0RCZEhoLUlxZjZYbFZkMHFFcV9nYjJUejZUTHItMGZLUGpxQ1FIUnVZMjFrOVV0RGc?oc=5",
-   "ts": "Thu, 12 Nov 2026 09:58:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Tariffs Don’t Drain the Swamp—They Fill It - Cato Institute",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tTjA0d3NqcGFyM2tCV0gtTzNoQzJrQWEwQnZXY2dSNWlUTGhwMW1SZGFGbzVISG9kRWdORFoyZVV2dkNVSF9kdWhzY1QwQk5wdnlFUUlUbkExVTVVaXRPQ3ZGSVpray1CMncwZWQzS2g?oc=5",
    "ts": "Fri, 13 Nov 2026 16:37:20 GMT"
   },
   {
    "src": "gnews",
-   "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
-   "ts": "Tue, 10 Nov 2026 02:42:00 GMT"
+   "title": "Nvidia fallout could hamper US-China trade talks - Semafor",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNm1WbHVHSkZsX0FCWmxVVFFETnE2LUJaR1ZMLXNJcTlpRzhURy1WSlRBRDIzWUN4c0hkMndMcXJGUzNsdno1Tm9ObkM2QlE1SlBmbmJWZDZPWGNvai1QbGt3QXZtR0RCZEhoLUlxZjZYbFZkMHFFcV9nYjJUejZUTHItMGZLUGpxQ1FIUnVZMjFrOVV0RGc?oc=5",
+   "ts": "Thu, 12 Nov 2026 09:58:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
+   "ts": "Sat, 14 Nov 2026 08:38:39 GMT"
   },
   {
    "src": "gnews",
@@ -442,12 +443,6 @@
   },
   {
    "src": "gnews",
-   "title": "‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFRLX3NsenJzNmtnMmVMUXhtakFGcEU2RFRRZEk1NUl4aF8wWEtZQ1RuVG1oZ0ZJRmJqc3N3VnpfQjhLcV80UGxTTFc5Q0Z1Z01YNXJTNXZYZUhsRjhNWWx5bXdMTlI5dGF3VUJNQUR4VFNnb3pLLXFXY1dmUnJXVFVoaVTSAYoBQVVfeXFMTmVzVXVTOFZDV2VKVzM3T2NsVF9xSmtfcFNscWJNYTNZV3RtNExYMWRjQUM5bmxxOXk1eU8zR09iZVRlNXctTWlROVlQWEcwY3FnYy1scjRuZU5RbS1EUDNuMWI5d1hvTXpURENab1A4eURib3BqYjFaRXlXVFJXRHBsYU5NSG5QZktR?oc=5",
-   "ts": "Fri, 13 Nov 2026 09:44:38 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "US, China hold first Board of Trade meeting - Reuters",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc01lX1pFekl6SmdEY1p3SHlENVI0MkZCT2RCLV95bWt5UThVblZpRFNGTVBHZDk4d3JoM0txYzUxRGtQS3dxRTc4MlZzaklnMGJXWFRCVHN4SS11RUdELUZnVXlsMmZQV0szQlNxS3M3Mi1lVHRUVzRJSVB1LWlfa3VvRHkzV1EzTjVUUm1iRVM?oc=5",
    "ts": "Fri, 13 Nov 2026 18:02:11 GMT"
@@ -459,124 +454,10 @@
    "ts": "Wed, 11 Nov 2026 02:28:00 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "سبتمبر نت - لماذا يُدفع جي دي فانس إلى حافة الهامش ؟ ",
-   "url": "https://26sep.net/index.php/global/139400-2zk8",
-   "ts": "20261115T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "How do Mayo Clinic CEOs interact with local government ? ",
-   "url": "https://www.pineandlakes.com/health/how-do-mayo-clinic-ceos-interact-with-local-government",
-   "ts": "20261115T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Госдеп США возложил на ХАМАС ответственность за удар по больнице Насер",
-   "url": "https://mignews.com/news/arabisrael/gosdep-ssha-vozlozhil-na-hamas-otvetstvennost-za-udar-po-bolnice-naser.html",
-   "ts": "20261115T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Awkward moment awaits PM with potential Putin photo",
-   "url": "https://www.areanews.com.au/story/9391656/awkward-moment-awaits-pm-with-potential-putin-photo/",
-   "ts": "20261115T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Μπλακ άουτ στις ΗΠΑ : Μια αναβάθμιση της FAA παρέλυσε τις αερομεταφορές – Πάνω από 15 . 000 ακυρώσεις πτήσεων",
-   "url": "https://www.emakedonia.gr/mplak-aoyt-stis-ipa-mia-anavathmisi-tis-faa-parelyse-tis-aerometafores-pano-apo-15-000-akyroseis-ptiseon-833716",
-   "ts": "20261115T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "From bicycle parts to satellites : Inside Sunil Mittal 50 - year journey",
-   "url": "https://www.business-standard.com/companies/people/from-bicycle-parts-to-satellites-inside-sunil-mittal-s-50-year-journey-126111500180_1.html",
-   "ts": "20261115T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Officials investigate L3Harris work after nationwide ground stop",
-   "url": "https://www.texarkanagazette.com/news/2026/nov/14/officials-investigate-l3harris-work-after-nationwide-ground-stop/",
-   "ts": "20261115T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Awkward moment awaits PM with potential Putin photo",
-   "url": "https://www.muswellbrookchronicle.com.au/story/9391656/awkward-moment-awaits-pm-with-potential-putin-photo/",
-   "ts": "20261115T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump to start new nuclear talks with Russia , China next week",
-   "url": "https://www.fox32chicago.com/news/trump-start-new-nuclear-talks-russia-china-next-week",
-   "ts": "20261115T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Anthony Albanese backs Donald Trump controversial Vladimir Putin , Xi Jinping summit",
-   "url": "https://www.afr.com/policy/foreign-affairs/albanese-backs-trump-s-controversial-putin-xi-summit-20261115-p61ean",
-   "ts": "20261115T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "How data centers lost in the midterm elections",
-   "url": "https://www.fox32chicago.com/news/how-data-centers-lost-big-midterm-elections",
-   "ts": "20261115T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Assinatura do Acordo Mercosul - União Europeia é Prioridade para o Governo , Afirma Alckmin",
-   "url": "https://www.investimentosenoticias.com.br/noticias/politica/governo-brasileiro-espera-assinatura-rapida-do-acordo-mercosul-uniao-europeia-afirma-alckmin/",
-   "ts": "20261115T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "USA ograniczą obecność wojskową w Europie ? Media ujawniają szczegóły",
-   "url": "https://www.fakt.pl/polityka/usa-ogranicza-obecnosc-wojskowa-w-europie-media-ujawniaja-szczegoly/8cb1pdr",
-   "ts": "20261115T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump na celowniku Iranu . Mossad ostrzegł CIA",
-   "url": "https://wiadomosci.wp.pl/trump-na-celowniku-iranu-mossad-ostrzegl-cia-7351199309715488a",
-   "ts": "20261115T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "India - US trade pact approaching  finishing line , says Jaishankar",
-   "url": "https://www.thehitavada.com/Encyc/2026/11/15/india-us-trade-pact-approaching-finishing-line-says-jaishankar-.html",
-   "ts": "20261115T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Остановку авиарейсов в США связали с « плановым техническим обслуживанием » ",
-   "url": "https://www.mk.ru/incident/2026/11/15/ostanovku-aviareysov-v-ssha-svyazali-s-planovym-tekhnicheskim-obsluzhivaniem.html",
-   "ts": "20261115T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Nesoglasje zakoncev , ki je spremenilo športna pravila",
-   "url": "https://vecer.com/v-nedeljo/tenis-masters-kirk-douglas-bizarno-10433138",
-   "ts": "20261115T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "East Texas Republicans ran their campaigns differently than the rest of the state by bucking culture war rhetoric",
-   "url": "https://www.texarkanagazette.com/news/2026/nov/14/east-texas-republicans-ran-their-campaigns/",
-   "ts": "20261115T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "إسرائيل هيوم : الموساد يحذر واشنطن من مخطط إيراني لاغتيال ترامب",
-   "url": "https://www.shorouknews.com/news/view.aspx?cdate=15112026&id=6d31820f-0852-4367-8db3-951d38212480",
-   "ts": "20261115T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Money , spies and Al Jazeera : How Qatar intelligence services wield power",
-   "url": "https://www.ynetnews.com/article/syqkfq80gx",
-   "ts": "20261115T074500Z"
+   "src": "gnews",
+   "title": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHV6OEE3TG9DMmR2b2N2OEpUX2IxMlZLTHUyc3FwaTRZbDZ1RWtPaUl3Q2N6c1JOYl9FQ1k4OGxFeTM1czMzV3R2TE5ueXdQdThyZXhWTHJPUEJVLXh4aVhRVGI5Ri1VcEhMREJWbGdtdVcxNjlBYjRsVHhkYktoU2JERjBmRUctUTkzdm9JcTZLdEpwSFM2TXV5WU5LbV9hZlhNMS1ZdXY4QQ?oc=5",
+   "ts": "Sat, 14 Nov 2026 20:23:56 GMT"
   }
  ]
 }

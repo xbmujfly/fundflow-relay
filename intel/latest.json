@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-15T15:15:17Z",
+ "ts": "2026-11-15T15:30:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -401,15 +401,15 @@
   },
   {
    "src": "gnews",
-   "title": "Analysis-Trump's minerals push has yet to loosen China's grip ahead of Xi talks - Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcWVqWjRaV0Naamp2VVFDZ01lQV9yNDVEZm5hME5zNXlEY0ZFcTVLU2t1N0dhaVJhTXBjUlRWM0IzVC0wMHlqdjZ2V2kyaU5LVEJ5a2NPRW1Pa3Jac2pfTEM0VEg1eVJ6V2FQRzlkWXc4ZmJyRk1EdDJ6djAzOV9tbFhLUVZqa2ZJMGc?oc=5",
-   "ts": "Sun, 15 Nov 2026 11:04:14 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump’s tariffs face a new threat: Republicans - CNN",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
    "ts": "Fri, 13 Nov 2026 10:00:15 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Analysis-Trump's minerals push has yet to loosen China's grip ahead of Xi talks - Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcWVqWjRaV0Naamp2VVFDZ01lQV9yNDVEZm5hME5zNXlEY0ZFcTVLU2t1N0dhaVJhTXBjUlRWM0IzVC0wMHlqdjZ2V2kyaU5LVEJ5a2NPRW1Pa3Jac2pfTEM0VEg1eVJ6V2FQRzlkWXc4ZmJyRk1EdDJ6djAzOV9tbFhLUVZqa2ZJMGc?oc=5",
+   "ts": "Sun, 15 Nov 2026 11:04:14 GMT"
   },
   {
    "src": "gnews",

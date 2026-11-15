@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-15T15:30:23Z",
+ "ts": "2026-11-15T15:45:22Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -347,6 +347,12 @@
   },
   {
    "src": "gnews",
+   "title": "Carney says U.S. and Canada ‘making progress’ towards possible trade deal - The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRS1tRnE4a1I1bWhRRVhoazNuQS1XRXNPcm1yX0FVeVdPdUlPU3NmQmo0NkkwRmpJRWNfbWFhY0NLYmdtM2Z4aGQyQ1lnRkRvSHFGU0FwNWRFX1l6WEV1MWIyQ1ZxOUNhem5FQkt5S01vbkRySmw2MVpDdzQxbkZxVlNSV2VPTnVZNmFDUGZRb3JIdXVIaTdZdllxR2dDb1dXZ0J5YXkyNDllV1BJWXUyTzFZd0lFYnB3ZGc?oc=5",
+   "ts": "Sun, 15 Nov 2026 00:00:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "How Congress might take back its trade powers and limit Trump's tariffs - Peterson Institute for International Economics",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd3dkbjI5MjdTckFXd2lKQk5VWTJybnlhMzVIVWRNLTdjQXA5aEQ2U2g0SjdETDRTSEtiLXBQS2JpQWwzQXNPNVhKMXpfRm16ckJNYTdTUl9iRnBqTmFrRnptLW1NWmVVUzd6QUVPTl90QlR6MUdBVEVINDJ3VG9lWDBEbWMwQjZTcUhxTThDeXlOREFBcEc3QTk2Qlo1QUZkd29kT3FsMG8wNkhpRzVnZWVDTQ?oc=5",
    "ts": "Fri, 13 Nov 2026 16:57:34 GMT"
@@ -383,15 +389,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney Draws Red Line On Trump Trade Deal Over Auto Jobs - Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZm84Z0c0b3VhY2pNckJZUUxxcW80NUJEMVJjeUFGa2QweVhwRXFDU1VOeWltYnZJRFl4U2JkdGdlV2d4akNUYldYYUJfeEdtSEdtMXlaOFNVaGJqWF9DV0hKaXplUnpIMjlSZHdiQWhDRVdSS29nSnhMWXlFZVVqMTlFZF9wWUJuUjhzd2FR?oc=5",
-   "ts": "Sat, 14 Nov 2026 12:01:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "The EU’s shaky start to balancing trade with China - GIS Reports",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yN0tONWZ1NjZ3dHZ5eEIxck1VTHNvTmN0Y3htZ2xXNnI3d0V5dkZYRTFWV2RjNDJGS1V6eVlxY2FUWDMxdjhZcUR4RXp3Vm5GSloyMEFlZ2Q2bGNDclIyZmthV0FYdS1KeUdaT2pMTUgyWWNEMXc?oc=5",
    "ts": "Fri, 13 Nov 2026 07:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney Draws Red Line On Trump Trade Deal Over Auto Jobs - Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZm84Z0c0b3VhY2pNckJZUUxxcW80NUJEMVJjeUFGa2QweVhwRXFDU1VOeWltYnZJRFl4U2JkdGdlV2d4akNUYldYYUJfeEdtSEdtMXlaOFNVaGJqWF9DV0hKaXplUnpIMjlSZHdiQWhDRVdSS29nSnhMWXlFZVVqMTlFZF9wWUJuUjhzd2FR?oc=5",
+   "ts": "Sat, 14 Nov 2026 12:01:00 GMT"
   },
   {
    "src": "gnews",
@@ -419,21 +425,15 @@
   },
   {
    "src": "gnews",
-   "title": "Tariffs Don’t Drain the Swamp—They Fill It - Cato Institute",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tTjA0d3NqcGFyM2tCV0gtTzNoQzJrQWEwQnZXY2dSNWlUTGhwMW1SZGFGbzVISG9kRWdORFoyZVV2dkNVSF9kdWhzY1QwQk5wdnlFUUlUbkExVTVVaXRPQ3ZGSVpray1CMncwZWQzS2g?oc=5",
-   "ts": "Fri, 13 Nov 2026 16:37:20 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China Extends Suspension of Rare Earth Export Controls - Thompson Hine",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVUdiSTZDb0c2U0lWWEpiRV9ZMnpESmlpZDdBcXdxbmNsUVVFOHdxZHR5LTd4THI1RGpybjdsRTJhUlNjR1hkRU9rU3JyUnNwX1RxZ0pVMmFMejFZRHY2Tm1NTk1mN0NoMzdudFZLVEI4MlVPNjlDQ3ZSNFVzSUhHWmRWbVNMQ09DbHBtWHdmbV8yRDF3OUJ0aFNfYlJ3UzBocFhv?oc=5",
-   "ts": "Fri, 13 Nov 2026 15:59:26 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
    "ts": "Tue, 10 Nov 2026 02:42:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnJMaFhaUUdRTmNXSll3UUlCX21rdHYxRGNpUmduVEo1Y29hcGVHazNjdE5mbDhtTlAtRnhfY3RzLWNXOTFiN254MmZOQ0pqMlFtczdwdG83QVdnbGc3alVSLWNpVXhJcTRVNEQ0RC1DUDY5c2lQbWhjM3o1TGx0UnBadk5FSXFNMlNoWE5EX2RpYnhETmx3?oc=5",
+   "ts": "Sun, 15 Nov 2026 10:02:05 GMT"
   },
   {
    "src": "gnews",

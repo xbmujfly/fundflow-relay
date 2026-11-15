@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-15T03:00:22Z",
+ "ts": "2026-11-15T03:15:18Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -10,8 +10,9 @@
    "n": 10
   },
   "fed": {
-   "ok": true,
-   "n": 20
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 404: Not Found"
   },
   "reuters": {
    "ok": false,
@@ -33,8 +34,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -219,126 +221,6 @@
    "ts": "Fri, 23 Oct 2026 13:06:37 +0000"
   },
   {
-   "src": "fed",
-   "title": "Agencies extend comment period for proposed third-party risk management guidance",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
-   "ts": "Fri, 13 Nov 2026 21:15:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check ",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-   "ts": "Thu, 12 Nov 2026 18:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-   "ts": "Thu, 12 Nov 2026 17:45:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
-   "ts": "Thu, 12 Nov 2026 16:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-   "ts": "Mon, 9 Nov 2026 21:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
-   "ts": "Thu, 5 Nov 2026 16:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
-   "ts": "Thu, 29 Oct 2026 20:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve issues FOMC statement",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-   "ts": "Wed, 28 Oct 2026 18:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
-   "ts": "Fri, 16 Oct 2026 15:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-   "ts": "Tue, 13 Oct 2026 18:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-   "ts": "Fri, 9 Oct 2026 14:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity rel",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-   "ts": "Thu, 8 Oct 2026 20:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-   "ts": "Wed, 7 Oct 2026 18:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
-   "ts": "Mon, 5 Oct 2026 20:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-   "ts": "Fri, 2 Oct 2026 20:45:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-   "ts": "Fri, 2 Oct 2026 20:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
-   "ts": "Fri, 2 Oct 2026 15:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-   "ts": "Wed, 30 Sep 2026 13:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
-   "ts": "Tue, 29 Sep 2026 20:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
-   "ts": "Fri, 25 Sep 2026 20:30:00 GMT"
-  },
-  {
    "src": "gnews",
    "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal - The Hill",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmNDaEFOUjhyQ3dSTXZ5c1pkT0hpdEVqT0tmOGk2cVVDZ1pZT3EtNVlLczVuYllZd0ZWRGRBQmxiY0hTMFJTQXE0YWN0dTA3RzA2N3VmM0MtRzNycGpqbHh6RlZKMGtnaEkwRzZYVUxuLWs2U19jQS1HLS1xb01hZi13Yjh5UnFxSXdScDI1bUHSAZYBQVVfeXFMT084UmYyZ2JNVTg5ZFJKR0N4MTR2SFF5ekRwdFdsNnlTeVQ5dExLUmhlclcycVFuUS1TRHFRTnFWWHp3MVQ0ZzBFbFdST0VkWEh2QTRreVZnaGpGRTJKM3h1aHhsVHZ1VXJtZGpJb3N3RjE4RXJ5TFNFeGVrTjF6R1R2akUwaU9LQWdfSHZUeDNqOUY1UVlB?oc=5",
@@ -457,126 +339,6 @@
    "title": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHV6OEE3TG9DMmR2b2N2OEpUX2IxMlZLTHUyc3FwaTRZbDZ1RWtPaUl3Q2N6c1JOYl9FQ1k4OGxFeTM1czMzV3R2TE5ueXdQdThyZXhWTHJPUEJVLXh4aVhRVGI5Ri1VcEhMREJWbGdtdVcxNjlBYjRsVHhkYktoU2JERjBmRUctUTkzdm9JcTZLdEpwSFM2TXV5WU5LbV9hZlhNMS1ZdXY4QQ?oc=5",
    "ts": "Sat, 14 Nov 2026 20:23:56 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "US air travel should normalize by Sunday after ground stop triggers mass cancellations , FAA says",
-   "url": "https://www.pressdemocrat.com/2026/11/13/us-air-travel-should-normalize-by-sunday-after-ground-stop-triggers-mass-cancellations-faa-says/",
-   "ts": "20261114T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "EUA sondam Ucrânia sobre retirada de tropas de Donbass em troca de adesão à Otan , diz Zelenski",
-   "url": "https://www.estadao.com.br/internacional/eua-sondam-ucrania-sobre-retirada-de-tropas-de-donbass-em-troca-de-adesao-a-otan-diz-zelenski-npr/",
-   "ts": "20261114T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Mark Kenny | Can Labor find its mojo ? | Oberon Review",
-   "url": "https://www.oberonreview.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
-   "ts": "20261114T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "PM to highlight Philippines ties ahead of Trump meeting",
-   "url": "https://www.mandurahmail.com.au/story/9391656/pm-to-highlight-philippines-ties-ahead-of-trump-meeting/",
-   "ts": "20261114T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Dramatic drop in US home sales in October",
-   "url": "https://littleapplepost.com/posts/d34492de-e62d-4cff-8a92-69bc4fae244c",
-   "ts": "20261114T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "全國停飛餘波 周六再取消數千航班 FAA ： 周日恢復正常",
-   "url": "https://www.singtaousa.com/2026/11/14/news/usa/us-air-travel-schedule-should-recover-from-ground-stop-by-the-end-of-sunday-faa-says/",
-   "ts": "20261114T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Supreme Court to Hear Challenge to Trump Proclamation Eliminating Asylum",
-   "url": "https://yubanet.com/usa/supreme-court-to-hear-challenge-to-trump-proclamation-eliminating-asylum/",
-   "ts": "20261114T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Καναδάς και Φιλιππίνες : Ολοκληρώθηκαν οι συνομιλίες για συμφωνία ελεύθερου εμπορίου",
-   "url": "https://gr.euronews.com/2026/11/14/kanadas-filippines-oloklhrvuhkan-synomilies-symfvnia-eleyueroy-emporioy",
-   "ts": "20261114T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Демократ спечели губернаторските избори в Аляска",
-   "url": "https://fakti.bg/world/1100949-sled-28-godini-demokrat-specheli-gubernatorskite-izbori-v-alaska",
-   "ts": "20261114T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "As Democrats win big , thirst traps of male candidates take social media by storm",
-   "url": "https://www.klcc.org/npr-news/2026-11-14/as-democrats-win-big-thirst-traps-of-male-candidates-take-social-media-by-storm",
-   "ts": "20261114T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Election results raise questions about agricultural tax policy",
-   "url": "https://kxel.com:443/news/2026/11/13/election-results-raise-questions-about-agricultural-tax-policy",
-   "ts": "20261114T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Куба посилила оборонну підготовку на тлі погроз США",
-   "url": "https://www.5.ua/svit/kuba-posylyla-oboronnu-pidhotovku-na-tli-pohroz-ssha-386236.html",
-   "ts": "20261114T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Upgrade work blamed for nationwide flight shutdown , Duffy says – The Press Democrat",
-   "url": "https://www.pressdemocrat.com/2026/11/14/upgrade-work-blamed-for-nationwide-flight-shutdown-duffy-says/",
-   "ts": "20261114T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Why a problem on the ground can affect flights thousands of miles away among other issues",
-   "url": "https://www.niagarafallsreview.ca/business/why-a-problem-on-the-ground-can-affect-flights-thousands-of-miles-away-among-other-issues/article_f4d5ff4f-ec45-5e5e-a6c7-9fd8453d6452.html",
-   "ts": "20261114T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Thousands of US flights cancelled after wire replacement causes system overload",
-   "url": "https://www.london-now.co.uk/news/national/26729823.thousands-us-flights-cancelled-wire-replacement-causes-system-overload/",
-   "ts": "20261114T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Mark Kenny | Can Labor find its mojo ? | Mandurah Mail",
-   "url": "https://www.mandurahmail.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
-   "ts": "20261114T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "لميس الحديدي تسخر من أزمة الطيران الأمريكي : « اقفل الروتر وافتحه تاني » ",
-   "url": "https://www.elwatannews.com/news/details/8396695",
-   "ts": "20261114T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Kraj kontroverznog posla u Beogradu . Srbija raskida ugovor s Trumpovim zetom",
-   "url": "https://www.index.hr/vijesti/clanak/propao-luksuzni-projekt-trumpova-zeta-u-beogradu/2857063.aspx",
-   "ts": "20261114T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Почему Apple Pencil невозможно отремонтировать и как продлить срок его службы",
-   "url": "https://24tv.ua/tech/ru/pochemu-apple-pencil-nevozmozhno-otremontirovat-prodlit-srok_n3180321",
-   "ts": "20261114T210000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "أفق الشراكة الكورية - الأميركية",
-   "url": "https://www.aletihad.ae/opinion/4705959/%D8%A3%D9%81%D9%82-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D8%B1%D9%8A%D8%A9--%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9",
-   "ts": "20261114T210000Z"
   }
  ]
 }

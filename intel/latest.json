@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-15T23:00:27Z",
+ "ts": "2026-11-15T23:15:20Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -353,15 +353,15 @@
   },
   {
    "src": "gnews",
-   "title": "Opinion | The Success of President Trump’s Tariff Policy - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdi15MUprNUVWM1B5T1Z1bEdNcFRrR0RhSmxvZHlfVEdGNXkzb0w4dngtQWh6aWs3eGVwN3JJMVMwanRYNEgzRnNpVGFsUUJNeU5oZzZ0LWkwTTFDV1pKS014OGcwUkdMaGFuak1ocVB0dkxBT0hOQXd6WlJUNURyTXRCVDFZa3l4aEE?oc=5",
-   "ts": "Sun, 15 Nov 2026 17:58:55 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
    "ts": "Sat, 14 Nov 2026 07:13:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Opinion | The Success of President Trump’s Tariff Policy - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdi15MUprNUVWM1B5T1Z1bEdNcFRrR0RhSmxvZHlfVEdGNXkzb0w4dngtQWh6aWs3eGVwN3JJMVMwanRYNEgzRnNpVGFsUUJNeU5oZzZ0LWkwTTFDV1pKS014OGcwUkdMaGFuak1ocVB0dkxBT0hOQXd6WlJUNURyTXRCVDFZa3l4aEE?oc=5",
+   "ts": "Sun, 15 Nov 2026 17:58:55 GMT"
   },
   {
    "src": "gnews",
@@ -431,15 +431,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump’s tariffs face a new threat: Republicans - CNN",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
-   "ts": "Fri, 13 Nov 2026 10:00:15 GMT"
+   "title": "Hopes expressed for more gains in China-US trade - China Daily Global Edition",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVTNmUEFQbFhGV0RucUNIMkZzc0dRYUFDM1gyTFhBQXVOQnJuZ1VjOGxHUHA2U1NCcDIwMVRuTGxFOHI1NjJvZmpaOUtoV01ZdjhXTk1IeVNmUXZqNkU1YjlDcWZ4UEVLb0lZeDYxMzkxSHl3bmtGMFlhT2VZc1dZZDJ3?oc=5",
+   "ts": "Sun, 15 Nov 2026 15:43:37 GMT"
   },
   {
    "src": "gnews",
-   "title": "Nvidia fallout could hamper US-China trade talks - Semafor",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNm1WbHVHSkZsX0FCWmxVVFFETnE2LUJaR1ZMLXNJcTlpRzhURy1WSlRBRDIzWUN4c0hkMndMcXJGUzNsdno1Tm9ObkM2QlE1SlBmbmJWZDZPWGNvai1QbGt3QXZtR0RCZEhoLUlxZjZYbFZkMHFFcV9nYjJUejZUTHItMGZLUGpxQ1FIUnVZMjFrOVV0RGc?oc=5",
-   "ts": "Thu, 12 Nov 2026 09:58:00 GMT"
+   "title": "Trump’s tariffs face a new threat: Republicans - CNN",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
+   "ts": "Fri, 13 Nov 2026 10:00:15 GMT"
   },
   {
    "src": "gnews",

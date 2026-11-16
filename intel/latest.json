@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-16T04:15:19Z",
+ "ts": "2026-11-16T04:30:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,6 +341,12 @@
   },
   {
    "src": "gnews",
+   "title": "Canada Has ‘Eyes Wide Open’ in Push for Deeper China Trade Ties - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNE5OV29NU2xOdjZvWU50WnIzcFdiRUUyc0VoTE5oSnNibV94WUZacG4wbVBKeDF1NUdVU19mRGk5cjBHYWh1VjJQNDF4a1dpM2xWZ1VzZldxS1psODNsQXZXa25JUDR2RGFjVkJxYkZoLWR0bVpNd0QwVkEtbkg4UlVyZUFFb05yaHFsa2ZzSEU0UWZDa3VfUGZkbF9mdENCX1NNWUh0U1F1eTRweWlPQWNn?oc=5",
+   "ts": "Sun, 15 Nov 2026 23:00:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Washington Week Ahead: China trade, ag forum, permit reform on tap - Agri-Pulse Communications, Inc.",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGZWbk5EbTU1bnlsNzRrS3FvRmI4WTlwZ0dIVEQ4OGFLNHVMM09lUXUxc3FWbmY2U2I5d0tuaUk5Z045aGw3MkhjOTFBU0IteHlJV1VpYkViQ0w5TThWelRJN3U4MG1USENHa3VwdW9nekRLYzlIb0FWXzdvVU4yWHJHMkEwOTRwWjQ5VnRqcDBvS094VlY4UWdrZ3RBc0M0SWUwYWRiOVQ?oc=5",
    "ts": "Sun, 15 Nov 2026 23:44:10 GMT"
@@ -350,12 +356,6 @@
    "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail | National News | 2news.com - KTVN",
    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONlpUUER0ZjN4ZGJBdjFiLVhPdXFhZmNDaGNyc3hhM1RMWk8teGtLQk9hVndhbTJBS3pzRHhvZUN6N1ZfN2YxTGlNSEIzSmNvbzlqdmIzelRyNVhheEdfaEtWQmhPMXE0UGpNWFViYnBkU0s5cS1UTk5iU1pOUGM4T0kzWFhwVkZiVUUwTWk3czhrQUlUQzlRblRBN1RTaGxvX00wcW9SWTF6aHJoWWREYjB1LU9mZUU3WGRMOWdqSHZlZmF4dEdvb3pHaGpibk5tYWF6Qi1GNEFFMDdYbU5tNXJjcVM4MVpieXBnbjVDRDFIMEE?oc=5",
    "ts": "Mon, 16 Nov 2026 02:25:59 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Canada Has ‘Eyes Wide Open’ in Push for Deeper China Trade Ties - Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNE5OV29NU2xOdjZvWU50WnIzcFdiRUUyc0VoTE5oSnNibV94WUZacG4wbVBKeDF1NUdVU19mRGk5cjBHYWh1VjJQNDF4a1dpM2xWZ1VzZldxS1psODNsQXZXa25JUDR2RGFjVkJxYkZoLWR0bVpNd0QwVkEtbkg4UlVyZUFFb05yaHFsa2ZzSEU0UWZDa3VfUGZkbF9mdENCX1NNWUh0U1F1eTRweWlPQWNn?oc=5",
-   "ts": "Sun, 15 Nov 2026 23:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -377,15 +377,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - Oskaloosa Herald",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQR3Vkd25rdXhmX1Q4eXpybGhhWktkUFlNZTRZMm4zdFZpNU1HZ1ZKRmRtY3hQdUhEbUhlX1VNWDB0c1FEZkNVWGJwdkpCM2RwLVRFN0Z4YkFQbUNOQnJ6TTJhdDlLMmMzZVgxY2ZELVBHTGMzd0NQVjFDTmlINVZOdmFBQlk5ZHNuNDY2QURPUkh4ZXp0QWRocnRjakZvVW84WmE4RkM0dWFVZ3hRSTNlZGVsNEZPUnhuZFEtQlBXdzBuTGQ5SGQ1MUNwd0syNDRKemlmbmswX2hEcnNzT1VRZ3VYX1M3X3ctamNRNzhXYl9SUnVvalZPUHd2V1FKVGp0UEE?oc=5",
-   "ts": "Mon, 16 Nov 2026 02:25:59 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
    "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - Oskaloosa Herald",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQR3Vkd25rdXhmX1Q4eXpybGhhWktkUFlNZTRZMm4zdFZpNU1HZ1ZKRmRtY3hQdUhEbUhlX1VNWDB0c1FEZkNVWGJwdkpCM2RwLVRFN0Z4YkFQbUNOQnJ6TTJhdDlLMmMzZVgxY2ZELVBHTGMzd0NQVjFDTmlINVZOdmFBQlk5ZHNuNDY2QURPUkh4ZXp0QWRocnRjakZvVW84WmE4RkM0dWFVZ3hRSTNlZGVsNEZPUnhuZFEtQlBXdzBuTGQ5SGQ1MUNwd0syNDRKemlmbmswX2hEcnNzT1VRZ3VYX1M3X3ctamNRNzhXYl9SUnVvalZPUHd2V1FKVGp0UEE?oc=5",
+   "ts": "Mon, 16 Nov 2026 02:25:59 GMT"
   },
   {
    "src": "gnews",
@@ -419,6 +419,12 @@
   },
   {
    "src": "gnews",
+   "title": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China - Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
+   "ts": "Sat, 14 Nov 2026 20:44:32 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Australia Warns China Iron Ore Push Could Breach Trade Rules - Bloomberg",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYm1uVkdRajZyYm1PUm9EX1lLVm82a3JUcDhxajFfcVIxdDJDdExxMW9PZjJEVURmMll2QzhHTWwxUy1pXzk1U0V2bG8xUmVRXzh2Z1VTZVU5bklJM2VQS3d6eW43TzVaenNLR0t3V0hGVEhvU1VIOWVJeWhxajJBNGtta0pXRDJheHJIYjhNZ2VZNXIteGw5SjZBRDBqUEx5TEJPbkJYS3MyQUxielJWZg?oc=5",
    "ts": "Sun, 15 Nov 2026 23:35:37 GMT"
@@ -446,12 +452,6 @@
    "title": "Trafigura Is Key Player in Aluminum Squeeze With China Trade - Bloomberg",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSTlHdGJudFBBbEQ1V2tkY09oZ3Q2b050dkc2RnU0ejhoWV93M1phbnNMa096ZTdRd0p2TEd6TmFWS1Npa1pTY1lkWGlGVkM4RENSSnVMVHhMRjFmTE1Wb2VLQldiRWJYaU1XVXkwYzZ6NldRT0hGbDlmVlpuaU5ydUNJM0Z5ZGFSSkxoWHcyMTl2amVmQ05ORlJXOHhsTU5YUDhJSERlcmJKb1gteFcxT2pDZXZmdw?oc=5",
    "ts": "Fri, 13 Nov 2026 10:32:22 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China - Business Insider Africa",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
-   "ts": "Sat, 14 Nov 2026 20:44:32 GMT"
   },
   {
    "src": "gnews",

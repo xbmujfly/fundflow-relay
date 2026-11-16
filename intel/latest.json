@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-16T13:15:22Z",
+ "ts": "2026-11-16T13:30:25Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -347,9 +347,9 @@
   },
   {
    "src": "gnews",
-   "title": "Demand for Chinese Goods Is Soaring but Economic Momentum Slows at Home - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTVl1aGxrVkh0SGpPTXRaUHpEM0lTTmQtdHEySlRNWE9vbVh4OWJwTlBocGpiQzBrVHg0RGFndGZkRGFGWWdxb3RMdHBsc1c3alFpbFNqVUxEVm1yUUwwN2F3NnpOQl9vZVpPbS1uZnJ3UFJyVXpCQ0FIc2FYNWI3b05haGVNVG1IY2xB?oc=5",
-   "ts": "Mon, 16 Nov 2026 06:59:00 GMT"
+   "title": "Trump’s Trade Barriers, AI Reveal New US Dependencies on China - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0NYYUpyZk5yY3hLYU1VcUpTNmQ1NnNpbjNDS3dyemFSa2VzaVVKN1lLc01iekVwUGpGUE95ZmRMYXJraGZ6eFF6VjdMVGE2elE2N2ZJZXYtNEE0WWpPYmMxSnhWc1I2TS1pVHJCMzdiVl9VU1ZSZl9uOGxUTllZb0s5dzROY21qM1B6VXRoLXQ0ZFNPTDJ6TnJDaE1BQXpYel8wZHhXVUtCUDRZOHBtTg?oc=5",
+   "ts": "Mon, 16 Nov 2026 13:05:14 GMT"
   },
   {
    "src": "gnews",
@@ -359,15 +359,21 @@
   },
   {
    "src": "gnews",
-   "title": "Spy scandal and midterm defeat heat up Trump's Asia visit - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOenFHNWhhY2RJR3NNRHFqQ1pSaXRHMVM2VEN1WURVVTJjRFNJbXp2WnlZcE5PLUlIOWpVS3YxWm93NlFkVnpKYy1HdkFYYV9qczhGM21ERmpMX1RUUU9hNnEtZzNjdV9vVDVHVks5VG9xYVBQYmdZR0RPUFJHNThLQWs5b0NwM2UwS0N0cXRzcTZiclRKdmRjSlJabU9YWjVwZWc?oc=5",
-   "ts": "Mon, 16 Nov 2026 05:04:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Nvidia’s Scandal Gives China Hawks Ammunition—and Puts the Trade Truce in Peril - Barron's",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMTEtXzVlTWc0akNpWjk1bVlfWE51YVFJZDhwNmxoMlFHMWxGSmN0OTVTc2NzSFlCWkRtT1VmVk13U0R2Slk1S251UzNQZmViVWdOdmlwVjU3LUFOeTB3ampKOUxJOGk1WlZtWng3YVVpb09mRGZtMUdSczZOZ0k5ZHVqU1FGaXNqNHFkV3hOTXQ?oc=5",
    "ts": "Mon, 16 Nov 2026 11:30:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Demand for Chinese Goods Is Soaring but Economic Momentum Slows at Home - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTVl1aGxrVkh0SGpPTXRaUHpEM0lTTmQtdHEySlRNWE9vbVh4OWJwTlBocGpiQzBrVHg0RGFndGZkRGFGWWdxb3RMdHBsc1c3alFpbFNqVUxEVm1yUUwwN2F3NnpOQl9vZVpPbS1uZnJ3UFJyVXpCQ0FIc2FYNWI3b05haGVNVG1IY2xB?oc=5",
+   "ts": "Mon, 16 Nov 2026 06:59:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Spy scandal and midterm defeat heat up Trump's Asia visit - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOenFHNWhhY2RJR3NNRHFqQ1pSaXRHMVM2VEN1WURVVTJjRFNJbXp2WnlZcE5PLUlIOWpVS3YxWm93NlFkVnpKYy1HdkFYYV9qczhGM21ERmpMX1RUUU9hNnEtZzNjdV9vVDVHVks5VG9xYVBQYmdZR0RPUFJHNThLQWs5b0NwM2UwS0N0cXRzcTZiclRKdmRjSlJabU9YWjVwZWc?oc=5",
+   "ts": "Mon, 16 Nov 2026 05:04:00 GMT"
   },
   {
    "src": "gnews",
@@ -377,9 +383,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump’s Trade Barriers, AI Reveal New US Dependencies on China - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0NYYUpyZk5yY3hLYU1VcUpTNmQ1NnNpbjNDS3dyemFSa2VzaVVKN1lLc01iekVwUGpGUE95ZmRMYXJraGZ6eFF6VjdMVGE2elE2N2ZJZXYtNEE0WWpPYmMxSnhWc1I2TS1pVHJCMzdiVl9VU1ZSZl9uOGxUTllZb0s5dzROY21qM1B6VXRoLXQ0ZFNPTDJ6TnJDaE1BQXpYel8wZHhXVUtCUDRZOHBtTg?oc=5",
-   "ts": "Mon, 16 Nov 2026 13:05:14 GMT"
+   "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda? - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3F0YmYwUDBReEkyTFRDWnc5b2k2cnVQQ3l5WExtZzdtRi0yT1J6OXdjWUFRb05YYl9ZSHo4bFpJbkRkR29oUVJMRWE1LXRJNnRzMnFVclY1STFjOUE1X2xBajBsQXRyUjNuVkZ1TEhmOG1RRUdHeUxwR1Q5Zk1JeHNKa3EzZHpPdWE3X2lQX1hJZ9IBlwFBVV95cUxQdXFsN29GRHBmQVZoUWlBSk8zRkRsUG02WDR3QVlveTF3RDhUNU9oamxncXNNWFRvMGdpVmR0WkhycnUtdHJQSWJRRlA4VXY3MURUMXQxLXVMeG1PMnBqd1RWaGNfSWtGX1NheTdPYUtUcTNIX2xkbHhhMTRNdlhoVTd5X09oMnBsb3llSmVRNHhKVFU0bGc0?oc=5",
+   "ts": "Mon, 16 Nov 2026 04:34:00 GMT"
   },
   {
    "src": "gnews",
@@ -389,9 +395,9 @@
   },
   {
    "src": "gnews",
-   "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda? - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3F0YmYwUDBReEkyTFRDWnc5b2k2cnVQQ3l5WExtZzdtRi0yT1J6OXdjWUFRb05YYl9ZSHo4bFpJbkRkR29oUVJMRWE1LXRJNnRzMnFVclY1STFjOUE1X2xBajBsQXRyUjNuVkZ1TEhmOG1RRUdHeUxwR1Q5Zk1JeHNKa3EzZHpPdWE3X2lQX1hJZ9IBlwFBVV95cUxQdXFsN29GRHBmQVZoUWlBSk8zRkRsUG02WDR3QVlveTF3RDhUNU9oamxncXNNWFRvMGdpVmR0WkhycnUtdHJQSWJRRlA4VXY3MURUMXQxLXVMeG1PMnBqd1RWaGNfSWtGX1NheTdPYUtUcTNIX2xkbHhhMTRNdlhoVTd5X09oMnBsb3llSmVRNHhKVFU0bGc0?oc=5",
-   "ts": "Mon, 16 Nov 2026 04:34:00 GMT"
+   "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal - The Hill",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmNDaEFOUjhyQ3dSTXZ5c1pkT0hpdEVqT0tmOGk2cVVDZ1pZT3EtNVlLczVuYllZd0ZWRGRBQmxiY0hTMFJTQXE0YWN0dTA3RzA2N3VmM0MtRzNycGpqbHh6RlZKMGtnaEkwRzZYVUxuLWs2U19jQS1HLS1xb01hZi13Yjh5UnFxSXdScDI1bUHSAZYBQVVfeXFMT084UmYyZ2JNVTg5ZFJKR0N4MTR2SFF5ekRwdFdsNnlTeVQ5dExLUmhlclcycVFuUS1TRHFRTnFWWHp3MVQ0ZzBFbFdST0VkWEh2QTRreVZnaGpGRTJKM3h1aHhsVHZ1VXJtZGpJb3N3RjE4RXJ5TFNFeGVrTjF6R1R2akUwaU9LQWdfSHZUeDNqOUY1UVlB?oc=5",
+   "ts": "Sun, 15 Nov 2026 00:26:00 GMT"
   },
   {
    "src": "gnews",
@@ -407,21 +413,9 @@
   },
   {
    "src": "gnews",
-   "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal - The Hill",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmNDaEFOUjhyQ3dSTXZ5c1pkT0hpdEVqT0tmOGk2cVVDZ1pZT3EtNVlLczVuYllZd0ZWRGRBQmxiY0hTMFJTQXE0YWN0dTA3RzA2N3VmM0MtRzNycGpqbHh6RlZKMGtnaEkwRzZYVUxuLWs2U19jQS1HLS1xb01hZi13Yjh5UnFxSXdScDI1bUHSAZYBQVVfeXFMT084UmYyZ2JNVTg5ZFJKR0N4MTR2SFF5ekRwdFdsNnlTeVQ5dExLUmhlclcycVFuUS1TRHFRTnFWWHp3MVQ0ZzBFbFdST0VkWEh2QTRreVZnaGpGRTJKM3h1aHhsVHZ1VXJtZGpJb3N3RjE4RXJ5TFNFeGVrTjF6R1R2akUwaU9LQWdfSHZUeDNqOUY1UVlB?oc=5",
-   "ts": "Sun, 15 Nov 2026 00:26:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China seeks Apec road map for long-envisioned Asia-Pacific free trade area - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeURLLUJ5eG0zcmxZM19RZl96NEJ3Z0dUaGc1QkpsMUJsYjM4eThnVGNEdEhEMXVWRFJCcXg0MmU1UTRqRlRfOHk2STFGQnBxaE4yMUY1X3VhblpyTVNKWEFCMHdaYUJUSXNYa2I2al9ZTUpwQVBmNUsxQmhnRFJjc0dqczU0RTdOVlpfMHAzN0dlUFlsWHdUdWtvZElXTWh0eGJDN2FadzluR3NiNWNoc28zbl9aMWlsOWxGcXRKUUdYYkwyQWJONWt30gHKAUFVX3lxTE5ScFU5aF9ONTRXeDQ3RGM3ZkJnei1uZTllbzZoVnZDVm1IZF9RVHpvUXNaZ2dOcDJHSTY2TGZuXzdnYlpNaUpFTUV6SGNrNWwxSDJxcVAzMU5lOHl6cjY4bnN1VElVYk9ycWMtNWxVb0pkV1FGN2dxcWw3blJ0M0k0djlwMzVNaWVPaWZ3YWhCVUJhZy15cjBwWFM1TlNRajFRYThUZW5XQWhtYXFINFlLWGQzT0U5bmdHTDhpT0xIUkdCMG5IOXdzQWc?oc=5",
    "ts": "Mon, 16 Nov 2026 12:22:56 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Why Canada’s China trade shift matters for investors - Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUVg2X0w0WWdWQ0tXemh2WjhiY1ZmUzJhMU5tYlRVUkRLUVNXZ0ZYTXk2X0gzMFVya2tWLVF0THpfZVUwS3hYZXlFZk9Dc3dLLUNDWWFILUp1aDgyWjJpWlVGNmZSZkNYX0lSeEFvWFlFT21pY2lDbG1uMmtwREZaMVp3dw?oc=5",
-   "ts": "Mon, 16 Nov 2026 11:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -431,9 +425,9 @@
   },
   {
    "src": "gnews",
-   "title": "Canada Has ‘Eyes Wide Open’ in Push for Deeper China Trade Ties - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNE5OV29NU2xOdjZvWU50WnIzcFdiRUUyc0VoTE5oSnNibV94WUZacG4wbVBKeDF1NUdVU19mRGk5cjBHYWh1VjJQNDF4a1dpM2xWZ1VzZldxS1psODNsQXZXa25JUDR2RGFjVkJxYkZoLWR0bVpNd0QwVkEtbkg4UlVyZUFFb05yaHFsa2ZzSEU0UWZDa3VfUGZkbF9mdENCX1NNWUh0U1F1eTRweWlPQWNn?oc=5",
-   "ts": "Sun, 15 Nov 2026 23:00:00 GMT"
+   "title": "Modi Heads to Manila With Maritime, Trade, Trump on Agenda - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMWJUbG5TbTFzdHFSMXMyMzBlcmMwNHhPYUZoNVB4X01YNkpsNWNBTDJVUVMzUTIzUmhvdGM0WkVpeGVSSU9nREZaRkFEcHRHcXkwYWhydmxXRGNUalpWUGV4T1hBWVhyNmgtbV9WN2pNR3gwQzV1RnpqNjhNR3l3THJ2N1lmbXAxX3lHUjltZHdERW9IVW1ReFktbzN3MGE5OENSSkEtal9yMk0?oc=5",
+   "ts": "Mon, 16 Nov 2026 11:10:32 GMT"
   },
   {
    "src": "gnews",
@@ -443,9 +437,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trafigura Is Key Player in LME Aluminum Squeeze With China Trade - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSTlHdGJudFBBbEQ1V2tkY09oZ3Q2b050dkc2RnU0ejhoWV93M1phbnNMa096ZTdRd0p2TEd6TmFWS1Npa1pTY1lkWGlGVkM4RENSSnVMVHhMRjFmTE1Wb2VLQldiRWJYaU1XVXkwYzZ6NldRT0hGbDlmVlpuaU5ydUNJM0Z5ZGFSSkxoWHcyMTl2amVmQ05ORlJXOHhsTU5YUDhJSERlcmJKb1gteFcxT2pDZXZmdw?oc=5",
-   "ts": "Fri, 13 Nov 2026 10:32:22 GMT"
+   "title": "Canada Has ‘Eyes Wide Open’ in Push for Deeper China Trade Ties - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNE5OV29NU2xOdjZvWU50WnIzcFdiRUUyc0VoTE5oSnNibV94WUZacG4wbVBKeDF1NUdVU19mRGk5cjBHYWh1VjJQNDF4a1dpM2xWZ1VzZldxS1psODNsQXZXa25JUDR2RGFjVkJxYkZoLWR0bVpNd0QwVkEtbkg4UlVyZUFFb05yaHFsa2ZzSEU0UWZDa3VfUGZkbF9mdENCX1NNWUh0U1F1eTRweWlPQWNn?oc=5",
+   "ts": "Sun, 15 Nov 2026 23:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Why Canada’s China trade shift matters for investors - Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUVg2X0w0WWdWQ0tXemh2WjhiY1ZmUzJhMU5tYlRVUkRLUVNXZ0ZYTXk2X0gzMFVya2tWLVF0THpfZVUwS3hYZXlFZk9Dc3dLLUNDWWFILUp1aDgyWjJpWlVGNmZSZkNYX0lSeEFvWFlFT21pY2lDbG1uMmtwREZaMVp3dw?oc=5",
+   "ts": "Mon, 16 Nov 2026 11:00:00 GMT"
   },
   {
    "src": "gnews",

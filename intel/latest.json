@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-16T05:45:18Z",
+ "ts": "2026-11-16T06:00:33Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
   }
  },
  "items": [
@@ -413,9 +413,9 @@
   },
   {
    "src": "gnews",
-   "title": "The China Shock in the AI Era - Time Magazine",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kVHNxLWdkakZXWEpaa2tHUkwxTnhOYVFqUEgzT0N5cWxzUjZTclZ5N2NHX3pDOGpBOWNYQkNWV3RlaFktOHZNNG1UVHUtRDRmMmI1NjktcTBSalp4NHN3M1JvNEtsWWd2UW5iMTlIblI1azN2?oc=5",
-   "ts": "Sat, 14 Nov 2026 12:00:04 GMT"
+   "title": "World leaders at the summit in Manila seek an alternative to the United States because of Trump's trade policy – Bloomberg - Українські Національні Новини (УНН)",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeVBObkZuNVFIMjFGLUtfS0pYQ0p3ZGk3eUwzc1E3b0pXS0t2TERPUHdBSGFaTFhqYmNpSFVXLXlaUVFZM1JxN0RlX05SZXZWcVVnUG0xLXVteFZ3YnZsSnY2OUwzSXg3VE5BbHdheEIxWXU1TEtYTzRfNVRFQmdnMkFtQ2Z1eExPYXdlN1NZRVRseUQyYmF2cHBVY0syU1hJWXVxYjNFN0RBUW1ZTzJCbkNKM09VcVNjOGdMNDhnQWJyUWRMRm54dXhmdDdxNUhkQWdfbDZ2elJHZ9IB2AFBVV95cUxQYmNSdWRycWpXc0puUjcxZ3dDZm9fRXd6UU5sVEtiX3llNGZ1clZ6TndtSHd6anBTdXYwREFFOHIzUlhrVkoydzRyRlExQ2hRWnhkUVBwZ0k4eGZfNXYyMElhajRPUGk2RjZuS3R1cVE3UFNzMHVuWFAxZVZ3dnhDRXdKbDFLMFExY3VIazZBc2NJZzZaOVNNTVprYl9hMzZLazFGLXZqM1FvWXB1ZzA5UThKbnplSkZJNnRPSmlad3RMTHFjQlFOcVVuRkRHeGlpRTQtZlZKY2g?oc=5",
+   "ts": "Mon, 16 Nov 2026 00:56:54 GMT"
   },
   {
    "src": "gnews",
@@ -449,15 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China - Business Insider Africa",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
-   "ts": "Sat, 14 Nov 2026 20:44:32 GMT"
+   "title": "The China Shock in the AI Era - Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kVHNxLWdkakZXWEpaa2tHUkwxTnhOYVFqUEgzT0N5cWxzUjZTclZ5N2NHX3pDOGpBOWNYQkNWV3RlaFktOHZNNG1UVHUtRDRmMmI1NjktcTBSalp4NHN3M1JvNEtsWWd2UW5iMTlIblI1azN2?oc=5",
+   "ts": "Sat, 14 Nov 2026 12:00:04 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trade war in focus at ASEAN summit ahead of Trump arrival - AFP.com",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KRjN4SVVtelFYUll1UFNPeG05SGZBd2Vta2NCNzhKaEItdTVVQ1pEWkZfdktWNm55U0JpcmJrT3REZDU0Rmk4cWdSamFWRmtxWWpIWVhXTG5pckI1enF0bXI4UTUxTlFhV0VlNnlwa21paUtBX2RZYy1oVQ?oc=5",
-   "ts": "Sun, 15 Nov 2026 09:06:58 GMT"
+   "title": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China - Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
+   "ts": "Sat, 14 Nov 2026 20:44:32 GMT"
   }
  ]
 }

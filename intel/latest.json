@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-16T07:45:17Z",
+ "ts": "2026-11-16T08:00:32Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -407,9 +407,21 @@
   },
   {
    "src": "gnews",
+   "title": "The China Shock in the AI Era - Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kVHNxLWdkakZXWEpaa2tHUkwxTnhOYVFqUEgzT0N5cWxzUjZTclZ5N2NHX3pDOGpBOWNYQkNWV3RlaFktOHZNNG1UVHUtRDRmMmI1NjktcTBSalp4NHN3M1JvNEtsWWd2UW5iMTlIblI1azN2?oc=5",
+   "ts": "Sat, 14 Nov 2026 12:00:04 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
    "ts": "Sat, 14 Nov 2026 08:38:39 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Canada Has ‘Eyes Wide Open’ in Push for Deeper China Trade Ties - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNE5OV29NU2xOdjZvWU50WnIzcFdiRUUyc0VoTE5oSnNibV94WUZacG4wbVBKeDF1NUdVU19mRGk5cjBHYWh1VjJQNDF4a1dpM2xWZ1VzZldxS1psODNsQXZXa25JUDR2RGFjVkJxYkZoLWR0bVpNd0QwVkEtbkg4UlVyZUFFb05yaHFsa2ZzSEU0UWZDa3VfUGZkbF9mdENCX1NNWUh0U1F1eTRweWlPQWNn?oc=5",
+   "ts": "Sun, 15 Nov 2026 23:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -419,9 +431,9 @@
   },
   {
    "src": "gnews",
-   "title": "Canada Has ‘Eyes Wide Open’ in Push for Deeper China Trade Ties - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNE5OV29NU2xOdjZvWU50WnIzcFdiRUUyc0VoTE5oSnNibV94WUZacG4wbVBKeDF1NUdVU19mRGk5cjBHYWh1VjJQNDF4a1dpM2xWZ1VzZldxS1psODNsQXZXa25JUDR2RGFjVkJxYkZoLWR0bVpNd0QwVkEtbkg4UlVyZUFFb05yaHFsa2ZzSEU0UWZDa3VfUGZkbF9mdENCX1NNWUh0U1F1eTRweWlPQWNn?oc=5",
-   "ts": "Sun, 15 Nov 2026 23:00:00 GMT"
+   "title": "Chinese premier lauds 'extraordinary' ties with ASEAN ahead of Trump visit - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0MyZ3lxSkpUNXBvTUJuRGgta0lValdjb1dfQmpMVGJVdGNjVDU4ck9aZ1NtOGlUN0NkeXpsZklCcm1LeEJfRy02ZENUMHIxWkRHbVZ0YUxlNjNGTzBaUmhLOVIxVVZHcldFY2FZV1diOFFzSGJycjFPVk1UUkJBYUNza1RGNHhTYndPaVdUU21xempNRTZSMGFUdUdVZC1aM1QzSGtNakRudldZYjNkZG9oR1pLWkhW?oc=5",
+   "ts": "Mon, 16 Nov 2026 05:40:00 GMT"
   },
   {
    "src": "gnews",
@@ -437,21 +449,9 @@
   },
   {
    "src": "gnews",
-   "title": "The China Shock in the AI Era - Time Magazine",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kVHNxLWdkakZXWEpaa2tHUkwxTnhOYVFqUEgzT0N5cWxzUjZTclZ5N2NHX3pDOGpBOWNYQkNWV3RlaFktOHZNNG1UVHUtRDRmMmI1NjktcTBSalp4NHN3M1JvNEtsWWd2UW5iMTlIblI1azN2?oc=5",
-   "ts": "Sat, 14 Nov 2026 12:00:04 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney Draws Red Line On Trump Trade Deal Over Auto Jobs - Newsweek",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZm84Z0c0b3VhY2pNckJZUUxxcW80NUJEMVJjeUFGa2QweVhwRXFDU1VOeWltYnZJRFl4U2JkdGdlV2d4akNUYldYYUJfeEdtSEdtMXlaOFNVaGJqWF9DV0hKaXplUnpIMjlSZHdiQWhDRVdSS29nSnhMWXlFZVVqMTlFZF9wWUJuUjhzd2FR?oc=5",
    "ts": "Sat, 14 Nov 2026 12:01:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trade War in Focus at ASEAN Summit Ahead of Trump Arrival - The China-Global South Project",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdU9oTm50SnVKa29oeERrQnJmLVU0eEVubEo0LXFLNnFDalpnNEJOQVVHOVZXVW9xTXRJMmUxcWVEbl9yY3I5NmRqM3I0QTFma1gzQzJSZ3hXdFIxb24yWHRZanUwVUhwRUxTSnVEU1ZXbERvMGdXcE5mRmhWRFdMM1JkLTJ5Q0JFUUlkR180MVg?oc=5",
-   "ts": "Mon, 16 Nov 2026 01:19:45 GMT"
   },
   {
    "src": "gnews",

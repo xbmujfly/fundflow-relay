@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-16T12:45:18Z",
+ "ts": "2026-11-16T13:00:24Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -359,21 +359,21 @@
   },
   {
    "src": "gnews",
-   "title": "Washington Week Ahead: China trade, ag forum, permit reform on tap - Agri-Pulse Communications, Inc.",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGZWbk5EbTU1bnlsNzRrS3FvRmI4WTlwZ0dIVEQ4OGFLNHVMM09lUXUxc3FWbmY2U2I5d0tuaUk5Z045aGw3MkhjOTFBU0IteHlJV1VpYkViQ0w5TThWelRJN3U4MG1USENHa3VwdW9nekRLYzlIb0FWXzdvVU4yWHJHMkEwOTRwWjQ5VnRqcDBvS094VlY4UWdrZ3RBc0M0SWUwYWRiOVQ?oc=5",
-   "ts": "Sun, 15 Nov 2026 23:44:10 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Nvidia’s Scandal Gives China Hawks Ammunition—and Puts the Trade Truce in Peril - Barron's",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMTEtXzVlTWc0akNpWjk1bVlfWE51YVFJZDhwNmxoMlFHMWxGSmN0OTVTc2NzSFlCWkRtT1VmVk13U0R2Slk1S251UzNQZmViVWdOdmlwVjU3LUFOeTB3ampKOUxJOGk1WlZtWng3YVVpb09mRGZtMUdSczZOZ0k5ZHVqU1FGaXNqNHFkV3hOTXQ?oc=5",
    "ts": "Mon, 16 Nov 2026 11:30:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
-   "ts": "Sat, 14 Nov 2026 08:38:39 GMT"
+   "title": "Spy scandal and midterm defeat heat up Trump's Asia visit - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOenFHNWhhY2RJR3NNRHFqQ1pSaXRHMVM2VEN1WURVVTJjRFNJbXp2WnlZcE5PLUlIOWpVS3YxWm93NlFkVnpKYy1HdkFYYV9qczhGM21ERmpMX1RUUU9hNnEtZzNjdV9vVDVHVks5VG9xYVBQYmdZR0RPUFJHNThLQWs5b0NwM2UwS0N0cXRzcTZiclRKdmRjSlJabU9YWjVwZWc?oc=5",
+   "ts": "Mon, 16 Nov 2026 05:04:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Washington Week Ahead: China trade, ag forum, permit reform on tap - Agri-Pulse Communications, Inc.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGZWbk5EbTU1bnlsNzRrS3FvRmI4WTlwZ0dIVEQ4OGFLNHVMM09lUXUxc3FWbmY2U2I5d0tuaUk5Z045aGw3MkhjOTFBU0IteHlJV1VpYkViQ0w5TThWelRJN3U4MG1USENHa3VwdW9nekRLYzlIb0FWXzdvVU4yWHJHMkEwOTRwWjQ5VnRqcDBvS094VlY4UWdrZ3RBc0M0SWUwYWRiOVQ?oc=5",
+   "ts": "Sun, 15 Nov 2026 23:44:10 GMT"
   },
   {
    "src": "gnews",
@@ -419,9 +419,9 @@
   },
   {
    "src": "gnews",
-   "title": "Spy scandal and midterm defeat heat up Trump's Asia visit - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOenFHNWhhY2RJR3NNRHFqQ1pSaXRHMVM2VEN1WURVVTJjRFNJbXp2WnlZcE5PLUlIOWpVS3YxWm93NlFkVnpKYy1HdkFYYV9qczhGM21ERmpMX1RUUU9hNnEtZzNjdV9vVDVHVks5VG9xYVBQYmdZR0RPUFJHNThLQWs5b0NwM2UwS0N0cXRzcTZiclRKdmRjSlJabU9YWjVwZWc?oc=5",
-   "ts": "Mon, 16 Nov 2026 05:04:00 GMT"
+   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
+   "ts": "Sat, 14 Nov 2026 08:38:39 GMT"
   },
   {
    "src": "gnews",
@@ -432,7 +432,7 @@
   {
    "src": "gnews",
    "title": "China seeks Apec road map for long-envisioned Asia-Pacific free trade area - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeURLLUJ5eG0zcmxZM19RZl96NEJ3Z0dUaGc1QkpsMUJsYjM4eThnVGNEdEhEMXVWRFJCcXg0MmU1UTRqRlRfOHk2STFGQnBxaE4yMUY1X3VhblpyTVNKWEFCMHdaYUJUSXNYa2I2al9ZTUpwQVBmNUsxQmhnRFJjc0dqczU0RTdOVlpfMHAzN0dlUFlsWHdUdWtvZElXTWh0eGJDN2FadzluR3NiNWNoc28zbl9aMWlsOWxGcXRKUUdYYkwyQWJONWt3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeURLLUJ5eG0zcmxZM19RZl96NEJ3Z0dUaGc1QkpsMUJsYjM4eThnVGNEdEhEMXVWRFJCcXg0MmU1UTRqRlRfOHk2STFGQnBxaE4yMUY1X3VhblpyTVNKWEFCMHdaYUJUSXNYa2I2al9ZTUpwQVBmNUsxQmhnRFJjc0dqczU0RTdOVlpfMHAzN0dlUFlsWHdUdWtvZElXTWh0eGJDN2FadzluR3NiNWNoc28zbl9aMWlsOWxGcXRKUUdYYkwyQWJONWt30gHKAUFVX3lxTE5ScFU5aF9ONTRXeDQ3RGM3ZkJnei1uZTllbzZoVnZDVm1IZF9RVHpvUXNaZ2dOcDJHSTY2TGZuXzdnYlpNaUpFTUV6SGNrNWwxSDJxcVAzMU5lOHl6cjY4bnN1VElVYk9ycWMtNWxVb0pkV1FGN2dxcWw3blJ0M0k0djlwMzVNaWVPaWZ3YWhCVUJhZy15cjBwWFM1TlNRajFRYThUZW5XQWhtYXFINFlLWGQzT0U5bmdHTDhpT0xIUkdCMG5IOXdzQWc?oc=5",
    "ts": "Mon, 16 Nov 2026 12:22:56 GMT"
   },
   {
@@ -449,15 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "I voted to open trade with China. 25 years later, it’s time for us to fix that mistake - Fox News",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRnIzb252dTQzR1k3T3hkNnhROENFcnVpT0F1QTdEY3lvLVIwRjNFeGUwZ1FaN2FaTVQ4OXUzY1lNRkRfSnItUFFxck9SUTJ4VjkzZlV4VzBXSnp3bDFuMW1wVFJXQlZ1RTR1V1VYWjZBNy04c0xabWd6RXRHNHlsMWk0ZlJCT3BTTVlncFZRONIBlAFBVV95cUxPMDhLakloanQtM1JZSW9VazZzNFB4Zm1IU0V0c1ptbWF6NXhzQ18tVWpUc1pELUl5NmxLUGt3T3I4bVRiU1pnRF9Hc3czSEw1LUdKVnFxRmc2NlFGN0RqRWRma1lCNXh5bTIyVFlZOGl4aC0xXzdWNlRMX1RxWmIyTlZOTUFMeW9aeHhlMG4zUEJmR2JC?oc=5",
-   "ts": "Mon, 16 Nov 2026 10:00:58 GMT"
+   "title": "Trafigura Is Key Player in LME Aluminum Squeeze With China Trade - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSTlHdGJudFBBbEQ1V2tkY09oZ3Q2b050dkc2RnU0ejhoWV93M1phbnNMa096ZTdRd0p2TEd6TmFWS1Npa1pTY1lkWGlGVkM4RENSSnVMVHhMRjFmTE1Wb2VLQldiRWJYaU1XVXkwYzZ6NldRT0hGbDlmVlpuaU5ydUNJM0Z5ZGFSSkxoWHcyMTl2amVmQ05ORlJXOHhsTU5YUDhJSERlcmJKb1gteFcxT2pDZXZmdw?oc=5",
+   "ts": "Fri, 13 Nov 2026 10:32:22 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China - Business Insider Africa",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
-   "ts": "Sat, 14 Nov 2026 20:44:32 GMT"
+   "title": "I voted to open trade with China. 25 years later, it’s time for us to fix that mistake - Fox News",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRnIzb252dTQzR1k3T3hkNnhROENFcnVpT0F1QTdEY3lvLVIwRjNFeGUwZ1FaN2FaTVQ4OXUzY1lNRkRfSnItUFFxck9SUTJ4VjkzZlV4VzBXSnp3bDFuMW1wVFJXQlZ1RTR1V1VYWjZBNy04c0xabWd6RXRHNHlsMWk0ZlJCT3BTTVlncFZRONIBlAFBVV95cUxPMDhLakloanQtM1JZSW9VazZzNFB4Zm1IU0V0c1ptbWF6NXhzQ18tVWpUc1pELUl5NmxLUGt3T3I4bVRiU1pnRF9Hc3czSEw1LUdKVnFxRmc2NlFGN0RqRWRma1lCNXh5bTIyVFlZOGl4aC0xXzdWNlRMX1RxWmIyTlZOTUFMeW9aeHhlMG4zUEJmR2JC?oc=5",
+   "ts": "Mon, 16 Nov 2026 10:00:58 GMT"
   }
  ]
 }

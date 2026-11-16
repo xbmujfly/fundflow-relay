@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-16T15:30:25Z",
+ "ts": "2026-11-16T23:00:19Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -29,8 +29,9 @@
    "err": "HTTPError: HTTP Error 403: Forbidden"
   },
   "gnews": {
-   "ok": true,
-   "n": 25
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   "gdelt": {
    "ok": false,
@@ -39,6 +40,12 @@
   }
  },
  "items": [
+  {
+   "src": "whitehouse",
+   "title": "Nominations Sent to the Senate",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864/",
+   "ts": "Mon, 16 Nov 2026 20:50:09 +0000"
+  },
   {
    "src": "whitehouse",
    "title": "Nominations Sent to the Senate",
@@ -152,12 +159,6 @@
    "title": "Columbus Day, 2026",
    "url": "https://www.whitehouse.gov/presidential-actions/2026/10/columbus-day-2026/",
    "ts": "Wed, 07 Oct 2026 19:47:48 +0000"
-  },
-  {
-   "src": "whitehouse",
-   "title": "Emergency Tax Relief on Diesel Fuel",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/emergency-tax-relief-on-diesel-fuel/",
-   "ts": "Tue, 06 Oct 2026 01:13:53 +0000"
   },
   {
    "src": "ustr",
@@ -338,126 +339,6 @@
    "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
    "ts": "Fri, 25 Sep 2026 20:30:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
-   "ts": "Mon, 16 Nov 2026 11:03:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump's tariffs are unpopular - but they'll be tough to repeal despite Democrats' landslide win - Alabama Daily News",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR0M5WUtsbldROEFWeTI3bmJQMVhuZnFpRGp6ZEdfTFoyVmRra3lTbFM5R0tBaG1iTC1Hc3Z5WHRhTUtHbmp6WExGMHRUZW5HVHpFUUZFMGRvU2tKc2VhRVBGSHZLajBoT0t5VmhIbXdrODZ6M3RoemMtUFBZeTEyRG9ubU1YdlRWYm5MYUNVdkNvNE8zaVEzUGJ2OUcxSWFUZ1YzcURVNFZ3TXhObUlQT2lzR0ZJQQ?oc=5",
-   "ts": "Mon, 16 Nov 2026 13:46:59 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump’s Trade Barriers, AI Reveal New US Dependencies on China - Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0NYYUpyZk5yY3hLYU1VcUpTNmQ1NnNpbjNDS3dyemFSa2VzaVVKN1lLc01iekVwUGpGUE95ZmRMYXJraGZ6eFF6VjdMVGE2elE2N2ZJZXYtNEE0WWpPYmMxSnhWc1I2TS1pVHJCMzdiVl9VU1ZSZl9uOGxUTllZb0s5dzROY21qM1B6VXRoLXQ0ZFNPTDJ6TnJDaE1BQXpYel8wZHhXVUtCUDRZOHBtTg?oc=5",
-   "ts": "Mon, 16 Nov 2026 13:05:14 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China trade relations face fresh tests - FarmWeekNow",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV1AwTDVYSlkyY1VPZWxuY3V4SmJUVU5iY1B2eHl5RVVEZmt6WkxraEhSNWhjVENnaEJpNnljeTk0SWM5RnBZdktnS05rMlVrYTVWdGw2aDNyQmdhVHBpdU1VWTNBeWdWZ05iLWk3T3FXZm9XUGRzR2dWbmhIRVNjTDVVRF93NVpybTYyM3VfLTE5WnlWdEIxcjJDUE43Sko0ekxRU1FvSXpqV3NtamFOb1V0WFlJQ1NSX2trZGpYRXQyU3hpeXFFOU9CUk9saUlWaFlZ?oc=5",
-   "ts": "Mon, 16 Nov 2026 06:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Demand for Chinese Goods Is Soaring but Economic Momentum Slows at Home - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTVl1aGxrVkh0SGpPTXRaUHpEM0lTTmQtdHEySlRNWE9vbVh4OWJwTlBocGpiQzBrVHg0RGFndGZkRGFGWWdxb3RMdHBsc1c3alFpbFNqVUxEVm1yUUwwN2F3NnpOQl9vZVpPbS1uZnJ3UFJyVXpCQ0FIc2FYNWI3b05haGVNVG1IY2xB?oc=5",
-   "ts": "Mon, 16 Nov 2026 06:59:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Spy scandal and midterm defeat heat up Trump's Asia visit - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOenFHNWhhY2RJR3NNRHFqQ1pSaXRHMVM2VEN1WURVVTJjRFNJbXp2WnlZcE5PLUlIOWpVS3YxWm93NlFkVnpKYy1HdkFYYV9qczhGM21ERmpMX1RUUU9hNnEtZzNjdV9vVDVHVks5VG9xYVBQYmdZR0RPUFJHNThLQWs5b0NwM2UwS0N0cXRzcTZiclRKdmRjSlJabU9YWjVwZWc?oc=5",
-   "ts": "Mon, 16 Nov 2026 05:04:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal - The Hill",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmNDaEFOUjhyQ3dSTXZ5c1pkT0hpdEVqT0tmOGk2cVVDZ1pZT3EtNVlLczVuYllZd0ZWRGRBQmxiY0hTMFJTQXE0YWN0dTA3RzA2N3VmM0MtRzNycGpqbHh6RlZKMGtnaEkwRzZYVUxuLWs2U19jQS1HLS1xb01hZi13Yjh5UnFxSXdScDI1bUHSAZYBQVVfeXFMT084UmYyZ2JNVTg5ZFJKR0N4MTR2SFF5ekRwdFdsNnlTeVQ5dExLUmhlclcycVFuUS1TRHFRTnFWWHp3MVQ0ZzBFbFdST0VkWEh2QTRreVZnaGpGRTJKM3h1aHhsVHZ1VXJtZGpJb3N3RjE4RXJ5TFNFeGVrTjF6R1R2akUwaU9LQWdfSHZUeDNqOUY1UVlB?oc=5",
-   "ts": "Sun, 15 Nov 2026 00:26:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Canada’s Leader, Once a Curiosity at Asia Summits, Is Now a Star - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdTVOWXJpNHRrbEdDLUZabTFFX2lvR0R0RE54bl9DMVFhZ1d3RTVSX0N1ZWVQV196V2szUGJjXzNjZkE5QS1kekVReDhHS2hfVU1keTg3a3AzaElhSUhNeU80Mm5IVXZ0ei1WOEVRcjlfdWMzZWYzV01JUnNUQklUOVphY083OE15ZFVyaUZuTQ?oc=5",
-   "ts": "Mon, 16 Nov 2026 13:22:53 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "The Trump-Xi Talks Just Got More Complicated - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbzZTMTRGV3Z3S0hSQUlJS19RdnlYRnppdkVVbFBETElPMVowYW9ZOWJuS3VnZFJNa2NUZWNmMmtjUVI3N1JVWEd3SjlNbm1iOVJJNW5SWTJsSERONThYcW16aHp1Nk1MWE1hSVpBQlZ0eWZkOW9nS1A2bjlZMGRVZQ?oc=5",
-   "ts": "Mon, 16 Nov 2026 14:19:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Washington Week Ahead: China trade, ag forum, permit reform on tap - Agri-Pulse Communications, Inc.",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGZWbk5EbTU1bnlsNzRrS3FvRmI4WTlwZ0dIVEQ4OGFLNHVMM09lUXUxc3FWbmY2U2I5d0tuaUk5Z045aGw3MkhjOTFBU0IteHlJV1VpYkViQ0w5TThWelRJN3U4MG1USENHa3VwdW9nekRLYzlIb0FWXzdvVU4yWHJHMkEwOTRwWjQ5VnRqcDBvS094VlY4UWdrZ3RBc0M0SWUwYWRiOVQ?oc=5",
-   "ts": "Sun, 15 Nov 2026 23:44:10 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump travels to China for meetings with Xi to talk trade and denuclearization, but one major topic isn’t on the agenda - MS NOW",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeGZqSmJZLW1GM2Z4c3QzV3Jidlc0YUNsZWJ3WEJMZk9IUEkwMFJ6b2hCNmxYdm1wbzBVRkRsZlVfWElVaUtoc1VlMndlMWtZUXlvcExyUmgyYVROYmhxbG8zMlJraEtCLWhrMzRJbUsxcVFXMF96YUladkpJRnR3bTlXS1RiUGtlOHFKVEdSeHdBeFJxZU1YTHVRemk?oc=5",
-   "ts": "Mon, 16 Nov 2026 14:17:36 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda? - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3F0YmYwUDBReEkyTFRDWnc5b2k2cnVQQ3l5WExtZzdtRi0yT1J6OXdjWUFRb05YYl9ZSHo4bFpJbkRkR29oUVJMRWE1LXRJNnRzMnFVclY1STFjOUE1X2xBajBsQXRyUjNuVkZ1TEhmOG1RRUdHeUxwR1Q5Zk1JeHNKa3EzZHpPdWE3X2lQX1hJZ9IBlwFBVV95cUxQdXFsN29GRHBmQVZoUWlBSk8zRkRsUG02WDR3QVlveTF3RDhUNU9oamxncXNNWFRvMGdpVmR0WkhycnUtdHJQSWJRRlA4VXY3MURUMXQxLXVMeG1PMnBqd1RWaGNfSWtGX1NheTdPYUtUcTNIX2xkbHhhMTRNdlhoVTd5X09oMnBsb3llSmVRNHhKVFU0bGc0?oc=5",
-   "ts": "Mon, 16 Nov 2026 04:34:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "How Congress might take back its trade powers and limit Trump's tariffs - Peterson Institute for International Economics",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd3dkbjI5MjdTckFXd2lKQk5VWTJybnlhMzVIVWRNLTdjQXA5aEQ2U2g0SjdETDRTSEtiLXBQS2JpQWwzQXNPNVhKMXpfRm16ckJNYTdTUl9iRnBqTmFrRnptLW1NWmVVUzd6QUVPTl90QlR6MUdBVEVINDJ3VG9lWDBEbWMwQjZTcUhxTThDeXlOREFBcEc3QTk2Qlo1QUZkd29kT3FsMG8wNkhpRzVnZWVDTQ?oc=5",
-   "ts": "Fri, 13 Nov 2026 16:57:34 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump Heads to China as Trade Truce Raises Stakes for American Farmers - AgroLatam",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWEltb3E1VlQ3eW9KSTBjOHViQ1RtdW4wUnkyazQyZC1DcWRVbzZjRXhWRzNHVDduTzhLbXRBUS1XYjdFYnRjUkJoS3AwT1l0dThmMXMteUlwdWJNTm5qamtCY0hocnMybnNENHF5LV90VUlEd2lLY0haSzlZUkdvV3ZZUEsxZ00?oc=5",
-   "ts": "Mon, 16 Nov 2026 12:18:51 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China seeks Apec road map for long-envisioned Asia-Pacific free trade area - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeURLLUJ5eG0zcmxZM19RZl96NEJ3Z0dUaGc1QkpsMUJsYjM4eThnVGNEdEhEMXVWRFJCcXg0MmU1UTRqRlRfOHk2STFGQnBxaE4yMUY1X3VhblpyTVNKWEFCMHdaYUJUSXNYa2I2al9ZTUpwQVBmNUsxQmhnRFJjc0dqczU0RTdOVlpfMHAzN0dlUFlsWHdUdWtvZElXTWh0eGJDN2FadzluR3NiNWNoc28zbl9aMWlsOWxGcXRKUUdYYkwyQWJONWt30gHKAUFVX3lxTE5ScFU5aF9ONTRXeDQ3RGM3ZkJnei1uZTllbzZoVnZDVm1IZF9RVHpvUXNaZ2dOcDJHSTY2TGZuXzdnYlpNaUpFTUV6SGNrNWwxSDJxcVAzMU5lOHl6cjY4bnN1VElVYk9ycWMtNWxVb0pkV1FGN2dxcWw3blJ0M0k0djlwMzVNaWVPaWZ3YWhCVUJhZy15cjBwWFM1TlNRajFRYThUZW5XQWhtYXFINFlLWGQzT0U5bmdHTDhpT0xIUkdCMG5IOXdzQWc?oc=5",
-   "ts": "Mon, 16 Nov 2026 12:22:56 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
-   "ts": "Sat, 14 Nov 2026 08:38:39 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Australia Warns China Iron Ore Push Could Breach Trade Rules - Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYm1uVkdRajZyYm1PUm9EX1lLVm82a3JUcDhxajFfcVIxdDJDdExxMW9PZjJEVURmMll2QzhHTWwxUy1pXzk1U0V2bG8xUmVRXzh2Z1VTZVU5bklJM2VQS3d6eW43TzVaenNLR0t3V0hGVEhvU1VIOWVJeWhxajJBNGtta0pXRDJheHJIYjhNZ2VZNXIteGw5SjZBRDBqUEx5TEJPbkJYS3MyQUxielJWZg?oc=5",
-   "ts": "Sun, 15 Nov 2026 23:35:37 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Canada Has ‘Eyes Wide Open’ in Push for Deeper China Trade Ties - Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNE5OV29NU2xOdjZvWU50WnIzcFdiRUUyc0VoTE5oSnNibV94WUZacG4wbVBKeDF1NUdVU19mRGk5cjBHYWh1VjJQNDF4a1dpM2xWZ1VzZldxS1psODNsQXZXa25JUDR2RGFjVkJxYkZoLWR0bVpNd0QwVkEtbkg4UlVyZUFFb05yaHFsa2ZzSEU0UWZDa3VfUGZkbF9mdENCX1NNWUh0U1F1eTRweWlPQWNn?oc=5",
-   "ts": "Sun, 15 Nov 2026 23:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Is the U.S.–China Trade Truce Changing Taiwan's Chip Strategy?｜Industry｜2026-11-16｜web only - 天下雜誌",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pX1pHRkU0Zm5HNTVUSnR5ZHlQeTBfeVZVWUFVcG1Hb3M5T3ItN0l2TzNBT1oxWm9iTkxQQzFfdWV2aUlwZUZPRDdOcEJyMVJlaGZWZk1Ja0Q3ajBESkVxdUdXZ2l1dFU?oc=5",
-   "ts": "Mon, 16 Nov 2026 15:23:19 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Why Canada’s China trade shift matters for investors - Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUVg2X0w0WWdWQ0tXemh2WjhiY1ZmUzJhMU5tYlRVUkRLUVNXZ0ZYTXk2X0gzMFVya2tWLVF0THpfZVUwS3hYZXlFZk9Dc3dLLUNDWWFILUp1aDgyWjJpWlVGNmZSZkNYX0lSeEFvWFlFT21pY2lDbG1uMmtwREZaMVp3dw?oc=5",
-   "ts": "Mon, 16 Nov 2026 11:00:00 GMT"
   }
  ]
 }

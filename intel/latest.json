@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-16T02:15:18Z",
+ "ts": "2026-11-16T02:30:22Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -365,15 +365,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal - The Hill",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmNDaEFOUjhyQ3dSTXZ5c1pkT0hpdEVqT0tmOGk2cVVDZ1pZT3EtNVlLczVuYllZd0ZWRGRBQmxiY0hTMFJTQXE0YWN0dTA3RzA2N3VmM0MtRzNycGpqbHh6RlZKMGtnaEkwRzZYVUxuLWs2U19jQS1HLS1xb01hZi13Yjh5UnFxSXdScDI1bUHSAZYBQVVfeXFMT084UmYyZ2JNVTg5ZFJKR0N4MTR2SFF5ekRwdFdsNnlTeVQ5dExLUmhlclcycVFuUS1TRHFRTnFWWHp3MVQ0ZzBFbFdST0VkWEh2QTRreVZnaGpGRTJKM3h1aHhsVHZ1VXJtZGpJb3N3RjE4RXJ5TFNFeGVrTjF6R1R2akUwaU9LQWdfSHZUeDNqOUY1UVlB?oc=5",
-   "ts": "Sun, 15 Nov 2026 00:26:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "How Congress might take back its trade powers and limit Trump's tariffs - Peterson Institute for International Economics",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd3dkbjI5MjdTckFXd2lKQk5VWTJybnlhMzVIVWRNLTdjQXA5aEQ2U2g0SjdETDRTSEtiLXBQS2JpQWwzQXNPNVhKMXpfRm16ckJNYTdTUl9iRnBqTmFrRnptLW1NWmVVUzd6QUVPTl90QlR6MUdBVEVINDJ3VG9lWDBEbWMwQjZTcUhxTThDeXlOREFBcEc3QTk2Qlo1QUZkd29kT3FsMG8wNkhpRzVnZWVDTQ?oc=5",
    "ts": "Fri, 13 Nov 2026 16:57:34 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal - The Hill",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmNDaEFOUjhyQ3dSTXZ5c1pkT0hpdEVqT0tmOGk2cVVDZ1pZT3EtNVlLczVuYllZd0ZWRGRBQmxiY0hTMFJTQXE0YWN0dTA3RzA2N3VmM0MtRzNycGpqbHh6RlZKMGtnaEkwRzZYVUxuLWs2U19jQS1HLS1xb01hZi13Yjh5UnFxSXdScDI1bUHSAZYBQVVfeXFMT084UmYyZ2JNVTg5ZFJKR0N4MTR2SFF5ekRwdFdsNnlTeVQ5dExLUmhlclcycVFuUS1TRHFRTnFWWHp3MVQ0ZzBFbFdST0VkWEh2QTRreVZnaGpGRTJKM3h1aHhsVHZ1VXJtZGpJb3N3RjE4RXJ5TFNFeGVrTjF6R1R2akUwaU9LQWdfSHZUeDNqOUY1UVlB?oc=5",
+   "ts": "Sun, 15 Nov 2026 00:26:00 GMT"
   },
   {
    "src": "gnews",
@@ -407,6 +407,12 @@
   },
   {
    "src": "gnews",
+   "title": "The China Shock in the AI Era - Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kVHNxLWdkakZXWEpaa2tHUkwxTnhOYVFqUEgzT0N5cWxzUjZTclZ5N2NHX3pDOGpBOWNYQkNWV3RlaFktOHZNNG1UVHUtRDRmMmI1NjktcTBSalp4NHN3M1JvNEtsWWd2UW5iMTlIblI1azN2?oc=5",
+   "ts": "Sat, 14 Nov 2026 12:00:04 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Carney Draws Red Line On Trump Trade Deal Over Auto Jobs - Newsweek",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZm84Z0c0b3VhY2pNckJZUUxxcW80NUJEMVJjeUFGa2QweVhwRXFDU1VOeWltYnZJRFl4U2JkdGdlV2d4akNUYldYYUJfeEdtSEdtMXlaOFNVaGJqWF9DV0hKaXplUnpIMjlSZHdiQWhDRVdSS29nSnhMWXlFZVVqMTlFZF9wWUJuUjhzd2FR?oc=5",
    "ts": "Sat, 14 Nov 2026 12:01:00 GMT"
@@ -419,15 +425,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China - Business Insider Africa",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
-   "ts": "Sat, 14 Nov 2026 20:44:32 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "The China Shock in the AI Era - Time Magazine",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kVHNxLWdkakZXWEpaa2tHUkwxTnhOYVFqUEgzT0N5cWxzUjZTclZ5N2NHX3pDOGpBOWNYQkNWV3RlaFktOHZNNG1UVHUtRDRmMmI1NjktcTBSalp4NHN3M1JvNEtsWWd2UW5iMTlIblI1azN2?oc=5",
-   "ts": "Sat, 14 Nov 2026 12:00:04 GMT"
+   "title": "China’s trade surplus surpasses $1T for 2nd consecutive year - The North State Journal",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wQTlLZWc3WU12eTlUZ256MFFlV0h3RXVoMlhOU2d6RmlSQVZRZ3lPS3ZGOXNZU3l3UjRDX21TWUk1XzlDTVpyRFdjOVlFY3FWY0IwOU1DY0g3VzFKTEtORHRmbll2cTA1V0ZKV2pHRjhKa0FtV1ZyUg?oc=5",
+   "ts": "Sat, 14 Nov 2026 14:55:00 GMT"
   },
   {
    "src": "gnews",
@@ -443,9 +443,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump’s Minerals Push Has Yet to Loosen China’s Grip Ahead of Xi Talks - The China-Global South Project",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUklrWTIzclRXM0RCUHV1OXZkeWJZX0ZfRkswUWNiSTV1Yk1RX1FtN0hPZzNWd0ljc2M4UzVZNDNYUzFSbG4xVzlJMkhKblBhOVJxc1VzZHByeXh4UlJaNzBmTHF3cVdzbHY5NUtxdTVsSGl6bzR6VkFvWXZJMEstbXlwLVllRDZaYWQw?oc=5",
-   "ts": "Sun, 15 Nov 2026 15:51:34 GMT"
+   "title": "Trump trade chief Greer speaks with 'Squawk Box' as tariff threats rise - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREd1Qk8yb2FyRTJnblVuX0lQNkhyZWFfckhCVjZVTVJBR0RwbUtNZEppUHVWZ015aThqZGY1bG9BRExVRVhIM0E5NEhOa05wRENZNmswWWQ1TXlnWTlEZVJzSnhhLThZWDB5QS1QVElqMkFyZzBuZnJXOGNEd19XcnZFQU5YTk9S0gGOAUFVX3lxTE12b1JISnFVV18zV2RlTzAxX3lyX2pHSmg3Qkh2b3VuNmFXcjlCUExLaHd5TGZjQ0JCRmNwTy0yc19iQ2FEa1ktRDdZeExMSm9mZ2lQcWNnSHFCYzVzRmg4NUR4MWJzdHpfNDY5Zjl2QmNnSkJlTXYtRUZNb0pfWkY1Z1BCSmpBU3NBeE0xZUE?oc=5",
+   "ts": "Thu, 12 Nov 2026 13:31:40 GMT"
   },
   {
    "src": "gnews",

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-16T10:00:32Z",
+ "ts": "2026-11-16T10:15:19Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -29,9 +29,8 @@
    "err": "HTTPError: HTTP Error 403: Forbidden"
   },
   "gnews": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "n": 25
   },
   "gdelt": {
    "ok": false,
@@ -339,6 +338,126 @@
    "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
    "ts": "Fri, 25 Sep 2026 20:30:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
+   "ts": "Mon, 16 Nov 2026 02:59:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China trade relations face fresh tests - FarmWeekNow",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV1AwTDVYSlkyY1VPZWxuY3V4SmJUVU5iY1B2eHl5RVVEZmt6WkxraEhSNWhjVENnaEJpNnljeTk0SWM5RnBZdktnS05rMlVrYTVWdGw2aDNyQmdhVHBpdU1VWTNBeWdWZ05iLWk3T3FXZm9XUGRzR2dWbmhIRVNjTDVVRF93NVpybTYyM3VfLTE5WnlWdEIxcjJDUE43Sko0ekxRU1FvSXpqV3NtamFOb1V0WFlJQ1NSX2trZGpYRXQyU3hpeXFFOU9CUk9saUlWaFlZ?oc=5",
+   "ts": "Mon, 16 Nov 2026 06:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Demand for Chinese Goods Is Soaring but Economic Momentum Slows at Home - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTVl1aGxrVkh0SGpPTXRaUHpEM0lTTmQtdHEySlRNWE9vbVh4OWJwTlBocGpiQzBrVHg0RGFndGZkRGFGWWdxb3RMdHBsc1c3alFpbFNqVUxEVm1yUUwwN2F3NnpOQl9vZVpPbS1uZnJ3UFJyVXpCQ0FIc2FYNWI3b05haGVNVG1IY2xB?oc=5",
+   "ts": "Mon, 16 Nov 2026 06:59:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Spy scandal and midterm defeat heat up Trump's Asia visit - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOenFHNWhhY2RJR3NNRHFqQ1pSaXRHMVM2VEN1WURVVTJjRFNJbXp2WnlZcE5PLUlIOWpVS3YxWm93NlFkVnpKYy1HdkFYYV9qczhGM21ERmpMX1RUUU9hNnEtZzNjdV9vVDVHVks5VG9xYVBQYmdZR0RPUFJHNThLQWs5b0NwM2UwS0N0cXRzcTZiclRKdmRjSlJabU9YWjVwZWc?oc=5",
+   "ts": "Mon, 16 Nov 2026 05:04:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda? - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3F0YmYwUDBReEkyTFRDWnc5b2k2cnVQQ3l5WExtZzdtRi0yT1J6OXdjWUFRb05YYl9ZSHo4bFpJbkRkR29oUVJMRWE1LXRJNnRzMnFVclY1STFjOUE1X2xBajBsQXRyUjNuVkZ1TEhmOG1RRUdHeUxwR1Q5Zk1JeHNKa3EzZHpPdWE3X2lQX1hJZ9IBlwFBVV95cUxQdXFsN29GRHBmQVZoUWlBSk8zRkRsUG02WDR3QVlveTF3RDhUNU9oamxncXNNWFRvMGdpVmR0WkhycnUtdHJQSWJRRlA4VXY3MURUMXQxLXVMeG1PMnBqd1RWaGNfSWtGX1NheTdPYUtUcTNIX2xkbHhhMTRNdlhoVTd5X09oMnBsb3llSmVRNHhKVFU0bGc0?oc=5",
+   "ts": "Mon, 16 Nov 2026 04:34:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Modi Heads to Manila With Maritime, Trade, Trump on Agenda - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMWJUbG5TbTFzdHFSMXMyMzBlcmMwNHhPYUZoNVB4X01YNkpsNWNBTDJVUVMzUTIzUmhvdGM0WkVpeGVSSU9nREZaRkFEcHRHcXkwYWhydmxXRGNUalpWUGV4T1hBWVhyNmgtbV9WN2pNR3gwQzV1RnpqNjhNR3l3THJ2N1lmbXAxX3lHUjltZHdERW9IVW1ReFktbzN3MGE5OENSSkEtal9yMk0?oc=5",
+   "ts": "Mon, 16 Nov 2026 07:03:29 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Washington Week Ahead: China trade, ag forum, permit reform on tap - Agri-Pulse Communications, Inc.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGZWbk5EbTU1bnlsNzRrS3FvRmI4WTlwZ0dIVEQ4OGFLNHVMM09lUXUxc3FWbmY2U2I5d0tuaUk5Z045aGw3MkhjOTFBU0IteHlJV1VpYkViQ0w5TThWelRJN3U4MG1USENHa3VwdW9nekRLYzlIb0FWXzdvVU4yWHJHMkEwOTRwWjQ5VnRqcDBvS094VlY4UWdrZ3RBc0M0SWUwYWRiOVQ?oc=5",
+   "ts": "Sun, 15 Nov 2026 23:44:10 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal - The Hill",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmNDaEFOUjhyQ3dSTXZ5c1pkT0hpdEVqT0tmOGk2cVVDZ1pZT3EtNVlLczVuYllZd0ZWRGRBQmxiY0hTMFJTQXE0YWN0dTA3RzA2N3VmM0MtRzNycGpqbHh6RlZKMGtnaEkwRzZYVUxuLWs2U19jQS1HLS1xb01hZi13Yjh5UnFxSXdScDI1bUHSAZYBQVVfeXFMT084UmYyZ2JNVTg5ZFJKR0N4MTR2SFF5ekRwdFdsNnlTeVQ5dExLUmhlclcycVFuUS1TRHFRTnFWWHp3MVQ0ZzBFbFdST0VkWEh2QTRreVZnaGpGRTJKM3h1aHhsVHZ1VXJtZGpJb3N3RjE4RXJ5TFNFeGVrTjF6R1R2akUwaU9LQWdfSHZUeDNqOUY1UVlB?oc=5",
+   "ts": "Sun, 15 Nov 2026 00:26:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "How Congress might take back its trade powers and limit Trump's tariffs - Peterson Institute for International Economics",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd3dkbjI5MjdTckFXd2lKQk5VWTJybnlhMzVIVWRNLTdjQXA5aEQ2U2g0SjdETDRTSEtiLXBQS2JpQWwzQXNPNVhKMXpfRm16ckJNYTdTUl9iRnBqTmFrRnptLW1NWmVVUzd6QUVPTl90QlR6MUdBVEVINDJ3VG9lWDBEbWMwQjZTcUhxTThDeXlOREFBcEc3QTk2Qlo1QUZkd29kT3FsMG8wNkhpRzVnZWVDTQ?oc=5",
+   "ts": "Fri, 13 Nov 2026 16:57:34 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "A Year On, Mark Carney of Canada Returns to China a Political Star - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdTVOWXJpNHRrbEdDLUZabTFFX2lvR0R0RE54bl9DMVFhZ1d3RTVSX0N1ZWVQV196V2szUGJjXzNjZkE5QS1kekVReDhHS2hfVU1keTg3a3AzaElhSUhNeU80Mm5IVXZ0ei1WOEVRcjlfdWMzZWYzV01JUnNUQklUOVphY083OE15ZFVyaUZuTQ?oc=5",
+   "ts": "Mon, 16 Nov 2026 05:01:23 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - Oskaloosa Herald",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQR3Vkd25rdXhmX1Q4eXpybGhhWktkUFlNZTRZMm4zdFZpNU1HZ1ZKRmRtY3hQdUhEbUhlX1VNWDB0c1FEZkNVWGJwdkpCM2RwLVRFN0Z4YkFQbUNOQnJ6TTJhdDlLMmMzZVgxY2ZELVBHTGMzd0NQVjFDTmlINVZOdmFBQlk5ZHNuNDY2QURPUkh4ZXp0QWRocnRjakZvVW84WmE4RkM0dWFVZ3hRSTNlZGVsNEZPUnhuZFEtQlBXdzBuTGQ5SGQ1MUNwd0syNDRKemlmbmswX2hEcnNzT1VRZ3VYX1M3X3ctamNRNzhXYl9SUnVvalZPUHd2V1FKVGp0UEE?oc=5",
+   "ts": "Mon, 16 Nov 2026 02:42:59 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Chinese premier lauds 'extraordinary' ties with ASEAN ahead of Trump visit - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0MyZ3lxSkpUNXBvTUJuRGgta0lValdjb1dfQmpMVGJVdGNjVDU4ck9aZ1NtOGlUN0NkeXpsZklCcm1LeEJfRy02ZENUMHIxWkRHbVZ0YUxlNjNGTzBaUmhLOVIxVVZHcldFY2FZV1diOFFzSGJycjFPVk1UUkJBYUNza1RGNHhTYndPaVdUU21xempNRTZSMGFUdUdVZC1aM1QzSGtNakRudldZYjNkZG9oR1pLWkhW?oc=5",
+   "ts": "Mon, 16 Nov 2026 05:40:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Australia Warns China Iron Ore Push Could Breach Trade Rules - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYm1uVkdRajZyYm1PUm9EX1lLVm82a3JUcDhxajFfcVIxdDJDdExxMW9PZjJEVURmMll2QzhHTWwxUy1pXzk1U0V2bG8xUmVRXzh2Z1VTZVU5bklJM2VQS3d6eW43TzVaenNLR0t3V0hGVEhvU1VIOWVJeWhxajJBNGtta0pXRDJheHJIYjhNZ2VZNXIteGw5SjZBRDBqUEx5TEJPbkJYS3MyQUxielJWZg?oc=5",
+   "ts": "Sun, 15 Nov 2026 23:35:37 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
+   "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
+   "ts": "Sat, 14 Nov 2026 08:38:39 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Canada Has ‘Eyes Wide Open’ in Push for Deeper China Trade Ties - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNE5OV29NU2xOdjZvWU50WnIzcFdiRUUyc0VoTE5oSnNibV94WUZacG4wbVBKeDF1NUdVU19mRGk5cjBHYWh1VjJQNDF4a1dpM2xWZ1VzZldxS1psODNsQXZXa25JUDR2RGFjVkJxYkZoLWR0bVpNd0QwVkEtbkg4UlVyZUFFb05yaHFsa2ZzSEU0UWZDa3VfUGZkbF9mdENCX1NNWUh0U1F1eTRweWlPQWNn?oc=5",
+   "ts": "Sun, 15 Nov 2026 23:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
+   "ts": "Tue, 10 Nov 2026 02:42:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trafigura Is Key Player in Aluminum Squeeze With China Trade - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSTlHdGJudFBBbEQ1V2tkY09oZ3Q2b050dkc2RnU0ejhoWV93M1phbnNMa096ZTdRd0p2TEd6TmFWS1Npa1pTY1lkWGlGVkM4RENSSnVMVHhMRjFmTE1Wb2VLQldiRWJYaU1XVXkwYzZ6NldRT0hGbDlmVlpuaU5ydUNJM0Z5ZGFSSkxoWHcyMTl2amVmQ05ORlJXOHhsTU5YUDhJSERlcmJKb1gteFcxT2pDZXZmdw?oc=5",
+   "ts": "Fri, 13 Nov 2026 10:32:22 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "3 Trade Exposed Stocks Investors Are Watching After Xi Trump Putin Summit - Yahoo Finance Singapore",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOW9FVEZuak56ZFcyVzB0S2xReExPY2lhcjRXZlJkNHlOTmQ4ejM5RzdyaktMOGJ5UnFIbWttY2VKUnY4Szk1YUNOOXdzejdPMV9iY1d6MUQteWxCU1VYWm05SHNiQjZTNU1oX2QwN0tDdFdOeWp3b19taEI0ejdNdXlqMGMtbVB0?oc=5",
+   "ts": "Mon, 16 Nov 2026 08:08:49 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney Draws Red Line On Trump Trade Deal Over Auto Jobs - Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZm84Z0c0b3VhY2pNckJZUUxxcW80NUJEMVJjeUFGa2QweVhwRXFDU1VOeWltYnZJRFl4U2JkdGdlV2d4akNUYldYYUJfeEdtSEdtMXlaOFNVaGJqWF9DV0hKaXplUnpIMjlSZHdiQWhDRVdSS29nSnhMWXlFZVVqMTlFZF9wWUJuUjhzd2FR?oc=5",
+   "ts": "Sat, 14 Nov 2026 12:01:00 GMT"
   }
  ]
 }

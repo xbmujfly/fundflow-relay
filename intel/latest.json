@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-16T00:45:17Z",
+ "ts": "2026-11-16T01:00:24Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -353,6 +353,12 @@
   },
   {
    "src": "gnews",
+   "title": "Canada Has ‘Eyes Wide Open’ in Push for Deeper China Trade Ties - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNE5OV29NU2xOdjZvWU50WnIzcFdiRUUyc0VoTE5oSnNibV94WUZacG4wbVBKeDF1NUdVU19mRGk5cjBHYWh1VjJQNDF4a1dpM2xWZ1VzZldxS1psODNsQXZXa25JUDR2RGFjVkJxYkZoLWR0bVpNd0QwVkEtbkg4UlVyZUFFb05yaHFsa2ZzSEU0UWZDa3VfUGZkbF9mdENCX1NNWUh0U1F1eTRweWlPQWNn?oc=5",
+   "ts": "Sun, 15 Nov 2026 23:00:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
    "ts": "Sat, 14 Nov 2026 07:13:00 GMT"
@@ -362,12 +368,6 @@
    "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal - The Hill",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmNDaEFOUjhyQ3dSTXZ5c1pkT0hpdEVqT0tmOGk2cVVDZ1pZT3EtNVlLczVuYllZd0ZWRGRBQmxiY0hTMFJTQXE0YWN0dTA3RzA2N3VmM0MtRzNycGpqbHh6RlZKMGtnaEkwRzZYVUxuLWs2U19jQS1HLS1xb01hZi13Yjh5UnFxSXdScDI1bUHSAZYBQVVfeXFMT084UmYyZ2JNVTg5ZFJKR0N4MTR2SFF5ekRwdFdsNnlTeVQ5dExLUmhlclcycVFuUS1TRHFRTnFWWHp3MVQ0ZzBFbFdST0VkWEh2QTRreVZnaGpGRTJKM3h1aHhsVHZ1VXJtZGpJb3N3RjE4RXJ5TFNFeGVrTjF6R1R2akUwaU9LQWdfSHZUeDNqOUY1UVlB?oc=5",
    "ts": "Sun, 15 Nov 2026 00:26:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Canada Has ‘Eyes Wide Open’ in Push for Deeper China Trade Ties - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNE5OV29NU2xOdjZvWU50WnIzcFdiRUUyc0VoTE5oSnNibV94WUZacG4wbVBKeDF1NUdVU19mRGk5cjBHYWh1VjJQNDF4a1dpM2xWZ1VzZldxS1psODNsQXZXa25JUDR2RGFjVkJxYkZoLWR0bVpNd0QwVkEtbkg4UlVyZUFFb05yaHFsa2ZzSEU0UWZDa3VfUGZkbF9mdENCX1NNWUh0U1F1eTRweWlPQWNn?oc=5",
-   "ts": "Sun, 15 Nov 2026 23:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -395,12 +395,6 @@
   },
   {
    "src": "gnews",
-   "title": "Trump’s Minerals Push Has Yet to Loosen China’s Grip Ahead of Xi Talks - The China-Global South Project",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUklrWTIzclRXM0RCUHV1OXZkeWJZX0ZfRkswUWNiSTV1Yk1RX1FtN0hPZzNWd0ljc2M4UzVZNDNYUzFSbG4xVzlJMkhKblBhOVJxc1VzZHByeXh4UlJaNzBmTHF3cVdzbHY5NUtxdTVsSGl6bzR6VkFvWXZJMEstbXlwLVllRDZaYWQw?oc=5",
-   "ts": "Sun, 15 Nov 2026 15:51:34 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney Draws Red Line On Trump Trade Deal Over Auto Jobs - Newsweek",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZm84Z0c0b3VhY2pNckJZUUxxcW80NUJEMVJjeUFGa2QweVhwRXFDU1VOeWltYnZJRFl4U2JkdGdlV2d4akNUYldYYUJfeEdtSEdtMXlaOFNVaGJqWF9DV0hKaXplUnpIMjlSZHdiQWhDRVdSS29nSnhMWXlFZVVqMTlFZF9wWUJuUjhzd2FR?oc=5",
    "ts": "Sat, 14 Nov 2026 12:01:00 GMT"
@@ -410,6 +404,12 @@
    "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzk1R09TQzJMMElPWWVSLXhRSkZUVFJWWW85cjV2QjFtMXJRcWVKX2VjSm83XzRNZUE3VFpucUk3SHdPbXd4b0tnMkVVamxsLUEtMTcyejJLUlBSNURlSkR6bjVKUzNENWZmVE1LcHpiakk2RXViWVJDVmR5bDlyX3BpMGJJWW1J?oc=5",
    "ts": "Tue, 10 Nov 2026 02:38:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump’s Minerals Push Has Yet to Loosen China’s Grip Ahead of Xi Talks - The China-Global South Project",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUklrWTIzclRXM0RCUHV1OXZkeWJZX0ZfRkswUWNiSTV1Yk1RX1FtN0hPZzNWd0ljc2M4UzVZNDNYUzFSbG4xVzlJMkhKblBhOVJxc1VzZHByeXh4UlJaNzBmTHF3cVdzbHY5NUtxdTVsSGl6bzR6VkFvWXZJMEstbXlwLVllRDZaYWQw?oc=5",
+   "ts": "Sun, 15 Nov 2026 15:51:34 GMT"
   },
   {
    "src": "gnews",

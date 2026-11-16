@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-16T13:00:24Z",
+ "ts": "2026-11-16T13:15:22Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -347,21 +347,15 @@
   },
   {
    "src": "gnews",
+   "title": "Demand for Chinese Goods Is Soaring but Economic Momentum Slows at Home - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTVl1aGxrVkh0SGpPTXRaUHpEM0lTTmQtdHEySlRNWE9vbVh4OWJwTlBocGpiQzBrVHg0RGFndGZkRGFGWWdxb3RMdHBsc1c3alFpbFNqVUxEVm1yUUwwN2F3NnpOQl9vZVpPbS1uZnJ3UFJyVXpCQ0FIc2FYNWI3b05haGVNVG1IY2xB?oc=5",
+   "ts": "Mon, 16 Nov 2026 06:59:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China trade relations face fresh tests - FarmWeekNow",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV1AwTDVYSlkyY1VPZWxuY3V4SmJUVU5iY1B2eHl5RVVEZmt6WkxraEhSNWhjVENnaEJpNnljeTk0SWM5RnBZdktnS05rMlVrYTVWdGw2aDNyQmdhVHBpdU1VWTNBeWdWZ05iLWk3T3FXZm9XUGRzR2dWbmhIRVNjTDVVRF93NVpybTYyM3VfLTE5WnlWdEIxcjJDUE43Sko0ekxRU1FvSXpqV3NtamFOb1V0WFlJQ1NSX2trZGpYRXQyU3hpeXFFOU9CUk9saUlWaFlZ?oc=5",
    "ts": "Mon, 16 Nov 2026 06:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Demand for Chinese Goods Is Soaring but Economic Momentum Slows at Home - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTVl1aGxrVkh0SGpPTXRaUHpEM0lTTmQtdHEySlRNWE9vbVh4OWJwTlBocGpiQzBrVHg0RGFndGZkRGFGWWdxb3RMdHBsc1c3alFpbFNqVUxEVm1yUUwwN2F3NnpOQl9vZVpPbS1uZnJ3UFJyVXpCQ0FIc2FYNWI3b05haGVNVG1IY2xB?oc=5",
-   "ts": "Mon, 16 Nov 2026 07:14:59 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Nvidia’s Scandal Gives China Hawks Ammunition—and Puts the Trade Truce in Peril - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMTEtXzVlTWc0akNpWjk1bVlfWE51YVFJZDhwNmxoMlFHMWxGSmN0OTVTc2NzSFlCWkRtT1VmVk13U0R2Slk1S251UzNQZmViVWdOdmlwVjU3LUFOeTB3ampKOUxJOGk1WlZtWng3YVVpb09mRGZtMUdSczZOZ0k5ZHVqU1FGaXNqNHFkV3hOTXQ?oc=5",
-   "ts": "Mon, 16 Nov 2026 11:30:00 GMT"
   },
   {
    "src": "gnews",
@@ -371,9 +365,21 @@
   },
   {
    "src": "gnews",
+   "title": "Nvidia’s Scandal Gives China Hawks Ammunition—and Puts the Trade Truce in Peril - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMTEtXzVlTWc0akNpWjk1bVlfWE51YVFJZDhwNmxoMlFHMWxGSmN0OTVTc2NzSFlCWkRtT1VmVk13U0R2Slk1S251UzNQZmViVWdOdmlwVjU3LUFOeTB3ampKOUxJOGk1WlZtWng3YVVpb09mRGZtMUdSczZOZ0k5ZHVqU1FGaXNqNHFkV3hOTXQ?oc=5",
+   "ts": "Mon, 16 Nov 2026 11:30:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Washington Week Ahead: China trade, ag forum, permit reform on tap - Agri-Pulse Communications, Inc.",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGZWbk5EbTU1bnlsNzRrS3FvRmI4WTlwZ0dIVEQ4OGFLNHVMM09lUXUxc3FWbmY2U2I5d0tuaUk5Z045aGw3MkhjOTFBU0IteHlJV1VpYkViQ0w5TThWelRJN3U4MG1USENHa3VwdW9nekRLYzlIb0FWXzdvVU4yWHJHMkEwOTRwWjQ5VnRqcDBvS094VlY4UWdrZ3RBc0M0SWUwYWRiOVQ?oc=5",
    "ts": "Sun, 15 Nov 2026 23:44:10 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump’s Trade Barriers, AI Reveal New US Dependencies on China - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0NYYUpyZk5yY3hLYU1VcUpTNmQ1NnNpbjNDS3dyemFSa2VzaVVKN1lLc01iekVwUGpGUE95ZmRMYXJraGZ6eFF6VjdMVGE2elE2N2ZJZXYtNEE0WWpPYmMxSnhWc1I2TS1pVHJCMzdiVl9VU1ZSZl9uOGxUTllZb0s5dzROY21qM1B6VXRoLXQ0ZFNPTDJ6TnJDaE1BQXpYel8wZHhXVUtCUDRZOHBtTg?oc=5",
+   "ts": "Mon, 16 Nov 2026 13:05:14 GMT"
   },
   {
    "src": "gnews",
@@ -389,12 +395,6 @@
   },
   {
    "src": "gnews",
-   "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal - The Hill",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmNDaEFOUjhyQ3dSTXZ5c1pkT0hpdEVqT0tmOGk2cVVDZ1pZT3EtNVlLczVuYllZd0ZWRGRBQmxiY0hTMFJTQXE0YWN0dTA3RzA2N3VmM0MtRzNycGpqbHh6RlZKMGtnaEkwRzZYVUxuLWs2U19jQS1HLS1xb01hZi13Yjh5UnFxSXdScDI1bUHSAZYBQVVfeXFMT084UmYyZ2JNVTg5ZFJKR0N4MTR2SFF5ekRwdFdsNnlTeVQ5dExLUmhlclcycVFuUS1TRHFRTnFWWHp3MVQ0ZzBFbFdST0VkWEh2QTRreVZnaGpGRTJKM3h1aHhsVHZ1VXJtZGpJb3N3RjE4RXJ5TFNFeGVrTjF6R1R2akUwaU9LQWdfSHZUeDNqOUY1UVlB?oc=5",
-   "ts": "Sun, 15 Nov 2026 00:26:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump Heads to China as Trade Truce Raises Stakes for American Farmers - AgroLatam",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWEltb3E1VlQ3eW9KSTBjOHViQ1RtdW4wUnkyazQyZC1DcWRVbzZjRXhWRzNHVDduTzhLbXRBUS1XYjdFYnRjUkJoS3AwT1l0dThmMXMteUlwdWJNTm5qamtCY0hocnMybnNENHF5LV90VUlEd2lLY0haSzlZUkdvV3ZZUEsxZ00?oc=5",
    "ts": "Mon, 16 Nov 2026 12:18:51 GMT"
@@ -407,9 +407,15 @@
   },
   {
    "src": "gnews",
-   "title": "Australia Warns China Iron Ore Push Could Breach Trade Rules - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYm1uVkdRajZyYm1PUm9EX1lLVm82a3JUcDhxajFfcVIxdDJDdExxMW9PZjJEVURmMll2QzhHTWwxUy1pXzk1U0V2bG8xUmVRXzh2Z1VTZVU5bklJM2VQS3d6eW43TzVaenNLR0t3V0hGVEhvU1VIOWVJeWhxajJBNGtta0pXRDJheHJIYjhNZ2VZNXIteGw5SjZBRDBqUEx5TEJPbkJYS3MyQUxielJWZg?oc=5",
-   "ts": "Sun, 15 Nov 2026 23:35:37 GMT"
+   "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal - The Hill",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmNDaEFOUjhyQ3dSTXZ5c1pkT0hpdEVqT0tmOGk2cVVDZ1pZT3EtNVlLczVuYllZd0ZWRGRBQmxiY0hTMFJTQXE0YWN0dTA3RzA2N3VmM0MtRzNycGpqbHh6RlZKMGtnaEkwRzZYVUxuLWs2U19jQS1HLS1xb01hZi13Yjh5UnFxSXdScDI1bUHSAZYBQVVfeXFMT084UmYyZ2JNVTg5ZFJKR0N4MTR2SFF5ekRwdFdsNnlTeVQ5dExLUmhlclcycVFuUS1TRHFRTnFWWHp3MVQ0ZzBFbFdST0VkWEh2QTRreVZnaGpGRTJKM3h1aHhsVHZ1VXJtZGpJb3N3RjE4RXJ5TFNFeGVrTjF6R1R2akUwaU9LQWdfSHZUeDNqOUY1UVlB?oc=5",
+   "ts": "Sun, 15 Nov 2026 00:26:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China seeks Apec road map for long-envisioned Asia-Pacific free trade area - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeURLLUJ5eG0zcmxZM19RZl96NEJ3Z0dUaGc1QkpsMUJsYjM4eThnVGNEdEhEMXVWRFJCcXg0MmU1UTRqRlRfOHk2STFGQnBxaE4yMUY1X3VhblpyTVNKWEFCMHdaYUJUSXNYa2I2al9ZTUpwQVBmNUsxQmhnRFJjc0dqczU0RTdOVlpfMHAzN0dlUFlsWHdUdWtvZElXTWh0eGJDN2FadzluR3NiNWNoc28zbl9aMWlsOWxGcXRKUUdYYkwyQWJONWt30gHKAUFVX3lxTE5ScFU5aF9ONTRXeDQ3RGM3ZkJnei1uZTllbzZoVnZDVm1IZF9RVHpvUXNaZ2dOcDJHSTY2TGZuXzdnYlpNaUpFTUV6SGNrNWwxSDJxcVAzMU5lOHl6cjY4bnN1VElVYk9ycWMtNWxVb0pkV1FGN2dxcWw3blJ0M0k0djlwMzVNaWVPaWZ3YWhCVUJhZy15cjBwWFM1TlNRajFRYThUZW5XQWhtYXFINFlLWGQzT0U5bmdHTDhpT0xIUkdCMG5IOXdzQWc?oc=5",
+   "ts": "Mon, 16 Nov 2026 12:22:56 GMT"
   },
   {
    "src": "gnews",
@@ -431,21 +437,9 @@
   },
   {
    "src": "gnews",
-   "title": "China seeks Apec road map for long-envisioned Asia-Pacific free trade area - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeURLLUJ5eG0zcmxZM19RZl96NEJ3Z0dUaGc1QkpsMUJsYjM4eThnVGNEdEhEMXVWRFJCcXg0MmU1UTRqRlRfOHk2STFGQnBxaE4yMUY1X3VhblpyTVNKWEFCMHdaYUJUSXNYa2I2al9ZTUpwQVBmNUsxQmhnRFJjc0dqczU0RTdOVlpfMHAzN0dlUFlsWHdUdWtvZElXTWh0eGJDN2FadzluR3NiNWNoc28zbl9aMWlsOWxGcXRKUUdYYkwyQWJONWt30gHKAUFVX3lxTE5ScFU5aF9ONTRXeDQ3RGM3ZkJnei1uZTllbzZoVnZDVm1IZF9RVHpvUXNaZ2dOcDJHSTY2TGZuXzdnYlpNaUpFTUV6SGNrNWwxSDJxcVAzMU5lOHl6cjY4bnN1VElVYk9ycWMtNWxVb0pkV1FGN2dxcWw3blJ0M0k0djlwMzVNaWVPaWZ3YWhCVUJhZy15cjBwWFM1TlNRajFRYThUZW5XQWhtYXFINFlLWGQzT0U5bmdHTDhpT0xIUkdCMG5IOXdzQWc?oc=5",
-   "ts": "Mon, 16 Nov 2026 12:22:56 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
-   "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
-   "ts": "Tue, 10 Nov 2026 02:42:00 GMT"
+   "title": "Australia Warns China Iron Ore Push Could Breach Trade Rules - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYm1uVkdRajZyYm1PUm9EX1lLVm82a3JUcDhxajFfcVIxdDJDdExxMW9PZjJEVURmMll2QzhHTWwxUy1pXzk1U0V2bG8xUmVRXzh2Z1VTZVU5bklJM2VQS3d6eW43TzVaenNLR0t3V0hGVEhvU1VIOWVJeWhxajJBNGtta0pXRDJheHJIYjhNZ2VZNXIteGw5SjZBRDBqUEx5TEJPbkJYS3MyQUxielJWZg?oc=5",
+   "ts": "Sun, 15 Nov 2026 23:35:37 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "I voted to open trade with China. 25 years later, it’s time for us to fix that mistake - Fox News",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRnIzb252dTQzR1k3T3hkNnhROENFcnVpT0F1QTdEY3lvLVIwRjNFeGUwZ1FaN2FaTVQ4OXUzY1lNRkRfSnItUFFxck9SUTJ4VjkzZlV4VzBXSnp3bDFuMW1wVFJXQlZ1RTR1V1VYWjZBNy04c0xabWd6RXRHNHlsMWk0ZlJCT3BTTVlncFZRONIBlAFBVV95cUxPMDhLakloanQtM1JZSW9VazZzNFB4Zm1IU0V0c1ptbWF6NXhzQ18tVWpUc1pELUl5NmxLUGt3T3I4bVRiU1pnRF9Hc3czSEw1LUdKVnFxRmc2NlFGN0RqRWRma1lCNXh5bTIyVFlZOGl4aC0xXzdWNlRMX1RxWmIyTlZOTUFMeW9aeHhlMG4zUEJmR2JC?oc=5",
-   "ts": "Mon, 16 Nov 2026 10:00:58 GMT"
+   "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
+   "ts": "Tue, 10 Nov 2026 02:42:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
+   "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
   }
  ]
 }

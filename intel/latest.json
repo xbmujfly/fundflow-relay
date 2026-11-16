@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-16T10:15:19Z",
+ "ts": "2026-11-16T10:30:28Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -407,9 +407,15 @@
   },
   {
    "src": "gnews",
-   "title": "Chinese premier lauds 'extraordinary' ties with ASEAN ahead of Trump visit - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0MyZ3lxSkpUNXBvTUJuRGgta0lValdjb1dfQmpMVGJVdGNjVDU4ck9aZ1NtOGlUN0NkeXpsZklCcm1LeEJfRy02ZENUMHIxWkRHbVZ0YUxlNjNGTzBaUmhLOVIxVVZHcldFY2FZV1diOFFzSGJycjFPVk1UUkJBYUNza1RGNHhTYndPaVdUU21xempNRTZSMGFUdUdVZC1aM1QzSGtNakRudldZYjNkZG9oR1pLWkhW?oc=5",
-   "ts": "Mon, 16 Nov 2026 05:40:00 GMT"
+   "title": "3 Trade Exposed Stocks Investors Are Watching After Xi Trump Putin Summit - Yahoo Finance Singapore",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOW9FVEZuak56ZFcyVzB0S2xReExPY2lhcjRXZlJkNHlOTmQ4ejM5RzdyaktMOGJ5UnFIbWttY2VKUnY4Szk1YUNOOXdzejdPMV9iY1d6MUQteWxCU1VYWm05SHNiQjZTNU1oX2QwN0tDdFdOeWp3b19taEI0ejdNdXlqMGMtbVB0?oc=5",
+   "ts": "Mon, 16 Nov 2026 08:08:49 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
+   "ts": "Sat, 14 Nov 2026 08:38:39 GMT"
   },
   {
    "src": "gnews",
@@ -422,12 +428,6 @@
    "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
    "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
-   "ts": "Sat, 14 Nov 2026 08:38:39 GMT"
   },
   {
    "src": "gnews",
@@ -449,15 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "3 Trade Exposed Stocks Investors Are Watching After Xi Trump Putin Summit - Yahoo Finance Singapore",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOW9FVEZuak56ZFcyVzB0S2xReExPY2lhcjRXZlJkNHlOTmQ4ejM5RzdyaktMOGJ5UnFIbWttY2VKUnY4Szk1YUNOOXdzejdPMV9iY1d6MUQteWxCU1VYWm05SHNiQjZTNU1oX2QwN0tDdFdOeWp3b19taEI0ejdNdXlqMGMtbVB0?oc=5",
-   "ts": "Mon, 16 Nov 2026 08:08:49 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney Draws Red Line On Trump Trade Deal Over Auto Jobs - Newsweek",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZm84Z0c0b3VhY2pNckJZUUxxcW80NUJEMVJjeUFGa2QweVhwRXFDU1VOeWltYnZJRFl4U2JkdGdlV2d4akNUYldYYUJfeEdtSEdtMXlaOFNVaGJqWF9DV0hKaXplUnpIMjlSZHdiQWhDRVdSS29nSnhMWXlFZVVqMTlFZF9wWUJuUjhzd2FR?oc=5",
    "ts": "Sat, 14 Nov 2026 12:01:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China - Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
+   "ts": "Sat, 14 Nov 2026 20:44:32 GMT"
   }
  ]
 }

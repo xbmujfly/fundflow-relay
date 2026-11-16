@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-16T13:45:18Z",
+ "ts": "2026-11-16T14:00:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -347,6 +347,12 @@
   },
   {
    "src": "gnews",
+   "title": "Trump's tariffs are unpopular - but they'll be tough to repeal despite Democrats' landslide win - Alabama Daily News",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR0M5WUtsbldROEFWeTI3bmJQMVhuZnFpRGp6ZEdfTFoyVmRra3lTbFM5R0tBaG1iTC1Hc3Z5WHRhTUtHbmp6WExGMHRUZW5HVHpFUUZFMGRvU2tKc2VhRVBGSHZLajBoT0t5VmhIbXdrODZ6M3RoemMtUFBZeTEyRG9ubU1YdlRWYm5MYUNVdkNvNE8zaVEzUGJ2OUcxSWFUZ1YzcURVNFZ3TXhObUlQT2lzR0ZJQQ?oc=5",
+   "ts": "Mon, 16 Nov 2026 13:46:59 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump’s Trade Barriers, AI Reveal New US Dependencies on China - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0NYYUpyZk5yY3hLYU1VcUpTNmQ1NnNpbjNDS3dyemFSa2VzaVVKN1lLc01iekVwUGpGUE95ZmRMYXJraGZ6eFF6VjdMVGE2elE2N2ZJZXYtNEE0WWpPYmMxSnhWc1I2TS1pVHJCMzdiVl9VU1ZSZl9uOGxUTllZb0s5dzROY21qM1B6VXRoLXQ0ZFNPTDJ6TnJDaE1BQXpYel8wZHhXVUtCUDRZOHBtTg?oc=5",
    "ts": "Mon, 16 Nov 2026 13:05:14 GMT"
@@ -377,12 +383,6 @@
   },
   {
    "src": "gnews",
-   "title": "The EU’s shaky start to balancing trade with China - GIS Reports",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yN0tONWZ1NjZ3dHZ5eEIxck1VTHNvTmN0Y3htZ2xXNnI3d0V5dkZYRTFWV2RjNDJGS1V6eVlxY2FUWDMxdjhZcUR4RXp3Vm5GSloyMEFlZ2Q2bGNDclIyZmthV0FYdS1KeUdaT2pMTUgyWWNEMXc?oc=5",
-   "ts": "Fri, 13 Nov 2026 07:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Washington Week Ahead: China trade, ag forum, permit reform on tap - Agri-Pulse Communications, Inc.",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGZWbk5EbTU1bnlsNzRrS3FvRmI4WTlwZ0dIVEQ4OGFLNHVMM09lUXUxc3FWbmY2U2I5d0tuaUk5Z045aGw3MkhjOTFBU0IteHlJV1VpYkViQ0w5TThWelRJN3U4MG1USENHa3VwdW9nekRLYzlIb0FWXzdvVU4yWHJHMkEwOTRwWjQ5VnRqcDBvS094VlY4UWdrZ3RBc0M0SWUwYWRiOVQ?oc=5",
    "ts": "Sun, 15 Nov 2026 23:44:10 GMT"
@@ -395,15 +395,15 @@
   },
   {
    "src": "gnews",
-   "title": "A Year On, Mark Carney of Canada Returns to Asia a Political Star - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdTVOWXJpNHRrbEdDLUZabTFFX2lvR0R0RE54bl9DMVFhZ1d3RTVSX0N1ZWVQV196V2szUGJjXzNjZkE5QS1kekVReDhHS2hfVU1keTg3a3AzaElhSUhNeU80Mm5IVXZ0ei1WOEVRcjlfdWMzZWYzV01JUnNUQklUOVphY083OE15ZFVyaUZuTQ?oc=5",
-   "ts": "Mon, 16 Nov 2026 09:38:53 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal - The Hill",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmNDaEFOUjhyQ3dSTXZ5c1pkT0hpdEVqT0tmOGk2cVVDZ1pZT3EtNVlLczVuYllZd0ZWRGRBQmxiY0hTMFJTQXE0YWN0dTA3RzA2N3VmM0MtRzNycGpqbHh6RlZKMGtnaEkwRzZYVUxuLWs2U19jQS1HLS1xb01hZi13Yjh5UnFxSXdScDI1bUHSAZYBQVVfeXFMT084UmYyZ2JNVTg5ZFJKR0N4MTR2SFF5ekRwdFdsNnlTeVQ5dExLUmhlclcycVFuUS1TRHFRTnFWWHp3MVQ0ZzBFbFdST0VkWEh2QTRreVZnaGpGRTJKM3h1aHhsVHZ1VXJtZGpJb3N3RjE4RXJ5TFNFeGVrTjF6R1R2akUwaU9LQWdfSHZUeDNqOUY1UVlB?oc=5",
    "ts": "Sun, 15 Nov 2026 00:26:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "A Year On, Mark Carney of Canada Returns to Asia a Political Star - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdTVOWXJpNHRrbEdDLUZabTFFX2lvR0R0RE54bl9DMVFhZ1d3RTVSX0N1ZWVQV196V2szUGJjXzNjZkE5QS1kekVReDhHS2hfVU1keTg3a3AzaElhSUhNeU80Mm5IVXZ0ei1WOEVRcjlfdWMzZWYzV01JUnNUQklUOVphY083OE15ZFVyaUZuTQ?oc=5",
+   "ts": "Mon, 16 Nov 2026 09:38:53 GMT"
   },
   {
    "src": "gnews",
@@ -431,12 +431,6 @@
   },
   {
    "src": "gnews",
-   "title": "Modi Heads to Manila With Maritime, Trade, Trump on Agenda - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMWJUbG5TbTFzdHFSMXMyMzBlcmMwNHhPYUZoNVB4X01YNkpsNWNBTDJVUVMzUTIzUmhvdGM0WkVpeGVSSU9nREZaRkFEcHRHcXkwYWhydmxXRGNUalpWUGV4T1hBWVhyNmgtbV9WN2pNR3gwQzV1RnpqNjhNR3l3THJ2N1lmbXAxX3lHUjltZHdERW9IVW1ReFktbzN3MGE5OENSSkEtal9yMk0?oc=5",
-   "ts": "Mon, 16 Nov 2026 11:10:32 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Australia Warns China Iron Ore Push Could Breach Trade Rules - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYm1uVkdRajZyYm1PUm9EX1lLVm82a3JUcDhxajFfcVIxdDJDdExxMW9PZjJEVURmMll2QzhHTWwxUy1pXzk1U0V2bG8xUmVRXzh2Z1VTZVU5bklJM2VQS3d6eW43TzVaenNLR0t3V0hGVEhvU1VIOWVJeWhxajJBNGtta0pXRDJheHJIYjhNZ2VZNXIteGw5SjZBRDBqUEx5TEJPbkJYS3MyQUxielJWZg?oc=5",
    "ts": "Sun, 15 Nov 2026 23:35:37 GMT"
@@ -446,6 +440,12 @@
    "title": "Canada Has ‘Eyes Wide Open’ in Push for Deeper China Trade Ties - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNE5OV29NU2xOdjZvWU50WnIzcFdiRUUyc0VoTE5oSnNibV94WUZacG4wbVBKeDF1NUdVU19mRGk5cjBHYWh1VjJQNDF4a1dpM2xWZ1VzZldxS1psODNsQXZXa25JUDR2RGFjVkJxYkZoLWR0bVpNd0QwVkEtbkg4UlVyZUFFb05yaHFsa2ZzSEU0UWZDa3VfUGZkbF9mdENCX1NNWUh0U1F1eTRweWlPQWNn?oc=5",
    "ts": "Sun, 15 Nov 2026 23:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - WPBF",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdHNISGE3S3p5eDd1ZU1FWWZ0NXh3Z3RtLTF1dmVUT3FlUEFOdFdfVGpoUDdiMFhKR1dfRjA3MV9UaGlXQ2MzQXhSVUxyU0lwbjVaMFd3UlljMExfSVh3S09WWjR5ZDFOc3N4TWtndVM0REQ1cE9SaU1xeGZ0YUtKeHpTUUhtZUE3?oc=5",
+   "ts": "Mon, 16 Nov 2026 13:46:40 GMT"
   },
   {
    "src": "gnews",

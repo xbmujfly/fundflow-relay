@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-16T06:15:24Z",
+ "ts": "2026-11-16T06:30:28Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -340,6 +340,18 @@
   },
   {
    "src": "gnews",
+   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
+   "ts": "Mon, 16 Nov 2026 02:59:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China trade relations face fresh tests - FarmWeekNow",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV1AwTDVYSlkyY1VPZWxuY3V4SmJUVU5iY1B2eHl5RVVEZmt6WkxraEhSNWhjVENnaEJpNnljeTk0SWM5RnBZdktnS05rMlVrYTVWdGw2aDNyQmdhVHBpdU1VWTNBeWdWZ05iLWk3T3FXZm9XUGRzR2dWbmhIRVNjTDVVRF93NVpybTYyM3VfLTE5WnlWdEIxcjJDUE43Sko0ekxRU1FvSXpqV3NtamFOb1V0WFlJQ1NSX2trZGpYRXQyU3hpeXFFOU9CUk9saUlWaFlZ?oc=5",
+   "ts": "Mon, 16 Nov 2026 06:00:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda? - CNBC",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3F0YmYwUDBReEkyTFRDWnc5b2k2cnVQQ3l5WExtZzdtRi0yT1J6OXdjWUFRb05YYl9ZSHo4bFpJbkRkR29oUVJMRWE1LXRJNnRzMnFVclY1STFjOUE1X2xBajBsQXRyUjNuVkZ1TEhmOG1RRUdHeUxwR1Q5Zk1JeHNKa3EzZHpPdWE3X2lQX1hJZ9IBlwFBVV95cUxQdXFsN29GRHBmQVZoUWlBSk8zRkRsUG02WDR3QVlveTF3RDhUNU9oamxncXNNWFRvMGdpVmR0WkhycnUtdHJQSWJRRlA4VXY3MURUMXQxLXVMeG1PMnBqd1RWaGNfSWtGX1NheTdPYUtUcTNIX2xkbHhhMTRNdlhoVTd5X09oMnBsb3llSmVRNHhKVFU0bGc0?oc=5",
    "ts": "Mon, 16 Nov 2026 04:34:00 GMT"
@@ -355,12 +367,6 @@
    "title": "Canada Has ‘Eyes Wide Open’ in Push for Deeper China Trade Ties - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNE5OV29NU2xOdjZvWU50WnIzcFdiRUUyc0VoTE5oSnNibV94WUZacG4wbVBKeDF1NUdVU19mRGk5cjBHYWh1VjJQNDF4a1dpM2xWZ1VzZldxS1psODNsQXZXa25JUDR2RGFjVkJxYkZoLWR0bVpNd0QwVkEtbkg4UlVyZUFFb05yaHFsa2ZzSEU0UWZDa3VfUGZkbF9mdENCX1NNWUh0U1F1eTRweWlPQWNn?oc=5",
    "ts": "Sun, 15 Nov 2026 23:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail | National News | 2news.com - KTVN",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONlpUUER0ZjN4ZGJBdjFiLVhPdXFhZmNDaGNyc3hhM1RMWk8teGtLQk9hVndhbTJBS3pzRHhvZUN6N1ZfN2YxTGlNSEIzSmNvbzlqdmIzelRyNVhheEdfaEtWQmhPMXE0UGpNWFViYnBkU0s5cS1UTk5iU1pOUGM4T0kzWFhwVkZiVUUwTWk3czhrQUlUQzlRblRBN1RTaGxvX00wcW9SWTF6aHJoWWREYjB1LU9mZUU3WGRMOWdqSHZlZmF4dEdvb3pHaGpibk5tYWF6Qi1GNEFFMDdYbU5tNXJjcVM4MVpieXBnbjVDRDFIMEE?oc=5",
-   "ts": "Mon, 16 Nov 2026 02:25:59 GMT"
   },
   {
    "src": "gnews",
@@ -412,21 +418,15 @@
   },
   {
    "src": "gnews",
-   "title": "World leaders at the summit in Manila seek an alternative to the United States because of Trump's trade policy – Bloomberg - Українські Національні Новини (УНН)",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeVBObkZuNVFIMjFGLUtfS0pYQ0p3ZGk3eUwzc1E3b0pXS0t2TERPUHdBSGFaTFhqYmNpSFVXLXlaUVFZM1JxN0RlX05SZXZWcVVnUG0xLXVteFZ3YnZsSnY2OUwzSXg3VE5BbHdheEIxWXU1TEtYTzRfNVRFQmdnMkFtQ2Z1eExPYXdlN1NZRVRseUQyYmF2cHBVY0syU1hJWXVxYjNFN0RBUW1ZTzJCbkNKM09VcVNjOGdMNDhnQWJyUWRMRm54dXhmdDdxNUhkQWdfbDZ2elJHZ9IB2AFBVV95cUxQYmNSdWRycWpXc0puUjcxZ3dDZm9fRXd6UU5sVEtiX3llNGZ1clZ6TndtSHd6anBTdXYwREFFOHIzUlhrVkoydzRyRlExQ2hRWnhkUVBwZ0k4eGZfNXYyMElhajRPUGk2RjZuS3R1cVE3UFNzMHVuWFAxZVZ3dnhDRXdKbDFLMFExY3VIazZBc2NJZzZaOVNNTVprYl9hMzZLazFGLXZqM1FvWXB1ZzA5UThKbnplSkZJNnRPSmlad3RMTHFjQlFOcVVuRkRHeGlpRTQtZlZKY2g?oc=5",
-   "ts": "Mon, 16 Nov 2026 00:56:54 GMT"
+   "title": "Spy scandal and midterm defeat heat up Trump's Asia visit - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOenFHNWhhY2RJR3NNRHFqQ1pSaXRHMVM2VEN1WURVVTJjRFNJbXp2WnlZcE5PLUlIOWpVS3YxWm93NlFkVnpKYy1HdkFYYV9qczhGM21ERmpMX1RUUU9hNnEtZzNjdV9vVDVHVks5VG9xYVBQYmdZR0RPUFJHNThLQWs5b0NwM2UwS0N0cXRzcTZiclRKdmRjSlJabU9YWjVwZWc?oc=5",
+   "ts": "Mon, 16 Nov 2026 05:04:00 GMT"
   },
   {
    "src": "gnews",
    "title": "Australia Warns China Iron Ore Push Could Breach Trade Rules - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYm1uVkdRajZyYm1PUm9EX1lLVm82a3JUcDhxajFfcVIxdDJDdExxMW9PZjJEVURmMll2QzhHTWwxUy1pXzk1U0V2bG8xUmVRXzh2Z1VTZVU5bklJM2VQS3d6eW43TzVaenNLR0t3V0hGVEhvU1VIOWVJeWhxajJBNGtta0pXRDJheHJIYjhNZ2VZNXIteGw5SjZBRDBqUEx5TEJPbkJYS3MyQUxielJWZg?oc=5",
    "ts": "Sun, 15 Nov 2026 23:35:37 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Spy scandal and midterm defeat heat up Trump's Asia visit - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOenFHNWhhY2RJR3NNRHFqQ1pSaXRHMVM2VEN1WURVVTJjRFNJbXp2WnlZcE5PLUlIOWpVS3YxWm93NlFkVnpKYy1HdkFYYV9qczhGM21ERmpMX1RUUU9hNnEtZzNjdV9vVDVHVks5VG9xYVBQYmdZR0RPUFJHNThLQWs5b0NwM2UwS0N0cXRzcTZiclRKdmRjSlJabU9YWjVwZWc?oc=5",
-   "ts": "Mon, 16 Nov 2026 05:04:00 GMT"
   },
   {
    "src": "gnews",
@@ -454,9 +454,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China - Business Insider Africa",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
-   "ts": "Sat, 14 Nov 2026 20:44:32 GMT"
+   "title": "World leaders at the summit in Manila seek an alternative to the United States because of Trump's trade policy – Bloomberg - Українські Національні Новини (УНН)",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeVBObkZuNVFIMjFGLUtfS0pYQ0p3ZGk3eUwzc1E3b0pXS0t2TERPUHdBSGFaTFhqYmNpSFVXLXlaUVFZM1JxN0RlX05SZXZWcVVnUG0xLXVteFZ3YnZsSnY2OUwzSXg3VE5BbHdheEIxWXU1TEtYTzRfNVRFQmdnMkFtQ2Z1eExPYXdlN1NZRVRseUQyYmF2cHBVY0syU1hJWXVxYjNFN0RBUW1ZTzJCbkNKM09VcVNjOGdMNDhnQWJyUWRMRm54dXhmdDdxNUhkQWdfbDZ2elJHZ9IB2AFBVV95cUxQYmNSdWRycWpXc0puUjcxZ3dDZm9fRXd6UU5sVEtiX3llNGZ1clZ6TndtSHd6anBTdXYwREFFOHIzUlhrVkoydzRyRlExQ2hRWnhkUVBwZ0k4eGZfNXYyMElhajRPUGk2RjZuS3R1cVE3UFNzMHVuWFAxZVZ3dnhDRXdKbDFLMFExY3VIazZBc2NJZzZaOVNNTVprYl9hMzZLazFGLXZqM1FvWXB1ZzA5UThKbnplSkZJNnRPSmlad3RMTHFjQlFOcVVuRkRHeGlpRTQtZlZKY2g?oc=5",
+   "ts": "Mon, 16 Nov 2026 00:56:54 GMT"
   },
   {
    "src": "gdelt",

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-16T01:30:31Z",
+ "ts": "2026-11-16T01:45:19Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -347,15 +347,15 @@
   },
   {
    "src": "gnews",
-   "title": "The EU’s shaky start to balancing trade with China - GIS Reports",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yN0tONWZ1NjZ3dHZ5eEIxck1VTHNvTmN0Y3htZ2xXNnI3d0V5dkZYRTFWV2RjNDJGS1V6eVlxY2FUWDMxdjhZcUR4RXp3Vm5GSloyMEFlZ2Q2bGNDclIyZmthV0FYdS1KeUdaT2pMTUgyWWNEMXc?oc=5",
-   "ts": "Fri, 13 Nov 2026 07:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Canada Has ‘Eyes Wide Open’ in Push for Deeper China Trade Ties - Bloomberg",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNE5OV29NU2xOdjZvWU50WnIzcFdiRUUyc0VoTE5oSnNibV94WUZacG4wbVBKeDF1NUdVU19mRGk5cjBHYWh1VjJQNDF4a1dpM2xWZ1VzZldxS1psODNsQXZXa25JUDR2RGFjVkJxYkZoLWR0bVpNd0QwVkEtbkg4UlVyZUFFb05yaHFsa2ZzSEU0UWZDa3VfUGZkbF9mdENCX1NNWUh0U1F1eTRweWlPQWNn?oc=5",
    "ts": "Sun, 15 Nov 2026 23:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "The EU’s shaky start to balancing trade with China - GIS Reports",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yN0tONWZ1NjZ3dHZ5eEIxck1VTHNvTmN0Y3htZ2xXNnI3d0V5dkZYRTFWV2RjNDJGS1V6eVlxY2FUWDMxdjhZcUR4RXp3Vm5GSloyMEFlZ2Q2bGNDclIyZmthV0FYdS1KeUdaT2pMTUgyWWNEMXc?oc=5",
+   "ts": "Fri, 13 Nov 2026 07:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -425,12 +425,6 @@
   },
   {
    "src": "gnews",
-   "title": "US-China Trade Council Meets on $60B Tariff Deal and Agricultural Trade - News and Statistics - IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQzBZTm1XZ1FfYVRyNlVHZmpWRmpzVWtWLWtESVJ5Y21RcTVGVFN0dnhoMm1EZVlPY1owSmhOZmdpaEFONExzZ3JPTEREcXk1MUpGN0VhX20xMVQ0VHJJaHJNaUU4YjdEcmtXME5xWHNHSlF0YzNxNENDcUdoWV9yYW5HQjYyNlpiUkNrOERHOG5vWmdBazZ6RGtuNnA0RWhWaWwyMlFObHVCeHk2VVEzTHVpOA?oc=5",
-   "ts": "Sun, 15 Nov 2026 20:21:56 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Australia Warns China Iron Ore Push Could Breach Trade Rules - Bloomberg",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYm1uVkdRajZyYm1PUm9EX1lLVm82a3JUcDhxajFfcVIxdDJDdExxMW9PZjJEVURmMll2QzhHTWwxUy1pXzk1U0V2bG8xUmVRXzh2Z1VTZVU5bklJM2VQS3d6eW43TzVaenNLR0t3V0hGVEhvU1VIOWVJeWhxajJBNGtta0pXRDJheHJIYjhNZ2VZNXIteGw5SjZBRDBqUEx5TEJPbkJYS3MyQUxielJWZg?oc=5",
    "ts": "Sun, 15 Nov 2026 23:35:37 GMT"
@@ -446,6 +440,12 @@
    "title": "Trump’s Minerals Push Has Yet to Loosen China’s Grip Ahead of Xi Talks - The China-Global South Project",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUklrWTIzclRXM0RCUHV1OXZkeWJZX0ZfRkswUWNiSTV1Yk1RX1FtN0hPZzNWd0ljc2M4UzVZNDNYUzFSbG4xVzlJMkhKblBhOVJxc1VzZHByeXh4UlJaNzBmTHF3cVdzbHY5NUtxdTVsSGl6bzR6VkFvWXZJMEstbXlwLVllRDZaYWQw?oc=5",
    "ts": "Sun, 15 Nov 2026 15:51:34 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump trade chief Greer speaks with 'Squawk Box' as tariff threats rise - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREd1Qk8yb2FyRTJnblVuX0lQNkhyZWFfckhCVjZVTVJBR0RwbUtNZEppUHVWZ015aThqZGY1bG9BRExVRVhIM0E5NEhOa05wRENZNmswWWQ1TXlnWTlEZVJzSnhhLThZWDB5QS1QVElqMkFyZzBuZnJXOGNEd19XcnZFQU5YTk9S0gGOAUFVX3lxTE12b1JISnFVV18zV2RlTzAxX3lyX2pHSmg3Qkh2b3VuNmFXcjlCUExLaHd5TGZjQ0JCRmNwTy0yc19iQ2FEa1ktRDdZeExMSm9mZ2lQcWNnSHFCYzVzRmg4NUR4MWJzdHpfNDY5Zjl2QmNnSkJlTXYtRUZNb0pfWkY1Z1BCSmpBU3NBeE0xZUE?oc=5",
+   "ts": "Thu, 12 Nov 2026 13:31:40 GMT"
   },
   {
    "src": "gnews",

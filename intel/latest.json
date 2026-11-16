@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-16T03:00:24Z",
+ "ts": "2026-11-16T03:15:21Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -359,12 +359,6 @@
   },
   {
    "src": "gnews",
-   "title": "The EU’s shaky start to balancing trade with China - GIS Reports",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yN0tONWZ1NjZ3dHZ5eEIxck1VTHNvTmN0Y3htZ2xXNnI3d0V5dkZYRTFWV2RjNDJGS1V6eVlxY2FUWDMxdjhZcUR4RXp3Vm5GSloyMEFlZ2Q2bGNDclIyZmthV0FYdS1KeUdaT2pMTUgyWWNEMXc?oc=5",
-   "ts": "Fri, 13 Nov 2026 07:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
    "ts": "Sat, 14 Nov 2026 08:38:39 GMT"
@@ -392,6 +386,12 @@
    "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
    "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - Oskaloosa Herald",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQR3Vkd25rdXhmX1Q4eXpybGhhWktkUFlNZTRZMm4zdFZpNU1HZ1ZKRmRtY3hQdUhEbUhlX1VNWDB0c1FEZkNVWGJwdkpCM2RwLVRFN0Z4YkFQbUNOQnJ6TTJhdDlLMmMzZVgxY2ZELVBHTGMzd0NQVjFDTmlINVZOdmFBQlk5ZHNuNDY2QURPUkh4ZXp0QWRocnRjakZvVW84WmE4RkM0dWFVZ3hRSTNlZGVsNEZPUnhuZFEtQlBXdzBuTGQ5SGQ1MUNwd0syNDRKemlmbmswX2hEcnNzT1VRZ3VYX1M3X3ctamNRNzhXYl9SUnVvalZPUHd2V1FKVGp0UEE?oc=5",
+   "ts": "Mon, 16 Nov 2026 02:25:59 GMT"
   },
   {
    "src": "gnews",
@@ -443,6 +443,12 @@
   },
   {
    "src": "gnews",
+   "title": "Trafigura Is Key Player in Aluminum Squeeze With China Trade - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSTlHdGJudFBBbEQ1V2tkY09oZ3Q2b050dkc2RnU0ejhoWV93M1phbnNMa096ZTdRd0p2TEd6TmFWS1Npa1pTY1lkWGlGVkM4RENSSnVMVHhMRjFmTE1Wb2VLQldiRWJYaU1XVXkwYzZ6NldRT0hGbDlmVlpuaU5ydUNJM0Z5ZGFSSkxoWHcyMTl2amVmQ05ORlJXOHhsTU5YUDhJSERlcmJKb1gteFcxT2pDZXZmdw?oc=5",
+   "ts": "Fri, 13 Nov 2026 10:32:22 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "World leaders at the summit in Manila seek an alternative to the United States because of Trump's trade policy – Bloomberg - Українські Національні Новини (УНН)",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeVBObkZuNVFIMjFGLUtfS0pYQ0p3ZGk3eUwzc1E3b0pXS0t2TERPUHdBSGFaTFhqYmNpSFVXLXlaUVFZM1JxN0RlX05SZXZWcVVnUG0xLXVteFZ3YnZsSnY2OUwzSXg3VE5BbHdheEIxWXU1TEtYTzRfNVRFQmdnMkFtQ2Z1eExPYXdlN1NZRVRseUQyYmF2cHBVY0syU1hJWXVxYjNFN0RBUW1ZTzJCbkNKM09VcVNjOGdMNDhnQWJyUWRMRm54dXhmdDdxNUhkQWdfbDZ2elJHZ9IB2AFBVV95cUxQYmNSdWRycWpXc0puUjcxZ3dDZm9fRXd6UU5sVEtiX3llNGZ1clZ6TndtSHd6anBTdXYwREFFOHIzUlhrVkoydzRyRlExQ2hRWnhkUVBwZ0k4eGZfNXYyMElhajRPUGk2RjZuS3R1cVE3UFNzMHVuWFAxZVZ3dnhDRXdKbDFLMFExY3VIazZBc2NJZzZaOVNNTVprYl9hMzZLazFGLXZqM1FvWXB1ZzA5UThKbnplSkZJNnRPSmlad3RMTHFjQlFOcVVuRkRHeGlpRTQtZlZKY2g?oc=5",
    "ts": "Mon, 16 Nov 2026 00:56:54 GMT"
@@ -452,12 +458,6 @@
    "title": "The China Shock in the AI Era - Time Magazine",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kVHNxLWdkakZXWEpaa2tHUkwxTnhOYVFqUEgzT0N5cWxzUjZTclZ5N2NHX3pDOGpBOWNYQkNWV3RlaFktOHZNNG1UVHUtRDRmMmI1NjktcTBSalp4NHN3M1JvNEtsWWd2UW5iMTlIblI1azN2?oc=5",
    "ts": "Sat, 14 Nov 2026 12:00:04 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1RucjZ4VXNEU1dsQXR0QVJlTXlwM2dVSmM3d0VxdjFsZU8tbE9hT01qVXVjVHlWWWV3Rk9jblZlczBwU2NaY2djZ0o4dkxzdkxyN0FnTjk2MEt4X0Y4WktXU2VjaDhDbzdkazVQM044RDhEZlJUaWVQVklyT2xCcVpSdlU?oc=5",
-   "ts": "Mon, 16 Nov 2026 01:42:33 GMT"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-16T08:15:20Z",
+ "ts": "2026-11-16T08:30:27Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -353,15 +353,15 @@
   },
   {
    "src": "gnews",
-   "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda? - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3F0YmYwUDBReEkyTFRDWnc5b2k2cnVQQ3l5WExtZzdtRi0yT1J6OXdjWUFRb05YYl9ZSHo4bFpJbkRkR29oUVJMRWE1LXRJNnRzMnFVclY1STFjOUE1X2xBajBsQXRyUjNuVkZ1TEhmOG1RRUdHeUxwR1Q5Zk1JeHNKa3EzZHpPdWE3X2lQX1hJZ9IBlwFBVV95cUxQdXFsN29GRHBmQVZoUWlBSk8zRkRsUG02WDR3QVlveTF3RDhUNU9oamxncXNNWFRvMGdpVmR0WkhycnUtdHJQSWJRRlA4VXY3MURUMXQxLXVMeG1PMnBqd1RWaGNfSWtGX1NheTdPYUtUcTNIX2xkbHhhMTRNdlhoVTd5X09oMnBsb3llSmVRNHhKVFU0bGc0?oc=5",
-   "ts": "Mon, 16 Nov 2026 04:34:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Spy scandal and midterm defeat heat up Trump's Asia visit - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOenFHNWhhY2RJR3NNRHFqQ1pSaXRHMVM2VEN1WURVVTJjRFNJbXp2WnlZcE5PLUlIOWpVS3YxWm93NlFkVnpKYy1HdkFYYV9qczhGM21ERmpMX1RUUU9hNnEtZzNjdV9vVDVHVks5VG9xYVBQYmdZR0RPUFJHNThLQWs5b0NwM2UwS0N0cXRzcTZiclRKdmRjSlJabU9YWjVwZWc?oc=5",
    "ts": "Mon, 16 Nov 2026 05:04:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda? - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3F0YmYwUDBReEkyTFRDWnc5b2k2cnVQQ3l5WExtZzdtRi0yT1J6OXdjWUFRb05YYl9ZSHo4bFpJbkRkR29oUVJMRWE1LXRJNnRzMnFVclY1STFjOUE1X2xBajBsQXRyUjNuVkZ1TEhmOG1RRUdHeUxwR1Q5Zk1JeHNKa3EzZHpPdWE3X2lQX1hJZ9IBlwFBVV95cUxQdXFsN29GRHBmQVZoUWlBSk8zRkRsUG02WDR3QVlveTF3RDhUNU9oamxncXNNWFRvMGdpVmR0WkhycnUtdHJQSWJRRlA4VXY3MURUMXQxLXVMeG1PMnBqd1RWaGNfSWtGX1NheTdPYUtUcTNIX2xkbHhhMTRNdlhoVTd5X09oMnBsb3llSmVRNHhKVFU0bGc0?oc=5",
+   "ts": "Mon, 16 Nov 2026 04:34:00 GMT"
   },
   {
    "src": "gnews",
@@ -377,21 +377,15 @@
   },
   {
    "src": "gnews",
-   "title": "Demand for Chinese Goods Is Soaring but Economic Momentum Is Slowing at Home - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTVl1aGxrVkh0SGpPTXRaUHpEM0lTTmQtdHEySlRNWE9vbVh4OWJwTlBocGpiQzBrVHg0RGFndGZkRGFGWWdxb3RMdHBsc1c3alFpbFNqVUxEVm1yUUwwN2F3NnpOQl9vZVpPbS1uZnJ3UFJyVXpCQ0FIc2FYNWI3b05haGVNVG1IY2xB?oc=5",
-   "ts": "Mon, 16 Nov 2026 06:59:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "A Year On, Canada’s Mark Carney Returns to China a Political Star - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdTVOWXJpNHRrbEdDLUZabTFFX2lvR0R0RE54bl9DMVFhZ1d3RTVSX0N1ZWVQV196V2szUGJjXzNjZkE5QS1kekVReDhHS2hfVU1keTg3a3AzaElhSUhNeU80Mm5IVXZ0ei1WOEVRcjlfdWMzZWYzV01JUnNUQklUOVphY083OE15ZFVyaUZuTQ?oc=5",
-   "ts": "Mon, 16 Nov 2026 05:01:22 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal - The Hill",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmNDaEFOUjhyQ3dSTXZ5c1pkT0hpdEVqT0tmOGk2cVVDZ1pZT3EtNVlLczVuYllZd0ZWRGRBQmxiY0hTMFJTQXE0YWN0dTA3RzA2N3VmM0MtRzNycGpqbHh6RlZKMGtnaEkwRzZYVUxuLWs2U19jQS1HLS1xb01hZi13Yjh5UnFxSXdScDI1bUHSAZYBQVVfeXFMT084UmYyZ2JNVTg5ZFJKR0N4MTR2SFF5ekRwdFdsNnlTeVQ5dExLUmhlclcycVFuUS1TRHFRTnFWWHp3MVQ0ZzBFbFdST0VkWEh2QTRreVZnaGpGRTJKM3h1aHhsVHZ1VXJtZGpJb3N3RjE4RXJ5TFNFeGVrTjF6R1R2akUwaU9LQWdfSHZUeDNqOUY1UVlB?oc=5",
    "ts": "Sun, 15 Nov 2026 00:26:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Demand for Chinese Goods Is Soaring but Economic Momentum Is Slowing at Home - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTVl1aGxrVkh0SGpPTXRaUHpEM0lTTmQtdHEySlRNWE9vbVh4OWJwTlBocGpiQzBrVHg0RGFndGZkRGFGWWdxb3RMdHBsc1c3alFpbFNqVUxEVm1yUUwwN2F3NnpOQl9vZVpPbS1uZnJ3UFJyVXpCQ0FIc2FYNWI3b05haGVNVG1IY2xB?oc=5",
+   "ts": "Mon, 16 Nov 2026 06:59:00 GMT"
   },
   {
    "src": "gnews",
@@ -407,6 +401,12 @@
   },
   {
    "src": "gnews",
+   "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
+   "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
    "ts": "Sat, 14 Nov 2026 08:38:39 GMT"
@@ -416,12 +416,6 @@
    "title": "Australia Warns China Iron Ore Push Could Breach Trade Rules - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYm1uVkdRajZyYm1PUm9EX1lLVm82a3JUcDhxajFfcVIxdDJDdExxMW9PZjJEVURmMll2QzhHTWwxUy1pXzk1U0V2bG8xUmVRXzh2Z1VTZVU5bklJM2VQS3d6eW43TzVaenNLR0t3V0hGVEhvU1VIOWVJeWhxajJBNGtta0pXRDJheHJIYjhNZ2VZNXIteGw5SjZBRDBqUEx5TEJPbkJYS3MyQUxielJWZg?oc=5",
    "ts": "Sun, 15 Nov 2026 23:35:37 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
-   "ts": "Tue, 10 Nov 2026 03:11:39 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +452,12 @@
    "title": "Carney Draws Red Line On Trump Trade Deal Over Auto Jobs - Newsweek",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZm84Z0c0b3VhY2pNckJZUUxxcW80NUJEMVJjeUFGa2QweVhwRXFDU1VOeWltYnZJRFl4U2JkdGdlV2d4akNUYldYYUJfeEdtSEdtMXlaOFNVaGJqWF9DV0hKaXplUnpIMjlSZHdiQWhDRVdSS29nSnhMWXlFZVVqMTlFZF9wWUJuUjhzd2FR?oc=5",
    "ts": "Sat, 14 Nov 2026 12:01:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China - Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
+   "ts": "Sat, 14 Nov 2026 20:44:32 GMT"
   }
  ]
 }

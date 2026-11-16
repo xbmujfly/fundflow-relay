@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-16T15:00:21Z",
+ "ts": "2026-11-16T15:15:21Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -167,6 +167,12 @@
   },
   {
    "src": "ustr",
+   "title": "Ambassador Greer Pens Letter to the Editor of the Wall Street Journal on how Tariffs are Advancing Americans’ Long-Term Prosperity",
+   "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ambassador-greer-pens-letter-editor-wall-street-journal-how-tariffs-are-advancing-americans-long",
+   "ts": "Mon, 16 Nov 2026 14:58:11 +0000"
+  },
+  {
+   "src": "ustr",
    "title": "United States Seeks Mexico’s Review of Alleged Denial of Workers’ Rights at Industrias FG",
    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-industrias-fg",
    "ts": "Fri, 13 Nov 2026 21:27:00 +0000"
@@ -212,12 +218,6 @@
    "title": "United States Announces Successful Resolution of Rapid Response Labor Mechanism Matter at Amphenol Optimize",
    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/united-states-announces-successful-resolution-rapid-response-labor-mechanism-matter-amphenol",
    "ts": "Fri, 23 Oct 2026 20:06:58 +0000"
-  },
-  {
-   "src": "ustr",
-   "title": "United States and Mexico Announce Course of Remediation at Minera Peñasquito",
-   "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/united-states-and-mexico-announce-course-remediation-minera-penasquito",
-   "ts": "Fri, 23 Oct 2026 13:06:37 +0000"
   },
   {
    "src": "fed",
@@ -367,7 +367,7 @@
    "src": "gnews",
    "title": "Demand for Chinese Goods Is Soaring but Economic Momentum Slows at Home - WSJ",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTVl1aGxrVkh0SGpPTXRaUHpEM0lTTmQtdHEySlRNWE9vbVh4OWJwTlBocGpiQzBrVHg0RGFndGZkRGFGWWdxb3RMdHBsc1c3alFpbFNqVUxEVm1yUUwwN2F3NnpOQl9vZVpPbS1uZnJ3UFJyVXpCQ0FIc2FYNWI3b05haGVNVG1IY2xB?oc=5",
-   "ts": "Mon, 16 Nov 2026 07:14:59 GMT"
+   "ts": "Mon, 16 Nov 2026 06:59:00 GMT"
   },
   {
    "src": "gnews",
@@ -377,15 +377,21 @@
   },
   {
    "src": "gnews",
-   "title": "The Trump-Xi Talks Just Got More Complicated - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbzZTMTRGV3Z3S0hSQUlJS19RdnlYRnppdkVVbFBETElPMVowYW9ZOWJuS3VnZFJNa2NUZWNmMmtjUVI3N1JVWEd3SjlNbm1iOVJJNW5SWTJsSERONThYcW16aHp1Nk1MWE1hSVpBQlZ0eWZkOW9nS1A2bjlZMGRVZQ?oc=5",
-   "ts": "Mon, 16 Nov 2026 14:03:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal - The Hill",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmNDaEFOUjhyQ3dSTXZ5c1pkT0hpdEVqT0tmOGk2cVVDZ1pZT3EtNVlLczVuYllZd0ZWRGRBQmxiY0hTMFJTQXE0YWN0dTA3RzA2N3VmM0MtRzNycGpqbHh6RlZKMGtnaEkwRzZYVUxuLWs2U19jQS1HLS1xb01hZi13Yjh5UnFxSXdScDI1bUHSAZYBQVVfeXFMT084UmYyZ2JNVTg5ZFJKR0N4MTR2SFF5ekRwdFdsNnlTeVQ5dExLUmhlclcycVFuUS1TRHFRTnFWWHp3MVQ0ZzBFbFdST0VkWEh2QTRreVZnaGpGRTJKM3h1aHhsVHZ1VXJtZGpJb3N3RjE4RXJ5TFNFeGVrTjF6R1R2akUwaU9LQWdfSHZUeDNqOUY1UVlB?oc=5",
    "ts": "Sun, 15 Nov 2026 00:26:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "The Trump-Xi Talks Just Got More Complicated - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbzZTMTRGV3Z3S0hSQUlJS19RdnlYRnppdkVVbFBETElPMVowYW9ZOWJuS3VnZFJNa2NUZWNmMmtjUVI3N1JVWEd3SjlNbm1iOVJJNW5SWTJsSERONThYcW16aHp1Nk1MWE1hSVpBQlZ0eWZkOW9nS1A2bjlZMGRVZQ?oc=5",
+   "ts": "Mon, 16 Nov 2026 14:19:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Washington Week Ahead: China trade, ag forum, permit reform on tap - Agri-Pulse Communications, Inc.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGZWbk5EbTU1bnlsNzRrS3FvRmI4WTlwZ0dIVEQ4OGFLNHVMM09lUXUxc3FWbmY2U2I5d0tuaUk5Z045aGw3MkhjOTFBU0IteHlJV1VpYkViQ0w5TThWelRJN3U4MG1USENHa3VwdW9nekRLYzlIb0FWXzdvVU4yWHJHMkEwOTRwWjQ5VnRqcDBvS094VlY4UWdrZ3RBc0M0SWUwYWRiOVQ?oc=5",
+   "ts": "Sun, 15 Nov 2026 23:44:10 GMT"
   },
   {
    "src": "gnews",
@@ -395,9 +401,9 @@
   },
   {
    "src": "gnews",
-   "title": "Washington Week Ahead: China trade, ag forum, permit reform on tap - Agri-Pulse Communications, Inc.",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGZWbk5EbTU1bnlsNzRrS3FvRmI4WTlwZ0dIVEQ4OGFLNHVMM09lUXUxc3FWbmY2U2I5d0tuaUk5Z045aGw3MkhjOTFBU0IteHlJV1VpYkViQ0w5TThWelRJN3U4MG1USENHa3VwdW9nekRLYzlIb0FWXzdvVU4yWHJHMkEwOTRwWjQ5VnRqcDBvS094VlY4UWdrZ3RBc0M0SWUwYWRiOVQ?oc=5",
-   "ts": "Sun, 15 Nov 2026 23:44:10 GMT"
+   "title": "Trump travels to China for meetings with Xi to talk trade and denuclearization, but one major topic isn’t on the agenda - MS NOW",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeGZqSmJZLW1GM2Z4c3QzV3Jidlc0YUNsZWJ3WEJMZk9IUEkwMFJ6b2hCNmxYdm1wbzBVRkRsZlVfWElVaUtoc1VlMndlMWtZUXlvcExyUmgyYVROYmhxbG8zMlJraEtCLWhrMzRJbUsxcVFXMF96YUladkpJRnR3bTlXS1RiUGtlOHFKVEdSeHdBeFJxZU1YTHVRemk?oc=5",
+   "ts": "Mon, 16 Nov 2026 14:17:36 GMT"
   },
   {
    "src": "gnews",
@@ -410,12 +416,6 @@
    "title": "How Congress might take back its trade powers and limit Trump's tariffs - Peterson Institute for International Economics",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd3dkbjI5MjdTckFXd2lKQk5VWTJybnlhMzVIVWRNLTdjQXA5aEQ2U2g0SjdETDRTSEtiLXBQS2JpQWwzQXNPNVhKMXpfRm16ckJNYTdTUl9iRnBqTmFrRnptLW1NWmVVUzd6QUVPTl90QlR6MUdBVEVINDJ3VG9lWDBEbWMwQjZTcUhxTThDeXlOREFBcEc3QTk2Qlo1QUZkd29kT3FsMG8wNkhpRzVnZWVDTQ?oc=5",
    "ts": "Fri, 13 Nov 2026 16:57:34 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump travels to China for meetings with Xi to talk trade and denuclearization, but one major topic isn’t on the agenda - MS NOW",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeGZqSmJZLW1GM2Z4c3QzV3Jidlc0YUNsZWJ3WEJMZk9IUEkwMFJ6b2hCNmxYdm1wbzBVRkRsZlVfWElVaUtoc1VlMndlMWtZUXlvcExyUmgyYVROYmhxbG8zMlJraEtCLWhrMzRJbUsxcVFXMF96YUladkpJRnR3bTlXS1RiUGtlOHFKVEdSeHdBeFJxZU1YTHVRemk?oc=5",
-   "ts": "Mon, 16 Nov 2026 14:17:36 GMT"
   },
   {
    "src": "gnews",

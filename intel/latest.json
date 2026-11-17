@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-17T11:15:31Z",
+ "ts": "2026-11-17T11:30:25Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,21 +341,27 @@
   },
   {
    "src": "gnews",
-   "title": "How Trump and Xi went from tariff war to trade truce - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1B5ZTVMbHctSmxMMmV2SFRrM25UM2ZvZmJpZkpnMXVCSGRVNjlQbFZrQmVRX1poOXdoQjNiV056eGxRUlhpUnVyclQ3aVBXWHBhS1JXUHZLVmtPcHhVMlotQ2JfbUhZZVRndlg3NzJNci14MEJKdkw1c3BoVWYwOFlBbzlGS25WVGxFRy1tV3h2WGJHV3FOeGpBcnJHSUdvVTc4N2VB?oc=5",
-   "ts": "Tue, 17 Nov 2026 03:49:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney and Xi Announce Trade Pact Ahead of Asia Summit - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
    "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
   },
   {
    "src": "gnews",
+   "title": "How Trump and Xi went from tariff war to trade truce - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1B5ZTVMbHctSmxMMmV2SFRrM25UM2ZvZmJpZkpnMXVCSGRVNjlQbFZrQmVRX1poOXdoQjNiV056eGxRUlhpUnVyclQ3aVBXWHBhS1JXUHZLVmtPcHhVMlotQ2JfbUhZZVRndlg3NzJNci14MEJKdkw1c3BoVWYwOFlBbzlGS25WVGxFRy1tV3h2WGJHV3FOeGpBcnJHSUdvVTc4N2VB?oc=5",
+   "ts": "Tue, 17 Nov 2026 03:49:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
    "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump arrives in Philippines to kick off Asia trip - NPR",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SMjBaUkhva3F0V2lNb3pUanRWRDRjdjNreFRyc1cxMzlxMXBIMVJRR3RIUnFMSUZpQUtYMDlnM0NWLXVqU0tnampxRWphSjB2cUtlaUtJTUVoNTdVdE5SWDQxRUZibWRuYVRtVEt1cjFNRkQya0gtTk5R?oc=5",
+   "ts": "Tue, 17 Nov 2026 10:43:55 GMT"
   },
   {
    "src": "gnews",
@@ -383,15 +389,15 @@
   },
   {
    "src": "gnews",
-   "title": "After the Blue Tsunami: Getting rid of Trump’s tariffs - Peterson Institute for International Economics",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWtiWTk0d2VDVjVNanNKU3NYYjBqQ1Vuc3I1VFlfWVFtZjdrREdRVlJpNEFyVjhRam55LXhQbkJJWldtNEZHRU9GME5waVpqR2VnWEZEc1R5U3RZMmNkVExUUVRsZVBpSlkyTG5OZW5XcHVkRE5fWE14RldiaGdIV3M3bU1WenYzblpkaFVQY2xXaUFqVzV5ZWhDT2c?oc=5",
-   "ts": "Mon, 16 Nov 2026 17:13:36 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump to arrive in the Philippines to talk trade and seek respite from troubles at home - KVUE",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLTZqdklKU3ctQUEzc1otYmFkWXJnOUQ2UE5rYTBLeEdIcGY4X1NkYmxBTkJZXzhLbFlPeDlvVUE0YU5PSGx6aVlxakt2bnZhbGdSZ1pLQ25aQ0k1bURVZll2cUplWk5CTU1VSGg1TEZaZndDTFRnc1lSSlF0MFNTVllFYTVTU3lDSjFad0ZEUmFhSl9DUFdrZ2g4VzdKbGRfeW9xX0ZoTmhfeHo5d1FnZnhkMEF1UGtHbzNTaTN3eDB4T0xrZF9Va0F3Z3FoQQ?oc=5",
    "ts": "Tue, 17 Nov 2026 06:55:37 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "After the Blue Tsunami: Getting rid of Trump’s tariffs - Peterson Institute for International Economics",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWtiWTk0d2VDVjVNanNKU3NYYjBqQ1Vuc3I1VFlfWVFtZjdrREdRVlJpNEFyVjhRam55LXhQbkJJWldtNEZHRU9GME5waVpqR2VnWEZEc1R5U3RZMmNkVExUUVRsZVBpSlkyTG5OZW5XcHVkRE5fWE14RldiaGdIV3M3bU1WenYzblpkaFVQY2xXaUFqVzV5ZWhDT2c?oc=5",
+   "ts": "Mon, 16 Nov 2026 17:13:36 GMT"
   },
   {
    "src": "gnews",
@@ -416,12 +422,6 @@
    "title": "Trump Administration Moves to Block China From Indirect Access to American AI Technology - U.S. News & World Report",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRDZURUQ4U2JLYkxhdy1lSzVqNjhhMXRabzBtVmhxdjZwSHpmby1pZ0VwTjBfSzA2czVnRDFONjdTZFVjajJqaVJxTENlVHFxNkRwcXdRT214aUdDcHhuam1LNHRsYTktcGluQXdfS2djZXVDNjBXcnZraWpwRFlCNlRvOGp6UlpZdjVBdDhjQUVEVlFxOFlWWG9XMVlBWHRZT2JTRjA3VF9fY0w0R2RETmtUd0pqMTJ2b2U5SDYwMUFRTlF2MVBpSklnNHVsd2lGSmFaU2hRX1JpTF9lcmc?oc=5",
    "ts": "Tue, 17 Nov 2026 08:34:25 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Canada's Carney and China's Xi agree to ease tariffs amid trade rows with US - DW.com",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVnJ4OENXX0ZhUXh0X09xWm9aMnB0NG96SGZzMXFDSWpvZTNpczJrNGxFbmdLbFBibGNHcGkzM2dLeEtpNkJqUUI5QU9QYlYyNVUxOW1iVUJFZjNWTmg2QTdnU0VoTXk1Slp4UXdoX0JtdWh3QlZCMkJOOUx5aTF6QzNMQl9seHNKUjhKbE5OWHhZWGM4ckHSAZYBQVVfeXFMTk1mMGtnLVJPNE1BaERZWlMwS2VCdkFYd2Q0QVdlMkJVMi1MQ3VrSUQ2d0ZVVllBQ0RVcWpHODl1RndMYzNickF4VmpORmEtQWRkM0R6QmlYQ3RKaXE5LWhqVmlJc3pMQlA4WXpxNGdYMDVNOEQzaDY0dWI1RTRtVVVnZFdfM1FFRk1OdkhwamhOWVVzdHJ3?oc=5",
-   "ts": "Tue, 17 Nov 2026 07:59:03 GMT"
   },
   {
    "src": "gnews",

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-17T05:00:24Z",
+ "ts": "2026-11-17T05:15:19Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -352,6 +352,12 @@
   },
   {
    "src": "gnews",
+   "title": "China, Canada Expand Tariff Relief in Deepening Trade Thaw - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDF2Y3hmbXN1MWVDZGE5LVJDUE9NeEltNDdEU1hwckVTSmhHcmFNTWczVVhGSGtnaTVSM0hybGh5amRNOHl3a19RUHlHN0ttX1ZGeWNvdTFzTzRBUm84djJ3TG9FS29nQUd2dDlSS09JQWROaWRwZFJhS2ZRaTNCQ0xKbmtoYzgteHg0eGJ6bmlrX2FuWTFuNm1IaDl2cEdCWFhKOTBoU3cwOWc2?oc=5",
+   "ts": "Tue, 17 Nov 2026 03:37:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump Administration Divide on China Policy Breaks Into Public View - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFBkeWJNdWI0X24zalBrRVZwNWVrRENBYUM0NEpiNDZvX3g4Rk9xdkloYy1sRDI3aWFOaVl4cFVwX0JuaU5Eai1DeGRHLUJuZmhndVRoN3BkbEstWlItVHNvNkJtRHFNdGpOSV91V0VVZ2hQdDJjZ3V5c0t2RTRGSm1IMHA?oc=5",
    "ts": "Tue, 17 Nov 2026 03:48:50 GMT"
@@ -364,27 +370,15 @@
   },
   {
    "src": "gnews",
-   "title": "China, Canada Expand Tariff Relief in Deepening Trade Thaw - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDF2Y3hmbXN1MWVDZGE5LVJDUE9NeEltNDdEU1hwckVTSmhHcmFNTWczVVhGSGtnaTVSM0hybGh5amRNOHl3a19RUHlHN0ttX1ZGeWNvdTFzTzRBUm84djJ3TG9FS29nQUd2dDlSS09JQWROaWRwZFJhS2ZRaTNCQ0xKbmtoYzgteHg0eGJ6bmlrX2FuWTFuNm1IaDl2cEdCWFhKOTBoU3cwOWc2?oc=5",
-   "ts": "Tue, 17 Nov 2026 03:37:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "President Trump Signs Trade Deal with Thailand - C-SPAN",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2YzdUU0dmwyZmJGRXRiUGRYRjVWSHN0ajdvUkpYYTFPcGZmd2RmeERZckc5ZXZFWVJVUjI1YmR3MjRKeHpZTHVLdVQ3WFdSZ3NJdzdrM2ZqZjRMYnhiazJ4SGhQLTcxTWdxUE5SZ0lpbkp3OTFMUFRGcHBaeWZKQWR3UEVlaERIOEZ2TzdZRGdHT3V5aHFkaWhNZFJGSXpUaVE?oc=5",
-   "ts": "Tue, 17 Nov 2026 02:40:17 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump, Xi Meet This Week: Could Footwear See U.S., China Pause Trade Truce Extension a Second Time? - WWD",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUU5qZDA3cDJLNlNmNnF4ZTh0WTZ6bm1ZZTJhdWdVMHN4SXlPQUF0U01kZGpjNkhYTENrZ0VNalh3YVBHcF9naU5td0pwM0c3M2NVd3BoWFo3SjNiLThhNjZtSFdkUWVEcWU2bEYzTDlILUFpMXRGUmNCdnZzckNGYmNjeU9GNVFOMzFvM25kVUNERHJoTERWcWlnZmRqZHJBdWxmUTVQaGVQclhLVUhzd2lmcw?oc=5",
    "ts": "Tue, 17 Nov 2026 01:33:41 GMT"
   },
   {
    "src": "gnews",
-   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
-   "ts": "Sat, 14 Nov 2026 08:38:39 GMT"
+   "title": "President Trump Signs Trade Deal with Thailand - C-SPAN",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2YzdUU0dmwyZmJGRXRiUGRYRjVWSHN0ajdvUkpYYTFPcGZmd2RmeERZckc5ZXZFWVJVUjI1YmR3MjRKeHpZTHVLdVQ3WFdSZ3NJdzdrM2ZqZjRMYnhiazJ4SGhQLTcxTWdxUE5SZ0lpbkp3OTFMUFRGcHBaeWZKQWR3UEVlaERIOEZ2TzdZRGdHT3V5aHFkaWhNZFJGSXpUaVE?oc=5",
+   "ts": "Tue, 17 Nov 2026 02:40:17 GMT"
   },
   {
    "src": "gnews",
@@ -400,15 +394,21 @@
   },
   {
    "src": "gnews",
-   "title": "How Trump and Xi Moved From Tariff War to Trade Truce (Timeline) - Global Banking & Finance Review",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPalY3MHVPcWdGVTc0bVBzandqY0trLWJzR1hrUWxsN2x3QzBqbTc0b0tkbTB0eVdQZExUSXczRjhfUEVndi1YTm0wa3FlOHFua2Y3OXd0NEpSOTRpYXJpMHc3bEhsdl9EWGhVNkVvRGdzRW9mZko1SnNnMjBwS3BPcTZUcw?oc=5",
-   "ts": "Tue, 17 Nov 2026 03:59:44 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump travels to China for meetings with Xi, but one major topic isn’t on the agenda - MS NOW",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeGZqSmJZLW1GM2Z4c3QzV3Jidlc0YUNsZWJ3WEJMZk9IUEkwMFJ6b2hCNmxYdm1wbzBVRkRsZlVfWElVaUtoc1VlMndlMWtZUXlvcExyUmgyYVROYmhxbG8zMlJraEtCLWhrMzRJbUsxcVFXMF96YUladkpJRnR3bTlXS1RiUGtlOHFKVEdSeHdBeFJxZU1YTHVRemk?oc=5",
    "ts": "Mon, 16 Nov 2026 14:16:56 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "How Trump and Xi went from tariff war to trade truce By Reuters - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTE16V2dGNUpYb19Kd0RWVHYyZ0ZRazE3RXg0WG5ZV1QtSzZKamtHSDVZOXVzZnNfaHFCSE5wbm92dUhUcERrckNKVjJyNWRWbnJGU3dWdHF3bFRYRDRxdTJoMHh6RzlkWk00bU1IZ0tMVWZ2X3BqOUNNX3UtTEZtWlhfM3pEZEFNVWdpaDEzMVY1YldWdFdLWGdVeUQwT3dMRm8zNGJRcVhXblpzWVE?oc=5",
+   "ts": "Tue, 17 Nov 2026 03:57:30 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump arrives in the Philippines on Tuesday to talk trade and seek respite from troubles at home - KTVN",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNlJwOUtES21GTTdaQURQTzFPR1h4Q3d5TVJIaWxaYXUxWU1pb0dCdDNRV2kwR0hyYTVaWXVoUEEyMUpXaHRLNmdJRnQycllnVWhYNGYwY0NfOUpDTjdWdlZmdVkyQ3FMTnpHay15S2FrNi0xZWpoekE4eXd3anRTNjFpWDRRaGg3ZlFSYkQ0clZaTXNNYzY5VnhsRlBWZ0pud3o1MjdrME9fLVBSbWY5akJuS3Y1dXBSVWM1eTdXVTQxS0xBZEhLSmJpU3dmdnlIMkJFRXNQYy1NSWdRQ3U3c290QW5jRy1lRlYzZVRHUGRackZFNmhLbVpvQlhYTlliTnc?oc=5",
+   "ts": "Tue, 17 Nov 2026 05:01:37 GMT"
   },
   {
    "src": "gnews",
@@ -436,9 +436,9 @@
   },
   {
    "src": "gnews",
-   "title": "China trade relations face fresh tests - FarmWeekNow",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV1AwTDVYSlkyY1VPZWxuY3V4SmJUVU5iY1B2eHl5RVVEZmt6WkxraEhSNWhjVENnaEJpNnljeTk0SWM5RnBZdktnS05rMlVrYTVWdGw2aDNyQmdhVHBpdU1VWTNBeWdWZ05iLWk3T3FXZm9XUGRzR2dWbmhIRVNjTDVVRF93NVpybTYyM3VfLTE5WnlWdEIxcjJDUE43Sko0ekxRU1FvSXpqV3NtamFOb1V0WFlJQ1NSX2trZGpYRXQyU3hpeXFFOU9CUk9saUlWaFlZ?oc=5",
-   "ts": "Mon, 16 Nov 2026 06:00:00 GMT"
+   "title": "Illinois Soybean Association strengthens trade ties during mission to China - Herald-Whig",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORDFLcjYtMHFUXzdsQVRuTU52dHJGdlRGMXNfVERvWHFyaXU0Wk82SzQxSWpPN2hqYTN1X25fWHYzbmpfVF9sSnlHYkNpRE03MklBbkp6N2V1U195MDQyYVNjNDNlVS1zd0d0Tk5TZ0ZpWjVzVWI4OU80QThma2xzckRqaExISHZjT3JTSXpzWjFfR21ZdFVUZnVYTHF3NHdfTEF5bEFzVQ?oc=5",
+   "ts": "Mon, 16 Nov 2026 21:51:36 GMT"
   },
   {
    "src": "gnews",
@@ -448,15 +448,15 @@
   },
   {
    "src": "gnews",
-   "title": "Canada could turn to Chinese automakers without US deal: Carney - The Hill",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQjJDN2hSa25HcVNUUEJfOF9hT080bGRnMmdKOHBRbG9xMXpnLTdoVG40Q2g1M3dhTmhTdm85anpyNjg3UWdfR3B2WkE4VDZDQkVfQnhRRUpHRzNtbGJHSk04MWs0S3NXWEtFVGJDZHJfMmZmR0R4OEVkUDVtY1drRURPMmlsbG5WVnfSAY8BQVVfeXFMTy1KS3BFREFORWpBcWpqTC15UW1IU3lJNmhXdG5IOFhwWlQtaWV5ZTltTjhlYjFJWG1zR3pab2ZrNWVEVVVpY0twNXlaWWVfVTBva0NiVmg1dERpZk1OSHltMy14VE9DN2ZULWE5RTZqTlFEcjFNRVpnYVUzcmQ3YWxQY29rdE92eDdwN3NEVlE?oc=5",
-   "ts": "Mon, 16 Nov 2026 19:23:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump’s stake in Nvidia grew to as much as $62 million before scandal broke out - The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPalJ6aGJjaVBRcGpoZmx6WmJ2RFloSnFJdDJWMmlTOG5qS2ZTTTdVTUZhenF6eXoxNEtHRHhJNHFDb1NKNEhGOGY3UjV2dVI2eHdiZmVnb1BEWVdXRTY1NjRFbm0xdUJnQzY5QlZTWnZuQ2FKQ1VqeExkSWtDR21qQkpNcVhFRll0VnN2eGNjMm5uWTJLSEkzTENCVmRyVG5rWGppSnBDcC1ldlZFanpsOXhQblFkSjZU?oc=5",
    "ts": "Mon, 16 Nov 2026 18:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China trade relations face fresh tests - FarmWeekNow",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV1AwTDVYSlkyY1VPZWxuY3V4SmJUVU5iY1B2eHl5RVVEZmt6WkxraEhSNWhjVENnaEJpNnljeTk0SWM5RnBZdktnS05rMlVrYTVWdGw2aDNyQmdhVHBpdU1VWTNBeWdWZ05iLWk3T3FXZm9XUGRzR2dWbmhIRVNjTDVVRF93NVpybTYyM3VfLTE5WnlWdEIxcjJDUE43Sko0ekxRU1FvSXpqV3NtamFOb1V0WFlJQ1NSX2trZGpYRXQyU3hpeXFFOU9CUk9saUlWaFlZ?oc=5",
+   "ts": "Mon, 16 Nov 2026 06:00:00 GMT"
   },
   {
    "src": "gdelt",

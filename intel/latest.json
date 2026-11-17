@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-17T08:00:28Z",
+ "ts": "2026-11-17T08:15:22Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -389,6 +389,12 @@
   },
   {
    "src": "gnews",
+   "title": "How Jensen Huang scandal makes Congress a bigger risk to U.S.-China relations - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUElqZEpZWVNEbkNCOC1PX2hBYlJUZ01mTTU0WVU1LWVYQWtNY0pZSFdvak5EeklWSll1UmFHaFd5M0JzXzRSN3ZKdXQ2aHYzdWlxSlVwaWJYdkRRRGN5czFaNXVjOWNYc0pzZzh6NGstNzFtNkx1RnlpWU1zeEhXT0Uzd2Zid9IBiwFBVV95cUxOVDBpeWNVRmd2VFVtOE5LZDNFWngxQmN5UTh3NlgydExRSjN1ektjSW5lWFQxa3pfZW05cmd4WEtPVHRzT29RUFpnRzBHMm1zYmtXTTlfUHBhUGZkMk1GT0VMTDVOOHlQWkFQYVZZV0JiMTNsRTlEWGFUNmJ1WGpWVzdfMzFFTS1PbUZz?oc=5",
+   "ts": "Tue, 17 Nov 2026 06:51:40 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump, Xi Meet This Week: Could Footwear See U.S., China Pause Trade Truce Extension a Second Time? - WWD",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUU5qZDA3cDJLNlNmNnF4ZTh0WTZ6bm1ZZTJhdWdVMHN4SXlPQUF0U01kZGpjNkhYTENrZ0VNalh3YVBHcF9naU5td0pwM0c3M2NVd3BoWFo3SjNiLThhNjZtSFdkUWVEcWU2bEYzTDlILUFpMXRGUmNCdnZzckNGYmNjeU9GNVFOMzFvM25kVUNERHJoTERWcWlnZmRqZHJBdWxmUTVQaGVQclhLVUhzd2lmcw?oc=5",
    "ts": "Tue, 17 Nov 2026 01:33:41 GMT"
@@ -398,12 +404,6 @@
    "title": "President Trump Signs Trade Deal with Thailand - C-SPAN",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2YzdUU0dmwyZmJGRXRiUGRYRjVWSHN0ajdvUkpYYTFPcGZmd2RmeERZckc5ZXZFWVJVUjI1YmR3MjRKeHpZTHVLdVQ3WFdSZ3NJdzdrM2ZqZjRMYnhiazJ4SGhQLTcxTWdxUE5SZ0lpbkp3OTFMUFRGcHBaeWZKQWR3UEVlaERIOEZ2TzdZRGdHT3V5aHFkaWhNZFJGSXpUaVE?oc=5",
    "ts": "Tue, 17 Nov 2026 02:40:17 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "How Jensen Huang scandal makes Congress a bigger risk to U.S.-China relations - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUElqZEpZWVNEbkNCOC1PX2hBYlJUZ01mTTU0WVU1LWVYQWtNY0pZSFdvak5EeklWSll1UmFHaFd5M0JzXzRSN3ZKdXQ2aHYzdWlxSlVwaWJYdkRRRGN5czFaNXVjOWNYc0pzZzh6NGstNzFtNkx1RnlpWU1zeEhXT0Uzd2Zid9IBiwFBVV95cUxOVDBpeWNVRmd2VFVtOE5LZDNFWngxQmN5UTh3NlgydExRSjN1ektjSW5lWFQxa3pfZW05cmd4WEtPVHRzT29RUFpnRzBHMm1zYmtXTTlfUHBhUGZkMk1GT0VMTDVOOHlQWkFQYVZZV0JiMTNsRTlEWGFUNmJ1WGpWVzdfMzFFTS1PbUZz?oc=5",
-   "ts": "Tue, 17 Nov 2026 06:51:40 GMT"
   },
   {
    "src": "gnews",
@@ -437,12 +437,6 @@
   },
   {
    "src": "gnews",
-   "title": "Trump and Xi meet in Shenzhen with little left to trade - Asia Times",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTklDWkhWZlJYTmc2algzeXRPTG5QSDhMUm54S0ZjUG1xcl9feHk4YzJUVGp4T0cwWGlBazV0SkRMbnlkMkFTVXZuQzQwaTN4Ql94RG1rRF94WXh2Mm04a2NpM3Nob0g3aGJpVkd2Q1IxVkxDU0xhYkd0ODMxZFdIcHBmMk1pLTJoTnVETUV1RQ?oc=5",
-   "ts": "Tue, 17 Nov 2026 05:15:56 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR3pCLU9Xd1c1amM5dzdoNy1paUJHS3lMOVdsTkp4ZEdSVG9oanlSRHcyV1Njb25xZ1lfSmFsU0JSNlR2MWVkb0owTDNRQW1zZzdqTXpYUVYzTWJUQnB2YXd0Q2g0eUhZT0lDVzdZSmd3SE1FYnNEQ0RoTWhhZDJYR2llcGlRbzJ3SlB1UXJZRmkxQkNPd2dYMVkydlR4OU96YlE?oc=5",
    "ts": "Tue, 17 Nov 2026 04:08:00 GMT"
@@ -455,9 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Xi Jinping and Canada’s Mark Carney slash tariffs as China courts middle powers - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV20yaTdxeVd6WmktN2g1TXpaZi1QOTZCY1htajhhbjk1TXdwZmc2cWd4cXNDaFN1bTE2SkZKN3FiSHIyMzU5RmdUTndoc0Zmak9UcXAxeDJkTDNzVlNuYTdjMUQ4YmFTZzFRWHJjRlRUWnRNbUJXMWg5bGFCOG1lM05feVI?oc=5",
-   "ts": "Tue, 17 Nov 2026 07:07:30 GMT"
+   "title": "China and Canada expand tariff relief while Ottawa-Washington relations are strained - AP News",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFVFVjI2cU1tdkxwM0ZqcER1eGJfcndIUmt3M1MtZll1X0JKRmlmQno2XzJjQnlYMXZLcVZMWVBXS2xjT3Y5MElNSXIzV1g1RlItV3BTR1k0SHg4dGR6aWRDVVRYWHlnalNRWkpBNmk2d2ZUTlhITE5YVEJvVDZaa2RpS1E3b2F1MkJ3X2JNdU8?oc=5",
+   "ts": "Tue, 17 Nov 2026 07:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump and Xi meet in Shenzhen with little left to trade - Asia Times",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTklDWkhWZlJYTmc2algzeXRPTG5QSDhMUm54S0ZjUG1xcl9feHk4YzJUVGp4T0cwWGlBazV0SkRMbnlkMkFTVXZuQzQwaTN4Ql94RG1rRF94WXh2Mm04a2NpM3Nob0g3aGJpVkd2Q1IxVkxDU0xhYkd0ODMxZFdIcHBmMk1pLTJoTnVETUV1RQ?oc=5",
+   "ts": "Tue, 17 Nov 2026 05:15:56 GMT"
   }
  ]
 }

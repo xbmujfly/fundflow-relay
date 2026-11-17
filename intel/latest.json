@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-17T13:45:20Z",
+ "ts": "2026-11-17T14:00:25Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -347,6 +346,12 @@
   },
   {
    "src": "gnews",
+   "title": "Carney and Xi Announce Canada-China Trade Pact - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
+   "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump's tariffs are unpopular -- but they'll be tough to repeal despite Democrats' landslide win - Arkansas Advocate",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2R1WFhDQWpGWl9rcW52dzZ6OWpaWW5LY1VMQ2pscGdCenJENTgtQXE3RnJsdXlGV1Z5SmJ6bnY3Um05SVRLdGdjSlllS3FrZ1ZvOVpXZWtjVDlGcWVLNTJkTjI0NW52alFlaEhMeC1FM3lyTXhMODdrY1g5dmhia2VnQWhTUDNrcHJ2UW9GdW50NDZmSFVKZFJFVVNhbXpabzFxZ093M2tjcGF4U21SclFSeFJkeS1GZ1g2cHdSY0ZFZFhkTHJYU0R5NA?oc=5",
    "ts": "Tue, 17 Nov 2026 11:54:10 GMT"
@@ -356,12 +361,6 @@
    "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
    "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney and Xi Announce Canada-China Trade Pact - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
-   "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
   },
   {
    "src": "gnews",
@@ -383,15 +382,15 @@
   },
   {
    "src": "gnews",
-   "title": "Post-Election Trade Outlook: Tariff Authority and Congressional Scrutiny - Holland & Knight",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNekhjeVlRM0psMkdMNk9MVzg3Tng3ZkhZWTBySWxlendaV01lZ1hFYkdWSUFDUk9HMU0waklHZGVXb0ZaLXF3RFpCb0JFTDBpd1JaT0pfY0FYeDdzNWZWYUdxeUl3Q1RYbWwyTjJaOHZDM2d6aC1pb08tTHpPdkdzV3VxRGZvNGtqelg0NTNHRDI2R3ZRaUVOMFVGamJ0UEw4QTdaeVo3aFZ4bFoyaXUzM0V1S1VZLVUt?oc=5",
-   "ts": "Mon, 16 Nov 2026 19:59:35 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s Global Majority export drive - GIS Reports",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kbUJqOEFaQWo3bVp1SjQxeWF5bVBjVkRrSGFlX250S1k3d0tzcURTNXlMZFByVEdIZnF2U2ZUOThCMGMxemZTbHloMURkMk1qZmFVcnlrbWRSY3NWU21HWkFBc1NZY2VIek5ETTllU1ppcGdBazUwOHZ3?oc=5",
    "ts": "Tue, 17 Nov 2026 07:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Post-Election Trade Outlook: Tariff Authority and Congressional Scrutiny - Holland & Knight",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNekhjeVlRM0psMkdMNk9MVzg3Tng3ZkhZWTBySWxlendaV01lZ1hFYkdWSUFDUk9HMU0waklHZGVXb0ZaLXF3RFpCb0JFTDBpd1JaT0pfY0FYeDdzNWZWYUdxeUl3Q1RYbWwyTjJaOHZDM2d6aC1pb08tTHpPdkdzV3VxRGZvNGtqelg0NTNHRDI2R3ZRaUVOMFVGamJ0UEw4QTdaeVo3aFZ4bFoyaXUzM0V1S1VZLVUt?oc=5",
+   "ts": "Mon, 16 Nov 2026 19:59:35 GMT"
   },
   {
    "src": "gnews",
@@ -410,12 +409,6 @@
    "title": "After the Blue Tsunami: Getting rid of Trump’s tariffs - Peterson Institute for International Economics",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWtiWTk0d2VDVjVNanNKU3NYYjBqQ1Vuc3I1VFlfWVFtZjdrREdRVlJpNEFyVjhRam55LXhQbkJJWldtNEZHRU9GME5waVpqR2VnWEZEc1R5U3RZMmNkVExUUVRsZVBpSlkyTG5OZW5XcHVkRE5fWE14RldiaGdIV3M3bU1WenYzblpkaFVQY2xXaUFqVzV5ZWhDT2c?oc=5",
    "ts": "Mon, 16 Nov 2026 17:13:36 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Prime Minister Carney advances Canada’s strategic partnership with China across trade, commerce, and culture - Prime Minister of Canada",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWotUjB3Q0JQQ1U4S3ptdlJqdzVQVTJ0N1lTMGd0MnpwOHRQaVI2SUFuR19jZjBTUnVrdjUwcnphemhqQzA5TmRUdko5VWlxOUdrTEs3dmVZc0kxcTRFOFVEY3hxS21vOW1RWVhDNEdhdHFfT25nVkZWQWVKbHExZE1FR3FjeGpFOHlvc0tCVmJ6ZGk1bTEwTmVBcTJWODlMU2RiNW5VcFpzRU5SQVIzTTRlVDFDenRDSzVDNQ?oc=5",
-   "ts": "Tue, 17 Nov 2026 05:05:00 GMT"
   },
   {
    "src": "gnews",
@@ -443,9 +436,9 @@
   },
   {
    "src": "gnews",
-   "title": "How Jensen Huang scandal makes Congress a bigger risk to U.S.-China relations - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUElqZEpZWVNEbkNCOC1PX2hBYlJUZ01mTTU0WVU1LWVYQWtNY0pZSFdvak5EeklWSll1UmFHaFd5M0JzXzRSN3ZKdXQ2aHYzdWlxSlVwaWJYdkRRRGN5czFaNXVjOWNYc0pzZzh6NGstNzFtNkx1RnlpWU1zeEhXT0Uzd2Zid9IBiwFBVV95cUxOVDBpeWNVRmd2VFVtOE5LZDNFWngxQmN5UTh3NlgydExRSjN1ektjSW5lWFQxa3pfZW05cmd4WEtPVHRzT29RUFpnRzBHMm1zYmtXTTlfUHBhUGZkMk1GT0VMTDVOOHlQWkFQYVZZV0JiMTNsRTlEWGFUNmJ1WGpWVzdfMzFFTS1PbUZz?oc=5",
-   "ts": "Tue, 17 Nov 2026 06:51:40 GMT"
+   "title": "Trump arrives in Philippines to kick off Asia trip with economic deals and talks with allies - AP News",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNThOYXI2SmpKNVh5LU05MjAyN2F2YjJHbUJJeG1IOHhWOTFPQVp2U3VUTVdhcHUtVkpUWDhKb3ZOSnFCZE0wNVAtZ1NmOUMyaERmZ3RWTDF6TmFzQ2pSWkpPZVhjeUlwTnp2M1dBRW1RbFBIYUhHTUduczlyQ0JlRHA4bFFfbHVad3dZNnc3UzFGb21UQUk4?oc=5",
+   "ts": "Tue, 17 Nov 2026 13:18:00 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +448,135 @@
   },
   {
    "src": "gnews",
+   "title": "Trump Administration Divide on China Policy Breaks Into Public View - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFBkeWJNdWI0X24zalBrRVZwNWVrRENBYUM0NEpiNDZvX3g4Rk9xdkloYy1sRDI3aWFOaVl4cFVwX0JuaU5Eai1DeGRHLUJuZmhndVRoN3BkbEstWlItVHNvNkJtRHFNdGpOSV91V0VVZ2hQdDJjZ3V5c0t2RTRGSm1IMHA?oc=5",
+   "ts": "Tue, 17 Nov 2026 03:48:50 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump says US trade deal with Thailand to be signed soon - Reuters",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2JoS2o5YWoxOGRTbWh0V3FpMTlLclVBaEtDbkp6dVVPVVlqb2pRZjlYMFo5eXVWTDFYbjZTY19uXzJpMDlVWXJmQnRBOEtGWldMcDVzWHl3MGpFTTl3TXI5SDU4MC1lNzdjME1NeFd6Mnd4c05OcnFCNUNqa2xENGVUMjhmTkdfOTJWcGhvVzQtdXpwNmIyc3U1Yw?oc=5",
    "ts": "Tue, 17 Nov 2026 13:23:57 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "ترامب والسنتان الأخيرتان : إعادة ترتيب الإدارة وحسم الملفات المفتوحة | مقالات مختارة",
+   "url": "https://www.ammonnews.net/article/1045353",
+   "ts": "20261116T081500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Сеул назвал саммит Путина , Си и Трампа шансом на мир на Корейском полуострове :: Новости дня / ВЗГЛЯД",
+   "url": "https://vz.ru/news/2026/11/16/1476694.html",
+   "ts": "20261116T081500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Авиаколлапс в США – Трамп обвинил Байдена",
+   "url": "https://24tv.ua/ru/aviakatastrofa-v-ssha-tramp-obvinil-bajdena_n3181036",
+   "ts": "20261116T081500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Prețurile carburanților luni , 16 octombrie . Unde se găsește cea mai ieftină benzină și cât costă motorina",
+   "url": "https://adevarul.ro/economie/preturile-carburantilor-luni-16-octombrie-unde-2571724.html",
+   "ts": "20261116T081500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Five EU countries to announce Rwanda migrant deportation hub",
+   "url": "https://www.freemalaysiatoday.com/category/world/2026/11/16/five-eu-countries-to-announce-rwanda-migrant-deportation-hub",
+   "ts": "20261116T081500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Black Friday tech deals : Three things to check before upgrading your home",
+   "url": "https://it-online.co.za/2026/11/16/black-friday-tech-deals-three-things-to-check-before-upgrading-your-home/",
+   "ts": "20261116T081500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "U . S . Trade negotiators still insisting on market access in Indian Agri - Foods sector",
+   "url": "https://thenorthlines.com/u-s-trade-negotiators-still-insisting-on-market-access-in-indian-agri-foods-sector/",
+   "ts": "20261116T081500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  Trump not welcome : Manila erupts in protests ahead of US President Asean visit",
+   "url": "https://economictimes.indiatimes.com/news/international/world-news/trumps-not-welcome-manila-erupts-in-protests-ahead-of-us-presidents-asean-visit/articleshow/135875291.cms",
+   "ts": "20261116T081500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Flight disruptions expected to last into Monday",
+   "url": "https://www.wlrn.org/npr-breaking-news/2026-11-15/flight-disruptions-expected-to-last-into-monday",
+   "ts": "20261116T081500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Boxe par la Maison des Aidants de lAbbaye de Saint - Maur - des - Fossés",
+   "url": "https://citoyens.com/evenement/boxe-par-la-maison-des-aidants-de-labbaye-de-saint-maur-des-fosses-44",
+   "ts": "20261116T081500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Китайский эксперт назвал пять шагов по снижению ядерной угрозы :: Новости дня / ВЗГЛЯД",
+   "url": "https://vz.ru/news/2026/11/16/1476693.html",
+   "ts": "20261116T081500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Opinion : CT voters gave us a mandate . Let meet the moment . ",
+   "url": "https://ctmirror.org/2026/11/16/ct-voters-gave-us-a-mandate-lets-meet-the-moment/",
+   "ts": "20261116T081500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Китай потвърди , че Си Дзинпин , Доналд Тръмп и Владимир Путин ще се срещнат в четвъртък",
+   "url": "https://novini.bg/article/2026111605065544151",
+   "ts": "20261116T081500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump tariffs cast shadow over Apec talks",
+   "url": "https://www.freemalaysiatoday.com/category/world/2026/11/16/trump-s-tariffs-cast-shadow-over-apec-talks",
+   "ts": "20261116T081500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Atelier relaxation par la Maison des Aidants de lAbbaye de Saint - Maur - des - Fossés",
+   "url": "https://citoyens.com/evenement/atelier-relaxation-par-la-maison-des-aidants-de-labbaye-de-saint-maur-des-fosses-57",
+   "ts": "20261116T081500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Bea Cukai Gagalkan Ekspor Ilegal Emas 21 , 8 Kg di Banjarmasin",
+   "url": "https://www.liputan6.com/bisnis/read/8336205/bea-cukai-gagalkan-ekspor-ilegal-emas-218-kg-di-banjarmasin",
+   "ts": "20261116T081500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "تعافي صادرات الشرق الأوسط يضغط على أسعار النفط | اقتصاد",
+   "url": "https://www.ammonnews.net/article/1045334",
+   "ts": "20261116T081500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "AI startup Zelmier . com cuts discovery & bidding of government tenders to minutes",
+   "url": "https://www.livemint.com/companies/start-ups/ai-startup-zelmier-com-cuts-discovery-bidding-of-government-tenders-to-minutes-11794805216212.html",
+   "ts": "20261116T081500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Американский политолог предупредил Японию о рисках опоры на США при Трампе :: Новости дня / ВЗГЛЯД",
+   "url": "https://vz.ru/news/2026/11/16/1476698.html",
+   "ts": "20261116T081500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "China reafirma  compromisso  com promoo do comércio livre – Observador",
+   "url": "https://observador.pt/2026/11/16/primeiro-ministro-chines-reafirma-compromisso-pleno-com-promocao-do-comercio-livre/",
+   "ts": "20261116T081500Z"
   }
  ]
 }

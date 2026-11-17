@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-17T03:15:17Z",
+ "ts": "2026-11-17T03:30:33Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -383,15 +383,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump’s Trade Barriers, AI Reveal New US Dependencies on China - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0NYYUpyZk5yY3hLYU1VcUpTNmQ1NnNpbjNDS3dyemFSa2VzaVVKN1lLc01iekVwUGpGUE95ZmRMYXJraGZ6eFF6VjdMVGE2elE2N2ZJZXYtNEE0WWpPYmMxSnhWc1I2TS1pVHJCMzdiVl9VU1ZSZl9uOGxUTllZb0s5dzROY21qM1B6VXRoLXQ0ZFNPTDJ6TnJDaE1BQXpYel8wZHhXVUtCUDRZOHBtTg?oc=5",
-   "ts": "Mon, 16 Nov 2026 13:05:14 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
    "ts": "Sat, 14 Nov 2026 08:38:39 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump’s Trade Barriers, AI Reveal New US Dependencies on China - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0NYYUpyZk5yY3hLYU1VcUpTNmQ1NnNpbjNDS3dyemFSa2VzaVVKN1lLc01iekVwUGpGUE95ZmRMYXJraGZ6eFF6VjdMVGE2elE2N2ZJZXYtNEE0WWpPYmMxSnhWc1I2TS1pVHJCMzdiVl9VU1ZSZl9uOGxUTllZb0s5dzROY21qM1B6VXRoLXQ0ZFNPTDJ6TnJDaE1BQXpYel8wZHhXVUtCUDRZOHBtTg?oc=5",
+   "ts": "Mon, 16 Nov 2026 13:05:14 GMT"
   },
   {
    "src": "gnews",
@@ -413,15 +413,15 @@
   },
   {
    "src": "gnews",
-   "title": "China trade relations face fresh tests - FarmWeekNow",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV1AwTDVYSlkyY1VPZWxuY3V4SmJUVU5iY1B2eHl5RVVEZmt6WkxraEhSNWhjVENnaEJpNnljeTk0SWM5RnBZdktnS05rMlVrYTVWdGw2aDNyQmdhVHBpdU1VWTNBeWdWZ05iLWk3T3FXZm9XUGRzR2dWbmhIRVNjTDVVRF93NVpybTYyM3VfLTE5WnlWdEIxcjJDUE43Sko0ekxRU1FvSXpqV3NtamFOb1V0WFlJQ1NSX2trZGpYRXQyU3hpeXFFOU9CUk9saUlWaFlZ?oc=5",
-   "ts": "Mon, 16 Nov 2026 06:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Midterm losses, Nvidia scandal weaken Trump as he faces Xi and Putin - The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTWo0TlNQRVFiYU15cWR4OVU5OWdKdDVqV2FLbkRpNUQtWFdXMEdJOWlCRmVHSWVXQVRuNjdvMU9USzlNNmJHTk81RGRYMFlMQ003X0FiSlJQejJjX3JaVHRDRThCSFRJVWJfT2liVmxoc2psajFHVXI2eHdscmEtU0UwdjRER29zUE92NEpxanNCbk1LVUQ0alhINDMwQ1hnU3luZlpMNkxwRzBQTmc?oc=5",
    "ts": "Mon, 16 Nov 2026 18:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China trade relations face fresh tests - FarmWeekNow",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV1AwTDVYSlkyY1VPZWxuY3V4SmJUVU5iY1B2eHl5RVVEZmt6WkxraEhSNWhjVENnaEJpNnljeTk0SWM5RnBZdktnS05rMlVrYTVWdGw2aDNyQmdhVHBpdU1VWTNBeWdWZ05iLWk3T3FXZm9XUGRzR2dWbmhIRVNjTDVVRF93NVpybTYyM3VfLTE5WnlWdEIxcjJDUE43Sko0ekxRU1FvSXpqV3NtamFOb1V0WFlJQ1NSX2trZGpYRXQyU3hpeXFFOU9CUk9saUlWaFlZ?oc=5",
+   "ts": "Mon, 16 Nov 2026 06:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -443,12 +443,6 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Heads to China as Trade Truce Raises Stakes for American Farmers - AgroLatam",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWEltb3E1VlQ3eW9KSTBjOHViQ1RtdW4wUnkyazQyZC1DcWRVbzZjRXhWRzNHVDduTzhLbXRBUS1XYjdFYnRjUkJoS3AwT1l0dThmMXMteUlwdWJNTm5qamtCY0hocnMybnNENHF5LV90VUlEd2lLY0haSzlZUkdvV3ZZUEsxZ00?oc=5",
-   "ts": "Mon, 16 Nov 2026 12:18:51 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Canada could turn to Chinese automakers without US deal: Carney - The Hill",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQjJDN2hSa25HcVNUUEJfOF9hT080bGRnMmdKOHBRbG9xMXpnLTdoVG40Q2g1M3dhTmhTdm85anpyNjg3UWdfR3B2WkE4VDZDQkVfQnhRRUpHRzNtbGJHSk04MWs0S3NXWEtFVGJDZHJfMmZmR0R4OEVkUDVtY1drRURPMmlsbG5WVnfSAY8BQVVfeXFMTy1KS3BFREFORWpBcWpqTC15UW1IU3lJNmhXdG5IOFhwWlQtaWV5ZTltTjhlYjFJWG1zR3pab2ZrNWVEVVVpY0twNXlaWWVfVTBva0NiVmg1dERpZk1OSHltMy14VE9DN2ZULWE5RTZqTlFEcjFNRVpnYVUzcmQ3YWxQY29rdE92eDdwN3NEVlE?oc=5",
    "ts": "Mon, 16 Nov 2026 19:23:00 GMT"
@@ -458,6 +452,12 @@
    "title": "Trump’s stake in Nvidia grew to as much as $62 million before scandal broke out - The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPalJ6aGJjaVBRcGpoZmx6WmJ2RFloSnFJdDJWMmlTOG5qS2ZTTTdVTUZhenF6eXoxNEtHRHhJNHFDb1NKNEhGOGY3UjV2dVI2eHdiZmVnb1BEWVdXRTY1NjRFbm0xdUJnQzY5QlZTWnZuQ2FKQ1VqeExkSWtDR21qQkpNcVhFRll0VnN2eGNjMm5uWTJLSEkzTENCVmRyVG5rWGppSnBDcC1ldlZFanpsOXhQblFkSjZU?oc=5",
    "ts": "Mon, 16 Nov 2026 18:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Heads to China as Trade Truce Raises Stakes for American Farmers - AgroLatam",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWEltb3E1VlQ3eW9KSTBjOHViQ1RtdW4wUnkyazQyZC1DcWRVbzZjRXhWRzNHVDduTzhLbXRBUS1XYjdFYnRjUkJoS3AwT1l0dThmMXMteUlwdWJNTm5qamtCY0hocnMybnNENHF5LV90VUlEd2lLY0haSzlZUkdvV3ZZUEsxZ00?oc=5",
+   "ts": "Mon, 16 Nov 2026 12:18:51 GMT"
   }
  ]
 }

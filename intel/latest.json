@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-17T05:45:18Z",
+ "ts": "2026-11-17T06:00:35Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -29,9 +29,8 @@
    "err": "HTTPError: HTTP Error 403: Forbidden"
   },
   "gnews": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 25
   },
   "gdelt": {
    "ok": false,
@@ -339,6 +338,126 @@
    "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
    "ts": "Fri, 25 Sep 2026 20:30:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
+   "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Post-Election Trade Outlook: Tariff Authority and Congressional Scrutiny - Holland & Knight",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNekhjeVlRM0psMkdMNk9MVzg3Tng3ZkhZWTBySWxlendaV01lZ1hFYkdWSUFDUk9HMU0waklHZGVXb0ZaLXF3RFpCb0JFTDBpd1JaT0pfY0FYeDdzNWZWYUdxeUl3Q1RYbWwyTjJaOHZDM2d6aC1pb08tTHpPdkdzV3VxRGZvNGtqelg0NTNHRDI2R3ZRaUVOMFVGamJ0UEw4QTdaeVo3aFZ4bFoyaXUzM0V1S1VZLVUt?oc=5",
+   "ts": "Mon, 16 Nov 2026 19:59:35 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China, Canada Expand Tariff Relief in Deepening Trade Thaw - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDF2Y3hmbXN1MWVDZGE5LVJDUE9NeEltNDdEU1hwckVTSmhHcmFNTWczVVhGSGtnaTVSM0hybGh5amRNOHl3a19RUHlHN0ttX1ZGeWNvdTFzTzRBUm84djJ3TG9FS29nQUd2dDlSS09JQWROaWRwZFJhS2ZRaTNCQ0xKbmtoYzgteHg0eGJ6bmlrX2FuWTFuNm1IaDl2cEdCWFhKOTBoU3cwOWc2?oc=5",
+   "ts": "Tue, 17 Nov 2026 03:37:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "After the Blue Tsunami: Getting rid of Trump’s tariffs - Peterson Institute for International Economics",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWtiWTk0d2VDVjVNanNKU3NYYjBqQ1Vuc3I1VFlfWVFtZjdrREdRVlJpNEFyVjhRam55LXhQbkJJWldtNEZHRU9GME5waVpqR2VnWEZEc1R5U3RZMmNkVExUUVRsZVBpSlkyTG5OZW5XcHVkRE5fWE14RldiaGdIV3M3bU1WenYzblpkaFVQY2xXaUFqVzV5ZWhDT2c?oc=5",
+   "ts": "Mon, 16 Nov 2026 17:13:36 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Administration Divide on China Policy Breaks Into Public View - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFBkeWJNdWI0X24zalBrRVZwNWVrRENBYUM0NEpiNDZvX3g4Rk9xdkloYy1sRDI3aWFOaVl4cFVwX0JuaU5Eai1DeGRHLUJuZmhndVRoN3BkbEstWlItVHNvNkJtRHFNdGpOSV91V0VVZ2hQdDJjZ3V5c0t2RTRGSm1IMHA?oc=5",
+   "ts": "Tue, 17 Nov 2026 00:51:40 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump, Xi Meet This Week: Could Footwear See U.S., China Pause Trade Truce Extension a Second Time? - WWD",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUU5qZDA3cDJLNlNmNnF4ZTh0WTZ6bm1ZZTJhdWdVMHN4SXlPQUF0U01kZGpjNkhYTENrZ0VNalh3YVBHcF9naU5td0pwM0c3M2NVd3BoWFo3SjNiLThhNjZtSFdkUWVEcWU2bEYzTDlILUFpMXRGUmNCdnZzckNGYmNjeU9GNVFOMzFvM25kVUNERHJoTERWcWlnZmRqZHJBdWxmUTVQaGVQclhLVUhzd2lmcw?oc=5",
+   "ts": "Tue, 17 Nov 2026 01:33:41 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "President Trump Signs Trade Deal with Thailand - C-SPAN",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2YzdUU0dmwyZmJGRXRiUGRYRjVWSHN0ajdvUkpYYTFPcGZmd2RmeERZckc5ZXZFWVJVUjI1YmR3MjRKeHpZTHVLdVQ3WFdSZ3NJdzdrM2ZqZjRMYnhiazJ4SGhQLTcxTWdxUE5SZ0lpbkp3OTFMUFRGcHBaeWZKQWR3UEVlaERIOEZ2TzdZRGdHT3V5aHFkaWhNZFJGSXpUaVE?oc=5",
+   "ts": "Tue, 17 Nov 2026 02:40:17 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - Boston Herald",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4dnFPSm9pU0YtQk9HaFF6LXJHT1hRMHpVcEE2cXpVMXVzQTVhX1ctWGtfRHg3SW1pUEs3YnNWbW82a19GeGRnNmhITnZRTDRMTXRMUUJObVlURWdLcDZiYkZGRHhFVTk1SWtV?oc=5",
+   "ts": "Tue, 17 Nov 2026 04:00:52 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal - The Hill",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmNDaEFOUjhyQ3dSTXZ5c1pkT0hpdEVqT0tmOGk2cVVDZ1pZT3EtNVlLczVuYllZd0ZWRGRBQmxiY0hTMFJTQXE0YWN0dTA3RzA2N3VmM0MtRzNycGpqbHh6RlZKMGtnaEkwRzZYVUxuLWs2U19jQS1HLS1xb01hZi13Yjh5UnFxSXdScDI1bUHSAZYBQVVfeXFMT084UmYyZ2JNVTg5ZFJKR0N4MTR2SFF5ekRwdFdsNnlTeVQ5dExLUmhlclcycVFuUS1TRHFRTnFWWHp3MVQ0ZzBFbFdST0VkWEh2QTRreVZnaGpGRTJKM3h1aHhsVHZ1VXJtZGpJb3N3RjE4RXJ5TFNFeGVrTjF6R1R2akUwaU9LQWdfSHZUeDNqOUY1UVlB?oc=5",
+   "ts": "Sun, 15 Nov 2026 00:26:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Former U.S. Trade Representatives, Scholars Back Liberty Justice Center’s Challenge to Trump’s Canadian Tariffs - Liberty Justice Center",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPd09XZUNEdUx6X3JKeUVzeDJpMDlrdHlOWjVJLXVHREk3MmI4N0Z0d1BQYTU1N3c5TEppcFdUZmFhdTNFdHF1d0pYR2VpcEgtZU1GRjhjejVTV084VXNOb21pcmRBZ21JY3A2dlhYZjg3S3hwZHNKZHBwX1g4aXlhTC00cjZ4RXk4cGhSNUJwUFBOOFE2UURzZDNhS25FbW1TRnN6X3RaSlN2UHhRdE1sSHZQQUtZcGlqYnUyT01ibXhxalBwdF9zVDI0Y29uc09PbElYMGVpeWFLNWUxaWt3cVJTOVItdjMwYkE?oc=5",
+   "ts": "Mon, 16 Nov 2026 16:41:12 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump arrives in the Philippines on Tuesday to talk trade and seek respite from troubles at home - KTVN",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNlJwOUtES21GTTdaQURQTzFPR1h4Q3d5TVJIaWxaYXUxWU1pb0dCdDNRV2kwR0hyYTVaWXVoUEEyMUpXaHRLNmdJRnQycllnVWhYNGYwY0NfOUpDTjdWdlZmdVkyQ3FMTnpHay15S2FrNi0xZWpoekE4eXd3anRTNjFpWDRRaGg3ZlFSYkQ0clZaTXNNYzY5VnhsRlBWZ0pud3o1MjdrME9fLVBSbWY5akJuS3Y1dXBSVWM1eTdXVTQxS0xBZEhLSmJpU3dmdnlIMkJFRXNQYy1NSWdRQ3U3c290QW5jRy1lRlYzZVRHUGRackZFNmhLbVpvQlhYTlliTnc?oc=5",
+   "ts": "Tue, 17 Nov 2026 05:01:37 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump travels to China for meetings with Xi, but one major topic isn’t on the agenda - MS NOW",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeGZqSmJZLW1GM2Z4c3QzV3Jidlc0YUNsZWJ3WEJMZk9IUEkwMFJ6b2hCNmxYdm1wbzBVRkRsZlVfWElVaUtoc1VlMndlMWtZUXlvcExyUmgyYVROYmhxbG8zMlJraEtCLWhrMzRJbUsxcVFXMF96YUladkpJRnR3bTlXS1RiUGtlOHFKVEdSeHdBeFJxZU1YTHVRemk?oc=5",
+   "ts": "Mon, 16 Nov 2026 14:16:56 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit - Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZFZUUF9TVjFhaGxSUW9VeHhLRHZGSnktX0ZWRUlrdkFqLVhnLTBMWEM5bjZic215LUIyWHlRcUQ2LWg4d1lFMHFjZGNIXzFQZHR1VThjR2ltbEZOclZoOTd2THpCSG5kU25mMk0yWmJCNGI4QmUwMjNTb1dQdGJwQVNMd0J3MlU?oc=5",
+   "ts": "Tue, 17 Nov 2026 04:42:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump and Xi meet in Shenzhen with little left to trade - Asia Times",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTklDWkhWZlJYTmc2algzeXRPTG5QSDhMUm54S0ZjUG1xcl9feHk4YzJUVGp4T0cwWGlBazV0SkRMbnlkMkFTVXZuQzQwaTN4Ql94RG1rRF94WXh2Mm04a2NpM3Nob0g3aGJpVkd2Q1IxVkxDU0xhYkd0ODMxZFdIcHBmMk1pLTJoTnVETUV1RQ?oc=5",
+   "ts": "Tue, 17 Nov 2026 05:15:56 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Prime Minister Carney advances Canada’s strategic partnership with China across trade, commerce, and culture - www.pm.gc.ca",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUnZtLUVCZ0hGd25WZTVsX2JhejRBZkZ0MHdfWlFqaEZ3YWZHMWdyODA4UTFlaVlPd0xzdldVZUZXYXlUUTNQZnNSOUlIMi1zMDVqcjZTa2xCNlZ5czI3MkF3ZTFxNDFfT3FPMkdjYWlidjhLZjdYVHVBVGV5TFdaemsyVlYtM3dSRHVGWFVGREZ5RXV2ZDV4Z1pabElVNS1BNHJEN1pnbWFQbTU3UkYwRXpYYWZLRmtENkpNVA?oc=5",
+   "ts": "Tue, 17 Nov 2026 04:22:54 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Midterm losses, Nvidia scandal weaken Trump as he faces Xi and Putin - The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTWo0TlNQRVFiYU15cWR4OVU5OWdKdDVqV2FLbkRpNUQtWFdXMEdJOWlCRmVHSWVXQVRuNjdvMU9USzlNNmJHTk81RGRYMFlMQ003X0FiSlJQejJjX3JaVHRDRThCSFRJVWJfT2liVmxoc2psajFHVXI2eHdscmEtU0UwdjRER29zUE92NEpxanNCbk1LVUQ0alhINDMwQ1hnU3luZlpMNkxwRzBQTmc?oc=5",
+   "ts": "Mon, 16 Nov 2026 18:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump’s Trade Barriers, AI Reveal New US Dependencies on China - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0NYYUpyZk5yY3hLYU1VcUpTNmQ1NnNpbjNDS3dyemFSa2VzaVVKN1lLc01iekVwUGpGUE95ZmRMYXJraGZ6eFF6VjdMVGE2elE2N2ZJZXYtNEE0WWpPYmMxSnhWc1I2TS1pVHJCMzdiVl9VU1ZSZl9uOGxUTllZb0s5dzROY21qM1B6VXRoLXQ0ZFNPTDJ6TnJDaE1BQXpYel8wZHhXVUtCUDRZOHBtTg?oc=5",
+   "ts": "Mon, 16 Nov 2026 13:05:14 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Xi and Carney call for deeper ties as Canada looks beyond US for trade - AP News",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFVFVjI2cU1tdkxwM0ZqcER1eGJfcndIUmt3M1MtZll1X0JKRmlmQno2XzJjQnlYMXZLcVZMWVBXS2xjT3Y5MElNSXIzV1g1RlItV3BTR1k0SHg4dGR6aWRDVVRYWHlnalNRWkpBNmk2d2ZUTlhITE5YVEJvVDZaa2RpS1E3b2F1MkJ3X2JNdU8?oc=5",
+   "ts": "Tue, 17 Nov 2026 04:30:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump’s stake in Nvidia grew to as much as $62 million before scandal broke out - The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPalJ6aGJjaVBRcGpoZmx6WmJ2RFloSnFJdDJWMmlTOG5qS2ZTTTdVTUZhenF6eXoxNEtHRHhJNHFDb1NKNEhGOGY3UjV2dVI2eHdiZmVnb1BEWVdXRTY1NjRFbm0xdUJnQzY5QlZTWnZuQ2FKQ1VqeExkSWtDR21qQkpNcVhFRll0VnN2eGNjMm5uWTJLSEkzTENCVmRyVG5rWGppSnBDcC1ldlZFanpsOXhQblFkSjZU?oc=5",
+   "ts": "Mon, 16 Nov 2026 18:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Demand for Chinese Goods Is Soaring but Economic Momentum Slows at Home - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTVl1aGxrVkh0SGpPTXRaUHpEM0lTTmQtdHEySlRNWE9vbVh4OWJwTlBocGpiQzBrVHg0RGFndGZkRGFGWWdxb3RMdHBsc1c3alFpbFNqVUxEVm1yUUwwN2F3NnpOQl9vZVpPbS1uZnJ3UFJyVXpCQ0FIc2FYNWI3b05haGVNVG1IY2xB?oc=5",
+   "ts": "Mon, 16 Nov 2026 06:59:00 GMT"
   }
  ]
 }

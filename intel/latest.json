@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-17T15:15:18Z",
+ "ts": "2026-11-17T15:30:25Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -365,15 +365,15 @@
   },
   {
    "src": "gnews",
-   "title": "The U.S.-China Trade Relationship Is Crucial. Trump Should Reset Talks. - National Taxpayers Union",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkFnWnhuQl9STHVaT0FPRGo2NERFeWNFM2ZBMFpvV21kX2hHWFdGdnFNX1g0b2ZqQ1NnUDMwWFNlT29WVXNVN091VUxOa2pjbUZOaGs5anlEZzQzbTJib3JkWkd6UFpRZWRRZUpiNkdlOEplSTM3UWlabnVpakw4dXVwOFZmVU9SV1NfMkdaTlNDTUkxSHNBQW82UjRPNkpheWU0NkxRWmZuOVE?oc=5",
-   "ts": "Mon, 16 Nov 2026 19:33:03 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump arrives in the Philippines for ASEAN summit amid China trade tensions - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeWxGR3ZwWFZiTkhCZWhFcHV4QXd6REsyT2VmbTY1QnF3NG11aXVLUHZpTmFHNFRiLXZwMTY4UjFKMG9fN3VMWTdKQkFxRHl1RWk4RDBmMlZabjNiWGNWUDRjeEJkRzRhakRXbmZJeGt5d25YSVlJMnk0WGsxOXc3RGNrZlFQLUNZampnZGtFVGdiTzFmcG9iRFdJVGMyeU02X2FEaExvVFQ2dk9fdE1OSnFrcnpoWVNzdUE?oc=5",
    "ts": "Tue, 17 Nov 2026 12:41:25 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "The U.S.-China Trade Relationship Is Crucial. Trump Should Reset Talks. - National Taxpayers Union",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkFnWnhuQl9STHVaT0FPRGo2NERFeWNFM2ZBMFpvV21kX2hHWFdGdnFNX1g0b2ZqQ1NnUDMwWFNlT29WVXNVN091VUxOa2pjbUZOaGs5anlEZzQzbTJib3JkWkd6UFpRZWRRZUpiNkdlOEplSTM3UWlabnVpakw4dXVwOFZmVU9SV1NfMkdaTlNDTUkxSHNBQW82UjRPNkpheWU0NkxRWmZuOVE?oc=5",
+   "ts": "Mon, 16 Nov 2026 19:33:03 GMT"
   },
   {
    "src": "gnews",
@@ -407,21 +407,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump administration moves to block China from indirect access to American AI technology - Alabama Daily News",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmVNc2gzUVpPRS1uRHRSNUZMR0RSR3hzd18xZVVacXlMVGVQZDhDSFJ4S1E5UjRYQVRnVWdWS1cyMW9pSXk2T21YWmFjVWJnU3NYaUJLSmZVS0V1OU0zMlpQb2xNMTZxdDN5UnBES1ZoQllzdG44SjVQQlJXbVgwUXZsYVRqVTNsOWJnTEgtYUFFN1RVampqc3M2WXljRHBZandFZklkZnZ3aktaLVhIaHpPVQ?oc=5",
-   "ts": "Tue, 17 Nov 2026 13:11:15 GMT"
+   "title": "Bessent vs Lutnick: Who is winning the China chip debate? - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWl9zR0hUR0x4Y2RsMVBOYTcwQzNzdHczb2xuTlYyNDJTZkd5dWJTUGNEOFVPZXhpdnpRQjNwYU9iODZCNDM3OF9TdkoxWkxuQjhtOTRfTTVlckgtWGNHejhOUzV0Vmd2d0dDUkpIZVBlRmJVeW9qVmZodmZkYnVZLUlCbUZiWnJOS042b1lYNE0wNmtCZWpTSkw3RW9WRFhpbmfSAacBQVVfeXFMTUx3ZW8zUjhqZkxINUlZeUtINEdoMG5mWV9fbUE1R2FaUVZUclVSQmQ4Q3hTamRIOS1hb2hzdGRWNTBOUFNiUkVkOThaYWRFTTZQQkk5WHFMdEZpMnA3dXpKUThGb2Fndkl5akJuSnNvaGFPZXVabWkxWkYtRUVUdHFTeklqYWx2a2FoYTQ3NTExVlVtNDlPWHRqY25vOFRHNmhmc1dmbUk?oc=5",
+   "ts": "Tue, 17 Nov 2026 14:49:06 GMT"
   },
   {
    "src": "gnews",
-   "title": "President Trump Participates in a U.S. – Thai Trade Deal Signing - The White House (.gov)",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT0ZCYW9PczRQd0QtdUwyd0ZacDR4UUlBMjJvMEF6TFBHbTU0YnVLdWZQWmdwSktMdGh1Q1doUm1NMWRaNUNrTzBrQ0E0M21fbFVXMl9CVktGdUppVFFjOWVyRVpBWHRDT0thWFoxUUNUTlVudnQwbEtsQkg5N1hUblFpYWlVQnFIT0NLeE5JSUVUSGlIY3hwX05laHk?oc=5",
-   "ts": "Tue, 17 Nov 2026 04:30:22 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
-   "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
+   "title": "Trump says US trade deal with Thailand to be signed soon - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2JoS2o5YWoxOGRTbWh0V3FpMTlLclVBaEtDbkp6dVVPVVlqb2pRZjlYMFo5eXVWTDFYbjZTY19uXzJpMDlVWXJmQnRBOEtGWldMcDVzWHl3MGpFTTl3TXI5SDU4MC1lNzdjME1NeFd6Mnd4c05OcnFCNUNqa2xENGVUMjhmTkdfOTJWcGhvVzQtdXpwNmIyc3U1Yw?oc=5",
+   "ts": "Tue, 17 Nov 2026 13:23:57 GMT"
   },
   {
    "src": "gnews",
@@ -443,15 +437,21 @@
   },
   {
    "src": "gnews",
-   "title": "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR3pCLU9Xd1c1amM5dzdoNy1paUJHS3lMOVdsTkp4ZEdSVG9oanlSRHcyV1Njb25xZ1lfSmFsU0JSNlR2MWVkb0owTDNRQW1zZzdqTXpYUVYzTWJUQnB2YXd0Q2g0eUhZT0lDVzdZSmd3SE1FYnNEQ0RoTWhhZDJYR2llcGlRbzJ3SlB1UXJZRmkxQkNPd2dYMVkydlR4OU96YlE?oc=5",
-   "ts": "Tue, 17 Nov 2026 04:08:00 GMT"
+   "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
+   "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
   },
   {
    "src": "gnews",
    "title": "Trump’s Trade Power Slips Ahead of Xi Summit - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkVsRmlOXzR6Mzh0VHRQbDlQczN4STU1YWEzZWg0dG5qSGJDOXI5S0ZCcjdKbDJ4Vmstdnd2TW5LM0k1VW1yMlcxSXRRZHIxa2pQaXJVNHltZVlXWTcxaF81SnBzekVSNW1WYktyV3hsUGpnX0N5OHlqWi1wVmJ5MUozQVJsV2Z0WnRxRFppVjJpQUNHMG50aFBqWThxTXM?oc=5",
    "ts": "Tue, 17 Nov 2026 12:00:49 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR3pCLU9Xd1c1amM5dzdoNy1paUJHS3lMOVdsTkp4ZEdSVG9oanlSRHcyV1Njb25xZ1lfSmFsU0JSNlR2MWVkb0owTDNRQW1zZzdqTXpYUVYzTWJUQnB2YXd0Q2g0eUhZT0lDVzdZSmd3SE1FYnNEQ0RoTWhhZDJYR2llcGlRbzJ3SlB1UXJZRmkxQkNPd2dYMVkydlR4OU96YlE?oc=5",
+   "ts": "Tue, 17 Nov 2026 04:08:00 GMT"
   },
   {
    "src": "gnews",

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-17T10:00:29Z",
+ "ts": "2026-11-17T10:15:18Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -371,6 +371,12 @@
   },
   {
    "src": "gnews",
+   "title": "Carney and Xi Announce Trade Pact Ahead of Asia Summit - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
+   "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China and Canada Expand Tariff Relief as Xi Meets Carney - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDF2Y3hmbXN1MWVDZGE5LVJDUE9NeEltNDdEU1hwckVTSmhHcmFNTWczVVhGSGtnaTVSM0hybGh5amRNOHl3a19RUHlHN0ttX1ZGeWNvdTFzTzRBUm84djJ3TG9FS29nQUd2dDlSS09JQWROaWRwZFJhS2ZRaTNCQ0xKbmtoYzgteHg0eGJ6bmlrX2FuWTFuNm1IaDl2cEdCWFhKOTBoU3cwOWc2?oc=5",
    "ts": "Tue, 17 Nov 2026 05:19:00 GMT"
@@ -386,12 +392,6 @@
    "title": "Trump to arrive in the Philippines to talk trade and seek respite from troubles at home - KVUE",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLTZqdklKU3ctQUEzc1otYmFkWXJnOUQ2UE5rYTBLeEdIcGY4X1NkYmxBTkJZXzhLbFlPeDlvVUE0YU5PSGx6aVlxakt2bnZhbGdSZ1pLQ25aQ0k1bURVZll2cUplWk5CTU1VSGg1TEZaZndDTFRnc1lSSlF0MFNTVllFYTVTU3lDSjFad0ZEUmFhSl9DUFdrZ2g4VzdKbGRfeW9xX0ZoTmhfeHo5d1FnZnhkMEF1UGtHbzNTaTN3eDB4T0xrZF9Va0F3Z3FoQQ?oc=5",
    "ts": "Tue, 17 Nov 2026 06:55:37 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney and Xi Announce Trade Pact Ahead of Asia Summit - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
-   "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
   },
   {
    "src": "gnews",
@@ -431,9 +431,15 @@
   },
   {
    "src": "gnews",
-   "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
-   "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
+   "title": "Canada, China expand trade deal as PM Carney visits Shenzhen - upi",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaG5SV3dhRjM2SUo1Q0RuUDF0RGVxcFF4VGZzWmQ0VFdtZXFDNDhNbklyTjBPRjZqNTFObjVIOTh1dkdKMkNhVThTNTFQSVNhX2l3c3pNb0JvTDBxU0lvZkxuamJzUU54d0RrYjVyMlJlcUd5bUlfcGxNMkpDdHI1R0d3RHZkUVl3ZWtZM1pldXdDX2RzLWdKU09yYkZRS3oxQlHSAacBQVVfeXFMTk9yMEdHY2xCYnhoZERKYzI1WGVpLUtfaldmbG1uTHpEeEszVUxGaE9xS3Z0Nl9SSzZOSlVYR0M1NTlVcC04cjdDMmNJUV9zMVB2WFhkYTRaR2NPZDZXcWJwVFd0UXNnSmpZT3ltNGxlZEs4Zm1RSGowYWxiRHNiS21BN2F4enc2MndXNEhobWxMSTZxWTdMSzhJbFgzRzFUVTRxS251SjA?oc=5",
+   "ts": "Tue, 17 Nov 2026 07:47:22 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR3pCLU9Xd1c1amM5dzdoNy1paUJHS3lMOVdsTkp4ZEdSVG9oanlSRHcyV1Njb25xZ1lfSmFsU0JSNlR2MWVkb0owTDNRQW1zZzdqTXpYUVYzTWJUQnB2YXd0Q2g0eUhZT0lDVzdZSmd3SE1FYnNEQ0RoTWhhZDJYR2llcGlRbzJ3SlB1UXJZRmkxQkNPd2dYMVkydlR4OU96YlE?oc=5",
+   "ts": "Tue, 17 Nov 2026 04:08:00 GMT"
   },
   {
    "src": "gnews",
@@ -445,19 +451,13 @@
    "src": "gnews",
    "title": "Trump Administration Divide on China Policy Breaks Into Public View - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFBkeWJNdWI0X24zalBrRVZwNWVrRENBYUM0NEpiNDZvX3g4Rk9xdkloYy1sRDI3aWFOaVl4cFVwX0JuaU5Eai1DeGRHLUJuZmhndVRoN3BkbEstWlItVHNvNkJtRHFNdGpOSV91V0VVZ2hQdDJjZ3V5c0t2RTRGSm1IMHA?oc=5",
-   "ts": "Tue, 17 Nov 2026 00:51:40 GMT"
+   "ts": "Tue, 17 Nov 2026 03:48:50 GMT"
   },
   {
    "src": "gnews",
    "title": "China and Canada expand tariff relief while Ottawa-Washington relations are strained - AP News",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFVFVjI2cU1tdkxwM0ZqcER1eGJfcndIUmt3M1MtZll1X0JKRmlmQno2XzJjQnlYMXZLcVZMWVBXS2xjT3Y5MElNSXIzV1g1RlItV3BTR1k0SHg4dGR6aWRDVVRYWHlnalNRWkpBNmk2d2ZUTlhITE5YVEJvVDZaa2RpS1E3b2F1MkJ3X2JNdU8?oc=5",
    "ts": "Tue, 17 Nov 2026 07:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR3pCLU9Xd1c1amM5dzdoNy1paUJHS3lMOVdsTkp4ZEdSVG9oanlSRHcyV1Njb25xZ1lfSmFsU0JSNlR2MWVkb0owTDNRQW1zZzdqTXpYUVYzTWJUQnB2YXd0Q2g0eUhZT0lDVzdZSmd3SE1FYnNEQ0RoTWhhZDJYR2llcGlRbzJ3SlB1UXJZRmkxQkNPd2dYMVkydlR4OU96YlE?oc=5",
-   "ts": "Tue, 17 Nov 2026 04:08:00 GMT"
   }
  ]
 }

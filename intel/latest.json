@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-17T11:45:23Z",
+ "ts": "2026-11-17T12:00:22Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,15 +341,21 @@
   },
   {
    "src": "gnews",
+   "title": "How Trump and Xi went from tariff war to trade truce - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1B5ZTVMbHctSmxMMmV2SFRrM25UM2ZvZmJpZkpnMXVCSGRVNjlQbFZrQmVRX1poOXdoQjNiV056eGxRUlhpUnVyclQ3aVBXWHBhS1JXUHZLVmtPcHhVMlotQ2JfbUhZZVRndlg3NzJNci14MEJKdkw1c3BoVWYwOFlBbzlGS25WVGxFRy1tV3h2WGJHV3FOeGpBcnJHSUdvVTc4N2VB?oc=5",
+   "ts": "Tue, 17 Nov 2026 03:49:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Carney and Xi Announce Canada-China Trade Pact - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
    "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
   },
   {
    "src": "gnews",
-   "title": "How Trump and Xi went from tariff war to trade truce - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1B5ZTVMbHctSmxMMmV2SFRrM25UM2ZvZmJpZkpnMXVCSGRVNjlQbFZrQmVRX1poOXdoQjNiV056eGxRUlhpUnVyclQ3aVBXWHBhS1JXUHZLVmtPcHhVMlotQ2JfbUhZZVRndlg3NzJNci14MEJKdkw1c3BoVWYwOFlBbzlGS25WVGxFRy1tV3h2WGJHV3FOeGpBcnJHSUdvVTc4N2VB?oc=5",
-   "ts": "Tue, 17 Nov 2026 03:49:00 GMT"
+   "title": "Trump's tariffs are unpopular -- but they'll be tough to repeal despite Democrats' landslide win - Arkansas Advocate",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2R1WFhDQWpGWl9rcW52dzZ6OWpaWW5LY1VMQ2pscGdCenJENTgtQXE3RnJsdXlGV1Z5SmJ6bnY3Um05SVRLdGdjSlllS3FrZ1ZvOVpXZWtjVDlGcWVLNTJkTjI0NW52alFlaEhMeC1FM3lyTXhMODdrY1g5dmhia2VnQWhTUDNrcHJ2UW9GdW50NDZmSFVKZFJFVVNhbXpabzFxZ093M2tjcGF4U21SclFSeFJkeS1GZ1g2cHdSY0ZFZFhkTHJYU0R5NA?oc=5",
+   "ts": "Tue, 17 Nov 2026 11:54:10 GMT"
   },
   {
    "src": "gnews",
@@ -389,27 +395,21 @@
   },
   {
    "src": "gnews",
-   "title": "Trump to arrive in the Philippines to talk trade and seek respite from troubles at home - KVUE",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLTZqdklKU3ctQUEzc1otYmFkWXJnOUQ2UE5rYTBLeEdIcGY4X1NkYmxBTkJZXzhLbFlPeDlvVUE0YU5PSGx6aVlxakt2bnZhbGdSZ1pLQ25aQ0k1bURVZll2cUplWk5CTU1VSGg1TEZaZndDTFRnc1lSSlF0MFNTVllFYTVTU3lDSjFad0ZEUmFhSl9DUFdrZ2g4VzdKbGRfeW9xX0ZoTmhfeHo5d1FnZnhkMEF1UGtHbzNTaTN3eDB4T0xrZF9Va0F3Z3FoQQ?oc=5",
-   "ts": "Tue, 17 Nov 2026 06:55:37 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "After the Blue Tsunami: Getting rid of Trump’s tariffs - Peterson Institute for International Economics",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWtiWTk0d2VDVjVNanNKU3NYYjBqQ1Vuc3I1VFlfWVFtZjdrREdRVlJpNEFyVjhRam55LXhQbkJJWldtNEZHRU9GME5waVpqR2VnWEZEc1R5U3RZMmNkVExUUVRsZVBpSlkyTG5OZW5XcHVkRE5fWE14RldiaGdIV3M3bU1WenYzblpkaFVQY2xXaUFqVzV5ZWhDT2c?oc=5",
    "ts": "Mon, 16 Nov 2026 17:13:36 GMT"
   },
   {
    "src": "gnews",
-   "title": "Prime Minister Carney advances Canada’s strategic partnership with China across trade, commerce, and culture - Prime Minister of Canada",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWotUjB3Q0JQQ1U4S3ptdlJqdzVQVTJ0N1lTMGd0MnpwOHRQaVI2SUFuR19jZjBTUnVrdjUwcnphemhqQzA5TmRUdko5VWlxOUdrTEs3dmVZc0kxcTRFOFVEY3hxS21vOW1RWVhDNEdhdHFfT25nVkZWQWVKbHExZE1FR3FjeGpFOHlvc0tCVmJ6ZGk1bTEwTmVBcTJWODlMU2RiNW5VcFpzRU5SQVIzTTRlVDFDenRDSzVDNQ?oc=5",
-   "ts": "Tue, 17 Nov 2026 05:05:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "How Jensen Huang scandal makes Congress a bigger risk to U.S.-China relations - CNBC",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUElqZEpZWVNEbkNCOC1PX2hBYlJUZ01mTTU0WVU1LWVYQWtNY0pZSFdvak5EeklWSll1UmFHaFd5M0JzXzRSN3ZKdXQ2aHYzdWlxSlVwaWJYdkRRRGN5czFaNXVjOWNYc0pzZzh6NGstNzFtNkx1RnlpWU1zeEhXT0Uzd2Zid9IBiwFBVV95cUxOVDBpeWNVRmd2VFVtOE5LZDNFWngxQmN5UTh3NlgydExRSjN1ektjSW5lWFQxa3pfZW05cmd4WEtPVHRzT29RUFpnRzBHMm1zYmtXTTlfUHBhUGZkMk1GT0VMTDVOOHlQWkFQYVZZV0JiMTNsRTlEWGFUNmJ1WGpWVzdfMzFFTS1PbUZz?oc=5",
    "ts": "Tue, 17 Nov 2026 06:51:40 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Prime Minister Carney advances Canada’s strategic partnership with China across trade, commerce, and culture - Prime Minister of Canada",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWotUjB3Q0JQQ1U4S3ptdlJqdzVQVTJ0N1lTMGd0MnpwOHRQaVI2SUFuR19jZjBTUnVrdjUwcnphemhqQzA5TmRUdko5VWlxOUdrTEs3dmVZc0kxcTRFOFVEY3hxS21vOW1RWVhDNEdhdHFfT25nVkZWQWVKbHExZE1FR3FjeGpFOHlvc0tCVmJ6ZGk1bTEwTmVBcTJWODlMU2RiNW5VcFpzRU5SQVIzTTRlVDFDenRDSzVDNQ?oc=5",
+   "ts": "Tue, 17 Nov 2026 05:05:00 GMT"
   },
   {
    "src": "gnews",
@@ -437,9 +437,9 @@
   },
   {
    "src": "gnews",
-   "title": "As Trump and Xi Mingle, Their Governments Are Arming Up - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uN3N0SUFweVFjRXlITG0wZTJaM1dNckFuN1pvMmtocE9NTV9OZnJIZG1acXNVTjFJdWNXWXRxRGp5aE84bE9NeHFEY1RwWlVrNDd3LVhQT0NGZGNnVzJMdzJJdXc5YXZWQnBIREI5OUNyazFoTnpSbU9ZTllMNHc?oc=5",
-   "ts": "Tue, 17 Nov 2026 10:03:50 GMT"
+   "title": "Trump Administration Divide on China Policy Breaks Into Public View - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFBkeWJNdWI0X24zalBrRVZwNWVrRENBYUM0NEpiNDZvX3g4Rk9xdkloYy1sRDI3aWFOaVl4cFVwX0JuaU5Eai1DeGRHLUJuZmhndVRoN3BkbEstWlItVHNvNkJtRHFNdGpOSV91V0VVZ2hQdDJjZ3V5c0t2RTRGSm1IMHA?oc=5",
+   "ts": "Tue, 17 Nov 2026 03:48:50 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Administration Divide on China Policy Breaks Into Public View - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFBkeWJNdWI0X24zalBrRVZwNWVrRENBYUM0NEpiNDZvX3g4Rk9xdkloYy1sRDI3aWFOaVl4cFVwX0JuaU5Eai1DeGRHLUJuZmhndVRoN3BkbEstWlItVHNvNkJtRHFNdGpOSV91V0VVZ2hQdDJjZ3V5c0t2RTRGSm1IMHA?oc=5",
-   "ts": "Tue, 17 Nov 2026 03:48:50 GMT"
+   "title": "As Trump and Xi Mingle, Their Governments Are Arming Up - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uN3N0SUFweVFjRXlITG0wZTJaM1dNckFuN1pvMmtocE9NTV9OZnJIZG1acXNVTjFJdWNXWXRxRGp5aE84bE9NeHFEY1RwWlVrNDd3LVhQT0NGZGNnVzJMdzJJdXc5YXZWQnBIREI5OUNyazFoTnpSbU9ZTllMNHc?oc=5",
+   "ts": "Tue, 17 Nov 2026 10:03:50 GMT"
   }
  ]
 }

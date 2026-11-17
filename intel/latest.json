@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-17T06:00:35Z",
+ "ts": "2026-11-17T06:15:18Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -359,6 +359,12 @@
   },
   {
    "src": "gnews",
+   "title": "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR3pCLU9Xd1c1amM5dzdoNy1paUJHS3lMOVdsTkp4ZEdSVG9oanlSRHcyV1Njb25xZ1lfSmFsU0JSNlR2MWVkb0owTDNRQW1zZzdqTXpYUVYzTWJUQnB2YXd0Q2g0eUhZT0lDVzdZSmd3SE1FYnNEQ0RoTWhhZDJYR2llcGlRbzJ3SlB1UXJZRmkxQkNPd2dYMVkydlR4OU96YlE?oc=5",
+   "ts": "Tue, 17 Nov 2026 04:08:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "After the Blue Tsunami: Getting rid of Trump’s tariffs - Peterson Institute for International Economics",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWtiWTk0d2VDVjVNanNKU3NYYjBqQ1Vuc3I1VFlfWVFtZjdrREdRVlJpNEFyVjhRam55LXhQbkJJWldtNEZHRU9GME5waVpqR2VnWEZEc1R5U3RZMmNkVExUUVRsZVBpSlkyTG5OZW5XcHVkRE5fWE14RldiaGdIV3M3bU1WenYzblpkaFVQY2xXaUFqVzV5ZWhDT2c?oc=5",
    "ts": "Mon, 16 Nov 2026 17:13:36 GMT"
@@ -401,6 +407,12 @@
   },
   {
    "src": "gnews",
+   "title": "Trump and Xi meet in Shenzhen with little left to trade - Asia Times",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTklDWkhWZlJYTmc2algzeXRPTG5QSDhMUm54S0ZjUG1xcl9feHk4YzJUVGp4T0cwWGlBazV0SkRMbnlkMkFTVXZuQzQwaTN4Ql94RG1rRF94WXh2Mm04a2NpM3Nob0g3aGJpVkd2Q1IxVkxDU0xhYkd0ODMxZFdIcHBmMk1pLTJoTnVETUV1RQ?oc=5",
+   "ts": "Tue, 17 Nov 2026 05:15:56 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump arrives in the Philippines on Tuesday to talk trade and seek respite from troubles at home - KTVN",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNlJwOUtES21GTTdaQURQTzFPR1h4Q3d5TVJIaWxaYXUxWU1pb0dCdDNRV2kwR0hyYTVaWXVoUEEyMUpXaHRLNmdJRnQycllnVWhYNGYwY0NfOUpDTjdWdlZmdVkyQ3FMTnpHay15S2FrNi0xZWpoekE4eXd3anRTNjFpWDRRaGg3ZlFSYkQ0clZaTXNNYzY5VnhsRlBWZ0pud3o1MjdrME9fLVBSbWY5akJuS3Y1dXBSVWM1eTdXVTQxS0xBZEhLSmJpU3dmdnlIMkJFRXNQYy1NSWdRQ3U3c290QW5jRy1lRlYzZVRHUGRackZFNmhLbVpvQlhYTlliTnc?oc=5",
    "ts": "Tue, 17 Nov 2026 05:01:37 GMT"
@@ -413,18 +425,6 @@
   },
   {
    "src": "gnews",
-   "title": "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit - Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZFZUUF9TVjFhaGxSUW9VeHhLRHZGSnktX0ZWRUlrdkFqLVhnLTBMWEM5bjZic215LUIyWHlRcUQ2LWg4d1lFMHFjZGNIXzFQZHR1VThjR2ltbEZOclZoOTd2THpCSG5kU25mMk0yWmJCNGI4QmUwMjNTb1dQdGJwQVNMd0J3MlU?oc=5",
-   "ts": "Tue, 17 Nov 2026 04:42:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump and Xi meet in Shenzhen with little left to trade - Asia Times",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTklDWkhWZlJYTmc2algzeXRPTG5QSDhMUm54S0ZjUG1xcl9feHk4YzJUVGp4T0cwWGlBazV0SkRMbnlkMkFTVXZuQzQwaTN4Ql94RG1rRF94WXh2Mm04a2NpM3Nob0g3aGJpVkd2Q1IxVkxDU0xhYkd0ODMxZFdIcHBmMk1pLTJoTnVETUV1RQ?oc=5",
-   "ts": "Tue, 17 Nov 2026 05:15:56 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Prime Minister Carney advances Canada’s strategic partnership with China across trade, commerce, and culture - www.pm.gc.ca",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUnZtLUVCZ0hGd25WZTVsX2JhejRBZkZ0MHdfWlFqaEZ3YWZHMWdyODA4UTFlaVlPd0xzdldVZUZXYXlUUTNQZnNSOUlIMi1zMDVqcjZTa2xCNlZ5czI3MkF3ZTFxNDFfT3FPMkdjYWlidjhLZjdYVHVBVGV5TFdaemsyVlYtM3dSRHVGWFVGREZ5RXV2ZDV4Z1pabElVNS1BNHJEN1pnbWFQbTU3UkYwRXpYYWZLRmtENkpNVA?oc=5",
    "ts": "Tue, 17 Nov 2026 04:22:54 GMT"
@@ -434,6 +434,12 @@
    "title": "Midterm losses, Nvidia scandal weaken Trump as he faces Xi and Putin - The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTWo0TlNQRVFiYU15cWR4OVU5OWdKdDVqV2FLbkRpNUQtWFdXMEdJOWlCRmVHSWVXQVRuNjdvMU9USzlNNmJHTk81RGRYMFlMQ003X0FiSlJQejJjX3JaVHRDRThCSFRJVWJfT2liVmxoc2psajFHVXI2eHdscmEtU0UwdjRER29zUE92NEpxanNCbk1LVUQ0alhINDMwQ1hnU3luZlpMNkxwRzBQTmc?oc=5",
    "ts": "Mon, 16 Nov 2026 18:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
+   "ts": "Sat, 14 Nov 2026 08:38:39 GMT"
   },
   {
    "src": "gnews",
@@ -452,12 +458,6 @@
    "title": "Trump’s stake in Nvidia grew to as much as $62 million before scandal broke out - The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPalJ6aGJjaVBRcGpoZmx6WmJ2RFloSnFJdDJWMmlTOG5qS2ZTTTdVTUZhenF6eXoxNEtHRHhJNHFDb1NKNEhGOGY3UjV2dVI2eHdiZmVnb1BEWVdXRTY1NjRFbm0xdUJnQzY5QlZTWnZuQ2FKQ1VqeExkSWtDR21qQkpNcVhFRll0VnN2eGNjMm5uWTJLSEkzTENCVmRyVG5rWGppSnBDcC1ldlZFanpsOXhQblFkSjZU?oc=5",
    "ts": "Mon, 16 Nov 2026 18:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Demand for Chinese Goods Is Soaring but Economic Momentum Slows at Home - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTVl1aGxrVkh0SGpPTXRaUHpEM0lTTmQtdHEySlRNWE9vbVh4OWJwTlBocGpiQzBrVHg0RGFndGZkRGFGWWdxb3RMdHBsc1c3alFpbFNqVUxEVm1yUUwwN2F3NnpOQl9vZVpPbS1uZnJ3UFJyVXpCQ0FIc2FYNWI3b05haGVNVG1IY2xB?oc=5",
-   "ts": "Mon, 16 Nov 2026 06:59:00 GMT"
   }
  ]
 }

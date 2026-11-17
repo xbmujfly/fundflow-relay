@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-17T15:30:25Z",
+ "ts": "2026-11-17T15:45:22Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,15 +341,15 @@
   },
   {
    "src": "gnews",
-   "title": "How Trump and Xi went from tariff war to trade truce - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1B5ZTVMbHctSmxMMmV2SFRrM25UM2ZvZmJpZkpnMXVCSGRVNjlQbFZrQmVRX1poOXdoQjNiV056eGxRUlhpUnVyclQ3aVBXWHBhS1JXUHZLVmtPcHhVMlotQ2JfbUhZZVRndlg3NzJNci14MEJKdkw1c3BoVWYwOFlBbzlGS25WVGxFRy1tV3h2WGJHV3FOeGpBcnJHSUdvVTc4N2VB?oc=5",
-   "ts": "Tue, 17 Nov 2026 03:49:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney and Xi Announce Canada-China Trade Pact - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
    "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "How Trump and Xi went from tariff war to trade truce - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1B5ZTVMbHctSmxMMmV2SFRrM25UM2ZvZmJpZkpnMXVCSGRVNjlQbFZrQmVRX1poOXdoQjNiV056eGxRUlhpUnVyclQ3aVBXWHBhS1JXUHZLVmtPcHhVMlotQ2JfbUhZZVRndlg3NzJNci14MEJKdkw1c3BoVWYwOFlBbzlGS25WVGxFRy1tV3h2WGJHV3FOeGpBcnJHSUdvVTc4N2VB?oc=5",
+   "ts": "Tue, 17 Nov 2026 03:49:00 GMT"
   },
   {
    "src": "gnews",
@@ -371,6 +371,12 @@
   },
   {
    "src": "gnews",
+   "title": "China and Canada Expand Tariff Relief as Xi Meets Carney - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDF2Y3hmbXN1MWVDZGE5LVJDUE9NeEltNDdEU1hwckVTSmhHcmFNTWczVVhGSGtnaTVSM0hybGh5amRNOHl3a19RUHlHN0ttX1ZGeWNvdTFzTzRBUm84djJ3TG9FS29nQUd2dDlSS09JQWROaWRwZFJhS2ZRaTNCQ0xKbmtoYzgteHg0eGJ6bmlrX2FuWTFuNm1IaDl2cEdCWFhKOTBoU3cwOWc2?oc=5",
+   "ts": "Tue, 17 Nov 2026 05:19:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "The U.S.-China Trade Relationship Is Crucial. Trump Should Reset Talks. - National Taxpayers Union",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkFnWnhuQl9STHVaT0FPRGo2NERFeWNFM2ZBMFpvV21kX2hHWFdGdnFNX1g0b2ZqQ1NnUDMwWFNlT29WVXNVN091VUxOa2pjbUZOaGs5anlEZzQzbTJib3JkWkd6UFpRZWRRZUpiNkdlOEplSTM3UWlabnVpakw4dXVwOFZmVU9SV1NfMkdaTlNDTUkxSHNBQW82UjRPNkpheWU0NkxRWmZuOVE?oc=5",
    "ts": "Mon, 16 Nov 2026 19:33:03 GMT"
@@ -389,12 +395,6 @@
   },
   {
    "src": "gnews",
-   "title": "China and Canada Expand Tariff Relief as Xi Meets Carney - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDF2Y3hmbXN1MWVDZGE5LVJDUE9NeEltNDdEU1hwckVTSmhHcmFNTWczVVhGSGtnaTVSM0hybGh5amRNOHl3a19RUHlHN0ttX1ZGeWNvdTFzTzRBUm84djJ3TG9FS29nQUd2dDlSS09JQWROaWRwZFJhS2ZRaTNCQ0xKbmtoYzgteHg0eGJ6bmlrX2FuWTFuNm1IaDl2cEdCWFhKOTBoU3cwOWc2?oc=5",
-   "ts": "Tue, 17 Nov 2026 05:19:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump, Xi Meet This Week: Could Footwear See U.S., China Pause Trade Truce Extension a Second Time? - WWD",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUU5qZDA3cDJLNlNmNnF4ZTh0WTZ6bm1ZZTJhdWdVMHN4SXlPQUF0U01kZGpjNkhYTENrZ0VNalh3YVBHcF9naU5td0pwM0c3M2NVd3BoWFo3SjNiLThhNjZtSFdkUWVEcWU2bEYzTDlILUFpMXRGUmNCdnZzckNGYmNjeU9GNVFOMzFvM25kVUNERHJoTERWcWlnZmRqZHJBdWxmUTVQaGVQclhLVUhzd2lmcw?oc=5",
    "ts": "Tue, 17 Nov 2026 10:33:41 GMT"
@@ -407,9 +407,15 @@
   },
   {
    "src": "gnews",
-   "title": "Bessent vs Lutnick: Who is winning the China chip debate? - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWl9zR0hUR0x4Y2RsMVBOYTcwQzNzdHczb2xuTlYyNDJTZkd5dWJTUGNEOFVPZXhpdnpRQjNwYU9iODZCNDM3OF9TdkoxWkxuQjhtOTRfTTVlckgtWGNHejhOUzV0Vmd2d0dDUkpIZVBlRmJVeW9qVmZodmZkYnVZLUlCbUZiWnJOS042b1lYNE0wNmtCZWpTSkw3RW9WRFhpbmfSAacBQVVfeXFMTUx3ZW8zUjhqZkxINUlZeUtINEdoMG5mWV9fbUE1R2FaUVZUclVSQmQ4Q3hTamRIOS1hb2hzdGRWNTBOUFNiUkVkOThaYWRFTTZQQkk5WHFMdEZpMnA3dXpKUThGb2Fndkl5akJuSnNvaGFPZXVabWkxWkYtRUVUdHFTeklqYWx2a2FoYTQ3NTExVlVtNDlPWHRqY25vOFRHNmhmc1dmbUk?oc=5",
-   "ts": "Tue, 17 Nov 2026 14:49:06 GMT"
+   "title": "Trump administration moves to block China from indirect access to American AI technology - Alabama Daily News",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmVNc2gzUVpPRS1uRHRSNUZMR0RSR3hzd18xZVVacXlMVGVQZDhDSFJ4S1E5UjRYQVRnVWdWS1cyMW9pSXk2T21YWmFjVWJnU3NYaUJLSmZVS0V1OU0zMlpQb2xNMTZxdDN5UnBES1ZoQllzdG44SjVQQlJXbVgwUXZsYVRqVTNsOWJnTEgtYUFFN1RVampqc3M2WXljRHBZandFZklkZnZ3aktaLVhIaHpPVQ?oc=5",
+   "ts": "Tue, 17 Nov 2026 13:11:15 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Remarks: Donald Trump Signs a Bilateral Trade Deal with Thailand in Manila - November 17, 2026 - Roll Call",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRUFjQnRtMGVjcHJFQUdZSjk3b1d6Tm1ObWZlcFEwbFF4c1dCZW5DWWgyRzJpSTFSRkVWQnpLT0R5U25fQzZkSEZZTXg3QlV1eTVNMlJiUFprMWdSeDE2NHJZVWFxS3ItZHJrbDhDcUtzeVNkWll3TC0zbXZMN0ptYVVLakRXNExsczhhdHN2dTZvakJURGZNbjZEd0ZZTkwzdWNvMWxLVUMtQjJhdnNYT1dFNHVkVmhJWkE?oc=5",
+   "ts": "Tue, 17 Nov 2026 14:29:24 GMT"
   },
   {
    "src": "gnews",
@@ -452,12 +458,6 @@
    "title": "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR3pCLU9Xd1c1amM5dzdoNy1paUJHS3lMOVdsTkp4ZEdSVG9oanlSRHcyV1Njb25xZ1lfSmFsU0JSNlR2MWVkb0owTDNRQW1zZzdqTXpYUVYzTWJUQnB2YXd0Q2g0eUhZT0lDVzdZSmd3SE1FYnNEQ0RoTWhhZDJYR2llcGlRbzJ3SlB1UXJZRmkxQkNPd2dYMVkydlR4OU96YlE?oc=5",
    "ts": "Tue, 17 Nov 2026 04:08:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Nvidia forms export-control panel as Huang affair puts China ties in focus - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTFHVE42V3FIZzBXbWhKLVR3bWRrZ3dRWGpCRm45dlktYkpveDBveW1IRFc1aDltUERHLURBUFdSUW5KMVVaZ2w2NGRuQVhmZmtyb2ZpUGZuZncyVXR3cFYxX2FUcmFyQVRBSHVnbWFsVFFTQ1lPS0lTdmZUMDktbTBUbndQdzhxc2JnWVctSF96QXdVb2JUeUpqYURha25FMEZhU3VqbWFTZDA0Q3lqanRUaGdMQ2M?oc=5",
-   "ts": "Tue, 17 Nov 2026 14:36:17 GMT"
   }
  ]
 }

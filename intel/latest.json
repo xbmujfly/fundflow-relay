@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-17T11:30:25Z",
+ "ts": "2026-11-17T11:45:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,7 +341,7 @@
   },
   {
    "src": "gnews",
-   "title": "Carney and Xi Announce Trade Pact Ahead of Asia Summit - The New York Times",
+   "title": "Carney and Xi Announce Canada-China Trade Pact - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
    "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
   },
@@ -353,15 +353,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
-   "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump arrives in Philippines to kick off Asia trip - NPR",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SMjBaUkhva3F0V2lNb3pUanRWRDRjdjNreFRyc1cxMzlxMXBIMVJRR3RIUnFMSUZpQUtYMDlnM0NWLXVqU0tnampxRWphSjB2cUtlaUtJTUVoNTdVdE5SWDQxRUZibWRuYVRtVEt1cjFNRkQya0gtTk5R?oc=5",
    "ts": "Tue, 17 Nov 2026 10:43:55 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
+   "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
   },
   {
    "src": "gnews",
@@ -439,7 +439,7 @@
    "src": "gnews",
    "title": "As Trump and Xi Mingle, Their Governments Are Arming Up - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uN3N0SUFweVFjRXlITG0wZTJaM1dNckFuN1pvMmtocE9NTV9OZnJIZG1acXNVTjFJdWNXWXRxRGp5aE84bE9NeHFEY1RwWlVrNDd3LVhQT0NGZGNnVzJMdzJJdXc5YXZWQnBIREI5OUNyazFoTnpSbU9ZTllMNHc?oc=5",
-   "ts": "Tue, 17 Nov 2026 10:03:49 GMT"
+   "ts": "Tue, 17 Nov 2026 10:03:50 GMT"
   },
   {
    "src": "gnews",
@@ -457,7 +457,7 @@
    "src": "gnews",
    "title": "Trump Administration Divide on China Policy Breaks Into Public View - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFBkeWJNdWI0X24zalBrRVZwNWVrRENBYUM0NEpiNDZvX3g4Rk9xdkloYy1sRDI3aWFOaVl4cFVwX0JuaU5Eai1DeGRHLUJuZmhndVRoN3BkbEstWlItVHNvNkJtRHFNdGpOSV91V0VVZ2hQdDJjZ3V5c0t2RTRGSm1IMHA?oc=5",
-   "ts": "Tue, 17 Nov 2026 00:51:40 GMT"
+   "ts": "Tue, 17 Nov 2026 03:48:50 GMT"
   }
  ]
 }

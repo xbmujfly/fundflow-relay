@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-17T03:00:25Z",
+ "ts": "2026-11-17T03:15:17Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -353,27 +353,27 @@
   },
   {
    "src": "gnews",
-   "title": "Trump, Xi Meet This Week: Could Footwear See U.S., China Pause Trade Truce Extension a Second Time? - WWD",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUU5qZDA3cDJLNlNmNnF4ZTh0WTZ6bm1ZZTJhdWdVMHN4SXlPQUF0U01kZGpjNkhYTENrZ0VNalh3YVBHcF9naU5td0pwM0c3M2NVd3BoWFo3SjNiLThhNjZtSFdkUWVEcWU2bEYzTDlILUFpMXRGUmNCdnZzckNGYmNjeU9GNVFOMzFvM25kVUNERHJoTERWcWlnZmRqZHJBdWxmUTVQaGVQclhLVUhzd2lmcw?oc=5",
-   "ts": "Tue, 17 Nov 2026 01:33:41 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "After the Blue Tsunami: Getting rid of Trump’s tariffs - Peterson Institute for International Economics",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWtiWTk0d2VDVjVNanNKU3NYYjBqQ1Vuc3I1VFlfWVFtZjdrREdRVlJpNEFyVjhRam55LXhQbkJJWldtNEZHRU9GME5waVpqR2VnWEZEc1R5U3RZMmNkVExUUVRsZVBpSlkyTG5OZW5XcHVkRE5fWE14RldiaGdIV3M3bU1WenYzblpkaFVQY2xXaUFqVzV5ZWhDT2c?oc=5",
    "ts": "Mon, 16 Nov 2026 17:13:36 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump Administration Divide on China Policy Breaks Into Public View - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFBkeWJNdWI0X24zalBrRVZwNWVrRENBYUM0NEpiNDZvX3g4Rk9xdkloYy1sRDI3aWFOaVl4cFVwX0JuaU5Eai1DeGRHLUJuZmhndVRoN3BkbEstWlItVHNvNkJtRHFNdGpOSV91V0VVZ2hQdDJjZ3V5c0t2RTRGSm1IMHA?oc=5",
-   "ts": "Tue, 17 Nov 2026 00:51:40 GMT"
+   "title": "Trump, Xi Meet This Week: Could Footwear See U.S., China Pause Trade Truce Extension a Second Time? - WWD",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUU5qZDA3cDJLNlNmNnF4ZTh0WTZ6bm1ZZTJhdWdVMHN4SXlPQUF0U01kZGpjNkhYTENrZ0VNalh3YVBHcF9naU5td0pwM0c3M2NVd3BoWFo3SjNiLThhNjZtSFdkUWVEcWU2bEYzTDlILUFpMXRGUmNCdnZzckNGYmNjeU9GNVFOMzFvM25kVUNERHJoTERWcWlnZmRqZHJBdWxmUTVQaGVQclhLVUhzd2lmcw?oc=5",
+   "ts": "Tue, 17 Nov 2026 01:33:41 GMT"
   },
   {
    "src": "gnews",
    "title": "President Trump Signs Trade Deal with Thailand - C-SPAN",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2YzdUU0dmwyZmJGRXRiUGRYRjVWSHN0ajdvUkpYYTFPcGZmd2RmeERZckc5ZXZFWVJVUjI1YmR3MjRKeHpZTHVLdVQ3WFdSZ3NJdzdrM2ZqZjRMYnhiazJ4SGhQLTcxTWdxUE5SZ0lpbkp3OTFMUFRGcHBaeWZKQWR3UEVlaERIOEZ2TzdZRGdHT3V5aHFkaWhNZFJGSXpUaVE?oc=5",
    "ts": "Tue, 17 Nov 2026 02:40:17 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Administration Divide on China Policy Breaks Into Public View - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFBkeWJNdWI0X24zalBrRVZwNWVrRENBYUM0NEpiNDZvX3g4Rk9xdkloYy1sRDI3aWFOaVl4cFVwX0JuaU5Eai1DeGRHLUJuZmhndVRoN3BkbEstWlItVHNvNkJtRHFNdGpOSV91V0VVZ2hQdDJjZ3V5c0t2RTRGSm1IMHA?oc=5",
+   "ts": "Tue, 17 Nov 2026 00:51:40 GMT"
   },
   {
    "src": "gnews",
@@ -395,9 +395,9 @@
   },
   {
    "src": "gnews",
-   "title": "Canada could turn to Chinese automakers without US deal: Carney - The Hill",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQjJDN2hSa25HcVNUUEJfOF9hT080bGRnMmdKOHBRbG9xMXpnLTdoVG40Q2g1M3dhTmhTdm85anpyNjg3UWdfR3B2WkE4VDZDQkVfQnhRRUpHRzNtbGJHSk04MWs0S3NXWEtFVGJDZHJfMmZmR0R4OEVkUDVtY1drRURPMmlsbG5WVnfSAY8BQVVfeXFMTy1KS3BFREFORWpBcWpqTC15UW1IU3lJNmhXdG5IOFhwWlQtaWV5ZTltTjhlYjFJWG1zR3pab2ZrNWVEVVVpY0twNXlaWWVfVTBva0NiVmg1dERpZk1OSHltMy14VE9DN2ZULWE5RTZqTlFEcjFNRVpnYVUzcmQ3YWxQY29rdE92eDdwN3NEVlE?oc=5",
-   "ts": "Mon, 16 Nov 2026 19:23:00 GMT"
+   "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal - The Hill",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmNDaEFOUjhyQ3dSTXZ5c1pkT0hpdEVqT0tmOGk2cVVDZ1pZT3EtNVlLczVuYllZd0ZWRGRBQmxiY0hTMFJTQXE0YWN0dTA3RzA2N3VmM0MtRzNycGpqbHh6RlZKMGtnaEkwRzZYVUxuLWs2U19jQS1HLS1xb01hZi13Yjh5UnFxSXdScDI1bUHSAZYBQVVfeXFMT084UmYyZ2JNVTg5ZFJKR0N4MTR2SFF5ekRwdFdsNnlTeVQ5dExLUmhlclcycVFuUS1TRHFRTnFWWHp3MVQ0ZzBFbFdST0VkWEh2QTRreVZnaGpGRTJKM3h1aHhsVHZ1VXJtZGpJb3N3RjE4RXJ5TFNFeGVrTjF6R1R2akUwaU9LQWdfSHZUeDNqOUY1UVlB?oc=5",
+   "ts": "Sun, 15 Nov 2026 00:26:00 GMT"
   },
   {
    "src": "gnews",
@@ -425,9 +425,15 @@
   },
   {
    "src": "gnews",
-   "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney - The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRW1YT2xuSWxNY2JFeFk0ZnNjako0Qk9iaTNhLUN2eEJtWS00MS1PN0NFR1JBZnliM1dQWmNuTVN6YUNGclBFS2NsUlVzSnM3ZVlFTVl5cFNEOEwxUmhNZTNIZjJ0ZlVIQ3I0dGVWTW5uOWhac2kxZFN6R3JGVHRiOEdiSnNLTG81VWRZbTNtZGpIRFZaU2drVjVxcEk3amtKUmNFQi1iQUhBNDFVZ2VDMw?oc=5",
-   "ts": "Mon, 16 Nov 2026 04:54:00 GMT"
+   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - Indiana Gazette Online",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZU1iWFpWTXdVX0VRQ28wV0lIbkNJcW9fdC1LTnEyc0ZrU0F5V0c3RERnOUtONllfWl8yY3k5U01fMEQ1UXhKeGhibi01QU9IWXhoZnFHRnBta0dzTG1OSjQwRFFjU0Rvc1JFRGhvcGtMWVk2aEpweGptc044VzR0RFJmc3hFVmJ0VXNIVW5hS2ZIVWVBeGlkMVlTX1JPaENVTGZ6eFl6bkRnZ2J0czZRc2FGOUc0eVduTnZtVkVuMmNzSk4xcDBwM012X3VMM0IxbW1fQ256WUxZUGNOYXA0eTIxRW5WYnNnemFYN2ttRVIxWUN2MlE?oc=5",
+   "ts": "Tue, 17 Nov 2026 01:35:10 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China seeks Apec road map for long-envisioned Asia-Pacific free trade area - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeURLLUJ5eG0zcmxZM19RZl96NEJ3Z0dUaGc1QkpsMUJsYjM4eThnVGNEdEhEMXVWRFJCcXg0MmU1UTRqRlRfOHk2STFGQnBxaE4yMUY1X3VhblpyTVNKWEFCMHdaYUJUSXNYa2I2al9ZTUpwQVBmNUsxQmhnRFJjc0dqczU0RTdOVlpfMHAzN0dlUFlsWHdUdWtvZElXTWh0eGJDN2FadzluR3NiNWNoc28zbl9aMWlsOWxGcXRKUUdYYkwyQWJONWt30gHKAUFVX3lxTE5ScFU5aF9ONTRXeDQ3RGM3ZkJnei1uZTllbzZoVnZDVm1IZF9RVHpvUXNaZ2dOcDJHSTY2TGZuXzdnYlpNaUpFTUV6SGNrNWwxSDJxcVAzMU5lOHl6cjY4bnN1VElVYk9ycWMtNWxVb0pkV1FGN2dxcWw3blJ0M0k0djlwMzVNaWVPaWZ3YWhCVUJhZy15cjBwWFM1TlNRajFRYThUZW5XQWhtYXFINFlLWGQzT0U5bmdHTDhpT0xIUkdCMG5IOXdzQWc?oc=5",
+   "ts": "Mon, 16 Nov 2026 12:22:56 GMT"
   },
   {
    "src": "gnews",
@@ -437,21 +443,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - Indiana Gazette Online",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZU1iWFpWTXdVX0VRQ28wV0lIbkNJcW9fdC1LTnEyc0ZrU0F5V0c3RERnOUtONllfWl8yY3k5U01fMEQ1UXhKeGhibi01QU9IWXhoZnFHRnBta0dzTG1OSjQwRFFjU0Rvc1JFRGhvcGtMWVk2aEpweGptc044VzR0RFJmc3hFVmJ0VXNIVW5hS2ZIVWVBeGlkMVlTX1JPaENVTGZ6eFl6bkRnZ2J0czZRc2FGOUc0eVduTnZtVkVuMmNzSk4xcDBwM012X3VMM0IxbW1fQ256WUxZUGNOYXA0eTIxRW5WYnNnemFYN2ttRVIxWUN2MlE?oc=5",
-   "ts": "Tue, 17 Nov 2026 01:35:10 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump Heads to China as Trade Truce Raises Stakes for American Farmers - AgroLatam",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWEltb3E1VlQ3eW9KSTBjOHViQ1RtdW4wUnkyazQyZC1DcWRVbzZjRXhWRzNHVDduTzhLbXRBUS1XYjdFYnRjUkJoS3AwT1l0dThmMXMteUlwdWJNTm5qamtCY0hocnMybnNENHF5LV90VUlEd2lLY0haSzlZUkdvV3ZZUEsxZ00?oc=5",
    "ts": "Mon, 16 Nov 2026 12:18:51 GMT"
   },
   {
    "src": "gnews",
-   "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal - The Hill",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmNDaEFOUjhyQ3dSTXZ5c1pkT0hpdEVqT0tmOGk2cVVDZ1pZT3EtNVlLczVuYllZd0ZWRGRBQmxiY0hTMFJTQXE0YWN0dTA3RzA2N3VmM0MtRzNycGpqbHh6RlZKMGtnaEkwRzZYVUxuLWs2U19jQS1HLS1xb01hZi13Yjh5UnFxSXdScDI1bUHSAZYBQVVfeXFMT084UmYyZ2JNVTg5ZFJKR0N4MTR2SFF5ekRwdFdsNnlTeVQ5dExLUmhlclcycVFuUS1TRHFRTnFWWHp3MVQ0ZzBFbFdST0VkWEh2QTRreVZnaGpGRTJKM3h1aHhsVHZ1VXJtZGpJb3N3RjE4RXJ5TFNFeGVrTjF6R1R2akUwaU9LQWdfSHZUeDNqOUY1UVlB?oc=5",
-   "ts": "Sun, 15 Nov 2026 00:26:00 GMT"
+   "title": "Canada could turn to Chinese automakers without US deal: Carney - The Hill",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQjJDN2hSa25HcVNUUEJfOF9hT080bGRnMmdKOHBRbG9xMXpnLTdoVG40Q2g1M3dhTmhTdm85anpyNjg3UWdfR3B2WkE4VDZDQkVfQnhRRUpHRzNtbGJHSk04MWs0S3NXWEtFVGJDZHJfMmZmR0R4OEVkUDVtY1drRURPMmlsbG5WVnfSAY8BQVVfeXFMTy1KS3BFREFORWpBcWpqTC15UW1IU3lJNmhXdG5IOFhwWlQtaWV5ZTltTjhlYjFJWG1zR3pab2ZrNWVEVVVpY0twNXlaWWVfVTBva0NiVmg1dERpZk1OSHltMy14VE9DN2ZULWE5RTZqTlFEcjFNRVpnYVUzcmQ3YWxQY29rdE92eDdwN3NEVlE?oc=5",
+   "ts": "Mon, 16 Nov 2026 19:23:00 GMT"
   },
   {
    "src": "gnews",

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-17T04:15:18Z",
+ "ts": "2026-11-17T04:30:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -29,8 +29,9 @@
    "err": "HTTPError: HTTP Error 403: Forbidden"
   },
   "gnews": {
-   "ok": true,
-   "n": 25
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   "gdelt": {
    "ok": false,
@@ -338,126 +339,6 @@
    "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
    "ts": "Fri, 25 Sep 2026 20:30:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
-   "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Post-Election Trade Outlook: Tariff Authority and Congressional Scrutiny - Holland & Knight",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNekhjeVlRM0psMkdMNk9MVzg3Tng3ZkhZWTBySWxlendaV01lZ1hFYkdWSUFDUk9HMU0waklHZGVXb0ZaLXF3RFpCb0JFTDBpd1JaT0pfY0FYeDdzNWZWYUdxeUl3Q1RYbWwyTjJaOHZDM2d6aC1pb08tTHpPdkdzV3VxRGZvNGtqelg0NTNHRDI2R3ZRaUVOMFVGamJ0UEw4QTdaeVo3aFZ4bFoyaXUzM0V1S1VZLVUt?oc=5",
-   "ts": "Mon, 16 Nov 2026 19:59:35 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "How Trump and Xi went from tariff war to trade truce - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1B5ZTVMbHctSmxMMmV2SFRrM25UM2ZvZmJpZkpnMXVCSGRVNjlQbFZrQmVRX1poOXdoQjNiV056eGxRUlhpUnVyclQ3aVBXWHBhS1JXUHZLVmtPcHhVMlotQ2JfbUhZZVRndlg3NzJNci14MEJKdkw1c3BoVWYwOFlBbzlGS25WVGxFRy1tV3h2WGJHV3FOeGpBcnJHSUdvVTc4N2VB?oc=5",
-   "ts": "Tue, 17 Nov 2026 03:49:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump Administration Divide on China Policy Breaks Into Public View - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFBkeWJNdWI0X24zalBrRVZwNWVrRENBYUM0NEpiNDZvX3g4Rk9xdkloYy1sRDI3aWFOaVl4cFVwX0JuaU5Eai1DeGRHLUJuZmhndVRoN3BkbEstWlItVHNvNkJtRHFNdGpOSV91V0VVZ2hQdDJjZ3V5c0t2RTRGSm1IMHA?oc=5",
-   "ts": "Tue, 17 Nov 2026 03:48:50 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "After the Blue Tsunami: Getting rid of Trump’s tariffs - Peterson Institute for International Economics",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWtiWTk0d2VDVjVNanNKU3NYYjBqQ1Vuc3I1VFlfWVFtZjdrREdRVlJpNEFyVjhRam55LXhQbkJJWldtNEZHRU9GME5waVpqR2VnWEZEc1R5U3RZMmNkVExUUVRsZVBpSlkyTG5OZW5XcHVkRE5fWE14RldiaGdIV3M3bU1WenYzblpkaFVQY2xXaUFqVzV5ZWhDT2c?oc=5",
-   "ts": "Mon, 16 Nov 2026 17:13:36 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump, Xi Meet This Week: Could Footwear See U.S., China Pause Trade Truce Extension a Second Time? - WWD",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUU5qZDA3cDJLNlNmNnF4ZTh0WTZ6bm1ZZTJhdWdVMHN4SXlPQUF0U01kZGpjNkhYTENrZ0VNalh3YVBHcF9naU5td0pwM0c3M2NVd3BoWFo3SjNiLThhNjZtSFdkUWVEcWU2bEYzTDlILUFpMXRGUmNCdnZzckNGYmNjeU9GNVFOMzFvM25kVUNERHJoTERWcWlnZmRqZHJBdWxmUTVQaGVQclhLVUhzd2lmcw?oc=5",
-   "ts": "Tue, 17 Nov 2026 01:33:41 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "President Trump Signs Trade Deal with Thailand - C-SPAN",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2YzdUU0dmwyZmJGRXRiUGRYRjVWSHN0ajdvUkpYYTFPcGZmd2RmeERZckc5ZXZFWVJVUjI1YmR3MjRKeHpZTHVLdVQ3WFdSZ3NJdzdrM2ZqZjRMYnhiazJ4SGhQLTcxTWdxUE5SZ0lpbkp3OTFMUFRGcHBaeWZKQWR3UEVlaERIOEZ2TzdZRGdHT3V5aHFkaWhNZFJGSXpUaVE?oc=5",
-   "ts": "Tue, 17 Nov 2026 02:40:17 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump’s Trade Barriers, AI Reveal New US Dependencies on China - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0NYYUpyZk5yY3hLYU1VcUpTNmQ1NnNpbjNDS3dyemFSa2VzaVVKN1lLc01iekVwUGpGUE95ZmRMYXJraGZ6eFF6VjdMVGE2elE2N2ZJZXYtNEE0WWpPYmMxSnhWc1I2TS1pVHJCMzdiVl9VU1ZSZl9uOGxUTllZb0s5dzROY21qM1B6VXRoLXQ0ZFNPTDJ6TnJDaE1BQXpYel8wZHhXVUtCUDRZOHBtTg?oc=5",
-   "ts": "Mon, 16 Nov 2026 13:05:14 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal - The Hill",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmNDaEFOUjhyQ3dSTXZ5c1pkT0hpdEVqT0tmOGk2cVVDZ1pZT3EtNVlLczVuYllZd0ZWRGRBQmxiY0hTMFJTQXE0YWN0dTA3RzA2N3VmM0MtRzNycGpqbHh6RlZKMGtnaEkwRzZYVUxuLWs2U19jQS1HLS1xb01hZi13Yjh5UnFxSXdScDI1bUHSAZYBQVVfeXFMT084UmYyZ2JNVTg5ZFJKR0N4MTR2SFF5ekRwdFdsNnlTeVQ5dExLUmhlclcycVFuUS1TRHFRTnFWWHp3MVQ0ZzBFbFdST0VkWEh2QTRreVZnaGpGRTJKM3h1aHhsVHZ1VXJtZGpJb3N3RjE4RXJ5TFNFeGVrTjF6R1R2akUwaU9LQWdfSHZUeDNqOUY1UVlB?oc=5",
-   "ts": "Sun, 15 Nov 2026 00:26:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump travels to China for meetings with Xi, but one major topic isn’t on the agenda - MS NOW",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeGZqSmJZLW1GM2Z4c3QzV3Jidlc0YUNsZWJ3WEJMZk9IUEkwMFJ6b2hCNmxYdm1wbzBVRkRsZlVfWElVaUtoc1VlMndlMWtZUXlvcExyUmgyYVROYmhxbG8zMlJraEtCLWhrMzRJbUsxcVFXMF96YUladkpJRnR3bTlXS1RiUGtlOHFKVEdSeHdBeFJxZU1YTHVRemk?oc=5",
-   "ts": "Mon, 16 Nov 2026 14:16:56 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Demand for Chinese Goods Is Soaring but Economic Momentum Slows at Home - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTVl1aGxrVkh0SGpPTXRaUHpEM0lTTmQtdHEySlRNWE9vbVh4OWJwTlBocGpiQzBrVHg0RGFndGZkRGFGWWdxb3RMdHBsc1c3alFpbFNqVUxEVm1yUUwwN2F3NnpOQl9vZVpPbS1uZnJ3UFJyVXpCQ0FIc2FYNWI3b05haGVNVG1IY2xB?oc=5",
-   "ts": "Mon, 16 Nov 2026 06:59:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Midterm losses, Nvidia scandal weaken Trump as he faces Xi and Putin - The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTWo0TlNQRVFiYU15cWR4OVU5OWdKdDVqV2FLbkRpNUQtWFdXMEdJOWlCRmVHSWVXQVRuNjdvMU9USzlNNmJHTk81RGRYMFlMQ003X0FiSlJQejJjX3JaVHRDRThCSFRJVWJfT2liVmxoc2psajFHVXI2eHdscmEtU0UwdjRER29zUE92NEpxanNCbk1LVUQ0alhINDMwQ1hnU3luZlpMNkxwRzBQTmc?oc=5",
-   "ts": "Mon, 16 Nov 2026 18:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney - The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRW1YT2xuSWxNY2JFeFk0ZnNjako0Qk9iaTNhLUN2eEJtWS00MS1PN0NFR1JBZnliM1dQWmNuTVN6YUNGclBFS2NsUlVzSnM3ZVlFTVl5cFNEOEwxUmhNZTNIZjJ0ZlVIQ3I0dGVWTW5uOWhac2kxZFN6R3JGVHRiOEdiSnNLTG81VWRZbTNtZGpIRFZaU2drVjVxcEk3amtKUmNFQi1iQUhBNDFVZ2VDMw?oc=5",
-   "ts": "Mon, 16 Nov 2026 04:54:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "The Trump-Xi Talks Just Got More Complicated - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbzZTMTRGV3Z3S0hSQUlJS19RdnlYRnppdkVVbFBETElPMVowYW9ZOWJuS3VnZFJNa2NUZWNmMmtjUVI3N1JVWEd3SjlNbm1iOVJJNW5SWTJsSERONThYcW16aHp1Nk1MWE1hSVpBQlZ0eWZkOW9nS1A2bjlZMGRVZQ?oc=5",
-   "ts": "Mon, 16 Nov 2026 14:19:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China trade relations face fresh tests - FarmWeekNow",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV1AwTDVYSlkyY1VPZWxuY3V4SmJUVU5iY1B2eHl5RVVEZmt6WkxraEhSNWhjVENnaEJpNnljeTk0SWM5RnBZdktnS05rMlVrYTVWdGw2aDNyQmdhVHBpdU1VWTNBeWdWZ05iLWk3T3FXZm9XUGRzR2dWbmhIRVNjTDVVRF93NVpybTYyM3VfLTE5WnlWdEIxcjJDUE43Sko0ekxRU1FvSXpqV3NtamFOb1V0WFlJQ1NSX2trZGpYRXQyU3hpeXFFOU9CUk9saUlWaFlZ?oc=5",
-   "ts": "Mon, 16 Nov 2026 06:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - TelegraphHerald.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM3ZfdFI1VXlyLWlfUGswbDZiRjhtQnFtOXpMREdKdXBRRUdrSGhGS3VoNWdIOExfNFFiMGc2V2pINVJiMlhubkdpQnZBTUNUd2FLcUp2ZkNFQzJxS1BSUlBhMXBwaFlqNjVhZkItRnQ2OVJhMzl1ZGNnYW5mQ1ZaU3VwYmM4ZUNCSzNWMFAtZW1NamtHaS1SUg?oc=5",
-   "ts": "Mon, 16 Nov 2026 21:21:34 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump Heads to China as Trade Truce Raises Stakes for American Farmers - AgroLatam",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWEltb3E1VlQ3eW9KSTBjOHViQ1RtdW4wUnkyazQyZC1DcWRVbzZjRXhWRzNHVDduTzhLbXRBUS1XYjdFYnRjUkJoS3AwT1l0dThmMXMteUlwdWJNTm5qamtCY0hocnMybnNENHF5LV90VUlEd2lLY0haSzlZUkdvV3ZZUEsxZ00?oc=5",
-   "ts": "Mon, 16 Nov 2026 12:18:51 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
-   "ts": "Sat, 14 Nov 2026 08:38:39 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China, Canada Expand Tariff Relief in Deepening Trade Thaw - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDF2Y3hmbXN1MWVDZGE5LVJDUE9NeEltNDdEU1hwckVTSmhHcmFNTWczVVhGSGtnaTVSM0hybGh5amRNOHl3a19RUHlHN0ttX1ZGeWNvdTFzTzRBUm84djJ3TG9FS29nQUd2dDlSS09JQWROaWRwZFJhS2ZRaTNCQ0xKbmtoYzgteHg0eGJ6bmlrX2FuWTFuNm1IaDl2cEdCWFhKOTBoU3cwOWc2?oc=5",
-   "ts": "Tue, 17 Nov 2026 03:37:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Canada could turn to Chinese automakers without US deal: Carney - The Hill",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQjJDN2hSa25HcVNUUEJfOF9hT080bGRnMmdKOHBRbG9xMXpnLTdoVG40Q2g1M3dhTmhTdm85anpyNjg3UWdfR3B2WkE4VDZDQkVfQnhRRUpHRzNtbGJHSk04MWs0S3NXWEtFVGJDZHJfMmZmR0R4OEVkUDVtY1drRURPMmlsbG5WVnfSAY8BQVVfeXFMTy1KS3BFREFORWpBcWpqTC15UW1IU3lJNmhXdG5IOFhwWlQtaWV5ZTltTjhlYjFJWG1zR3pab2ZrNWVEVVVpY0twNXlaWWVfVTBva0NiVmg1dERpZk1OSHltMy14VE9DN2ZULWE5RTZqTlFEcjFNRVpnYVUzcmQ3YWxQY29rdE92eDdwN3NEVlE?oc=5",
-   "ts": "Mon, 16 Nov 2026 19:23:00 GMT"
   }
  ]
 }

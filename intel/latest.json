@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-17T10:45:17Z",
+ "ts": "2026-11-17T11:00:25Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
   }
  },
  "items": [
@@ -347,15 +347,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
-   "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney and Xi Announce Trade Pact Ahead of Asia Summit - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
    "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
+   "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
   },
   {
    "src": "gnews",
@@ -425,9 +425,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump travels to China for meetings with Xi, but one major topic isn’t on the agenda - MS NOW",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeGZqSmJZLW1GM2Z4c3QzV3Jidlc0YUNsZWJ3WEJMZk9IUEkwMFJ6b2hCNmxYdm1wbzBVRkRsZlVfWElVaUtoc1VlMndlMWtZUXlvcExyUmgyYVROYmhxbG8zMlJraEtCLWhrMzRJbUsxcVFXMF96YUladkpJRnR3bTlXS1RiUGtlOHFKVEdSeHdBeFJxZU1YTHVRemk?oc=5",
-   "ts": "Mon, 16 Nov 2026 17:01:50 GMT"
+   "title": "China and Canada agree further tariff relief amid US trade tensions - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNmN0OC1GejgtX2NyaHVYTEFOeFZZc0FkM0lldWVSZ3YtaVhWWnpTbVlEdjFJRjliSENnYm1PRkZ4MGVBOUVTYUc1a19pWFJwZmF5M1I2UU1NMnZvWUZnbVg0ZS11LXdhMmhnSGQ5NnNHNi1lSkUwcTJ3QXU1UWVhM2pfNkpLUEUwb1k3OHJIV09RVDF1NHpsT2Q3VzQwcHc?oc=5",
+   "ts": "Tue, 17 Nov 2026 06:03:00 GMT"
   },
   {
    "src": "gnews",

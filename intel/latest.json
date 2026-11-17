@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-17T23:31:01Z",
+ "ts": "2026-11-17T23:45:56Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,15 +341,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney and Xi Announce Canada-China Trade Pact - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
-   "ts": "Tue, 17 Nov 2026 17:19:20 GMT"
+   "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
+   "ts": "Tue, 17 Nov 2026 23:01:15 GMT"
   },
   {
    "src": "gnews",
-   "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
-   "ts": "Tue, 17 Nov 2026 17:39:32 GMT"
+   "title": "Carney and Xi Announce Canada-China Trade Pact - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
+   "ts": "Tue, 17 Nov 2026 17:19:20 GMT"
   },
   {
    "src": "gnews",
@@ -395,15 +395,21 @@
   },
   {
    "src": "gnews",
-   "title": "Trump, Xi Meet This Week: Could Footwear See U.S., China Pause Trade Truce Extension a Second Time? - WWD",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUU5qZDA3cDJLNlNmNnF4ZTh0WTZ6bm1ZZTJhdWdVMHN4SXlPQUF0U01kZGpjNkhYTENrZ0VNalh3YVBHcF9naU5td0pwM0c3M2NVd3BoWFo3SjNiLThhNjZtSFdkUWVEcWU2bEYzTDlILUFpMXRGUmNCdnZzckNGYmNjeU9GNVFOMzFvM25kVUNERHJoTERWcWlnZmRqZHJBdWxmUTVQaGVQclhLVUhzd2lmcw?oc=5",
-   "ts": "Tue, 17 Nov 2026 16:33:41 GMT"
+   "title": "Trump’s China charm offensive runs into a spy scandal, trade pressure - Politico",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQXFNbW1PTlZwUTZhVVpmS3RiX0xtNFVYa081eUNJSnk3UXBWeGo5SlNoSndseHVtRlVSQzFVWnQwbldTd0FYMVpBRkZMWEJ5UXczQ2lLLVdRdUhNV1h2Mk1Fd05UcXJWMl85MWY1aDlkQnkxMnpfc3RNYTBmcFMxR3JtM0Nla0o3djlJ?oc=5",
+   "ts": "Tue, 17 Nov 2026 20:46:46 GMT"
   },
   {
    "src": "gnews",
    "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
    "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump, Xi Meet This Week: Could Footwear See U.S., China Pause Trade Truce Extension a Second Time? - WWD",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUU5qZDA3cDJLNlNmNnF4ZTh0WTZ6bm1ZZTJhdWdVMHN4SXlPQUF0U01kZGpjNkhYTENrZ0VNalh3YVBHcF9naU5td0pwM0c3M2NVd3BoWFo3SjNiLThhNjZtSFdkUWVEcWU2bEYzTDlILUFpMXRGUmNCdnZzckNGYmNjeU9GNVFOMzFvM25kVUNERHJoTERWcWlnZmRqZHJBdWxmUTVQaGVQclhLVUhzd2lmcw?oc=5",
+   "ts": "Tue, 17 Nov 2026 16:33:41 GMT"
   },
   {
    "src": "gnews",
@@ -425,9 +431,9 @@
   },
   {
    "src": "gnews",
-   "title": "The U.S.-China Trade Relationship Is Crucial. Trump Should Reset Talks. - National Taxpayers Union",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkFnWnhuQl9STHVaT0FPRGo2NERFeWNFM2ZBMFpvV21kX2hHWFdGdnFNX1g0b2ZqQ1NnUDMwWFNlT29WVXNVN091VUxOa2pjbUZOaGs5anlEZzQzbTJib3JkWkd6UFpRZWRRZUpiNkdlOEplSTM3UWlabnVpakw4dXVwOFZmVU9SV1NfMkdaTlNDTUkxSHNBQW82UjRPNkpheWU0NkxRWmZuOVE?oc=5",
-   "ts": "Mon, 16 Nov 2026 19:33:03 GMT"
+   "title": "APEC summit: What Trump, Xi and Putin want from talks - DW.com",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TVVJRNmlWQ2psNjFxMm96ZzBsUUp0dENKcGpyYjBKTVo4VmFQWHM2MVI2MEZvOHR2b19oNHlUUnl0TF85akNLcHltZ1V5YThLajBXSWN0QVdxN3ZqLWx6clFuTnE1bVRNVm1rODhsc3Z4U2hYa0lnWW1OR051Z9IBfkFVX3lxTFBkSm1XSjRXNmhHcEtxZlZ3MnhxVXladUNPeWs5ekIxX1pNU1llVkZxZnpmcFdvQ1pxQ2F5RmR5VXpHd1lVeTFyamp5dUVwaE00aFB4Vk9JMjFydENCVmRYMHFKcDBDSTZ0emtMUm1LYlpwMUVscDRtSFVoUFZBdw?oc=5",
+   "ts": "Tue, 17 Nov 2026 14:28:07 GMT"
   },
   {
    "src": "gnews",
@@ -440,12 +446,6 @@
    "title": "China and Canada Expand Tariff Relief as Xi Meets Carney - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDF2Y3hmbXN1MWVDZGE5LVJDUE9NeEltNDdEU1hwckVTSmhHcmFNTWczVVhGSGtnaTVSM0hybGh5amRNOHl3a19RUHlHN0ttX1ZGeWNvdTFzTzRBUm84djJ3TG9FS29nQUd2dDlSS09JQWROaWRwZFJhS2ZRaTNCQ0xKbmtoYzgteHg0eGJ6bmlrX2FuWTFuNm1IaDl2cEdCWFhKOTBoU3cwOWc2?oc=5",
    "ts": "Tue, 17 Nov 2026 05:19:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump Trade Deal Could Leave $3.5 Billion Hole in Canada’s Budget - Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRFo5a3RwQjZiVV8yLXBWWHVXMURxZ3M2MWdGX3BjbjNiS1VqOUp6aFA0TzRpaU91VWxyazZvM2hFSGlJZ2tITWZmeldxMm14OUtXc21qMThpWlRKMUxmSW5UNTQyVHlMcDFxcE5jQ2thRUQxSjhfbm10ZDMwdUlpeHY2ZzIweHZTb1E?oc=5",
-   "ts": "Tue, 17 Nov 2026 14:49:00 GMT"
   },
   {
    "src": "gnews",

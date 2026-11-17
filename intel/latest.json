@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-17T08:30:23Z",
+ "ts": "2026-11-17T08:45:20Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -383,27 +383,33 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Administration Divide on China Policy Breaks Into Public View - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFBkeWJNdWI0X24zalBrRVZwNWVrRENBYUM0NEpiNDZvX3g4Rk9xdkloYy1sRDI3aWFOaVl4cFVwX0JuaU5Eai1DeGRHLUJuZmhndVRoN3BkbEstWlItVHNvNkJtRHFNdGpOSV91V0VVZ2hQdDJjZ3V5c0t2RTRGSm1IMHA?oc=5",
-   "ts": "Tue, 17 Nov 2026 00:51:40 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Prime Minister Carney advances Canada’s strategic partnership with China across trade, commerce, and culture - Prime Minister of Canada",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWotUjB3Q0JQQ1U4S3ptdlJqdzVQVTJ0N1lTMGd0MnpwOHRQaVI2SUFuR19jZjBTUnVrdjUwcnphemhqQzA5TmRUdko5VWlxOUdrTEs3dmVZc0kxcTRFOFVEY3hxS21vOW1RWVhDNEdhdHFfT25nVkZWQWVKbHExZE1FR3FjeGpFOHlvc0tCVmJ6ZGk1bTEwTmVBcTJWODlMU2RiNW5VcFpzRU5SQVIzTTRlVDFDenRDSzVDNQ?oc=5",
    "ts": "Tue, 17 Nov 2026 05:05:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump, Xi Meet This Week: Could Footwear See U.S., China Pause Trade Truce Extension a Second Time? - WWD",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUU5qZDA3cDJLNlNmNnF4ZTh0WTZ6bm1ZZTJhdWdVMHN4SXlPQUF0U01kZGpjNkhYTENrZ0VNalh3YVBHcF9naU5td0pwM0c3M2NVd3BoWFo3SjNiLThhNjZtSFdkUWVEcWU2bEYzTDlILUFpMXRGUmNCdnZzckNGYmNjeU9GNVFOMzFvM25kVUNERHJoTERWcWlnZmRqZHJBdWxmUTVQaGVQclhLVUhzd2lmcw?oc=5",
-   "ts": "Tue, 17 Nov 2026 01:33:41 GMT"
+   "title": "Trump Administration Divide on China Policy Breaks Into Public View - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFBkeWJNdWI0X24zalBrRVZwNWVrRENBYUM0NEpiNDZvX3g4Rk9xdkloYy1sRDI3aWFOaVl4cFVwX0JuaU5Eai1DeGRHLUJuZmhndVRoN3BkbEstWlItVHNvNkJtRHFNdGpOSV91V0VVZ2hQdDJjZ3V5c0t2RTRGSm1IMHA?oc=5",
+   "ts": "Tue, 17 Nov 2026 00:51:40 GMT"
   },
   {
    "src": "gnews",
    "title": "President Trump Signs Trade Deal with Thailand - C-SPAN",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2YzdUU0dmwyZmJGRXRiUGRYRjVWSHN0ajdvUkpYYTFPcGZmd2RmeERZckc5ZXZFWVJVUjI1YmR3MjRKeHpZTHVLdVQ3WFdSZ3NJdzdrM2ZqZjRMYnhiazJ4SGhQLTcxTWdxUE5SZ0lpbkp3OTFMUFRGcHBaeWZKQWR3UEVlaERIOEZ2TzdZRGdHT3V5aHFkaWhNZFJGSXpUaVE?oc=5",
    "ts": "Tue, 17 Nov 2026 02:40:17 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump to arrive in the Philippines to talk trade and seek respite from troubles at home - KGW",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZVpSdnBlbDN6V2p6LUN1aDNIMHhWWFRhbHd5ckxRREdPSnFXMGFqbFJHLUhtSEE5VjNoVFR1SExaUHlVMzM5VERTX1ctYU1oX3dHUjIxWDhfeXdlRWxnRHpKR29jd051SElTc3F5cnI1SU5SRkpQWklnOGpMcG5hZ3B3YUFzekhKdG4xTFBrWmY3bHBvV2tYVDNPcG80blUtRHhuTTgwYkpna05fd0tjY2NIQ3J0bmJkZ2dmQTZZZDBqNE56VkhSQ3diaGw?oc=5",
+   "ts": "Tue, 17 Nov 2026 06:52:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump, Xi Meet This Week: Could Footwear See U.S., China Pause Trade Truce Extension a Second Time? - WWD",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUU5qZDA3cDJLNlNmNnF4ZTh0WTZ6bm1ZZTJhdWdVMHN4SXlPQUF0U01kZGpjNkhYTENrZ0VNalh3YVBHcF9naU5td0pwM0c3M2NVd3BoWFo3SjNiLThhNjZtSFdkUWVEcWU2bEYzTDlILUFpMXRGUmNCdnZzckNGYmNjeU9GNVFOMzFvM25kVUNERHJoTERWcWlnZmRqZHJBdWxmUTVQaGVQclhLVUhzd2lmcw?oc=5",
+   "ts": "Mon, 16 Nov 2026 23:33:41 GMT"
   },
   {
    "src": "gnews",
@@ -431,15 +437,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump travels to China for meetings with Xi, but one major topic isn’t on the agenda - MS NOW",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeGZqSmJZLW1GM2Z4c3QzV3Jidlc0YUNsZWJ3WEJMZk9IUEkwMFJ6b2hCNmxYdm1wbzBVRkRsZlVfWElVaUtoc1VlMndlMWtZUXlvcExyUmgyYVROYmhxbG8zMlJraEtCLWhrMzRJbUsxcVFXMF96YUladkpJRnR3bTlXS1RiUGtlOHFKVEdSeHdBeFJxZU1YTHVRemk?oc=5",
-   "ts": "Mon, 16 Nov 2026 17:01:50 GMT"
+   "title": "Canada, China expand trade deal as PM Carney visits Shenzhen - upi",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaG5SV3dhRjM2SUo1Q0RuUDF0RGVxcFF4VGZzWmQ0VFdtZXFDNDhNbklyTjBPRjZqNTFObjVIOTh1dkdKMkNhVThTNTFQSVNhX2l3c3pNb0JvTDBxU0lvZkxuamJzUU54d0RrYjVyMlJlcUd5bUlfcGxNMkpDdHI1R0d3RHZkUVl3ZWtZM1pldXdDX2RzLWdKU09yYkZRS3oxQlHSAacBQVVfeXFMTk9yMEdHY2xCYnhoZERKYzI1WGVpLUtfaldmbG1uTHpEeEszVUxGaE9xS3Z0Nl9SSzZOSlVYR0M1NTlVcC04cjdDMmNJUV9zMVB2WFhkYTRaR2NPZDZXcWJwVFd0UXNnSmpZT3ltNGxlZEs4Zm1RSGowYWxiRHNiS21BN2F4enc2MndXNEhobWxMSTZxWTdMSzhJbFgzRzFUVTRxS251SjA?oc=5",
+   "ts": "Tue, 17 Nov 2026 07:47:22 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump is to arrive in the Philippines to talk trade and seek respite from troubles at home | National News | 2news.com - KTVN",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSVh5N0h5ZWJFWWx3YzRENlB6cXUwcE9LYWVoNjEwY2RSNzRJbGszc2RuTmJtakNxeXVQbEUzVDJndmtVTUZiaVNrQjUtS2w0TWVfR0RiVkJHdHZ2QUd4aDQxMEpzR3VFUnplM0R2bTlXWndTLXhOUTNYejJDSTdrcG9uV3F0bXR3LTNrY3g4TjNvRm03b09hUzBQUmNVaUtYaDNnV3BrS25uLVZhSHpfYlVMdEt5dWV3ZmxWbkNnazA1TEZGeGFiVFBXZlJubDRvTmhFUmpHRHhmT19PZEJRVkJrWnp3V0trdWlOQURweDdFcWMzeUptUldR?oc=5",
-   "ts": "Tue, 17 Nov 2026 06:28:45 GMT"
+   "title": "Trump travels to China for meetings with Xi, but one major topic isn’t on the agenda - MS NOW",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeGZqSmJZLW1GM2Z4c3QzV3Jidlc0YUNsZWJ3WEJMZk9IUEkwMFJ6b2hCNmxYdm1wbzBVRkRsZlVfWElVaUtoc1VlMndlMWtZUXlvcExyUmgyYVROYmhxbG8zMlJraEtCLWhrMzRJbUsxcVFXMF96YUladkpJRnR3bTlXS1RiUGtlOHFKVEdSeHdBeFJxZU1YTHVRemk?oc=5",
+   "ts": "Mon, 16 Nov 2026 17:01:50 GMT"
   },
   {
    "src": "gnews",
@@ -452,12 +458,6 @@
    "title": "Trump’s Trade Barriers, AI Reveal New US Dependencies on China - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0NYYUpyZk5yY3hLYU1VcUpTNmQ1NnNpbjNDS3dyemFSa2VzaVVKN1lLc01iekVwUGpGUE95ZmRMYXJraGZ6eFF6VjdMVGE2elE2N2ZJZXYtNEE0WWpPYmMxSnhWc1I2TS1pVHJCMzdiVl9VU1ZSZl9uOGxUTllZb0s5dzROY21qM1B6VXRoLXQ0ZFNPTDJ6TnJDaE1BQXpYel8wZHhXVUtCUDRZOHBtTg?oc=5",
    "ts": "Mon, 16 Nov 2026 13:05:14 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China and Canada expand tariff relief while Ottawa-Washington relations are strained - AP News",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFVFVjI2cU1tdkxwM0ZqcER1eGJfcndIUmt3M1MtZll1X0JKRmlmQno2XzJjQnlYMXZLcVZMWVBXS2xjT3Y5MElNSXIzV1g1RlItV3BTR1k0SHg4dGR6aWRDVVRYWHlnalNRWkpBNmk2d2ZUTlhITE5YVEJvVDZaa2RpS1E3b2F1MkJ3X2JNdU8?oc=5",
-   "ts": "Tue, 17 Nov 2026 07:00:00 GMT"
   }
  ]
 }

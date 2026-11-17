@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-17T03:45:18Z",
+ "ts": "2026-11-17T04:00:24Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -353,6 +353,18 @@
   },
   {
    "src": "gnews",
+   "title": "How Trump and Xi went from tariff war to trade truce - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1B5ZTVMbHctSmxMMmV2SFRrM25UM2ZvZmJpZkpnMXVCSGRVNjlQbFZrQmVRX1poOXdoQjNiV056eGxRUlhpUnVyclQ3aVBXWHBhS1JXUHZLVmtPcHhVMlotQ2JfbUhZZVRndlg3NzJNci14MEJKdkw1c3BoVWYwOFlBbzlGS25WVGxFRy1tV3h2WGJHV3FOeGpBcnJHSUdvVTc4N2VB?oc=5",
+   "ts": "Tue, 17 Nov 2026 03:49:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Administration Divide on China Policy Breaks Into Public View - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFBkeWJNdWI0X24zalBrRVZwNWVrRENBYUM0NEpiNDZvX3g4Rk9xdkloYy1sRDI3aWFOaVl4cFVwX0JuaU5Eai1DeGRHLUJuZmhndVRoN3BkbEstWlItVHNvNkJtRHFNdGpOSV91V0VVZ2hQdDJjZ3V5c0t2RTRGSm1IMHA?oc=5",
+   "ts": "Tue, 17 Nov 2026 03:48:50 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "After the Blue Tsunami: Getting rid of Trump’s tariffs - Peterson Institute for International Economics",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWtiWTk0d2VDVjVNanNKU3NYYjBqQ1Vuc3I1VFlfWVFtZjdrREdRVlJpNEFyVjhRam55LXhQbkJJWldtNEZHRU9GME5waVpqR2VnWEZEc1R5U3RZMmNkVExUUVRsZVBpSlkyTG5OZW5XcHVkRE5fWE14RldiaGdIV3M3bU1WenYzblpkaFVQY2xXaUFqVzV5ZWhDT2c?oc=5",
    "ts": "Mon, 16 Nov 2026 17:13:36 GMT"
@@ -365,27 +377,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Administration Divide on China Policy Breaks Into Public View - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFBkeWJNdWI0X24zalBrRVZwNWVrRENBYUM0NEpiNDZvX3g4Rk9xdkloYy1sRDI3aWFOaVl4cFVwX0JuaU5Eai1DeGRHLUJuZmhndVRoN3BkbEstWlItVHNvNkJtRHFNdGpOSV91V0VVZ2hQdDJjZ3V5c0t2RTRGSm1IMHA?oc=5",
-   "ts": "Tue, 17 Nov 2026 00:51:40 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "President Trump Signs Trade Deal with Thailand - C-SPAN",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2YzdUU0dmwyZmJGRXRiUGRYRjVWSHN0ajdvUkpYYTFPcGZmd2RmeERZckc5ZXZFWVJVUjI1YmR3MjRKeHpZTHVLdVQ3WFdSZ3NJdzdrM2ZqZjRMYnhiazJ4SGhQLTcxTWdxUE5SZ0lpbkp3OTFMUFRGcHBaeWZKQWR3UEVlaERIOEZ2TzdZRGdHT3V5aHFkaWhNZFJGSXpUaVE?oc=5",
    "ts": "Tue, 17 Nov 2026 02:40:17 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump's tariffs are unpopular - but they'll be tough to repeal despite Democrats' landslide win - Alabama Daily News",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR0M5WUtsbldROEFWeTI3bmJQMVhuZnFpRGp6ZEdfTFoyVmRra3lTbFM5R0tBaG1iTC1Hc3Z5WHRhTUtHbmp6WExGMHRUZW5HVHpFUUZFMGRvU2tKc2VhRVBGSHZLajBoT0t5VmhIbXdrODZ6M3RoemMtUFBZeTEyRG9ubU1YdlRWYm5MYUNVdkNvNE8zaVEzUGJ2OUcxSWFUZ1YzcURVNFZ3TXhObUlQT2lzR0ZJQQ?oc=5",
-   "ts": "Mon, 16 Nov 2026 13:47:02 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
-   "ts": "Sat, 14 Nov 2026 08:38:39 GMT"
   },
   {
    "src": "gnews",
@@ -431,9 +425,15 @@
   },
   {
    "src": "gnews",
-   "title": "China seeks Apec road map for long-envisioned Asia-Pacific free trade area - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeURLLUJ5eG0zcmxZM19RZl96NEJ3Z0dUaGc1QkpsMUJsYjM4eThnVGNEdEhEMXVWRFJCcXg0MmU1UTRqRlRfOHk2STFGQnBxaE4yMUY1X3VhblpyTVNKWEFCMHdaYUJUSXNYa2I2al9ZTUpwQVBmNUsxQmhnRFJjc0dqczU0RTdOVlpfMHAzN0dlUFlsWHdUdWtvZElXTWh0eGJDN2FadzluR3NiNWNoc28zbl9aMWlsOWxGcXRKUUdYYkwyQWJONWt30gHKAUFVX3lxTE5ScFU5aF9ONTRXeDQ3RGM3ZkJnei1uZTllbzZoVnZDVm1IZF9RVHpvUXNaZ2dOcDJHSTY2TGZuXzdnYlpNaUpFTUV6SGNrNWwxSDJxcVAzMU5lOHl6cjY4bnN1VElVYk9ycWMtNWxVb0pkV1FGN2dxcWw3blJ0M0k0djlwMzVNaWVPaWZ3YWhCVUJhZy15cjBwWFM1TlNRajFRYThUZW5XQWhtYXFINFlLWGQzT0U5bmdHTDhpT0xIUkdCMG5IOXdzQWc?oc=5",
-   "ts": "Mon, 16 Nov 2026 12:22:56 GMT"
+   "title": "Illinois Soybean Association strengthens trade ties during mission to China - Herald-Whig",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORDFLcjYtMHFUXzdsQVRuTU52dHJGdlRGMXNfVERvWHFyaXU0Wk82SzQxSWpPN2hqYTN1X25fWHYzbmpfVF9sSnlHYkNpRE03MklBbkp6N2V1U195MDQyYVNjNDNlVS1zd0d0Tk5TZ0ZpWjVzVWI4OU80QThma2xzckRqaExISHZjT3JTSXpzWjFfR21ZdFVUZnVYTHF3NHdfTEF5bEFzVQ?oc=5",
+   "ts": "Mon, 16 Nov 2026 21:51:36 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
+   "ts": "Sat, 14 Nov 2026 08:38:39 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "The Trump-Xi Talks Just Got More Complicated - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbzZTMTRGV3Z3S0hSQUlJS19RdnlYRnppdkVVbFBETElPMVowYW9ZOWJuS3VnZFJNa2NUZWNmMmtjUVI3N1JVWEd3SjlNbm1iOVJJNW5SWTJsSERONThYcW16aHp1Nk1MWE1hSVpBQlZ0eWZkOW9nS1A2bjlZMGRVZQ?oc=5",
-   "ts": "Mon, 16 Nov 2026 14:19:00 GMT"
+   "title": "China seeks Apec road map for long-envisioned Asia-Pacific free trade area - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeURLLUJ5eG0zcmxZM19RZl96NEJ3Z0dUaGc1QkpsMUJsYjM4eThnVGNEdEhEMXVWRFJCcXg0MmU1UTRqRlRfOHk2STFGQnBxaE4yMUY1X3VhblpyTVNKWEFCMHdaYUJUSXNYa2I2al9ZTUpwQVBmNUsxQmhnRFJjc0dqczU0RTdOVlpfMHAzN0dlUFlsWHdUdWtvZElXTWh0eGJDN2FadzluR3NiNWNoc28zbl9aMWlsOWxGcXRKUUdYYkwyQWJONWt30gHKAUFVX3lxTE5ScFU5aF9ONTRXeDQ3RGM3ZkJnei1uZTllbzZoVnZDVm1IZF9RVHpvUXNaZ2dOcDJHSTY2TGZuXzdnYlpNaUpFTUV6SGNrNWwxSDJxcVAzMU5lOHl6cjY4bnN1VElVYk9ycWMtNWxVb0pkV1FGN2dxcWw3blJ0M0k0djlwMzVNaWVPaWZ3YWhCVUJhZy15cjBwWFM1TlNRajFRYThUZW5XQWhtYXFINFlLWGQzT0U5bmdHTDhpT0xIUkdCMG5IOXdzQWc?oc=5",
+   "ts": "Mon, 16 Nov 2026 12:22:56 GMT"
   }
  ]
 }

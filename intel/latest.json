@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-17T13:15:17Z",
+ "ts": "2026-11-17T13:30:26Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -365,7 +365,7 @@
   },
   {
    "src": "gnews",
-   "title": "Carney and Xi Announce Trade Pact Ahead of Asia Summit - The New York Times",
+   "title": "Carney and Xi Announce Canada-China Trade Pact - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
    "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
   },
@@ -401,6 +401,12 @@
   },
   {
    "src": "gnews",
+   "title": "President Trump Participates in a U.S. – Thai Trade Deal Signing - The White House (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT0ZCYW9PczRQd0QtdUwyd0ZacDR4UUlBMjJvMEF6TFBHbTU0YnVLdWZQWmdwSktMdGh1Q1doUm1NMWRaNUNrTzBrQ0E0M21fbFVXMl9CVktGdUppVFFjOWVyRVpBWHRDT0thWFoxUUNUTlVudnQwbEtsQkg5N1hUblFpYWlVQnFIT0NLeE5JSUVUSGlIY3hwX05laHk?oc=5",
+   "ts": "Tue, 17 Nov 2026 04:30:22 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "After the Blue Tsunami: Getting rid of Trump’s tariffs - Peterson Institute for International Economics",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWtiWTk0d2VDVjVNanNKU3NYYjBqQ1Vuc3I1VFlfWVFtZjdrREdRVlJpNEFyVjhRam55LXhQbkJJWldtNEZHRU9GME5waVpqR2VnWEZEc1R5U3RZMmNkVExUUVRsZVBpSlkyTG5OZW5XcHVkRE5fWE14RldiaGdIV3M3bU1WenYzblpkaFVQY2xXaUFqVzV5ZWhDT2c?oc=5",
    "ts": "Mon, 16 Nov 2026 17:13:36 GMT"
@@ -431,15 +437,15 @@
   },
   {
    "src": "gnews",
-   "title": "China and Canada Expand Tariff Relief as Xi Meets Carney - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDF2Y3hmbXN1MWVDZGE5LVJDUE9NeEltNDdEU1hwckVTSmhHcmFNTWczVVhGSGtnaTVSM0hybGh5amRNOHl3a19RUHlHN0ttX1ZGeWNvdTFzTzRBUm84djJ3TG9FS29nQUd2dDlSS09JQWROaWRwZFJhS2ZRaTNCQ0xKbmtoYzgteHg0eGJ6bmlrX2FuWTFuNm1IaDl2cEdCWFhKOTBoU3cwOWc2?oc=5",
-   "ts": "Tue, 17 Nov 2026 05:19:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "How Jensen Huang scandal makes Congress a bigger risk to U.S.-China relations - CNBC",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUElqZEpZWVNEbkNCOC1PX2hBYlJUZ01mTTU0WVU1LWVYQWtNY0pZSFdvak5EeklWSll1UmFHaFd5M0JzXzRSN3ZKdXQ2aHYzdWlxSlVwaWJYdkRRRGN5czFaNXVjOWNYc0pzZzh6NGstNzFtNkx1RnlpWU1zeEhXT0Uzd2Zid9IBiwFBVV95cUxOVDBpeWNVRmd2VFVtOE5LZDNFWngxQmN5UTh3NlgydExRSjN1ektjSW5lWFQxa3pfZW05cmd4WEtPVHRzT29RUFpnRzBHMm1zYmtXTTlfUHBhUGZkMk1GT0VMTDVOOHlQWkFQYVZZV0JiMTNsRTlEWGFUNmJ1WGpWVzdfMzFFTS1PbUZz?oc=5",
    "ts": "Tue, 17 Nov 2026 06:51:40 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China and Canada Expand Tariff Relief as Xi Meets Carney - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDF2Y3hmbXN1MWVDZGE5LVJDUE9NeEltNDdEU1hwckVTSmhHcmFNTWczVVhGSGtnaTVSM0hybGh5amRNOHl3a19RUHlHN0ttX1ZGeWNvdTFzTzRBUm84djJ3TG9FS29nQUd2dDlSS09JQWROaWRwZFJhS2ZRaTNCQ0xKbmtoYzgteHg0eGJ6bmlrX2FuWTFuNm1IaDl2cEdCWFhKOTBoU3cwOWc2?oc=5",
+   "ts": "Tue, 17 Nov 2026 05:19:00 GMT"
   },
   {
    "src": "gnews",
@@ -452,12 +458,6 @@
    "title": "Trump Administration Divide on China Policy Breaks Into Public View - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFBkeWJNdWI0X24zalBrRVZwNWVrRENBYUM0NEpiNDZvX3g4Rk9xdkloYy1sRDI3aWFOaVl4cFVwX0JuaU5Eai1DeGRHLUJuZmhndVRoN3BkbEstWlItVHNvNkJtRHFNdGpOSV91V0VVZ2hQdDJjZ3V5c0t2RTRGSm1IMHA?oc=5",
    "ts": "Tue, 17 Nov 2026 00:51:40 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump, Xi Meet This Week: Could Footwear See U.S., China Pause Trade Truce Extension a Second Time? - WWD",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUU5qZDA3cDJLNlNmNnF4ZTh0WTZ6bm1ZZTJhdWdVMHN4SXlPQUF0U01kZGpjNkhYTENrZ0VNalh3YVBHcF9naU5td0pwM0c3M2NVd3BoWFo3SjNiLThhNjZtSFdkUWVEcWU2bEYzTDlILUFpMXRGUmNCdnZzckNGYmNjeU9GNVFOMzFvM25kVUNERHJoTERWcWlnZmRqZHJBdWxmUTVQaGVQclhLVUhzd2lmcw?oc=5",
-   "ts": "Mon, 16 Nov 2026 23:33:41 GMT"
   }
  ]
 }

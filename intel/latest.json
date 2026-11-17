@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-17T12:15:17Z",
+ "ts": "2026-11-17T12:30:26Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -389,9 +389,9 @@
   },
   {
    "src": "gnews",
-   "title": "China and Canada Expand Tariff Relief as Xi Meets Carney - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDF2Y3hmbXN1MWVDZGE5LVJDUE9NeEltNDdEU1hwckVTSmhHcmFNTWczVVhGSGtnaTVSM0hybGh5amRNOHl3a19RUHlHN0ttX1ZGeWNvdTFzTzRBUm84djJ3TG9FS29nQUd2dDlSS09JQWROaWRwZFJhS2ZRaTNCQ0xKbmtoYzgteHg0eGJ6bmlrX2FuWTFuNm1IaDl2cEdCWFhKOTBoU3cwOWc2?oc=5",
-   "ts": "Tue, 17 Nov 2026 05:19:00 GMT"
+   "title": "Trump’s Trade Power Slips Ahead of Xi Summit - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkVsRmlOXzR6Mzh0VHRQbDlQczN4STU1YWEzZWg0dG5qSGJDOXI5S0ZCcjdKbDJ4Vmstdnd2TW5LM0k1VW1yMlcxSXRRZHIxa2pQaXJVNHltZVlXWTcxaF81SnBzekVSNW1WYktyV3hsUGpnX0N5OHlqWi1wVmJ5MUozQVJsV2Z0WnRxRFppVjJpQUNHMG50aFBqWThxTXM?oc=5",
+   "ts": "Tue, 17 Nov 2026 12:00:49 GMT"
   },
   {
    "src": "gnews",
@@ -419,12 +419,6 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Administration Moves to Block China From Indirect Access to American AI Technology - U.S. News & World Report",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRDZURUQ4U2JLYkxhdy1lSzVqNjhhMXRabzBtVmhxdjZwSHpmby1pZ0VwTjBfSzA2czVnRDFONjdTZFVjajJqaVJxTENlVHFxNkRwcXdRT214aUdDcHhuam1LNHRsYTktcGluQXdfS2djZXVDNjBXcnZraWpwRFlCNlRvOGp6UlpZdjVBdDhjQUVEVlFxOFlWWG9XMVlBWHRZT2JTRjA3VF9fY0w0R2RETmtUd0pqMTJ2b2U5SDYwMUFRTlF2MVBpSklnNHVsd2lGSmFaU2hRX1JpTF9lcmc?oc=5",
-   "ts": "Tue, 17 Nov 2026 08:34:25 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR3pCLU9Xd1c1amM5dzdoNy1paUJHS3lMOVdsTkp4ZEdSVG9oanlSRHcyV1Njb25xZ1lfSmFsU0JSNlR2MWVkb0owTDNRQW1zZzdqTXpYUVYzTWJUQnB2YXd0Q2g0eUhZT0lDVzdZSmd3SE1FYnNEQ0RoTWhhZDJYR2llcGlRbzJ3SlB1UXJZRmkxQkNPd2dYMVkydlR4OU96YlE?oc=5",
    "ts": "Tue, 17 Nov 2026 04:08:00 GMT"
@@ -443,9 +437,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump’s Trade Power Slips Ahead of Xi Summit - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkVsRmlOXzR6Mzh0VHRQbDlQczN4STU1YWEzZWg0dG5qSGJDOXI5S0ZCcjdKbDJ4Vmstdnd2TW5LM0k1VW1yMlcxSXRRZHIxa2pQaXJVNHltZVlXWTcxaF81SnBzekVSNW1WYktyV3hsUGpnX0N5OHlqWi1wVmJ5MUozQVJsV2Z0WnRxRFppVjJpQUNHMG50aFBqWThxTXM?oc=5",
-   "ts": "Tue, 17 Nov 2026 12:00:49 GMT"
+   "title": "China and Canada Expand Tariff Relief as Xi Meets Carney - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDF2Y3hmbXN1MWVDZGE5LVJDUE9NeEltNDdEU1hwckVTSmhHcmFNTWczVVhGSGtnaTVSM0hybGh5amRNOHl3a19RUHlHN0ttX1ZGeWNvdTFzTzRBUm84djJ3TG9FS29nQUd2dDlSS09JQWROaWRwZFJhS2ZRaTNCQ0xKbmtoYzgteHg0eGJ6bmlrX2FuWTFuNm1IaDl2cEdCWFhKOTBoU3cwOWc2?oc=5",
+   "ts": "Tue, 17 Nov 2026 05:19:00 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +452,12 @@
    "title": "Trump Administration Divide on China Policy Breaks Into Public View - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFBkeWJNdWI0X24zalBrRVZwNWVrRENBYUM0NEpiNDZvX3g4Rk9xdkloYy1sRDI3aWFOaVl4cFVwX0JuaU5Eai1DeGRHLUJuZmhndVRoN3BkbEstWlItVHNvNkJtRHFNdGpOSV91V0VVZ2hQdDJjZ3V5c0t2RTRGSm1IMHA?oc=5",
    "ts": "Tue, 17 Nov 2026 03:48:50 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Sheinbaum Offers ‘New Era’ of Mexico-China Ties After Trade Spat - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaFRKUnQzMVNiQ09kcEhDWW1Lamk4VXZlSlgxRGFHWnRkdEtSQWVmLVM4TE1yRTBqUmloMEhFajFkZmZpSUFrZ1ZrYzBWajZ6S1p2NmFxb3QyT1ZYREoxSm5Obi1xT25CQzE4YjY1OHF4bUJiN0RQa0EzdFlMaXR4dnd6SEU2YUZPV0hqWkdzSkJsQzZjNkJWaDZ4Y2JQUFBDX1lkamI1VlAtUjBBSkZOOXhQYw?oc=5",
+   "ts": "Tue, 17 Nov 2026 09:24:43 GMT"
   }
  ]
 }

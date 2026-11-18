@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-18T12:46:03Z",
+ "ts": "2026-11-18T13:01:14Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -389,21 +389,9 @@
   },
   {
    "src": "gnews",
-   "title": "Carney Says Canada’s Growing Trade Ties With China Are Not a Top Concern for Trump - U.S. News & World Report",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNllNbE9iM2MwUFZ5RHFSbldROGI5YTFPS0pGQTdXeVhXTWdZekVjMDdHN05BTlN0Wkw4eWF2eUJpeUw0X19XanM3WFNmOFdYVzV4VjJOZ1NPWGJVd1pCOXNyRlZrUVlVZ08yLW1Qbm80WlI4ZHRweW9WWHB4bVVoQ2FOZHZSZnV5X0RGUnA2ODRwN0xTX2poQkdUek52NnRreFk5dEhYN0lCcUJkMnB6VFQwdk05X2E2VnBNbEd4eHJQUnRPRE95U1ZaRWhmYmxlU3pCeQ?oc=5",
-   "ts": "Wed, 18 Nov 2026 09:08:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Canada and China Draw Closer with Expanded Trade Pact - WSJ",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmRUVkxHN0s2YlBRdWN1TElodk1UaVlzcG5ETFM2OS1HRlFIMUdWd1ZaYm9JYkNzUXZHc2N1d2xGVV95U19BWWpIejRXWWRBaUZPTHNCaF9DSm9faWdSWmVSVXdWY3hwNG1meUtkLUpCSjU2OTNsVVJ4ZUVpd05oZnZfTEpOcHZ6UGFkRlRWMWZnZw?oc=5",
    "ts": "Tue, 17 Nov 2026 21:08:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
-   "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
   },
   {
    "src": "gnews",
@@ -443,6 +431,12 @@
   },
   {
    "src": "gnews",
+   "title": "Trump Meets Philippine Leader Before Flying to China - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tNUQ3Um9LcHZ1UHlmVV9aN0xadkRYbjZuallvUnd6dk55TnlCajMydm0wWVVpVk5NZjlTUU90UnhhNUxwTE5JTVlXTVVBeVpSNTB1RW1BWk9SYi1ZaFVWWXpUWFFCZ1Zfem1xWkRkZDl5QQ?oc=5",
+   "ts": "Wed, 18 Nov 2026 06:00:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "After years on ice, Canada seeks trade-based reset with China, minister says - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcXducGZ4U2x6Qk1QdGVXckdCZDNGbE84S0VtRXhFelZmVW1IZXpCRzFpc21JdEpqdzdvUjk4MzN1dnN5N3VpRXpWbjN6MmNVZjRvQ1Itck1nZ1J2bXBvR1FoMk5JY0QwX1dKNzY0THVza09xUWU4TVJzSS1NUVgxQW1KOE5mc1N1OVQyYVVISkxZRnJwbC1EbG5STy15VGg2TWVMZm1kWk5BWWtzaEUxVlFmRQ?oc=5",
    "ts": "Wed, 18 Nov 2026 05:21:00 GMT"
@@ -452,6 +446,12 @@
    "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
    "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment? - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUeUo2cThBSzBObnN1UDFfVGVPMGRiS1ZjY3l3MGNhWVNRZUxmSlU1NVpta3hidDlXdm1XSXIxWFJCUXpyV1BsQXRUYjFzTU01QXpNX2FoR1puMldxRmx5b09TM1ZRREhBaFE?oc=5",
+   "ts": "Wed, 18 Nov 2026 00:12:07 GMT"
   },
   {
    "src": "gnews",

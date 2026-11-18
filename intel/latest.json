@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-18T10:45:59Z",
+ "ts": "2026-11-18T11:01:03Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -347,9 +347,9 @@
   },
   {
    "src": "gnews",
-   "title": "Carney and Xi Announce Canada-China Trade Pact - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
-   "ts": "Tue, 17 Nov 2026 17:19:21 GMT"
+   "title": "As Trump and Xi Mingle, Their Governments Are Arming Up - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uN3N0SUFweVFjRXlITG0wZTJaM1dNckFuN1pvMmtocE9NTV9OZnJIZG1acXNVTjFJdWNXWXRxRGp5aE84bE9NeHFEY1RwWlVrNDd3LVhQT0NGZGNnVzJMdzJJdXc5YXZWQnBIREI5OUNyazFoTnpSbU9ZTllMNHc?oc=5",
+   "ts": "Wed, 18 Nov 2026 06:32:00 GMT"
   },
   {
    "src": "gnews",
@@ -389,39 +389,27 @@
   },
   {
    "src": "gnews",
-   "title": "Xi, Putin Assail Economic Barriers Ahead of Summit With Trump - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZV9ZWUxMTFhwQXgwVjF2dEctYWZMNTM2YmRDSWtQM005QklCTkgyNF9NTG9YMTV4NHJYWWRBRXBMV20wNFZUOHAwdF9iaUpEYlh3N2hZaDFHWVoxNV8wWkVLYVJOVks0TmpQOGh1LW1Mc0tpSzZuaGl0VUNtR2RrMmhMYXBKYnNyR3BVeTdiQkw1SnNjd2xYR0JYUndnTDJ3aE1JaTZxNjd1aC1oVHZ3?oc=5",
-   "ts": "Wed, 18 Nov 2026 09:56:35 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
    "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Carney says Canada’s growing trade ties with China are not a top concern for Trump - WTOP News",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVR1bllGRVBwSW1PeDBDRUlReTVIYXB2eHAzVThzYlJEdEw3YVdZYjhEdS1jZjR1cXJ4bkowLTFzanMzUlNUN2VwM0hJMlBmYWp3UklOWXJzRUJuOEhqTm9qNWVpRE1xajZDNlJTaGNHcFFxMWRwLTVjMmtvWVVtMnVVbk9MY1NiM3VzcDU3NjFRdjhCQjdQRWJBQmZCRHk4R3Rzb2VWUks0aEU5cXIwWlJZcw?oc=5",
-   "ts": "Wed, 18 Nov 2026 09:15:51 GMT"
+   "title": "Xi, Putin Assail Economic Barriers Ahead of Summit With Trump - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZV9ZWUxMTFhwQXgwVjF2dEctYWZMNTM2YmRDSWtQM005QklCTkgyNF9NTG9YMTV4NHJYWWRBRXBMV20wNFZUOHAwdF9iaUpEYlh3N2hZaDFHWVoxNV8wWkVLYVJOVks0TmpQOGh1LW1Mc0tpSzZuaGl0VUNtR2RrMmhMYXBKYnNyR3BVeTdiQkw1SnNjd2xYR0JYUndnTDJ3aE1JaTZxNjd1aC1oVHZ3?oc=5",
+   "ts": "Wed, 18 Nov 2026 09:56:35 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump says US wraps up 'very big trade deal' with Philippines - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMS04Tjk4eFJwZ1AwNmo5OFQ1NTlrSWEyMURicHFEVlM1SlJlWURicU5Hc3lRR3ZfOGNNWGNqRjFqWlp5eFRIQVhHSVdiX2RWUHptTEI2aWsyRzN1bHZvbTFxQUZqdnZ0VXQ5ZkprSWVkN1N5aTM0d21SQkc2U3BxQUN6UzVOcUk5RmtLaVR4QUxucWFmS1ZlQlFEMVVTYld4c3Nfbkc1MkdOdE1iUnpOVmN4OUt2a0RMUjA0?oc=5",
-   "ts": "Wed, 18 Nov 2026 05:58:00 GMT"
+   "title": "Xi says Asia-Pacific needs open trade and Putin condemns sanctions as Trump arrives in China - Gulf Coast News and Weather",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcXFvX1J0WWItZkZkUmluV3RpT0hWS0FleXRwUm0xSEJpZjZaUTROUm5wN1hXVTg4ZmxoSEJLREpQaV9hOVB4MmVWU3JVdWJlSHY2LTZNM0ViT2phcS01RWNvSjBXWDYtdFV6cnlRckhKUlFyMDF3dF9BSWpURmtfSngxVmZKNDdUVzlzMVlFZjRJazBnOGI0WmFJaw?oc=5",
+   "ts": "Wed, 18 Nov 2026 09:39:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "As Trump and Xi Mingle, Their Governments Are Arming Up - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uN3N0SUFweVFjRXlITG0wZTJaM1dNckFuN1pvMmtocE9NTV9OZnJIZG1acXNVTjFJdWNXWXRxRGp5aE84bE9NeHFEY1RwWlVrNDd3LVhQT0NGZGNnVzJMdzJJdXc5YXZWQnBIREI5OUNyazFoTnpSbU9ZTllMNHc?oc=5",
-   "ts": "Wed, 18 Nov 2026 06:32:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "As Trump arrives in China, low expectations for breakthroughs in rivalry - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTF9tRlJ4cThELUtWSWlwUU9SeU5WcjJ1WG9nMWhoRDhyUlVjS2dncmZlSllyQnRzVHFwcUJEX2R1Qk9KTFVxUG5keXhwcXNVamRsd19BcllwdDE0UXFqZ3JDRFFfaDZmNExRdVRIS3dIdF9pOE9VZzBrUzlLQzdXZ0xoZXVPakFJaWl5cGd1SUZxSGhMTGdyMVJRYnVIRW96VWhJV2plakxZeW1ZQ2ZMYjFJcm5CY0XSAbwBQVVfeXFMT1RDVzdROTYxWmMtYTZLUFM0UDUwd3NSdkdHQXhfa1QtUkpTZ1Q0ZmVYU2N0T3JjRldaeTJkRmdIZ0RwY0kyR2xqblFyQ19iRUZXWFpESlZwTXFkZWdUT2dIcHF3M3hwSkFRd1ZtcllweW5SSEtILWdLUEhyOC1hZFVRUDRZWWVvdFZDdHpwaTZKY3c1elUzTFN6SVhJYjFQTmhzcnRxbGtqaUtPQXpiWW5PM2NRNEQ4UEVUOTA?oc=5",
-   "ts": "Wed, 18 Nov 2026 09:33:33 GMT"
+   "title": "China's trade with other APEC economies jumps 25.4% in Jan-Oct - chinadailyhk",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SYU1JWWVwdWI3ZkRlQ1psdUVRakFlNkRDZTctT0hSRFJ1X2V3OWlDRXB5bjMzRV9FSHB1aVFkV1BfcWl1TlItRnIwRzVhclhfeTMwZ0RDUkc?oc=5",
+   "ts": "Wed, 18 Nov 2026 09:19:15 GMT"
   },
   {
    "src": "gnews",
@@ -431,9 +419,15 @@
   },
   {
    "src": "gnews",
-   "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment? - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUeUo2cThBSzBObnN1UDFfVGVPMGRiS1ZjY3l3MGNhWVNRZUxmSlU1NVpta3hidDlXdm1XSXIxWFJCUXpyV1BsQXRUYjFzTU01QXpNX2FoR1puMldxRmx5b09TM1ZRREhBaFE?oc=5",
-   "ts": "Wed, 18 Nov 2026 02:11:27 GMT"
+   "title": "Carney and Xi Announce Canada-China Trade Pact - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
+   "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "As Trump arrives in China, low expectations for breakthroughs in rivalry - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTF9tRlJ4cThELUtWSWlwUU9SeU5WcjJ1WG9nMWhoRDhyUlVjS2dncmZlSllyQnRzVHFwcUJEX2R1Qk9KTFVxUG5keXhwcXNVamRsd19BcllwdDE0UXFqZ3JDRFFfaDZmNExRdVRIS3dIdF9pOE9VZzBrUzlLQzdXZ0xoZXVPakFJaWl5cGd1SUZxSGhMTGdyMVJRYnVIRW96VWhJV2plakxZeW1ZQ2ZMYjFJcm5CY0XSAbwBQVVfeXFMT1RDVzdROTYxWmMtYTZLUFM0UDUwd3NSdkdHQXhfa1QtUkpTZ1Q0ZmVYU2N0T3JjRldaeTJkRmdIZ0RwY0kyR2xqblFyQ19iRUZXWFpESlZwTXFkZWdUT2dIcHF3M3hwSkFRd1ZtcllweW5SSEtILWdLUEhyOC1hZFVRUDRZWWVvdFZDdHpwaTZKY3c1elUzTFN6SVhJYjFQTmhzcnRxbGtqaUtPQXpiWW5PM2NRNEQ4UEVUOTA?oc=5",
+   "ts": "Wed, 18 Nov 2026 09:33:33 GMT"
   },
   {
    "src": "gnews",
@@ -443,21 +437,27 @@
   },
   {
    "src": "gnews",
+   "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment? - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUeUo2cThBSzBObnN1UDFfVGVPMGRiS1ZjY3l3MGNhWVNRZUxmSlU1NVpta3hidDlXdm1XSXIxWFJCUXpyV1BsQXRUYjFzTU01QXpNX2FoR1puMldxRmx5b09TM1ZRREhBaFE?oc=5",
+   "ts": "Wed, 18 Nov 2026 00:12:07 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "South Korea says China trade agreement to boost tourism, entertainment sectors - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
    "ts": "Wed, 18 Nov 2026 09:18:23 GMT"
   },
   {
    "src": "gnews",
-   "title": "Xi, Putin blast Western 'protectionism', sanctions as Trump lands in China - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5",
-   "ts": "Wed, 18 Nov 2026 03:21:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
    "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5",
+   "ts": "Wed, 18 Nov 2026 03:21:00 GMT"
   }
  ]
 }

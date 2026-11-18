@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-18T08:46:07Z",
+ "ts": "2026-11-18T09:01:02Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -358,15 +359,21 @@
   },
   {
    "src": "gnews",
-   "title": "Chip curbs threaten US-China trade truce - Breakingviews",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbGluWXJqd3ZKYWprM0V2c1ROMTA1ZmYwYTdCVW8wamtIdE1KNUp5ZzlwdDJmbW0tRTVzQ0ZGdkJLbG10MjJERjZkM1JtZjRQY1ZDc3BRSlpTaWgzanRVMXVCYUF4bVI3WGk2emp3RlhDYXdHMUNiaXlDQUN4ckI0SGFGcnhENVF2YlFZXzRpN3VJczhrSlV6c0d4cFlDSVRPbTI0ZnpESQ?oc=5",
-   "ts": "Wed, 18 Nov 2026 04:14:20 GMT"
+   "title": "China’s Xi pitches free trade at APEC amid Trump’s global trade disruptions - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRnNOaGl5M2hkclpyeEhyU3FobThUWkRqeTNNd2pBeEpWNjl3cXFOZW1mQWQ3ZnB0d0tXZUQyYzdfRjJfZUhzdHdVV3lyNDQxTmNPTklncVNMbHM0MFVnQ0Y1d0I1ZmJjUkEzc08zOFNTWkR0c3BSZjBCbTA2c1ZEWEdZbnlwT1U4Z2ZXMXI2WHpJdVI3V0pvYllJazlvbmk5OV9YZkxB0gGrAUFVX3lxTE91czVRci10REsyQ3o3Tmg1Rk11RUxKWG5DdmhxU0taN1NCamNVbGhLTndHMmU1X0xQRzlzSGFETHpKd2J0Q1JjSFpSZkdxMS1WSjBsbi1vQjhCSWRTMG16SVBwWTdabXhfdXV1YUxTYWFLUklsdmRuVTdxV1NiUG91ZEFvVkFQei1ZNUIxUFZoak5tNjNSMy1lVC1TeVB0UzRFcmlxWk5oelcwOA?oc=5",
+   "ts": "Wed, 18 Nov 2026 08:12:21 GMT"
   },
   {
    "src": "gnews",
    "title": "Trump to project friendship with Xi as trade and tech rivalry deepens - The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdmxLXzBiaWJPaTUwdzJfbXZJMmxYM1o3T3lHNllPNFFoSnRJWFo3dVUtUmtUNWdDU0tmWGFWQjI0Z0lMUlJ3dDh2WEp3cHE4cTZPNTZxcnVhdE0xdDgwTC05S3Jrakp4Ymczckd4bldZb2k2WlhGa0hlOHVTNFNMN3A4eThtbEM5aDFLQVBndkdacE9sQTRTZ01Sd2c0Zw?oc=5",
    "ts": "Wed, 18 Nov 2026 05:00:01 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Chip curbs threaten US-China trade truce - Breakingviews",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbGluWXJqd3ZKYWprM0V2c1ROMTA1ZmYwYTdCVW8wamtIdE1KNUp5ZzlwdDJmbW0tRTVzQ0ZGdkJLbG10MjJERjZkM1JtZjRQY1ZDc3BRSlpTaWgzanRVMXVCYUF4bVI3WGk2emp3RlhDYXdHMUNiaXlDQUN4ckI0SGFGcnhENVF2YlFZXzRpN3VJczhrSlV6c0d4cFlDSVRPbTI0ZnpESQ?oc=5",
+   "ts": "Wed, 18 Nov 2026 04:14:20 GMT"
   },
   {
    "src": "gnews",
@@ -394,18 +401,6 @@
   },
   {
    "src": "gnews",
-   "title": "China’s Xi pitches free trade at APEC amid Trump’s global trade disruptions - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRnNOaGl5M2hkclpyeEhyU3FobThUWkRqeTNNd2pBeEpWNjl3cXFOZW1mQWQ3ZnB0d0tXZUQyYzdfRjJfZUhzdHdVV3lyNDQxTmNPTklncVNMbHM0MFVnQ0Y1d0I1ZmJjUkEzc08zOFNTWkR0c3BSZjBCbTA2c1ZEWEdZbnlwT1U4Z2ZXMXI2WHpJdVI3V0pvYllJazlvbmk5OV9YZkxB0gGrAUFVX3lxTE91czVRci10REsyQ3o3Tmg1Rk11RUxKWG5DdmhxU0taN1NCamNVbGhLTndHMmU1X0xQRzlzSGFETHpKd2J0Q1JjSFpSZkdxMS1WSjBsbi1vQjhCSWRTMG16SVBwWTdabXhfdXV1YUxTYWFLUklsdmRuVTdxV1NiUG91ZEFvVkFQei1ZNUIxUFZoak5tNjNSMy1lVC1TeVB0UzRFcmlxWk5oelcwOA?oc=5",
-   "ts": "Wed, 18 Nov 2026 08:07:44 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "After Years on Ice, Canada Seeks Trade-Based Reset With China, Minister Says - U.S. News & World Report",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU0VNQnF2dDBfeUpidTJjZ1ptc3QwVHpiZkpnOVczQUphNnprTEFKWkdIQWJTZDhxaVFzNnRRRWM2eWFwM0NmRWhrc25RaGIwZ2Zpb1BvTzUxTWRqYlpkWmZpenBsbGRPWk45aFBpakRXaTh1dkVGMEROYXNQQUJrUGtCZ292a2UtRzJReTJJVkxJV0pCTGZQSlJXM0dMUllWNWFqaXl3RFlIcnphU2lWWjNlRm5YZkJEOTI1Y3N4NzgxQm9PekZB?oc=5",
-   "ts": "Wed, 18 Nov 2026 05:40:23 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
    "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
@@ -415,6 +410,12 @@
    "title": "Trump says trade deal reached between the U.S. and the Philippines - NBC News",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOclExVWNGSW80eUsteDY4NHZZSmhNTDV1eTdaSzA4RWZtOENLT0kzVUllWkNOWVFSZ2xSVDlIRDZ4R3EyY21LWjU3NGJyaUZQUFJwbUk3VnBRZWhMMXdvUVptaklPRllVWTRSc0Z2UWhZREdWejRVUHp2MkYwcjlMNk92Rl9xajU1bWV1NFlVVjM2a2pYVS1ReGJURW5JWU1Rb0RGclVVTUVJYWg5?oc=5",
    "ts": "Wed, 18 Nov 2026 05:33:53 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "After Years on Ice, Canada Seeks Trade-Based Reset With China, Minister Says - U.S. News & World Report",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU0VNQnF2dDBfeUpidTJjZ1ptc3QwVHpiZkpnOVczQUphNnprTEFKWkdIQWJTZDhxaVFzNnRRRWM2eWFwM0NmRWhrc25RaGIwZ2Zpb1BvTzUxTWRqYlpkWmZpenBsbGRPWk45aFBpakRXaTh1dkVGMEROYXNQQUJrUGtCZ292a2UtRzJReTJJVkxJV0pCTGZQSlJXM0dMUllWNWFqaXl3RFlIcnphU2lWWjNlRm5YZkJEOTI1Y3N4NzgxQm9PekZB?oc=5",
+   "ts": "Wed, 18 Nov 2026 05:40:23 GMT"
   },
   {
    "src": "gnews",
@@ -442,141 +443,21 @@
   },
   {
    "src": "gnews",
-   "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
-   "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Breakingviews - COMMENTARY: Chip curbs threaten US-China trade truce - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX0NhQU5GdEJ3aUxWWTFkbm94YXJXWTRmdkltaU9WLWVHQ2tLNVZVb0VuWnZBSnlhM2RUY1dFSlVyT0k2akttcnQ0bWthTUxQdENXNUtFQ0ZIcjNRdTM1Mkp3SXBMRTV0dThvWm15TDQ0QVBRWVpMbHR2bWJZcGFRQjNtODNpV3FVdlhCZGszcm4wU1gzbk0xU2FMOG9ST0lNSEp3?oc=5",
    "ts": "Wed, 18 Nov 2026 04:08:00 GMT"
   },
   {
    "src": "gnews",
+   "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
+   "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR3pCLU9Xd1c1amM5dzdoNy1paUJHS3lMOVdsTkp4ZEdSVG9oanlSRHcyV1Njb25xZ1lfSmFsU0JSNlR2MWVkb0owTDNRQW1zZzdqTXpYUVYzTWJUQnB2YXd0Q2g0eUhZT0lDVzdZSmd3SE1FYnNEQ0RoTWhhZDJYR2llcGlRbzJ3SlB1UXJZRmkxQkNPd2dYMVkydlR4OU96YlE?oc=5",
    "ts": "Tue, 17 Nov 2026 04:08:00 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Kaplan Fox Deadline Alert : Compass , Inc . ( NYSE : COMP ) Investors Have ... ",
-   "url": "https://www.pr-inside.com/kaplan-fox-deadline-alert-compass-inc-nyse-comp-investors-have-r5244917.htm",
-   "ts": "20261118T011500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "In closings , Chinese tech giant Huawei is cast by prosecutors as a villain as its lawyer disagrees",
-   "url": "https://www.wral.com/news/ap/75cd5-in-closings-chinese-tech-giant-huawei-is-cast-by-prosecutors-as-a-villain-as-its-lawyer-disagrees/",
-   "ts": "20261118T011500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "即将打破2007年纪录 ！ 5 % 的10年期美债已  高烧  27天 _ 东方财富网",
-   "url": "https://finance.eastmoney.com/a/202611183933578756.html",
-   "ts": "20261118T011500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "China Expand Tariff Relief as Carney Meets Xi",
-   "url": "https://www.khaama.com/canada-and-china-expand-tariff-relief-as-carney-and-xi-deepen-partnership-despite-u-s-pressure/",
-   "ts": "20261118T011500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Sen . Murkowski on final 2 years of the Trump administration",
-   "url": "https://alaskapublic.org/programs/talk-of-alaska/2026-11-17/sen-murkowski-on-final-2-years-of-the-trump-administration-talk-of-alaska",
-   "ts": "20261118T011500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Nvidia chairman says board does not intend to reinstate Jensen Huang",
-   "url": "https://www.ludlowadvertiser.co.uk/news/national/26738711.nvidia-chairman-says-board-not-intend-reinstate-jensen-huang/",
-   "ts": "20261118T011500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Nvidia Board Decides Against Reinstating Jensen Huang | NewsRadio WKCY",
-   "url": "https://newsradiowkcy.iheart.com/content/2026-11-17-nvidia-board-decides-against-reinstating-jensen-huang/",
-   "ts": "20261118T011500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "White House pulls FDA nominee Heidi Overton after wavering support from Senate Republicans",
-   "url": "https://www.ksat.com/health/2026/11/18/white-house-pulls-fda-nominee-heidi-overton-after-wavering-support-from-senate-republicans/",
-   "ts": "20261118T011500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "European leaders finally remember the EU isnt a country",
-   "url": "http://www.europesun.com/news/279439365/european-leaders-finally-remember-the-eu-isnt-a-country",
-   "ts": "20261118T011500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Nvidia chairman says board does not intend to reinstate Jensen Huang",
-   "url": "https://www.hexham-courant.co.uk/news/national/26738711.nvidia-chairman-says-board-not-intend-reinstate-jensen-huang/",
-   "ts": "20261118T011500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "What tech CEOs are saying about the saga around Jensen Huang exit from Nvidia",
-   "url": "https://www.mcall.com/2026/11/17/nvidia-tech-industry-reaction/",
-   "ts": "20261118T011500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Nvidia Board Decides Against Reinstating Jensen Huang | Newsradio WFLA Orlando",
-   "url": "https://wflaorlando.iheart.com/content/2026-11-17-nvidia-board-decides-against-reinstating-jensen-huang/",
-   "ts": "20261118T011500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Former State House Flipper Emily Gregory Gets Job With PBC Tax Collector Office | Newsradio WFLA Orlando",
-   "url": "https://wflaorlando.iheart.com/featured/florida-news/content/2026-11-17-former-state-house-flipper-emily-gregory-gets-job-with-pbc-tax-collectors-office/",
-   "ts": "20261118T011500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Duffy Updates Nationwide Ground Stop , Urges For More Funding",
-   "url": "https://wercfm.iheart.com/content/2026-11-17-duffy-updates-nationwide-ground-stop-urges-for-more-funding/",
-   "ts": "20261118T011500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "U . S . strikes Iranian missile site in  self - defense  | News",
-   "url": "https://www.wyomingnewsnow.tv/news/national/u-s-strikes-iranian-missile-site-in-self-defense/article_23c1f7c2-09ae-5b60-b29e-9f3959037d85.html",
-   "ts": "20261118T011500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ukraine strikes major Russian bridge as aerial attacks escalate",
-   "url": "https://www.richmondandtwickenhamtimes.co.uk/news/national/26735858.ukraine-strikes-major-russian-bridge-aerial-attacks-escalate/",
-   "ts": "20261118T011500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "THALATTA YENİ KARAR ! Ticaret Bakanlığı , 8 ülkeden ithal edilen ipliklere yönelik damping önlemlerini sürdürecek ! ",
-   "url": "https://www.son.tv/thalatta-yeni-karar-ticaret-bakanligi-8-ulkeden-ithal-edilen-ipliklere-yonelik-damping-onlemlerini-surdurecek/",
-   "ts": "20261118T011500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Giá xăng dầu hôm nay 18 / 11 : Dầu diesel giảm gần 18 . 000 đồng / lít từ đỉnh , xăng E10 biến động ra sao ? ",
-   "url": "https://www.techz.vn/210-1126-5-gia-xang-dau-hom-nay-18-11-dau-diesel-giam-gan-18000-dong-lit-tu-dinh-xang-e10-bien-dong-ra-sao-ylt717558.html",
-   "ts": "20261118T011500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Jeffries seeks to shore up support ahead of vote for Democratic speaker nominee",
-   "url": "https://www.adn.com/nation-world/2026/11/17/jeffries-seeks-to-shore-up-support-ahead-of-vote-for-democratic-speaker-nominee/",
-   "ts": "20261118T011500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump faces criticism as allies press the White House for answers on tech problems",
-   "url": "https://www.wral.com/news/ap/ec4d8-trump-faces-criticism-as-allies-press-the-white-house-for-answers-on-tech-problems/",
-   "ts": "20261118T011500Z"
   }
  ]
 }

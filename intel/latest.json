@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-18T03:01:02Z",
+ "ts": "2026-11-18T03:15:57Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -353,27 +353,9 @@
   },
   {
    "src": "gnews",
-   "title": "Canada and China Draw Closer with Expanded Trade Pact - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmRUVkxHN0s2YlBRdWN1TElodk1UaVlzcG5ETFM2OS1HRlFIMUdWd1ZaYm9JYkNzUXZHc2N1d2xGVV95U19BWWpIejRXWWRBaUZPTHNCaF9DSm9faWdSWmVSVXdWY3hwNG1meUtkLUpCSjU2OTNsVVJ4ZUVpd05oZnZfTEpOcHZ6UGFkRlRWMWZnZw?oc=5",
-   "ts": "Tue, 17 Nov 2026 21:08:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "As the Nvidia scandal threatens to reignite trade tensions at Trump-Xi talks, Beijing still holds the rare earths - Atlantic Council",
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQlh0bGlqUkJSSFFNUFhrTWpsZWpTVUljQS15bmNFcDFjMGF4TG8zc1phbGZKZ2RYZklKVkhOT2tSd1lTX01NRE1jRnc5SV80VzExOW5yVWtGcVc0bHV1emtzUmREMkxyWk9TMlQtS001TXdKNlNPODgtTGVSMWlGYXByR29BQVh2eUE2STlfdk9pV1FrZzVlYlFRckFPcHg5bFFyVUtJNnltVGszRkhvOEdDODZOSVRPbzFtZnJNdlZzM056S0ROS2tMejZyemxybllWU0hRWjFGNEJpc0M2S2Mxb2I3dEdNLXZWTEt6OUdETGRGS256Vg?oc=5",
    "ts": "Tue, 17 Nov 2026 19:17:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump says Thailand will eliminate tariffs on US exports under new deal - The Hill",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd3duZzZsQXd5dmt6dXhMakpFbzBKUzdCdi1DQ1haeExneXR0UHJPdUhQUnhEVVBQaUN2SWhoek9VZlZRb3QzRThmanVLdFlydGp6NGY5NXJJV3lXSlMyeG1rcWFWZHl5cUZObFNNc3czN190WGZBeGtvbVY2azhaZWlvbnbSAYoBQVVfeXFMUHJhdWRWUDM5dEdHZGd1azhaSzhSUVBTMExvSW53bmRzSEF2OUY5NTVMZ29JejNRSGRiczV5NFZrRmNpc3FRV3hHR2pQMzdRdTNSNHpxVTY0X0w0czdGOHJDTnFnTmFjWkVBb3hWYmhzanZjdFZ6NkpGZkJJaFFsSFd2dDk2TU1pYmdn?oc=5",
-   "ts": "Tue, 17 Nov 2026 14:11:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump's tariffs are unpopular -- but they'll be tough to repeal despite Democrats' landslide win - Arkansas Advocate",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2R1WFhDQWpGWl9rcW52dzZ6OWpaWW5LY1VMQ2pscGdCenJENTgtQXE3RnJsdXlGV1Z5SmJ6bnY3Um05SVRLdGdjSlllS3FrZ1ZvOVpXZWtjVDlGcWVLNTJkTjI0NW52alFlaEhMeC1FM3lyTXhMODdrY1g5dmhia2VnQWhTUDNrcHJ2UW9GdW50NDZmSFVKZFJFVVNhbXpabzFxZ093M2tjcGF4U21SclFSeFJkeS1GZ1g2cHdSY0ZFZFhkTHJYU0R5NA?oc=5",
-   "ts": "Tue, 17 Nov 2026 11:54:10 GMT"
   },
   {
    "src": "gnews",
@@ -383,9 +365,27 @@
   },
   {
    "src": "gnews",
+   "title": "Trump's tariffs are unpopular -- but they'll be tough to repeal despite Democrats' landslide win - Arkansas Advocate",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2R1WFhDQWpGWl9rcW52dzZ6OWpaWW5LY1VMQ2pscGdCenJENTgtQXE3RnJsdXlGV1Z5SmJ6bnY3Um05SVRLdGdjSlllS3FrZ1ZvOVpXZWtjVDlGcWVLNTJkTjI0NW52alFlaEhMeC1FM3lyTXhMODdrY1g5dmhia2VnQWhTUDNrcHJ2UW9GdW50NDZmSFVKZFJFVVNhbXpabzFxZ093M2tjcGF4U21SclFSeFJkeS1GZ1g2cHdSY0ZFZFhkTHJYU0R5NA?oc=5",
+   "ts": "Tue, 17 Nov 2026 11:54:10 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump says Thailand will eliminate tariffs on US exports under new deal - The Hill",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd3duZzZsQXd5dmt6dXhMakpFbzBKUzdCdi1DQ1haeExneXR0UHJPdUhQUnhEVVBQaUN2SWhoek9VZlZRb3QzRThmanVLdFlydGp6NGY5NXJJV3lXSlMyeG1rcWFWZHl5cUZObFNNc3czN190WGZBeGtvbVY2azhaZWlvbnbSAYoBQVVfeXFMUHJhdWRWUDM5dEdHZGd1azhaSzhSUVBTMExvSW53bmRzSEF2OUY5NTVMZ29JejNRSGRiczV5NFZrRmNpc3FRV3hHR2pQMzdRdTNSNHpxVTY0X0w0czdGOHJDTnFnTmFjWkVBb3hWYmhzanZjdFZ6NkpGZkJJaFFsSFd2dDk2TU1pYmdn?oc=5",
+   "ts": "Tue, 17 Nov 2026 14:11:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump to project friendship with Xi as trade and tech rivalry deepens - The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdmxLXzBiaWJPaTUwdzJfbXZJMmxYM1o3T3lHNllPNFFoSnRJWFo3dVUtUmtUNWdDU0tmWGFWQjI0Z0lMUlJ3dDh2WEp3cHE4cTZPNTZxcnVhdE0xdDgwTC05S3Jrakp4Ymczckd4bldZb2k2WlhGa0hlOHVTNFNMN3A4eThtbEM5aDFLQVBndkdacE9sQTRTZ01Sd2c0Zw?oc=5",
-   "ts": "Wed, 18 Nov 2026 01:39:04 GMT"
+   "ts": "Wed, 18 Nov 2026 03:09:04 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Canada and China Draw Closer with Expanded Trade Pact - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmRUVkxHN0s2YlBRdWN1TElodk1UaVlzcG5ETFM2OS1HRlFIMUdWd1ZaYm9JYkNzUXZHc2N1d2xGVV95U19BWWpIejRXWWRBaUZPTHNCaF9DSm9faWdSWmVSVXdWY3hwNG1meUtkLUpCSjU2OTNsVVJ4ZUVpd05oZnZfTEpOcHZ6UGFkRlRWMWZnZw?oc=5",
+   "ts": "Tue, 17 Nov 2026 21:08:00 GMT"
   },
   {
    "src": "gnews",
@@ -419,12 +419,6 @@
   },
   {
    "src": "gnews",
-   "title": "What is Trump hoping to achieve at APEC meeting in China? - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSzN3YWQ2eVl3Zm1reU51TUhnckpqMWNobVNIVS03QVJCMmZnNWtfMXhVaXo4UFNLZmlncno4SzF0NG9Ka0ljcFY2SXlNSHJNdGFHQ1VpeS1NbkJCa2EzZWhFdUI5Q2tjUWlRemtGczVfYUdYT0VoMTBtVlB3LU9jNkxwU2RIUHpLSU95djFTSmNnTTVtVjhYZjRsN1NqcFXSAaQBQVVfeXFMTWE0azVfV0hiRFRZQVJyaGZyZGh5MVR4b1NzZ3lWSUR5WEVTbXRUMDhCNkk0Nm1EZzhpaVRQVjhGSGotOFFmam5TajdEbkVwLV91Y1RjMVdDSkRlaGhub2dqb2F3cDBDaFJRVVBQRV9KUDgtMWdTLW82UUZZQWk1X0VzbDZDbVpzX1ZiNXRSeXpWX2ZxZHBYcndqX1hnLVRtdl8zUnI?oc=5",
-   "ts": "Wed, 18 Nov 2026 01:35:13 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump’s China charm offensive runs into a spy scandal, trade pressure - Politico",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQXFNbW1PTlZwUTZhVVpmS3RiX0xtNFVYa081eUNJSnk3UXBWeGo5SlNoSndseHVtRlVSQzFVWnQwbldTd0FYMVpBRkZMWEJ5UXczQ2lLLVdRdUhNV1h2Mk1Fd05UcXJWMl85MWY1aDlkQnkxMnpfc3RNYTBmcFMxR3JtM0Nla0o3djlJ?oc=5",
    "ts": "Tue, 17 Nov 2026 20:46:46 GMT"
@@ -440,6 +434,12 @@
    "title": "As Trump and Xi Mingle, Their Governments Are Arming Up - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uN3N0SUFweVFjRXlITG0wZTJaM1dNckFuN1pvMmtocE9NTV9OZnJIZG1acXNVTjFJdWNXWXRxRGp5aE84bE9NeHFEY1RwWlVrNDd3LVhQT0NGZGNnVzJMdzJJdXc5YXZWQnBIREI5OUNyazFoTnpSbU9ZTllMNHc?oc=5",
    "ts": "Tue, 17 Nov 2026 10:03:50 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump arrives in the Philippines for ASEAN summit amid China trade tensions - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeWxGR3ZwWFZiTkhCZWhFcHV4QXd6REsyT2VmbTY1QnF3NG11aXVLUHZpTmFHNFRiLXZwMTY4UjFKMG9fN3VMWTdKQkFxRHl1RWk4RDBmMlZabjNiWGNWUDRjeEJkRzRhakRXbmZJeGt5d25YSVlJMnk0WGsxOXc3RGNrZlFQLUNZampnZGtFVGdiTzFmcG9iRFdJVGMyeU02X2FEaExvVFQ2dk9fdE1OSnFrcnpoWVNzdUE?oc=5",
+   "ts": "Tue, 17 Nov 2026 12:41:25 GMT"
   },
   {
    "src": "gnews",

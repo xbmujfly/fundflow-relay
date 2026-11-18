@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-18T07:45:58Z",
+ "ts": "2026-11-18T08:01:02Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -359,15 +359,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump to project friendship with Xi as trade and tech rivalry deepens - The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdmxLXzBiaWJPaTUwdzJfbXZJMmxYM1o3T3lHNllPNFFoSnRJWFo3dVUtUmtUNWdDU0tmWGFWQjI0Z0lMUlJ3dDh2WEp3cHE4cTZPNTZxcnVhdE0xdDgwTC05S3Jrakp4Ymczckd4bldZb2k2WlhGa0hlOHVTNFNMN3A4eThtbEM5aDFLQVBndkdacE9sQTRTZ01Sd2c0Zw?oc=5",
-   "ts": "Wed, 18 Nov 2026 05:00:01 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Chip curbs threaten US-China trade truce - Breakingviews",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbGluWXJqd3ZKYWprM0V2c1ROMTA1ZmYwYTdCVW8wamtIdE1KNUp5ZzlwdDJmbW0tRTVzQ0ZGdkJLbG10MjJERjZkM1JtZjRQY1ZDc3BRSlpTaWgzanRVMXVCYUF4bVI3WGk2emp3RlhDYXdHMUNiaXlDQUN4ckI0SGFGcnhENVF2YlFZXzRpN3VJczhrSlV6c0d4cFlDSVRPbTI0ZnpESQ?oc=5",
    "ts": "Wed, 18 Nov 2026 04:14:20 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump to project friendship with Xi as trade and tech rivalry deepens - The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdmxLXzBiaWJPaTUwdzJfbXZJMmxYM1o3T3lHNllPNFFoSnRJWFo3dVUtUmtUNWdDU0tmWGFWQjI0Z0lMUlJ3dDh2WEp3cHE4cTZPNTZxcnVhdE0xdDgwTC05S3Jrakp4Ymczckd4bldZb2k2WlhGa0hlOHVTNFNMN3A4eThtbEM5aDFLQVBndkdacE9sQTRTZ01Sd2c0Zw?oc=5",
+   "ts": "Wed, 18 Nov 2026 05:00:01 GMT"
   },
   {
    "src": "gnews",
@@ -389,12 +389,6 @@
   },
   {
    "src": "gnews",
-   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
-   "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "After Years on Ice, Canada Seeks Trade-Based Reset With China, Minister Says - U.S. News & World Report",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU0VNQnF2dDBfeUpidTJjZ1ptc3QwVHpiZkpnOVczQUphNnprTEFKWkdIQWJTZDhxaVFzNnRRRWM2eWFwM0NmRWhrc25RaGIwZ2Zpb1BvTzUxTWRqYlpkWmZpenBsbGRPWk45aFBpakRXaTh1dkVGMEROYXNQQUJrUGtCZ292a2UtRzJReTJJVkxJV0pCTGZQSlJXM0dMUllWNWFqaXl3RFlIcnphU2lWWjNlRm5YZkJEOTI1Y3N4NzgxQm9PekZB?oc=5",
    "ts": "Wed, 18 Nov 2026 05:40:23 GMT"
@@ -404,6 +398,12 @@
    "title": "Trump says trade deal reached between the U.S. and the Philippines - NBC News",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOclExVWNGSW80eUsteDY4NHZZSmhNTDV1eTdaSzA4RWZtOENLT0kzVUllWkNOWVFSZ2xSVDlIRDZ4R3EyY21LWjU3NGJyaUZQUFJwbUk3VnBRZWhMMXdvUVptaklPRllVWTRSc0Z2UWhZREdWejRVUHp2MkYwcjlMNk92Rl9xajU1bWV1NFlVVjM2a2pYVS1ReGJURW5JWU1Rb0RGclVVTUVJYWg5?oc=5",
    "ts": "Wed, 18 Nov 2026 05:33:53 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
+   "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
   },
   {
    "src": "gnews",
@@ -437,6 +437,12 @@
   },
   {
    "src": "gnews",
+   "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment? - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUeUo2cThBSzBObnN1UDFfVGVPMGRiS1ZjY3l3MGNhWVNRZUxmSlU1NVpta3hidDlXdm1XSXIxWFJCUXpyV1BsQXRUYjFzTU01QXpNX2FoR1puMldxRmx5b09TM1ZRREhBaFE?oc=5",
+   "ts": "Wed, 18 Nov 2026 00:12:07 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Xi and Putin blast sanctions before meeting Trump in China - Reuters",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5",
    "ts": "Wed, 18 Nov 2026 03:21:00 GMT"
@@ -452,12 +458,6 @@
    "title": "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR3pCLU9Xd1c1amM5dzdoNy1paUJHS3lMOVdsTkp4ZEdSVG9oanlSRHcyV1Njb25xZ1lfSmFsU0JSNlR2MWVkb0owTDNRQW1zZzdqTXpYUVYzTWJUQnB2YXd0Q2g0eUhZT0lDVzdZSmd3SE1FYnNEQ0RoTWhhZDJYR2llcGlRbzJ3SlB1UXJZRmkxQkNPd2dYMVkydlR4OU96YlE?oc=5",
    "ts": "Tue, 17 Nov 2026 04:08:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "APEC members expected to look past trade differences to agree summit text, official says - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdTlOWHZSWFNaNUpNWmZUYkljRFpLOHBFNjZCVDFtZmJtMGR6M3JxdXgzR0ZESGVfMDQ3QU45d0trOHgzY3BDRFZtMzVVYzZtdEJXc0tZa1VVV0FzTU83VU51NDZaS1gyYWNCRHI5cW5qYmoyUmdId3I2bGxsSlNzVUwxeWVSRUpJcGpDY01KZFREczhsT0xpWjZGaWNnOGduTmh6Y05RTEU1SU5nVHY2cUthcUQ3R2VpNGxXWFJFVy1rZw?oc=5",
-   "ts": "Tue, 17 Nov 2026 13:59:50 GMT"
   }
  ]
 }

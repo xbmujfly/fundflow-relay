@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-18T04:46:00Z",
+ "ts": "2026-11-18T05:01:08Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -365,15 +365,21 @@
   },
   {
    "src": "gnews",
+   "title": "Trump to project friendship with Xi as trade and tech rivalry deepens - The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdmxLXzBiaWJPaTUwdzJfbXZJMmxYM1o3T3lHNllPNFFoSnRJWFo3dVUtUmtUNWdDU0tmWGFWQjI0Z0lMUlJ3dDh2WEp3cHE4cTZPNTZxcnVhdE0xdDgwTC05S3Jrakp4Ymczckd4bldZb2k2WlhGa0hlOHVTNFNMN3A4eThtbEM5aDFLQVBndkdacE9sQTRTZ01Sd2c0Zw?oc=5",
+   "ts": "Wed, 18 Nov 2026 04:39:04 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Canada and China Draw Closer with Expanded Trade Pact - WSJ",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmRUVkxHN0s2YlBRdWN1TElodk1UaVlzcG5ETFM2OS1HRlFIMUdWd1ZaYm9JYkNzUXZHc2N1d2xGVV95U19BWWpIejRXWWRBaUZPTHNCaF9DSm9faWdSWmVSVXdWY3hwNG1meUtkLUpCSjU2OTNsVVJ4ZUVpd05oZnZfTEpOcHZ6UGFkRlRWMWZnZw?oc=5",
    "ts": "Tue, 17 Nov 2026 21:08:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump to project friendship with Xi as trade and tech rivalry deepens - The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdmxLXzBiaWJPaTUwdzJfbXZJMmxYM1o3T3lHNllPNFFoSnRJWFo3dVUtUmtUNWdDU0tmWGFWQjI0Z0lMUlJ3dDh2WEp3cHE4cTZPNTZxcnVhdE0xdDgwTC05S3Jrakp4Ymczckd4bldZb2k2WlhGa0hlOHVTNFNMN3A4eThtbEM5aDFLQVBndkdacE9sQTRTZ01Sd2c0Zw?oc=5",
-   "ts": "Wed, 18 Nov 2026 04:39:04 GMT"
+   "title": "Trump says Thailand will eliminate tariffs on US exports under new deal - The Hill",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd3duZzZsQXd5dmt6dXhMakpFbzBKUzdCdi1DQ1haeExneXR0UHJPdUhQUnhEVVBQaUN2SWhoek9VZlZRb3QzRThmanVLdFlydGp6NGY5NXJJV3lXSlMyeG1rcWFWZHl5cUZObFNNc3czN190WGZBeGtvbVY2azhaZWlvbnbSAYoBQVVfeXFMUHJhdWRWUDM5dEdHZGd1azhaSzhSUVBTMExvSW53bmRzSEF2OUY5NTVMZ29JejNRSGRiczV5NFZrRmNpc3FRV3hHR2pQMzdRdTNSNHpxVTY0X0w0czdGOHJDTnFnTmFjWkVBb3hWYmhzanZjdFZ6NkpGZkJJaFFsSFd2dDk2TU1pYmdn?oc=5",
+   "ts": "Tue, 17 Nov 2026 14:11:00 GMT"
   },
   {
    "src": "gnews",
@@ -419,21 +425,15 @@
   },
   {
    "src": "gnews",
-   "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment? - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUeUo2cThBSzBObnN1UDFfVGVPMGRiS1ZjY3l3MGNhWVNRZUxmSlU1NVpta3hidDlXdm1XSXIxWFJCUXpyV1BsQXRUYjFzTU01QXpNX2FoR1puMldxRmx5b09TM1ZRREhBaFE?oc=5",
-   "ts": "Wed, 18 Nov 2026 02:11:27 GMT"
+   "title": "As Trump and Xi Mingle, Their Governments Are Arming Up - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uN3N0SUFweVFjRXlITG0wZTJaM1dNckFuN1pvMmtocE9NTV9OZnJIZG1acXNVTjFJdWNXWXRxRGp5aE84bE9NeHFEY1RwWlVrNDd3LVhQT0NGZGNnVzJMdzJJdXc5YXZWQnBIREI5OUNyazFoTnpSbU9ZTllMNHc?oc=5",
+   "ts": "Tue, 17 Nov 2026 10:03:50 GMT"
   },
   {
    "src": "gnews",
    "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
    "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "As Trump and Xi Mingle, Their Governments Are Arming Up - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uN3N0SUFweVFjRXlITG0wZTJaM1dNckFuN1pvMmtocE9NTV9OZnJIZG1acXNVTjFJdWNXWXRxRGp5aE84bE9NeHFEY1RwWlVrNDd3LVhQT0NGZGNnVzJMdzJJdXc5YXZWQnBIREI5OUNyazFoTnpSbU9ZTllMNHc?oc=5",
-   "ts": "Tue, 17 Nov 2026 10:03:50 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump arrives in the Philippines for ASEAN summit amid China trade tensions - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeWxGR3ZwWFZiTkhCZWhFcHV4QXd6REsyT2VmbTY1QnF3NG11aXVLUHZpTmFHNFRiLXZwMTY4UjFKMG9fN3VMWTdKQkFxRHl1RWk4RDBmMlZabjNiWGNWUDRjeEJkRzRhakRXbmZJeGt5d25YSVlJMnk0WGsxOXc3RGNrZlFQLUNZampnZGtFVGdiTzFmcG9iRFdJVGMyeU02X2FEaExvVFQ2dk9fdE1OSnFrcnpoWVNzdUE?oc=5",
-   "ts": "Tue, 17 Nov 2026 12:41:25 GMT"
+   "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment? - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUeUo2cThBSzBObnN1UDFfVGVPMGRiS1ZjY3l3MGNhWVNRZUxmSlU1NVpta3hidDlXdm1XSXIxWFJCUXpyV1BsQXRUYjFzTU01QXpNX2FoR1puMldxRmx5b09TM1ZRREhBaFE?oc=5",
+   "ts": "Wed, 18 Nov 2026 02:11:27 GMT"
   }
  ]
 }

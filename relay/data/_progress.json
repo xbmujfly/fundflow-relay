@@ -1,7 +1,7 @@
 {
- "date": "2026-11-17",
- "rows": 5564,
- "total": 5564,
+ "date": "2026-11-18",
+ "rows": 5565,
+ "total": 5565,
  "pages_total": 56,
  "pages_ok": [
   1,
@@ -62,7 +62,7 @@
   56
  ],
  "pages_missing": [],
- "run_added": 0,
+ "run_added": 5565,
  "parts": 56,
- "built_at": "2026-11-18T02:44:54+08:00"
+ "built_at": "2026-11-18T17:28:13+08:00"
 }

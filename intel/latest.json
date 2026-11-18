@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-18T14:31:00Z",
+ "ts": "2026-11-18T14:45:56Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -353,21 +353,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney and Trump to Hold Unscheduled Trade Meeting at Asia Summit - The New York Times",
+   "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGdvSTN5MW55TWE0QVZ0cmd6bGZtOHJmc3pVcHEwM1RtOFFib1o0SXphNjd3cFk0Z3lGODRJaktMY0ZWeFFvenBxTWthQW5oWDQ2RjVoZzdoWW95M1pIVkNzLU1XR2RWZjFsYjNhN0hKZThmSTZwUXhWVmVfNklRZ2ppSE1lYUN4ak5TWENLWTVMUmYxTWlHeGhn?oc=5",
-   "ts": "Wed, 18 Nov 2026 11:29:11 GMT"
+   "ts": "Wed, 18 Nov 2026 13:33:41 GMT"
   },
   {
    "src": "gnews",
    "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin - CNBC",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kN1VQeHRmSWJFQ2NzTW9IS1hUczJuM0Fqa01jMW1ZRkwxT2JVV2xLbllJRVBoc1gtQklCT2FRNVpNWElEeFpneDlaTDdHOVhsZGtHRXZJSEUyQjE1OUpFY2FvbDFKbk15OFdaZFI4ZjRSN3laTkFRQ3BLQdIBgAFBVV95cUxOeUtIeUtSU29VbDRRbWlQclJXOW5jVmNpbW8zYlFNbmRhem8yN1lDWU5adEhraFlXUjFCZlZDeEExUVJaRG9WZGl4bTlNUEw3Y2xvemg4V2RvZmsxREZFNWNGXzE4Z3VIUGNEeWducjZaSkpGYUxpbXNsekdIeW9jUw?oc=5",
    "ts": "Wed, 18 Nov 2026 02:23:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump set for economic showdown with Xi as unfulfilled promises leave billions hanging in balance - Fox News",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb0x0dE40ZHJ6U005dFNWVTM0eHhEeWFqS3dYbFg3VGV2OXVYbkFWQzk2RXhhZzZjRHVzZ0hTeU9rdE1FaS1Tb08xcnJacmJ0SENsRGs3WkN1OWVhTlpLaXpKaHV2QU9sZ2dneWFzYUktLVNScDM3UUx0bmdGdENTbkRMWnFuRS1GQUJueHpRbUJ1R2UwU3JNcEpfN2I0UWNvVEVTOUF0Wk1XZEJGd2MtUWZBS3lyd9IBuwFBVV95cUxQT1lBTEZTamFIVUhqYXlFVUdfQ1BLcmFvUUdGd0g3NjhRT1AxMzBoZmgyTW5WeU5jOWdWbGFneGJGZjlISXhncE9hemxsVmdmZFFmRVgxVEVRMEVBSV90SjF5UFJHazFCcWFmQjBEQ0tMeTUzdXZDdzJIYWo3cjg0NHNfWC1DS1RUNVAyZ3lSV1hSRnR2UlRMUUlWX3ZSckZncXhOUVF1a0h3a2xQc19NdnhHaW14aklCTmNJ?oc=5",
-   "ts": "Wed, 18 Nov 2026 11:00:16 GMT"
   },
   {
    "src": "gnews",
@@ -380,6 +374,12 @@
    "title": "Trump To Meet Xi, Putin In First-Ever Trilateral Amid Decimated Trade - Forbes",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS25VaDhtQkVPbTdrck9ZSUwyS0hjS2JuWGlGVmVaU3pGaUFhOWVYVFZMWThlSjRMdC1lUlBrMWI4QUQyQWxLSkZ0WmkwbEpZQzRJXzhoV0xXVEpONGNBYlFSVzJiR3Y2a3N0aFd3ckdCLUVoY1VaZnMxUElUbUhZYjV2MEFUbXVia1MtTEN6UjhBM0VManQxdkJ5YXh0ZDdXcW1meFdCaHNzaTZoNmxwYkg0ZTJ4NFIyZUZHQg?oc=5",
    "ts": "Wed, 18 Nov 2026 13:14:16 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump set for economic showdown with Xi as unfulfilled promises leave billions hanging in balance - Fox News",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb0x0dE40ZHJ6U005dFNWVTM0eHhEeWFqS3dYbFg3VGV2OXVYbkFWQzk2RXhhZzZjRHVzZ0hTeU9rdE1FaS1Tb08xcnJacmJ0SENsRGs3WkN1OWVhTlpLaXpKaHV2QU9sZ2dneWFzYUktLVNScDM3UUx0bmdGdENTbkRMWnFuRS1GQUJueHpRbUJ1R2UwU3JNcEpfN2I0UWNvVEVTOUF0Wk1XZEJGd2MtUWZBS3lyd9IBuwFBVV95cUxQT1lBTEZTamFIVUhqYXlFVUdfQ1BLcmFvUUdGd0g3NjhRT1AxMzBoZmgyTW5WeU5jOWdWbGFneGJGZjlISXhncE9hemxsVmdmZFFmRVgxVEVRMEVBSV90SjF5UFJHazFCcWFmQjBEQ0tMeTUzdXZDdzJIYWo3cjg0NHNfWC1DS1RUNVAyZ3lSV1hSRnR2UlRMUUlWX3ZSckZncXhOUVF1a0h3a2xQc19NdnhHaW14aklCTmNJ?oc=5",
+   "ts": "Wed, 18 Nov 2026 11:00:16 GMT"
   },
   {
    "src": "gnews",
@@ -404,12 +404,6 @@
    "title": "North Korea’s trade with China slumps despite new bridge opening - NK News",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckxSa3l5VjdUS0I2QWk1dlFkRl96a1l2a0VRN3JIc0xCb0NzSXVuTkpGWHYyYkNmakg1dkktZnd6SENWRU04ckRtSEtMYzNKX1diN2Rqc3FjMllTNW1lMEl1bXRFTmgyQlAwY05yNWotWHItbXk4YjFPbW5SbUtSM0UzZmNfQXdUNWZaZ2FieXlmXzZUNm4xZkxZWQ?oc=5",
    "ts": "Wed, 18 Nov 2026 08:04:05 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "As the Nvidia scandal threatens to reignite trade tensions at Trump-Xi talks, Beijing still holds the rare earths - Atlantic Council",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQlh0bGlqUkJSSFFNUFhrTWpsZWpTVUljQS15bmNFcDFjMGF4TG8zc1phbGZKZ2RYZklKVkhOT2tSd1lTX01NRE1jRnc5SV80VzExOW5yVWtGcVc0bHV1emtzUmREMkxyWk9TMlQtS001TXdKNlNPODgtTGVSMWlGYXByR29BQVh2eUE2STlfdk9pV1FrZzVlYlFRckFPcHg5bFFyVUtJNnltVGszRkhvOEdDODZOSVRPbzFtZnJNdlZzM056S0ROS2tMejZyemxybllWU0hRWjFGNEJpc0M2S2Mxb2I3dEdNLXZWTEt6OUdETGRGS256Vg?oc=5",
-   "ts": "Tue, 17 Nov 2026 19:17:00 GMT"
   },
   {
    "src": "gnews",
@@ -446,6 +440,12 @@
    "title": "Breakingviews - COMMENTARY: Chip curbs threaten US-China trade truce - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX0NhQU5GdEJ3aUxWWTFkbm94YXJXWTRmdkltaU9WLWVHQ2tLNVZVb0VuWnZBSnlhM2RUY1dFSlVyT0k2akttcnQ0bWthTUxQdENXNUtFQ0ZIcjNRdTM1Mkp3SXBMRTV0dThvWm15TDQ0QVBRWVpMbHR2bWJZcGFRQjNtODNpV3FVdlhCZGszcm4wU1gzbk0xU2FMOG9ST0lNSEp3?oc=5",
    "ts": "Wed, 18 Nov 2026 04:08:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Meets Philippine Leader Before Flying to China - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tNUQ3Um9LcHZ1UHlmVV9aN0xadkRYbjZuallvUnd6dk55TnlCajMydm0wWVVpVk5NZjlTUU90UnhhNUxwTE5JTVlXTVVBeVpSNTB1RW1BWk9SYi1ZaFVWWXpUWFFCZ1Zfem1xWkRkZDl5QQ?oc=5",
+   "ts": "Wed, 18 Nov 2026 06:00:00 GMT"
   },
   {
    "src": "gnews",

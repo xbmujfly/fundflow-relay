@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-18T04:00:59Z",
+ "ts": "2026-11-18T04:15:57Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -366,13 +366,19 @@
    "src": "gnews",
    "title": "Trump to project friendship with Xi as trade and tech rivalry deepens - The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdmxLXzBiaWJPaTUwdzJfbXZJMmxYM1o3T3lHNllPNFFoSnRJWFo3dVUtUmtUNWdDU0tmWGFWQjI0Z0lMUlJ3dDh2WEp3cHE4cTZPNTZxcnVhdE0xdDgwTC05S3Jrakp4Ymczckd4bldZb2k2WlhGa0hlOHVTNFNMN3A4eThtbEM5aDFLQVBndkdacE9sQTRTZ01Sd2c0Zw?oc=5",
-   "ts": "Wed, 18 Nov 2026 03:09:04 GMT"
+   "ts": "Wed, 18 Nov 2026 04:12:45 GMT"
   },
   {
    "src": "gnews",
    "title": "Canada and China Draw Closer with Expanded Trade Pact - WSJ",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmRUVkxHN0s2YlBRdWN1TElodk1UaVlzcG5ETFM2OS1HRlFIMUdWd1ZaYm9JYkNzUXZHc2N1d2xGVV95U19BWWpIejRXWWRBaUZPTHNCaF9DSm9faWdSWmVSVXdWY3hwNG1meUtkLUpCSjU2OTNsVVJ4ZUVpd05oZnZfTEpOcHZ6UGFkRlRWMWZnZw?oc=5",
    "ts": "Tue, 17 Nov 2026 21:08:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump’s China charm offensive runs into a spy scandal, trade pressure - Politico",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQXFNbW1PTlZwUTZhVVpmS3RiX0xtNFVYa081eUNJSnk3UXBWeGo5SlNoSndseHVtRlVSQzFVWnQwbldTd0FYMVpBRkZMWEJ5UXczQ2lLLVdRdUhNV1h2Mk1Fd05UcXJWMl85MWY1aDlkQnkxMnpfc3RNYTBmcFMxR3JtM0Nla0o3djlJ?oc=5",
+   "ts": "Tue, 17 Nov 2026 20:45:00 GMT"
   },
   {
    "src": "gnews",
@@ -406,18 +412,6 @@
   },
   {
    "src": "gnews",
-   "title": "Trump’s China charm offensive runs into a spy scandal, trade pressure - Politico",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQXFNbW1PTlZwUTZhVVpmS3RiX0xtNFVYa081eUNJSnk3UXBWeGo5SlNoSndseHVtRlVSQzFVWnQwbldTd0FYMVpBRkZMWEJ5UXczQ2lLLVdRdUhNV1h2Mk1Fd05UcXJWMl85MWY1aDlkQnkxMnpfc3RNYTBmcFMxR3JtM0Nla0o3djlJ?oc=5",
-   "ts": "Tue, 17 Nov 2026 20:46:46 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney secures another China trade deal — but at what cost? - CBC",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4TW0xNHU4TzlSYllXcmJxaENxZjc2WHdfbjdxbkdlMEdFOUx3VzFFR3lTTkNPUTFoNG1mZkVzR3JFS3VZbGJBTnhxTW1ZRk1CSHpvQUExTGptdUROdkFvR3NDWkF2Q0V1cHFKX3J2STNFZw?oc=5",
-   "ts": "Tue, 17 Nov 2026 21:03:21 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
    "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
@@ -426,13 +420,7 @@
    "src": "gnews",
    "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment? - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUeUo2cThBSzBObnN1UDFfVGVPMGRiS1ZjY3l3MGNhWVNRZUxmSlU1NVpta3hidDlXdm1XSXIxWFJCUXpyV1BsQXRUYjFzTU01QXpNX2FoR1puMldxRmx5b09TM1ZRREhBaFE?oc=5",
-   "ts": "Wed, 18 Nov 2026 02:11:26 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump arrives in the Philippines for ASEAN summit amid China trade tensions - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeWxGR3ZwWFZiTkhCZWhFcHV4QXd6REsyT2VmbTY1QnF3NG11aXVLUHZpTmFHNFRiLXZwMTY4UjFKMG9fN3VMWTdKQkFxRHl1RWk4RDBmMlZabjNiWGNWUDRjeEJkRzRhakRXbmZJeGt5d25YSVlJMnk0WGsxOXc3RGNrZlFQLUNZampnZGtFVGdiTzFmcG9iRFdJVGMyeU02X2FEaExvVFQ2dk9fdE1OSnFrcnpoWVNzdUE?oc=5",
-   "ts": "Tue, 17 Nov 2026 12:41:25 GMT"
+   "ts": "Wed, 18 Nov 2026 02:11:27 GMT"
   },
   {
    "src": "gnews",
@@ -454,9 +442,21 @@
   },
   {
    "src": "gnews",
+   "title": "Breakingviews - COMMENTARY: Chip curbs threaten US-China trade truce - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX0NhQU5GdEJ3aUxWWTFkbm94YXJXWTRmdkltaU9WLWVHQ2tLNVZVb0VuWnZBSnlhM2RUY1dFSlVyT0k2akttcnQ0bWthTUxQdENXNUtFQ0ZIcjNRdTM1Mkp3SXBMRTV0dThvWm15TDQ0QVBRWVpMbHR2bWJZcGFRQjNtODNpV3FVdlhCZGszcm4wU1gzbk0xU2FMOG9ST0lNSEp3?oc=5",
+   "ts": "Wed, 18 Nov 2026 04:08:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR3pCLU9Xd1c1amM5dzdoNy1paUJHS3lMOVdsTkp4ZEdSVG9oanlSRHcyV1Njb25xZ1lfSmFsU0JSNlR2MWVkb0owTDNRQW1zZzdqTXpYUVYzTWJUQnB2YXd0Q2g0eUhZT0lDVzdZSmd3SE1FYnNEQ0RoTWhhZDJYR2llcGlRbzJ3SlB1UXJZRmkxQkNPd2dYMVkydlR4OU96YlE?oc=5",
    "ts": "Tue, 17 Nov 2026 04:08:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney secures another China trade deal — but at what cost? - CBC",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4TW0xNHU4TzlSYllXcmJxaENxZjc2WHdfbjdxbkdlMEdFOUx3VzFFR3lTTkNPUTFoNG1mZkVzR3JFS3VZbGJBTnhxTW1ZRk1CSHpvQUExTGptdUROdkFvR3NDWkF2Q0V1cHFKX3J2STNFZw?oc=5",
+   "ts": "Tue, 17 Nov 2026 21:03:21 GMT"
   },
   {
    "src": "gdelt",

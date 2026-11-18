@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-18T14:16:09Z",
+ "ts": "2026-11-18T14:31:00Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -371,15 +371,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump To Meet Xi, Putin In First-Ever Trilateral Amid Decimated Trade - Forbes",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS25VaDhtQkVPbTdrck9ZSUwyS0hjS2JuWGlGVmVaU3pGaUFhOWVYVFZMWThlSjRMdC1lUlBrMWI4QUQyQWxLSkZ0WmkwbEpZQzRJXzhoV0xXVEpONGNBYlFSVzJiR3Y2a3N0aFd3ckdCLUVoY1VaZnMxUElUbUhZYjV2MEFUbXVia1MtTEN6UjhBM0VManQxdkJ5YXh0ZDdXcW1meFdCaHNzaTZoNmxwYkg0ZTJ4NFIyZUZHQg?oc=5",
-   "ts": "Wed, 18 Nov 2026 13:14:16 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump to project friendship with Xi as trade and tech rivalry deepens - The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdmxLXzBiaWJPaTUwdzJfbXZJMmxYM1o3T3lHNllPNFFoSnRJWFo3dVUtUmtUNWdDU0tmWGFWQjI0Z0lMUlJ3dDh2WEp3cHE4cTZPNTZxcnVhdE0xdDgwTC05S3Jrakp4Ymczckd4bldZb2k2WlhGa0hlOHVTNFNMN3A4eThtbEM5aDFLQVBndkdacE9sQTRTZ01Sd2c0Zw?oc=5",
    "ts": "Wed, 18 Nov 2026 13:36:45 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump To Meet Xi, Putin In First-Ever Trilateral Amid Decimated Trade - Forbes",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS25VaDhtQkVPbTdrck9ZSUwyS0hjS2JuWGlGVmVaU3pGaUFhOWVYVFZMWThlSjRMdC1lUlBrMWI4QUQyQWxLSkZ0WmkwbEpZQzRJXzhoV0xXVEpONGNBYlFSVzJiR3Y2a3N0aFd3ckdCLUVoY1VaZnMxUElUbUhZYjV2MEFUbXVia1MtTEN6UjhBM0VManQxdkJ5YXh0ZDdXcW1meFdCaHNzaTZoNmxwYkg0ZTJ4NFIyZUZHQg?oc=5",
+   "ts": "Wed, 18 Nov 2026 13:14:16 GMT"
   },
   {
    "src": "gnews",
@@ -449,15 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
-   "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "After years on ice, Canada seeks trade-based reset with China, minister says - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcXducGZ4U2x6Qk1QdGVXckdCZDNGbE84S0VtRXhFelZmVW1IZXpCRzFpc21JdEpqdzdvUjk4MzN1dnN5N3VpRXpWbjN6MmNVZjRvQ1Itck1nZ1J2bXBvR1FoMk5JY0QwX1dKNzY0THVza09xUWU4TVJzSS1NUVgxQW1KOE5mc1N1OVQyYVVISkxZRnJwbC1EbG5STy15VGg2TWVMZm1kWk5BWWtzaEUxVlFmRQ?oc=5",
    "ts": "Wed, 18 Nov 2026 05:21:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
+   "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
   }
  ]
 }

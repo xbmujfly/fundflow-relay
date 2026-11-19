@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-19T07:15:55Z",
+ "ts": "2026-11-19T07:30:58Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -377,7 +377,7 @@
   },
   {
    "src": "gnews",
-   "title": "Sheinbaum signals trade progress after Trump meeting in China - Courthouse News Service",
+   "title": "Sheinbaum signals trade progress after Trump meeting in China - Courthouse News",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjBSLWQ2eks3QVVhZlU2elJycUMxZTFYNGFLbEd3c2x0NEcwX0tPWk41OFQ3RmZSSXNvaTB5akFFYllSd2ZGZ0c4bWJhekotSmlSQnJhSDhpZDZiNGsxM2hTREFlMEswREVkNC05WndjYk9Mc0NwTXNWMG5SVDZTOHVUeTBhbzhfT09IT0ZxYXlnc1JYVmZ3?oc=5",
    "ts": "Wed, 18 Nov 2026 19:20:08 GMT"
   },
@@ -437,6 +437,12 @@
   },
   {
    "src": "gnews",
+   "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kN1VQeHRmSWJFQ2NzTW9IS1hUczJuM0Fqa01jMW1ZRkwxT2JVV2xLbllJRVBoc1gtQklCT2FRNVpNWElEeFpneDlaTDdHOVhsZGtHRXZJSEUyQjE1OUpFY2FvbDFKbk15OFdaZFI4ZjRSN3laTkFRQ3BLQdIBgAFBVV95cUxOeUtIeUtSU29VbDRRbWlQclJXOW5jVmNpbW8zYlFNbmRhem8yN1lDWU5adEhraFlXUjFCZlZDeEExUVJaRG9WZGl4bTlNUEw3Y2xvemg4V2RvZmsxREZFNWNGXzE4Z3VIUGNEeWducjZaSkpGYUxpbXNsekdIeW9jUw?oc=5",
+   "ts": "Wed, 18 Nov 2026 02:23:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "South Korea says China trade agreement to boost tourism, entertainment sectors - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
    "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
@@ -446,12 +452,6 @@
    "title": "Carney meets with Trump at APEC, says Canada's trade with China isn't U.S. president's top concern - CBC",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jdlZFejNnM2FrbHNubTU5aVFUYm5ORmJLcmRKdnFSc2VuSGo2VkxGVUxyVEE5TXdINEg3ZVROTERla2R6NGpGd0plVW1QUFQ4REJHdmk2OF9BLTM4U20zZm15STgtS2UxV0tMTUxR?oc=5",
    "ts": "Wed, 18 Nov 2026 17:23:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kN1VQeHRmSWJFQ2NzTW9IS1hUczJuM0Fqa01jMW1ZRkwxT2JVV2xLbllJRVBoc1gtQklCT2FRNVpNWElEeFpneDlaTDdHOVhsZGtHRXZJSEUyQjE1OUpFY2FvbDFKbk15OFdaZFI4ZjRSN3laTkFRQ3BLQdIBgAFBVV95cUxOeUtIeUtSU29VbDRRbWlQclJXOW5jVmNpbW8zYlFNbmRhem8yN1lDWU5adEhraFlXUjFCZlZDeEExUVJaRG9WZGl4bTlNUEw3Y2xvemg4V2RvZmsxREZFNWNGXzE4Z3VIUGNEeWducjZaSkpGYUxpbXNsekdIeW9jUw?oc=5",
-   "ts": "Wed, 18 Nov 2026 02:23:00 GMT"
   },
   {
    "src": "gnews",

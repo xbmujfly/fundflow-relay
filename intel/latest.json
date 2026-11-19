@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-19T13:30:40Z",
+ "ts": "2026-11-19T13:45:27Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -340,15 +341,15 @@
   },
   {
    "src": "gnews",
-   "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
-   "ts": "Tue, 17 Nov 2026 23:01:15 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump lands in China for trade talks and high-stakes summit with Xi and Putin - PBS",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb0cyRko0OEN1RlRLT0VFTjBfeU1zZWllR193RFc3WVl4T2h1NmFJQjl4UEZJcWdKUmFuOWVXUTl1Qi1uaERobk1iZGpIR20ycjlNcl9lVDY3MzIxbmhJblA1ejlQOGE5Yi1iZUpZMkhEemo4RGFrMVIwSzJjMW5OY0RURDFrRWRUaFBweFZlS3BwWUg2WUhhWDY1Sno4QVV1eTU5cjRyT1VCZkZ5ZExvRQ?oc=5",
    "ts": "Wed, 18 Nov 2026 23:55:44 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
+   "ts": "Tue, 17 Nov 2026 23:01:15 GMT"
   },
   {
    "src": "gnews",
@@ -400,12 +401,6 @@
   },
   {
    "src": "gnews",
-   "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
-   "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Sheinbaum signals trade progress after Trump meeting in China - Courthouse News",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjBSLWQ2eks3QVVhZlU2elJycUMxZTFYNGFLbEd3c2x0NEcwX0tPWk41OFQ3RmZSSXNvaTB5akFFYllSd2ZGZ0c4bWJhekotSmlSQnJhSDhpZDZiNGsxM2hTREFlMEswREVkNC05WndjYk9Mc0NwTXNWMG5SVDZTOHVUeTBhbzhfT09IT0ZxYXlnc1JYVmZ3?oc=5",
    "ts": "Wed, 18 Nov 2026 19:20:08 GMT"
@@ -418,9 +413,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump to project friendship with Xi as trade and tech rivalry deepens - The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdmxLXzBiaWJPaTUwdzJfbXZJMmxYM1o3T3lHNllPNFFoSnRJWFo3dVUtUmtUNWdDU0tmWGFWQjI0Z0lMUlJ3dDh2WEp3cHE4cTZPNTZxcnVhdE0xdDgwTC05S3Jrakp4Ymczckd4bldZb2k2WlhGa0hlOHVTNFNMN3A4eThtbEM5aDFLQVBndkdacE9sQTRTZ01Sd2c0Zw?oc=5",
-   "ts": "Wed, 18 Nov 2026 19:19:39 GMT"
+   "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
+   "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
   },
   {
    "src": "gnews",
@@ -430,9 +425,15 @@
   },
   {
    "src": "gnews",
-   "title": "Tariff Repeal Options Would Have Very Different Price Effects - Tax Policy Center",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPODl2TjJzNVZqTkpCWVl5ZkV5VTlJTXVoTlhPRzR0SlVUZzZaTmxKeHZiNHJNNmQ4Z0hueGFzT0w2M3ZoaWowYkZkQnkzSGJKNGRKZmhpUzZWelZFTXpNeEhGOWt0WmZZdkw3MnlBNGNUZkx0Um51clBuZEU0a3dHdFNuQU1lNVBTaEpWM1NqRi10SzRyb0RnT09pLUU?oc=5",
-   "ts": "Wed, 18 Nov 2026 17:00:00 GMT"
+   "title": "Trump to project friendship with Xi as trade and tech rivalry deepens - The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdmxLXzBiaWJPaTUwdzJfbXZJMmxYM1o3T3lHNllPNFFoSnRJWFo3dVUtUmtUNWdDU0tmWGFWQjI0Z0lMUlJ3dDh2WEp3cHE4cTZPNTZxcnVhdE0xdDgwTC05S3Jrakp4Ymczckd4bldZb2k2WlhGa0hlOHVTNFNMN3A4eThtbEM5aDFLQVBndkdacE9sQTRTZ01Sd2c0Zw?oc=5",
+   "ts": "Wed, 18 Nov 2026 19:19:39 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Beijing’s New Strategy: Made by China, But Not Made in China - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWUJkbXVlNnRkelpmbU9ZQkJsUlBaR25SeWpsR093VUlMdWVQVFlzblFYSC1FMkVpc1hXRDBGNER4Q1hkbHN6cjBXWlpfY21rZF9NUFNwcFVGLU94SVFXYm1SbFduVERDUEVMMVkyczh5Y2ptNjVJOUIwUXlic194WFRBdnJ6U1BXWXZ3OFIzR3hsbWdUTmlxR3ZFa2lHc0xfRm5CN1d5WW16Vlk?oc=5",
+   "ts": "Thu, 19 Nov 2026 12:00:04 GMT"
   },
   {
    "src": "gnews",
@@ -457,126 +458,6 @@
    "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
    "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Οι Δημοκρατικοί απειλούν την οικογένεια Τραμπ : Προετοιμαστείτε για έρευνες για διαφθορά και σύγκρουση συμφερόντων",
-   "url": "https://www.naftemporiki.gr/kosmos/2191061/oi-dimokratikoi-apeiloyn-tin-oikogeneia-tramp-proetoimasteite-gia-ereynes-gia-diafthora-kai-sygkroysi-symferonton/",
-   "ts": "20261118T173000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Albanese shares the stage with the Putin - Trump - Xi show",
-   "url": "https://www.westernadvocate.com.au/story/9394298/albanese-shares-the-stage-with-the-putin-trump-xi-show/",
-   "ts": "20261118T173000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Saudis prepare for Houthi war to last well into 2027",
-   "url": "https://www.thehindu.com/news/international/saudis-prepare-for-houthi-war-to-last-well-into-2027/article71717227.ece",
-   "ts": "20261118T173000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US Launches Unarmed ICBM Test During President Trump Trip To Asia | News Radio 920 AM & 104 . 7 FM",
-   "url": "https://newsradiori.iheart.com/content/2026-11-18-us-launches-unarmed-icbm-test-during-president-trumps-trip-to-asia/",
-   "ts": "20261118T173000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ο Χακίμ Τζέφρις είναι έτοιμος να γίνει ο πρώτος μαύρος πρόεδρος της Βουλής των Αντιπροσώπων στις ΗΠΑ",
-   "url": "https://www.newsit.gr/kosmos/o-xakim-tzefris-einai-etoimos-na-ginei-o-protos-mayros-proedros-tis-voulis-ton-antiprosopon-stis-ipa/4825690/",
-   "ts": "20261118T173000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Wümme - Renaturierung in Borgfeld soll Tieren und Pflanzen helfen",
-   "url": "https://www.weser-kurier.de/bremen/stadtteil-borgfeld/wuemme-renaturierung-in-borgfeld-soll-tieren-und-pflanzen-helfen-doc88i0y308bev102vac7kt",
-   "ts": "20261118T173000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "هل تستطيع الولايات المتحدة والصين وروسيا منع الذكاء الاصطناعي من التسبب في حرب نووية ؟ ",
-   "url": "https://www.omandaily.om/article/1215240",
-   "ts": "20261118T173000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Tesla llega a la Argentina : cómo venderá sus autos y por qué desafía a los concesionarios tradicionales",
-   "url": "https://www.ambito.com/autos/tesla-llega-la-argentina-como-vendera-sus-y-que-desafia-los-concesionarios-tradicionales-n6346632",
-   "ts": "20261118T173000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Юрий Ушаков назвал полезной прошедшую встречу Владимира Путина и Си Цзиньпина",
-   "url": "http://govoritmoskva.ru/news/512559/",
-   "ts": "20261118T173000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Pete Hegseth is in Venezuela to meet interim authorities",
-   "url": "https://www.republicanherald.com/2026/11/18/hegseth-venezuela-visit/",
-   "ts": "20261118T173000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Hakeem Jeffries poised to become the first Black Speaker of the House",
-   "url": "https://abc7news.com/story/hakeem-jeffries-poised-become-first-black-speaker-house/20050960/",
-   "ts": "20261118T173000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "루비오 미 국무장관  워싱턴에 임박한 위협 없어 … 이란  더티밤  보도 부인",
-   "url": "https://www.voakorea.com/a/us-iran-111826/8225086.html",
-   "ts": "20261118T173000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "15 milijonov bančnih dokumentov : Epstein , Trump , ruski oligarhi in kupi denarja",
-   "url": "https://www.24ur.com/novice/gospodarstvo/15-milijonov-bancnih-dokumentov-epstein-trump-ruski-oligarhi-in-kupi-denarja.html",
-   "ts": "20261118T173000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Pakistani Man Sentenced For Plot To Kill Trump | News Radio 920 AM & 104 . 7 FM",
-   "url": "https://newsradiori.iheart.com/content/2026-11-18-pakistani-man-sentenced-for-plot-to-kill-trump/",
-   "ts": "20261118T173000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Rep . Thomas Massie Urges Americans to Live Off Grid Amid Widespread Tech Outages",
-   "url": "https://www.tmz.com/2026/11/18/thomas-massie-urges-americans-live-off-grid/",
-   "ts": "20261118T173000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Pakistani Man Sentenced For Plot To Kill Trump | NewsTalk WMEQ",
-   "url": "https://wmeq.iheart.com/content/2026-11-18-pakistani-man-sentenced-for-plot-to-kill-trump/",
-   "ts": "20261118T173000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "White House Cuts Off Federal Funding to This Corrupt California Agency",
-   "url": "https://townhall.com/news/jeff-charles/2026/11/18/white-house-cuts-off-federal-funding-to-this-corrupt-california-agency-n2686630",
-   "ts": "20261118T173000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "RIGI : fuertes críticas de los proveedores locales al Decreto 1366 que cambia reglas de competencia",
-   "url": "https://www.ambito.com/energia/rigi-fuertes-criticas-los-proveedores-locales-al-decreto-1366-que-cambia-reglas-competencia-n6346629",
-   "ts": "20261118T173000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ax - wielding man destroyed $60 million US military plane , prosecutors say",
-   "url": "https://www.abc15.com/us-news/military/ax-wielding-man-destroyed-60-million-us-military-plane-prosecutors-say",
-   "ts": "20261118T173000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Συνάντηση γιγάντων : Τραμπ , Σι και Πούτιν στο ίδιο τραπέζι σε μια ιστορική συνάντηση",
-   "url": "https://www.e-radio.gr/post/337853/synantisi-gigantwn-tramp-si-kai-poytin-sto-idio-trapezi-se-mia-istoriki-synantisi",
-   "ts": "20261118T173000Z"
   }
  ]
 }

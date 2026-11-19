@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-19T13:00:38Z",
+ "ts": "2026-11-19T13:15:25Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -341,12 +341,6 @@
   },
   {
    "src": "gnews",
-   "title": "Trump lands in China for trade talks and high-stakes summit with Xi and Putin - PBS",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb0cyRko0OEN1RlRLT0VFTjBfeU1zZWllR193RFc3WVl4T2h1NmFJQjl4UEZJcWdKUmFuOWVXUTl1Qi1uaERobk1iZGpIR20ycjlNcl9lVDY3MzIxbmhJblA1ejlQOGE5Yi1iZUpZMkhEemo4RGFrMVIwSzJjMW5OY0RURDFrRWRUaFBweFZlS3BwWUg2WUhhWDY1Sno4QVV1eTU5cjRyT1VCZkZ5ZExvRQ?oc=5",
-   "ts": "Wed, 18 Nov 2026 23:55:44 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
    "ts": "Tue, 17 Nov 2026 23:01:15 GMT"
@@ -356,6 +350,12 @@
    "title": "The bill for Trump’s trade war is coming due—at home and abroad - Fortune",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LVldTODA1VnhXU3N6SlR3SEhVX21UaEd6WDZQLW5zdDdybXJXTThQM04wcElBaXhIUDR5dFpqUkF6MVZLN2VyNFVWV2F3UTJjT3UwZE1yc3ZvZFlQQkxmem5UX2FIR096ZTBOOVVxWVU1QQ?oc=5",
    "ts": "Thu, 19 Nov 2026 10:56:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump lands in China for trade talks and high-stakes summit with Xi and Putin - PBS",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb0cyRko0OEN1RlRLT0VFTjBfeU1zZWllR193RFc3WVl4T2h1NmFJQjl4UEZJcWdKUmFuOWVXUTl1Qi1uaERobk1iZGpIR20ycjlNcl9lVDY3MzIxbmhJblA1ejlQOGE5Yi1iZUpZMkhEemo4RGFrMVIwSzJjMW5OY0RURDFrRWRUaFBweFZlS3BwWUg2WUhhWDY1Sno4QVV1eTU5cjRyT1VCZkZ5ZExvRQ?oc=5",
+   "ts": "Wed, 18 Nov 2026 23:55:44 GMT"
   },
   {
    "src": "gnews",
@@ -377,21 +377,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump touts ‘landmark’ trade deal with Philippines - The Hill",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzFEUGtzd041Uk54NWVjS2tJekhLelB0bC1VeUJBZmZ0VjAwQW1kQm01LVFBNEw1aC1kY2RmZ2lMN3N1UHBoejVPT09rTDZYd3NFSmJFUlRMQ2ZSVjR5bC15ZXR1NUZibC1PRmVUWnhzZjlHVWwxcVNyS3JCcGZkWGpKLTl6dknSAYwBQVVfeXFMTkZrZVhlVzFtUm1hT0dzRFRzQ0g1YzVkUUxlR0FrNnpHRHpfbUtHWmlhWVpkMC1UQm9HYU9TbE9VVENQMDB0Y1IyS1o2QlNyeEdNeXBFOGExcV9BNUpTbUJSU1p6Yy02YjJYVUI2WW9zMmh5WFVuQXJRMXU1ei1IaHN1M2RieFd2UFFIN0k?oc=5",
-   "ts": "Wed, 18 Nov 2026 13:07:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "The Trump-Xi shadow over emerging-market interest rates - ODI: Think change",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMDJYa1RnaG5xTHZqRDFJemtlV0dadS1TT1JLY002NEpkanpzbnYwamp2RWZDdE1idncxbWRrSVdZYmVDWlRLZVpONklyak9xZWZYb2gtS0JYZXZQeUNuaWtTdExkVF9nOHEzR2hnazk4aHdXS1NQdmtEbHRhcWVfMTZ0bFM4ZDBjTldwTg?oc=5",
    "ts": "Thu, 19 Nov 2026 11:43:43 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
-   "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
   },
   {
    "src": "gnews",
@@ -401,9 +389,15 @@
   },
   {
    "src": "gnews",
-   "title": "Sheinbaum signals trade progress after Trump meeting in China - Courthouse News",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjBSLWQ2eks3QVVhZlU2elJycUMxZTFYNGFLbEd3c2x0NEcwX0tPWk41OFQ3RmZSSXNvaTB5akFFYllSd2ZGZ0c4bWJhekotSmlSQnJhSDhpZDZiNGsxM2hTREFlMEswREVkNC05WndjYk9Mc0NwTXNWMG5SVDZTOHVUeTBhbzhfT09IT0ZxYXlnc1JYVmZ3?oc=5",
-   "ts": "Wed, 18 Nov 2026 19:20:08 GMT"
+   "title": "Carney: Trump not concerned about growing Canada trade ties with China - The Hill",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT2RPVF9WX0RXT2ZiNktuX0xrVXJOVEFsQXJfLXIxdFVzSjRZZktYS0JsUC1TY2Q5WklHYjdVY19LUFpTbzZjQ2E4cURsWGQ1OTJfRnhHNVp3OG5tVUFib3ZBVXFtVGlnYWJTb3FSR3F3dlp4VUNJTEVvZUxSb3lTSUxlX0VnQdIBiwFBVV95cUxNcmNTTXd0TGtSeTRsZDMtOUtCMzRwQ1RicEd5S1FTVmZDblFJV3B3eHhSMmpZTDRyTW9NQXNzT052Yk1RcXVoWWFqODRNenZyZXNjNnhPaXBHN0NrMjI4SDFLcFRMeFQ4bURzT1N4VHAyeVViMDFGaUE3Q0taTzFteWZTTVRBZVktRVY0?oc=5",
+   "ts": "Wed, 18 Nov 2026 19:19:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
+   "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
   },
   {
    "src": "gnews",
@@ -419,15 +413,21 @@
   },
   {
    "src": "gnews",
+   "title": "Sheinbaum signals trade progress after Trump meeting in China - Courthouse News",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjBSLWQ2eks3QVVhZlU2elJycUMxZTFYNGFLbEd3c2x0NEcwX0tPWk41OFQ3RmZSSXNvaTB5akFFYllSd2ZGZ0c4bWJhekotSmlSQnJhSDhpZDZiNGsxM2hTREFlMEswREVkNC05WndjYk9Mc0NwTXNWMG5SVDZTOHVUeTBhbzhfT09IT0ZxYXlnc1JYVmZ3?oc=5",
+   "ts": "Wed, 18 Nov 2026 19:20:08 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump says Board of Trade has brought 'greater balance' to US-China ties - Al-Monitor",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEg2X20zSjBRbkMzSUtkem9aNEVnTVBtQS1laE5qWTBZV2NxazFQcjR3bWFOQVFjaDFMYmx0SHdUbVNWRlJkX09NUTVPa3c4ZDRfX2xiR3JzYmIxTDNNNFMzSEd0aXV1TnVQeFRBMXF4aHNUeHVBRHQyRmcyYUZMNnpsaGFuSHlCc2pLa3pYTzJBa2h4VGFTeUZLSkM5MTJic1MyZllDRnZBWk9UTGc?oc=5",
    "ts": "Thu, 19 Nov 2026 06:50:43 GMT"
   },
   {
    "src": "gnews",
-   "title": "Tariff Repeal Options Would Have Very Different Price Effects - Tax Policy Center",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPODl2TjJzNVZqTkpCWVl5ZkV5VTlJTXVoTlhPRzR0SlVUZzZaTmxKeHZiNHJNNmQ4Z0hueGFzT0w2M3ZoaWowYkZkQnkzSGJKNGRKZmhpUzZWelZFTXpNeEhGOWt0WmZZdkw3MnlBNGNUZkx0Um51clBuZEU0a3dHdFNuQU1lNVBTaEpWM1NqRi10SzRyb0RnT09pLUU?oc=5",
-   "ts": "Wed, 18 Nov 2026 17:00:00 GMT"
+   "title": "Beijing’s New Strategy: Made by China, But Not Made in China - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWUJkbXVlNnRkelpmbU9ZQkJsUlBaR25SeWpsR093VUlMdWVQVFlzblFYSC1FMkVpc1hXRDBGNER4Q1hkbHN6cjBXWlpfY21rZF9NUFNwcFVGLU94SVFXYm1SbFduVERDUEVMMVkyczh5Y2ptNjVJOUIwUXlic194WFRBdnJ6U1BXWXZ3OFIzR3hsbWdUTmlxR3ZFa2lHc0xfRm5CN1d5WW16Vlk?oc=5",
+   "ts": "Thu, 19 Nov 2026 12:00:04 GMT"
   },
   {
    "src": "gnews",
@@ -437,9 +437,9 @@
   },
   {
    "src": "gnews",
-   "title": "Carney: Trump not concerned about growing Canada trade ties with China - The Hill",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT2RPVF9WX0RXT2ZiNktuX0xrVXJOVEFsQXJfLXIxdFVzSjRZZktYS0JsUC1TY2Q5WklHYjdVY19LUFpTbzZjQ2E4cURsWGQ1OTJfRnhHNVp3OG5tVUFib3ZBVXFtVGlnYWJTb3FSR3F3dlp4VUNJTEVvZUxSb3lTSUxlX0VnQdIBiwFBVV95cUxNcmNTTXd0TGtSeTRsZDMtOUtCMzRwQ1RicEd5S1FTVmZDblFJV3B3eHhSMmpZTDRyTW9NQXNzT052Yk1RcXVoWWFqODRNenZyZXNjNnhPaXBHN0NrMjI4SDFLcFRMeFQ4bURzT1N4VHAyeVViMDFGaUE3Q0taTzFteWZTTVRBZVktRVY0?oc=5",
-   "ts": "Wed, 18 Nov 2026 19:19:00 GMT"
+   "title": "Trump touts ‘landmark’ trade deal with Philippines - The Hill",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzFEUGtzd041Uk54NWVjS2tJekhLelB0bC1VeUJBZmZ0VjAwQW1kQm01LVFBNEw1aC1kY2RmZ2lMN3N1UHBoejVPT09rTDZYd3NFSmJFUlRMQ2ZSVjR5bC15ZXR1NUZibC1PRmVUWnhzZjlHVWwxcVNyS3JCcGZkWGpKLTl6dknSAYwBQVVfeXFMTkZrZVhlVzFtUm1hT0dzRFRzQ0g1YzVkUUxlR0FrNnpHRHpfbUtHWmlhWVpkMC1UQm9HYU9TbE9VVENQMDB0Y1IyS1o2QlNyeEdNeXBFOGExcV9BNUpTbUJSU1p6Yy02YjJYVUI2WW9zMmh5WFVuQXJRMXU1ei1IaHN1M2RieFd2UFFIN0k?oc=5",
+   "ts": "Wed, 18 Nov 2026 13:07:00 GMT"
   },
   {
    "src": "gnews",

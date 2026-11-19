@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-19T15:00:30Z",
+ "ts": "2026-11-19T15:15:37Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -424,6 +424,12 @@
   },
   {
    "src": "gnews",
+   "title": "China holds soybean imports at ports as domestic supplies swell - Farm Progress",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU29XRlpKVEc4SFZaeEdLYXI0Vm1ZcHRuN3A3WUtIbnVveEdNa0lZU05tTFVCRjRwekNnSllIdTNrMDJoQVMzdGdTd2hjMDVJRVA1T3NTREg1VXJNQWpLakx1ZjVnM1NUZWY1RHltOERKaDgyWDNKOVdxY1VieTFkbE12S1JhVjB0Y000dVUxbjJCZ2FFX0tSOHhfWXlsTXVCMmduNnZITQ?oc=5",
+   "ts": "Thu, 19 Nov 2026 13:22:02 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Beijing’s New Strategy: Made by China, But Not Made in China - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWUJkbXVlNnRkelpmbU9ZQkJsUlBaR25SeWpsR093VUlMdWVQVFlzblFYSC1FMkVpc1hXRDBGNER4Q1hkbHN6cjBXWlpfY21rZF9NUFNwcFVGLU94SVFXYm1SbFduVERDUEVMMVkyczh5Y2ptNjVJOUIwUXlic194WFRBdnJ6U1BXWXZ3OFIzR3hsbWdUTmlxR3ZFa2lHc0xfRm5CN1d5WW16Vlk?oc=5",
    "ts": "Thu, 19 Nov 2026 12:00:04 GMT"
@@ -445,12 +451,6 @@
    "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGdvSTN5MW55TWE0QVZ0cmd6bGZtOHJmc3pVcHEwM1RtOFFib1o0SXphNjd3cFk0Z3lGODRJaktMY0ZWeFFvenBxTWthQW5oWDQ2RjVoZzdoWW95M1pIVkNzLU1XR2RWZjFsYjNhN0hKZThmSTZwUXhWVmVfNklRZ2ppSE1lYUN4ak5TWENLWTVMUmYxTWlHeGhn?oc=5",
    "ts": "Wed, 18 Nov 2026 11:29:11 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s Xi pitches free trade at APEC amid Trump’s global trade disruptions - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRnNOaGl5M2hkclpyeEhyU3FobThUWkRqeTNNd2pBeEpWNjl3cXFOZW1mQWQ3ZnB0d0tXZUQyYzdfRjJfZUhzdHdVV3lyNDQxTmNPTklncVNMbHM0MFVnQ0Y1d0I1ZmJjUkEzc08zOFNTWkR0c3BSZjBCbTA2c1ZEWEdZbnlwT1U4Z2ZXMXI2WHpJdVI3V0pvYllJazlvbmk5OV9YZkxB0gGrAUFVX3lxTE91czVRci10REsyQ3o3Tmg1Rk11RUxKWG5DdmhxU0taN1NCamNVbGhLTndHMmU1X0xQRzlzSGFETHpKd2J0Q1JjSFpSZkdxMS1WSjBsbi1vQjhCSWRTMG16SVBwWTdabXhfdXV1YUxTYWFLUklsdmRuVTdxV1NiUG91ZEFvVkFQei1ZNUIxUFZoak5tNjNSMy1lVC1TeVB0UzRFcmlxWk5oelcwOA?oc=5",
-   "ts": "Wed, 18 Nov 2026 08:26:51 GMT"
   },
   {
    "src": "gnews",

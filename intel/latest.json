@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-19T02:15:57Z",
+ "ts": "2026-11-19T02:31:11Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -431,12 +431,6 @@
   },
   {
    "src": "gnews",
-   "title": "Carney says Canada’s growing trade ties with China are not a top concern for Trump - AP News",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZThvME1ObnA1SmhPci1TazZzVmVfdkNELTFacUh3bFRJTjRTaWtta2U0NWZ1c0ZWRXdZc3ZBMVh5RlFBWFBYSnhoNm9RLXY4QXEwVVhsR0FlRW1FN3FIWGFuUzlMZ0QtSkRuOV93Qlo0eWZyTF9SdlBBR3otaUxvVDlYb2ItaWRUMkZYbjBHTTU?oc=5",
-   "ts": "Wed, 18 Nov 2026 10:24:09 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump Meets Philippine Leader Before Flying to China - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tNUQ3Um9LcHZ1UHlmVV9aN0xadkRYbjZuallvUnd6dk55TnlCajMydm0wWVVpVk5NZjlTUU90UnhhNUxwTE5JTVlXTVVBeVpSNTB1RW1BWk9SYi1ZaFVWWXpUWFFCZ1Zfem1xWkRkZDl5QQ?oc=5",
    "ts": "Wed, 18 Nov 2026 16:55:00 GMT"
@@ -452,6 +446,12 @@
    "title": "Mark Carney Says Canada Will Not Back Down in Trade Talks With U.S. - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ21JWC0wRHNXdjRRbnozQThILUpMTnA4X2xOQWVFQnUzMDNHMXZWZUFfXzQtd00xcHp4LVg2TkdjRVRLV1BSS1BzN3lSQ0dKbUh5U3d5MlFDQkdEUG9LRVRqaENvSG9EZHpLVThnbFpBUnEwLVNZb0xZeWZfTDZfWHNBbV9iMWxIaEJTUDZn?oc=5",
    "ts": "Wed, 18 Nov 2026 21:56:45 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says Canada’s growing trade ties with China are not a top concern for Trump - AP News",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZThvME1ObnA1SmhPci1TazZzVmVfdkNELTFacUh3bFRJTjRTaWtta2U0NWZ1c0ZWRXdZc3ZBMVh5RlFBWFBYSnhoNm9RLXY4QXEwVVhsR0FlRW1FN3FIWGFuUzlMZ0QtSkRuOV93Qlo0eWZyTF9SdlBBR3otaUxvVDlYb2ItaWRUMkZYbjBHTTU?oc=5",
+   "ts": "Wed, 18 Nov 2026 10:24:09 GMT"
   },
   {
    "src": "gnews",

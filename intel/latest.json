@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-19T14:15:32Z",
+ "ts": "2026-11-19T14:30:30Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -389,15 +389,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
-   "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump’s meeting with Xi and Putin could shape trade, global security - NewsNation",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53cjM2Y1NiQ1l3YkppNXhCMldKbENVR2RfTGZGLWl6S3ZrSU9KYXhzVDhoT0JxZGxwMDNmMFVOT2NPQ1hobVZaUHpJQlpuR3h3eE1HS0Fob2JURUhZTmdyR0ZUcldRV080TVdKRnhzX3RKMDhXM2lpNEJTWEpsaknSAYQBQVVfeXFMTnh4Uy1IZVMwVUJkVkNWMkxuR2VsNXRCVDRSSnpveHhTWlBjdXVYSkdMeTl4S1JhRUs0SjVBWWM2VXF0QmJ2cW85TW96b2I0UnhkTGl4Tkd1dDRwdFlNdmZOM0tGTEZrNGxlR3pzMTIxY0tlcEFVdnpMZ25TQ2hlVGoxOU9z?oc=5",
    "ts": "Thu, 19 Nov 2026 12:27:46 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
+   "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
   },
   {
    "src": "gnews",

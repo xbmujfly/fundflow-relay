@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-19T14:30:30Z",
+ "ts": "2026-11-19T14:45:25Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,12 +341,6 @@
   },
   {
    "src": "gnews",
-   "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGdvSTN5MW55TWE0QVZ0cmd6bGZtOHJmc3pVcHEwM1RtOFFib1o0SXphNjd3cFk0Z3lGODRJaktMY0ZWeFFvenBxTWthQW5oWDQ2RjVoZzdoWW95M1pIVkNzLU1XR2RWZjFsYjNhN0hKZThmSTZwUXhWVmVfNklRZ2ppSE1lYUN4ak5TWENLWTVMUmYxTWlHeGhn?oc=5",
-   "ts": "Thu, 19 Nov 2026 03:58:57 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "The bill for Trump’s trade war is coming due—at home and abroad - Fortune",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LVldTODA1VnhXU3N6SlR3SEhVX21UaEd6WDZQLW5zdDdybXJXTThQM04wcElBaXhIUDR5dFpqUkF6MVZLN2VyNFVWV2F3UTJjT3UwZE1yc3ZvZFlQQkxmem5UX2FIR096ZTBOOVVxWVU1QQ?oc=5",
    "ts": "Thu, 19 Nov 2026 10:56:00 GMT"
@@ -371,6 +365,12 @@
   },
   {
    "src": "gnews",
+   "title": "Carney and Xi Announce Canada-China Trade Pact - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
+   "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Canada and China Draw Closer with Expanded Trade Pact - WSJ",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmRUVkxHN0s2YlBRdWN1TElodk1UaVlzcG5ETFM2OS1HRlFIMUdWd1ZaYm9JYkNzUXZHc2N1d2xGVV95U19BWWpIejRXWWRBaUZPTHNCaF9DSm9faWdSWmVSVXdWY3hwNG1meUtkLUpCSjU2OTNsVVJ4ZUVpd05oZnZfTEpOcHZ6UGFkRlRWMWZnZw?oc=5",
    "ts": "Tue, 17 Nov 2026 21:08:00 GMT"
@@ -389,15 +389,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump’s meeting with Xi and Putin could shape trade, global security - NewsNation",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53cjM2Y1NiQ1l3YkppNXhCMldKbENVR2RfTGZGLWl6S3ZrSU9KYXhzVDhoT0JxZGxwMDNmMFVOT2NPQ1hobVZaUHpJQlpuR3h3eE1HS0Fob2JURUhZTmdyR0ZUcldRV080TVdKRnhzX3RKMDhXM2lpNEJTWEpsaknSAYQBQVVfeXFMTnh4Uy1IZVMwVUJkVkNWMkxuR2VsNXRCVDRSSnpveHhTWlBjdXVYSkdMeTl4S1JhRUs0SjVBWWM2VXF0QmJ2cW85TW96b2I0UnhkTGl4Tkd1dDRwdFlNdmZOM0tGTEZrNGxlR3pzMTIxY0tlcEFVdnpMZ25TQ2hlVGoxOU9z?oc=5",
-   "ts": "Thu, 19 Nov 2026 12:27:46 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
    "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump’s meeting with Xi and Putin could shape trade, global security - NewsNation",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53cjM2Y1NiQ1l3YkppNXhCMldKbENVR2RfTGZGLWl6S3ZrSU9KYXhzVDhoT0JxZGxwMDNmMFVOT2NPQ1hobVZaUHpJQlpuR3h3eE1HS0Fob2JURUhZTmdyR0ZUcldRV080TVdKRnhzX3RKMDhXM2lpNEJTWEpsaknSAYQBQVVfeXFMTnh4Uy1IZVMwVUJkVkNWMkxuR2VsNXRCVDRSSnpveHhTWlBjdXVYSkdMeTl4S1JhRUs0SjVBWWM2VXF0QmJ2cW85TW96b2I0UnhkTGl4Tkd1dDRwdFlNdmZOM0tGTEZrNGxlR3pzMTIxY0tlcEFVdnpMZ25TQ2hlVGoxOU9z?oc=5",
+   "ts": "Thu, 19 Nov 2026 12:20:16 GMT"
   },
   {
    "src": "gnews",
@@ -425,15 +425,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
-   "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Beijing’s New Strategy: Made by China, But Not Made in China - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWUJkbXVlNnRkelpmbU9ZQkJsUlBaR25SeWpsR093VUlMdWVQVFlzblFYSC1FMkVpc1hXRDBGNER4Q1hkbHN6cjBXWlpfY21rZF9NUFNwcFVGLU94SVFXYm1SbFduVERDUEVMMVkyczh5Y2ptNjVJOUIwUXlic194WFRBdnJ6U1BXWXZ3OFIzR3hsbWdUTmlxR3ZFa2lHc0xfRm5CN1d5WW16Vlk?oc=5",
    "ts": "Thu, 19 Nov 2026 12:00:04 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
+   "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
   },
   {
    "src": "gnews",
@@ -443,15 +443,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney and Xi Announce Canada-China Trade Pact - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
-   "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
    "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGdvSTN5MW55TWE0QVZ0cmd6bGZtOHJmc3pVcHEwM1RtOFFib1o0SXphNjd3cFk0Z3lGODRJaktMY0ZWeFFvenBxTWthQW5oWDQ2RjVoZzdoWW95M1pIVkNzLU1XR2RWZjFsYjNhN0hKZThmSTZwUXhWVmVfNklRZ2ppSE1lYUN4ak5TWENLWTVMUmYxTWlHeGhn?oc=5",
+   "ts": "Wed, 18 Nov 2026 11:29:11 GMT"
   },
   {
    "src": "gnews",

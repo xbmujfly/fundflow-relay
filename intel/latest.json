@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-19T04:31:02Z",
+ "ts": "2026-11-19T04:45:55Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -383,6 +383,12 @@
   },
   {
    "src": "gnews",
+   "title": "Tariff Repeal Options Would Have Very Different Price Effects - Tax Policy Center",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPODl2TjJzNVZqTkpCWVl5ZkV5VTlJTXVoTlhPRzR0SlVUZzZaTmxKeHZiNHJNNmQ4Z0hueGFzT0w2M3ZoaWowYkZkQnkzSGJKNGRKZmhpUzZWelZFTXpNeEhGOWt0WmZZdkw3MnlBNGNUZkx0Um51clBuZEU0a3dHdFNuQU1lNVBTaEpWM1NqRi10SzRyb0RnT09pLUU?oc=5",
+   "ts": "Wed, 18 Nov 2026 17:00:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump to project friendship with Xi as trade and tech rivalry deepens - The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdmxLXzBiaWJPaTUwdzJfbXZJMmxYM1o3T3lHNllPNFFoSnRJWFo3dVUtUmtUNWdDU0tmWGFWQjI0Z0lMUlJ3dDh2WEp3cHE4cTZPNTZxcnVhdE0xdDgwTC05S3Jrakp4Ymczckd4bldZb2k2WlhGa0hlOHVTNFNMN3A4eThtbEM5aDFLQVBndkdacE9sQTRTZ01Sd2c0Zw?oc=5",
    "ts": "Wed, 18 Nov 2026 19:19:39 GMT"
@@ -392,6 +398,12 @@
    "title": "China’s Xi pitches free trade at APEC amid Trump’s global trade disruptions - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRnNOaGl5M2hkclpyeEhyU3FobThUWkRqeTNNd2pBeEpWNjl3cXFOZW1mQWQ3ZnB0d0tXZUQyYzdfRjJfZUhzdHdVV3lyNDQxTmNPTklncVNMbHM0MFVnQ0Y1d0I1ZmJjUkEzc08zOFNTWkR0c3BSZjBCbTA2c1ZEWEdZbnlwT1U4Z2ZXMXI2WHpJdVI3V0pvYllJazlvbmk5OV9YZkxB0gGrAUFVX3lxTE91czVRci10REsyQ3o3Tmg1Rk11RUxKWG5DdmhxU0taN1NCamNVbGhLTndHMmU1X0xQRzlzSGFETHpKd2J0Q1JjSFpSZkdxMS1WSjBsbi1vQjhCSWRTMG16SVBwWTdabXhfdXV1YUxTYWFLUklsdmRuVTdxV1NiUG91ZEFvVkFQei1ZNUIxUFZoak5tNjNSMy1lVC1TeVB0UzRFcmlxWk5oelcwOA?oc=5",
    "ts": "Wed, 18 Nov 2026 08:26:51 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump set for economic showdown with Xi as unfulfilled promises leave billions hanging in balance - Fox News",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb0x0dE40ZHJ6U005dFNWVTM0eHhEeWFqS3dYbFg3VGV2OXVYbkFWQzk2RXhhZzZjRHVzZ0hTeU9rdE1FaS1Tb08xcnJacmJ0SENsRGs3WkN1OWVhTlpLaXpKaHV2QU9sZ2dneWFzYUktLVNScDM3UUx0bmdGdENTbkRMWnFuRS1GQUJueHpRbUJ1R2UwU3JNcEpfN2I0UWNvVEVTOUF0Wk1XZEJGd2MtUWZBS3lyd9IBuwFBVV95cUxQT1lBTEZTamFIVUhqYXlFVUdfQ1BLcmFvUUdGd0g3NjhRT1AxMzBoZmgyTW5WeU5jOWdWbGFneGJGZjlISXhncE9hemxsVmdmZFFmRVgxVEVRMEVBSV90SjF5UFJHazFCcWFmQjBEQ0tMeTUzdXZDdzJIYWo3cjg0NHNfWC1DS1RUNVAyZ3lSV1hSRnR2UlRMUUlWX3ZSckZncXhOUVF1a0h3a2xQc19NdnhHaW14aklCTmNJ?oc=5",
+   "ts": "Wed, 18 Nov 2026 11:00:16 GMT"
   },
   {
    "src": "gnews",
@@ -407,15 +419,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump set for economic showdown with Xi as unfulfilled promises leave billions hanging in balance - Fox News",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb0x0dE40ZHJ6U005dFNWVTM0eHhEeWFqS3dYbFg3VGV2OXVYbkFWQzk2RXhhZzZjRHVzZ0hTeU9rdE1FaS1Tb08xcnJacmJ0SENsRGs3WkN1OWVhTlpLaXpKaHV2QU9sZ2dneWFzYUktLVNScDM3UUx0bmdGdENTbkRMWnFuRS1GQUJueHpRbUJ1R2UwU3JNcEpfN2I0UWNvVEVTOUF0Wk1XZEJGd2MtUWZBS3lyd9IBuwFBVV95cUxQT1lBTEZTamFIVUhqYXlFVUdfQ1BLcmFvUUdGd0g3NjhRT1AxMzBoZmgyTW5WeU5jOWdWbGFneGJGZjlISXhncE9hemxsVmdmZFFmRVgxVEVRMEVBSV90SjF5UFJHazFCcWFmQjBEQ0tMeTUzdXZDdzJIYWo3cjg0NHNfWC1DS1RUNVAyZ3lSV1hSRnR2UlRMUUlWX3ZSckZncXhOUVF1a0h3a2xQc19NdnhHaW14aklCTmNJ?oc=5",
-   "ts": "Wed, 18 Nov 2026 11:00:16 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney meets with Trump at APEC, says Canada's trade with China isn't U.S. president's top concern - CBC",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jdlZFejNnM2FrbHNubTU5aVFUYm5ORmJLcmRKdnFSc2VuSGo2VkxGVUxyVEE5TXdINEg3ZVROTERla2R6NGpGd0plVW1QUFQ4REJHdmk2OF9BLTM4U20zZm15STgtS2UxV0tMTUxR?oc=5",
-   "ts": "Wed, 18 Nov 2026 17:23:00 GMT"
+   "title": "Xi, Putin Assail Trade Barriers Ahead of Summit With Trump - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZV9ZWUxMTFhwQXgwVjF2dEctYWZMNTM2YmRDSWtQM005QklCTkgyNF9NTG9YMTV4NHJYWWRBRXBMV20wNFZUOHAwdF9iaUpEYlh3N2hZaDFHWVoxNV8wWkVLYVJOVks0TmpQOGh1LW1Mc0tpSzZuaGl0VUNtR2RrMmhMYXBKYnNyR3BVeTdiQkw1SnNjd2xYR0JYUndnTDJ3aE1JaTZxNjd1aC1oVHZ3?oc=5",
+   "ts": "Wed, 18 Nov 2026 12:15:29 GMT"
   },
   {
    "src": "gnews",
@@ -437,27 +443,21 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Meets Philippine Leader Before Flying to China - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tNUQ3Um9LcHZ1UHlmVV9aN0xadkRYbjZuallvUnd6dk55TnlCajMydm0wWVVpVk5NZjlTUU90UnhhNUxwTE5JTVlXTVVBeVpSNTB1RW1BWk9SYi1ZaFVWWXpUWFFCZ1Zfem1xWkRkZDl5QQ?oc=5",
-   "ts": "Wed, 18 Nov 2026 16:55:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
    "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
   },
   {
    "src": "gnews",
-   "title": "Mark Carney Says Canada Will Not Back Down in Trade Talks With U.S. - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ21JWC0wRHNXdjRRbnozQThILUpMTnA4X2xOQWVFQnUzMDNHMXZWZUFfXzQtd00xcHp4LVg2TkdjRVRLV1BSS1BzN3lSQ0dKbUh5U3d5MlFDQkdEUG9LRVRqaENvSG9EZHpLVThnbFpBUnEwLVNZb0xZeWZfTDZfWHNBbV9iMWxIaEJTUDZn?oc=5",
-   "ts": "Wed, 18 Nov 2026 21:56:45 GMT"
+   "title": "Trump Meets Philippine Leader Before Flying to China - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tNUQ3Um9LcHZ1UHlmVV9aN0xadkRYbjZuallvUnd6dk55TnlCajMydm0wWVVpVk5NZjlTUU90UnhhNUxwTE5JTVlXTVVBeVpSNTB1RW1BWk9SYi1ZaFVWWXpUWFFCZ1Zfem1xWkRkZDl5QQ?oc=5",
+   "ts": "Wed, 18 Nov 2026 16:55:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Xi, Putin Assail Trade Barriers Ahead of Summit With Trump - Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZV9ZWUxMTFhwQXgwVjF2dEctYWZMNTM2YmRDSWtQM005QklCTkgyNF9NTG9YMTV4NHJYWWRBRXBMV20wNFZUOHAwdF9iaUpEYlh3N2hZaDFHWVoxNV8wWkVLYVJOVks0TmpQOGh1LW1Mc0tpSzZuaGl0VUNtR2RrMmhMYXBKYnNyR3BVeTdiQkw1SnNjd2xYR0JYUndnTDJ3aE1JaTZxNjd1aC1oVHZ3?oc=5",
-   "ts": "Wed, 18 Nov 2026 12:15:29 GMT"
+   "title": "U.S. and China trade relations face scrutiny amid Trump-Xi summit - Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jclY0WldFUjJ2V3dfN2hNR3Zhczg2QWFOekxRbzRzSWVKcFA0eXc0X195WTQ1cDQycktXbHhoVC1Hc0hZTU1SZzI5SkdvS2xGeGdSN1ZEZ2JhTUk?oc=5",
+   "ts": "Wed, 18 Nov 2026 22:09:07 GMT"
   }
  ]
 }

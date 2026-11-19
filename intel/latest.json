@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-19T09:45:56Z",
+ "ts": "2026-11-19T10:10:38Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -377,6 +377,12 @@
   },
   {
    "src": "gnews",
+   "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
+   "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Sheinbaum signals trade progress after Trump meeting in China - Courthouse News",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjBSLWQ2eks3QVVhZlU2elJycUMxZTFYNGFLbEd3c2x0NEcwX0tPWk41OFQ3RmZSSXNvaTB5akFFYllSd2ZGZ0c4bWJhekotSmlSQnJhSDhpZDZiNGsxM2hTREFlMEswREVkNC05WndjYk9Mc0NwTXNWMG5SVDZTOHVUeTBhbzhfT09IT0ZxYXlnc1JYVmZ3?oc=5",
    "ts": "Wed, 18 Nov 2026 19:20:08 GMT"
@@ -386,12 +392,6 @@
    "title": "Trump to project friendship with Xi as trade and tech rivalry deepens - The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdmxLXzBiaWJPaTUwdzJfbXZJMmxYM1o3T3lHNllPNFFoSnRJWFo3dVUtUmtUNWdDU0tmWGFWQjI0Z0lMUlJ3dDh2WEp3cHE4cTZPNTZxcnVhdE0xdDgwTC05S3Jrakp4Ymczckd4bldZb2k2WlhGa0hlOHVTNFNMN3A4eThtbEM5aDFLQVBndkdacE9sQTRTZ01Sd2c0Zw?oc=5",
    "ts": "Wed, 18 Nov 2026 19:19:39 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
-   "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
   },
   {
    "src": "gnews",
@@ -457,7 +457,7 @@
    "src": "gnews",
    "title": "Mark Carney Says Canada Will Not Back Down in Trade Talks With U.S. - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ21JWC0wRHNXdjRRbnozQThILUpMTnA4X2xOQWVFQnUzMDNHMXZWZUFfXzQtd00xcHp4LVg2TkdjRVRLV1BSS1BzN3lSQ0dKbUh5U3d5MlFDQkdEUG9LRVRqaENvSG9EZHpLVThnbFpBUnEwLVNZb0xZeWZfTDZfWHNBbV9iMWxIaEJTUDZn?oc=5",
-   "ts": "Wed, 18 Nov 2026 17:58:09 GMT"
+   "ts": "Wed, 18 Nov 2026 21:56:45 GMT"
   }
  ]
 }

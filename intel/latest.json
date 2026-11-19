@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-19T00:45:55Z",
+ "ts": "2026-11-19T01:01:02Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -36,7 +36,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "err": "URLError: <urlopen error timed out>"
   }
  },
  "items": [

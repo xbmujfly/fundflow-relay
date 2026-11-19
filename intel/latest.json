@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-19T00:15:55Z",
+ "ts": "2026-11-19T00:30:58Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -353,15 +353,15 @@
   },
   {
    "src": "gnews",
-   "title": "Sheinbaum signals trade progress after Trump meeting in China - Courthouse News Service",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjBSLWQ2eks3QVVhZlU2elJycUMxZTFYNGFLbEd3c2x0NEcwX0tPWk41OFQ3RmZSSXNvaTB5akFFYllSd2ZGZ0c4bWJhekotSmlSQnJhSDhpZDZiNGsxM2hTREFlMEswREVkNC05WndjYk9Mc0NwTXNWMG5SVDZTOHVUeTBhbzhfT09IT0ZxYXlnc1JYVmZ3?oc=5",
-   "ts": "Wed, 18 Nov 2026 19:20:08 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump lands in China for trade talks and high-stakes summit with Xi and Putin - PBS",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb0cyRko0OEN1RlRLT0VFTjBfeU1zZWllR193RFc3WVl4T2h1NmFJQjl4UEZJcWdKUmFuOWVXUTl1Qi1uaERobk1iZGpIR20ycjlNcl9lVDY3MzIxbmhJblA1ejlQOGE5Yi1iZUpZMkhEemo4RGFrMVIwSzJjMW5OY0RURDFrRWRUaFBweFZlS3BwWUg2WUhhWDY1Sno4QVV1eTU5cjRyT1VCZkZ5ZExvRQ?oc=5",
    "ts": "Wed, 18 Nov 2026 23:55:44 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Sheinbaum signals trade progress after Trump meeting in China - Courthouse News Service",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjBSLWQ2eks3QVVhZlU2elJycUMxZTFYNGFLbEd3c2x0NEcwX0tPWk41OFQ3RmZSSXNvaTB5akFFYllSd2ZGZ0c4bWJhekotSmlSQnJhSDhpZDZiNGsxM2hTREFlMEswREVkNC05WndjYk9Mc0NwTXNWMG5SVDZTOHVUeTBhbzhfT09IT0ZxYXlnc1JYVmZ3?oc=5",
+   "ts": "Wed, 18 Nov 2026 19:20:08 GMT"
   },
   {
    "src": "gnews",
@@ -413,27 +413,21 @@
   },
   {
    "src": "gnews",
-   "title": "U.S. and China trade relations face scrutiny amid Trump-Xi summit - Fox Business",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jclY0WldFUjJ2V3dfN2hNR3Zhczg2QWFOekxRbzRzSWVKcFA0eXc0X195WTQ1cDQycktXbHhoVC1Hc0hZTU1SZzI5SkdvS2xGeGdSN1ZEZ2JhTUk?oc=5",
-   "ts": "Wed, 18 Nov 2026 22:09:07 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney: Trump not concerned about growing Canada trade ties with China - The Hill",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT2RPVF9WX0RXT2ZiNktuX0xrVXJOVEFsQXJfLXIxdFVzSjRZZktYS0JsUC1TY2Q5WklHYjdVY19LUFpTbzZjQ2E4cURsWGQ1OTJfRnhHNVp3OG5tVUFib3ZBVXFtVGlnYWJTb3FSR3F3dlp4VUNJTEVvZUxSb3lTSUxlX0VnQdIBiwFBVV95cUxNcmNTTXd0TGtSeTRsZDMtOUtCMzRwQ1RicEd5S1FTVmZDblFJV3B3eHhSMmpZTDRyTW9NQXNzT052Yk1RcXVoWWFqODRNenZyZXNjNnhPaXBHN0NrMjI4SDFLcFRMeFQ4bURzT1N4VHAyeVViMDFGaUE3Q0taTzFteWZTTVRBZVktRVY0?oc=5",
    "ts": "Wed, 18 Nov 2026 19:19:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump Meets Philippine Leader Before Flying to China - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tNUQ3Um9LcHZ1UHlmVV9aN0xadkRYbjZuallvUnd6dk55TnlCajMydm0wWVVpVk5NZjlTUU90UnhhNUxwTE5JTVlXTVVBeVpSNTB1RW1BWk9SYi1ZaFVWWXpUWFFCZ1Zfem1xWkRkZDl5QQ?oc=5",
-   "ts": "Wed, 18 Nov 2026 16:55:00 GMT"
+   "title": "South Korea says China trade agreement to boost tourism, entertainment sectors - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
+   "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
   },
   {
    "src": "gnews",
-   "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
-   "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
+   "title": "Trump Meets Philippine Leader Before Flying to China - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tNUQ3Um9LcHZ1UHlmVV9aN0xadkRYbjZuallvUnd6dk55TnlCajMydm0wWVVpVk5NZjlTUU90UnhhNUxwTE5JTVlXTVVBeVpSNTB1RW1BWk9SYi1ZaFVWWXpUWFFCZ1Zfem1xWkRkZDl5QQ?oc=5",
+   "ts": "Wed, 18 Nov 2026 16:55:00 GMT"
   },
   {
    "src": "gnews",
@@ -449,15 +443,21 @@
   },
   {
    "src": "gnews",
-   "title": "Breakingviews - COMMENTARY: Chip curbs threaten US-China trade truce - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX0NhQU5GdEJ3aUxWWTFkbm94YXJXWTRmdkltaU9WLWVHQ2tLNVZVb0VuWnZBSnlhM2RUY1dFSlVyT0k2akttcnQ0bWthTUxQdENXNUtFQ0ZIcjNRdTM1Mkp3SXBMRTV0dThvWm15TDQ0QVBRWVpMbHR2bWJZcGFRQjNtODNpV3FVdlhCZGszcm4wU1gzbk0xU2FMOG9ST0lNSEp3?oc=5",
-   "ts": "Wed, 18 Nov 2026 04:08:00 GMT"
+   "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
+   "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
   },
   {
    "src": "gnews",
    "title": "Mark Carney Says Canada Will Not Back Down in Trade Talks With U.S. - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ21JWC0wRHNXdjRRbnozQThILUpMTnA4X2xOQWVFQnUzMDNHMXZWZUFfXzQtd00xcHp4LVg2TkdjRVRLV1BSS1BzN3lSQ0dKbUh5U3d5MlFDQkdEUG9LRVRqaENvSG9EZHpLVThnbFpBUnEwLVNZb0xZeWZfTDZfWHNBbV9iMWxIaEJTUDZn?oc=5",
    "ts": "Wed, 18 Nov 2026 21:56:45 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Breakingviews - COMMENTARY: Chip curbs threaten US-China trade truce - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX0NhQU5GdEJ3aUxWWTFkbm94YXJXWTRmdkltaU9WLWVHQ2tLNVZVb0VuWnZBSnlhM2RUY1dFSlVyT0k2akttcnQ0bWthTUxQdENXNUtFQ0ZIcjNRdTM1Mkp3SXBMRTV0dThvWm15TDQ0QVBRWVpMbHR2bWJZcGFRQjNtODNpV3FVdlhCZGszcm4wU1gzbk0xU2FMOG9ST0lNSEp3?oc=5",
+   "ts": "Wed, 18 Nov 2026 04:08:00 GMT"
   }
  ]
 }

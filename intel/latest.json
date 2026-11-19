@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-19T08:15:55Z",
+ "ts": "2026-11-19T08:31:00Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -353,27 +353,21 @@
   },
   {
    "src": "gnews",
-   "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
-   "ts": "Tue, 17 Nov 2026 23:01:15 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump touts ‘landmark’ trade deal with Philippines - The Hill",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzFEUGtzd041Uk54NWVjS2tJekhLelB0bC1VeUJBZmZ0VjAwQW1kQm01LVFBNEw1aC1kY2RmZ2lMN3N1UHBoejVPT09rTDZYd3NFSmJFUlRMQ2ZSVjR5bC15ZXR1NUZibC1PRmVUWnhzZjlHVWwxcVNyS3JCcGZkWGpKLTl6dknSAYwBQVVfeXFMTkZrZVhlVzFtUm1hT0dzRFRzQ0g1YzVkUUxlR0FrNnpHRHpfbUtHWmlhWVpkMC1UQm9HYU9TbE9VVENQMDB0Y1IyS1o2QlNyeEdNeXBFOGExcV9BNUpTbUJSU1p6Yy02YjJYVUI2WW9zMmh5WFVuQXJRMXU1ei1IaHN1M2RieFd2UFFIN0k?oc=5",
    "ts": "Wed, 18 Nov 2026 13:07:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGdvSTN5MW55TWE0QVZ0cmd6bGZtOHJmc3pVcHEwM1RtOFFib1o0SXphNjd3cFk0Z3lGODRJaktMY0ZWeFFvenBxTWthQW5oWDQ2RjVoZzdoWW95M1pIVkNzLU1XR2RWZjFsYjNhN0hKZThmSTZwUXhWVmVfNklRZ2ppSE1lYUN4ak5TWENLWTVMUmYxTWlHeGhn?oc=5",
-   "ts": "Wed, 18 Nov 2026 11:29:11 GMT"
+   "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
+   "ts": "Tue, 17 Nov 2026 23:01:15 GMT"
   },
   {
    "src": "gnews",
-   "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
-   "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
+   "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGdvSTN5MW55TWE0QVZ0cmd6bGZtOHJmc3pVcHEwM1RtOFFib1o0SXphNjd3cFk0Z3lGODRJaktMY0ZWeFFvenBxTWthQW5oWDQ2RjVoZzdoWW95M1pIVkNzLU1XR2RWZjFsYjNhN0hKZThmSTZwUXhWVmVfNklRZ2ppSE1lYUN4ak5TWENLWTVMUmYxTWlHeGhn?oc=5",
+   "ts": "Wed, 18 Nov 2026 11:29:11 GMT"
   },
   {
    "src": "gnews",
@@ -389,15 +383,15 @@
   },
   {
    "src": "gnews",
-   "title": "Tariff Repeal Options Would Have Very Different Price Effects - Tax Policy Center",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPODl2TjJzNVZqTkpCWVl5ZkV5VTlJTXVoTlhPRzR0SlVUZzZaTmxKeHZiNHJNNmQ4Z0hueGFzT0w2M3ZoaWowYkZkQnkzSGJKNGRKZmhpUzZWelZFTXpNeEhGOWt0WmZZdkw3MnlBNGNUZkx0Um51clBuZEU0a3dHdFNuQU1lNVBTaEpWM1NqRi10SzRyb0RnT09pLUU?oc=5",
-   "ts": "Wed, 18 Nov 2026 17:00:00 GMT"
+   "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
+   "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Soybeans and trade wars: Is China getting better at sourcing non-US soybeans? - Michigan Farm News",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaFo4MnM3VF9md0JoVFBXU0pqVDZpWVVueW02TXEydThIT1U5dTFlbnRReHNzc3ZUdHgzZVFhN2U2SXcwRlRLNV9XVDFLTTg1OXZHUktSUUhaYkxBR1pUVHdIempmNkstUVRRTGpZQUtOSnhNUmUwOEJuYmlwTkg4bUJTRmhOTjY2XzZlbHJ2NTRhSzBZV3diZEtCZFQ0N2JmaHRSTjhHRHBPUWVUZlR3MmVHdERuaU9OenAw?oc=5",
-   "ts": "Wed, 18 Nov 2026 18:54:33 GMT"
+   "title": "Tariff Repeal Options Would Have Very Different Price Effects - Tax Policy Center",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPODl2TjJzNVZqTkpCWVl5ZkV5VTlJTXVoTlhPRzR0SlVUZzZaTmxKeHZiNHJNNmQ4Z0hueGFzT0w2M3ZoaWowYkZkQnkzSGJKNGRKZmhpUzZWelZFTXpNeEhGOWt0WmZZdkw3MnlBNGNUZkx0Um51clBuZEU0a3dHdFNuQU1lNVBTaEpWM1NqRi10SzRyb0RnT09pLUU?oc=5",
+   "ts": "Wed, 18 Nov 2026 17:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -407,9 +401,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump set for economic showdown with Xi as unfulfilled promises leave billions hanging in balance - Fox News",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb0x0dE40ZHJ6U005dFNWVTM0eHhEeWFqS3dYbFg3VGV2OXVYbkFWQzk2RXhhZzZjRHVzZ0hTeU9rdE1FaS1Tb08xcnJacmJ0SENsRGs3WkN1OWVhTlpLaXpKaHV2QU9sZ2dneWFzYUktLVNScDM3UUx0bmdGdENTbkRMWnFuRS1GQUJueHpRbUJ1R2UwU3JNcEpfN2I0UWNvVEVTOUF0Wk1XZEJGd2MtUWZBS3lyd9IBuwFBVV95cUxQT1lBTEZTamFIVUhqYXlFVUdfQ1BLcmFvUUdGd0g3NjhRT1AxMzBoZmgyTW5WeU5jOWdWbGFneGJGZjlISXhncE9hemxsVmdmZFFmRVgxVEVRMEVBSV90SjF5UFJHazFCcWFmQjBEQ0tMeTUzdXZDdzJIYWo3cjg0NHNfWC1DS1RUNVAyZ3lSV1hSRnR2UlRMUUlWX3ZSckZncXhOUVF1a0h3a2xQc19NdnhHaW14aklCTmNJ?oc=5",
-   "ts": "Wed, 18 Nov 2026 11:00:16 GMT"
+   "title": "Soybeans and trade wars: Is China getting better at sourcing non-US soybeans? - Michigan Farm News",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaFo4MnM3VF9md0JoVFBXU0pqVDZpWVVueW02TXEydThIT1U5dTFlbnRReHNzc3ZUdHgzZVFhN2U2SXcwRlRLNV9XVDFLTTg1OXZHUktSUUhaYkxBR1pUVHdIempmNkstUVRRTGpZQUtOSnhNUmUwOEJuYmlwTkg4bUJTRmhOTjY2XzZlbHJ2NTRhSzBZV3diZEtCZFQ0N2JmaHRSTjhHRHBPUWVUZlR3MmVHdERuaU9OenAw?oc=5",
+   "ts": "Wed, 18 Nov 2026 18:54:33 GMT"
   },
   {
    "src": "gnews",
@@ -419,21 +413,21 @@
   },
   {
    "src": "gnews",
+   "title": "Trump set for economic showdown with Xi as unfulfilled promises leave billions hanging in balance - Fox News",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb0x0dE40ZHJ6U005dFNWVTM0eHhEeWFqS3dYbFg3VGV2OXVYbkFWQzk2RXhhZzZjRHVzZ0hTeU9rdE1FaS1Tb08xcnJacmJ0SENsRGs3WkN1OWVhTlpLaXpKaHV2QU9sZ2dneWFzYUktLVNScDM3UUx0bmdGdENTbkRMWnFuRS1GQUJueHpRbUJ1R2UwU3JNcEpfN2I0UWNvVEVTOUF0Wk1XZEJGd2MtUWZBS3lyd9IBuwFBVV95cUxQT1lBTEZTamFIVUhqYXlFVUdfQ1BLcmFvUUdGd0g3NjhRT1AxMzBoZmgyTW5WeU5jOWdWbGFneGJGZjlISXhncE9hemxsVmdmZFFmRVgxVEVRMEVBSV90SjF5UFJHazFCcWFmQjBEQ0tMeTUzdXZDdzJIYWo3cjg0NHNfWC1DS1RUNVAyZ3lSV1hSRnR2UlRMUUlWX3ZSckZncXhOUVF1a0h3a2xQc19NdnhHaW14aklCTmNJ?oc=5",
+   "ts": "Wed, 18 Nov 2026 11:00:16 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s Xi pitches free trade at APEC amid Trump’s global trade disruptions - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRnNOaGl5M2hkclpyeEhyU3FobThUWkRqeTNNd2pBeEpWNjl3cXFOZW1mQWQ3ZnB0d0tXZUQyYzdfRjJfZUhzdHdVV3lyNDQxTmNPTklncVNMbHM0MFVnQ0Y1d0I1ZmJjUkEzc08zOFNTWkR0c3BSZjBCbTA2c1ZEWEdZbnlwT1U4Z2ZXMXI2WHpJdVI3V0pvYllJazlvbmk5OV9YZkxB0gGrAUFVX3lxTE91czVRci10REsyQ3o3Tmg1Rk11RUxKWG5DdmhxU0taN1NCamNVbGhLTndHMmU1X0xQRzlzSGFETHpKd2J0Q1JjSFpSZkdxMS1WSjBsbi1vQjhCSWRTMG16SVBwWTdabXhfdXV1YUxTYWFLUklsdmRuVTdxV1NiUG91ZEFvVkFQei1ZNUIxUFZoak5tNjNSMy1lVC1TeVB0UzRFcmlxWk5oelcwOA?oc=5",
+   "ts": "Wed, 18 Nov 2026 08:26:51 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Carney and Xi Announce Canada-China Trade Pact - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
    "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Why China's EVs could throw a wrench into EU, UK trade talks - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
-   "ts": "Thu, 19 Nov 2026 07:03:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney: Trump not concerned about growing Canada trade ties with China - The Hill",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT2RPVF9WX0RXT2ZiNktuX0xrVXJOVEFsQXJfLXIxdFVzSjRZZktYS0JsUC1TY2Q5WklHYjdVY19LUFpTbzZjQ2E4cURsWGQ1OTJfRnhHNVp3OG5tVUFib3ZBVXFtVGlnYWJTb3FSR3F3dlp4VUNJTEVvZUxSb3lTSUxlX0VnQdIBiwFBVV95cUxNcmNTTXd0TGtSeTRsZDMtOUtCMzRwQ1RicEd5S1FTVmZDblFJV3B3eHhSMmpZTDRyTW9NQXNzT052Yk1RcXVoWWFqODRNenZyZXNjNnhPaXBHN0NrMjI4SDFLcFRMeFQ4bURzT1N4VHAyeVViMDFGaUE3Q0taTzFteWZTTVRBZVktRVY0?oc=5",
-   "ts": "Wed, 18 Nov 2026 19:19:00 GMT"
   },
   {
    "src": "gnews",
@@ -443,15 +437,21 @@
   },
   {
    "src": "gnews",
+   "title": "Carney: Trump not concerned about growing Canada trade ties with China - The Hill",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT2RPVF9WX0RXT2ZiNktuX0xrVXJOVEFsQXJfLXIxdFVzSjRZZktYS0JsUC1TY2Q5WklHYjdVY19LUFpTbzZjQ2E4cURsWGQ1OTJfRnhHNVp3OG5tVUFib3ZBVXFtVGlnYWJTb3FSR3F3dlp4VUNJTEVvZUxSb3lTSUxlX0VnQdIBiwFBVV95cUxNcmNTTXd0TGtSeTRsZDMtOUtCMzRwQ1RicEd5S1FTVmZDblFJV3B3eHhSMmpZTDRyTW9NQXNzT052Yk1RcXVoWWFqODRNenZyZXNjNnhPaXBHN0NrMjI4SDFLcFRMeFQ4bURzT1N4VHAyeVViMDFGaUE3Q0taTzFteWZTTVRBZVktRVY0?oc=5",
+   "ts": "Wed, 18 Nov 2026 19:19:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "South Korea says China trade agreement to boost tourism, entertainment sectors - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
    "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
   },
   {
    "src": "gnews",
-   "title": "China’s Xi pitches free trade at APEC amid Trump’s global trade disruptions - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRnNOaGl5M2hkclpyeEhyU3FobThUWkRqeTNNd2pBeEpWNjl3cXFOZW1mQWQ3ZnB0d0tXZUQyYzdfRjJfZUhzdHdVV3lyNDQxTmNPTklncVNMbHM0MFVnQ0Y1d0I1ZmJjUkEzc08zOFNTWkR0c3BSZjBCbTA2c1ZEWEdZbnlwT1U4Z2ZXMXI2WHpJdVI3V0pvYllJazlvbmk5OV9YZkxB0gGrAUFVX3lxTE91czVRci10REsyQ3o3Tmg1Rk11RUxKWG5DdmhxU0taN1NCamNVbGhLTndHMmU1X0xQRzlzSGFETHpKd2J0Q1JjSFpSZkdxMS1WSjBsbi1vQjhCSWRTMG16SVBwWTdabXhfdXV1YUxTYWFLUklsdmRuVTdxV1NiUG91ZEFvVkFQei1ZNUIxUFZoak5tNjNSMy1lVC1TeVB0UzRFcmlxWk5oelcwOA?oc=5",
-   "ts": "Wed, 18 Nov 2026 08:26:51 GMT"
+   "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kN1VQeHRmSWJFQ2NzTW9IS1hUczJuM0Fqa01jMW1ZRkwxT2JVV2xLbllJRVBoc1gtQklCT2FRNVpNWElEeFpneDlaTDdHOVhsZGtHRXZJSEUyQjE1OUpFY2FvbDFKbk15OFdaZFI4ZjRSN3laTkFRQ3BLQdIBgAFBVV95cUxOeUtIeUtSU29VbDRRbWlQclJXOW5jVmNpbW8zYlFNbmRhem8yN1lDWU5adEhraFlXUjFCZlZDeEExUVJaRG9WZGl4bTlNUEw3Y2xvemg4V2RvZmsxREZFNWNGXzE4Z3VIUGNEeWducjZaSkpGYUxpbXNsekdIeW9jUw?oc=5",
+   "ts": "Wed, 18 Nov 2026 02:23:00 GMT"
   },
   {
    "src": "gnews",

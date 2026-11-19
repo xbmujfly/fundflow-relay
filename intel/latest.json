@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-19T09:15:55Z",
+ "ts": "2026-11-19T09:31:12Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,6 +341,12 @@
   },
   {
    "src": "gnews",
+   "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGdvSTN5MW55TWE0QVZ0cmd6bGZtOHJmc3pVcHEwM1RtOFFib1o0SXphNjd3cFk0Z3lGODRJaktMY0ZWeFFvenBxTWthQW5oWDQ2RjVoZzdoWW95M1pIVkNzLU1XR2RWZjFsYjNhN0hKZThmSTZwUXhWVmVfNklRZ2ppSE1lYUN4ak5TWENLWTVMUmYxTWlHeGhn?oc=5",
+   "ts": "Thu, 19 Nov 2026 03:58:57 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal - CNBC",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa1JwdmY0aEYyNHRwSEJ2UVI3a0RBd0NnTDdLbnZxN3o2SlZfRHJHS0dkWURKczBRczZ2dXdfX1FrQi05Q0FzNi1FTVEwQ2tiYnpyTHc3M1VSVjk3elEyb3Q1MlhNWldyUmZNQ0ZfLS1OdmJ5c3d5OUtwc2REajJGY2ZlcGnSAYoBQVVfeXFMTWlMMENRZ1hNNVlfcWZkcktZTWJ4TjdYRzBfRlQxWDIwUmdKNndBZmhGaVM0RkY4V01Ud2RneG93bTcxTk9FYmlMdVU4cUx6UV90VU5uR1l5MVR6THhqRTlhWFdPRGlBTjM4UlBVaWFaSHhvVkJYMm1LLVJQWEpGZEcxNG0ybGhzSnRn?oc=5",
    "ts": "Thu, 19 Nov 2026 02:54:00 GMT"
@@ -365,15 +371,9 @@
   },
   {
    "src": "gnews",
-   "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGdvSTN5MW55TWE0QVZ0cmd6bGZtOHJmc3pVcHEwM1RtOFFib1o0SXphNjd3cFk0Z3lGODRJaktMY0ZWeFFvenBxTWthQW5oWDQ2RjVoZzdoWW95M1pIVkNzLU1XR2RWZjFsYjNhN0hKZThmSTZwUXhWVmVfNklRZ2ppSE1lYUN4ak5TWENLWTVMUmYxTWlHeGhn?oc=5",
-   "ts": "Wed, 18 Nov 2026 11:29:11 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Sheinbaum signals trade progress after Trump meeting in China - Courthouse News",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjBSLWQ2eks3QVVhZlU2elJycUMxZTFYNGFLbEd3c2x0NEcwX0tPWk41OFQ3RmZSSXNvaTB5akFFYllSd2ZGZ0c4bWJhekotSmlSQnJhSDhpZDZiNGsxM2hTREFlMEswREVkNC05WndjYk9Mc0NwTXNWMG5SVDZTOHVUeTBhbzhfT09IT0ZxYXlnc1JYVmZ3?oc=5",
-   "ts": "Wed, 18 Nov 2026 19:20:08 GMT"
+   "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
+   "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
   },
   {
    "src": "gnews",
@@ -383,15 +383,9 @@
   },
   {
    "src": "gnews",
-   "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
-   "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Tariff Repeal Options Would Have Very Different Price Effects - Tax Policy Center",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPODl2TjJzNVZqTkpCWVl5ZkV5VTlJTXVoTlhPRzR0SlVUZzZaTmxKeHZiNHJNNmQ4Z0hueGFzT0w2M3ZoaWowYkZkQnkzSGJKNGRKZmhpUzZWelZFTXpNeEhGOWt0WmZZdkw3MnlBNGNUZkx0Um51clBuZEU0a3dHdFNuQU1lNVBTaEpWM1NqRi10SzRyb0RnT09pLUU?oc=5",
-   "ts": "Wed, 18 Nov 2026 17:00:00 GMT"
+   "title": "Sheinbaum signals trade progress after Trump meeting in China - Courthouse News",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjBSLWQ2eks3QVVhZlU2elJycUMxZTFYNGFLbEd3c2x0NEcwX0tPWk41OFQ3RmZSSXNvaTB5akFFYllSd2ZGZ0c4bWJhekotSmlSQnJhSDhpZDZiNGsxM2hTREFlMEswREVkNC05WndjYk9Mc0NwTXNWMG5SVDZTOHVUeTBhbzhfT09IT0ZxYXlnc1JYVmZ3?oc=5",
+   "ts": "Wed, 18 Nov 2026 19:20:08 GMT"
   },
   {
    "src": "gnews",
@@ -413,9 +407,27 @@
   },
   {
    "src": "gnews",
+   "title": "Tariff Repeal Options Would Have Very Different Price Effects - Tax Policy Center",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPODl2TjJzNVZqTkpCWVl5ZkV5VTlJTXVoTlhPRzR0SlVUZzZaTmxKeHZiNHJNNmQ4Z0hueGFzT0w2M3ZoaWowYkZkQnkzSGJKNGRKZmhpUzZWelZFTXpNeEhGOWt0WmZZdkw3MnlBNGNUZkx0Um51clBuZEU0a3dHdFNuQU1lNVBTaEpWM1NqRi10SzRyb0RnT09pLUU?oc=5",
+   "ts": "Wed, 18 Nov 2026 17:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney meets with Trump at APEC, says Canada's trade with China isn't U.S. president's top concern - CBC",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jdlZFejNnM2FrbHNubTU5aVFUYm5ORmJLcmRKdnFSc2VuSGo2VkxGVUxyVEE5TXdINEg3ZVROTERla2R6NGpGd0plVW1QUFQ4REJHdmk2OF9BLTM4U20zZm15STgtS2UxV0tMTUxR?oc=5",
+   "ts": "Wed, 18 Nov 2026 17:23:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China’s Xi pitches free trade at APEC amid Trump’s global trade disruptions - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRnNOaGl5M2hkclpyeEhyU3FobThUWkRqeTNNd2pBeEpWNjl3cXFOZW1mQWQ3ZnB0d0tXZUQyYzdfRjJfZUhzdHdVV3lyNDQxTmNPTklncVNMbHM0MFVnQ0Y1d0I1ZmJjUkEzc08zOFNTWkR0c3BSZjBCbTA2c1ZEWEdZbnlwT1U4Z2ZXMXI2WHpJdVI3V0pvYllJazlvbmk5OV9YZkxB0gGrAUFVX3lxTE91czVRci10REsyQ3o3Tmg1Rk11RUxKWG5DdmhxU0taN1NCamNVbGhLTndHMmU1X0xQRzlzSGFETHpKd2J0Q1JjSFpSZkdxMS1WSjBsbi1vQjhCSWRTMG16SVBwWTdabXhfdXV1YUxTYWFLUklsdmRuVTdxV1NiUG91ZEFvVkFQei1ZNUIxUFZoak5tNjNSMy1lVC1TeVB0UzRFcmlxWk5oelcwOA?oc=5",
    "ts": "Wed, 18 Nov 2026 08:26:51 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "U.S. and China trade relations face scrutiny amid Trump-Xi summit - Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jclY0WldFUjJ2V3dfN2hNR3Zhczg2QWFOekxRbzRzSWVKcFA0eXc0X195WTQ1cDQycktXbHhoVC1Hc0hZTU1SZzI5SkdvS2xGeGdSN1ZEZ2JhTUk?oc=5",
+   "ts": "Wed, 18 Nov 2026 22:09:07 GMT"
   },
   {
    "src": "gnews",
@@ -437,27 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kN1VQeHRmSWJFQ2NzTW9IS1hUczJuM0Fqa01jMW1ZRkwxT2JVV2xLbllJRVBoc1gtQklCT2FRNVpNWElEeFpneDlaTDdHOVhsZGtHRXZJSEUyQjE1OUpFY2FvbDFKbk15OFdaZFI4ZjRSN3laTkFRQ3BLQdIBgAFBVV95cUxOeUtIeUtSU29VbDRRbWlQclJXOW5jVmNpbW8zYlFNbmRhem8yN1lDWU5adEhraFlXUjFCZlZDeEExUVJaRG9WZGl4bTlNUEw3Y2xvemg4V2RvZmsxREZFNWNGXzE4Z3VIUGNEeWducjZaSkpGYUxpbXNsekdIeW9jUw?oc=5",
-   "ts": "Wed, 18 Nov 2026 02:23:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "South Korea says China trade agreement to boost tourism, entertainment sectors - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
    "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
   },
   {
    "src": "gnews",
-   "title": "Mark Carney Says Canada Will Not Back Down in Trade Talks With U.S. - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ21JWC0wRHNXdjRRbnozQThILUpMTnA4X2xOQWVFQnUzMDNHMXZWZUFfXzQtd00xcHp4LVg2TkdjRVRLV1BSS1BzN3lSQ0dKbUh5U3d5MlFDQkdEUG9LRVRqaENvSG9EZHpLVThnbFpBUnEwLVNZb0xZeWZfTDZfWHNBbV9iMWxIaEJTUDZn?oc=5",
-   "ts": "Wed, 18 Nov 2026 17:58:09 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney meets with Trump at APEC, says Canada's trade with China isn't U.S. president's top concern - CBC",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jdlZFejNnM2FrbHNubTU5aVFUYm5ORmJLcmRKdnFSc2VuSGo2VkxGVUxyVEE5TXdINEg3ZVROTERla2R6NGpGd0plVW1QUFQ4REJHdmk2OF9BLTM4U20zZm15STgtS2UxV0tMTUxR?oc=5",
-   "ts": "Wed, 18 Nov 2026 17:23:00 GMT"
+   "title": "Breakingviews - COMMENTARY: Chip curbs threaten US-China trade truce - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX0NhQU5GdEJ3aUxWWTFkbm94YXJXWTRmdkltaU9WLWVHQ2tLNVZVb0VuWnZBSnlhM2RUY1dFSlVyT0k2akttcnQ0bWthTUxQdENXNUtFQ0ZIcjNRdTM1Mkp3SXBMRTV0dThvWm15TDQ0QVBRWVpMbHR2bWJZcGFRQjNtODNpV3FVdlhCZGszcm4wU1gzbk0xU2FMOG9ST0lNSEp3?oc=5",
+   "ts": "Wed, 18 Nov 2026 04:08:00 GMT"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-19T12:15:25Z",
+ "ts": "2026-11-19T12:30:27Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,15 +341,9 @@
   },
   {
    "src": "gnews",
-   "title": "Canada and China Draw Closer with Expanded Trade Pact - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmRUVkxHN0s2YlBRdWN1TElodk1UaVlzcG5ETFM2OS1HRlFIMUdWd1ZaYm9JYkNzUXZHc2N1d2xGVV95U19BWWpIejRXWWRBaUZPTHNCaF9DSm9faWdSWmVSVXdWY3hwNG1meUtkLUpCSjU2OTNsVVJ4ZUVpd05oZnZfTEpOcHZ6UGFkRlRWMWZnZw?oc=5",
-   "ts": "Thu, 19 Nov 2026 10:48:38 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGdvSTN5MW55TWE0QVZ0cmd6bGZtOHJmc3pVcHEwM1RtOFFib1o0SXphNjd3cFk0Z3lGODRJaktMY0ZWeFFvenBxTWthQW5oWDQ2RjVoZzdoWW95M1pIVkNzLU1XR2RWZjFsYjNhN0hKZThmSTZwUXhWVmVfNklRZ2ppSE1lYUN4ak5TWENLWTVMUmYxTWlHeGhn?oc=5",
-   "ts": "Thu, 19 Nov 2026 03:58:57 GMT"
+   "title": "The bill for Trump’s trade war is coming due—at home and abroad - Fortune",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LVldTODA1VnhXU3N6SlR3SEhVX21UaEd6WDZQLW5zdDdybXJXTThQM04wcElBaXhIUDR5dFpqUkF6MVZLN2VyNFVWV2F3UTJjT3UwZE1yc3ZvZFlQQkxmem5UX2FIR096ZTBOOVVxWVU1QQ?oc=5",
+   "ts": "Thu, 19 Nov 2026 10:56:00 GMT"
   },
   {
    "src": "gnews",
@@ -371,9 +365,15 @@
   },
   {
    "src": "gnews",
-   "title": "The bill for Trump’s trade war is coming due—at home and abroad - Fortune",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LVldTODA1VnhXU3N6SlR3SEhVX21UaEd6WDZQLW5zdDdybXJXTThQM04wcElBaXhIUDR5dFpqUkF6MVZLN2VyNFVWV2F3UTJjT3UwZE1yc3ZvZFlQQkxmem5UX2FIR096ZTBOOVVxWVU1QQ?oc=5",
-   "ts": "Thu, 19 Nov 2026 10:56:00 GMT"
+   "title": "Carney and Xi Announce Canada-China Trade Pact - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
+   "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "The Trump-Xi shadow over emerging-market interest rates - ODI: Think change",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMDJYa1RnaG5xTHZqRDFJemtlV0dadS1TT1JLY002NEpkanpzbnYwamp2RWZDdE1idncxbWRrSVdZYmVDWlRLZVpONklyak9xZWZYb2gtS0JYZXZQeUNuaWtTdExkVF9nOHEzR2hnazk4aHdXS1NQdmtEbHRhcWVfMTZ0bFM4ZDBjTldwTg?oc=5",
+   "ts": "Thu, 19 Nov 2026 11:43:43 GMT"
   },
   {
    "src": "gnews",
@@ -383,9 +383,9 @@
   },
   {
    "src": "gnews",
-   "title": "The Trump-Xi shadow over emerging-market interest rates - ODI: Think change",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMDJYa1RnaG5xTHZqRDFJemtlV0dadS1TT1JLY002NEpkanpzbnYwamp2RWZDdE1idncxbWRrSVdZYmVDWlRLZVpONklyak9xZWZYb2gtS0JYZXZQeUNuaWtTdExkVF9nOHEzR2hnazk4aHdXS1NQdmtEbHRhcWVfMTZ0bFM4ZDBjTldwTg?oc=5",
-   "ts": "Thu, 19 Nov 2026 11:43:43 GMT"
+   "title": "Canada and China Draw Closer with Expanded Trade Pact - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmRUVkxHN0s2YlBRdWN1TElodk1UaVlzcG5ETFM2OS1HRlFIMUdWd1ZaYm9JYkNzUXZHc2N1d2xGVV95U19BWWpIejRXWWRBaUZPTHNCaF9DSm9faWdSWmVSVXdWY3hwNG1meUtkLUpCSjU2OTNsVVJ4ZUVpd05oZnZfTEpOcHZ6UGFkRlRWMWZnZw?oc=5",
+   "ts": "Tue, 17 Nov 2026 21:08:00 GMT"
   },
   {
    "src": "gnews",
@@ -407,6 +407,12 @@
   },
   {
    "src": "gnews",
+   "title": "Trump’s meeting with Xi and Putin could shape trade, global security - NewsNation",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53cjM2Y1NiQ1l3YkppNXhCMldKbENVR2RfTGZGLWl6S3ZrSU9KYXhzVDhoT0JxZGxwMDNmMFVOT2NPQ1hobVZaUHpJQlpuR3h3eE1HS0Fob2JURUhZTmdyR0ZUcldRV080TVdKRnhzX3RKMDhXM2lpNEJTWEpsaknSAYQBQVVfeXFMTnh4Uy1IZVMwVUJkVkNWMkxuR2VsNXRCVDRSSnpveHhTWlBjdXVYSkdMeTl4S1JhRUs0SjVBWWM2VXF0QmJ2cW85TW96b2I0UnhkTGl4Tkd1dDRwdFlNdmZOM0tGTEZrNGxlR3pzMTIxY0tlcEFVdnpMZ25TQ2hlVGoxOU9z?oc=5",
+   "ts": "Thu, 19 Nov 2026 10:52:53 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
    "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
@@ -419,21 +425,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump’s meeting with Xi and Putin could shape trade, global security - NewsNation",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53cjM2Y1NiQ1l3YkppNXhCMldKbENVR2RfTGZGLWl6S3ZrSU9KYXhzVDhoT0JxZGxwMDNmMFVOT2NPQ1hobVZaUHpJQlpuR3h3eE1HS0Fob2JURUhZTmdyR0ZUcldRV080TVdKRnhzX3RKMDhXM2lpNEJTWEpsaknSAYQBQVVfeXFMTnh4Uy1IZVMwVUJkVkNWMkxuR2VsNXRCVDRSSnpveHhTWlBjdXVYSkdMeTl4S1JhRUs0SjVBWWM2VXF0QmJ2cW85TW96b2I0UnhkTGl4Tkd1dDRwdFlNdmZOM0tGTEZrNGxlR3pzMTIxY0tlcEFVdnpMZ25TQ2hlVGoxOU9z?oc=5",
-   "ts": "Thu, 19 Nov 2026 10:52:53 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Soybeans and trade wars: Is China getting better at sourcing non-US soybeans? - Michigan Farm News",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaFo4MnM3VF9md0JoVFBXU0pqVDZpWVVueW02TXEydThIT1U5dTFlbnRReHNzc3ZUdHgzZVFhN2U2SXcwRlRLNV9XVDFLTTg1OXZHUktSUUhaYkxBR1pUVHdIempmNkstUVRRTGpZQUtOSnhNUmUwOEJuYmlwTkg4bUJTRmhOTjY2XzZlbHJ2NTRhSzBZV3diZEtCZFQ0N2JmaHRSTjhHRHBPUWVUZlR3MmVHdERuaU9OenAw?oc=5",
    "ts": "Wed, 18 Nov 2026 18:54:33 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney and Xi Announce Canada-China Trade Pact - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
-   "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
   },
   {
    "src": "gnews",
@@ -446,6 +440,12 @@
    "title": "Carney: Trump not concerned about growing Canada trade ties with China - The Hill",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT2RPVF9WX0RXT2ZiNktuX0xrVXJOVEFsQXJfLXIxdFVzSjRZZktYS0JsUC1TY2Q5WklHYjdVY19LUFpTbzZjQ2E4cURsWGQ1OTJfRnhHNVp3OG5tVUFib3ZBVXFtVGlnYWJTb3FSR3F3dlp4VUNJTEVvZUxSb3lTSUxlX0VnQdIBiwFBVV95cUxNcmNTTXd0TGtSeTRsZDMtOUtCMzRwQ1RicEd5S1FTVmZDblFJV3B3eHhSMmpZTDRyTW9NQXNzT052Yk1RcXVoWWFqODRNenZyZXNjNnhPaXBHN0NrMjI4SDFLcFRMeFQ4bURzT1N4VHAyeVViMDFGaUE3Q0taTzFteWZTTVRBZVktRVY0?oc=5",
    "ts": "Wed, 18 Nov 2026 19:19:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGdvSTN5MW55TWE0QVZ0cmd6bGZtOHJmc3pVcHEwM1RtOFFib1o0SXphNjd3cFk0Z3lGODRJaktMY0ZWeFFvenBxTWthQW5oWDQ2RjVoZzdoWW95M1pIVkNzLU1XR2RWZjFsYjNhN0hKZThmSTZwUXhWVmVfNklRZ2ppSE1lYUN4ak5TWENLWTVMUmYxTWlHeGhn?oc=5",
+   "ts": "Wed, 18 Nov 2026 11:29:11 GMT"
   },
   {
    "src": "gnews",

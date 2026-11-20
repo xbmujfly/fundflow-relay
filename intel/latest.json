@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-20T02:45:27Z",
+ "ts": "2026-11-20T03:00:53Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -412,21 +413,21 @@
   },
   {
    "src": "gnews",
-   "title": "Anglo American (LSE:AAL) Tests Its Bull Case After China Trade Fears Hit Miners - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONzhsNHpKQzh2WHBFUDNudjF2WVQwM3FpZkQ0ckdqWWxBYWxBb00zME43WW42YnVackxobFpaOGd1czIyNWd3UEt2eDJTSHFWdlAwWmdjcnRkUDdWUkZDdTAzRE1jRW4ydnhvTUU0aWRPQndrcDlYMDRmZHpEVVduV0ZWeWo4bkNoQVhCY1k4QkxWemV3RFhLcg?oc=5",
-   "ts": "Thu, 19 Nov 2026 21:12:21 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Why China’s Export Machine Seems Unstoppable - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpueWc0R1FSdjNSYVF1c3pmRzlQTWc2RFJQV0p5TnZNdlJqZEExQ0xaczB0ZWNLcHhpWjlDWlBMSmo2SnFFUGlfVTI2OVotcGo5WENRdFc2WlJLZXNzb2RzWTFoMWZHOVYzWkNmbVFSSG5QZ3lCbUJNNXJFbjI4bUhvUEltV1JnV0RSVHQxQ2xrUFMzX1FSRWFNQQ?oc=5",
    "ts": "Thu, 19 Nov 2026 22:13:35 GMT"
   },
   {
    "src": "gnews",
-   "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa1JwdmY0aEYyNHRwSEJ2UVI3a0RBd0NnTDdLbnZxN3o2SlZfRHJHS0dkWURKczBRczZ2dXdfX1FrQi05Q0FzNi1FTVEwQ2tiYnpyTHc3M1VSVjk3elEyb3Q1MlhNWldyUmZNQ0ZfLS1OdmJ5c3d5OUtwc2REajJGY2ZlcGnSAYoBQVVfeXFMTWlMMENRZ1hNNVlfcWZkcktZTWJ4TjdYRzBfRlQxWDIwUmdKNndBZmhGaVM0RkY4V01Ud2RneG93bTcxTk9FYmlMdVU4cUx6UV90VU5uR1l5MVR6THhqRTlhWFdPRGlBTjM4UlBVaWFaSHhvVkJYMm1LLVJQWEpGZEcxNG0ybGhzSnRn?oc=5",
-   "ts": "Thu, 19 Nov 2026 02:54:00 GMT"
+   "title": "Anglo American (LSE:AAL) Tests Its Bull Case After China Trade Fears Hit Miners - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONzhsNHpKQzh2WHBFUDNudjF2WVQwM3FpZkQ0ckdqWWxBYWxBb00zME43WW42YnVackxobFpaOGd1czIyNWd3UEt2eDJTSHFWdlAwWmdjcnRkUDdWUkZDdTAzRE1jRW4ydnhvTUU0aWRPQndrcDlYMDRmZHpEVVduV0ZWeWo4bkNoQVhCY1k4QkxWemV3RFhLcg?oc=5",
+   "ts": "Thu, 19 Nov 2026 21:12:21 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kN1VQeHRmSWJFQ2NzTW9IS1hUczJuM0Fqa01jMW1ZRkwxT2JVV2xLbllJRVBoc1gtQklCT2FRNVpNWElEeFpneDlaTDdHOVhsZGtHRXZJSEUyQjE1OUpFY2FvbDFKbk15OFdaZFI4ZjRSN3laTkFRQ3BLQdIBgAFBVV95cUxOeUtIeUtSU29VbDRRbWlQclJXOW5jVmNpbW8zYlFNbmRhem8yN1lDWU5adEhraFlXUjFCZlZDeEExUVJaRG9WZGl4bTlNUEw3Y2xvemg4V2RvZmsxREZFNWNGXzE4Z3VIUGNEeWducjZaSkpGYUxpbXNsekdIeW9jUw?oc=5",
+   "ts": "Wed, 18 Nov 2026 02:23:00 GMT"
   },
   {
    "src": "gnews",
@@ -457,126 +458,6 @@
    "title": "Trump says Board of Trade has brought 'greater balance' to US-China ties - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0VUY0prRXhtQVNrWEEyblJwRE5RdTk0ajdzSXBaNlJZcWF3YTNGbWFmMzdvSnJwWmc3ZS1ScHd4Q2tuVXA5SVJKbWFYNmxoSmdqT0VJM2FFS2Z1U3NYU0ZKbzRPSXhadEplSFQ1cDkyT1htZmdmRC1UTDgzQktfMXZqRDJiNnpTWnpHc1J2MThYazVyeTVpVFp5cW1PYTRzMjE5YnpkV0hlUQ?oc=5",
    "ts": "Thu, 19 Nov 2026 07:08:00 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ουκρανία : Μαζική πυραυλική επίθεση εξαπέλυσε η Ρωσία - Απογείωσε τα στρατηγικά βομβαρδιστικά Tu - 160",
-   "url": "https://www.in.gr/2026/11/20/world/oukrania-maziki-pyrayliki-epithesi-eksapelyse-i-rosia-apogeiose-ta-stratigika-vomvardistika-tu-160/",
-   "ts": "20261120T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Εμ . Μακρόν : Να επανεξεταστεί το αίτημα ένταξης της Ουκρανίας στο ΝΑΤΟ",
-   "url": "https://gr.euronews.com/2026/11/19/makron-epanexetastei-aithma-entaxhs-oykranias-nato",
-   "ts": "20261120T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Wymowna reakcja . Zełenski rozbawił dziennikarzy po pytaniu o Trumpa",
-   "url": "https://wiadomosci.wp.pl/wymowna-reakcja-zelenski-rozbawil-dziennikarzy-po-pytaniu-o-trumpa-7352860339611680a",
-   "ts": "20261120T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Tariffs upend holiday season – Winnipeg Free Press",
-   "url": "https://www.winnipegfreepress.com/business/2026/11/19/tariffs-upend-holiday-season",
-   "ts": "20261120T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump administration moves to have lawsuit dismissed in challenge to Alaska US Senate race",
-   "url": "https://www.clickorlando.com/news/politics/2026/11/20/trump-administration-moves-to-have-lawsuit-dismissed-in-challenge-to-alaskas-us-senate-race/",
-   "ts": "20261120T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Will Trump agreement with Putin and Xi bring down gas prices ? ",
-   "url": "https://www.wgal.com/article/will-president-trumps-agreement-with-putin-and-xi-bring-down-gas-prices/74481612",
-   "ts": "20261120T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Lula e os desafios do quarto mandato | Observatório da Imprensa",
-   "url": "https://www.observatoriodaimprensa.com.br/politica/lula-e-os-desafios-do-quarto-mandato/",
-   "ts": "20261120T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "MTA prepara otro aumento en Nueva York : tarifas del metro y autobuses subirían en 2027",
-   "url": "https://eldiariony.com/2026/11/19/mta-prepara-otro-aumento-en-nueva-york-cuanto-podrian-subir-las-tarifas-del-metro-los-autobuses-y-de-congestion-en-2027/",
-   "ts": "20261120T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "В Вашингтоне взяли паузу : Трамп отложил решение об ударах по Ирану | Северная Америка",
-   "url": "https://fedpress.ru/news/northern-america/policy/3460462",
-   "ts": "20261120T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "California AG subpoenas Nvidia over concerns about former CEO , China ties",
-   "url": "https://hot96.com/2026/11/19/california-ag-subpoenas-nvidia-over-concerns-about-former-ceo-china-ties/",
-   "ts": "20261120T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Iran rejects US claims of developing biological , chemical weapons ; recalls Iraq WMD controversy",
-   "url": "http://www.iranherald.com/news/279444073/iran-rejects-us-claims-of-developing-biological-chemical-weapons-recalls-iraq-wmd-controversy",
-   "ts": "20261120T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump , Xi , Putin Hold Historic Trilateral Talks",
-   "url": "https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-talks-nuclear-disarmament-un-icc-oil/",
-   "ts": "20261120T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Grants Posthumous Pardon To Pete Rose",
-   "url": "https://kxno.iheart.com/content/2026-11-20-trump-grants-posthumous-pardon-to-pete-rose/",
-   "ts": "20261120T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Wall Street Slump Continues as Dow Falls Over 1 , 100 Points",
-   "url": "https://wrko.iheart.com/content/2026-11-19-wall-street-slump-continues-as-dow-falls-over-1100-points/",
-   "ts": "20261120T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "From MAGA stardom to a U - Haul : Lauren Boebert considers her own and GOP losses",
-   "url": "http://www.cecildaily.com/ap/nation/from-maga-stardom-to-a-u-haul-lauren-boebert-considers-her-own-and-gops-losses/article_5b2376c3-01f3-5678-b151-9e86aa108139.html",
-   "ts": "20261120T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Top House Democrat questions what Trump accomplished in Xi - Putin summit",
-   "url": "https://www.kccu.org/u-s/2026-11-19/top-house-democrat-questions-what-trump-accomplished-in-xi-putin-summit",
-   "ts": "20261120T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "From MAGA stardom to a U - Haul : Lauren Boebert considers her own and GOP losses",
-   "url": "https://www.clickorlando.com/news/politics/2026/11/19/from-maga-stardom-to-a-u-haul-lauren-boebert-considers-her-own-and-gops-losses/",
-   "ts": "20261120T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Pete Rose posthumously pardoned by Trump after baseball career hits leader was reinstated by MLB",
-   "url": "https://www.saratogian.com/2026/11/19/pete-rose-posthumous-pardon/",
-   "ts": "20261120T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Глава МИД Грузии Бочоришвили призвала не бояться диалога с Россией",
-   "url": "https://news.mail.ru/politics/73167549/",
-   "ts": "20261120T013000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Хватит платить за Украину : Трамп призвал ЕС пойти на сделку с Россией",
-   "url": "https://news.mail.ru/society/73167546/",
-   "ts": "20261120T013000Z"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-20T14:45:24Z",
+ "ts": "2026-11-20T15:00:26Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -221,6 +221,12 @@
   },
   {
    "src": "fed",
+   "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+   "ts": "Fri, 20 Nov 2026 15:00:00 GMT"
+  },
+  {
+   "src": "fed",
    "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
    "ts": "Thu, 19 Nov 2026 16:00:00 GMT"
@@ -334,12 +340,6 @@
    "ts": "Fri, 2 Oct 2026 15:00:00 GMT"
   },
   {
-   "src": "fed",
-   "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-   "ts": "Wed, 30 Sep 2026 13:00:00 GMT"
-  },
-  {
    "src": "gnews",
    "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
@@ -389,6 +389,12 @@
   },
   {
    "src": "gnews",
+   "title": "Watch USTR Greer on Chip Curbs, Rare Earths, US-China Trade - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMW1jNkFGNDFReTZoVmJuT2Vjby1pZW1qVUttdkZQUWl3dlkzUzVLMldxRnZ1Q1RYcTAzZXVSYXFuWElVMVJ2TFVNekNaWGQzMzNkaFd5U2dCYlRTb21PQ3JIdlN3aHAwOVF2NjlLM2tDS1UwS0s0RXRiTHU2cWczLUt6a1pqOTJvNXlWMzJOM0xFVXdNQmpyN2Y1TU9ieE4zMDNpNjgtdUxLdw?oc=5",
+   "ts": "Fri, 20 Nov 2026 14:54:03 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Fabrics and human wigs drive North Korea-China trade in October - NK News",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbFdaTGdUMUVYQmhzOXJHOEtjVUxpTW0tQmJhX3k5SVo3ZUVDaEl0eWZISkpQaVNYRi1SV2FlNENnRWg4TlVKVWZ3SG5rOXlXd0VuUWtrdk9tM284eWZ3d2I3TjFQRmgyOWpOU2RqTUZYRHR1RlFYRDVyT2ZJeUZQdFBYbWdXNHpJeDBfR1I5TWttY0pRcGc?oc=5",
    "ts": "Fri, 20 Nov 2026 09:44:18 GMT"
@@ -407,12 +413,6 @@
   },
   {
    "src": "gnews",
-   "title": "The West loved free trade until China started winning - Monthly Review",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVc0TWpEd2p5Zld3WDVrZlJRRmgwb3M3dmlQOC1LTmd5bnYtaEdnNWw3azA0ODg1MFNVeEZFd3ZTR2I2VGE0aUxWbVpxTW1BSHVIN0h0NVNFYjdrYXNGdVBzTkNRMGR2T2Q5bUNqTzVhTlJzeUVLTXIybkhQdFFzTTk1cWxRbHd3bGRHM0UxOA?oc=5",
-   "ts": "Fri, 20 Nov 2026 04:49:52 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump lands in China for trade talks and high-stakes summit with Xi and Putin - PBS",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb0cyRko0OEN1RlRLT0VFTjBfeU1zZWllR193RFc3WVl4T2h1NmFJQjl4UEZJcWdKUmFuOWVXUTl1Qi1uaERobk1iZGpIR20ycjlNcl9lVDY3MzIxbmhJblA1ejlQOGE5Yi1iZUpZMkhEemo4RGFrMVIwSzJjMW5OY0RURDFrRWRUaFBweFZlS3BwWUg2WUhhWDY1Sno4QVV1eTU5cjRyT1VCZkZ5ZExvRQ?oc=5",
    "ts": "Wed, 18 Nov 2026 23:55:44 GMT"
@@ -422,6 +422,12 @@
    "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
    "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "U.S.-China Trade Talks Leave Questions Over Agricultural Purchases - RFD-TV",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeUo1VDRMd1I1MmEwM1RBd1lWYU9aMlVDNXZTel9DS1dPUDNmazVSZUxXMmdoRFdfZkRBRG0tSDBhdDRUUnNwRmRVSWx3Q1FOUFRzZ0xlMEYxZjhDdDBOcnRSTG1hRU1lY0MzWUh5bnVqc1p5YlFWZDRmZHd5a3pmNTJzUkdxWVg1d0tqbG5tLXg?oc=5",
+   "ts": "Fri, 20 Nov 2026 00:09:33 GMT"
   },
   {
    "src": "gnews",
@@ -452,12 +458,6 @@
    "title": "South Korea says China trade agreement to boost tourism, entertainment sectors - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
    "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump's personalized diplomacy hits its limits with 3-way summit - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdERQSHBUWVRvbktIZEo4ZDFTS2FKNzZjRUwzamQ5VjkwUE9RQl9KSkoxdmJ2QmNnT2tzNkdKc2dYNjNNQ2Q3RVNERlB3X1NOa3FUTU5XdmNocGtRdWdSSzIyelZhd3Mwc0JEd0t6dXhicEd4TVRPclNPcy1TTkQwcFE5OVV1WFBrUmNEcWFRenA0TGJYMDh2OWMtaV9PZmd1LXJWa0hUMWU1bE5JSjcwTw?oc=5",
-   "ts": "Fri, 20 Nov 2026 06:03:00 GMT"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-20T08:00:29Z",
+ "ts": "2026-11-20T08:15:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -425,12 +425,6 @@
   },
   {
    "src": "gnews",
-   "title": "South Korea sees progress on China trade, cultural restrictions - upi",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdGV6T0w0OFktcGYzZUYwdEVZM1d5Tnd3Vi1hNml2WVJHZUZxM1JRZU9SQVMta1hNRDc3dW8xbUN0Z0U0a1ZoQTlHOUdaeDhUc2JUdHdyQTFSVFdtVDVHNjBlZnNtNjZwdzdTQ3JhMzNib21wZjVvT0JiQmdRWERIVGhGbERmT0FwZFltZGM2bnpxVEI4ZTFUVG53Vy1ZNlNMd1HSAacBQVVfeXFMTjNETm9QRm81MWVuYXNFcGxvcWU5NkZOVUJ1NVQ4aHk0VmJxV0hwLUtzWGU0RVdtZzQ1QlhoQnRFbjh5UjFieF9uMlMtY3ktakJkZnB1dDVSVWJOYTZFamlGd0hGTE80a0JtUW53QWpxb1dPc3BkRU1VMzNnRnlPN0U1aXRoRnJPaEhvbVJpVkJJMU9NbkZZdEJtVE9VTzY2dms3SkxMekk?oc=5",
-   "ts": "Thu, 19 Nov 2026 21:50:32 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
    "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
@@ -440,6 +434,12 @@
    "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGdvSTN5MW55TWE0QVZ0cmd6bGZtOHJmc3pVcHEwM1RtOFFib1o0SXphNjd3cFk0Z3lGODRJaktMY0ZWeFFvenBxTWthQW5oWDQ2RjVoZzdoWW95M1pIVkNzLU1XR2RWZjFsYjNhN0hKZThmSTZwUXhWVmVfNklRZ2ppSE1lYUN4ak5TWENLWTVMUmYxTWlHeGhn?oc=5",
    "ts": "Wed, 18 Nov 2026 11:29:11 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kN1VQeHRmSWJFQ2NzTW9IS1hUczJuM0Fqa01jMW1ZRkwxT2JVV2xLbllJRVBoc1gtQklCT2FRNVpNWElEeFpneDlaTDdHOVhsZGtHRXZJSEUyQjE1OUpFY2FvbDFKbk15OFdaZFI4ZjRSN3laTkFRQ3BLQdIBgAFBVV95cUxOeUtIeUtSU29VbDRRbWlQclJXOW5jVmNpbW8zYlFNbmRhem8yN1lDWU5adEhraFlXUjFCZlZDeEExUVJaRG9WZGl4bTlNUEw3Y2xvemg4V2RvZmsxREZFNWNGXzE4Z3VIUGNEeWducjZaSkpGYUxpbXNsekdIeW9jUw?oc=5",
+   "ts": "Wed, 18 Nov 2026 02:23:00 GMT"
   },
   {
    "src": "gnews",

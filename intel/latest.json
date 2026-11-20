@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-20T04:00:33Z",
+ "ts": "2026-11-20T04:15:34Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -418,12 +419,6 @@
   },
   {
    "src": "gnews",
-   "title": "Why China’s Export Machine Seems Unstoppable - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpueWc0R1FSdjNSYVF1c3pmRzlQTWc2RFJQV0p5TnZNdlJqZEExQ0xaczB0ZWNLcHhpWjlDWlBMSmo2SnFFUGlfVTI2OVotcGo5WENRdFc2WlJLZXNzb2RzWTFoMWZHOVYzWkNmbVFSSG5QZ3lCbUJNNXJFbjI4bUhvUEltV1JnV0RSVHQxQ2xrUFMzX1FSRWFNQQ?oc=5",
-   "ts": "Thu, 19 Nov 2026 22:13:35 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin - CNBC",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kN1VQeHRmSWJFQ2NzTW9IS1hUczJuM0Fqa01jMW1ZRkwxT2JVV2xLbllJRVBoc1gtQklCT2FRNVpNWElEeFpneDlaTDdHOVhsZGtHRXZJSEUyQjE1OUpFY2FvbDFKbk15OFdaZFI4ZjRSN3laTkFRQ3BLQdIBgAFBVV95cUxOeUtIeUtSU29VbDRRbWlQclJXOW5jVmNpbW8zYlFNbmRhem8yN1lDWU5adEhraFlXUjFCZlZDeEExUVJaRG9WZGl4bTlNUEw3Y2xvemg4V2RvZmsxREZFNWNGXzE4Z3VIUGNEeWducjZaSkpGYUxpbXNsekdIeW9jUw?oc=5",
    "ts": "Wed, 18 Nov 2026 02:23:00 GMT"
@@ -448,6 +443,12 @@
   },
   {
    "src": "gnews",
+   "title": "Mexico's Sheinbaum hopes to seal trade deal in next meeting with Trump - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV3NIMFlEOTNmNzRFX3lnSlN6Uy11NmF4Xzdubmc2ZkNfeHdZRFFGY2trbjMwWTM0OTdZcFVoNlQzM3RiUHhGV0RQa0ZUcklDOWVSMGJBNDI2TzV3VEV0c2J4ZVVaYkwwTXEzaExkcElWTG9GZ3ZPOUZMX3pIc29iN1EtOEM2V3dETnA4YTFLaTQwZU5qMUFvcmFHMFVqZHlBcENYaUdDeHk0SFYyc2pxNg?oc=5",
+   "ts": "Thu, 19 Nov 2026 16:17:43 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "South Korea says China trade agreement to boost tourism, entertainment sectors - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
    "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
@@ -457,126 +458,6 @@
    "title": "Trump says Board of Trade has brought 'greater balance' to US-China ties - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0VUY0prRXhtQVNrWEEyblJwRE5RdTk0ajdzSXBaNlJZcWF3YTNGbWFmMzdvSnJwWmc3ZS1ScHd4Q2tuVXA5SVJKbWFYNmxoSmdqT0VJM2FFS2Z1U3NYU0ZKbzRPSXhadEplSFQ1cDkyT1htZmdmRC1UTDgzQktfMXZqRDJiNnpTWnpHc1J2MThYazVyeTVpVFp5cW1PYTRzMjE5YnpkV0hlUQ?oc=5",
    "ts": "Thu, 19 Nov 2026 07:08:00 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Report : National Cyber Director To Resign | News Radio 570 WWNC",
-   "url": "https://wwnc.iheart.com/content/2026-11-19-report-national-cyber-director-to-resign/",
-   "ts": "20261120T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Чому Трамп , Путін і Сі не змогли повторити Ялту 1945 року",
-   "url": "https://zn.ua/ukr/POLITICS/tramp-putin-i-si-vijavilisja-mensh-vplivovimi-nizh-vvazhali-visnovki-the-times-pislja-samitu.html",
-   "ts": "20261120T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Grants Posthumous Pardon To Pete Rose | News Radio 570 WWNC",
-   "url": "https://wwnc.iheart.com/content/2026-11-20-trump-grants-posthumous-pardon-to-pete-rose/",
-   "ts": "20261120T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Iran Rejects US Claims Of Developing Biological , Chemical Weapons ; Recalls Iraq WMD Controversy",
-   "url": "https://www.deccanchronicle.com/world/iran-rejects-us-claims-of-developing-biological-chemical-weapons-recalls-iraq-wmd-controversy-2006118",
-   "ts": "20261120T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Nvidia Earnings : $115 . 8B Quarter , China Exit and SEC Probe",
-   "url": "https://memeburn.com/nvidia-earnings-without-jensen-huang/",
-   "ts": "20261120T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "House Democrats eye stock trading ban as early priority next Congress",
-   "url": "https://www.twincities.com/2026/11/19/congress-stock-trading-ban/",
-   "ts": "20261120T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "De achilleshiel van Xi Jinping – De Groene Amsterdammer",
-   "url": "https://www.groene.nl/artikel/de-achilleshiel-van-xi-jinping",
-   "ts": "20261120T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US envoy Kushner says Europe united in support of Ukraine , sees  real desire for peace  after Berlin meeting",
-   "url": "http://www.israelherald.com/news/279444142/us-envoy-kushner-says-europe-united-in-support-of-ukraine-sees-real-desire-for-peace-after-berlin-meeting",
-   "ts": "20261120T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Symbolism over substance ? Experts weigh in on Trump summit with Xi , Putin",
-   "url": "https://13wham.com/news/nation-world/symbolism-over-substance-experts-weigh-in-on-trumps-summit-with-xi-putin",
-   "ts": "20261120T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Grants Posthumous Pardon To Pete Rose | News Talk 550 KFYI",
-   "url": "https://kfyi.iheart.com/content/2026-11-20-trump-grants-posthumous-pardon-to-pete-rose/",
-   "ts": "20261120T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " 【 和合共生 】 习言道｜密集会见多国领导人 ， 习近平频繁提及这几个词 - 中新网",
-   "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735017.shtml",
-   "ts": "20261120T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump , Xi and Putin meet for first time , issue four - point declaration on key issues",
-   "url": "https://news4sanantonio.com/news/nation-world/trump-xi-and-putin-meet-for-first-time-issue-four-point-declaration-on-key-issues",
-   "ts": "20261120T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Παραιτήθηκε ο επικεφαλής για θέματα κυβερνοασφάλειας του Λευκού Οίκου - Ποια ανέλαβε",
-   "url": "https://www.in.gr/2026/11/20/world/paraitithike-o-epikefalis-gia-themata-kyvernoasfaleias-tou-leykou-oikou-poia-anelave/",
-   "ts": "20261120T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Elon Musk Distances Himself From MAGA Movement",
-   "url": "https://kfyi.iheart.com/content/2026-11-19-elon-musk-distances-himself-from-maga-movement/",
-   "ts": "20261120T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "White House cybersecurity chief fired after outages",
-   "url": "https://www.cp24.com/news/world/2026/11/20/white-house-fires-cybersecurity-chief-after-widespread-outages/",
-   "ts": "20261120T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Kushner says he believes Russia is  comfortable  with NATO - like security guarantees for Ukraine",
-   "url": "http://www.postregister.com/news/national/kushner-says-he-believes-russia-is-comfortable-with-nato-like-security-guarantees-for-ukraine/article_539284a4-b4db-57b4-ab5b-44c07d92d5c7.html",
-   "ts": "20261120T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump - Xi - Putin meeting delivers peace declaration but no action on Ukraine - 20 - Nov - 2026",
-   "url": "https://home.nzcity.co.nz/news/article.aspx?id=458372",
-   "ts": "20261120T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump administration moves to have lawsuit dismissed in challenge to Alaska US Senate race",
-   "url": "https://www.dailyherald.com/2026/11/19/us-election-2026-alaska-senate-lawsuit/",
-   "ts": "20261120T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US Tech outages singes Trump administration , Kirsten Davies appointed new Cyber Director",
-   "url": "http://www.argentinastar.com/news/279444286/us-tech-outages-singes-trump-administration-kirsten-davies-appointed-new-cyber-director",
-   "ts": "20261120T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Республіканці в Конгресі розкритикували зустріч Трампа із Сі та Путіним",
-   "url": "https://www.ukrinform.ua/rubric-world/4186628-respublikanci-v-kongresi-rozkritikuvali-zustric-trampa-iz-si-ta-putinim.html",
-   "ts": "20261120T033000Z"
   }
  ]
 }

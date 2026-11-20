@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-20T23:00:25Z",
+ "ts": "2026-11-20T23:15:22Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -401,9 +400,15 @@
   },
   {
    "src": "gnews",
-   "title": "Are Trump's Trade Deals Actually Delivering for American Farmers? - AgroLatam",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRXhBaHM3aF92T19LT1hWcTZYRWNrRGRFZ0dpMUYyVkcwemlpcnJ6MEt2cEJyeFhLV21mbFVGTHBDTTNEeVo3ckxucmtYSGNBYld3a2FIQUlURlRVdTBLSXQ3R2dpVm1zUXhIQThXeWtjY1NWZTY3Rm8zRzdvTy1vSVVjWjJxV0VDZXNSaDlnNFNnWm1kZUFaNlZVX18tMHVs?oc=5",
-   "ts": "Fri, 20 Nov 2026 12:09:58 GMT"
+   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
+   "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Agriculture Weekly: Farm Bill, China Trade and Grain Markets in Focus - AgroLatam",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdEoxRGwyYkFUZm1DOXI5TnJRbUZKY0VCZDR4a1F2cEtCMEJJSF9KaDFKeFloRXRIT0pFS3UwYUdGc0hKaUJaY0NHUTR0aTNwbnJGUDhOTDdTcUhkRHkzSVF1REZkemxLcWJOYkZkUzg2Y0ZFeHFJMVhRVWhXU3VKWkhHcTRUVmpfU2ltVGk4RXNpT204QlZmM18zd3JoZjE0ZmxyeHpR?oc=5",
+   "ts": "Fri, 20 Nov 2026 22:50:49 GMT"
   },
   {
    "src": "gnews",
@@ -425,18 +430,6 @@
   },
   {
    "src": "gnews",
-   "title": "Greer Sees US Trade Probe ‘Certainly’ Concluding by Year End - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2o2UmpVREVfQTFYNFhGZlBaUC1FZTZsWmRzVVFYSHlQblYxbjFWYnRERFhSUDZYSkNQUzNUNUNQaVRWcy1aajJGaDBBY0FmWC0yZkdiSXV1RGpjMFl4alpqWmdSSFBxSkdqaUFrcGFLTndWdmxRSEs1cm42TnpadVVJTjR3YWdkbVpGWlRFalhpUTl5TDdCZ1ZqekJRUkVpME03aVFnczdxb0UtZ1E?oc=5",
-   "ts": "Fri, 20 Nov 2026 14:59:42 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump Says More Work to Be Done to Achieve Fair Trade Deal With Canada - U.S. News & World Report",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHl5QlZBSVVjWlR4cVE0U002OV9VdXk2aUxMTi1KUlJuNlpnNXlVZUIxSUQyckR2RTd0TWpaUm1tbk1tcE1xX08wNjFJdzJkRTlVSF8ySjVfT3poTDZQRlNFLS1UVURpNzNFcGx6RVhBZDNObWpNMFAyWFpqTHJIbGxvUHpwM0xUaWVwbll1VzVvT3hfQVM2a003aXZ5S19nbmRIX0o4VVFzdU03eVg3VHU5amF3NGFEUVBDUm9aZ3VQQQ?oc=5",
-   "ts": "Fri, 20 Nov 2026 18:15:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
    "ts": "Tue, 17 Nov 2026 23:01:15 GMT"
@@ -449,6 +442,12 @@
   },
   {
    "src": "gnews",
+   "title": "Are Trump's Trade Deals Actually Delivering for American Farmers? - AgroLatam",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRXhBaHM3aF92T19LT1hWcTZYRWNrRGRFZ0dpMUYyVkcwemlpcnJ6MEt2cEJyeFhLV21mbFVGTHBDTTNEeVo3ckxucmtYSGNBYld3a2FIQUlURlRVdTBLSXQ3R2dpVm1zUXhIQThXeWtjY1NWZTY3Rm8zRzdvTy1vSVVjWjJxV0VDZXNSaDlnNFNnWm1kZUFaNlZVX18tMHVs?oc=5",
+   "ts": "Fri, 20 Nov 2026 12:09:58 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
    "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
@@ -458,6 +457,126 @@
    "title": "South Korea says China trade agreement to boost tourism, entertainment sectors - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
    "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "U . S . and Mexico Failed to Meet Key Anti - Drug Commitments Despite Billions in Aid , New Report Finds",
+   "url": "https://www.latintimes.com/us-mexico-counternarcotics-program-report-violence-601631",
+   "ts": "20261120T214500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Fresno man indicted for allegedly kicking ICE officer in the groin",
+   "url": "https://nypost.com/2026/11/20/us-news/fresno-man-indicted-for-allegedly-kicking-ice-officer-in-the-groin/",
+   "ts": "20261120T214500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ukraine reports Russian missile blitz after Putin met with Trump",
+   "url": "https://www.columbian.com/news/2026/nov/20/ukraine-reports-russian-missile-blitz-after-putin-met-with-trump/",
+   "ts": "20261120T214500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump defends calling Putin his  friend  but wont say if he is a friend to US",
+   "url": "https://www.northwalespioneer.co.uk/news/national/26750196.trump-defends-calling-putin-friend-wont-say-friend-us/",
+   "ts": "20261120T214500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Smart demands by SC Democrats can shape party leadership",
+   "url": "https://www.postandcourier.com/opinion/commentary/smart-demands-sc-democrats-can-shape-party-leadership/article_061dc820-1a3e-43e0-b7d7-f76d11e66f0b.html",
+   "ts": "20261120T214500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "China nuclear buildup is  hot and heavy , Trump says after meeting Xi",
+   "url": "https://www.fortmorgantimes.com/2026/11/20/trump-china-nuclear-buildup/",
+   "ts": "20261120T214500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Federal Reserve Announces College Fed Challenge Winners",
+   "url": "https://newsroomamerica.com/a/Gc1UGVvej8J0mLQt0CQYtwgWpQu/the_federal_reserve_has_announced_the_winners_of_its_college_fed_challenge_a_competition_run_by_the_board_of_governors_in_washington_d_c.html",
+   "ts": "20261120T214500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Walmart shoppers stock up on water , propane amid recent disruptions",
+   "url": "https://www.wcpo.com/us-news/walmart-shoppers-stock-up-on-water-propane-amid-recent-disruptions",
+   "ts": "20261120T214500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump posthumously pardons baseball  SUPERSTAR & LEGEND  Pete Rose",
+   "url": "https://abc3340.com/news/nation-world/pete-rose-posthumously-pardoned-by-trump-after-reinstated-by-mlb-11-20-2026",
+   "ts": "20261120T214500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "AI industry braces for tougher oversight under incoming Democratic Congress",
+   "url": "https://nebraska.tv/news/nation-world/ai-industry-braces-for-tougher-oversight-under-incoming-democratic-congress-artificial-intelligence-data-centers-cybersecurity-rogue-agents",
+   "ts": "20261120T214500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump , Dana White Donate $500K To Marine Corps Band",
+   "url": "https://woc1420.iheart.com/content/2026-11-20-trump-dana-white-donate-500k-to-marine-corps-band/",
+   "ts": "20261120T214500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Donald Trump vows to tax US companies building data centres overseas - 21 - Nov - 2026",
+   "url": "https://home.nzcity.co.nz/news/article.aspx?id=458396&fm=psp,tsf",
+   "ts": "20261120T214500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Mass . groups sue over new rule affecting mixed - status immigrant families in subsidized housing",
+   "url": "https://www.wgbh.org/news/local/2026-11-20/mass-groups-sue-over-new-rule-affecting-mixed-status-immigrant-families-in-subsidized-housing",
+   "ts": "20261120T214500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump investigations : Here who Democrats plan to target",
+   "url": "https://www.bostonglobe.com/2026/11/20/nation/democrats-investigations-targets-trump-family-officials/",
+   "ts": "20261120T214500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Axios : Γουίτκοφ και Κούσνερ συναντήθηκαν με αξιωματούχους του Κατάρ στο Βερολίνο - Στο τραπέζι νέες διαπραγματεύσεις ΗΠΑ - Ιράν",
+   "url": "https://www.iefimerida.gr/kosmos/goyitkof-koysner-katrar-berolino-iran",
+   "ts": "20261120T214500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Chile Wine Industry Is Reinventing Itself in the Middle of a Global Alcohol Crisis",
+   "url": "https://www.latintimes.com/chile-wine-exports-fall-global-demand-601628",
+   "ts": "20261120T214500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "China nuclear buildup is  hot and heavy , Trump says a day after meeting with Xi",
+   "url": "https://www.kxl.com/chinas-nuclear-buildup-is-hot-and-heavy-trump-says-a-day-after-meeting-with-xi/",
+   "ts": "20261120T214500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Трамп применшує напруженість у відносинах із Венсом через критику війни з Іраном - ЗМІ",
+   "url": "https://daily.com.ua/partners-news/tramp-prymenshuie-naprujenist-u-vidnosynah-iz-vensom-cherez-krytyku-viiny-z-iranom-zmi/",
+   "ts": "20261120T214500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Second Judge Blocks Trump Triumphal Arch Project | The Patriot KEIB AM 1150",
+   "url": "https://patriotla.iheart.com/content/2026-11-20-second-judge-blocks-trumps-triumphal-arch-project/",
+   "ts": "20261120T214500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "China nuclear buildup is  hot and heavy , Trump says after meeting Xi",
+   "url": "https://www.ukiahdailyjournal.com/2026/11/20/trump-china-nuclear-buildup/",
+   "ts": "20261120T214500Z"
   }
  ]
 }

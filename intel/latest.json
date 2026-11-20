@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-20T05:45:24Z",
+ "ts": "2026-11-20T06:00:31Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -407,27 +406,27 @@
   },
   {
    "src": "gnews",
-   "title": "South Korea sees progress on China trade, cultural restrictions - upi",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdGV6T0w0OFktcGYzZUYwdEVZM1d5Tnd3Vi1hNml2WVJHZUZxM1JRZU9SQVMta1hNRDc3dW8xbUN0Z0U0a1ZoQTlHOUdaeDhUc2JUdHdyQTFSVFdtVDVHNjBlZnNtNjZwdzdTQ3JhMzNib21wZjVvT0JiQmdRWERIVGhGbERmT0FwZFltZGM2bnpxVEI4ZTFUVG53Vy1ZNlNMd1HSAacBQVVfeXFMTjNETm9QRm81MWVuYXNFcGxvcWU5NkZOVUJ1NVQ4aHk0VmJxV0hwLUtzWGU0RVdtZzQ1QlhoQnRFbjh5UjFieF9uMlMtY3ktakJkZnB1dDVSVWJOYTZFamlGd0hGTE80a0JtUW53QWpxb1dPc3BkRU1VMzNnRnlPN0U1aXRoRnJPaEhvbVJpVkJJMU9NbkZZdEJtVE9VTzY2dms3SkxMekk?oc=5",
-   "ts": "Thu, 19 Nov 2026 21:50:32 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal - CNBC",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa1JwdmY0aEYyNHRwSEJ2UVI3a0RBd0NnTDdLbnZxN3o2SlZfRHJHS0dkWURKczBRczZ2dXdfX1FrQi05Q0FzNi1FTVEwQ2tiYnpyTHc3M1VSVjk3elEyb3Q1MlhNWldyUmZNQ0ZfLS1OdmJ5c3d5OUtwc2REajJGY2ZlcGnSAYoBQVVfeXFMTWlMMENRZ1hNNVlfcWZkcktZTWJ4TjdYRzBfRlQxWDIwUmdKNndBZmhGaVM0RkY4V01Ud2RneG93bTcxTk9FYmlMdVU4cUx6UV90VU5uR1l5MVR6THhqRTlhWFdPRGlBTjM4UlBVaWFaSHhvVkJYMm1LLVJQWEpGZEcxNG0ybGhzSnRn?oc=5",
    "ts": "Thu, 19 Nov 2026 02:54:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "The West loved free trade until China started winning - Monthly Review",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVc0TWpEd2p5Zld3WDVrZlJRRmgwb3M3dmlQOC1LTmd5bnYtaEdnNWw3azA0ODg1MFNVeEZFd3ZTR2I2VGE0aUxWbVpxTW1BSHVIN0h0NVNFYjdrYXNGdVBzTkNRMGR2T2Q5bUNqTzVhTlJzeUVLTXIybkhQdFFzTTk1cWxRbHd3bGRHM0UxOA?oc=5",
-   "ts": "Fri, 20 Nov 2026 04:49:52 GMT"
+   "title": "South Korea sees progress on China trade, cultural restrictions - upi",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdGV6T0w0OFktcGYzZUYwdEVZM1d5Tnd3Vi1hNml2WVJHZUZxM1JRZU9SQVMta1hNRDc3dW8xbUN0Z0U0a1ZoQTlHOUdaeDhUc2JUdHdyQTFSVFdtVDVHNjBlZnNtNjZwdzdTQ3JhMzNib21wZjVvT0JiQmdRWERIVGhGbERmT0FwZFltZGM2bnpxVEI4ZTFUVG53Vy1ZNlNMd1HSAacBQVVfeXFMTjNETm9QRm81MWVuYXNFcGxvcWU5NkZOVUJ1NVQ4aHk0VmJxV0hwLUtzWGU0RVdtZzQ1QlhoQnRFbjh5UjFieF9uMlMtY3ktakJkZnB1dDVSVWJOYTZFamlGd0hGTE80a0JtUW53QWpxb1dPc3BkRU1VMzNnRnlPN0U1aXRoRnJPaEhvbVJpVkJJMU9NbkZZdEJtVE9VTzY2dms3SkxMekk?oc=5",
+   "ts": "Thu, 19 Nov 2026 21:50:32 GMT"
   },
   {
    "src": "gnews",
-   "title": "Australia’s Leader to Navigate Trade, Security in Talks With Xi - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnByMFFxbTFGcDQtQjNfZHpEeUJSZ2E2Y2tfaFZScEJYUzN6VmhtelBFSlpjOEMyTDE0X0NUUUJCUjRkVzFGVW9TLXFBSzBlQklHRzVzQnowWXE4b2g5VVMtVUdLUC1STzBxdjJNRWxSc0xSVGtJVzZxMTByUmk5VEtyMHV5TnIwbmZpdTF1bVktTDZ2VGdybnlNUm9QZ1NqNFRBRjIxaHZZMkxvUDE0U1p0Zw?oc=5",
-   "ts": "Fri, 20 Nov 2026 02:31:00 GMT"
+   "title": "Watch USCC on US-China Competition, Trade Tensions - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT1NHUVg4UjZpSFBoc2ZqZUp3aUN2OFhucnM3QW1vUW5ic2RfTlotRXNNNmMzVVl5eEhlSVlwWHBqUXBtbUhOZWFHUnEwM2RzMjBxaFJSalZyMWJzaWswOHFaUlk2a1hSVmdjT3puaVo0d21ZbmlQa3NiWEJPRmgxdUJJZzJJLTY3M3VvZEluT2NaSklsbGVTOFpSRTYwa3c?oc=5",
+   "ts": "Fri, 20 Nov 2026 04:54:54 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "The West loved free trade until China started winning - Monthly Review",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVc0TWpEd2p5Zld3WDVrZlJRRmgwb3M3dmlQOC1LTmd5bnYtaEdnNWw3azA0ODg1MFNVeEZFd3ZTR2I2VGE0aUxWbVpxTW1BSHVIN0h0NVNFYjdrYXNGdVBzTkNRMGR2T2Q5bUNqTzVhTlJzeUVLTXIybkhQdFFzTTk1cWxRbHd3bGRHM0UxOA?oc=5",
+   "ts": "Fri, 20 Nov 2026 04:49:52 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +457,126 @@
    "title": "South Korea says China trade agreement to boost tourism, entertainment sectors - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
    "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Los equilibrios de Sheinbaum en China : más cooperación sin afectar las relaciones con EEUU",
+   "url": "https://www.latimes.com/espanol/mexico/articulo/2026-11-19/los-equilibrios-de-sheinbaum-en-china-mas-cooperacion-sin-afectar-las-relaciones-con-eeuu",
+   "ts": "20261120T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US , Venezuelan military ties set by deal signing",
+   "url": "https://www.eldoradonews.com/news/2026/nov/19/us-venezuelan-military-ties-set-by-deals-signing/",
+   "ts": "20261120T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Не ожидал никто : о чем на самом деле договорились Путин , Си и Трамп",
+   "url": "https://ria.ru/20261120/sammit-2132841940.html",
+   "ts": "20261120T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ayanna Pressley Continues to Lay Out The Democrat Warped Agenda for the Next Congress",
+   "url": "https://wcbm.com/national-headline/ayanna-pressley-continues-to-lay-out-the-democrats-warped-agenda-for-the-next-congress/",
+   "ts": "20261120T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "DOJ Secures Permanent Injunction Against California Anti - ICE Rules",
+   "url": "https://pjmedia.com/catherinesalgado/2026/11/19/doj-secures-permanent-injunction-against-california-anti-ice-rules-n4959509",
+   "ts": "20261120T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Senate Republicans Block Iran War Resolution Again",
+   "url": "https://700wlw.iheart.com/content/2026-11-20-senate-republicans-block-iran-war-resolution-again/",
+   "ts": "20261120T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Senate Republicans Block Iran War Resolution Again",
+   "url": "https://klvi.iheart.com/content/2026-11-20-senate-republicans-block-iran-war-resolution-again/",
+   "ts": "20261120T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Air Force One sets aviation records on nearly 15 - hour nonstop return flight from China",
+   "url": "http://www.europesun.com/news/279444370/air-force-one-sets-aviation-records-on-nearly-15-hour-nonstop-return-flight-from-china",
+   "ts": "20261120T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Grants Posthumous Pardon To Pete Rose",
+   "url": "https://wjbt.iheart.com/content/2026-11-20-trump-grants-posthumous-pardon-to-pete-rose/",
+   "ts": "20261120T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump administration appeals to Supreme Court over legal protections for Venezuelan migrants",
+   "url": "https://www.themorningsun.com/2026/11/18/supreme-court-venezuela-tps/",
+   "ts": "20261120T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Patti Hamilton : Nowhere man ( Opinion ) ",
+   "url": "https://www.wvgazettemail.com/opinion/op_ed_commentaries/patti-hamilton-nowhere-man-opinion/article_f75458a3-e97e-4e5d-8c5f-7615f954f0a9.html",
+   "ts": "20261120T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Denmark approves security deal with US and Greenland",
+   "url": "https://www.eldoradonews.com/news/2026/nov/19/denmark-approves-security-deal-with-us-and/",
+   "ts": "20261120T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US Tech outages singes Trump administration , Kirsten Davies appointed new Cyber Director",
+   "url": "http://www.asiabulletin.com/news/279444286/us-tech-outages-singes-trump-administration-kirsten-davies-appointed-new-cyber-director",
+   "ts": "20261120T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "DOJ Seeks To Dismiss Alaska Senate Election Lawsuit",
+   "url": "https://whoradio.iheart.com/content/2026-11-19-doj-seeks-to-dismiss-alaska-senate-election-lawsuit/",
+   "ts": "20261120T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": " « Συμμαχία των Προθύμων »: Στήριξη σε Ουκρανία , δεν υπάρχει ειρήνη χωρίς την Ευρώπη – Η παρέμβαση Τραμπ",
+   "url": "https://www.inewsgr.com/182/symmachia-ton-prothymon-stirixi-se-oukrania-den-yparchei-eirini-choris-tin-evropi--i-paremvasi-trab.htm",
+   "ts": "20261120T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump National Cyber Director Sean Cairncross steps down amid repeated tech outages : Report",
+   "url": "http://www.birminghamstar.com/news/279444165/trump-national-cyber-director-sean-cairncross-steps-down-amid-repeated-tech-outages-report",
+   "ts": "20261120T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "DOJ Seeks To Dismiss Alaska Senate Election Lawsuit",
+   "url": "https://newsradio1470.iheart.com/content/2026-11-19-doj-seeks-to-dismiss-alaska-senate-election-lawsuit/",
+   "ts": "20261120T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "राहुल गांधी का ट्रंप - पुतिन - जिनपिंग की तस्वीर पर इंटरनेशनल दावा , बोले - कांग्रेस सत्ता में होती तो एक चेयर भारत की होती",
+   "url": "https://navbharattimes.indiatimes.com/india/rahul-gandhi-shared-donald-j-trump-vladimir-vladimirovich-putin-xi-jinping-meet-photo/articleshow/136013904.cms",
+   "ts": "20261120T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Alabama Democrat Lawmaker Indicted in COVID Relief Fraud Case",
+   "url": "https://wcbm.com/national-headline/alabama-democrat-lawmaker-indicted-in-covid-relief-fraud-case/",
+   "ts": "20261120T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Tõlge kui sõimu - ja sülgamisvorm",
+   "url": "https://www.sirp.ee/tolge-kui-soimu-ja-sulgamisvorm/",
+   "ts": "20261120T053000Z"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-19T23:45:30Z",
+ "ts": "2026-11-20T00:00:32Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -407,15 +407,15 @@
   },
   {
    "src": "gnews",
-   "title": "Anglo American (LSE:AAL) Tests Its Bull Case After China Trade Fears Hit Miners - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONzhsNHpKQzh2WHBFUDNudjF2WVQwM3FpZkQ0ckdqWWxBYWxBb00zME43WW42YnVackxobFpaOGd1czIyNWd3UEt2eDJTSHFWdlAwWmdjcnRkUDdWUkZDdTAzRE1jRW4ydnhvTUU0aWRPQndrcDlYMDRmZHpEVVduV0ZWeWo4bkNoQVhCY1k4QkxWemV3RFhLcg?oc=5",
-   "ts": "Thu, 19 Nov 2026 21:12:21 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Why China’s Export Machine Seems Unstoppable - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpueWc0R1FSdjNSYVF1c3pmRzlQTWc2RFJQV0p5TnZNdlJqZEExQ0xaczB0ZWNLcHhpWjlDWlBMSmo2SnFFUGlfVTI2OVotcGo5WENRdFc2WlJLZXNzb2RzWTFoMWZHOVYzWkNmbVFSSG5QZ3lCbUJNNXJFbjI4bUhvUEltV1JnV0RSVHQxQ2xrUFMzX1FSRWFNQQ?oc=5",
    "ts": "Thu, 19 Nov 2026 22:13:35 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Anglo American (LSE:AAL) Tests Its Bull Case After China Trade Fears Hit Miners - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONzhsNHpKQzh2WHBFUDNudjF2WVQwM3FpZkQ0ckdqWWxBYWxBb00zME43WW42YnVackxobFpaOGd1czIyNWd3UEt2eDJTSHFWdlAwWmdjcnRkUDdWUkZDdTAzRE1jRW4ydnhvTUU0aWRPQndrcDlYMDRmZHpEVVduV0ZWeWo4bkNoQVhCY1k4QkxWemV3RFhLcg?oc=5",
+   "ts": "Thu, 19 Nov 2026 21:12:21 GMT"
   },
   {
    "src": "gnews",

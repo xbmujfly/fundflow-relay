@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-20T08:15:23Z",
+ "ts": "2026-11-20T08:30:27Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -359,6 +359,12 @@
   },
   {
    "src": "gnews",
+   "title": "What impact will the Shenzhen summit have on the US-China trade war? - France 24",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY2RQbXB0NVZJVHlNTEI5V3JYc1lZeGxhdE1ud2tkbUZ6bG1uQzkwLWFmQTRwaTF3UWJGcHNIZ1EtWUlrLThTa3dFOVUzOVNHZmNlN3RPTUNPWnh4QUw1QVV0T005eW5mV2pZMnVxcjRIeG1oa043Wnd2N0VrNmRtbzJMU0VoUFJsZUNsY1E0TFNwRjdFNmlSTzVLYzBWQXJQTjZn?oc=5",
+   "ts": "Thu, 19 Nov 2026 17:34:09 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "New Data Maps China’s Trade, Investment and Development Finance Across Asia - The China-Global South Project",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVnp6SmZVazFnSzBiNUV1TFVmbkw5ZDkzbEQ0dzIwNEI4OVpIWDRfdEl2RW0tSldiWDVySktfa0pYdHo1T2piS0VrNG5NeTVaY0loX0k0UElET2xwcXR1d0JfcXlObkRMZVVyOVRCYllSM0lhVWpWM3lJWWJMOWp6aVpFbzc4WW9sNXJSYUFGRQ?oc=5",
    "ts": "Fri, 20 Nov 2026 05:45:12 GMT"
@@ -371,21 +377,9 @@
   },
   {
    "src": "gnews",
-   "title": "What impact will the Shenzhen summit have on the US-China trade war? - France 24",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY2RQbXB0NVZJVHlNTEI5V3JYc1lZeGxhdE1ud2tkbUZ6bG1uQzkwLWFmQTRwaTF3UWJGcHNIZ1EtWUlrLThTa3dFOVUzOVNHZmNlN3RPTUNPWnh4QUw1QVV0T005eW5mV2pZMnVxcjRIeG1oa043Wnd2N0VrNmRtbzJMU0VoUFJsZUNsY1E0TFNwRjdFNmlSTzVLYzBWQXJQTjZn?oc=5",
-   "ts": "Thu, 19 Nov 2026 17:34:09 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "U.S.-China Trade Talks Leave Questions Over Agricultural Purchases - RFD-TV",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeUo1VDRMd1I1MmEwM1RBd1lWYU9aMlVDNXZTel9DS1dPUDNmazVSZUxXMmdoRFdfZkRBRG0tSDBhdDRUUnNwRmRVSWx3Q1FOUFRzZ0xlMEYxZjhDdDBOcnRSTG1hRU1lY0MzWUh5bnVqc1p5YlFWZDRmZHd5a3pmNTJzUkdxWVg1d0tqbG5tLXg?oc=5",
    "ts": "Fri, 20 Nov 2026 00:09:33 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Canada Auto Plant The 'Front Line' In Trump's Trade War - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNXMwX19Dd1NOQWlrQUhVUThoZGhneVJXYUk4cHU2VDBReTlhVld1OFRxVHBJTXpqWktoMlRvdm9nMTFFd2x2YVpOdlNQSzhKNGFvaXhDU3dvSTVzOE1LOVdIWHdxRzl2YzM1bmdmdC1SaUxFazhXREJjeW1ncld6d1FfNWxYWnhmTk5kdTVtMF9YVm1lU2c?oc=5",
-   "ts": "Fri, 20 Nov 2026 01:27:00 GMT"
   },
   {
    "src": "gnews",
@@ -395,15 +389,15 @@
   },
   {
    "src": "gnews",
-   "title": "The bill for Trump’s trade war is coming due—at home and abroad - Fortune",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LVldTODA1VnhXU3N6SlR3SEhVX21UaEd6WDZQLW5zdDdybXJXTThQM04wcElBaXhIUDR5dFpqUkF6MVZLN2VyNFVWV2F3UTJjT3UwZE1yc3ZvZFlQQkxmem5UX2FIR096ZTBOOVVxWVU1QQ?oc=5",
-   "ts": "Thu, 19 Nov 2026 10:56:00 GMT"
+   "title": "Canada Auto Plant The 'Front Line' In Trump's Trade War - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNXMwX19Dd1NOQWlrQUhVUThoZGhneVJXYUk4cHU2VDBReTlhVld1OFRxVHBJTXpqWktoMlRvdm9nMTFFd2x2YVpOdlNQSzhKNGFvaXhDU3dvSTVzOE1LOVdIWHdxRzl2YzM1bmdmdC1SaUxFazhXREJjeW1ncld6d1FfNWxYWnhmTk5kdTVtMF9YVm1lU2c?oc=5",
+   "ts": "Fri, 20 Nov 2026 01:27:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump lands in China for trade talks and high-stakes summit with Xi and Putin - PBS",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb0cyRko0OEN1RlRLT0VFTjBfeU1zZWllR193RFc3WVl4T2h1NmFJQjl4UEZJcWdKUmFuOWVXUTl1Qi1uaERobk1iZGpIR20ycjlNcl9lVDY3MzIxbmhJblA1ejlQOGE5Yi1iZUpZMkhEemo4RGFrMVIwSzJjMW5OY0RURDFrRWRUaFBweFZlS3BwWUg2WUhhWDY1Sno4QVV1eTU5cjRyT1VCZkZ5ZExvRQ?oc=5",
-   "ts": "Wed, 18 Nov 2026 23:55:44 GMT"
+   "title": "The bill for Trump’s trade war is coming due—at home and abroad - Fortune",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LVldTODA1VnhXU3N6SlR3SEhVX21UaEd6WDZQLW5zdDdybXJXTThQM04wcElBaXhIUDR5dFpqUkF6MVZLN2VyNFVWV2F3UTJjT3UwZE1yc3ZvZFlQQkxmem5UX2FIR096ZTBOOVVxWVU1QQ?oc=5",
+   "ts": "Thu, 19 Nov 2026 10:56:00 GMT"
   },
   {
    "src": "gnews",
@@ -413,15 +407,33 @@
   },
   {
    "src": "gnews",
+   "title": "Australia’s Leader to Navigate Trade, Security in Talks With Xi - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnByMFFxbTFGcDQtQjNfZHpEeUJSZ2E2Y2tfaFZScEJYUzN6VmhtelBFSlpjOEMyTDE0X0NUUUJCUjRkVzFGVW9TLXFBSzBlQklHRzVzQnowWXE4b2g5VVMtVUdLUC1STzBxdjJNRWxSc0xSVGtJVzZxMTByUmk5VEtyMHV5TnIwbmZpdTF1bVktTDZ2VGdybnlNUm9QZ1NqNFRBRjIxaHZZMkxvUDE0U1p0Zw?oc=5",
+   "ts": "Fri, 20 Nov 2026 07:01:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China Ratchets Up Its Weaponization of Trade - The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaHpheEg0d2xuREpDYmtGRnZTT3NRWjNhMWxGSzdfRzdCRTY2M3p5SVgwYkUtU25JdGVtUlZTcm82SHUyYk9NUUxMUlZXUGozT0pyYTZMUjlMTU1HTjI5QnNLQm9IMmRUeTU1XzFEQ25SQUFKbS1WMXprSFB5Tmp3NURETQ?oc=5",
+   "ts": "Thu, 19 Nov 2026 19:07:43 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal - CNBC",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa1JwdmY0aEYyNHRwSEJ2UVI3a0RBd0NnTDdLbnZxN3o2SlZfRHJHS0dkWURKczBRczZ2dXdfX1FrQi05Q0FzNi1FTVEwQ2tiYnpyTHc3M1VSVjk3elEyb3Q1MlhNWldyUmZNQ0ZfLS1OdmJ5c3d5OUtwc2REajJGY2ZlcGnSAYoBQVVfeXFMTWlMMENRZ1hNNVlfcWZkcktZTWJ4TjdYRzBfRlQxWDIwUmdKNndBZmhGaVM0RkY4V01Ud2RneG93bTcxTk9FYmlMdVU4cUx6UV90VU5uR1l5MVR6THhqRTlhWFdPRGlBTjM4UlBVaWFaSHhvVkJYMm1LLVJQWEpGZEcxNG0ybGhzSnRn?oc=5",
    "ts": "Thu, 19 Nov 2026 02:54:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "In Shenzhen, U.S.-China Trade Talks Muddle Along - RANE Worldview",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV25CT0xXUWowaHdGRURBcGp2a09OS2h1UkJpUm9idzVQNGRJTFh0TzBydnZpLTdBTHVMZnd1NnRjcl9rNjA2U0RJSlF0NXdiVUV3aW9HNU02Y2xORWFfelRmZWVSVGtnMURmbzQ5anpqUV9hejZZenNVSFRVdklDUVVNZnE2YnRtblZ3cy14SG9McUVmczVNQllvRHIxVWlXT0R6bldfSE9uUVh0NS1sMG1haWdYOWFTbVRNSE43TWhJcms?oc=5",
-   "ts": "Thu, 19 Nov 2026 22:34:00 GMT"
+   "title": "Trump lands in China for trade talks and high-stakes summit with Xi and Putin - PBS",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb0cyRko0OEN1RlRLT0VFTjBfeU1zZWllR193RFc3WVl4T2h1NmFJQjl4UEZJcWdKUmFuOWVXUTl1Qi1uaERobk1iZGpIR20ycjlNcl9lVDY3MzIxbmhJblA1ejlQOGE5Yi1iZUpZMkhEemo4RGFrMVIwSzJjMW5OY0RURDFrRWRUaFBweFZlS3BwWUg2WUhhWDY1Sno4QVV1eTU5cjRyT1VCZkZ5ZExvRQ?oc=5",
+   "ts": "Wed, 18 Nov 2026 23:55:44 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney: Trump not concerned about growing Canada trade ties with China - The Hill",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT2RPVF9WX0RXT2ZiNktuX0xrVXJOVEFsQXJfLXIxdFVzSjRZZktYS0JsUC1TY2Q5WklHYjdVY19LUFpTbzZjQ2E4cURsWGQ1OTJfRnhHNVp3OG5tVUFib3ZBVXFtVGlnYWJTb3FSR3F3dlp4VUNJTEVvZUxSb3lTSUxlX0VnQdIBiwFBVV95cUxNcmNTTXd0TGtSeTRsZDMtOUtCMzRwQ1RicEd5S1FTVmZDblFJV3B3eHhSMmpZTDRyTW9NQXNzT052Yk1RcXVoWWFqODRNenZyZXNjNnhPaXBHN0NrMjI4SDFLcFRMeFQ4bURzT1N4VHAyeVViMDFGaUE3Q0taTzFteWZTTVRBZVktRVY0?oc=5",
+   "ts": "Wed, 18 Nov 2026 19:19:00 GMT"
   },
   {
    "src": "gnews",
@@ -437,12 +449,6 @@
   },
   {
    "src": "gnews",
-   "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kN1VQeHRmSWJFQ2NzTW9IS1hUczJuM0Fqa01jMW1ZRkwxT2JVV2xLbllJRVBoc1gtQklCT2FRNVpNWElEeFpneDlaTDdHOVhsZGtHRXZJSEUyQjE1OUpFY2FvbDFKbk15OFdaZFI4ZjRSN3laTkFRQ3BLQdIBgAFBVV95cUxOeUtIeUtSU29VbDRRbWlQclJXOW5jVmNpbW8zYlFNbmRhem8yN1lDWU5adEhraFlXUjFCZlZDeEExUVJaRG9WZGl4bTlNUEw3Y2xvemg4V2RvZmsxREZFNWNGXzE4Z3VIUGNEeWducjZaSkpGYUxpbXNsekdIeW9jUw?oc=5",
-   "ts": "Wed, 18 Nov 2026 02:23:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Mexico's Sheinbaum hopes to seal trade deal in next meeting with Trump - Reuters",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV3NIMFlEOTNmNzRFX3lnSlN6Uy11NmF4Xzdubmc2ZkNfeHdZRFFGY2trbjMwWTM0OTdZcFVoNlQzM3RiUHhGV0RQa0ZUcklDOWVSMGJBNDI2TzV3VEV0c2J4ZVVaYkwwTXEzaExkcElWTG9GZ3ZPOUZMX3pIc29iN1EtOEM2V3dETnA4YTFLaTQwZU5qMUFvcmFHMFVqZHlBcENYaUdDeHk0SFYyc2pxNg?oc=5",
    "ts": "Thu, 19 Nov 2026 16:17:43 GMT"
@@ -452,12 +458,6 @@
    "title": "South Korea says China trade agreement to boost tourism, entertainment sectors - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
    "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump says Board of Trade has brought 'greater balance' to US-China ties - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0VUY0prRXhtQVNrWEEyblJwRE5RdTk0ajdzSXBaNlJZcWF3YTNGbWFmMzdvSnJwWmc3ZS1ScHd4Q2tuVXA5SVJKbWFYNmxoSmdqT0VJM2FFS2Z1U3NYU0ZKbzRPSXhadEplSFQ1cDkyT1htZmdmRC1UTDgzQktfMXZqRDJiNnpTWnpHc1J2MThYazVyeTVpVFp5cW1PYTRzMjE5YnpkV0hlUQ?oc=5",
-   "ts": "Thu, 19 Nov 2026 07:08:00 GMT"
   }
  ]
 }

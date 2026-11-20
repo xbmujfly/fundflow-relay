@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-20T23:15:22Z",
+ "ts": "2026-11-20T23:30:25Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -370,12 +370,6 @@
   },
   {
    "src": "gnews",
-   "title": "Business opportunity or security threat? Nvidia case raises questions about China - NPR",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZFM4UXRMNVBPNHhuMlNGOURHa0pvRWNCc3BmcGlXV2VqUlRsU0hsQmRHRUx3ZUJfeE1nSFBobUhaY2hHMkhxQVBfVFBhclJmckJEeTIzc29CM3pMcV9uajFyX2NCaEdpSTdGanNTYjVocjBZejBwV2Z6ZWg0T2ZwQWx1WDRDV2ZiVVNteklMQm1wNk9SXzJidlVRSXBoYTI4NHBNQ1J5cEx2MXBVX2JWTXpXZ1hhaFZWeHhJZGh6dlRqVVk?oc=5",
-   "ts": "Fri, 20 Nov 2026 09:42:24 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump Blasts ‘Very Difficult’ Canada Over Trade: ‘Ripping Us Off’ - Newsweek",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUko1alZDc3dLQUl5cUhWZ1V6bFZ0em96RHNybGtIeWtrcDJhc3R3aWYzbFpNa09zYUNYbU1IZUFsbWhZdVBkOVROS1VKM2l1NzVjd3VZdkdVMURueEFjUFpCd3BKV1RvSGM0cElod2NKcUJmMXo1SWVobVdDRndQNnpOMA?oc=5",
    "ts": "Fri, 20 Nov 2026 18:50:00 GMT"
@@ -388,21 +382,9 @@
   },
   {
    "src": "gnews",
-   "title": "The tech wreck is one stock trade Trump can’t ‘TACO’ away - MarketWatch",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTTRxdEJUWEhNR29HNmE3cG1Ca0dJVWVQTWdsZmhqcnR3UW41ekZ3UXo5dGxtMVVvU0RSejBWcW9UUkVtVXFFZG1JQ3I0TlpaZTUtem41d0xGM3h2bWQ3cjM1VVRXVGNreTBHR0Q0VnhyaFBXcnFOd0RiVDRucEdtTHpMejZLSkFiTEszemdyd3pLbG5YZ2xYREFDT1pSdw?oc=5",
-   "ts": "Fri, 20 Nov 2026 20:52:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "The bill for Trump’s trade war is coming due—at home and abroad - Fortune",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LVldTODA1VnhXU3N6SlR3SEhVX21UaEd6WDZQLW5zdDdybXJXTThQM04wcElBaXhIUDR5dFpqUkF6MVZLN2VyNFVWV2F3UTJjT3UwZE1yc3ZvZFlQQkxmem5UX2FIR096ZTBOOVVxWVU1QQ?oc=5",
-   "ts": "Thu, 19 Nov 2026 10:56:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
-   "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
+   "title": "Business opportunity or security threat? Nvidia case raises questions about China - NPR",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZFM4UXRMNVBPNHhuMlNGOURHa0pvRWNCc3BmcGlXV2VqUlRsU0hsQmRHRUx3ZUJfeE1nSFBobUhaY2hHMkhxQVBfVFBhclJmckJEeTIzc29CM3pMcV9uajFyX2NCaEdpSTdGanNTYjVocjBZejBwV2Z6ZWg0T2ZwQWx1WDRDV2ZiVVNteklMQm1wNk9SXzJidlVRSXBoYTI4NHBNQ1J5cEx2MXBVX2JWTXpXZ1hhaFZWeHhJZGh6dlRqVVk?oc=5",
+   "ts": "Fri, 20 Nov 2026 09:42:24 GMT"
   },
   {
    "src": "gnews",
@@ -412,21 +394,39 @@
   },
   {
    "src": "gnews",
+   "title": "The bill for Trump’s trade war is coming due—at home and abroad - Fortune",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LVldTODA1VnhXU3N6SlR3SEhVX21UaEd6WDZQLW5zdDdybXJXTThQM04wcElBaXhIUDR5dFpqUkF6MVZLN2VyNFVWV2F3UTJjT3UwZE1yc3ZvZFlQQkxmem5UX2FIR096ZTBOOVVxWVU1QQ?oc=5",
+   "ts": "Thu, 19 Nov 2026 10:56:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "The tech wreck is one stock trade Trump can’t ‘TACO’ away - MarketWatch",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTTRxdEJUWEhNR29HNmE3cG1Ca0dJVWVQTWdsZmhqcnR3UW41ekZ3UXo5dGxtMVVvU0RSejBWcW9UUkVtVXFFZG1JQ3I0TlpaZTUtem41d0xGM3h2bWQ3cjM1VVRXVGNreTBHR0Q0VnhyaFBXcnFOd0RiVDRucEdtTHpMejZLSkFiTEszemdyd3pLbG5YZ2xYREFDT1pSdw?oc=5",
+   "ts": "Fri, 20 Nov 2026 20:52:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Remembering the dog he never had - Humane World for Animals",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2pNb0dobHVqSjhSbFhHSjlMRVlGVndlTk92QXhGc0VueUMzVjhpVGdDbnl2WkJURzJMSWp2YnZGcU5PNFl3Qk9GWGRXQ2pYbm1pZnFNZTRDR3B1VEp2clB5Q0hQakl3cktqX2lwZG83T0xPbHNYR2Z1MnJpOXpFV0JnYktyLXJ5aEdR?oc=5",
    "ts": "Fri, 20 Nov 2026 21:02:21 GMT"
   },
   {
    "src": "gnews",
-   "title": "Friend zone: rejected by US voters, Trump enjoys autocrats’ warm embrace - The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQllPYVVySEx3bERBWUx0WUlKd2NTWjhEd2l6QW90cG5yUUU5ckg5eE85NmF1ZmxBYk5oTDFleDFzY3RmQ3R1eDREX1hZbmpnZkdXWmwybFVRcm84RmVJVXVoSTduUVZxS0R4SXNsc0hxSUpDUlpQVzRXZUI3RnN3Znk0dUtwMU1nV2RPXzBvYnpUSFkxV21vSA?oc=5",
-   "ts": "Fri, 20 Nov 2026 19:51:00 GMT"
+   "title": "Trump Says US Close to Mexico Trade Deal, Less So With Canada - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWEtmTmdhWjZvZTJWLWxnU1hkRlU4OEl6dENEYThqM1lWNDRRUWwzUW51UWFCTGs0Y2RYNjRHaldUNXBuY3BHdFVKUUdMZVVCVFRUTENnR0ZLRTBpc1pOeFdib0c5TW4yYTRpdDZnaVJRSzY2aVNHZ0ItOWw0MDhzSzBlNDFHdWQ0Zk1HUzE4T3hhaXdrVzRBSXBMcXlNakVLUlVyS0J3NXpFWFBHNmhVcA?oc=5",
+   "ts": "Fri, 20 Nov 2026 18:03:49 GMT"
   },
   {
    "src": "gnews",
    "title": "Canadian winery considers shifting business to China as Trump tariffs raise concerns for New York economy - Spectrum News",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWluSVNRLUt6RFRXWExqbEJrUEJ2Sm84b1NMdWw2LWxLX3E0QUUyU3BLNEE4SlJHUElDVkRXdXY0WlRNUDJqNmhSaUYtc1hyTEhKVVg4RXV6TjFvZEVEUFJhWFZRSUtHRTB0OW1BVnViVkhXeDJYSmN1SnVuUjdYT3F1NnQxNTNrVHRRc2JwN0JvYWdWdVpneE5VWG5DdnFtOTV0R2FzOUgtYzhfeFd4ekpvZw?oc=5",
    "ts": "Fri, 20 Nov 2026 01:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Friend zone: rejected by US voters, Trump enjoys autocrats’ warm embrace - The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQllPYVVySEx3bERBWUx0WUlKd2NTWjhEd2l6QW90cG5yUUU5ckg5eE85NmF1ZmxBYk5oTDFleDFzY3RmQ3R1eDREX1hZbmpnZkdXWmwybFVRcm84RmVJVXVoSTduUVZxS0R4SXNsc0hxSUpDUlpQVzRXZUI3RnN3Znk0dUtwMU1nV2RPXzBvYnpUSFkxV21vSA?oc=5",
+   "ts": "Fri, 20 Nov 2026 19:51:00 GMT"
   },
   {
    "src": "gnews",

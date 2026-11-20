@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-20T06:45:25Z",
+ "ts": "2026-11-20T07:00:27Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -460,6 +460,66 @@
   },
   {
    "src": "gdelt",
+   "title": "US Mint Sales : Diamond Field Dollars Hit 120K , Gettysburg Quarters Reach 1 . 8M",
+   "url": "https://www.coinnews.net/2026/11/19/mint-sales-diamond-field-dollars-hit-120k/",
+   "ts": "20261120T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Asian stocks head for worst week since 2020 as AI rally loses steam",
+   "url": "https://www.business-standard.com/markets/news/asian-stocks-head-for-worst-week-since-2020-as-ai-rally-loses-steam-126112000154_1.html",
+   "ts": "20261120T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Titan , Muthoot Finance , Kalyan Jewellers fall up to 4 % as Gold prices slide",
+   "url": "https://www.business-standard.com/markets/news/titan-muthoot-finance-kalyan-jewellers-fall-up-to-4-as-gold-prices-slide-126112000238_1.html",
+   "ts": "20261120T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Jak Trump z Putinem .  Wcześniej tylko się tego domyślano  ",
+   "url": "https://www.newsweek.pl/swiat/jak-trump-z-putinem-wczesniej-tylko-sie-tego-domyslano/3ee6y0h",
+   "ts": "20261120T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US approved AI chip sales for China firms , including Tencent , Alibaba : Data",
+   "url": "https://www.business-standard.com/world-news/us-approved-ai-chip-sales-for-china-firms-including-tencent-alibaba-data-126112000173_1.html",
+   "ts": "20261120T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Стубб сообщил о призыве Трампа к Европе связаться с Путиным напрямую",
+   "url": "https://news.mail.ru/politics/73169575/",
+   "ts": "20261120T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "India bonds set for opening gains , tracking Treasuries ; debt auction to curb moves",
+   "url": "https://www.thehindubusinessline.com/markets/india-bonds-set-for-opening-gains-tracking-treasuries-debt-auction-to-curb-moves/article71723022.ece",
+   "ts": "20261120T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Indian Jewellery Stocks Extend Slide as Gold , Silver Prices Fall",
+   "url": "https://econotimes.com/Indian-Jewellery-Stocks-Extend-Slide-as-Gold-Silver-Prices-Fall-1780044",
+   "ts": "20261120T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Rauha Ukrainaan jo ensi kevnä ? Asiantuntijat näkevät yhden suuren esteen",
+   "url": "https://www.is.fi/ulkomaat/art-2000012423045.html",
+   "ts": "20261120T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "News Wrap : Russian drone attack damages cathedral in Ukraine",
+   "url": "https://www.krwg.org/shows/newshour/clip/news-wrap-1795115991",
+   "ts": "20261120T063000Z"
+  },
+  {
+   "src": "gdelt",
    "title": "  At Every Global Stage , Rahul Acts Like Pak Fan Boy : BJP Hits Back At Rahul Gandhi Over  Side Player  Remark",
    "url": "https://www.freepressjournal.in/india/at-every-global-stage-rahul-acts-like-pak-fan-boy-bjp-hits-back-at-rahul-gandhi-over-side-player-remark",
    "ts": "20261120T061500Z"
@@ -516,66 +576,6 @@
    "src": "gdelt",
    "title": "AP News Summary at 12 : 47 a . m . EST",
    "url": "http://www.cecildaily.com/ap/nation/ap-news-summary-at-12-47-a-m-est/article_bdb7b0d8-a8bd-5798-ab24-48734f5c5470.html",
-   "ts": "20261120T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ο Τραμπ  τελείωσε  τον διευθυντή της Κυβερνοασφάλειας του Λευκού Οίκου μετά τα προβλήματα στις υπηρεσίες",
-   "url": "https://dialogos.com.cy/o-tramp-teleiose-ton-dieythynti-tis-kyvernoasfaleias-toy-leykoy-oikoy-meta-ta-provlimata-stis-ypiresies/",
-   "ts": "20261120T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Senate approves bill to speed up permitting reviews , force data centers to pay for energy costs",
-   "url": "https://www.kob.com/new-mexico/albuquerque-metro/senate-approves-bill-to-speed-up-permitting-reviews-force-data-centers-to-pay-for-energy-costs/",
-   "ts": "20261120T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Xi lauds PM for  full turnaround  in China relationship",
-   "url": "https://www.macleayargus.com.au/story/9395015/xi-lauds-pm-for-full-turnaround-in-china-relationship/",
-   "ts": "20261120T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Пратеник за мир : Зетят на Тръмп трупал  пари за черни дни  от войните в света",
-   "url": "https://www.actualno.com/company/pratenik-za-mir-zetjat-na-trymp-trupal-pari-za-cherni-dni-ot-vojnite-v-sveta-news_2664770.html",
-   "ts": "20261120T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ex - premier sprinkles hope for Labor election chances",
-   "url": "https://www.merimbulanewsweekly.com.au/story/9395014/ex-premier-sprinkles-hope-for-labors-election-chances/",
-   "ts": "20261120T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Εμανουέλ Μακρόν και Κάμαλα Χάρις σε συνάντηση στο Παρίσι",
-   "url": "https://www.madata.gr/epikairotita/world/995883-emanoyel-makron-kai-kamala-charis-se-synantisi-sto-parisi.html",
-   "ts": "20261120T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Αλλαγή στην ηγεσία της κυβερνοασφάλειας των ΗΠΑ – Ποια η Κίρστεν Ντέιβις που αναλαμβάνει το κρίσιμο πόστο στον Λευκό Οίκο",
-   "url": "https://www.philenews.com/kosmos/article/1798123/allagi-stin-igesia-tis-kivernoasfalias-ton-ipa-pia-i-kirsten-nteivis-pou-analamvani-to-krisimo-posto-ston-lefko-iko/",
-   "ts": "20261120T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "트럼프 , 젠슨 황 스캔들 직전까지 엔비디아 주식 매매 … 이해충돌 논란 재점화",
-   "url": "https://biz.chosun.com/international/international_economy/2026/11/20/BGJDDPKM3ZGVTK5OKT4FCQWOWU/",
-   "ts": "20261120T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Telecom Revenue : Jefferies Optimistic on India Telecom Sector Amid Steady Revenue Growth , ETTelecom",
-   "url": "https://telecom.economictimes.indiatimes.com/news/industry/indias-telecom-sector-may-sustain-low-teens-revenue-growth-despite-tariff-hikes-every-2-3-years-jefferies/136010706",
-   "ts": "20261120T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  He certainly heard it : PM backs up his jab at Putin",
-   "url": "https://www.merimbulanewsweekly.com.au/story/9395581/he-certainly-heard-it-pm-backs-up-his-jab-at-putin/",
    "ts": "20261120T061500Z"
   }
  ]

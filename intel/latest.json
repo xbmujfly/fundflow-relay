@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-20T05:00:31Z",
+ "ts": "2026-11-20T05:15:30Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -419,9 +418,9 @@
   },
   {
    "src": "gnews",
-   "title": "Why China's EVs could throw a wrench into EU, UK trade talks - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
-   "ts": "Thu, 19 Nov 2026 23:05:56 GMT"
+   "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
+   "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
   },
   {
    "src": "gnews",
@@ -437,9 +436,9 @@
   },
   {
    "src": "gnews",
-   "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
-   "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
+   "title": "Why China's EVs could throw a wrench into EU, UK trade talks - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
+   "ts": "Thu, 19 Nov 2026 23:05:56 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +457,126 @@
    "title": "Trump says Board of Trade has brought 'greater balance' to US-China ties - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0VUY0prRXhtQVNrWEEyblJwRE5RdTk0ajdzSXBaNlJZcWF3YTNGbWFmMzdvSnJwWmc3ZS1ScHd4Q2tuVXA5SVJKbWFYNmxoSmdqT0VJM2FFS2Z1U3NYU0ZKbzRPSXhadEplSFQ1cDkyT1htZmdmRC1UTDgzQktfMXZqRDJiNnpTWnpHc1J2MThYazVyeTVpVFp5cW1PYTRzMjE5YnpkV0hlUQ?oc=5",
    "ts": "Thu, 19 Nov 2026 07:08:00 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Democrats Already Intent On Disappointing The World - OpEd",
+   "url": "https://www.eurasiareview.com/20112026-democrats-already-intent-on-disappointing-the-world-oped/",
+   "ts": "20261120T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "From Modi to Xi and Putin : Trump Asia meetings highlight shifting global power equations",
+   "url": "https://www.thehindubusinessline.com/news/world/everyone-is-a-friend-trumps-asia-meetings-reveal-contrasting-approaches-to-world-order/article71721990.ece",
+   "ts": "20261120T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Tarifstreit bei VW : Was auf Beschäftigte zukommen könnte",
+   "url": "https://www.noz.de/deutschland-welt/wirtschaft/artikel/tarifstreit-bei-vw-was-auf-beschaeftigte-zukommen-koennte-51777207",
+   "ts": "20261120T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "जेनसन हुआंग को लेकर ट्रंप से सवाल पूछने पर चिनफिंग नाराज , बैठक में महिला पत्रकार की एंट्री पर लगाई रोक - china blocks reporter from donald trump vladimir putin xi jinping meeting over question to us ",
+   "url": "https://www.jagran.com/world/china-china-blocks-reporter-from-donald-trump-vladimir-putin-xi-jinping-meeting-over-question-to-us-president-40442316.html",
+   "ts": "20261120T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Five things to watch this week",
+   "url": "https://www.businessday.co.za/lifestyle/arts-and-entertainment/2026-11-20-five-things-to-watch-this-week/",
+   "ts": "20261120T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  That is a shame : Trump stuns expert after giving away  historic  gift at summit",
+   "url": "https://www.rawstory.com/trump-xi-putin/",
+   "ts": "20261120T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Indian Shares Seen Lower As AI Selloff Deepens",
+   "url": "https://www.rttnews.com/story.aspx?Id=3716586",
+   "ts": "20261120T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ukraine News Today : Breaking Updates & Live Coverage - November 20 , 2026 from Kyiv Post",
+   "url": "https://www.kyivpost.com/thread/90655",
+   "ts": "20261120T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "DGFT opens one - time window for raw sugar import quota applications",
+   "url": "https://www.thehindubusinessline.com/economy/agri-business/dgft-opens-one-time-window-for-raw-sugar-import-quota-applications/article71721980.ece",
+   "ts": "20261120T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Grants Posthumous Pardon To Pete Rose",
+   "url": "https://wonw1280.iheart.com/content/2026-11-20-trump-grants-posthumous-pardon-to-pete-rose/",
+   "ts": "20261120T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Grants Posthumous Pardon To Pete Rose",
+   "url": "https://wiba.iheart.com/content/2026-11-20-trump-grants-posthumous-pardon-to-pete-rose/",
+   "ts": "20261120T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "王毅介绍亚太经合组织第三十三次领导人非正式会议及相关活动成果",
+   "url": "http://www.81.cn/yw_208727/16501024.html",
+   "ts": "20261120T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump administration moves to have lawsuit dismissed in challenge to Alaska US Senate race",
+   "url": "https://www.times-standard.com/2026/11/19/us-election-2026-alaska-senate-lawsuit/",
+   "ts": "20261120T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "First Tick : Top global cues to watch in today trade",
+   "url": "https://www.moneycontrol.com/news/business/stocks/first-tick-top-global-cues-to-watch-in-today-s-trade-40-14084560.html",
+   "ts": "20261120T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Mỹ có thể sớm chạm trần nợ công , đối mặt nguy cơ vỡ nợ từ tháng 8",
+   "url": "https://vietstock.vn/2026/11/my-co-the-som-cham-tran-no-cong-doi-mat-nguy-co-vo-no-tu-thang-8-772-1516338.htm",
+   "ts": "20261120T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Почему Британия настойчиво стремится обратно в Евросоюз при его скепсисе",
+   "url": "https://news.mail.ru/politics/73168396/",
+   "ts": "20261120T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Iran rejects US claims of developing biological , chemical weapons ; recalls Iraq WMD controversy",
+   "url": "http://www.iraqsun.com/news/279444073/iran-rejects-us-claims-of-developing-biological-chemical-weapons-recalls-iraq-wmd-controversy",
+   "ts": "20261120T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  The Pacific is not for sale : outcry after US holds first deep sea mining lease sale near American Samoa",
+   "url": "https://www.aol.co.uk/articles/pacific-not-sale-outcry-us-031407000.html",
+   "ts": "20261120T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "White House taps Kirsten Davies as cyber chief after outages rattle Americans",
+   "url": "https://www.ktvo.com/news/nation-world/white-house-taps-kirsten-davies-as-cyber-chief-after-outages-rattle-americans/article_c9b4634d-6b99-5b09-aca9-bbfb287cc49d.html",
+   "ts": "20261120T043000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump administration moves to have lawsuit dismissed in challenge to Alaska US Senate race",
+   "url": "https://www.khqa.com/news/nation-world/trump-administration-moves-to-have-lawsuit-dismissed-in-challenge-to-alaskas-us-senate-race/article_1593668d-0b14-5f91-88c1-bfcc11cba212.html",
+   "ts": "20261120T043000Z"
   }
  ]
 }

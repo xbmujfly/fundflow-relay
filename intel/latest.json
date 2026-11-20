@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-20T05:30:32Z",
+ "ts": "2026-11-20T05:45:24Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -401,15 +401,15 @@
   },
   {
    "src": "gnews",
-   "title": "South Korea sees progress on China trade, cultural restrictions - upi",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdGV6T0w0OFktcGYzZUYwdEVZM1d5Tnd3Vi1hNml2WVJHZUZxM1JRZU9SQVMta1hNRDc3dW8xbUN0Z0U0a1ZoQTlHOUdaeDhUc2JUdHdyQTFSVFdtVDVHNjBlZnNtNjZwdzdTQ3JhMzNib21wZjVvT0JiQmdRWERIVGhGbERmT0FwZFltZGM2bnpxVEI4ZTFUVG53Vy1ZNlNMd1HSAacBQVVfeXFMTjNETm9QRm81MWVuYXNFcGxvcWU5NkZOVUJ1NVQ4aHk0VmJxV0hwLUtzWGU0RVdtZzQ1QlhoQnRFbjh5UjFieF9uMlMtY3ktakJkZnB1dDVSVWJOYTZFamlGd0hGTE80a0JtUW53QWpxb1dPc3BkRU1VMzNnRnlPN0U1aXRoRnJPaEhvbVJpVkJJMU9NbkZZdEJtVE9VTzY2dms3SkxMekk?oc=5",
-   "ts": "Thu, 19 Nov 2026 21:50:32 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
    "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "South Korea sees progress on China trade, cultural restrictions - upi",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdGV6T0w0OFktcGYzZUYwdEVZM1d5Tnd3Vi1hNml2WVJHZUZxM1JRZU9SQVMta1hNRDc3dW8xbUN0Z0U0a1ZoQTlHOUdaeDhUc2JUdHdyQTFSVFdtVDVHNjBlZnNtNjZwdzdTQ3JhMzNib21wZjVvT0JiQmdRWERIVGhGbERmT0FwZFltZGM2bnpxVEI4ZTFUVG53Vy1ZNlNMd1HSAacBQVVfeXFMTjNETm9QRm81MWVuYXNFcGxvcWU5NkZOVUJ1NVQ4aHk0VmJxV0hwLUtzWGU0RVdtZzQ1QlhoQnRFbjh5UjFieF9uMlMtY3ktakJkZnB1dDVSVWJOYTZFamlGd0hGTE80a0JtUW53QWpxb1dPc3BkRU1VMzNnRnlPN0U1aXRoRnJPaEhvbVJpVkJJMU9NbkZZdEJtVE9VTzY2dms3SkxMekk?oc=5",
+   "ts": "Thu, 19 Nov 2026 21:50:32 GMT"
   },
   {
    "src": "gnews",
@@ -422,6 +422,12 @@
    "title": "The West loved free trade until China started winning - Monthly Review",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVc0TWpEd2p5Zld3WDVrZlJRRmgwb3M3dmlQOC1LTmd5bnYtaEdnNWw3azA0ODg1MFNVeEZFd3ZTR2I2VGE0aUxWbVpxTW1BSHVIN0h0NVNFYjdrYXNGdVBzTkNRMGR2T2Q5bUNqTzVhTlJzeUVLTXIybkhQdFFzTTk1cWxRbHd3bGRHM0UxOA?oc=5",
    "ts": "Fri, 20 Nov 2026 04:49:52 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Australia’s Leader to Navigate Trade, Security in Talks With Xi - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnByMFFxbTFGcDQtQjNfZHpEeUJSZ2E2Y2tfaFZScEJYUzN6VmhtelBFSlpjOEMyTDE0X0NUUUJCUjRkVzFGVW9TLXFBSzBlQklHRzVzQnowWXE4b2g5VVMtVUdLUC1STzBxdjJNRWxSc0xSVGtJVzZxMTByUmk5VEtyMHV5TnIwbmZpdTF1bVktTDZ2VGdybnlNUm9QZ1NqNFRBRjIxaHZZMkxvUDE0U1p0Zw?oc=5",
+   "ts": "Fri, 20 Nov 2026 02:31:00 GMT"
   },
   {
    "src": "gnews",
@@ -452,12 +458,6 @@
    "title": "South Korea says China trade agreement to boost tourism, entertainment sectors - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
    "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump says Board of Trade has brought 'greater balance' to US-China ties - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0VUY0prRXhtQVNrWEEyblJwRE5RdTk0ajdzSXBaNlJZcWF3YTNGbWFmMzdvSnJwWmc3ZS1ScHd4Q2tuVXA5SVJKbWFYNmxoSmdqT0VJM2FFS2Z1U3NYU0ZKbzRPSXhadEplSFQ1cDkyT1htZmdmRC1UTDgzQktfMXZqRDJiNnpTWnpHc1J2MThYazVyeTVpVFp5cW1PYTRzMjE5YnpkV0hlUQ?oc=5",
-   "ts": "Thu, 19 Nov 2026 07:08:00 GMT"
   }
  ]
 }

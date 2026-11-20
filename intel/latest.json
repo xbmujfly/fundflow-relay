@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-20T06:15:24Z",
+ "ts": "2026-11-20T06:30:33Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -358,6 +359,12 @@
   },
   {
    "src": "gnews",
+   "title": "New Data Maps China’s Trade, Investment and Development Finance Across Asia - The China-Global South Project",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVnp6SmZVazFnSzBiNUV1TFVmbkw5ZDkzbEQ0dzIwNEI4OVpIWDRfdEl2RW0tSldiWDVySktfa0pYdHo1T2piS0VrNG5NeTVaY0loX0k0UElET2xwcXR1d0JfcXlObkRMZVVyOVRCYllSM0lhVWpWM3lJWWJMOWp6aVpFbzc4WW9sNXJSYUFGRQ?oc=5",
+   "ts": "Fri, 20 Nov 2026 05:45:12 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "What impact will the Shenzhen summit have on the US-China trade war? - France 24",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY2RQbXB0NVZJVHlNTEI5V3JYc1lZeGxhdE1ud2tkbUZ6bG1uQzkwLWFmQTRwaTF3UWJGcHNIZ1EtWUlrLThTa3dFOVUzOVNHZmNlN3RPTUNPWnh4QUw1QVV0T005eW5mV2pZMnVxcjRIeG1oa043Wnd2N0VrNmRtbzJMU0VoUFJsZUNsY1E0TFNwRjdFNmlSTzVLYzBWQXJQTjZn?oc=5",
    "ts": "Thu, 19 Nov 2026 17:34:09 GMT"
@@ -424,12 +431,6 @@
   },
   {
    "src": "gnews",
-   "title": "Watch USCC on US-China Competition, Trade Tensions - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT1NHUVg4UjZpSFBoc2ZqZUp3aUN2OFhucnM3QW1vUW5ic2RfTlotRXNNNmMzVVl5eEhlSVlwWHBqUXBtbUhOZWFHUnEwM2RzMjBxaFJSalZyMWJzaWswOHFaUlk2a1hSVmdjT3puaVo0d21ZbmlQa3NiWEJPRmgxdUJJZzJJLTY3M3VvZEluT2NaSklsbGVTOFpSRTYwa3c?oc=5",
-   "ts": "Fri, 20 Nov 2026 04:54:54 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
    "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
@@ -457,126 +458,6 @@
    "title": "Trump says Board of Trade has brought 'greater balance' to US-China ties - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0VUY0prRXhtQVNrWEEyblJwRE5RdTk0ajdzSXBaNlJZcWF3YTNGbWFmMzdvSnJwWmc3ZS1ScHd4Q2tuVXA5SVJKbWFYNmxoSmdqT0VJM2FFS2Z1U3NYU0ZKbzRPSXhadEplSFQ1cDkyT1htZmdmRC1UTDgzQktfMXZqRDJiNnpTWnpHc1J2MThYazVyeTVpVFp5cW1PYTRzMjE5YnpkV0hlUQ?oc=5",
    "ts": "Thu, 19 Nov 2026 07:08:00 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Senate Republicans Block Iran War Resolution Again",
-   "url": "https://kfab.iheart.com/content/2026-11-20-senate-republicans-block-iran-war-resolution-again/",
-   "ts": "20261120T054500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Senate Republicans Block Iran War Resolution Again",
-   "url": "https://943wsc.iheart.com/content/2026-11-20-senate-republicans-block-iran-war-resolution-again/",
-   "ts": "20261120T054500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump National Cyber Director Sean Cairncross steps down amid repeated tech outages : Report",
-   "url": "http://www.texasguardian.com/news/279444165/trump-national-cyber-director-sean-cairncross-steps-down-amid-repeated-tech-outages-report",
-   "ts": "20261120T054500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "TWZ : самолет « Судного дня » сопровождал Трампа во время визита в Шэньчжэнь",
-   "url": "https://www.kommersant.ru/doc/9114292",
-   "ts": "20261120T054500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Air traffic control system needs more than money after FAA ground stop",
-   "url": "https://www.journalgazette.net/opinion/air-traffic-control-system-needs-more-than-money-after-faa-ground-stop/article_85744212-ab27-4284-9b51-bd133a10906c.html",
-   "ts": "20261120T054500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "So viel könnten die VW - Forderungen die Beschäftigten kosten",
-   "url": "https://www.finanzen.net/nachricht/aktien/so-viel-koennten-die-vw-forderungen-die-beschaeftigten-kosten-16077529",
-   "ts": "20261120T054500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump , Xi And Putin Pledge Nuclear Risk Talks At First Three - Way Summit",
-   "url": "https://www.worthynews.com/119214-trump-xi-and-putin-pledge-nuclear-risk-talks-at-first-three-way-summit",
-   "ts": "20261120T054500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "PM Wong and Xi pledge to deepen Singapore - China ties amid major global shake - ups",
-   "url": "https://www.businesstimes.com.sg/singapore/pm-wong-and-xi-pledge-deepen-singapore-china-ties-amid-major-global-shake-ups",
-   "ts": "20261120T054500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Путин , Трамп и Си Цзиньпин приняли декларацию о мире . К чему они пришли после исторического саммита ? ",
-   "url": "https://lenta.ru/news/2026/11/20/long-putin-tramp-i-si-tszinpin-prinyali-deklaratsiyu-o-mire-posle-istoricheskogo-sammita-o-chem-oni-dogovorilis/",
-   "ts": "20261120T054500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Iran rejects US claims of developing biological , chemical weapons ; recalls Iraq WMD controversy",
-   "url": "http://www.shanghaisun.com/news/279444073/iran-rejects-us-claims-of-developing-biological-chemical-weapons-recalls-iraq-wmd-controversy",
-   "ts": "20261120T054500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Netanyahu calls Iran strike  unavoidable  as Trump rallies Xi and Putin on nuclear proliferation",
-   "url": "https://aninews.in/news/world/middle-east/netanyahu-calls-iran-strike-unavoidable-as-trump-rallies-xi-and-putin-on-nuclear-proliferation20261120093339/",
-   "ts": "20261120T054500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "정동영 , 스틸 미국 대사에  남북 · 북미대화 재개 필요  ",
-   "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286812&PAGE_CD=N0002&CMPT_CD=M0112",
-   "ts": "20261120T054500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump pardons Pete Rose , says late MLB player was  treated terribly  ",
-   "url": "https://www.wogx.com/news/trump-pardons-pete-rose-says-mlb-player-was-treated-terribly",
-   "ts": "20261120T054500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Another tech outage ? Here what to do",
-   "url": "https://www.koat.com/article/tech-outage-what-to-do/74482106",
-   "ts": "20261120T054500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump pardons Pete Rose , says late MLB player was  treated terribly  ",
-   "url": "https://www.fox5ny.com/news/trump-pardons-pete-rose-says-mlb-player-was-treated-terribly",
-   "ts": "20261120T054500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "November 19th , 2026",
-   "url": "https://www.marklevinshow.com/2026/11/19/november-19th-2026/",
-   "ts": "20261120T054500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Pentagon official named to replace Trump national cyber director",
-   "url": "https://aa.com.tr/en/americas/pentagon-official-named-to-replace-trumps-national-cyber-director/4131628",
-   "ts": "20261120T054500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US mortgage rates up for the first time in five weeks ; housing starts rise",
-   "url": "https://www.businesstimes.com.sg/international/us-mortgage-rates-first-time-five-weeks-housing-starts-rise",
-   "ts": "20261120T054500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Senate backs bill to speed up permitting reviews",
-   "url": "https://www.koat.com/article/senate-permitting-bill-data-centers-pay-energy-costs/74484453",
-   "ts": "20261120T054500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "RIGHT SPEAK : Justice Department Conducting Criminal Probe Into Leak of Dobbs Abortion Decision ; DOJ Initiates Criminal Probe Into Supreme Court Dobbs Leak : Report",
-   "url": "http://www.rightspeak.net/2026/11/justice-department-conducting-criminal.html",
-   "ts": "20261120T054500Z"
   }
  ]
 }

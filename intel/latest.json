@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-20T01:15:35Z",
+ "ts": "2026-11-20T01:30:37Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -359,6 +359,12 @@
   },
   {
    "src": "gnews",
+   "title": "Canadian winery considers shifting business to China as Trump tariffs raise concerns for New York economy - Spectrum News",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWluSVNRLUt6RFRXWExqbEJrUEJ2Sm84b1NMdWw2LWxLX3E0QUUyU3BLNEE4SlJHUElDVkRXdXY0WlRNUDJqNmhSaUYtc1hyTEhKVVg4RXV6TjFvZEVEUFJhWFZRSUtHRTB0OW1BVnViVkhXeDJYSmN1SnVuUjdYT3F1NnQxNTNrVHRRc2JwN0JvYWdWdVpneE5VWG5DdnFtOTV0R2FzOUgtYzhfeFd4ekpvZw?oc=5",
+   "ts": "Fri, 20 Nov 2026 01:00:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Carney and Xi Announce Canada-China Trade Pact - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
    "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
@@ -374,12 +380,6 @@
    "title": "U.S.-China Trade Talks Leave Questions Over Agricultural Purchases - RFD-TV",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeUo1VDRMd1I1MmEwM1RBd1lWYU9aMlVDNXZTel9DS1dPUDNmazVSZUxXMmdoRFdfZkRBRG0tSDBhdDRUUnNwRmRVSWx3Q1FOUFRzZ0xlMEYxZjhDdDBOcnRSTG1hRU1lY0MzWUh5bnVqc1p5YlFWZDRmZHd5a3pmNTJzUkdxWVg1d0tqbG5tLXg?oc=5",
    "ts": "Fri, 20 Nov 2026 00:10:06 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "In Shenzhen, U.S.-China Trade Talks Muddle Along - RANE Worldview",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV25CT0xXUWowaHdGRURBcGp2a09OS2h1UkJpUm9idzVQNGRJTFh0TzBydnZpLTdBTHVMZnd1NnRjcl9rNjA2U0RJSlF0NXdiVUV3aW9HNU02Y2xORWFfelRmZWVSVGtnMURmbzQ5anpqUV9hejZZenNVSFRVdklDUVVNZnE2YnRtblZ3cy14SG9McUVmczVNQllvRHIxVWlXT0R6bldfSE9uUVh0NS1sMG1haWdYOWFTbVRNSE43TWhJcms?oc=5",
-   "ts": "Thu, 19 Nov 2026 22:34:00 GMT"
   },
   {
    "src": "gnews",
@@ -413,15 +413,21 @@
   },
   {
    "src": "gnews",
+   "title": "Anglo American (LSE:AAL) Tests Its Bull Case After China Trade Fears Hit Miners - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONzhsNHpKQzh2WHBFUDNudjF2WVQwM3FpZkQ0ckdqWWxBYWxBb00zME43WW42YnVackxobFpaOGd1czIyNWd3UEt2eDJTSHFWdlAwWmdjcnRkUDdWUkZDdTAzRE1jRW4ydnhvTUU0aWRPQndrcDlYMDRmZHpEVVduV0ZWeWo4bkNoQVhCY1k4QkxWemV3RFhLcg?oc=5",
+   "ts": "Thu, 19 Nov 2026 21:12:21 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Why China’s Export Machine Seems Unstoppable - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpueWc0R1FSdjNSYVF1c3pmRzlQTWc2RFJQV0p5TnZNdlJqZEExQ0xaczB0ZWNLcHhpWjlDWlBMSmo2SnFFUGlfVTI2OVotcGo5WENRdFc2WlJLZXNzb2RzWTFoMWZHOVYzWkNmbVFSSG5QZ3lCbUJNNXJFbjI4bUhvUEltV1JnV0RSVHQxQ2xrUFMzX1FSRWFNQQ?oc=5",
    "ts": "Thu, 19 Nov 2026 22:13:35 GMT"
   },
   {
    "src": "gnews",
-   "title": "Anglo American (LSE:AAL) Tests Its Bull Case After China Trade Fears Hit Miners - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONzhsNHpKQzh2WHBFUDNudjF2WVQwM3FpZkQ0ckdqWWxBYWxBb00zME43WW42YnVackxobFpaOGd1czIyNWd3UEt2eDJTSHFWdlAwWmdjcnRkUDdWUkZDdTAzRE1jRW4ydnhvTUU0aWRPQndrcDlYMDRmZHpEVVduV0ZWeWo4bkNoQVhCY1k4QkxWemV3RFhLcg?oc=5",
-   "ts": "Thu, 19 Nov 2026 21:12:21 GMT"
+   "title": "Newt Gingrich analyzes Trump-Xi trade deal and FAA flight grounding accountability - Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhcHZQOEhLOFhmNVc2bk5WRlNFdzU4cGNTVHE5WXhGM3JiaDVpaVh3Z1BXVFE5MkNKOXVnWWpoQklRYXhZSHFZYWkwM3J4UElteFNKaThjN0lDQnc?oc=5",
+   "ts": "Thu, 19 Nov 2026 19:46:34 GMT"
   },
   {
    "src": "gnews",
@@ -452,12 +458,6 @@
    "title": "South Korea says China trade agreement to boost tourism, entertainment sectors - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
    "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Mexico's Sheinbaum hopes to seal trade deal in next meeting with Trump - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV3NIMFlEOTNmNzRFX3lnSlN6Uy11NmF4Xzdubmc2ZkNfeHdZRFFGY2trbjMwWTM0OTdZcFVoNlQzM3RiUHhGV0RQa0ZUcklDOWVSMGJBNDI2TzV3VEV0c2J4ZVVaYkwwTXEzaExkcElWTG9GZ3ZPOUZMX3pIc29iN1EtOEM2V3dETnA4YTFLaTQwZU5qMUFvcmFHMFVqZHlBcENYaUdDeHk0SFYyc2pxNg?oc=5",
-   "ts": "Thu, 19 Nov 2026 16:17:43 GMT"
   }
  ]
 }

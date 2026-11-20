@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-20T06:00:31Z",
+ "ts": "2026-11-20T06:15:24Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -372,7 +372,13 @@
    "src": "gnews",
    "title": "U.S.-China Trade Talks Leave Questions Over Agricultural Purchases - RFD-TV",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeUo1VDRMd1I1MmEwM1RBd1lWYU9aMlVDNXZTel9DS1dPUDNmazVSZUxXMmdoRFdfZkRBRG0tSDBhdDRUUnNwRmRVSWx3Q1FOUFRzZ0xlMEYxZjhDdDBOcnRSTG1hRU1lY0MzWUh5bnVqc1p5YlFWZDRmZHd5a3pmNTJzUkdxWVg1d0tqbG5tLXg?oc=5",
-   "ts": "Fri, 20 Nov 2026 00:10:06 GMT"
+   "ts": "Fri, 20 Nov 2026 00:09:33 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Canada Auto Plant The 'Front Line' In Trump's Trade War - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNXMwX19Dd1NOQWlrQUhVUThoZGhneVJXYUk4cHU2VDBReTlhVld1OFRxVHBJTXpqWktoMlRvdm9nMTFFd2x2YVpOdlNQSzhKNGFvaXhDU3dvSTVzOE1LOVdIWHdxRzl2YzM1bmdmdC1SaUxFazhXREJjeW1ncld6d1FfNWxYWnhmTk5kdTVtMF9YVm1lU2c?oc=5",
+   "ts": "Fri, 20 Nov 2026 01:27:00 GMT"
   },
   {
    "src": "gnews",
@@ -424,12 +430,6 @@
   },
   {
    "src": "gnews",
-   "title": "The West loved free trade until China started winning - Monthly Review",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVc0TWpEd2p5Zld3WDVrZlJRRmgwb3M3dmlQOC1LTmd5bnYtaEdnNWw3azA0ODg1MFNVeEZFd3ZTR2I2VGE0aUxWbVpxTW1BSHVIN0h0NVNFYjdrYXNGdVBzTkNRMGR2T2Q5bUNqTzVhTlJzeUVLTXIybkhQdFFzTTk1cWxRbHd3bGRHM0UxOA?oc=5",
-   "ts": "Fri, 20 Nov 2026 04:49:52 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
    "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
@@ -439,12 +439,6 @@
    "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGdvSTN5MW55TWE0QVZ0cmd6bGZtOHJmc3pVcHEwM1RtOFFib1o0SXphNjd3cFk0Z3lGODRJaktMY0ZWeFFvenBxTWthQW5oWDQ2RjVoZzdoWW95M1pIVkNzLU1XR2RWZjFsYjNhN0hKZThmSTZwUXhWVmVfNklRZ2ppSE1lYUN4ak5TWENLWTVMUmYxTWlHeGhn?oc=5",
    "ts": "Wed, 18 Nov 2026 11:29:11 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kN1VQeHRmSWJFQ2NzTW9IS1hUczJuM0Fqa01jMW1ZRkwxT2JVV2xLbllJRVBoc1gtQklCT2FRNVpNWElEeFpneDlaTDdHOVhsZGtHRXZJSEUyQjE1OUpFY2FvbDFKbk15OFdaZFI4ZjRSN3laTkFRQ3BLQdIBgAFBVV95cUxOeUtIeUtSU29VbDRRbWlQclJXOW5jVmNpbW8zYlFNbmRhem8yN1lDWU5adEhraFlXUjFCZlZDeEExUVJaRG9WZGl4bTlNUEw3Y2xvemg4V2RvZmsxREZFNWNGXzE4Z3VIUGNEeWducjZaSkpGYUxpbXNsekdIeW9jUw?oc=5",
-   "ts": "Wed, 18 Nov 2026 02:23:00 GMT"
   },
   {
    "src": "gnews",
@@ -459,124 +453,130 @@
    "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "Los equilibrios de Sheinbaum en China : más cooperación sin afectar las relaciones con EEUU",
-   "url": "https://www.latimes.com/espanol/mexico/articulo/2026-11-19/los-equilibrios-de-sheinbaum-en-china-mas-cooperacion-sin-afectar-las-relaciones-con-eeuu",
-   "ts": "20261120T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US , Venezuelan military ties set by deal signing",
-   "url": "https://www.eldoradonews.com/news/2026/nov/19/us-venezuelan-military-ties-set-by-deals-signing/",
-   "ts": "20261120T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Не ожидал никто : о чем на самом деле договорились Путин , Си и Трамп",
-   "url": "https://ria.ru/20261120/sammit-2132841940.html",
-   "ts": "20261120T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ayanna Pressley Continues to Lay Out The Democrat Warped Agenda for the Next Congress",
-   "url": "https://wcbm.com/national-headline/ayanna-pressley-continues-to-lay-out-the-democrats-warped-agenda-for-the-next-congress/",
-   "ts": "20261120T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "DOJ Secures Permanent Injunction Against California Anti - ICE Rules",
-   "url": "https://pjmedia.com/catherinesalgado/2026/11/19/doj-secures-permanent-injunction-against-california-anti-ice-rules-n4959509",
-   "ts": "20261120T053000Z"
+   "src": "gnews",
+   "title": "Trump says Board of Trade has brought 'greater balance' to US-China ties - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0VUY0prRXhtQVNrWEEyblJwRE5RdTk0ajdzSXBaNlJZcWF3YTNGbWFmMzdvSnJwWmc3ZS1ScHd4Q2tuVXA5SVJKbWFYNmxoSmdqT0VJM2FFS2Z1U3NYU0ZKbzRPSXhadEplSFQ1cDkyT1htZmdmRC1UTDgzQktfMXZqRDJiNnpTWnpHc1J2MThYazVyeTVpVFp5cW1PYTRzMjE5YnpkV0hlUQ?oc=5",
+   "ts": "Thu, 19 Nov 2026 07:08:00 GMT"
   },
   {
    "src": "gdelt",
    "title": "Senate Republicans Block Iran War Resolution Again",
-   "url": "https://700wlw.iheart.com/content/2026-11-20-senate-republicans-block-iran-war-resolution-again/",
-   "ts": "20261120T053000Z"
+   "url": "https://kfab.iheart.com/content/2026-11-20-senate-republicans-block-iran-war-resolution-again/",
+   "ts": "20261120T054500Z"
   },
   {
    "src": "gdelt",
    "title": "Senate Republicans Block Iran War Resolution Again",
-   "url": "https://klvi.iheart.com/content/2026-11-20-senate-republicans-block-iran-war-resolution-again/",
-   "ts": "20261120T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Air Force One sets aviation records on nearly 15 - hour nonstop return flight from China",
-   "url": "http://www.europesun.com/news/279444370/air-force-one-sets-aviation-records-on-nearly-15-hour-nonstop-return-flight-from-china",
-   "ts": "20261120T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Grants Posthumous Pardon To Pete Rose",
-   "url": "https://wjbt.iheart.com/content/2026-11-20-trump-grants-posthumous-pardon-to-pete-rose/",
-   "ts": "20261120T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump administration appeals to Supreme Court over legal protections for Venezuelan migrants",
-   "url": "https://www.themorningsun.com/2026/11/18/supreme-court-venezuela-tps/",
-   "ts": "20261120T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Patti Hamilton : Nowhere man ( Opinion ) ",
-   "url": "https://www.wvgazettemail.com/opinion/op_ed_commentaries/patti-hamilton-nowhere-man-opinion/article_f75458a3-e97e-4e5d-8c5f-7615f954f0a9.html",
-   "ts": "20261120T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Denmark approves security deal with US and Greenland",
-   "url": "https://www.eldoradonews.com/news/2026/nov/19/denmark-approves-security-deal-with-us-and/",
-   "ts": "20261120T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US Tech outages singes Trump administration , Kirsten Davies appointed new Cyber Director",
-   "url": "http://www.asiabulletin.com/news/279444286/us-tech-outages-singes-trump-administration-kirsten-davies-appointed-new-cyber-director",
-   "ts": "20261120T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "DOJ Seeks To Dismiss Alaska Senate Election Lawsuit",
-   "url": "https://whoradio.iheart.com/content/2026-11-19-doj-seeks-to-dismiss-alaska-senate-election-lawsuit/",
-   "ts": "20261120T053000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " « Συμμαχία των Προθύμων »: Στήριξη σε Ουκρανία , δεν υπάρχει ειρήνη χωρίς την Ευρώπη – Η παρέμβαση Τραμπ",
-   "url": "https://www.inewsgr.com/182/symmachia-ton-prothymon-stirixi-se-oukrania-den-yparchei-eirini-choris-tin-evropi--i-paremvasi-trab.htm",
-   "ts": "20261120T053000Z"
+   "url": "https://943wsc.iheart.com/content/2026-11-20-senate-republicans-block-iran-war-resolution-again/",
+   "ts": "20261120T054500Z"
   },
   {
    "src": "gdelt",
    "title": "Trump National Cyber Director Sean Cairncross steps down amid repeated tech outages : Report",
-   "url": "http://www.birminghamstar.com/news/279444165/trump-national-cyber-director-sean-cairncross-steps-down-amid-repeated-tech-outages-report",
-   "ts": "20261120T053000Z"
+   "url": "http://www.texasguardian.com/news/279444165/trump-national-cyber-director-sean-cairncross-steps-down-amid-repeated-tech-outages-report",
+   "ts": "20261120T054500Z"
   },
   {
    "src": "gdelt",
-   "title": "DOJ Seeks To Dismiss Alaska Senate Election Lawsuit",
-   "url": "https://newsradio1470.iheart.com/content/2026-11-19-doj-seeks-to-dismiss-alaska-senate-election-lawsuit/",
-   "ts": "20261120T053000Z"
+   "title": "TWZ : самолет « Судного дня » сопровождал Трампа во время визита в Шэньчжэнь",
+   "url": "https://www.kommersant.ru/doc/9114292",
+   "ts": "20261120T054500Z"
   },
   {
    "src": "gdelt",
-   "title": "राहुल गांधी का ट्रंप - पुतिन - जिनपिंग की तस्वीर पर इंटरनेशनल दावा , बोले - कांग्रेस सत्ता में होती तो एक चेयर भारत की होती",
-   "url": "https://navbharattimes.indiatimes.com/india/rahul-gandhi-shared-donald-j-trump-vladimir-vladimirovich-putin-xi-jinping-meet-photo/articleshow/136013904.cms",
-   "ts": "20261120T053000Z"
+   "title": "Air traffic control system needs more than money after FAA ground stop",
+   "url": "https://www.journalgazette.net/opinion/air-traffic-control-system-needs-more-than-money-after-faa-ground-stop/article_85744212-ab27-4284-9b51-bd133a10906c.html",
+   "ts": "20261120T054500Z"
   },
   {
    "src": "gdelt",
-   "title": "Alabama Democrat Lawmaker Indicted in COVID Relief Fraud Case",
-   "url": "https://wcbm.com/national-headline/alabama-democrat-lawmaker-indicted-in-covid-relief-fraud-case/",
-   "ts": "20261120T053000Z"
+   "title": "So viel könnten die VW - Forderungen die Beschäftigten kosten",
+   "url": "https://www.finanzen.net/nachricht/aktien/so-viel-koennten-die-vw-forderungen-die-beschaeftigten-kosten-16077529",
+   "ts": "20261120T054500Z"
   },
   {
    "src": "gdelt",
-   "title": "Tõlge kui sõimu - ja sülgamisvorm",
-   "url": "https://www.sirp.ee/tolge-kui-soimu-ja-sulgamisvorm/",
-   "ts": "20261120T053000Z"
+   "title": "Trump , Xi And Putin Pledge Nuclear Risk Talks At First Three - Way Summit",
+   "url": "https://www.worthynews.com/119214-trump-xi-and-putin-pledge-nuclear-risk-talks-at-first-three-way-summit",
+   "ts": "20261120T054500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "PM Wong and Xi pledge to deepen Singapore - China ties amid major global shake - ups",
+   "url": "https://www.businesstimes.com.sg/singapore/pm-wong-and-xi-pledge-deepen-singapore-china-ties-amid-major-global-shake-ups",
+   "ts": "20261120T054500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Путин , Трамп и Си Цзиньпин приняли декларацию о мире . К чему они пришли после исторического саммита ? ",
+   "url": "https://lenta.ru/news/2026/11/20/long-putin-tramp-i-si-tszinpin-prinyali-deklaratsiyu-o-mire-posle-istoricheskogo-sammita-o-chem-oni-dogovorilis/",
+   "ts": "20261120T054500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Iran rejects US claims of developing biological , chemical weapons ; recalls Iraq WMD controversy",
+   "url": "http://www.shanghaisun.com/news/279444073/iran-rejects-us-claims-of-developing-biological-chemical-weapons-recalls-iraq-wmd-controversy",
+   "ts": "20261120T054500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Netanyahu calls Iran strike  unavoidable  as Trump rallies Xi and Putin on nuclear proliferation",
+   "url": "https://aninews.in/news/world/middle-east/netanyahu-calls-iran-strike-unavoidable-as-trump-rallies-xi-and-putin-on-nuclear-proliferation20261120093339/",
+   "ts": "20261120T054500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "정동영 , 스틸 미국 대사에  남북 · 북미대화 재개 필요  ",
+   "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286812&PAGE_CD=N0002&CMPT_CD=M0112",
+   "ts": "20261120T054500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump pardons Pete Rose , says late MLB player was  treated terribly  ",
+   "url": "https://www.wogx.com/news/trump-pardons-pete-rose-says-mlb-player-was-treated-terribly",
+   "ts": "20261120T054500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Another tech outage ? Here what to do",
+   "url": "https://www.koat.com/article/tech-outage-what-to-do/74482106",
+   "ts": "20261120T054500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump pardons Pete Rose , says late MLB player was  treated terribly  ",
+   "url": "https://www.fox5ny.com/news/trump-pardons-pete-rose-says-mlb-player-was-treated-terribly",
+   "ts": "20261120T054500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "November 19th , 2026",
+   "url": "https://www.marklevinshow.com/2026/11/19/november-19th-2026/",
+   "ts": "20261120T054500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Pentagon official named to replace Trump national cyber director",
+   "url": "https://aa.com.tr/en/americas/pentagon-official-named-to-replace-trumps-national-cyber-director/4131628",
+   "ts": "20261120T054500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US mortgage rates up for the first time in five weeks ; housing starts rise",
+   "url": "https://www.businesstimes.com.sg/international/us-mortgage-rates-first-time-five-weeks-housing-starts-rise",
+   "ts": "20261120T054500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Senate backs bill to speed up permitting reviews",
+   "url": "https://www.koat.com/article/senate-permitting-bill-data-centers-pay-energy-costs/74484453",
+   "ts": "20261120T054500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "RIGHT SPEAK : Justice Department Conducting Criminal Probe Into Leak of Dobbs Abortion Decision ; DOJ Initiates Criminal Probe Into Supreme Court Dobbs Leak : Report",
+   "url": "http://www.rightspeak.net/2026/11/justice-department-conducting-criminal.html",
+   "ts": "20261120T054500Z"
   }
  ]
 }

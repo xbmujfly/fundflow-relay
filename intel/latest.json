@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-20T06:30:33Z",
+ "ts": "2026-11-20T06:45:25Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -365,15 +364,15 @@
   },
   {
    "src": "gnews",
-   "title": "What impact will the Shenzhen summit have on the US-China trade war? - France 24",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY2RQbXB0NVZJVHlNTEI5V3JYc1lZeGxhdE1ud2tkbUZ6bG1uQzkwLWFmQTRwaTF3UWJGcHNIZ1EtWUlrLThTa3dFOVUzOVNHZmNlN3RPTUNPWnh4QUw1QVV0T005eW5mV2pZMnVxcjRIeG1oa043Wnd2N0VrNmRtbzJMU0VoUFJsZUNsY1E0TFNwRjdFNmlSTzVLYzBWQXJQTjZn?oc=5",
-   "ts": "Thu, 19 Nov 2026 17:34:09 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney and Xi Announce Trade Pact Ahead of Asia Summit - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
    "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "What impact will the Shenzhen summit have on the US-China trade war? - France 24",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY2RQbXB0NVZJVHlNTEI5V3JYc1lZeGxhdE1ud2tkbUZ6bG1uQzkwLWFmQTRwaTF3UWJGcHNIZ1EtWUlrLThTa3dFOVUzOVNHZmNlN3RPTUNPWnh4QUw1QVV0T005eW5mV2pZMnVxcjRIeG1oa043Wnd2N0VrNmRtbzJMU0VoUFJsZUNsY1E0TFNwRjdFNmlSTzVLYzBWQXJQTjZn?oc=5",
+   "ts": "Thu, 19 Nov 2026 17:34:09 GMT"
   },
   {
    "src": "gnews",
@@ -407,15 +406,15 @@
   },
   {
    "src": "gnews",
-   "title": "In Shenzhen, U.S.-China Trade Talks Muddle Along - RANE Worldview",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV25CT0xXUWowaHdGRURBcGp2a09OS2h1UkJpUm9idzVQNGRJTFh0TzBydnZpLTdBTHVMZnd1NnRjcl9rNjA2U0RJSlF0NXdiVUV3aW9HNU02Y2xORWFfelRmZWVSVGtnMURmbzQ5anpqUV9hejZZenNVSFRVdklDUVVNZnE2YnRtblZ3cy14SG9McUVmczVNQllvRHIxVWlXT0R6bldfSE9uUVh0NS1sMG1haWdYOWFTbVRNSE43TWhJcms?oc=5",
-   "ts": "Thu, 19 Nov 2026 22:34:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
    "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "In Shenzhen, U.S.-China Trade Talks Muddle Along - RANE Worldview",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV25CT0xXUWowaHdGRURBcGp2a09OS2h1UkJpUm9idzVQNGRJTFh0TzBydnZpLTdBTHVMZnd1NnRjcl9rNjA2U0RJSlF0NXdiVUV3aW9HNU02Y2xORWFfelRmZWVSVGtnMURmbzQ5anpqUV9hejZZenNVSFRVdklDUVVNZnE2YnRtblZ3cy14SG9McUVmczVNQllvRHIxVWlXT0R6bldfSE9uUVh0NS1sMG1haWdYOWFTbVRNSE43TWhJcms?oc=5",
+   "ts": "Thu, 19 Nov 2026 22:34:00 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +457,126 @@
    "title": "Trump says Board of Trade has brought 'greater balance' to US-China ties - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0VUY0prRXhtQVNrWEEyblJwRE5RdTk0ajdzSXBaNlJZcWF3YTNGbWFmMzdvSnJwWmc3ZS1ScHd4Q2tuVXA5SVJKbWFYNmxoSmdqT0VJM2FFS2Z1U3NYU0ZKbzRPSXhadEplSFQ1cDkyT1htZmdmRC1UTDgzQktfMXZqRDJiNnpTWnpHc1J2MThYazVyeTVpVFp5cW1PYTRzMjE5YnpkV0hlUQ?oc=5",
    "ts": "Thu, 19 Nov 2026 07:08:00 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "  At Every Global Stage , Rahul Acts Like Pak Fan Boy : BJP Hits Back At Rahul Gandhi Over  Side Player  Remark",
+   "url": "https://www.freepressjournal.in/india/at-every-global-stage-rahul-acts-like-pak-fan-boy-bjp-hits-back-at-rahul-gandhi-over-side-player-remark",
+   "ts": "20261120T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US Tech outages singes Trump administration , Kirsten Davies appointed new Cyber Director",
+   "url": "http://www.parisguardian.com/news/279444286/us-tech-outages-singes-trump-administration-kirsten-davies-appointed-new-cyber-director",
+   "ts": "20261120T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "editors pick : U . S ., China , Russia hold historic summit in Shenzhen",
+   "url": "https://www.thehindu.com/newsletter/editors-pick-us-china-russia-hold-historic-summit-in-shenzhen/article71719864.ece",
+   "ts": "20261120T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Newly elected Democrat Denise Powell says Democrats not taking blue wave wins for granted",
+   "url": "https://nebraskapublicmedia.org/en/news/news-articles/newly-elected-democrat-denise-powell-says-democrats-not-taking-blue-wave-wins-for-granted/",
+   "ts": "20261120T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "UN top court finds Myanmar responsible for genocide against the Rohingya",
+   "url": "https://www.newslaundry.com/2026/11/20/uns-top-court-finds-myanmar-responsible-for-genocide-against-the-rohingya",
+   "ts": "20261120T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "해법 못 찾는 강대국 외교 … 선전 APEC  빈손 회동  이어 마이애미 G20도 안갯속",
+   "url": "https://biz.chosun.com/international/international_general/2026/11/20/DOVPJEZH35FDHCIEDL6HDQQRFI/",
+   "ts": "20261120T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "중국 , 미 · 중 · 러 회담 성과 부각 … 새로운 강대국 관계 출발점  ",
+   "url": "https://www.hani.co.kr/arti/international/china/1288325.html",
+   "ts": "20261120T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": " [ 美 , AI 투자 시험대 ] ①美 성장 39 % 떠받친 AI 투자 … 증가 폭 조정은 불가피",
+   "url": "https://www.newspim.com/news/view/20261120000673",
+   "ts": "20261120T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "한국 베이스그룹 , 트럼프 일가  군용 로봇 업체  에 2천억원 투자 준비",
+   "url": "https://www.hani.co.kr/arti/international/international_general/1288324.html",
+   "ts": "20261120T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "AP News Summary at 12 : 47 a . m . EST",
+   "url": "http://www.cecildaily.com/ap/nation/ap-news-summary-at-12-47-a-m-est/article_bdb7b0d8-a8bd-5798-ab24-48734f5c5470.html",
+   "ts": "20261120T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ο Τραμπ  τελείωσε  τον διευθυντή της Κυβερνοασφάλειας του Λευκού Οίκου μετά τα προβλήματα στις υπηρεσίες",
+   "url": "https://dialogos.com.cy/o-tramp-teleiose-ton-dieythynti-tis-kyvernoasfaleias-toy-leykoy-oikoy-meta-ta-provlimata-stis-ypiresies/",
+   "ts": "20261120T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Senate approves bill to speed up permitting reviews , force data centers to pay for energy costs",
+   "url": "https://www.kob.com/new-mexico/albuquerque-metro/senate-approves-bill-to-speed-up-permitting-reviews-force-data-centers-to-pay-for-energy-costs/",
+   "ts": "20261120T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Xi lauds PM for  full turnaround  in China relationship",
+   "url": "https://www.macleayargus.com.au/story/9395015/xi-lauds-pm-for-full-turnaround-in-china-relationship/",
+   "ts": "20261120T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Пратеник за мир : Зетят на Тръмп трупал  пари за черни дни  от войните в света",
+   "url": "https://www.actualno.com/company/pratenik-za-mir-zetjat-na-trymp-trupal-pari-za-cherni-dni-ot-vojnite-v-sveta-news_2664770.html",
+   "ts": "20261120T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ex - premier sprinkles hope for Labor election chances",
+   "url": "https://www.merimbulanewsweekly.com.au/story/9395014/ex-premier-sprinkles-hope-for-labors-election-chances/",
+   "ts": "20261120T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Εμανουέλ Μακρόν και Κάμαλα Χάρις σε συνάντηση στο Παρίσι",
+   "url": "https://www.madata.gr/epikairotita/world/995883-emanoyel-makron-kai-kamala-charis-se-synantisi-sto-parisi.html",
+   "ts": "20261120T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Αλλαγή στην ηγεσία της κυβερνοασφάλειας των ΗΠΑ – Ποια η Κίρστεν Ντέιβις που αναλαμβάνει το κρίσιμο πόστο στον Λευκό Οίκο",
+   "url": "https://www.philenews.com/kosmos/article/1798123/allagi-stin-igesia-tis-kivernoasfalias-ton-ipa-pia-i-kirsten-nteivis-pou-analamvani-to-krisimo-posto-ston-lefko-iko/",
+   "ts": "20261120T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "트럼프 , 젠슨 황 스캔들 직전까지 엔비디아 주식 매매 … 이해충돌 논란 재점화",
+   "url": "https://biz.chosun.com/international/international_economy/2026/11/20/BGJDDPKM3ZGVTK5OKT4FCQWOWU/",
+   "ts": "20261120T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Telecom Revenue : Jefferies Optimistic on India Telecom Sector Amid Steady Revenue Growth , ETTelecom",
+   "url": "https://telecom.economictimes.indiatimes.com/news/industry/indias-telecom-sector-may-sustain-low-teens-revenue-growth-despite-tariff-hikes-every-2-3-years-jefferies/136010706",
+   "ts": "20261120T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  He certainly heard it : PM backs up his jab at Putin",
+   "url": "https://www.merimbulanewsweekly.com.au/story/9395581/he-certainly-heard-it-pm-backs-up-his-jab-at-putin/",
+   "ts": "20261120T061500Z"
   }
  ]
 }

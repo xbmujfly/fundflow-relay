@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-20T09:30:29Z",
+ "ts": "2026-11-20T09:45:29Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -371,6 +371,12 @@
   },
   {
    "src": "gnews",
+   "title": "Fabrics and human wigs drive North Korea-China trade in October - NK News",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbFdaTGdUMUVYQmhzOXJHOEtjVUxpTW0tQmJhX3k5SVo3ZUVDaEl0eWZISkpQaVNYRi1SV2FlNENnRWg4TlVKVWZ3SG5rOXlXd0VuUWtrdk9tM284eWZ3d2I3TjFQRmgyOWpOU2RqTUZYRHR1RlFYRDVyT2ZJeUZQdFBYbWdXNHpJeDBfR1I5TWttY0pRcGc?oc=5",
+   "ts": "Fri, 20 Nov 2026 09:44:18 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "What impact will the Shenzhen summit have on the US-China trade war? - France 24",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY2RQbXB0NVZJVHlNTEI5V3JYc1lZeGxhdE1ud2tkbUZ6bG1uQzkwLWFmQTRwaTF3UWJGcHNIZ1EtWUlrLThTa3dFOVUzOVNHZmNlN3RPTUNPWnh4QUw1QVV0T005eW5mV2pZMnVxcjRIeG1oa043Wnd2N0VrNmRtbzJMU0VoUFJsZUNsY1E0TFNwRjdFNmlSTzVLYzBWQXJQTjZn?oc=5",
    "ts": "Thu, 19 Nov 2026 17:34:09 GMT"
@@ -410,12 +416,6 @@
    "title": "Australia’s Leader to Navigate Trade, Security in Talks With Xi - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnByMFFxbTFGcDQtQjNfZHpEeUJSZ2E2Y2tfaFZScEJYUzN6VmhtelBFSlpjOEMyTDE0X0NUUUJCUjRkVzFGVW9TLXFBSzBlQklHRzVzQnowWXE4b2g5VVMtVUdLUC1STzBxdjJNRWxSc0xSVGtJVzZxMTByUmk5VEtyMHV5TnIwbmZpdTF1bVktTDZ2VGdybnlNUm9QZ1NqNFRBRjIxaHZZMkxvUDE0U1p0Zw?oc=5",
    "ts": "Fri, 20 Nov 2026 07:01:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "The bill for Trump’s trade war is coming due—at home and abroad - Fortune",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LVldTODA1VnhXU3N6SlR3SEhVX21UaEd6WDZQLW5zdDdybXJXTThQM04wcElBaXhIUDR5dFpqUkF6MVZLN2VyNFVWV2F3UTJjT3UwZE1yc3ZvZFlQQkxmem5UX2FIR096ZTBOOVVxWVU1QQ?oc=5",
-   "ts": "Thu, 19 Nov 2026 10:56:00 GMT"
   },
   {
    "src": "gnews",

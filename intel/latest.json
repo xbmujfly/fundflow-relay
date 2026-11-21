@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-21T14:16:06Z",
+ "ts": "2026-11-21T14:31:11Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -10,9 +10,8 @@
    "n": 10
   },
   "fed": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 404: Not Found"
+   "ok": true,
+   "n": 20
   },
   "reuters": {
    "ok": false,
@@ -34,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -221,6 +219,126 @@
    "ts": "Wed, 28 Oct 2026 13:39:42 +0000"
   },
   {
+   "src": "fed",
+   "title": "Federal Reserve announces College Fed Challenge winners",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+   "ts": "Fri, 20 Nov 2026 21:15:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+   "ts": "Fri, 20 Nov 2026 15:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
+   "ts": "Thu, 19 Nov 2026 16:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+   "ts": "Wed, 18 Nov 2026 19:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Agencies extend comment period for proposed third-party risk management guidance",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+   "ts": "Fri, 13 Nov 2026 21:15:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check ",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+   "ts": "Thu, 12 Nov 2026 18:30:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+   "ts": "Thu, 12 Nov 2026 17:45:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+   "ts": "Thu, 12 Nov 2026 16:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+   "ts": "Mon, 9 Nov 2026 21:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+   "ts": "Thu, 5 Nov 2026 16:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+   "ts": "Thu, 29 Oct 2026 20:30:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve issues FOMC statement",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+   "ts": "Wed, 28 Oct 2026 18:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+   "ts": "Fri, 16 Oct 2026 15:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+   "ts": "Tue, 13 Oct 2026 18:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+   "ts": "Fri, 9 Oct 2026 14:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity rel",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+   "ts": "Thu, 8 Oct 2026 20:30:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+   "ts": "Wed, 7 Oct 2026 18:00:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+   "ts": "Mon, 5 Oct 2026 20:30:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+   "ts": "Fri, 2 Oct 2026 20:45:00 GMT"
+  },
+  {
+   "src": "fed",
+   "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
+   "ts": "Fri, 2 Oct 2026 20:00:00 GMT"
+  },
+  {
    "src": "gnews",
    "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
@@ -264,6 +382,12 @@
   },
   {
    "src": "gnews",
+   "title": "Top Democrat Tells Carney to Strike Trump Trade Deal Now - Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEZ2Q0NJdmpwcnJtaUVXWWdyXy1feDZ2UXJ1aDdpdUZLODEtZ01sSVUxbjZ3ZEwtckRhNlNJQUl5M0UyOFBqVkNpQTJCVWVYQkllYlhrX2pGVFo2bTB5UGduTjVTQUJqNVpFSUdrd240aG1zZFFlU210QlVRU2JnUHpxUVN2QU9wWnl1ZUtR?oc=5",
+   "ts": "Sat, 21 Nov 2026 14:19:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "‘Canada cheats’: Trump adviser backs 50% tariff as LeBlanc warns U.S. trade deal won't kill auto, steel duties - Yahoo! Finance Canada",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZUw0WmtWLWJiTUJaSEZMdEVYYllfUHFubFl1RG1oS01ZT2d4ZGxyYW5IMXhnVm1aZ0I5YTF0alJXM3BrR1kzZUdNeTF4dWw1cEtsMXJQd05HUnRwRHgzUXpDamRqZ0taQ0NUVXFBWDMxWjFGV1lFelpaQW5PcHlLazhSQzY3TUFIbUE?oc=5",
    "ts": "Sat, 21 Nov 2026 11:30:00 GMT"
@@ -291,12 +415,6 @@
    "title": "Six Experts on the Significance of Trump, Xi, and Putin’s First Trilateral Meeting - Council on Foreign Relations",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbkdfb09WTFZKX1p2YmdocmZhS2FISUFwTmVuZlBEYWRSaU9WU1d1X1ZBblFKNFQtMVRndmIzLXJSc0VtTXc2LVJFVTh5ZXZWaEN1N1N1bU1BV2ttMlZnR0hsQ2c3aXo0aGVvdmtVNE8yNGZLbUNaY3hJTmNnc1o5SUMwUlN2NTAzbVE4WEFXdUZmdXRTQmc?oc=5",
    "ts": "Thu, 19 Nov 2026 20:13:32 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump Blasts ‘Very Difficult’ Canada Over Trade: ‘Ripping Us Off’ - Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUko1alZDc3dLQUl5cUhWZ1V6bFZ0em96RHNybGtIeWtrcDJhc3R3aWYzbFpNa09zYUNYbU1IZUFsbWhZdVBkOVROS1VKM2l1NzVjd3VZdkdVMURueEFjUFpCd3BKV1RvSGM0cElod2NKcUJmMXo1SWVobVdDRndQNnpOMA?oc=5",
-   "ts": "Fri, 20 Nov 2026 18:50:00 GMT"
   },
   {
    "src": "gnews",
@@ -339,6 +457,126 @@
    "title": "Trump says Board of Trade has brought 'greater balance' to US-China ties - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0VUY0prRXhtQVNrWEEyblJwRE5RdTk0ajdzSXBaNlJZcWF3YTNGbWFmMzdvSnJwWmc3ZS1ScHd4Q2tuVXA5SVJKbWFYNmxoSmdqT0VJM2FFS2Z1U3NYU0ZKbzRPSXhadEplSFQ1cDkyT1htZmdmRC1UTDgzQktfMXZqRDJiNnpTWnpHc1J2MThYazVyeTVpVFp5cW1PYTRzMjE5YnpkV0hlUQ?oc=5",
    "ts": "Thu, 19 Nov 2026 18:00:33 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "  In his opposition to PM Modi , Rahul Gandhi has begun to oppose India itself : Anurag Thakur",
+   "url": "http://www.indiagazette.com/news/279447008/in-his-opposition-to-pm-modi-rahul-gandhi-has-begun-to-oppose-india-itself-anurag-thakur",
+   "ts": "20261121T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Armenian PM : Launch of TRIPP project to be officially announced tomorrow",
+   "url": "https://en.apa.az/cis-countries/armenian-pm-launch-of-tripp-project-to-be-officially-announced-tomorrow-537644",
+   "ts": "20261121T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Judge orders US agriculture chief to stop sending religious emails from official account",
+   "url": "https://www.parkrapidsenterprise.com/news/national/judge-orders-us-agriculture-chief-to-stop-sending-religious-emails-from-official-account",
+   "ts": "20261121T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Зеленски нарече Путин „ убиец  ",
+   "url": "https://news.bg/konflikti/zelenski-nareche-putin-ubiets.html",
+   "ts": "20261121T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Bonne table à Rouen .  On mange bien , avec de bonnes portions  : le bistrot Saint - Romain ouvre ses portes",
+   "url": "https://www.tendanceouest.com/actualite-444224-bonne-table-a-rouen-on-mange-bien-avec-de-bonnes-portions-le-bistrot-saint-romain-ouvre-ses-portes",
+   "ts": "20261121T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Oath Keepers founder and Jan . 6 leader Stewart Rhodes is  absolutely done  with Trump – Winnipeg Free Press",
+   "url": "https://www.winnipegfreepress.com/world/2026/11/21/oath-keepers-founder-and-jan-6-leader-stewart-rhodes-is-absolutely-done-with-trump",
+   "ts": "20261121T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Young boy one of two killed in ballistic missile attack on Zelensky home town",
+   "url": "https://www.leighjournal.co.uk/news/national/26750572.young-boy-one-two-killed-ballistic-missile-attack-zelenskys-home-town/",
+   "ts": "20261121T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "السعودية تعلن اعتراض ثلاثة صواريخ باليستية أُطلقت باتجاه الرياض",
+   "url": "https://almadapaper.net/461946/",
+   "ts": "20261121T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Governo nomeia Maria Isabel Soares para Conselho Consultivo da ERSE",
+   "url": "https://sapo.pt/artigo/governo-nomeia-maria-isabel-soares-para-conselho-consultivo-da-erse-6b019500b111ab45ff161ba7",
+   "ts": "20261121T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Missile attack on Zelenskiy hometown kills two",
+   "url": "https://www.perthnow.com.au/news/conflict/missile-attack-on-zelenskiys-hometown-kills-two-c-23195124",
+   "ts": "20261121T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Oubliez les oeufs brouillés et lavocado toast : nos 5 adresses pour un brunch réussi à Paris cet automne",
+   "url": "https://www.purepeople.com/article/oubliez-les-oeufs-brouilles-et-lavocado-toast-nos-5-adresses-pour-un-brunch-reussi-a-paris-cet-automne_a556202/1",
+   "ts": "20261121T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Shenzhen Summit Puts Limits of China – Russia Partnership in Focus",
+   "url": "https://www.theepochtimes.com/china/shenzhen-summit-puts-limits-of-china-russia-partnership-in-focus-6127510",
+   "ts": "20261121T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Young boy one of two killed in ballistic missile attack on Zelensky home town",
+   "url": "https://www.wharfedaleobserver.co.uk/news/national/26750572.young-boy-one-two-killed-ballistic-missile-attack-zelenskys-home-town/",
+   "ts": "20261121T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "ทรัมป์ขู่เก็บภาษีหนัก บริษัทสหรัฐที่สร้างดาต้าเซ็นเตอร์ในต่างแดน",
+   "url": "https://www.dailynews.co.th/news/6379381/",
+   "ts": "20261121T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Young boy one of two killed in ballistic missile attack on Zelensky home town",
+   "url": "https://www.eadt.co.uk/news/national/26750572.young-boy-one-two-killed-ballistic-missile-attack-zelenskys-home-town/",
+   "ts": "20261121T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Тръмп : Путин иска войната в Украйна да приключи по дипломатически път",
+   "url": "https://www.cross.bg/prezident-trump-amerikanskiyat-1810974.html",
+   "ts": "20261121T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Week in Politics : Trump returns from Asia ; hails trip as one of best in history",
+   "url": "https://www.kasu.org/politics/2026-11-21/week-in-politics-trump-returns-from-asia-hails-trip-as-one-of-best-in-history",
+   "ts": "20261121T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Кирило Буданов : Край на войната в Украйна до 1 януари би бил истинско чудо",
+   "url": "https://news.bg/konflikti/kirilo-budanov-kray-na-voynata-v-ukrayna-do-1-yanuari-bi-bil-istinsko-chudo.html",
+   "ts": "20261121T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "The AI boom had a really bad week and it raising loud alarms",
+   "url": "https://www.kasu.org/business-economy/2026-11-21/the-ai-boom-had-a-really-bad-week-and-its-raising-loud-alarms",
+   "ts": "20261121T133000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "习近平主席的深圳APEC时间",
+   "url": "https://www.cqnews.net/web/content_1573803961342586880.html",
+   "ts": "20261121T133000Z"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-21T23:16:02Z",
+ "ts": "2026-11-21T23:31:05Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -359,27 +359,27 @@
   },
   {
    "src": "gnews",
-   "title": "Top Democrat Tells Carney to Strike Trump Trade Deal Now - Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEZ2Q0NJdmpwcnJtaUVXWWdyXy1feDZ2UXJ1aDdpdUZLODEtZ01sSVUxbjZ3ZEwtckRhNlNJQUl5M0UyOFBqVkNpQTJCVWVYQkllYlhrX2pGVFo2bTB5UGduTjVTQUJqNVpFSUdrd240aG1zZFFlU210QlVRU2JnUHpxUVN2QU9wWnl1ZUtR?oc=5",
-   "ts": "Sat, 21 Nov 2026 14:19:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney and Xi Announce Trade Pact Ahead of Asia Summit - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
    "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
   },
   {
    "src": "gnews",
-   "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzM5ZFZDbURpMG5EY0pPQXJONkRWeDJlaG1VWWE1S0diX3lNSFNqeExrdGt4QnFJSm9xdjZHUWEyQ3phdXIzNXhUcXJZako3aG9BR0RBZnlnSmQ2TG4yS3NFV1YxQ3Y1d1h2YVpaY2pYM2Fqd0x4TU85TXRNRGZud01icm1jaF9hV3VBc1dLRGFoQ010TUoyNGR2b25ZRTdjaV8yQk04RzJVR3Fu0gGyAUFVX3lxTE93czY5bjBIUldGbXZ0Vm91aXp5N1ZrWXlPemNxMllKaVRHcW1LcHBQN0RlYWtYallYMjVHemIwZmV1LVBRN0tmTjMtQjFNRFRtdk5IcEdZdHA1QmEyZUtqYkUwTGRvc01rRmU0QW40cHpzeERwajl2eC1XTXhXLWVidkJQUXJWWVZkb01TNG9QYTJiVGdyaWJwMlpoNWItZFNkZnFjRG11NmphMlVjNHN2VXc?oc=5",
-   "ts": "Sat, 21 Nov 2026 19:36:53 GMT"
+   "title": "Top Democrat Tells Carney to Strike Trump Trade Deal Now - Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEZ2Q0NJdmpwcnJtaUVXWWdyXy1feDZ2UXJ1aDdpdUZLODEtZ01sSVUxbjZ3ZEwtckRhNlNJQUl5M0UyOFBqVkNpQTJCVWVYQkllYlhrX2pGVFo2bTB5UGduTjVTQUJqNVpFSUdrd240aG1zZFFlU210QlVRU2JnUHpxUVN2QU9wWnl1ZUtR?oc=5",
+   "ts": "Sat, 21 Nov 2026 14:19:00 GMT"
   },
   {
    "src": "gnews",
    "title": "The bill for Trump’s trade war is coming due—at home and abroad - Fortune",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LVldTODA1VnhXU3N6SlR3SEhVX21UaEd6WDZQLW5zdDdybXJXTThQM04wcElBaXhIUDR5dFpqUkF6MVZLN2VyNFVWV2F3UTJjT3UwZE1yc3ZvZFlQQkxmem5UX2FIR096ZTBOOVVxWVU1QQ?oc=5",
    "ts": "Thu, 19 Nov 2026 10:56:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzM5ZFZDbURpMG5EY0pPQXJONkRWeDJlaG1VWWE1S0diX3lNSFNqeExrdGt4QnFJSm9xdjZHUWEyQ3phdXIzNXhUcXJZako3aG9BR0RBZnlnSmQ2TG4yS3NFV1YxQ3Y1d1h2YVpaY2pYM2Fqd0x4TU85TXRNRGZud01icm1jaF9hV3VBc1dLRGFoQ010TUoyNGR2b25ZRTdjaV8yQk04RzJVR3Fu0gGyAUFVX3lxTE93czY5bjBIUldGbXZ0Vm91aXp5N1ZrWXlPemNxMllKaVRHcW1LcHBQN0RlYWtYallYMjVHemIwZmV1LVBRN0tmTjMtQjFNRFRtdk5IcEdZdHA1QmEyZUtqYkUwTGRvc01rRmU0QW40cHpzeERwajl2eC1XTXhXLWVidkJQUXJWWVZkb01TNG9QYTJiVGdyaWJwMlpoNWItZFNkZnFjRG11NmphMlVjNHN2VXc?oc=5",
+   "ts": "Sat, 21 Nov 2026 19:36:53 GMT"
   },
   {
    "src": "gnews",

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-21T02:30:26Z",
+ "ts": "2026-11-21T02:45:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -39,6 +39,18 @@
   }
  },
  "items": [
+  {
+   "src": "whitehouse",
+   "title": "NATIONAL ADOPTION MONTH, 2026",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026/",
+   "ts": "Sat, 21 Nov 2026 02:31:38 +0000"
+  },
+  {
+   "src": "whitehouse",
+   "title": "PROTECTING THE EXECUTIVE’S PRIVILEGES AND ENHANCING EFFICIENCIES IN FEDERAL CONTRACTING",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting/",
+   "ts": "Sat, 21 Nov 2026 02:31:05 +0000"
+  },
   {
    "src": "whitehouse",
    "title": "Nominations Sent to the Senate",
@@ -146,18 +158,6 @@
    "title": "Establishment of a Committee of Inquiry to Investigate Allegations of False Statements by Lisa DeNell Cook",
    "url": "https://www.whitehouse.gov/presidential-actions/2026/10/establishment-of-a-committee-of-inquiry-to-investigate-allegations-of-false-statements-by-lisa-denell-cook/",
    "ts": "Thu, 08 Oct 2026 01:00:00 +0000"
-  },
-  {
-   "src": "whitehouse",
-   "title": "National Energy Dominance Month, 2026",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/national-energy-dominance-month-2026/",
-   "ts": "Wed, 07 Oct 2026 20:05:21 +0000"
-  },
-  {
-   "src": "whitehouse",
-   "title": "Columbus Day, 2026",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/columbus-day-2026/",
-   "ts": "Wed, 07 Oct 2026 19:47:48 +0000"
   },
   {
    "src": "ustr",
@@ -371,21 +371,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Blasts ‘Very Difficult’ Canada Over Trade: ‘Ripping Us Off’ - Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUko1alZDc3dLQUl5cUhWZ1V6bFZ0em96RHNybGtIeWtrcDJhc3R3aWYzbFpNa09zYUNYbU1IZUFsbWhZdVBkOVROS1VKM2l1NzVjd3VZdkdVMURueEFjUFpCd3BKV1RvSGM0cElod2NKcUJmMXo1SWVobVdDRndQNnpOMA?oc=5",
-   "ts": "Fri, 20 Nov 2026 18:50:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Business opportunity or security threat? Nvidia case raises questions about China - NPR",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZFM4UXRMNVBPNHhuMlNGOURHa0pvRWNCc3BmcGlXV2VqUlRsU0hsQmRHRUx3ZUJfeE1nSFBobUhaY2hHMkhxQVBfVFBhclJmckJEeTIzc29CM3pMcV9uajFyX2NCaEdpSTdGanNTYjVocjBZejBwV2Z6ZWg0T2ZwQWx1WDRDV2ZiVVNteklMQm1wNk9SXzJidlVRSXBoYTI4NHBNQ1J5cEx2MXBVX2JWTXpXZ1hhaFZWeHhJZGh6dlRqVVk?oc=5",
-   "ts": "Fri, 20 Nov 2026 09:42:24 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "APEC 2026 in Shenzhen: What the Leaders’ Meeting and Trump-Xi Talks Mean for Business - China Briefing",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOamxlU19pODktRktfNmluMUlTazBkS1B6RjlPRVZwUXZrbDVZOHJKUjlsMTlnOWVhbzFDenJqNHZ3dV9ULVBaSXlDSHhIZjdjMHNYaHNNWUhWcnBrbEo2LWxqVzBfYkxIWElKRHdHcndWMDNyWVVJdkQ5a0ZuVUh1dVdsTTNZNzYtQlpONDUtN096VVphamlJZGZ0ckZKal9xUXBuaFlpYnR4RThVYmlxSjluM3hzeVkwSmRtdg?oc=5",
    "ts": "Fri, 20 Nov 2026 10:18:58 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Blasts ‘Very Difficult’ Canada Over Trade: ‘Ripping Us Off’ - Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUko1alZDc3dLQUl5cUhWZ1V6bFZ0em96RHNybGtIeWtrcDJhc3R3aWYzbFpNa09zYUNYbU1IZUFsbWhZdVBkOVROS1VKM2l1NzVjd3VZdkdVMURueEFjUFpCd3BKV1RvSGM0cElod2NKcUJmMXo1SWVobVdDRndQNnpOMA?oc=5",
+   "ts": "Fri, 20 Nov 2026 18:50:00 GMT"
   },
   {
    "src": "gnews",
@@ -395,15 +389,15 @@
   },
   {
    "src": "gnews",
-   "title": "Agriculture Weekly: Farm Bill, China Trade and Grain Markets in Focus - AgroLatam",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdEoxRGwyYkFUZm1DOXI5TnJRbUZKY0VCZDR4a1F2cEtCMEJJSF9KaDFKeFloRXRIT0pFS3UwYUdGc0hKaUJaY0NHUTR0aTNwbnJGUDhOTDdTcUhkRHkzSVF1REZkemxLcWJOYkZkUzg2Y0ZFeHFJMVhRVWhXU3VKWkhHcTRUVmpfU2ltVGk4RXNpT204QlZmM18zd3JoZjE0ZmxyeHpR?oc=5",
-   "ts": "Fri, 20 Nov 2026 22:50:49 GMT"
+   "title": "Business opportunity or security threat? Nvidia case raises questions about China - NPR",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZFM4UXRMNVBPNHhuMlNGOURHa0pvRWNCc3BmcGlXV2VqUlRsU0hsQmRHRUx3ZUJfeE1nSFBobUhaY2hHMkhxQVBfVFBhclJmckJEeTIzc29CM3pMcV9uajFyX2NCaEdpSTdGanNTYjVocjBZejBwV2Z6ZWg0T2ZwQWx1WDRDV2ZiVVNteklMQm1wNk9SXzJidlVRSXBoYTI4NHBNQ1J5cEx2MXBVX2JWTXpXZ1hhaFZWeHhJZGh6dlRqVVk?oc=5",
+   "ts": "Fri, 20 Nov 2026 09:42:24 GMT"
   },
   {
    "src": "gnews",
-   "title": "EU Nears New Trade Power to Block Access to Its Single Market - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOW9uZUU2emVCdTktVEtnN2ZrUlZMTXZRalpLTk5abmMyT3lJY215UGlKT1Noei1WWldFTDZMYmxLUjBoaFYxeGRsdF9lVkZSaWRLZ0g4UjQ5TUhkUHlrV2xMd0w4enFKeTVSMnZfNDFDS1lwUTl3VmYxWWhDU0M1cW81ODZkUHpuSTMzNDJheFJMSzJPcElycmxKWTdTT2Z6UEJSbG5HRjI5aTRIa3o0dXZR?oc=5",
-   "ts": "Fri, 20 Nov 2026 21:26:15 GMT"
+   "title": "Agriculture Weekly: Farm Bill, China Trade and Grain Markets in Focus - AgroLatam",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdEoxRGwyYkFUZm1DOXI5TnJRbUZKY0VCZDR4a1F2cEtCMEJJSF9KaDFKeFloRXRIT0pFS3UwYUdGc0hKaUJaY0NHUTR0aTNwbnJGUDhOTDdTcUhkRHkzSVF1REZkemxLcWJOYkZkUzg2Y0ZFeHFJMVhRVWhXU3VKWkhHcTRUVmpfU2ltVGk4RXNpT204QlZmM18zd3JoZjE0ZmxyeHpR?oc=5",
+   "ts": "Fri, 20 Nov 2026 22:50:49 GMT"
   },
   {
    "src": "gnews",
@@ -419,9 +413,15 @@
   },
   {
    "src": "gnews",
-   "title": "Greer says US-China trade truce extension hinges on rare earths - investingLive",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVWE2b08tRWo1S3A2U0NjNmwwRXI4bjhvdFNub1ZZUWpKSzhUNTcxSHFuSTdONDk4SnRCOVkxQ01sS21UT1R6SVBKUng4LTBZWlZRd01YdXIxNndXUWRqNUd2N0FZTWFiVDVrQVdHOHlNQnA0RjczeDZfQkpMRWdxUlAxcW9ZNG9tUk1yODVRMm5CQWRqdzZzX3RCcw?oc=5",
-   "ts": "Fri, 20 Nov 2026 14:06:16 GMT"
+   "title": "Greer Sees US Trade Probe ‘Certainly’ Concluding by Year End - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2o2UmpVREVfQTFYNFhGZlBaUC1FZTZsWmRzVVFYSHlQblYxbjFWYnRERFhSUDZYSkNQUzNUNUNQaVRWcy1aajJGaDBBY0FmWC0yZkdiSXV1RGpjMFl4alpqWmdSSFBxSkdqaUFrcGFLTndWdmxRSEs1cm42TnpadVVJTjR3YWdkbVpGWlRFalhpUTl5TDdCZ1ZqekJRUkVpME03aVFnczdxb0UtZ1E?oc=5",
+   "ts": "Fri, 20 Nov 2026 14:59:42 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
+   "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
   },
   {
    "src": "gnews",

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-21T11:46:03Z",
+ "ts": "2026-11-21T12:01:13Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -347,15 +346,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump touts Asia trade deal wins, but US agricultural exports disappoint - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX1NxamhacExiOUlPV3RKN2RGTmNzN2gySzZ1Wnl5d0xEUjdud1IyRE5aTk5sUWZRUzRDLTdjblQ0MmNWa1B3Nld0RGhRbDZqbEpfWkpFWlhwOUhPeTJqVkxvNkhReU9iaUlabjJfeVFnNFVrem14RGRVdG9EZHhxcVNFd1dhTkJBR3ljdzZmejE3TkY3bE1zZGJRTG5DRGFTS3k3SDJpRGZWWkdIcTBoYkNB?oc=5",
-   "ts": "Fri, 20 Nov 2026 12:32:09 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
    "ts": "Fri, 20 Nov 2026 13:16:47 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump touts Asia trade deal wins, but US agricultural exports disappoint - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX1NxamhacExiOUlPV3RKN2RGTmNzN2gySzZ1Wnl5d0xEUjdud1IyRE5aTk5sUWZRUzRDLTdjblQ0MmNWa1B3Nld0RGhRbDZqbEpfWkpFWlhwOUhPeTJqVkxvNkhReU9iaUlabjJfeVFnNFVrem14RGRVdG9EZHhxcVNFd1dhTkJBR3ljdzZmejE3TkY3bE1zZGJRTG5DRGFTS3k3SDJpRGZWWkdIcTBoYkNB?oc=5",
+   "ts": "Fri, 20 Nov 2026 12:32:09 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +457,126 @@
    "title": "As Trump courts Xi and Putin, middle powers make their own moves - Reuters",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSTlEeUw0SVZ1dkFoRVM0WEdFTktVUVFoQ2VvVlV5YmpQaEdwVGFWWmVnSmdmRU1pdXBRZng0MTV6ZVhOZjd0b2o5MlVicFh4Q3RkWEFMLWl4QzRtSHFJZ0VUbDA0YzcyOTNlZF9EQzhtUjA5R1gxXzBYS05qM0ZISGlBdnZCdXpFdjZhc2lCZ3dGdHlEU3JlOXNVdnFlVlVqWC1qWHdwNA?oc=5",
    "ts": "Fri, 20 Nov 2026 22:13:39 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Тръмп посочи най - влиятелния човек на света - Свят Новини Стандарт",
+   "url": "https://www.standartnews.com/svyat/tramp-posochi-nay-vliyatelniya-chovek-na-sveta-653954.html",
+   "ts": "20261121T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Is It a Good Time to Buy Alphabet Stock ? Google Parent Hits Fresh 52 - Week Low as Wall Street Still Sees Upside",
+   "url": "https://www.ibtimes.com.au/alphabet-shares-hit-52-week-low-ai-selloff-1879066",
+   "ts": "20261121T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Donald Trump signs Common Cents Act , ending penny minting U . s . Mint Stops Producing Pennies",
+   "url": "https://www.el-balad.com/17068717",
+   "ts": "20261121T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "SC Tim Scott pushes for new  I Have a Dream  speech marker",
+   "url": "https://www.postandcourier.com/politics/tim-scott-pushes-for-new-mlk-speech-plaque/article_56d53aa6-1927-4a44-b6c4-9a806e2414bd.html",
+   "ts": "20261121T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Grand Theft Auto VI face à la discorde des évaluations utilisateurs",
+   "url": "https://www.fredzone.org/grand-theft-auto-vi-face-a-la-discorde-des-evaluations-utilisateurs/",
+   "ts": "20261121T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Anthropic says it will put humanity first . Will its IPO change that ? ",
+   "url": "https://www.wglt.org/2026-11-21/anthropic-says-it-will-put-humanity-first-will-its-ipo-change-that",
+   "ts": "20261121T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "FBI reportedly investigating apparent hack of its criminal database",
+   "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+   "ts": "20261121T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "The AI boom had a really bad week and it raising loud alarms",
+   "url": "https://www.wglt.org/2026-11-21/the-ai-boom-had-a-really-bad-week-and-its-raising-loud-alarms",
+   "ts": "20261121T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Urges Nvidia to Give Jensen Huang a Second Chance , but Board Says Former CEO Will Not Be Reinstated",
+   "url": "https://www.ibtimes.com.au/trump-urges-nvidia-reinstate-jensen-huang-1879082",
+   "ts": "20261121T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Anthropic says it will put humanity first . Will its IPO change that ? ",
+   "url": "https://www.kcbx.org/npr-top-news/2026-11-21/anthropic-says-it-will-put-humanity-first-will-its-ipo-change-that",
+   "ts": "20261121T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Supporter Waka Flocka Bashes Adult Gamers For Playing  GTA 6 , Social Media Fries Him",
+   "url": "https://ipowerrichmond.com/4579193/waka-flocka-slammed-hating-adult-men-playing-gta-6-reactions/",
+   "ts": "20261121T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "The AI boom had a really bad week and it raising loud alarms",
+   "url": "https://www.kjzz.org/npr-top-stories/2026-11-21/the-ai-boom-had-a-really-bad-week-and-its-raising-loud-alarms",
+   "ts": "20261121T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "やることなすことトンチンカン … 高市さん 、 広報動画じゃごまかせないよ｜日刊ゲンダイDIGITAL",
+   "url": "https://www.nikkan-gendai.com/articles/view/news/395895",
+   "ts": "20261121T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ghana Rent Commissioner Seeks Police Guard",
+   "url": "https://www.riotimesonline.com/ghana-rent-commissioner-seeks-police-guard/",
+   "ts": "20261121T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "शिखर वार्ताले मक्ख ट्रम्प , तर चीनले बढायो कूटनीतिक र रणनीतिक प्रभाव | Nepal first 24 - hour updated news portal",
+   "url": "https://www.ratopati.com/story/606730/trump-wins-summit-but-china-increases-diplomatic-and-strategic-influence",
+   "ts": "20261121T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump formally ends minting of the penny – NBC 5 Dallas - Fort Worth",
+   "url": "https://www.nbcdfw.com/news/local/trump-formally-ends-minting-of-the-penny-after-nearly-250-years-of-production/4109200/",
+   "ts": "20261121T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Anthropic says it will put humanity first . Will its IPO change that ? ",
+   "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-6048678/anthropic-says-it-will-put-humanity-first-will-its-ipo-change-that",
+   "ts": "20261121T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Fair - weather Silicon Valley pivots away from the right after blue wave :  Im not Maga  | US politics",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms",
+   "ts": "20261121T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "NAWG Urges Farm Bill Action and Democrats and Farm Policy - AG INFORMATION NETWORK OF THE WEST",
+   "url": "https://www.aginfo.net/report/66592/20/NAWG-Urges-Farm-Bill-Action-and-Democrats-and-Farm-Policy",
+   "ts": "20261121T113000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "LAUB et la MEA lancent un certificat en aviation",
+   "url": "https://libnanews.com/laub-et-la-mea-lancent-un-certificat-en-aviation/",
+   "ts": "20261121T113000Z"
   }
  ]
 }

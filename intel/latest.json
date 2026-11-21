@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-21T04:30:29Z",
+ "ts": "2026-11-21T04:45:21Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -352,15 +353,15 @@
   },
   {
    "src": "gnews",
-   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
-   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Live Updates: Trump Speaks on China Summit, Trade Deals and Data Centers - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmTEh2ZFRVUmZod25NaTdtQTlYYmpKYmd6T2pqMEhKTWJSdC1BT1hOMDMzV0k5bUw2RDYxS3EyZ1BjVmtOVWZ2UTRqSGVhVFMtSDc2bWkwQXZaSWo4SVoxNTRma25wVGJnSmVhNzhlYVF1dw?oc=5",
    "ts": "Sat, 21 Nov 2026 02:15:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
+   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
   },
   {
    "src": "gnews",
@@ -382,15 +383,15 @@
   },
   {
    "src": "gnews",
-   "title": "Business opportunity or security threat? Nvidia case raises questions about China - NPR",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZFM4UXRMNVBPNHhuMlNGOURHa0pvRWNCc3BmcGlXV2VqUlRsU0hsQmRHRUx3ZUJfeE1nSFBobUhaY2hHMkhxQVBfVFBhclJmckJEeTIzc29CM3pMcV9uajFyX2NCaEdpSTdGanNTYjVocjBZejBwV2Z6ZWg0T2ZwQWx1WDRDV2ZiVVNteklMQm1wNk9SXzJidlVRSXBoYTI4NHBNQ1J5cEx2MXBVX2JWTXpXZ1hhaFZWeHhJZGh6dlRqVVk?oc=5",
-   "ts": "Fri, 20 Nov 2026 09:42:24 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "APEC 2026 in Shenzhen: What the Leaders’ Meeting and Trump-Xi Talks Mean for Business - China Briefing",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOamxlU19pODktRktfNmluMUlTazBkS1B6RjlPRVZwUXZrbDVZOHJKUjlsMTlnOWVhbzFDenJqNHZ3dV9ULVBaSXlDSHhIZjdjMHNYaHNNWUhWcnBrbEo2LWxqVzBfYkxIWElKRHdHcndWMDNyWVVJdkQ5a0ZuVUh1dVdsTTNZNzYtQlpONDUtN096VVphamlJZGZ0ckZKal9xUXBuaFlpYnR4RThVYmlxSjluM3hzeVkwSmRtdg?oc=5",
    "ts": "Fri, 20 Nov 2026 10:18:58 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Business opportunity or security threat? Nvidia case raises questions about China - NPR",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZFM4UXRMNVBPNHhuMlNGOURHa0pvRWNCc3BmcGlXV2VqUlRsU0hsQmRHRUx3ZUJfeE1nSFBobUhaY2hHMkhxQVBfVFBhclJmckJEeTIzc29CM3pMcV9uajFyX2NCaEdpSTdGanNTYjVocjBZejBwV2Z6ZWg0T2ZwQWx1WDRDV2ZiVVNteklMQm1wNk9SXzJidlVRSXBoYTI4NHBNQ1J5cEx2MXBVX2JWTXpXZ1hhaFZWeHhJZGh6dlRqVVk?oc=5",
+   "ts": "Fri, 20 Nov 2026 09:42:24 GMT"
   },
   {
    "src": "gnews",
@@ -400,21 +401,27 @@
   },
   {
    "src": "gnews",
+   "title": "Remembering the dog he never had - Humane World for Animals",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2pNb0dobHVqSjhSbFhHSjlMRVlGVndlTk92QXhGc0VueUMzVjhpVGdDbnl2WkJURzJMSWp2YnZGcU5PNFl3Qk9GWGRXQ2pYbm1pZnFNZTRDR3B1VEp2clB5Q0hQakl3cktqX2lwZG83T0xPbHNYR2Z1MnJpOXpFV0JnYktyLXJ5aEdR?oc=5",
+   "ts": "Fri, 20 Nov 2026 21:02:21 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
    "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
-   "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
+   "title": "Greer Sees US Trade Probe ‘Certainly’ Concluding by Year End - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2o2UmpVREVfQTFYNFhGZlBaUC1FZTZsWmRzVVFYSHlQblYxbjFWYnRERFhSUDZYSkNQUzNUNUNQaVRWcy1aajJGaDBBY0FmWC0yZkdiSXV1RGpjMFl4alpqWmdSSFBxSkdqaUFrcGFLTndWdmxRSEs1cm42TnpadVVJTjR3YWdkbVpGWlRFalhpUTl5TDdCZ1ZqekJRUkVpME03aVFnczdxb0UtZ1E?oc=5",
+   "ts": "Fri, 20 Nov 2026 14:59:42 GMT"
   },
   {
    "src": "gnews",
-   "title": "Remembering the dog he never had - Humane World for Animals",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2pNb0dobHVqSjhSbFhHSjlMRVlGVndlTk92QXhGc0VueUMzVjhpVGdDbnl2WkJURzJMSWp2YnZGcU5PNFl3Qk9GWGRXQ2pYbm1pZnFNZTRDR3B1VEp2clB5Q0hQakl3cktqX2lwZG83T0xPbHNYR2Z1MnJpOXpFV0JnYktyLXJ5aEdR?oc=5",
-   "ts": "Fri, 20 Nov 2026 21:02:21 GMT"
+   "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
+   "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
   },
   {
    "src": "gnews",
@@ -436,12 +443,6 @@
   },
   {
    "src": "gnews",
-   "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa1JwdmY0aEYyNHRwSEJ2UVI3a0RBd0NnTDdLbnZxN3o2SlZfRHJHS0dkWURKczBRczZ2dXdfX1FrQi05Q0FzNi1FTVEwQ2tiYnpyTHc3M1VSVjk3elEyb3Q1MlhNWldyUmZNQ0ZfLS1OdmJ5c3d5OUtwc2REajJGY2ZlcGnSAYoBQVVfeXFMTWlMMENRZ1hNNVlfcWZkcktZTWJ4TjdYRzBfRlQxWDIwUmdKNndBZmhGaVM0RkY4V01Ud2RneG93bTcxTk9FYmlMdVU4cUx6UV90VU5uR1l5MVR6THhqRTlhWFdPRGlBTjM4UlBVaWFaSHhvVkJYMm1LLVJQWEpGZEcxNG0ybGhzSnRn?oc=5",
-   "ts": "Thu, 19 Nov 2026 02:54:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
    "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
@@ -457,126 +458,6 @@
    "title": "South Korea says China trade agreement to boost tourism, entertainment sectors - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
    "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Doug Ford wants climate rules eased to save Brampton plant",
-   "url": "https://www.stcatharinesstandard.ca/politics/provincial/doug-ford-urges-ottawa-to-ditch-industrial-carbon-price-to-save-stellantis-brampton-plant/article_c6b142de-e3b4-5381-84a5-3996bb2600ce.html",
-   "ts": "20261121T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump impact on an Ohio steel plant",
-   "url": "https://www.wkyufm.org/news/2026-11-20/trumps-impact-on-an-ohio-steel-plant",
-   "ts": "20261121T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "U . S . Dollar Ends Roughly Flat Amid Rising Expectations On Fed Tightening",
-   "url": "https://www.rttnews.com/3716904/u-s-dollar-ends-roughly-flat-amid-rising-expectations-on-fed-tightening.aspx",
-   "ts": "20261121T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "The latest from Trump press conference",
-   "url": "https://www.kvnf.org/npr-news/2026-11-20/the-latest-from-trumps-press-conference",
-   "ts": "20261121T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Hot Talk Radio | News and Information with Commentary and Streaming",
-   "url": "https://www.hottalkradio.com/commentary/2026/11/21",
-   "ts": "20261121T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  Look at India ...: Trump cites India 7 % GDP growth to slam US Fed over high interest rates",
-   "url": "http://www.taiwansun.com/news/279446359/look-at-india-trump-cites-india-7-gdp-growth-to-slam-us-fed-over-high-interest-rates",
-   "ts": "20261121T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump seeks to penalize US companies that build AI data centers abroad , even as they face backlash",
-   "url": "https://www.ktvo.com/news/nation-world/trump-seeks-to-penalize-us-companies-that-build-ai-data-centers-abroad-even-as-they/article_52287a0d-b525-529f-aa7f-614a0bc194d8.html",
-   "ts": "20261121T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Bessent : No added restrictions needed for Nvidia exports to China",
-   "url": "https://www.wokv.com/news/business/treasury-secretary/TRQRTZSNFE3OJM6X4KLSGWXTXE/",
-   "ts": "20261121T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump administration use of encrypted messaging apps like Signal is scrutinized by House Democrat",
-   "url": "https://www.texarkanagazette.com/news/2026/nov/20/trump-administration-use-of-encrypted-messaging/",
-   "ts": "20261121T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump insists Iran wont make an  acceptable  deal as concerns grow about next steps",
-   "url": "https://www.wsls.com/news/politics/2026/11/20/trump-insists-iran-wont-make-an-acceptable-deal-as-concerns-grow-about-next-steps/",
-   "ts": "20261121T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Supreme Court Alito revered by Republicans , but for how long ? ",
-   "url": "https://kfoxtv.com/news/nation-world/supreme-courts-justice-samuel-alito-revered-by-republicans-gop-but-for-how-long-democrats-senate-congress-trump-rrt",
-   "ts": "20261121T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "США ввели санкции против четырёх граждан Ирана из - за нефтяных сделок",
-   "url": "https://life.ru/p/ssha-vveli-sanktsii-protiv-chetyreh-grazhdan-irana-iz-za-neftyanyh-sdelok",
-   "ts": "20261121T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump threatens to penalize U . S . tech companies over AI data centers – NBC Los Angeles",
-   "url": "https://www.nbclosangeles.com/news/national-international/us-tech-companies-build-international-ai-data-centers-trump-penalty/3973556/",
-   "ts": "20261121T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "WP : Хегсет распорядился ограничить военное сотрудничество США и Канады",
-   "url": "https://news.mail.ru/politics/73180996/",
-   "ts": "20261121T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Judge declines long - term ban on Trump taxpayer - funded ads that aired during the midterm elections",
-   "url": "https://www.wsls.com/news/politics/2026/11/20/judge-declines-long-term-ban-on-trumps-taxpayer-funded-ads-that-aired-during-the-midterm-elections/",
-   "ts": "20261121T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Iowa lead detonation : Judge halts Army plan to blow up bomb - making chemicals",
-   "url": "https://www.fox10phoenix.com/news/iowa-lead-detonation-judge-halts-armys-plan-blow-up-bomb-making-chemicals",
-   "ts": "20261121T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "The latest from Trump press conference",
-   "url": "https://www.iowapublicradio.org/news-from-npr/2026-11-20/the-latest-from-trumps-press-conference",
-   "ts": "20261121T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump : AI Data Centers Must Be Built In U . S . ",
-   "url": "https://wccfradio.iheart.com/content/2026-11-20-trump-ai-data-centers-must-be-built-in-us/",
-   "ts": "20261121T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Consumer mood improves , but is it just a post - election  sugar high ? ",
-   "url": "https://local21news.com/news/nation-world/consumer-mood-improves-but-is-it-just-a-post-election-sugar-high-university-of-michigan-surveys-of-consumer-sentiment-november-2026-midterm-election",
-   "ts": "20261121T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump auditions potential successors as Rubio and Vance join him for White House briefing",
-   "url": "https://www.ktvo.com/news/nation-world/trump-auditions-potential-successors-as-rubio-and-vance-join-him-for-white-house-briefing/article_ce1a68a1-2526-5749-9c56-e7cb8e29464e.html",
-   "ts": "20261121T003000Z"
   }
  ]
 }

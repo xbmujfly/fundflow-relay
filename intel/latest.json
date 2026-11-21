@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-21T00:00:28Z",
+ "ts": "2026-11-21T00:15:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -358,15 +358,15 @@
   },
   {
    "src": "gnews",
-   "title": "Live Updates: Trump Speaks on China Summit, Trade Deals and Data Centers - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmTEh2ZFRVUmZod25NaTdtQTlYYmpKYmd6T2pqMEhKTWJSdC1BT1hOMDMzV0k5bUw2RDYxS3EyZ1BjVmtOVWZ2UTRqSGVhVFMtSDc2bWkwQXZaSWo4SVoxNTRma25wVGJnSmVhNzhlYVF1dw?oc=5",
-   "ts": "Fri, 20 Nov 2026 21:55:47 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "How Carney’s Shift Toward China Could Become Leverage in Stalled U.S. Trade Talks - Time Magazine",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMExCZjI3M2txVy1tMm90TTg5VmpnTWtoUUxGZFN4OTRoSHN3OUNYQXp6QUJjR2lEa0pJNE5EeFJ3Qkxad0E0NlIwMHhmWUhCTjRYVV9BeGQ2UGQwU1JpYzgycDh5YTZtY3N1dUdwSGJKUTJzWWtPMGt5YXBicVhrekxYTjdfNER0V1RybC1GcjZYOXMtRkhGenBLOHBLMGh0NlE?oc=5",
    "ts": "Fri, 20 Nov 2026 20:59:33 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Live Updates: Trump Promotes Data Centers and Speaks on ‘Fantastic’ Relationship With Putin and Xi - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmTEh2ZFRVUmZod25NaTdtQTlYYmpKYmd6T2pqMEhKTWJSdC1BT1hOMDMzV0k5bUw2RDYxS3EyZ1BjVmtOVWZ2UTRqSGVhVFMtSDc2bWkwQXZaSWo4SVoxNTRma25wVGJnSmVhNzhlYVF1dw?oc=5",
+   "ts": "Fri, 20 Nov 2026 21:55:47 GMT"
   },
   {
    "src": "gnews",

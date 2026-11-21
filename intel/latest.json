@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-21T07:46:04Z",
+ "ts": "2026-11-21T08:01:05Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -377,27 +377,27 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Blasts ‘Very Difficult’ Canada Over Trade: ‘Ripping Us Off’ - Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUko1alZDc3dLQUl5cUhWZ1V6bFZ0em96RHNybGtIeWtrcDJhc3R3aWYzbFpNa09zYUNYbU1IZUFsbWhZdVBkOVROS1VKM2l1NzVjd3VZdkdVMURueEFjUFpCd3BKV1RvSGM0cElod2NKcUJmMXo1SWVobVdDRndQNnpOMA?oc=5",
-   "ts": "Fri, 20 Nov 2026 18:50:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
    "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Agriculture Weekly: Farm Bill, China Trade and Grain Markets in Focus - AgroLatam",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdEoxRGwyYkFUZm1DOXI5TnJRbUZKY0VCZDR4a1F2cEtCMEJJSF9KaDFKeFloRXRIT0pFS3UwYUdGc0hKaUJaY0NHUTR0aTNwbnJGUDhOTDdTcUhkRHkzSVF1REZkemxLcWJOYkZkUzg2Y0ZFeHFJMVhRVWhXU3VKWkhHcTRUVmpfU2ltVGk4RXNpT204QlZmM18zd3JoZjE0ZmxyeHpR?oc=5",
-   "ts": "Fri, 20 Nov 2026 22:50:49 GMT"
+   "title": "Trump Blasts ‘Very Difficult’ Canada Over Trade: ‘Ripping Us Off’ - Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUko1alZDc3dLQUl5cUhWZ1V6bFZ0em96RHNybGtIeWtrcDJhc3R3aWYzbFpNa09zYUNYbU1IZUFsbWhZdVBkOVROS1VKM2l1NzVjd3VZdkdVMURueEFjUFpCd3BKV1RvSGM0cElod2NKcUJmMXo1SWVobVdDRndQNnpOMA?oc=5",
+   "ts": "Fri, 20 Nov 2026 18:50:00 GMT"
   },
   {
    "src": "gnews",
    "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
    "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Agriculture Weekly: Farm Bill, China Trade and Grain Markets in Focus - AgroLatam",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdEoxRGwyYkFUZm1DOXI5TnJRbUZKY0VCZDR4a1F2cEtCMEJJSF9KaDFKeFloRXRIT0pFS3UwYUdGc0hKaUJaY0NHUTR0aTNwbnJGUDhOTDdTcUhkRHkzSVF1REZkemxLcWJOYkZkUzg2Y0ZFeHFJMVhRVWhXU3VKWkhHcTRUVmpfU2ltVGk4RXNpT204QlZmM18zd3JoZjE0ZmxyeHpR?oc=5",
+   "ts": "Fri, 20 Nov 2026 22:50:49 GMT"
   },
   {
    "src": "gnews",
@@ -413,9 +413,9 @@
   },
   {
    "src": "gnews",
-   "title": "Business opportunity or security threat? Nvidia case raises questions about China - NPR",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZFM4UXRMNVBPNHhuMlNGOURHa0pvRWNCc3BmcGlXV2VqUlRsU0hsQmRHRUx3ZUJfeE1nSFBobUhaY2hHMkhxQVBfVFBhclJmckJEeTIzc29CM3pMcV9uajFyX2NCaEdpSTdGanNTYjVocjBZejBwV2Z6ZWg0T2ZwQWx1WDRDV2ZiVVNteklMQm1wNk9SXzJidlVRSXBoYTI4NHBNQ1J5cEx2MXBVX2JWTXpXZ1hhaFZWeHhJZGh6dlRqVVk?oc=5",
-   "ts": "Fri, 20 Nov 2026 09:42:24 GMT"
+   "title": "Six Experts on the Significance of Trump, Xi, and Putin’s First Trilateral Meeting - Council on Foreign Relations",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbkdfb09WTFZKX1p2YmdocmZhS2FISUFwTmVuZlBEYWRSaU9WU1d1X1ZBblFKNFQtMVRndmIzLXJSc0VtTXc2LVJFVTh5ZXZWaEN1N1N1bU1BV2ttMlZnR0hsQ2c3aXo0aGVvdmtVNE8yNGZLbUNaY3hJTmNnc1o5SUMwUlN2NTAzbVE4WEFXdUZmdXRTQmc?oc=5",
+   "ts": "Thu, 19 Nov 2026 20:13:32 GMT"
   },
   {
    "src": "gnews",

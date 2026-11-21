@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-21T01:15:23Z",
+ "ts": "2026-11-21T01:30:23Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -389,12 +388,6 @@
   },
   {
    "src": "gnews",
-   "title": "Watch USTR Greer on Chip Curbs, Rare Earths, US-China Trade - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMW1jNkFGNDFReTZoVmJuT2Vjby1pZW1qVUttdkZQUWl3dlkzUzVLMldxRnZ1Q1RYcTAzZXVSYXFuWElVMVJ2TFVNekNaWGQzMzNkaFd5U2dCYlRTb21PQ3JIdlN3aHAwOVF2NjlLM2tDS1UwS0s0RXRiTHU2cWczLUt6a1pqOTJvNXlWMzJOM0xFVXdNQmpyN2Y1TU9ieE4zMDNpNjgtdUxLdw?oc=5",
-   "ts": "Fri, 20 Nov 2026 14:54:03 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "The bill for Trump’s trade war is coming due—at home and abroad - Fortune",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LVldTODA1VnhXU3N6SlR3SEhVX21UaEd6WDZQLW5zdDdybXJXTThQM04wcElBaXhIUDR5dFpqUkF6MVZLN2VyNFVWV2F3UTJjT3UwZE1yc3ZvZFlQQkxmem5UX2FIR096ZTBOOVVxWVU1QQ?oc=5",
    "ts": "Thu, 19 Nov 2026 10:56:00 GMT"
@@ -422,6 +415,12 @@
    "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
    "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "The tech wreck is one stock trade Trump can’t ‘TACO’ away - MarketWatch",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTTRxdEJUWEhNR29HNmE3cG1Ca0dJVWVQTWdsZmhqcnR3UW41ekZ3UXo5dGxtMVVvU0RSejBWcW9UUkVtVXFFZG1JQ3I0TlpaZTUtem41d0xGM3h2bWQ3cjM1VVRXVGNreTBHR0Q0VnhyaFBXcnFOd0RiVDRucEdtTHpMejZLSkFiTEszemdyd3pLbG5YZ2xYREFDT1pSdw?oc=5",
+   "ts": "Fri, 20 Nov 2026 20:52:00 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +457,126 @@
    "title": "South Korea says China trade agreement to boost tourism, entertainment sectors - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
    "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Doug Ford wants climate rules eased to save Brampton plant",
+   "url": "https://www.stcatharinesstandard.ca/politics/provincial/doug-ford-urges-ottawa-to-ditch-industrial-carbon-price-to-save-stellantis-brampton-plant/article_c6b142de-e3b4-5381-84a5-3996bb2600ce.html",
+   "ts": "20261121T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump impact on an Ohio steel plant",
+   "url": "https://www.wkyufm.org/news/2026-11-20/trumps-impact-on-an-ohio-steel-plant",
+   "ts": "20261121T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "U . S . Dollar Ends Roughly Flat Amid Rising Expectations On Fed Tightening",
+   "url": "https://www.rttnews.com/3716904/u-s-dollar-ends-roughly-flat-amid-rising-expectations-on-fed-tightening.aspx",
+   "ts": "20261121T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "The latest from Trump press conference",
+   "url": "https://www.kvnf.org/npr-news/2026-11-20/the-latest-from-trumps-press-conference",
+   "ts": "20261121T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Hot Talk Radio | News and Information with Commentary and Streaming",
+   "url": "https://www.hottalkradio.com/commentary/2026/11/21",
+   "ts": "20261121T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  Look at India ...: Trump cites India 7 % GDP growth to slam US Fed over high interest rates",
+   "url": "http://www.taiwansun.com/news/279446359/look-at-india-trump-cites-india-7-gdp-growth-to-slam-us-fed-over-high-interest-rates",
+   "ts": "20261121T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump seeks to penalize US companies that build AI data centers abroad , even as they face backlash",
+   "url": "https://www.ktvo.com/news/nation-world/trump-seeks-to-penalize-us-companies-that-build-ai-data-centers-abroad-even-as-they/article_52287a0d-b525-529f-aa7f-614a0bc194d8.html",
+   "ts": "20261121T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Bessent : No added restrictions needed for Nvidia exports to China",
+   "url": "https://www.wokv.com/news/business/treasury-secretary/TRQRTZSNFE3OJM6X4KLSGWXTXE/",
+   "ts": "20261121T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump administration use of encrypted messaging apps like Signal is scrutinized by House Democrat",
+   "url": "https://www.texarkanagazette.com/news/2026/nov/20/trump-administration-use-of-encrypted-messaging/",
+   "ts": "20261121T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump insists Iran wont make an  acceptable  deal as concerns grow about next steps",
+   "url": "https://www.wsls.com/news/politics/2026/11/20/trump-insists-iran-wont-make-an-acceptable-deal-as-concerns-grow-about-next-steps/",
+   "ts": "20261121T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Supreme Court Alito revered by Republicans , but for how long ? ",
+   "url": "https://kfoxtv.com/news/nation-world/supreme-courts-justice-samuel-alito-revered-by-republicans-gop-but-for-how-long-democrats-senate-congress-trump-rrt",
+   "ts": "20261121T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "США ввели санкции против четырёх граждан Ирана из - за нефтяных сделок",
+   "url": "https://life.ru/p/ssha-vveli-sanktsii-protiv-chetyreh-grazhdan-irana-iz-za-neftyanyh-sdelok",
+   "ts": "20261121T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump threatens to penalize U . S . tech companies over AI data centers – NBC Los Angeles",
+   "url": "https://www.nbclosangeles.com/news/national-international/us-tech-companies-build-international-ai-data-centers-trump-penalty/3973556/",
+   "ts": "20261121T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "WP : Хегсет распорядился ограничить военное сотрудничество США и Канады",
+   "url": "https://news.mail.ru/politics/73180996/",
+   "ts": "20261121T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Judge declines long - term ban on Trump taxpayer - funded ads that aired during the midterm elections",
+   "url": "https://www.wsls.com/news/politics/2026/11/20/judge-declines-long-term-ban-on-trumps-taxpayer-funded-ads-that-aired-during-the-midterm-elections/",
+   "ts": "20261121T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Iowa lead detonation : Judge halts Army plan to blow up bomb - making chemicals",
+   "url": "https://www.fox10phoenix.com/news/iowa-lead-detonation-judge-halts-armys-plan-blow-up-bomb-making-chemicals",
+   "ts": "20261121T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "The latest from Trump press conference",
+   "url": "https://www.iowapublicradio.org/news-from-npr/2026-11-20/the-latest-from-trumps-press-conference",
+   "ts": "20261121T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump : AI Data Centers Must Be Built In U . S . ",
+   "url": "https://wccfradio.iheart.com/content/2026-11-20-trump-ai-data-centers-must-be-built-in-us/",
+   "ts": "20261121T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Consumer mood improves , but is it just a post - election  sugar high ? ",
+   "url": "https://local21news.com/news/nation-world/consumer-mood-improves-but-is-it-just-a-post-election-sugar-high-university-of-michigan-surveys-of-consumer-sentiment-november-2026-midterm-election",
+   "ts": "20261121T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump auditions potential successors as Rubio and Vance join him for White House briefing",
+   "url": "https://www.ktvo.com/news/nation-world/trump-auditions-potential-successors-as-rubio-and-vance-join-him-for-white-house-briefing/article_ce1a68a1-2526-5749-9c56-e7cb8e29464e.html",
+   "ts": "20261121T003000Z"
   }
  ]
 }

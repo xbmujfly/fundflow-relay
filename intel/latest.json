@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-21T14:31:11Z",
+ "ts": "2026-11-21T14:46:07Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -340,9 +341,9 @@
   },
   {
    "src": "gnews",
-   "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
-   "ts": "Tue, 17 Nov 2026 23:01:15 GMT"
+   "title": "Trump touts Asia trade deal wins, but US agricultural exports disappoint - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX1NxamhacExiOUlPV3RKN2RGTmNzN2gySzZ1Wnl5d0xEUjdud1IyRE5aTk5sUWZRUzRDLTdjblQ0MmNWa1B3Nld0RGhRbDZqbEpfWkpFWlhwOUhPeTJqVkxvNkhReU9iaUlabjJfeVFnNFVrem14RGRVdG9EZHhxcVNFd1dhTkJBR3ljdzZmejE3TkY3bE1zZGJRTG5DRGFTS3k3SDJpRGZWWkdIcTBoYkNB?oc=5",
+   "ts": "Fri, 20 Nov 2026 12:32:09 GMT"
   },
   {
    "src": "gnews",
@@ -376,15 +377,15 @@
   },
   {
    "src": "gnews",
-   "title": "The bill for Trump’s trade war is coming due—at home and abroad - Fortune",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LVldTODA1VnhXU3N6SlR3SEhVX21UaEd6WDZQLW5zdDdybXJXTThQM04wcElBaXhIUDR5dFpqUkF6MVZLN2VyNFVWV2F3UTJjT3UwZE1yc3ZvZFlQQkxmem5UX2FIR096ZTBOOVVxWVU1QQ?oc=5",
-   "ts": "Thu, 19 Nov 2026 10:56:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Top Democrat Tells Carney to Strike Trump Trade Deal Now - Newsweek",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEZ2Q0NJdmpwcnJtaUVXWWdyXy1feDZ2UXJ1aDdpdUZLODEtZ01sSVUxbjZ3ZEwtckRhNlNJQUl5M0UyOFBqVkNpQTJCVWVYQkllYlhrX2pGVFo2bTB5UGduTjVTQUJqNVpFSUdrd240aG1zZFFlU210QlVRU2JnUHpxUVN2QU9wWnl1ZUtR?oc=5",
    "ts": "Sat, 21 Nov 2026 14:19:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "The bill for Trump’s trade war is coming due—at home and abroad - Fortune",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LVldTODA1VnhXU3N6SlR3SEhVX21UaEd6WDZQLW5zdDdybXJXTThQM04wcElBaXhIUDR5dFpqUkF6MVZLN2VyNFVWV2F3UTJjT3UwZE1yc3ZvZFlQQkxmem5UX2FIR096ZTBOOVVxWVU1QQ?oc=5",
+   "ts": "Thu, 19 Nov 2026 10:56:00 GMT"
   },
   {
    "src": "gnews",
@@ -412,15 +413,9 @@
   },
   {
    "src": "gnews",
-   "title": "Six Experts on the Significance of Trump, Xi, and Putin’s First Trilateral Meeting - Council on Foreign Relations",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbkdfb09WTFZKX1p2YmdocmZhS2FISUFwTmVuZlBEYWRSaU9WU1d1X1ZBblFKNFQtMVRndmIzLXJSc0VtTXc2LVJFVTh5ZXZWaEN1N1N1bU1BV2ttMlZnR0hsQ2c3aXo0aGVvdmtVNE8yNGZLbUNaY3hJTmNnc1o5SUMwUlN2NTAzbVE4WEFXdUZmdXRTQmc?oc=5",
-   "ts": "Thu, 19 Nov 2026 20:13:32 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump touts Asia trade deal wins, but US agricultural exports disappoint - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX1NxamhacExiOUlPV3RKN2RGTmNzN2gySzZ1Wnl5d0xEUjdud1IyRE5aTk5sUWZRUzRDLTdjblQ0MmNWa1B3Nld0RGhRbDZqbEpfWkpFWlhwOUhPeTJqVkxvNkhReU9iaUlabjJfeVFnNFVrem14RGRVdG9EZHhxcVNFd1dhTkJBR3ljdzZmejE3TkY3bE1zZGJRTG5DRGFTS3k3SDJpRGZWWkdIcTBoYkNB?oc=5",
-   "ts": "Fri, 20 Nov 2026 12:32:09 GMT"
+   "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
+   "ts": "Tue, 17 Nov 2026 23:01:15 GMT"
   },
   {
    "src": "gnews",
@@ -433,6 +428,12 @@
    "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal - CNBC",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa1JwdmY0aEYyNHRwSEJ2UVI3a0RBd0NnTDdLbnZxN3o2SlZfRHJHS0dkWURKczBRczZ2dXdfX1FrQi05Q0FzNi1FTVEwQ2tiYnpyTHc3M1VSVjk3elEyb3Q1MlhNWldyUmZNQ0ZfLS1OdmJ5c3d5OUtwc2REajJGY2ZlcGnSAYoBQVVfeXFMTWlMMENRZ1hNNVlfcWZkcktZTWJ4TjdYRzBfRlQxWDIwUmdKNndBZmhGaVM0RkY4V01Ud2RneG93bTcxTk9FYmlMdVU4cUx6UV90VU5uR1l5MVR6THhqRTlhWFdPRGlBTjM4UlBVaWFaSHhvVkJYMm1LLVJQWEpGZEcxNG0ybGhzSnRn?oc=5",
    "ts": "Thu, 19 Nov 2026 02:54:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Blasts ‘Very Difficult’ Canada Over Trade: ‘Ripping Us Off’ - Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUko1alZDc3dLQUl5cUhWZ1V6bFZ0em96RHNybGtIeWtrcDJhc3R3aWYzbFpNa09zYUNYbU1IZUFsbWhZdVBkOVROS1VKM2l1NzVjd3VZdkdVMURueEFjUFpCd3BKV1RvSGM0cElod2NKcUJmMXo1SWVobVdDRndQNnpOMA?oc=5",
+   "ts": "Fri, 20 Nov 2026 18:50:00 GMT"
   },
   {
    "src": "gnews",
@@ -457,126 +458,6 @@
    "title": "Trump says Board of Trade has brought 'greater balance' to US-China ties - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0VUY0prRXhtQVNrWEEyblJwRE5RdTk0ajdzSXBaNlJZcWF3YTNGbWFmMzdvSnJwWmc3ZS1ScHd4Q2tuVXA5SVJKbWFYNmxoSmdqT0VJM2FFS2Z1U3NYU0ZKbzRPSXhadEplSFQ1cDkyT1htZmdmRC1UTDgzQktfMXZqRDJiNnpTWnpHc1J2MThYazVyeTVpVFp5cW1PYTRzMjE5YnpkV0hlUQ?oc=5",
    "ts": "Thu, 19 Nov 2026 18:00:33 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "  In his opposition to PM Modi , Rahul Gandhi has begun to oppose India itself : Anurag Thakur",
-   "url": "http://www.indiagazette.com/news/279447008/in-his-opposition-to-pm-modi-rahul-gandhi-has-begun-to-oppose-india-itself-anurag-thakur",
-   "ts": "20261121T133000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Armenian PM : Launch of TRIPP project to be officially announced tomorrow",
-   "url": "https://en.apa.az/cis-countries/armenian-pm-launch-of-tripp-project-to-be-officially-announced-tomorrow-537644",
-   "ts": "20261121T133000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Judge orders US agriculture chief to stop sending religious emails from official account",
-   "url": "https://www.parkrapidsenterprise.com/news/national/judge-orders-us-agriculture-chief-to-stop-sending-religious-emails-from-official-account",
-   "ts": "20261121T133000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Зеленски нарече Путин „ убиец  ",
-   "url": "https://news.bg/konflikti/zelenski-nareche-putin-ubiets.html",
-   "ts": "20261121T133000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Bonne table à Rouen .  On mange bien , avec de bonnes portions  : le bistrot Saint - Romain ouvre ses portes",
-   "url": "https://www.tendanceouest.com/actualite-444224-bonne-table-a-rouen-on-mange-bien-avec-de-bonnes-portions-le-bistrot-saint-romain-ouvre-ses-portes",
-   "ts": "20261121T133000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Oath Keepers founder and Jan . 6 leader Stewart Rhodes is  absolutely done  with Trump – Winnipeg Free Press",
-   "url": "https://www.winnipegfreepress.com/world/2026/11/21/oath-keepers-founder-and-jan-6-leader-stewart-rhodes-is-absolutely-done-with-trump",
-   "ts": "20261121T133000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Young boy one of two killed in ballistic missile attack on Zelensky home town",
-   "url": "https://www.leighjournal.co.uk/news/national/26750572.young-boy-one-two-killed-ballistic-missile-attack-zelenskys-home-town/",
-   "ts": "20261121T133000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "السعودية تعلن اعتراض ثلاثة صواريخ باليستية أُطلقت باتجاه الرياض",
-   "url": "https://almadapaper.net/461946/",
-   "ts": "20261121T133000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Governo nomeia Maria Isabel Soares para Conselho Consultivo da ERSE",
-   "url": "https://sapo.pt/artigo/governo-nomeia-maria-isabel-soares-para-conselho-consultivo-da-erse-6b019500b111ab45ff161ba7",
-   "ts": "20261121T133000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Missile attack on Zelenskiy hometown kills two",
-   "url": "https://www.perthnow.com.au/news/conflict/missile-attack-on-zelenskiys-hometown-kills-two-c-23195124",
-   "ts": "20261121T133000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Oubliez les oeufs brouillés et lavocado toast : nos 5 adresses pour un brunch réussi à Paris cet automne",
-   "url": "https://www.purepeople.com/article/oubliez-les-oeufs-brouilles-et-lavocado-toast-nos-5-adresses-pour-un-brunch-reussi-a-paris-cet-automne_a556202/1",
-   "ts": "20261121T133000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Shenzhen Summit Puts Limits of China – Russia Partnership in Focus",
-   "url": "https://www.theepochtimes.com/china/shenzhen-summit-puts-limits-of-china-russia-partnership-in-focus-6127510",
-   "ts": "20261121T133000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Young boy one of two killed in ballistic missile attack on Zelensky home town",
-   "url": "https://www.wharfedaleobserver.co.uk/news/national/26750572.young-boy-one-two-killed-ballistic-missile-attack-zelenskys-home-town/",
-   "ts": "20261121T133000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ทรัมป์ขู่เก็บภาษีหนัก บริษัทสหรัฐที่สร้างดาต้าเซ็นเตอร์ในต่างแดน",
-   "url": "https://www.dailynews.co.th/news/6379381/",
-   "ts": "20261121T133000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Young boy one of two killed in ballistic missile attack on Zelensky home town",
-   "url": "https://www.eadt.co.uk/news/national/26750572.young-boy-one-two-killed-ballistic-missile-attack-zelenskys-home-town/",
-   "ts": "20261121T133000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Тръмп : Путин иска войната в Украйна да приключи по дипломатически път",
-   "url": "https://www.cross.bg/prezident-trump-amerikanskiyat-1810974.html",
-   "ts": "20261121T133000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Week in Politics : Trump returns from Asia ; hails trip as one of best in history",
-   "url": "https://www.kasu.org/politics/2026-11-21/week-in-politics-trump-returns-from-asia-hails-trip-as-one-of-best-in-history",
-   "ts": "20261121T133000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Кирило Буданов : Край на войната в Украйна до 1 януари би бил истинско чудо",
-   "url": "https://news.bg/konflikti/kirilo-budanov-kray-na-voynata-v-ukrayna-do-1-yanuari-bi-bil-istinsko-chudo.html",
-   "ts": "20261121T133000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "The AI boom had a really bad week and it raising loud alarms",
-   "url": "https://www.kasu.org/business-economy/2026-11-21/the-ai-boom-had-a-really-bad-week-and-its-raising-loud-alarms",
-   "ts": "20261121T133000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "习近平主席的深圳APEC时间",
-   "url": "https://www.cqnews.net/web/content_1573803961342586880.html",
-   "ts": "20261121T133000Z"
   }
  ]
 }

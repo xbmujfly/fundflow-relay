@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-21T09:16:10Z",
+ "ts": "2026-11-21T09:31:05Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -383,12 +383,6 @@
   },
   {
    "src": "gnews",
-   "title": "Agriculture Weekly: Farm Bill, China Trade and Grain Markets in Focus - AgroLatam",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdEoxRGwyYkFUZm1DOXI5TnJRbUZKY0VCZDR4a1F2cEtCMEJJSF9KaDFKeFloRXRIT0pFS3UwYUdGc0hKaUJaY0NHUTR0aTNwbnJGUDhOTDdTcUhkRHkzSVF1REZkemxLcWJOYkZkUzg2Y0ZFeHFJMVhRVWhXU3VKWkhHcTRUVmpfU2ltVGk4RXNpT204QlZmM18zd3JoZjE0ZmxyeHpR?oc=5",
-   "ts": "Fri, 20 Nov 2026 22:50:49 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump Blasts ‘Very Difficult’ Canada Over Trade: ‘Ripping Us Off’ - Newsweek",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUko1alZDc3dLQUl5cUhWZ1V6bFZ0em96RHNybGtIeWtrcDJhc3R3aWYzbFpNa09zYUNYbU1IZUFsbWhZdVBkOVROS1VKM2l1NzVjd3VZdkdVMURueEFjUFpCd3BKV1RvSGM0cElod2NKcUJmMXo1SWVobVdDRndQNnpOMA?oc=5",
    "ts": "Fri, 20 Nov 2026 18:50:00 GMT"
@@ -398,6 +392,12 @@
    "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
    "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Agriculture Weekly: Farm Bill, China Trade and Grain Markets in Focus - AgroLatam",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdEoxRGwyYkFUZm1DOXI5TnJRbUZKY0VCZDR4a1F2cEtCMEJJSF9KaDFKeFloRXRIT0pFS3UwYUdGc0hKaUJaY0NHUTR0aTNwbnJGUDhOTDdTcUhkRHkzSVF1REZkemxLcWJOYkZkUzg2Y0ZFeHFJMVhRVWhXU3VKWkhHcTRUVmpfU2ltVGk4RXNpT204QlZmM18zd3JoZjE0ZmxyeHpR?oc=5",
+   "ts": "Fri, 20 Nov 2026 22:50:49 GMT"
   },
   {
    "src": "gnews",
@@ -431,9 +431,9 @@
   },
   {
    "src": "gnews",
-   "title": "As Trump basks in summit pomp, China's Xi strengthens his hand - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm1waHdJRVp4M2dKRlhKSHRHQmpEOFZZdGJRRndnR3ZXb0pmc1d6cUNmZWcwX3VwTHBzY1VMVmh3RDJBNVYtV2tDV1pDX25kNFhMWlE4a3N0RVpIMV80alNzRl9VQ0NMNF81UzVXTUJWVk1ZSmkwSFZDOHFNNHBLZ2RlNWloalpTOWs5UXFVQWJqenE4RGFXLWZRN1JlS1l6MnJlWQ?oc=5",
-   "ts": "Sat, 21 Nov 2026 08:40:34 GMT"
+   "title": "Are Trump's Trade Deals Actually Delivering for American Farmers? - AgroLatam",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRXhBaHM3aF92T19LT1hWcTZYRWNrRGRFZ0dpMUYyVkcwemlpcnJ6MEt2cEJyeFhLV21mbFVGTHBDTTNEeVo3ckxucmtYSGNBYld3a2FIQUlURlRVdTBLSXQ3R2dpVm1zUXhIQThXeWtjY1NWZTY3Rm8zRzdvTy1vSVVjWjJxV0VDZXNSaDlnNFNnWm1kZUFaNlZVX18tMHVs?oc=5",
+   "ts": "Fri, 20 Nov 2026 12:09:58 GMT"
   },
   {
    "src": "gnews",

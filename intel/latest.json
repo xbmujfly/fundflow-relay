@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-21T09:46:04Z",
+ "ts": "2026-11-21T10:01:19Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -383,15 +383,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Blasts ‘Very Difficult’ Canada Over Trade: ‘Ripping Us Off’ - Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUko1alZDc3dLQUl5cUhWZ1V6bFZ0em96RHNybGtIeWtrcDJhc3R3aWYzbFpNa09zYUNYbU1IZUFsbWhZdVBkOVROS1VKM2l1NzVjd3VZdkdVMURueEFjUFpCd3BKV1RvSGM0cElod2NKcUJmMXo1SWVobVdDRndQNnpOMA?oc=5",
-   "ts": "Fri, 20 Nov 2026 18:50:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
    "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Blasts ‘Very Difficult’ Canada Over Trade: ‘Ripping Us Off’ - Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUko1alZDc3dLQUl5cUhWZ1V6bFZ0em96RHNybGtIeWtrcDJhc3R3aWYzbFpNa09zYUNYbU1IZUFsbWhZdVBkOVROS1VKM2l1NzVjd3VZdkdVMURueEFjUFpCd3BKV1RvSGM0cElod2NKcUJmMXo1SWVobVdDRndQNnpOMA?oc=5",
+   "ts": "Fri, 20 Nov 2026 18:50:00 GMT"
   },
   {
    "src": "gnews",

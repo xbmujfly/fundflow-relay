@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-21T12:01:13Z",
+ "ts": "2026-11-21T12:16:04Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -29,12 +29,14 @@
    "err": "HTTPError: HTTP Error 403: Forbidden"
   },
   "gnews": {
-   "ok": true,
-   "n": 25
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -337,246 +339,6 @@
    "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
    "ts": "Fri, 2 Oct 2026 20:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
-   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
-   "ts": "Fri, 20 Nov 2026 13:16:47 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump touts Asia trade deal wins, but US agricultural exports disappoint - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX1NxamhacExiOUlPV3RKN2RGTmNzN2gySzZ1Wnl5d0xEUjdud1IyRE5aTk5sUWZRUzRDLTdjblQ0MmNWa1B3Nld0RGhRbDZqbEpfWkpFWlhwOUhPeTJqVkxvNkhReU9iaUlabjJfeVFnNFVrem14RGRVdG9EZHhxcVNFd1dhTkJBR3ljdzZmejE3TkY3bE1zZGJRTG5DRGFTS3k3SDJpRGZWWkdIcTBoYkNB?oc=5",
-   "ts": "Fri, 20 Nov 2026 12:32:09 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Live Updates: Trump Speaks on China Summit, Trade Deals and Data Centers - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmTEh2ZFRVUmZod25NaTdtQTlYYmpKYmd6T2pqMEhKTWJSdC1BT1hOMDMzV0k5bUw2RDYxS3EyZ1BjVmtOVWZ2UTRqSGVhVFMtSDc2bWkwQXZaSWo4SVoxNTRma25wVGJnSmVhNzhlYVF1dw?oc=5",
-   "ts": "Sat, 21 Nov 2026 01:12:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "How Carney’s Shift Toward China Could Become Leverage in Stalled U.S. Trade Talks - Time Magazine",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMExCZjI3M2txVy1tMm90TTg5VmpnTWtoUUxGZFN4OTRoSHN3OUNYQXp6QUJjR2lEa0pJNE5EeFJ3Qkxad0E0NlIwMHhmWUhCTjRYVV9BeGQ2UGQwU1JpYzgycDh5YTZtY3N1dUdwSGJKUTJzWWtPMGt5YXBicVhrekxYTjdfNER0V1RybC1GcjZYOXMtRkhGenBLOHBLMGh0NlE?oc=5",
-   "ts": "Fri, 20 Nov 2026 20:59:33 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump-Xi Summit Delivers No Farm Trade Breakthrough as Growers Face New Uncertainty - AgroLatam",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUjVDTnBKT29veWFWQXRBV1BDeEJqU2FmaklhazAyWkF1QlRGUU9QZ2ltSUlGQmY4RWQ3Z05vaG11U25IZ3lvQk5IcGhOblk2dkVIdkpjemlMVmJCb2N4dWFpSzNmd08tMlBpU3RERUg2Y3h2MmkzMDYtZ3hTV2ZuR2wwdWpzaWJzWVV2bEdhVWw5VGZGaVA3Z3pLMFIzMVA3QjNxNUdmMVN5bzJFQjU5SlN5OTZoS0RhNXlZ?oc=5",
-   "ts": "Sat, 21 Nov 2026 11:07:22 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "The bill for Trump’s trade war is coming due—at home and abroad - Fortune",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LVldTODA1VnhXU3N6SlR3SEhVX21UaEd6WDZQLW5zdDdybXJXTThQM04wcElBaXhIUDR5dFpqUkF6MVZLN2VyNFVWV2F3UTJjT3UwZE1yc3ZvZFlQQkxmem5UX2FIR096ZTBOOVVxWVU1QQ?oc=5",
-   "ts": "Thu, 19 Nov 2026 10:56:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
-   "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
-   "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump lands in China for trade talks and high-stakes summit with Xi and Putin - PBS",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb0cyRko0OEN1RlRLT0VFTjBfeU1zZWllR193RFc3WVl4T2h1NmFJQjl4UEZJcWdKUmFuOWVXUTl1Qi1uaERobk1iZGpIR20ycjlNcl9lVDY3MzIxbmhJblA1ejlQOGE5Yi1iZUpZMkhEemo4RGFrMVIwSzJjMW5OY0RURDFrRWRUaFBweFZlS3BwWUg2WUhhWDY1Sno4QVV1eTU5cjRyT1VCZkZ5ZExvRQ?oc=5",
-   "ts": "Wed, 18 Nov 2026 23:55:44 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump Blasts ‘Very Difficult’ Canada Over Trade: ‘Ripping Us Off’ - Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUko1alZDc3dLQUl5cUhWZ1V6bFZ0em96RHNybGtIeWtrcDJhc3R3aWYzbFpNa09zYUNYbU1IZUFsbWhZdVBkOVROS1VKM2l1NzVjd3VZdkdVMURueEFjUFpCd3BKV1RvSGM0cElod2NKcUJmMXo1SWVobVdDRndQNnpOMA?oc=5",
-   "ts": "Fri, 20 Nov 2026 18:50:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Six Experts on the Significance of Trump, Xi, and Putin’s First Trilateral Meeting - Council on Foreign Relations",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbkdfb09WTFZKX1p2YmdocmZhS2FISUFwTmVuZlBEYWRSaU9WU1d1X1ZBblFKNFQtMVRndmIzLXJSc0VtTXc2LVJFVTh5ZXZWaEN1N1N1bU1BV2ttMlZnR0hsQ2c3aXo0aGVvdmtVNE8yNGZLbUNaY3hJTmNnc1o5SUMwUlN2NTAzbVE4WEFXdUZmdXRTQmc?oc=5",
-   "ts": "Thu, 19 Nov 2026 20:13:32 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
-   "ts": "Tue, 17 Nov 2026 23:01:15 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney and Xi Announce Trade Pact Ahead of Asia Summit - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
-   "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa1JwdmY0aEYyNHRwSEJ2UVI3a0RBd0NnTDdLbnZxN3o2SlZfRHJHS0dkWURKczBRczZ2dXdfX1FrQi05Q0FzNi1FTVEwQ2tiYnpyTHc3M1VSVjk3elEyb3Q1MlhNWldyUmZNQ0ZfLS1OdmJ5c3d5OUtwc2REajJGY2ZlcGnSAYoBQVVfeXFMTWlMMENRZ1hNNVlfcWZkcktZTWJ4TjdYRzBfRlQxWDIwUmdKNndBZmhGaVM0RkY4V01Ud2RneG93bTcxTk9FYmlMdVU4cUx6UV90VU5uR1l5MVR6THhqRTlhWFdPRGlBTjM4UlBVaWFaSHhvVkJYMm1LLVJQWEpGZEcxNG0ybGhzSnRn?oc=5",
-   "ts": "Thu, 19 Nov 2026 02:54:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Agriculture Weekly: Farm Bill, China Trade and Grain Markets in Focus - AgroLatam",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdEoxRGwyYkFUZm1DOXI5TnJRbUZKY0VCZDR4a1F2cEtCMEJJSF9KaDFKeFloRXRIT0pFS3UwYUdGc0hKaUJaY0NHUTR0aTNwbnJGUDhOTDdTcUhkRHkzSVF1REZkemxLcWJOYkZkUzg2Y0ZFeHFJMVhRVWhXU3VKWkhHcTRUVmpfU2ltVGk4RXNpT204QlZmM18zd3JoZjE0ZmxyeHpR?oc=5",
-   "ts": "Fri, 20 Nov 2026 22:50:49 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
-   "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "South Korea says China trade agreement to boost tourism, entertainment sectors - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
-   "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump says Board of Trade has brought 'greater balance' to US-China ties - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0VUY0prRXhtQVNrWEEyblJwRE5RdTk0ajdzSXBaNlJZcWF3YTNGbWFmMzdvSnJwWmc3ZS1ScHd4Q2tuVXA5SVJKbWFYNmxoSmdqT0VJM2FFS2Z1U3NYU0ZKbzRPSXhadEplSFQ1cDkyT1htZmdmRC1UTDgzQktfMXZqRDJiNnpTWnpHc1J2MThYazVyeTVpVFp5cW1PYTRzMjE5YnpkV0hlUQ?oc=5",
-   "ts": "Thu, 19 Nov 2026 18:00:33 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "As Trump courts Xi and Putin, middle powers make their own moves - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSTlEeUw0SVZ1dkFoRVM0WEdFTktVUVFoQ2VvVlV5YmpQaEdwVGFWWmVnSmdmRU1pdXBRZng0MTV6ZVhOZjd0b2o5MlVicFh4Q3RkWEFMLWl4QzRtSHFJZ0VUbDA0YzcyOTNlZF9EQzhtUjA5R1gxXzBYS05qM0ZISGlBdnZCdXpFdjZhc2lCZ3dGdHlEU3JlOXNVdnFlVlVqWC1qWHdwNA?oc=5",
-   "ts": "Fri, 20 Nov 2026 22:13:39 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Тръмп посочи най - влиятелния човек на света - Свят Новини Стандарт",
-   "url": "https://www.standartnews.com/svyat/tramp-posochi-nay-vliyatelniya-chovek-na-sveta-653954.html",
-   "ts": "20261121T113000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Is It a Good Time to Buy Alphabet Stock ? Google Parent Hits Fresh 52 - Week Low as Wall Street Still Sees Upside",
-   "url": "https://www.ibtimes.com.au/alphabet-shares-hit-52-week-low-ai-selloff-1879066",
-   "ts": "20261121T113000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Donald Trump signs Common Cents Act , ending penny minting U . s . Mint Stops Producing Pennies",
-   "url": "https://www.el-balad.com/17068717",
-   "ts": "20261121T113000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "SC Tim Scott pushes for new  I Have a Dream  speech marker",
-   "url": "https://www.postandcourier.com/politics/tim-scott-pushes-for-new-mlk-speech-plaque/article_56d53aa6-1927-4a44-b6c4-9a806e2414bd.html",
-   "ts": "20261121T113000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Grand Theft Auto VI face à la discorde des évaluations utilisateurs",
-   "url": "https://www.fredzone.org/grand-theft-auto-vi-face-a-la-discorde-des-evaluations-utilisateurs/",
-   "ts": "20261121T113000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Anthropic says it will put humanity first . Will its IPO change that ? ",
-   "url": "https://www.wglt.org/2026-11-21/anthropic-says-it-will-put-humanity-first-will-its-ipo-change-that",
-   "ts": "20261121T113000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "FBI reportedly investigating apparent hack of its criminal database",
-   "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
-   "ts": "20261121T113000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "The AI boom had a really bad week and it raising loud alarms",
-   "url": "https://www.wglt.org/2026-11-21/the-ai-boom-had-a-really-bad-week-and-its-raising-loud-alarms",
-   "ts": "20261121T113000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Urges Nvidia to Give Jensen Huang a Second Chance , but Board Says Former CEO Will Not Be Reinstated",
-   "url": "https://www.ibtimes.com.au/trump-urges-nvidia-reinstate-jensen-huang-1879082",
-   "ts": "20261121T113000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Anthropic says it will put humanity first . Will its IPO change that ? ",
-   "url": "https://www.kcbx.org/npr-top-news/2026-11-21/anthropic-says-it-will-put-humanity-first-will-its-ipo-change-that",
-   "ts": "20261121T113000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Supporter Waka Flocka Bashes Adult Gamers For Playing  GTA 6 , Social Media Fries Him",
-   "url": "https://ipowerrichmond.com/4579193/waka-flocka-slammed-hating-adult-men-playing-gta-6-reactions/",
-   "ts": "20261121T113000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "The AI boom had a really bad week and it raising loud alarms",
-   "url": "https://www.kjzz.org/npr-top-stories/2026-11-21/the-ai-boom-had-a-really-bad-week-and-its-raising-loud-alarms",
-   "ts": "20261121T113000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "やることなすことトンチンカン … 高市さん 、 広報動画じゃごまかせないよ｜日刊ゲンダイDIGITAL",
-   "url": "https://www.nikkan-gendai.com/articles/view/news/395895",
-   "ts": "20261121T113000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ghana Rent Commissioner Seeks Police Guard",
-   "url": "https://www.riotimesonline.com/ghana-rent-commissioner-seeks-police-guard/",
-   "ts": "20261121T113000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "शिखर वार्ताले मक्ख ट्रम्प , तर चीनले बढायो कूटनीतिक र रणनीतिक प्रभाव | Nepal first 24 - hour updated news portal",
-   "url": "https://www.ratopati.com/story/606730/trump-wins-summit-but-china-increases-diplomatic-and-strategic-influence",
-   "ts": "20261121T113000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump formally ends minting of the penny – NBC 5 Dallas - Fort Worth",
-   "url": "https://www.nbcdfw.com/news/local/trump-formally-ends-minting-of-the-penny-after-nearly-250-years-of-production/4109200/",
-   "ts": "20261121T113000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Anthropic says it will put humanity first . Will its IPO change that ? ",
-   "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-6048678/anthropic-says-it-will-put-humanity-first-will-its-ipo-change-that",
-   "ts": "20261121T113000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Fair - weather Silicon Valley pivots away from the right after blue wave :  Im not Maga  | US politics",
-   "url": "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms",
-   "ts": "20261121T113000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "NAWG Urges Farm Bill Action and Democrats and Farm Policy - AG INFORMATION NETWORK OF THE WEST",
-   "url": "https://www.aginfo.net/report/66592/20/NAWG-Urges-Farm-Bill-Action-and-Democrats-and-Farm-Policy",
-   "ts": "20261121T113000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "LAUB et la MEA lancent un certificat en aviation",
-   "url": "https://libnanews.com/laub-et-la-mea-lancent-un-certificat-en-aviation/",
-   "ts": "20261121T113000Z"
   }
  ]
 }

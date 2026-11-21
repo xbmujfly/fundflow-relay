@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-21T15:16:03Z",
+ "ts": "2026-11-21T15:31:07Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -457,126 +458,6 @@
    "title": "Trump says Board of Trade has brought 'greater balance' to US-China ties - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0VUY0prRXhtQVNrWEEyblJwRE5RdTk0ajdzSXBaNlJZcWF3YTNGbWFmMzdvSnJwWmc3ZS1ScHd4Q2tuVXA5SVJKbWFYNmxoSmdqT0VJM2FFS2Z1U3NYU0ZKbzRPSXhadEplSFQ1cDkyT1htZmdmRC1UTDgzQktfMXZqRDJiNnpTWnpHc1J2MThYazVyeTVpVFp5cW1PYTRzMjE5YnpkV0hlUQ?oc=5",
    "ts": "Thu, 19 Nov 2026 18:00:33 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Young boy one of two killed in ballistic missile attack on Zelensky home city",
-   "url": "https://www.whtimes.co.uk/news/national/26750572.young-boy-one-two-killed-ballistic-missile-attack-zelenskys-home-city/",
-   "ts": "20261121T143000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "AP Trending SummaryBrief at 8 : 52 a . m . EST",
-   "url": "http://www.wdtimes.com/news/national/ap-trending-summarybrief-at-8-52-a-m-est/article_32ed84e2-f9d5-535e-b473-d780b238fd42.html",
-   "ts": "20261121T143000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Young boy one of two killed in ballistic missile attack on Zelensky home city",
-   "url": "https://www.somersetcountygazette.co.uk/news/national/26750572.young-boy-one-two-killed-ballistic-missile-attack-zelenskys-home-city/",
-   "ts": "20261121T143000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "FEMA Barely Exists at This Point , but at Least It Also Completely Infested with Bed Bugs",
-   "url": "https://www.jezebel.com/fema-bed-bug-infestation-headquarters-washington-dc-staffers-fumigation-cameron-hamilton-states-disaster-relief",
-   "ts": "20261121T143000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Young boy one of two killed in ballistic missile attack on Zelensky home city",
-   "url": "https://www.thetelegraphandargus.co.uk/news/national/26750572.young-boy-one-two-killed-ballistic-missile-attack-zelenskys-home-city/",
-   "ts": "20261121T143000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "EU proposes tax on Big Tech to boost budget",
-   "url": "https://www.thelocal.dk/20261121/eu-proposes-tax-on-big-tech-to-boost-budget",
-   "ts": "20261121T143000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Young boy one of two killed in ballistic missile attack on Zelensky home city",
-   "url": "https://www.eppingforestguardian.co.uk/news/national/26750572.young-boy-one-two-killed-ballistic-missile-attack-zelenskys-home-city/",
-   "ts": "20261121T143000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Russian cargo ship  carrying military supplie is hit by drones in Gulf of Finland as it drifts towards Nato waters",
-   "url": "https://www.dailymail.com/news/article-16311227/Russian-ship-military-supplies-drones-Gulf-Finland-Nato.html",
-   "ts": "20261121T143000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Украина предложила эвакуировать жителей ещё 15 населённых пунктов",
-   "url": "https://www.svoboda.org/a/ukraina-predlozhila-evakuirovatj-zhiteley-eschyo-15-naselyonnyh-punktov/33903158.html",
-   "ts": "20261121T143000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Anthropic says it will put humanity first . Will its IPO change that ? ",
-   "url": "https://www.kclu.org/economy/2026-11-21/anthropic-says-it-will-put-humanity-first-will-its-ipo-change-that",
-   "ts": "20261121T143000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Young boy one of two killed in ballistic missile attack on Zelensky home city",
-   "url": "https://www.worcesternews.co.uk/news/national/26750572.young-boy-one-two-killed-ballistic-missile-attack-zelenskys-home-city/",
-   "ts": "20261121T143000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "MS propõe elevar investimentos públicos a 12 % até 2030",
-   "url": "https://acritica.net/politica/morre-yuri-louveira-menino-corpo-queimado-campo-grande/",
-   "ts": "20261121T143000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Young boy one of two killed in ballistic missile attack on Zelensky home city",
-   "url": "https://www.echo-news.co.uk/news/national/26750572.young-boy-one-two-killed-ballistic-missile-attack-zelenskys-home-city/",
-   "ts": "20261121T143000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Великі країни не можуть вирішувати майбутнє всього світу – Зеленський",
-   "url": "https://www.5.ua/polityka/velyki-krainy-ne-mozhut-vyrishuvaty-maibutnie-vsoho-svitu-zelenskyi-386555.html",
-   "ts": "20261121T143000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Orders Federal Contractors to Notify White House of Congressional",
-   "url": "https://www.newsradio1029.com/2026/11/21/trump-orders-federal-contractors-to-notify-white-house-of-congressional/",
-   "ts": "20261121T143000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US Agriculture Department , FBI breached by hackers : reports",
-   "url": "https://www.standardmedia.co.ke/world/article/2001562760/us-fbi-breached-by-hackers-reports",
-   "ts": "20261121T143000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Anthropic says it will put humanity first . Will its IPO change that ? ",
-   "url": "https://www.kuow.org/npr-news/2026-11-21/anthropic-says-it-will-put-humanity-first-will-its-ipo-change-that",
-   "ts": "20261121T143000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "美伊谈判陷僵局 ： 特朗普拒绝  虚假协议  ",
-   "url": "https://www.zaobao.com.sg/news/sea/story20261121-10036803",
-   "ts": "20261121T143000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump floats  tremendous tax  on companies that build data centers overseas",
-   "url": "https://www.wisn.com/article/trump-floats-tremendous-tax-on-companies-that-build-data-centers-overseas/74497229",
-   "ts": "20261121T143000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Zelensky brands Putin a  killer  as Russian double - tap missile attack kills two",
-   "url": "https://www.mirror.co.uk/news/world-news/zelensky-brands-putin-killer-russian-37901996",
-   "ts": "20261121T143000Z"
   }
  ]
 }

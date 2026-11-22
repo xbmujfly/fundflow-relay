@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-22T11:31:10Z",
+ "ts": "2026-11-22T11:46:09Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -457,126 +458,6 @@
    "title": "South Korea says China trade agreement to boost tourism, entertainment sectors - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
    "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Black Friday CyberGhost : un seul abonnement pour protéger jusqu  à 7 appareils",
-   "url": "https://www.lesnumeriques.com/vpn/black-friday-cyberghost-un-seul-abonnement-pour-proteger-jusqu-a-7-appareils-n267374.html",
-   "ts": "20261122T103000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Avast vs TotalAV : le meilleur rapport protection / prix en 2026 ? ",
-   "url": "https://www.lesnumeriques.com/antivirus/avast-vs-totalav-le-meilleur-rapport-protection-prix-en-2026-a251268.html",
-   "ts": "20261122T103000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Olomoucké novinky - Domácí - Čína získala dolary bez přirážky . Trhy nabídly 36krát víc",
-   "url": "https://www.olomouckenovinky.cz/zpravy/byznys/cina-ziskala-dolary-bez-prirazky-trhy-nabidly-36krat-vic/",
-   "ts": "20261122T103000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Выделили 205 миллиардов на войну эксперт о бюджете России и планах вести войну весь 2027 год",
-   "url": "https://24tv.ua/geopolitics/ru/vydelili-205-milliardov-na-vojnu-jekspert-o-bjudzhete-rossii-i-planah-vesti-vojnu-v-techenie-vsego-2027-goda_n3212256",
-   "ts": "20261122T103000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "генерал Романенко оценил гарантии безопасности Запада для Украины",
-   "url": "https://24tv.ua/ru/general-romanenko-ocenil-garantii-bezopasnosti-predostavlennye-zapadom-ukraine_n3212247",
-   "ts": "20261122T103000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Меланія Трамп очікує ще одного припинення вогню між Україною та РФ до Різдва",
-   "url": "https://uainfo.org/blognews/1795249775-melaniya-tramp-ochikue-shche-odnogo-pripinennya-vognyu-mizh-ukrayinoyu.html",
-   "ts": "20261122T103000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Перед выходом журналистов Рубио рванул пожать руку Лаврову",
-   "url": "https://www.vesti.ru/ns/pered-vykhodom-zhurnalistov-rubio-rvanul-pozhat-ruku-lavrovu",
-   "ts": "20261122T103000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Трамп что - то прошептал Путину перед началом двусторонней встречи в Шэньчжэне",
-   "url": "https://www.vesti.ru/ns/stalo-izvestno-chto-tramp-prosheptal-putinu-pered-nachalom-peregovorov-v-kitae",
-   "ts": "20261122T103000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Stateline : National outages , emergency alerts become fodder for doomsday conspiracy theories",
-   "url": "https://www.magnoliareporter.com/news_and_business/regional_news/article_57b1e6f0-973a-47b4-9572-2e108479bbab.html",
-   "ts": "20261122T103000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Pixel 11 : Amazon le vend encore moins cher quun vieux Pixel 9a ( gare à la rupture ) ⚡️",
-   "url": "https://www.journaldugeek.com/bon-plan/pixel-11-amazon-le-vend-encore-moins-cher-quun-vieux-pixel-9a-gare-a-la-rupture/",
-   "ts": "20261122T103000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " « Θεέ μου , είναι η Τεχεράνη » - Αμερικανοί πιλότοι περιγράφουν την επιχείρηση « Midnight Hammer στις πυρηνικές εγκαταστάσεις του Ιράν",
-   "url": "https://www.newsit.gr/kosmos/thee-mou-einai-i-texerani-amerikanoi-pilotoi-perigrafoun-tin-epixeirisi-midnight-hammer-stis-pyrinikes-egkatastaseis-tou-iran/4828559/",
-   "ts": "20261122T103000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "لماذا يتجاهل كيم جونغ أون اتصالات ترامب ؟ « وول ستريت جورنال » تكشف الأسباب",
-   "url": "https://www.elwatannews.com/news/details/8401531",
-   "ts": "20261122T103000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Olomoucké novinky - Domácí - Kerčský most ochromen . Rusko stupňuje tlak na NATO",
-   "url": "https://www.olomouckenovinky.cz/zpravy/politika/kercsky-most-ochromen-rusko-stupnuje-tlak-na-nato/",
-   "ts": "20261122T103000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "国际人士表示中俄美元首会晤凝聚共识推动建设更美好世界 _ 南方网",
-   "url": "https://www.southcn.com/node_07e973c1a3/8fe544fc42.shtml",
-   "ts": "20261122T103000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Hopes the Cyberattack on the FBI Will Yield Positive Results",
-   "url": "https://cedarnews.net/newstasks/1179035/trump-hopes-cyberattack-fbi-will-yield-positive/",
-   "ts": "20261122T103000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Трамп назвав Путіна « моїм другом » на фото зі Шеньчженя · h . ua",
-   "url": "https://h.ua/2026/11/22/tramp-nazvav-putina-svoyim-drugom",
-   "ts": "20261122T103000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " [ 편집국에서 ] 중국차 압박 속 현대차의 생존전략은",
-   "url": "https://www.busan.com/view/busan/view.php?code=2026112217564019067",
-   "ts": "20261122T103000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Olomoucké novinky - Domácí - Zelenskij opět kritizoval Trumpa za slibované bezpečnostní záruky",
-   "url": "https://www.olomouckenovinky.cz/zpravy/zpravy/zelenskij-opet-kritizoval-trumpa-za-slibovane-bezpecnostni-zaruky/",
-   "ts": "20261122T103000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "在深圳 ， 为什么一个坑洼  活  不久 ？_ 南方网",
-   "url": "https://news.southcn.com/node_f487bf0c53/0f4c9a43a0.shtml",
-   "ts": "20261122T103000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Terpikat Rayuan Prawirotaman",
-   "url": "https://www.cnnindonesia.com/gaya-hidup/20261120185726-269-1429648/terpikat-rayuan-prawirotaman",
-   "ts": "20261122T103000Z"
   }
  ]
 }

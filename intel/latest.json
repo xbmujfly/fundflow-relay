@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-22T23:16:01Z",
+ "ts": "2026-11-22T23:31:12Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -383,21 +383,15 @@
   },
   {
    "src": "gnews",
-   "title": "Six Experts on the Significance of Trump, Xi, and Putin’s First Trilateral Meeting - Council on Foreign Relations",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbkdfb09WTFZKX1p2YmdocmZhS2FISUFwTmVuZlBEYWRSaU9WU1d1X1ZBblFKNFQtMVRndmIzLXJSc0VtTXc2LVJFVTh5ZXZWaEN1N1N1bU1BV2ttMlZnR0hsQ2c3aXo0aGVvdmtVNE8yNGZLbUNaY3hJTmNnc1o5SUMwUlN2NTAzbVE4WEFXdUZmdXRTQmc?oc=5",
-   "ts": "Thu, 19 Nov 2026 20:13:32 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
    "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFM5M0lfajByTmNXWHhadkRCd19qQUJGU1FUM0ZUQnBXdVhDQU42NVF1X2RuUHJXUUt4QW41UWpnWS12aHNsX1JZU0RtSTBacFZTU0dncHpmOTRTLWJMbGRwY2pSeHFOTTI3dFFmcXJlRnQwcnRQSjlMSTh1a1pjdkRNQ1dCQlJlSGZPcXZQRk9MdUJBaWlUVFBzT2xCaUV2cUtQTXVCVVY0S0xDWFJEMQ?oc=5",
-   "ts": "Sun, 22 Nov 2026 00:00:00 GMT"
+   "title": "Six Experts on the Significance of Trump, Xi, and Putin’s First Trilateral Meeting - Council on Foreign Relations",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbkdfb09WTFZKX1p2YmdocmZhS2FISUFwTmVuZlBEYWRSaU9WU1d1X1ZBblFKNFQtMVRndmIzLXJSc0VtTXc2LVJFVTh5ZXZWaEN1N1N1bU1BV2ttMlZnR0hsQ2c3aXo0aGVvdmtVNE8yNGZLbUNaY3hJTmNnc1o5SUMwUlN2NTAzbVE4WEFXdUZmdXRTQmc?oc=5",
+   "ts": "Thu, 19 Nov 2026 20:13:32 GMT"
   },
   {
    "src": "gnews",
@@ -419,9 +413,15 @@
   },
   {
    "src": "gnews",
-   "title": "Policy Q&A: Sen. Peter Boehm on Carney, Trump, Trade, the Midterms, and Netflix Imitating Life - Policy Magazine",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRmxOSGhOVWwwa2Y4MlAxbjh0WFNnMno0dVotQ3FwMXlhS05EV3EwdE5wZm5ielJIcGRSSVljUDMtaVk0cGprcEIxSnFqcjlEMm5yaVc2bU9fUWFuT2lkZWY1VEY5OWp6ay13allpOXBWSmJMbzhJSFN4QnBiMmlJRi1UQzRBSmFqWmtKelkwYkU0V0ZwZDdKQU5RX1Y1SW96TnVUN3RBX0tIVExxamgxZGg4eVNzWWlPaHc?oc=5",
-   "ts": "Sun, 22 Nov 2026 22:05:15 GMT"
+   "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFM5M0lfajByTmNXWHhadkRCd19qQUJGU1FUM0ZUQnBXdVhDQU42NVF1X2RuUHJXUUt4QW41UWpnWS12aHNsX1JZU0RtSTBacFZTU0dncHpmOTRTLWJMbGRwY2pSeHFOTTI3dFFmcXJlRnQwcnRQSjlMSTh1a1pjdkRNQ1dCQlJlSGZPcXZQRk9MdUJBaWlUVFBzT2xCaUV2cUtQTXVCVVY0S0xDWFJEMQ?oc=5",
+   "ts": "Sun, 22 Nov 2026 00:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Taiwan warns Canada over dependence on China - Taipei Times",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UMjdsMGs0RTc2UFZseEh1XzhJMTlYMk4tMmt4RW50dEpld1NTdHlEZ0ZiN1BUa016S05XSUJ1ek9DT1VUTWVud2xCNFJwNlFWODFGQU1IQ0o3RnFzc21oQkpQbTRSUll4R0VKODRoeWQ3MmVhaHZqTA?oc=5",
+   "ts": "Sun, 22 Nov 2026 16:00:00 GMT"
   },
   {
    "src": "gnews",

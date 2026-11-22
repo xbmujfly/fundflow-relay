@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-22T15:01:06Z",
+ "ts": "2026-11-22T15:16:04Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -383,33 +383,15 @@
   },
   {
    "src": "gnews",
-   "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzM5ZFZDbURpMG5EY0pPQXJONkRWeDJlaG1VWWE1S0diX3lNSFNqeExrdGt4QnFJSm9xdjZHUWEyQ3phdXIzNXhUcXJZako3aG9BR0RBZnlnSmQ2TG4yS3NFV1YxQ3Y1d1h2YVpaY2pYM2Fqd0x4TU85TXRNRGZud01icm1jaF9hV3VBc1dLRGFoQ010TUoyNGR2b25ZRTdjaV8yQk04RzJVR3Fu0gGyAUFVX3lxTE93czY5bjBIUldGbXZ0Vm91aXp5N1ZrWXlPemNxMllKaVRHcW1LcHBQN0RlYWtYallYMjVHemIwZmV1LVBRN0tmTjMtQjFNRFRtdk5IcEdZdHA1QmEyZUtqYkUwTGRvc01rRmU0QW40cHpzeERwajl2eC1XTXhXLWVidkJQUXJWWVZkb01TNG9QYTJiVGdyaWJwMlpoNWItZFNkZnFjRG11NmphMlVjNHN2VXc?oc=5",
-   "ts": "Sat, 21 Nov 2026 19:36:53 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
-   "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump lands in China for trade talks and high-stakes summit with Xi and Putin - PBS",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb0cyRko0OEN1RlRLT0VFTjBfeU1zZWllR193RFc3WVl4T2h1NmFJQjl4UEZJcWdKUmFuOWVXUTl1Qi1uaERobk1iZGpIR20ycjlNcl9lVDY3MzIxbmhJblA1ejlQOGE5Yi1iZUpZMkhEemo4RGFrMVIwSzJjMW5OY0RURDFrRWRUaFBweFZlS3BwWUg2WUhhWDY1Sno4QVV1eTU5cjRyT1VCZkZ5ZExvRQ?oc=5",
    "ts": "Wed, 18 Nov 2026 23:55:44 GMT"
   },
   {
    "src": "gnews",
-   "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
-   "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "US-China Business Council President Sean Stein: US Companies See Opportunities in the Greater Bay Area - The Detroit News",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOb0lUczlZX0I4OWMtcGFIYWJ6eUlmVFJlTmJBbWh3cnJVMGFxcHRfb3RJTEppRVp4OGZWcEZCS1RlN3V0TXBuaFlYTU9qNldnV1ZMeW5GY0JLMXNCTUJVbXZ2VkZORTdMdFdNWlN0a2hZV01ybVZRaVAwcDBnbEVFVXhMazhwN2ZzN1JWR1g4aU1FUXlQb0tVTzFyMi1SanZ0U1JuTjVJYmpjcFJJNFdlclFIQUI4VWZqcWswR1VicHZfNU9aSURNV204NHFfaVhXVER4cEZvV2xPYlR6cHVUeFB3dy1yNmdQalpERU5R?oc=5",
-   "ts": "Sun, 22 Nov 2026 14:37:06 GMT"
+   "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzM5ZFZDbURpMG5EY0pPQXJONkRWeDJlaG1VWWE1S0diX3lNSFNqeExrdGt4QnFJSm9xdjZHUWEyQ3phdXIzNXhUcXJZako3aG9BR0RBZnlnSmQ2TG4yS3NFV1YxQ3Y1d1h2YVpaY2pYM2Fqd0x4TU85TXRNRGZud01icm1jaF9hV3VBc1dLRGFoQ010TUoyNGR2b25ZRTdjaV8yQk04RzJVR3Fu0gGyAUFVX3lxTE93czY5bjBIUldGbXZ0Vm91aXp5N1ZrWXlPemNxMllKaVRHcW1LcHBQN0RlYWtYallYMjVHemIwZmV1LVBRN0tmTjMtQjFNRFRtdk5IcEdZdHA1QmEyZUtqYkUwTGRvc01rRmU0QW40cHpzeERwajl2eC1XTXhXLWVidkJQUXJWWVZkb01TNG9QYTJiVGdyaWJwMlpoNWItZFNkZnFjRG11NmphMlVjNHN2VXc?oc=5",
+   "ts": "Sat, 21 Nov 2026 19:36:53 GMT"
   },
   {
    "src": "gnews",
@@ -419,9 +401,27 @@
   },
   {
    "src": "gnews",
+   "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
+   "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Six Experts on the Significance of Trump, Xi, and Putin’s First Trilateral Meeting - Council on Foreign Relations",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbkdfb09WTFZKX1p2YmdocmZhS2FISUFwTmVuZlBEYWRSaU9WU1d1X1ZBblFKNFQtMVRndmIzLXJSc0VtTXc2LVJFVTh5ZXZWaEN1N1N1bU1BV2ttMlZnR0hsQ2c3aXo0aGVvdmtVNE8yNGZLbUNaY3hJTmNnc1o5SUMwUlN2NTAzbVE4WEFXdUZmdXRTQmc?oc=5",
    "ts": "Thu, 19 Nov 2026 20:13:32 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
+   "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "South Korea's China Car Deficit Hits Record $4.23B - shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeWxPNmQ4VFhxNGVpZlpkY1RJc2VUdThOcXZpZzFuaS1iek5pV1p0MkE4TDhVenFoVEZLczhRckFKNGVqTFBMdHBYMmRsTG5XWWZIOXhxMEdaV2FaQTJVaXhWTGtoTVpaUUotU0dBTHRKcmlNT0F1SUYyY0hydXFHaUlNYUljeFpYN2hFSVJSdkxBSkhFbTlyYTMwTkFjUQ?oc=5",
+   "ts": "Sun, 22 Nov 2026 13:14:24 GMT"
   },
   {
    "src": "gnews",

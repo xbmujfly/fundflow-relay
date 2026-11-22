@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-22T11:01:08Z",
+ "ts": "2026-11-22T11:16:04Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -407,15 +407,15 @@
   },
   {
    "src": "gnews",
-   "title": "Top Democrat Tells Carney to Strike Trump Trade Deal Now - Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEZ2Q0NJdmpwcnJtaUVXWWdyXy1feDZ2UXJ1aDdpdUZLODEtZ01sSVUxbjZ3ZEwtckRhNlNJQUl5M0UyOFBqVkNpQTJCVWVYQkllYlhrX2pGVFo2bTB5UGduTjVTQUJqNVpFSUdrd240aG1zZFFlU210QlVRU2JnUHpxUVN2QU9wWnl1ZUtR?oc=5",
-   "ts": "Sat, 21 Nov 2026 14:19:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
    "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Top Democrat Tells Carney to Strike Trump Trade Deal Now - Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEZ2Q0NJdmpwcnJtaUVXWWdyXy1feDZ2UXJ1aDdpdUZLODEtZ01sSVUxbjZ3ZEwtckRhNlNJQUl5M0UyOFBqVkNpQTJCVWVYQkllYlhrX2pGVFo2bTB5UGduTjVTQUJqNVpFSUdrd240aG1zZFFlU210QlVRU2JnUHpxUVN2QU9wWnl1ZUtR?oc=5",
+   "ts": "Sat, 21 Nov 2026 14:19:00 GMT"
   },
   {
    "src": "gnews",

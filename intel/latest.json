@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-22T10:31:04Z",
+ "ts": "2026-11-22T10:46:09Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -358,15 +359,15 @@
   },
   {
    "src": "gnews",
-   "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzM5ZFZDbURpMG5EY0pPQXJONkRWeDJlaG1VWWE1S0diX3lNSFNqeExrdGt4QnFJSm9xdjZHUWEyQ3phdXIzNXhUcXJZako3aG9BR0RBZnlnSmQ2TG4yS3NFV1YxQ3Y1d1h2YVpaY2pYM2Fqd0x4TU85TXRNRGZud01icm1jaF9hV3VBc1dLRGFoQ010TUoyNGR2b25ZRTdjaV8yQk04RzJVR3Fu0gGyAUFVX3lxTE93czY5bjBIUldGbXZ0Vm91aXp5N1ZrWXlPemNxMllKaVRHcW1LcHBQN0RlYWtYallYMjVHemIwZmV1LVBRN0tmTjMtQjFNRFRtdk5IcEdZdHA1QmEyZUtqYkUwTGRvc01rRmU0QW40cHpzeERwajl2eC1XTXhXLWVidkJQUXJWWVZkb01TNG9QYTJiVGdyaWJwMlpoNWItZFNkZnFjRG11NmphMlVjNHN2VXc?oc=5",
-   "ts": "Sat, 21 Nov 2026 19:36:53 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "The bill for Trump’s trade war is coming due—at home and abroad - Fortune",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LVldTODA1VnhXU3N6SlR3SEhVX21UaEd6WDZQLW5zdDdybXJXTThQM04wcElBaXhIUDR5dFpqUkF6MVZLN2VyNFVWV2F3UTJjT3UwZE1yc3ZvZFlQQkxmem5UX2FIR096ZTBOOVVxWVU1QQ?oc=5",
    "ts": "Thu, 19 Nov 2026 10:56:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzM5ZFZDbURpMG5EY0pPQXJONkRWeDJlaG1VWWE1S0diX3lNSFNqeExrdGt4QnFJSm9xdjZHUWEyQ3phdXIzNXhUcXJZako3aG9BR0RBZnlnSmQ2TG4yS3NFV1YxQ3Y1d1h2YVpaY2pYM2Fqd0x4TU85TXRNRGZud01icm1jaF9hV3VBc1dLRGFoQ010TUoyNGR2b25ZRTdjaV8yQk04RzJVR3Fu0gGyAUFVX3lxTE93czY5bjBIUldGbXZ0Vm91aXp5N1ZrWXlPemNxMllKaVRHcW1LcHBQN0RlYWtYallYMjVHemIwZmV1LVBRN0tmTjMtQjFNRFRtdk5IcEdZdHA1QmEyZUtqYkUwTGRvc01rRmU0QW40cHpzeERwajl2eC1XTXhXLWVidkJQUXJWWVZkb01TNG9QYTJiVGdyaWJwMlpoNWItZFNkZnFjRG11NmphMlVjNHN2VXc?oc=5",
+   "ts": "Sat, 21 Nov 2026 19:36:53 GMT"
   },
   {
    "src": "gnews",
@@ -412,15 +413,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
-   "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Six Experts on the Significance of Trump, Xi, and Putin’s First Trilateral Meeting - Council on Foreign Relations",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbkdfb09WTFZKX1p2YmdocmZhS2FISUFwTmVuZlBEYWRSaU9WU1d1X1ZBblFKNFQtMVRndmIzLXJSc0VtTXc2LVJFVTh5ZXZWaEN1N1N1bU1BV2ttMlZnR0hsQ2c3aXo0aGVvdmtVNE8yNGZLbUNaY3hJTmNnc1o5SUMwUlN2NTAzbVE4WEFXdUZmdXRTQmc?oc=5",
    "ts": "Thu, 19 Nov 2026 20:13:32 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
+   "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
   },
   {
    "src": "gnews",
@@ -457,126 +458,6 @@
    "title": "South Korea says China trade agreement to boost tourism, entertainment sectors - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
    "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "ICE Detains Princeton Neuroscientist | Newstalk 1400 , 104 . 5 , and 105 . 9 WJMX",
-   "url": "https://newstalk1400online.iheart.com/content/2026-11-21-ice-detains-princeton-neuroscientist/",
-   "ts": "20261122T073000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Controversial AI data centres  could add £300 a year to Scottish fuel bills  ",
-   "url": "https://www.dailyrecord.co.uk/news/scottish-news/controversial-ai-data-centres-could-37902201",
-   "ts": "20261122T073000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Women Who Tear Down Other Women Are Often Motivated By One Self - Destructive Habit",
-   "url": "https://www.yourtango.com/self/women-who-tear-down-other-women-motivated-self-destructive-habit",
-   "ts": "20261122T073000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Cassette , London WC2 :  One of the greatest dishes Ive eaten all year  – restaurant review | Restaurants",
-   "url": "https://www.theguardian.com/food/2026/nov/22/cassette-london-wc2-restaurant-review-grace-dent",
-   "ts": "20261122T073000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "What drove the US midterm elections outcome ? - Jamaica Observer",
-   "url": "https://www.jamaicaobserver.com/2026/11/22/drove-us-midterm-elections-outcome/",
-   "ts": "20261122T073000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ICE Detains Princeton Neuroscientist | News Radio 1190 KEX",
-   "url": "https://1190kex.iheart.com/content/2026-11-21-ice-detains-princeton-neuroscientist/",
-   "ts": "20261122T073000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Hàng Việt rộng cửa vào UAE nhờ ưu đãi thuế từ Hiệp định CEPA",
-   "url": "https://thanhtra.com.vn/doanh-nghiep-70CE54C31/hang-viet-rong-cua-vao-uae-nho-uu-dai-thue-tu-hiep-dinh-cepa-492b5d727.html",
-   "ts": "20261122T073000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "EU proposes Big Tech tax , â ‚ ¬204B in budget cuts",
-   "url": "https://www.philstar.com/business/2026/11/22/2571892/eu-proposes-big-tech-tax-204b-budget-cuts",
-   "ts": "20261122T073000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ты никто и звать тебя никак ! - об инсинуациях обиженного армянского выскочки про TRIPP",
-   "url": "https://news.day.az/politics/1876105.html",
-   "ts": "20261122T073000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "国际人士表示中俄美元首会晤凝聚共识推动建设更美好世界",
-   "url": "https://baijiahao.baidu.com/s?id=1882539571299410084",
-   "ts": "20261122T073000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump vows to work with Democrats to cap credit card interest rates at 10 % ",
-   "url": "https://www.bakersfield.com/ap/national/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10/article_c0c62594-3b30-58ab-960a-67f974934a00.html",
-   "ts": "20261122T073000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ICE Detains Princeton Neuroscientist | News Radio 610",
-   "url": "https://wgiram.iheart.com/content/2026-11-21-ice-detains-princeton-neuroscientist/",
-   "ts": "20261122T073000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Could Britain EU reset mark the beginning of the end of a decade of division ? ",
-   "url": "https://www.irishmirror.ie/news/irish-news/politics/could-britains-eu-reset-mark-37901945",
-   "ts": "20261122T073000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ICE Detains Princeton Neuroscientist | NewsRadio 570 WKBN",
-   "url": "https://570wkbn.iheart.com/content/2026-11-21-ice-detains-princeton-neuroscientist/",
-   "ts": "20261122T073000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "جمود بين إيران وأميركا .. وبزشكيان يلمّح لما هو  أصعب من حرب الصواريخ  | العالم",
-   "url": "https://www.ammonnews.net/article/1046902",
-   "ts": "20261122T073000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ICE Detains Princeton Neuroscientist | NewsRadio 104 . 9 WBUV",
-   "url": "https://newsradio1049.iheart.com/content/2026-11-21-ice-detains-princeton-neuroscientist/",
-   "ts": "20261122T073000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "FBI says its most - wanted drug lord  El Chapo Isidro  caught by Mexico with US assistance",
-   "url": "http://www.bignewsnetwork.com/news/279448522/fbi-says-its-most-wanted-drug-lord-el-chapo-isidro-caught-by-mexico-with-us-assistance",
-   "ts": "20261122T073000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "الأردن .. الضرائب لا ترتفع ، لكن من يسدد ديون الدولة ؟ | كتاب عمون",
-   "url": "https://www.ammonnews.net/article/1046915",
-   "ts": "20261122T073000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "AP News Summary at 11 : 13 p . m . EST",
-   "url": "https://www.bakersfield.com/ap/national/ap-news-summary-at-11-13-p-m-est/article_44e1ef3b-f778-5284-8b3e-76ba6c53e1ee.html",
-   "ts": "20261122T073000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Two killed , 10 injured as Russian missile strikes building in Ukraine Lviv",
-   "url": "http://www.russiaherald.com/news/279448547/two-killed-10-injured-as-russian-missile-strikes-building-in-ukraine-lviv",
-   "ts": "20261122T073000Z"
   }
  ]
 }

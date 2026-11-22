@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-22T06:31:06Z",
+ "ts": "2026-11-22T06:46:05Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -419,6 +418,12 @@
   },
   {
    "src": "gnews",
+   "title": "As Trump basks in summit pomp, China’s Xi strengthens his hand - The Japan Times",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS2RCc3RNT3JHcy10Q2xhZnNDUjI2cW10QlRTREhJZFROWGZrMTFTZkV0MkpfZHJ6ZjJYbEgtaWNFTFRsQU1hTW91WXpicEREbjNEcm5HU21lLXQwWjl4cVppWkZxSmE1cEVlbDNvSGFRMGRScHctOGpEb1p5XzJROWx2Sm9ITUUxOThXN1lGX3k0MFFrSlNUTDZMT01Ycl9ZRHc?oc=5",
+   "ts": "Sat, 21 Nov 2026 23:54:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
    "ts": "Tue, 17 Nov 2026 23:01:15 GMT"
@@ -454,10 +459,124 @@
    "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
   },
   {
-   "src": "gnews",
-   "title": "As Trump basks in summit pomp, China's Xi strengthens his hand - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm1waHdJRVp4M2dKRlhKSHRHQmpEOFZZdGJRRndnR3ZXb0pmc1d6cUNmZWcwX3VwTHBzY1VMVmh3RDJBNVYtV2tDV1pDX25kNFhMWlE4a3N0RVpIMV80alNzRl9VQ0NMNF81UzVXTUJWVk1ZSmkwSFZDOHFNNHBLZ2RlNWloalpTOWs5UXFVQWJqenE4RGFXLWZRN1JlS1l6MnJlWQ?oc=5",
-   "ts": "Sat, 21 Nov 2026 09:12:54 GMT"
+   "src": "gdelt",
+   "title": "डोनाल्ड ट्रंप बोले - ईरान में सत्ता परिवर्तन नहीं चाहते",
+   "url": "https://navabharat.com/?p=628881",
+   "ts": "20261122T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "JOHN FIGLIOZZI : How does the shift in national politics affect New York ? | Opinion",
+   "url": "https://www.dailygazette.com/hv360/opinion/john-figliozzi-how-does-the-shift-in-national-politics-affect-new-york-s/article_afe42cb6-5bae-46a3-9374-60243bafa4e4.html",
+   "ts": "20261122T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Η συνάντηση ήταν ιστορική , αναμένονται και πράξεις",
+   "url": "https://www.philenews.com/apopsis/arthra-apo-f/article/1798138/i-sinantisi-itan-istoriki-anamenonte-ke-praxis/",
+   "ts": "20261122T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "An open letter to united opposition leaders",
+   "url": "https://www.standardmedia.co.ke/columnists/article/2001562766/an-open-letter-to-united-opposition-leaders",
+   "ts": "20261122T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Трамп анонсировал  масштабное перемирие  Украины и РФ",
+   "url": "https://korrespondent.net/world/worldabus/4930839-tramp-anonsyroval-masshtabnoe-peremyrye-ukrayny-y-rf",
+   "ts": "20261122T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "高市外交75点 、 中国の冷遇に 「 大人の対応 」 米中露首脳会談前 「 クワッド実現 」 松井一郎 以心伝心",
+   "url": "https://www.sankei.com/article/20261122-TSIPSF7DBFMFXDEN5PXSJY73VA/",
+   "ts": "20261122T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": " 「 ハニートラップ 」 という名の心理戦◆フアン氏辞任騒動で考える 「 勝者は誰 」？【 礒﨑敦仁のコリア ・ ウオッチング 】： 時事ドットコム",
+   "url": "https://www.jiji.com/jc/v8?id=2026korea70",
+   "ts": "20261122T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Highlights and challenges from covering an historic month in South America",
+   "url": "https://www.wgcu.org/2026-11-21/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
+   "ts": "20261122T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "ICE Detains Princeton Neuroscientist",
+   "url": "https://wccfradio.iheart.com/content/2026-11-21-ice-detains-princeton-neuroscientist/",
+   "ts": "20261122T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Black Friday 2026 : La brosse à dents électrique Oclean Flow pack de 1 à 22 , 43 € (- 34 %) ",
+   "url": "https://www.lesnumeriques.com/brosse-a-dent-electrique/black-friday-2026-la-brosse-a-dents-electrique-oclean-flow-pack-de-1-a-22-43-34-n268235.html",
+   "ts": "20261122T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump says  confronting dangers on Korean Peninsula  discussed at 3 - way summit with Xi , Putin",
+   "url": "https://www.koreaherald.com:443/article/10944597",
+   "ts": "20261122T053000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump orders federal contractors to check with White House before responding to Congress",
+   "url": "https://www.aspenpublicradio.org/2026-11-21/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress",
+   "ts": "20261122T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump vows to work with Democrats to cap credit card interest rates at 10 % ",
+   "url": "https://www.mcall.com/2026/11/21/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10/",
+   "ts": "20261122T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Port of Seattle , Alaska Airlines review ICE incident during boarding of Seattle - LA flight",
+   "url": "https://news4sanantonio.com/news/nation-world/port-of-seattle-seatac-airport-ice-alaska-airlines-reviewing-ice-incident-during-boarding-passengers-trauamatized-plane-boaridng-incident-dhs-homeland-security",
+   "ts": "20261122T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "FBI most wanted cartel boss captured as gunfire , chaos erupt across Mexico",
+   "url": "https://fox17.com/news/nation-world/fbis-most-wanted-cartel-boss-captured-as-gunfire-chaos-erupt-across-mexico-united-states-america-drugs-el-chapo-isidro-kingpin",
+   "ts": "20261122T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Giá xăng dầu hôm nay 22 / 11 : Xăng E10 , xăng E5 , dầu diesel bao nhiêu một lít ? ",
+   "url": "https://www.techz.vn/210-1126-5-gia-xang-dau-hom-nay-22-11-xang-e10-xang-e5-dau-diesel-bao-nhieu-mot-lit-ylt718077.html",
+   "ts": "20261122T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump order tells federal contractors to coordinate with White House on Congress inquiries",
+   "url": "https://news4sanantonio.com/news/nation-world/trump-order-federal-contractors-white-house-congress-",
+   "ts": "20261122T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "FBI까지 해킹 추정 공격 당해⋯美 계속되는 사이버 보안 사고",
+   "url": "https://www.kmib.co.kr/article/20261122500004",
+   "ts": "20261122T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Paxton Secures Deal To Protect Texas Border Wire For Up To 30 Years",
+   "url": "https://www.klif.com/2026/11/21/paxton-secures-deal-to-protect-texas-border-wire-for-up-to-30-years/",
+   "ts": "20261122T003000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit ? ",
+   "url": "https://www.kccu.org/world/2026-11-21/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
+   "ts": "20261122T003000Z"
   }
  ]
 }

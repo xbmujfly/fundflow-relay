@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-22T23:31:12Z",
+ "ts": "2026-11-22T23:46:01Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -359,15 +358,15 @@
   },
   {
    "src": "gnews",
-   "title": "In China’s tech mecca, Trump and Xi touted AI cooperation. Now comes the harsh reality - CNN",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWXQ2YmRXMWcxSG5FQ0s4LXBFNnZwb3A2ZVVXQkFsLUFKcXI3RjJDSnRsakI5V3JzcXNFMFhac2x0d1M4S1BfOUxhT2hHN293aXlNd3RHSTUyYTZCVzRPV0V0eUdtS05TaUhVUV9VSTlhN0lXTkd4ZEYxNGI3d2llTg?oc=5",
-   "ts": "Sun, 22 Nov 2026 05:01:15 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney and Xi Announce Trade Pact Ahead of Asia Summit - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
    "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "In China’s tech mecca, Trump and Xi touted AI cooperation. Now comes the harsh reality - CNN",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWXQ2YmRXMWcxSG5FQ0s4LXBFNnZwb3A2ZVVXQkFsLUFKcXI3RjJDSnRsakI5V3JzcXNFMFhac2x0d1M4S1BfOUxhT2hHN293aXlNd3RHSTUyYTZCVzRPV0V0eUdtS05TaUhVUV9VSTlhN0lXTkd4ZEYxNGI3d2llTg?oc=5",
+   "ts": "Sun, 22 Nov 2026 05:01:15 GMT"
   },
   {
    "src": "gnews",
@@ -413,15 +412,15 @@
   },
   {
    "src": "gnews",
-   "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFM5M0lfajByTmNXWHhadkRCd19qQUJGU1FUM0ZUQnBXdVhDQU42NVF1X2RuUHJXUUt4QW41UWpnWS12aHNsX1JZU0RtSTBacFZTU0dncHpmOTRTLWJMbGRwY2pSeHFOTTI3dFFmcXJlRnQwcnRQSjlMSTh1a1pjdkRNQ1dCQlJlSGZPcXZQRk9MdUJBaWlUVFBzT2xCaUV2cUtQTXVCVVY0S0xDWFJEMQ?oc=5",
-   "ts": "Sun, 22 Nov 2026 00:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Taiwan warns Canada over dependence on China - Taipei Times",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UMjdsMGs0RTc2UFZseEh1XzhJMTlYMk4tMmt4RW50dEpld1NTdHlEZ0ZiN1BUa016S05XSUJ1ek9DT1VUTWVud2xCNFJwNlFWODFGQU1IQ0o3RnFzc21oQkpQbTRSUll4R0VKODRoeWQ3MmVhaHZqTA?oc=5",
    "ts": "Sun, 22 Nov 2026 16:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Policy Q&A: Sen. Peter Boehm on Carney, Trump, Trade, the Midterms, and Netflix Imitating Life - Policy Magazine",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRmxOSGhOVWwwa2Y4MlAxbjh0WFNnMno0dVotQ3FwMXlhS05EV3EwdE5wZm5ielJIcGRSSVljUDMtaVk0cGprcEIxSnFqcjlEMm5yaVc2bU9fUWFuT2lkZWY1VEY5OWp6ay13allpOXBWSmJMbzhJSFN4QnBiMmlJRi1UQzRBSmFqWmtKelkwYkU0V0ZwZDdKQU5RX1Y1SW96TnVUN3RBX0tIVExxamgxZGg4eVNzWWlPaHc?oc=5",
+   "ts": "Sun, 22 Nov 2026 22:05:15 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +457,126 @@
    "title": "South Korea says China trade agreement to boost tourism, entertainment sectors - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
    "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Silver Price Crash : चांदी एक दिन में 4 % टूटी , सोना भी 2 . 38 % फिसला ; क्या अभी और गिरेगी कीमत ? ",
+   "url": "https://www.livehindustan.com/business/silver-price-crash-gold-price-fall-reasons-global-market-check-all-details-201795378843659.html",
+   "ts": "20261122T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Judge Strikes Down Trump Ryan White Limits on Trans HIV Care",
+   "url": "https://www.metroweekly.com/2026/11/ryan-white-trans-hiv-care-ruling/",
+   "ts": "20261122T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "В Кремле объяснили , почему Россия не назначает новых послов в Европе",
+   "url": "https://ria.ru/20261123/peskov-2133304370.html",
+   "ts": "20261122T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Echidna | Sandpapergate saga crowds out major news | Moree Champion",
+   "url": "https://www.moreechampion.com.au/story/9395335/echidna-sandpapergate-saga-crowds-out-major-news/",
+   "ts": "20261122T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US intelligence chief says Trump description of Putin as a  friend  is  entirely appropriate  – Press Telegram",
+   "url": "https://www.presstelegram.com/2026/11/22/us-intelligence-chief-says-trumps-description-of-putin-as-a-friend-is-entirely-appropriate/",
+   "ts": "20261122T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  트럼프 , 김정은에 만나자 제안했지만 北  조건  내걸어 무산  ",
+   "url": "https://www.koreatimes.com/article/11632414",
+   "ts": "20261122T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "러트닉 미 상무 ,  엔비디아 스캔들 연루 위기  넘어 건재 과시",
+   "url": "https://www.koreatimes.com/article/11632406",
+   "ts": "20261122T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Hakeem Jeffries rules out talks with  stone - cold racist  Stephen Miller",
+   "url": "https://www.foxnews.com/media/hakeem-jeffries-calls-trump-chief-staff-stephen-miller-stone-cold-racist-refuses-sit-down-him",
+   "ts": "20261122T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Echidna | Sandpapergate saga crowds out major news | The Scone Advocate",
+   "url": "https://www.sconeadvocate.com.au/story/9395335/echidna-sandpapergate-saga-crowds-out-major-news/",
+   "ts": "20261122T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Гарантии безопасности для Украины – Кушнер высказал предположение , какими они будут",
+   "url": "https://24tv.ua/geopolitics/ru/garantii-bezopasnosti-dlja-ukrainy-kushner-vyskazal-predpolozhenie-kakimi-oni-budut_n3212488",
+   "ts": "20261122T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Echidna | Sandpapergate saga crowds out major news | South Coast Register",
+   "url": "https://www.southcoastregister.com.au/story/9395335/echidna-sandpapergate-saga-crowds-out-major-news/",
+   "ts": "20261122T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "शेनझेन त्रिपक्षीय शिखर सम्मेलन ने की चीन की वैश्विक छवि मजबूत | Shenzhen trilateral summit strengthens China global image",
+   "url": "https://www.deshbandhu.co.in/articles/shenzhen-trilateral-summit-strengthens-chinas-global-image-332618",
+   "ts": "20261122T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Democrats clinch House majority of at least 258 seats , largest since 1992",
+   "url": "https://www.turnto23.com/politics/america-votes/democrats-clinch-house-majority-of-at-least-258-seats-largest-since-1992",
+   "ts": "20261122T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Appeals court says federal law requiring accommodations for pregnant workers is unconstitutional",
+   "url": "https://www.wpbf.com/article/appeals-court-strikes-down-pregnant-workers-fairness-act/74501827",
+   "ts": "20261122T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Отсталые судостроительные верфи США перенимают опыт у европейцев ( WirtschaftsWoche Heute , Германия ) ",
+   "url": "https://inosmi.ru/20261122/ledokol-281337477.html",
+   "ts": "20261122T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Bessent compares tech outages to vaccines",
+   "url": "https://www.aol.com/articles/bessent-compares-tech-outages-vaccines-183459000.html",
+   "ts": "20261122T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Своим представлением о путях и условиях урегулирования на Украине поделился Кушнер",
+   "url": "https://profile.ru/news/politics/svoim-predstavleniem-o-putyah-i-usloviyah-uregulirovaniya-na-ukraine-podelilsya-kushner-1926714/",
+   "ts": "20261122T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "美민주 제프리스  의료보험 개혁에서 트럼프와 협력 모색 가능  ",
+   "url": "https://www.koreatimes.com/article/11632416",
+   "ts": "20261122T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Αγορές : Πώς αντέδρασαν στην τριμερή συνάντηση Τραμπ – Πούτιν – Σι Τζινπίνγκ ( Βίντεο ) ",
+   "url": "https://newpost.gr/eidiseis/agores-pos-antedrasan-stin-trimeri-synantisi-tramp-poytin-si-tzinpingk-vinteo/",
+   "ts": "20261122T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Глава кибербезопасности США покидает пост : что это значит для страны",
+   "url": "https://echo.msk.ru/news/tehnologii/glava-kiberbezopasnosti-ssha-pokidaet-post-chto-eto-znachit-dlya-strany/",
+   "ts": "20261122T223000Z"
   }
  ]
 }

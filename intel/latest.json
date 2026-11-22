@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-22T01:46:03Z",
+ "ts": "2026-11-22T02:01:08Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -394,12 +394,6 @@
   },
   {
    "src": "gnews",
-   "title": "‘Canada cheats’: Trump adviser backs 50% tariff as LeBlanc warns U.S. trade deal won't kill auto, steel duties - Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZUw0WmtWLWJiTUJaSEZMdEVYYllfUHFubFl1RG1oS01ZT2d4ZGxyYW5IMXhnVm1aZ0I5YTF0alJXM3BrR1kzZUdNeTF4dWw1cEtsMXJQd05HUnRwRHgzUXpDamRqZ0taQ0NUVXFBWDMxWjFGV1lFelpaQW5PcHlLazhSQzY3TUFIbUE?oc=5",
-   "ts": "Sat, 21 Nov 2026 11:30:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
    "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
@@ -409,6 +403,12 @@
    "title": "How Carney’s Shift Toward China Could Become Leverage in Stalled U.S. Trade Talks - Time Magazine",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMExCZjI3M2txVy1tMm90TTg5VmpnTWtoUUxGZFN4OTRoSHN3OUNYQXp6QUJjR2lEa0pJNE5EeFJ3Qkxad0E0NlIwMHhmWUhCTjRYVV9BeGQ2UGQwU1JpYzgycDh5YTZtY3N1dUdwSGJKUTJzWWtPMGt5YXBicVhrekxYTjdfNER0V1RybC1GcjZYOXMtRkhGenBLOHBLMGh0NlE?oc=5",
    "ts": "Fri, 20 Nov 2026 20:59:33 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "‘Canada cheats’: Trump adviser backs 50% tariff as LeBlanc warns U.S. trade deal won't kill auto, steel duties - Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZUw0WmtWLWJiTUJaSEZMdEVYYllfUHFubFl1RG1oS01ZT2d4ZGxyYW5IMXhnVm1aZ0I5YTF0alJXM3BrR1kzZUdNeTF4dWw1cEtsMXJQd05HUnRwRHgzUXpDamRqZ0taQ0NUVXFBWDMxWjFGV1lFelpaQW5PcHlLazhSQzY3TUFIbUE?oc=5",
+   "ts": "Sat, 21 Nov 2026 11:30:00 GMT"
   },
   {
    "src": "gnews",

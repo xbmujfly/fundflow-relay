@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-22T14:16:04Z",
+ "ts": "2026-11-22T14:31:17Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -359,6 +358,12 @@
   },
   {
    "src": "gnews",
+   "title": "In China’s tech mecca, Trump and Xi touted AI cooperation. Now comes the harsh reality - CNN",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWXQ2YmRXMWcxSG5FQ0s4LXBFNnZwb3A2ZVVXQkFsLUFKcXI3RjJDSnRsakI5V3JzcXNFMFhac2x0d1M4S1BfOUxhT2hHN293aXlNd3RHSTUyYTZCVzRPV0V0eUdtS05TaUhVUV9VSTlhN0lXTkd4ZEYxNGI3d2llTg?oc=5",
+   "ts": "Sun, 22 Nov 2026 05:01:15 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "The bill for Trump’s trade war is coming due—at home and abroad - Fortune",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LVldTODA1VnhXU3N6SlR3SEhVX21UaEd6WDZQLW5zdDdybXJXTThQM04wcElBaXhIUDR5dFpqUkF6MVZLN2VyNFVWV2F3UTJjT3UwZE1yc3ZvZFlQQkxmem5UX2FIR096ZTBOOVVxWVU1QQ?oc=5",
    "ts": "Thu, 19 Nov 2026 10:56:00 GMT"
@@ -371,15 +376,15 @@
   },
   {
    "src": "gnews",
-   "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzM5ZFZDbURpMG5EY0pPQXJONkRWeDJlaG1VWWE1S0diX3lNSFNqeExrdGt4QnFJSm9xdjZHUWEyQ3phdXIzNXhUcXJZako3aG9BR0RBZnlnSmQ2TG4yS3NFV1YxQ3Y1d1h2YVpaY2pYM2Fqd0x4TU85TXRNRGZud01icm1jaF9hV3VBc1dLRGFoQ010TUoyNGR2b25ZRTdjaV8yQk04RzJVR3Fu0gGyAUFVX3lxTE93czY5bjBIUldGbXZ0Vm91aXp5N1ZrWXlPemNxMllKaVRHcW1LcHBQN0RlYWtYallYMjVHemIwZmV1LVBRN0tmTjMtQjFNRFRtdk5IcEdZdHA1QmEyZUtqYkUwTGRvc01rRmU0QW40cHpzeERwajl2eC1XTXhXLWVidkJQUXJWWVZkb01TNG9QYTJiVGdyaWJwMlpoNWItZFNkZnFjRG11NmphMlVjNHN2VXc?oc=5",
-   "ts": "Sat, 21 Nov 2026 19:36:53 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFM5M0lfajByTmNXWHhadkRCd19qQUJGU1FUM0ZUQnBXdVhDQU42NVF1X2RuUHJXUUt4QW41UWpnWS12aHNsX1JZU0RtSTBacFZTU0dncHpmOTRTLWJMbGRwY2pSeHFOTTI3dFFmcXJlRnQwcnRQSjlMSTh1a1pjdkRNQ1dCQlJlSGZPcXZQRk9MdUJBaWlUVFBzT2xCaUV2cUtQTXVCVVY0S0xDWFJEMQ?oc=5",
    "ts": "Sun, 22 Nov 2026 00:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzM5ZFZDbURpMG5EY0pPQXJONkRWeDJlaG1VWWE1S0diX3lNSFNqeExrdGt4QnFJSm9xdjZHUWEyQ3phdXIzNXhUcXJZako3aG9BR0RBZnlnSmQ2TG4yS3NFV1YxQ3Y1d1h2YVpaY2pYM2Fqd0x4TU85TXRNRGZud01icm1jaF9hV3VBc1dLRGFoQ010TUoyNGR2b25ZRTdjaV8yQk04RzJVR3Fu0gGyAUFVX3lxTE93czY5bjBIUldGbXZ0Vm91aXp5N1ZrWXlPemNxMllKaVRHcW1LcHBQN0RlYWtYallYMjVHemIwZmV1LVBRN0tmTjMtQjFNRFRtdk5IcEdZdHA1QmEyZUtqYkUwTGRvc01rRmU0QW40cHpzeERwajl2eC1XTXhXLWVidkJQUXJWWVZkb01TNG9QYTJiVGdyaWJwMlpoNWItZFNkZnFjRG11NmphMlVjNHN2VXc?oc=5",
+   "ts": "Sat, 21 Nov 2026 19:36:53 GMT"
   },
   {
    "src": "gnews",
@@ -419,12 +424,6 @@
   },
   {
    "src": "gnews",
-   "title": "Canadian winery considers shifting business to China as Trump tariffs raise concerns for New York economy - Spectrum News",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWluSVNRLUt6RFRXWExqbEJrUEJ2Sm84b1NMdWw2LWxLX3E0QUUyU3BLNEE4SlJHUElDVkRXdXY0WlRNUDJqNmhSaUYtc1hyTEhKVVg4RXV6TjFvZEVEUFJhWFZRSUtHRTB0OW1BVnViVkhXeDJYSmN1SnVuUjdYT3F1NnQxNTNrVHRRc2JwN0JvYWdWdVpneE5VWG5DdnFtOTV0R2FzOUgtYzhfeFd4ekpvZw?oc=5",
-   "ts": "Fri, 20 Nov 2026 01:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump touts Asia trade deal wins, but US agricultural exports disappoint - Reuters",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX1NxamhacExiOUlPV3RKN2RGTmNzN2gySzZ1Wnl5d0xEUjdud1IyRE5aTk5sUWZRUzRDLTdjblQ0MmNWa1B3Nld0RGhRbDZqbEpfWkpFWlhwOUhPeTJqVkxvNkhReU9iaUlabjJfeVFnNFVrem14RGRVdG9EZHhxcVNFd1dhTkJBR3ljdzZmejE3TkY3bE1zZGJRTG5DRGFTS3k3SDJpRGZWWkdIcTBoYkNB?oc=5",
    "ts": "Fri, 20 Nov 2026 12:32:09 GMT"
@@ -458,6 +457,126 @@
    "title": "South Korea says China trade agreement to boost tourism, entertainment sectors - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
    "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "International students in Michigan rethink U . S . as Trump changes rules",
+   "url": "https://www.wkar.org/wkar-news/2026-11-22/international-students-in-michigan-rethink-u-s-as-trump-changes-rules",
+   "ts": "20261122T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Хто може замінити Трампа : президент США назвав імена ймовірних наступників",
+   "url": "https://kontrakty.ua/article/302075",
+   "ts": "20261122T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "FBI crime database reportedly hit by suspected cyberattack",
+   "url": "https://news.az/news/fbi-crime-database-reportedly-hit-by-suspected-cyberattack",
+   "ts": "20261122T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Вучич называл чиновников « балбесами » из - за отеля Трампа : что известно",
+   "url": "https://iz.ru/2206356/2026-11-22/ft-soobshchila-o-vozmozhnom-ugolovnom-presledovanii-vuchicha-iz-za-otelia-trampa",
+   "ts": "20261122T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  924  以来时隔两年的首个大级别买入信号 !_ 新浪财经 _ 新浪网",
+   "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrhva8851216.shtml",
+   "ts": "20261122T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "11 killed as Mexican forces capture FBI most - wanted fugitive  El Chapo Isidro  ",
+   "url": "https://www.moneycontrol.com/world/11-killed-as-mexican-forces-capture-fbi-most-wanted-fugitive-el-chapo-isidro-article-14086575.html",
+   "ts": "20261122T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Трамп , Сі та Путін зустрілися в Китаї : Зеленський звернув увагу на важливий нюанс",
+   "url": "https://kontrakty.ua/article/302062",
+   "ts": "20261122T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Интернет – « вторая коммуналка »: россиян готовят к бесконечному росту тарифов",
+   "url": "https://runews24.ru/articles/22/11/2026/internet-vtoraya-kommunalka-rossiyan-gotovyat-k-beskonechnomu-rostu-tarifov",
+   "ts": "20261122T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Трамп о жене : « Со мной очень легко ужиться . Мелания",
+   "url": "https://kazpravda.kz/n/tramp-o-zhene-so-mnoy-ochen-legko-uzhitsya-melaniya-slozhnee/",
+   "ts": "20261122T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "美移民局登机桥突袭抓人 华盛顿州长谴责失控 | 国际",
+   "url": "https://www.orientaldaily.com.my/news/international/2026/11/22/865006",
+   "ts": "20261122T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": " « Америка без хозяина »: Соловьёв и Евстафьев вскрыли болевую точку мировой политики",
+   "url": "https://runews24.ru/articles/22/11/2026/amerika-bez-xozyaina-solovyov-i-evstafev-vskryili-bolevuyu-tochku-mirovoj-politiki",
+   "ts": "20261122T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump reposts  TrumpCare  proposal from democrat he previously called a  jihadist  | World News",
+   "url": "https://timesofindia.indiatimes.com/world/us/trump-reposts-trumpcare-proposal-from-democrat-he-previously-called-a-jihadist/articleshow/136073709.cms",
+   "ts": "20261122T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Carl Benedikt Frey :  Dont expect AI to work miracles  ",
+   "url": "https://moneyweek.com/investments/tech-stocks/carl-benedikt-frey-dont-expect-ai-to-work-miracles",
+   "ts": "20261122T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Israel and US draw up plans for possible new conflict with Iran",
+   "url": "https://news.az/news/israel-and-us-draw-up-plans-for-possible-new-conflict-with-iran",
+   "ts": "20261122T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Gold - Silver Price Today : सोना 12 हजार और चांदी 25 हजार रुपये तक हुई सस्ती , खरीदारी से पहले जान लें ताजा भाव",
+   "url": "https://panchjanya.com/2026/11/22/499763/business/gold-becomes-cheaper-by-rs-12000-and-silver-by-rs-25000-know-the-latest-price-before-buying/",
+   "ts": "20261122T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Mexico captures  El Chapo Isidro  in string of arrests",
+   "url": "https://bworldonline.com/world/2026/11/22/795711/mexico-captures-el-chapo-isidro-in-string-of-arrests/",
+   "ts": "20261122T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Гегсет таємним меморандумом обмежив оборонну співпрацю між США та Канадою",
+   "url": "https://www.ukrinform.ua/rubric-world/4187370-gegset-taemnim-memorandumom-obmeziv-oboronni-vidnosini-miz-ssa-ta-kanadou-wp.html",
+   "ts": "20261122T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Страховка за рубль , но не для всех : ОСАГО может подорожать на 35 % ",
+   "url": "https://runews24.ru/articles/22/11/2026/straxovka-za-rubl-no-ne-dlya-vsex-osago-mozhet-podorozhat-na-35",
+   "ts": "20261122T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Peso to move sideways vs dollar as markets eye key US economic data",
+   "url": "https://bworldonline.com/banking-finance/2026/11/22/795691/peso-to-move-sideways-vs-dollar-as-markets-eye-key-us-economic-data/",
+   "ts": "20261122T123000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Dallas Young Republicans split on whether MAGA is still cool after midterms",
+   "url": "https://www.foxnews.com/media/magas-cool-factor-faces-test-dallas-young-republicans-confront-midterm-defeats",
+   "ts": "20261122T123000Z"
   }
  ]
 }

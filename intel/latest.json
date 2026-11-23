@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-23T13:16:02Z",
+ "ts": "2026-11-23T13:31:08Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -377,15 +377,15 @@
   },
   {
    "src": "gnews",
-   "title": "Taiwan warns Canada against deeper China trade ties as Carney seeks to diversify - Euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMWFZemNXU2VySklHdnJkMmlxR2czZUxVWVZkbFpleTBOd3Naa3lIVGRYZlh4MmpESHB5OTlJQUU5RWQ0ZUIwQ0NFTVRvd1dGdlpZYUtKNW9uWjVtWml2MzZrZ0pYZUlrcTM4NHYxMmpzbV9KQnlkT2YwUld0ei15dC1FWE5sWVJ2ay1kLWpoZ2wwN2Q1eFBUOFNaT0dUZTllUjJyRm9rRmF4bjZyZkJxYVVoempJNVU?oc=5",
-   "ts": "Mon, 23 Nov 2026 05:27:13 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Remembering the dog he never had - Humane World for Animals",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2pNb0dobHVqSjhSbFhHSjlMRVlGVndlTk92QXhGc0VueUMzVjhpVGdDbnl2WkJURzJMSWp2YnZGcU5PNFl3Qk9GWGRXQ2pYbm1pZnFNZTRDR3B1VEp2clB5Q0hQakl3cktqX2lwZG83T0xPbHNYR2Z1MnJpOXpFV0JnYktyLXJ5aEdR?oc=5",
    "ts": "Mon, 23 Nov 2026 03:01:18 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Taiwan warns Canada against deeper China trade ties as Carney seeks to diversify - Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMWFZemNXU2VySklHdnJkMmlxR2czZUxVWVZkbFpleTBOd3Naa3lIVGRYZlh4MmpESHB5OTlJQUU5RWQ0ZUIwQ0NFTVRvd1dGdlpZYUtKNW9uWjVtWml2MzZrZ0pYZUlrcTM4NHYxMmpzbV9KQnlkT2YwUld0ei15dC1FWE5sWVJ2ay1kLWpoZ2wwN2Q1eFBUOFNaT0dUZTllUjJyRm9rRmF4bjZyZkJxYVVoempJNVU?oc=5",
+   "ts": "Mon, 23 Nov 2026 05:27:13 GMT"
   },
   {
    "src": "gnews",
@@ -419,12 +419,6 @@
   },
   {
    "src": "gnews",
-   "title": "Arsenic in Thai Rivers Draws Scrutiny to Myanmar’s China-Linked Mining Trade - IDN-InDepthNews",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLXBwYkJnR3NDSTdCd1p3bnZ3Uk9fN1pHNXpoRC1FTzNsTDlfaWx4MUkwSDBGc1lwbzI1cnJ6VS1kQnhlb1hWaXFvTlQ5OHAxZEFsc3FFb2xndzVtX2xkUEVGSndUaTM1cXU0d2lhdWFyNTFlUHRqNlVuMmRCYm5TMHJPUHk0NEllRVpWRm1Jd0dBbnBDbURKMnE3S3lRQldQbUE?oc=5",
-   "ts": "Mon, 23 Nov 2026 03:25:44 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "APEC 2026 in Shenzhen: What the Leaders’ Meeting and Trump-Xi Talks Mean for Business - China Briefing",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOamxlU19pODktRktfNmluMUlTazBkS1B6RjlPRVZwUXZrbDVZOHJKUjlsMTlnOWVhbzFDenJqNHZ3dV9ULVBaSXlDSHhIZjdjMHNYaHNNWUhWcnBrbEo2LWxqVzBfYkxIWElKRHdHcndWMDNyWVVJdkQ5a0ZuVUh1dVdsTTNZNzYtQlpONDUtN096VVphamlJZGZ0ckZKal9xUXBuaFlpYnR4RThVYmlxSjluM3hzeVkwSmRtdg?oc=5",
    "ts": "Fri, 20 Nov 2026 10:18:58 GMT"
@@ -440,6 +434,12 @@
    "title": "Top Democrat Tells Carney to Strike Trump Trade Deal Now - Newsweek",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEZ2Q0NJdmpwcnJtaUVXWWdyXy1feDZ2UXJ1aDdpdUZLODEtZ01sSVUxbjZ3ZEwtckRhNlNJQUl5M0UyOFBqVkNpQTJCVWVYQkllYlhrX2pGVFo2bTB5UGduTjVTQUJqNVpFSUdrd240aG1zZFFlU210QlVRU2JnUHpxUVN2QU9wWnl1ZUtR?oc=5",
    "ts": "Sat, 21 Nov 2026 14:19:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Arsenic in Thai Rivers Draws Scrutiny to Myanmar’s China-Linked Mining Trade - IDN-InDepthNews",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLXBwYkJnR3NDSTdCd1p3bnZ3Uk9fN1pHNXpoRC1FTzNsTDlfaWx4MUkwSDBGc1lwbzI1cnJ6VS1kQnhlb1hWaXFvTlQ5OHAxZEFsc3FFb2xndzVtX2xkUEVGSndUaTM1cXU0d2lhdWFyNTFlUHRqNlVuMmRCYm5TMHJPUHk0NEllRVpWRm1Jd0dBbnBDbURKMnE3S3lRQldQbUE?oc=5",
+   "ts": "Mon, 23 Nov 2026 03:25:44 GMT"
   },
   {
    "src": "gnews",

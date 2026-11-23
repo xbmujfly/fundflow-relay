@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-23T15:45:56Z",
+ "ts": "2026-11-23T23:01:00Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
   }
  },
  "items": [
@@ -340,15 +341,39 @@
   },
   {
    "src": "gnews",
+   "title": "January 2027 U.S.-China trade deadlines: 4 risks to model - Thomson Reuters tax",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlU0E0SzZocmlwbmxWMWhQVHg2MWNBSHJBSzYtV09VWE5zZ2FIZGlBdXcwWExPWWFVSWVqU3l1aklFZ2p2bmxZNmY1OW5tanR5QXU4djlpRTB3b25zaGlLbEpmUE9JY1dQTlVUR3VRc3hRenFlUTlSNERhbGtBUEE?oc=5",
+   "ts": "Mon, 23 Nov 2026 18:29:17 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
    "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
   },
   {
    "src": "gnews",
-   "title": "Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFZzdnVBMkZsMW5oa0gzM2NSakFMYWVkQ2U3bVdKQU9rdUh2eG1QTENaWTQ1RlhJTFUxNl9CR1VkM1JzRU5Vd1N4Qzg0ajNKZTEwdVctTG0wQ3IwNkdETTlsLUlCcl80YzZGc3lmTlVMNHlEZEJITXpfclNZb2lWTmxjR0VpZWVzMW9DcXBhLVZpZG1kZEQxUUN4VjFXOHByN1NHUFd5X3pPcWVSVV9r?oc=5",
-   "ts": "Mon, 23 Nov 2026 10:00:20 GMT"
+   "title": "Trump Administration Shifts Pacific Islands Policy Toward Trade - Legis1",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rcjRyNnBySjluWTFzTndVS1NkMXpieXF0VmR3aDBJZExIYTRCUk9mN2NidEZWOUZsaF9TdHViR0d4ZXhkQ0pwN0NTVW5RLXJmUG8ySl9yRmZmUVBfNm9mcFRqeklwQnhFODRFX215TThKNmtNM25Zak1n?oc=5",
+   "ts": "Mon, 23 Nov 2026 19:46:44 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Optical Transceiver Trade Restrictions Won’t Solve America’s China Dependency | Blogs | Nov 23, 2026 - Information Technology and Innovation Foundation",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY25Ra3RFb0J0Y3k1QnRUeTYxdXRPQ0FFeGFQYWlfVXpzcVBpdWtjVzI4UG80ZkxkRUtReXVEUktQLWJEb2xyRGtqVG9STzVIOTNPMVo4STRHZHpEYnh4ZGpwVWJsWHhraG1QeEhDVEdQRldUb1o2dmZqeWo1dkRPY2p1TzE3dkRtSVJIT1pVSzVPbFdfVTgyS0N6Wmt2dnlJc0FnM1NVSWR4aldLcXNIZEdpT2xhVGdrRFBj?oc=5",
+   "ts": "Mon, 23 Nov 2026 20:56:21 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "How Value-Added in Trade Complicates the Tariff Picture - Tax Foundation",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jOVZQT0lvQ1ljTFRpa0trX0tuRXpNc1ZIUGk4VFcxYmpGcEZPdTdXOGJzdnVtdldMSjRWS3A1YVRzMUpDb0lOTzZVLUlpS2pQSnZCX3NLYlZvMGE2dUd1N2tEckNQTHVqbVVyY2lqZWlzZ1BnOW1IQTlR?oc=5",
+   "ts": "Mon, 23 Nov 2026 18:48:19 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Mexico, China agree to create working group to boost trade - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGQzdEcwdnZKUC05dU4zQWZFRkRKV0tmVTM1d0oxeU5ldlM0Ukk4RVhlZTNPZXZtQ2tGejdIa1V1SEdvLUx5VHJ6dGxDWlhya041NE9MckZkOEFzbjNneGhwMzFDOXhrWGx3c0JFMFg1NnhnaURuYVNpRWRIakNqbWxueHlYeU1zY3ZLYkVtZTVoX1JEV2N0Ug?oc=5",
+   "ts": "Mon, 23 Nov 2026 16:47:48 GMT"
   },
   {
    "src": "gnews",
@@ -358,87 +383,69 @@
   },
   {
    "src": "gnews",
-   "title": "How Nvidia’s billion-dollar turnaround in China is threatened by Huang’s exit - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMzBhLWJfeFVoaXlNajJPVmVaNHl3bFFPR3lveEhDV3dlNXU3MTNlcm1MNVp0OGM5MmtvcmVxVHg2SXBCZ0U1WkdBX0NGYmNZR1NrUXI2MVZFdXQtQnlhUXN6bm9SRGJOSnYxb1QzRklGZWd1bm9tdnlSNnVGLUpLWllkZFB2MVF0UXd3T3NDbWRUQUtmVzZkUml4cXJjdmhXVXFkYWdLZ3o4TGI0T2tIZG5KMHZlSWpSczNIVg?oc=5",
-   "ts": "Mon, 23 Nov 2026 11:50:53 GMT"
+   "title": "Trump administration adds Megaspeed to trade blacklist after Jensen Huang scandal - CBS News",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbjl4VjBtQnpzUHdiT29DQ1Nta25jWHFRSGh3WEk1ZVhsaEdhVUlHRzRUOEpFX2ctV0lYaU12RGZSYks2NWdUd0ZDVHY1dkxjQkJ6N2RCTV85Wm1VY1RDUGVlbjBuSWFxSU9WYnlZQVZZMHFnTGh6bkFXZ3FRVUlLNA?oc=5",
+   "ts": "Mon, 23 Nov 2026 21:55:40 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner - BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mTWVNVnJqN0QzRHlBbnBNMEpZY3IyblBXQjQwczFhU3d0U2pOTnJBa2UzNnA4T0NmRHM0SVd3YXBnQWVEd3VDM1M0M2xfQjlTaktBZUVGRXQtZnc?oc=5",
+   "ts": "Mon, 23 Nov 2026 17:14:50 GMT"
   },
   {
    "src": "gnews",
    "title": "US political coalition calls for US-China trade to be tied to religious freedom - Premier Christian News",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS0Q3OWtMMEhzenZnb2tPZlAyTWZuRGdsRmlySGZkOGZUNS1lMTNBSXVGZ2FoOVZRaFJxdjhXNFNHTjEtM1M1eVRKNVJURWplaC10S2NJRzN1M0JlVlVYWHJVV0NwdjFqbDRRODVxejZkcnZHUXpmVVk0QTRvMFdnUjMtVHZ2dTNWYmgwUl9IN2tTeVZYOFpBcmNoME40eGs?oc=5",
-   "ts": "Mon, 23 Nov 2026 14:32:11 GMT"
+   "ts": "Mon, 23 Nov 2026 20:31:46 GMT"
   },
   {
    "src": "gnews",
-   "title": "U.S. & China Trade - Radio 570 WNAX",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHams4bTA0SlFKbXBURVZkZnVnZ3JZdHNkNmNZRjdzY2p6SGRnazRnYjhOSTM5UzZHZVh0RkYwd1dGblBZR0gtcndTX1pnWTFZS0JVZnNaS00?oc=5",
-   "ts": "Mon, 23 Nov 2026 12:07:48 GMT"
+   "title": "Mexico and China Set Up Working Group to Boost Trade and Expand Mexican Exports - The China-Global South Project",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmYwejlrZDhGQXFCQm0zWmQ1RkxPVHlzNlIzUVJHU0JYVnZEY1ZrajZQNFVKWUtqbEM0dHFHcmdsb2xFXzF2WEpLcEVvNG5SWUJfUzJtNURLbzBaaTJQakVRb3J6d2YtQTVvSFZ6NUFFdnpxYkZLS1NPdlVJX3VCNEljR3VWbGQyUUg4NmFJSEFRRm9XQlZ0RmVGcw?oc=5",
+   "ts": "Mon, 23 Nov 2026 18:02:05 GMT"
   },
   {
    "src": "gnews",
-   "title": "Experts React: Takeaways from President Trump’s Trip to Asia - CSIS | Center for Strategic and International Studies",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzVEeHFJQ0VKTHNQcDVhWElPR3pvVkg2MWYtYlZmUHRWNDNyZzdkSUd3MEF1bXZQQmdNUk43VzZkLUZDazJWZWE3M09JaXdRRUdySFV1VC1UNGxOanU1UThYRnR0NE9EQW9PTERtd3M3RjRKd0pkWUUyN1VxM25QR3FzQTZIN28?oc=5",
-   "ts": "Fri, 20 Nov 2026 18:14:09 GMT"
+   "title": "Tariff-ied! – Temporary Importation Under Bond: What Importers Need to Know - The National Law Review",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcFBOMWxTaURmQWVsZ213WnA4d0RJSHZianJ3TTg1cVRYU1RvcGM1clpwcFU0eC1hWTRsV2EwMEVSRFE2cjdxSWl3WENuYWd2SnRVU0F0MWZDM3BLYkJZb0FYQzFlWFFnYmFiTWlkc3E1YW9FcTluYk5uNzRiTFdNU0h2ampMTVdHcW9saFh6cHBBQXdkazFqMG1nUTVZUVBqSmJR0gGoAUFVX3lxTE5jRFdESlU0bjg5amtGUEZhcEVKbjlkWnJZSkRJUG9BdWNCTmxjVjBGZk5pWGFlSlRKLWhZbUYtY0dsdncybjI4Zno1Yk5IMURmWFBrdjlId2VFNHpmeGVtM0dGRU1TdkZ4TVlJTG51cEZzOXllb0NDcU53Rzd0WElJQnR2NXlMUF9ucVRYNEF4cGFyTFg3UzY5MUZrUVFHM3hTTVdpOEs4OQ?oc=5",
+   "ts": "Mon, 23 Nov 2026 21:07:07 GMT"
   },
   {
    "src": "gnews",
-   "title": "South Korea and China agree wider trade deal covering entertainment - Euronews",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUJrQWRSTXNMWGZ1MmF2dFFGSnBRdG9KajdaXzJTY2cxUnVkNUZTdC1SMTF5eEJYSThjc2JKYUozbUI4MlcweVBUeW5ZVHlHbjlSVmFHUlRaa2M5ZjAtQW1OTXZfVHhzamkwaGJ3UjM5b2JvbWtCR2QyaGp4RmMyLU9PSjZLMGZScmVFd0prYUN4WTlBOE5iMWM3MktzNWpKa2U0MkZ3?oc=5",
-   "ts": "Mon, 23 Nov 2026 13:23:46 GMT"
+   "title": "Marcelo Ebrard, Wang Wentao Agree Working Group To Boost Mexico-China Trade: 6 outlets compared - NewsCord",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOalRELUtwQmM0dVNrTVAzbkFGYTAtS09xNmJLeERSUGhqb2s4SUtXeF9iMnFYY0c1OWI0SU9LOGF3RGpyM19aVlpWTG5jT25zRkVaUzdRSEU2TmlNNXRvZTV4NnBCMXlINWxNdmZHOWFKdUxBMFBHa1VjOUkyYjlLTlMwTkNXcUVYQ3AzdWcydnI1WVh6dDFoYkR1eEE0SW1ydWYwT3h1Z2ZmTEM3VG82NlF3VGpNUUhpUk9vYnlMa1BRLUlBMmFzVUQ2aXdMNjNVYzVvWVhFOXM5LWVESENjSnZR?oc=5",
+   "ts": "Mon, 23 Nov 2026 17:25:22 GMT"
   },
   {
    "src": "gnews",
-   "title": "Can Nvidia Protect Its $11 Billion China Business After Jensen Huang’s Exit? - Modern Diplomacy",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUmtFY0lKWTZiNFJwLUxHUklkZjQ2NlZORjhGLVN3Vm5BcUc2SWtleHpxVWpvVTdiV1dKbEFUOXczRXBhdHhocHpfemkxM2NkT0tRY2NTSnNFRnpicnRZWkd5MVlTeWN4MlluQzJOS2Jpa0lqVDFCYm5SVlN4VEplNEJiT0hjdVlGRXB4MkxVSTFlbG5qbHBtZC1RcmVkTFdJQjFfdGQxRjRTblV4UDIzQ3ZR?oc=5",
-   "ts": "Mon, 23 Nov 2026 11:42:36 GMT"
+   "title": "Farm Bureau’s Houston: China Clarity, North American Trade Top Farm Country’s Wish List - American Ag Network",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVmhvb0lLQ3VfaHg1VWwxb2FjWWlUUUlnSHNyRm92bDctMWxUR2R5dXlzTG9YWkVxZmF2eG1zQk5NanBFM0J4VGRqMWhySmF3c2VtY0c5X3VQRWh1RnJrM2t1VXVYYWZuSGV3N1ZsVFo2TTE2SElQX1hNZHl2WndYaF83MldlcVIxSjI0bTBjZldyeHlUeTgtTFZ5VGFpQXJoMHZhVGp1azdQalpPVTJISjdYR1RBUlR1UXZ0bUpIWjNSd2pPYTFMWQ?oc=5",
+   "ts": "Mon, 23 Nov 2026 21:15:50 GMT"
   },
   {
    "src": "gnews",
-   "title": "Live Updates: Trump Speaks on China Summit, Trade Deals and Data Centers - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmTEh2ZFRVUmZod25NaTdtQTlYYmpKYmd6T2pqMEhKTWJSdC1BT1hOMDMzV0k5bUw2RDYxS3EyZ1BjVmtOVWZ2UTRqSGVhVFMtSDc2bWkwQXZaSWo4SVoxNTRma25wVGJnSmVhNzhlYVF1dw?oc=5",
-   "ts": "Sat, 21 Nov 2026 19:53:10 GMT"
+   "title": "Trump Hints at Soybean Trade Deal, Leaves Buyer Unnamed - Ag Bull Trading",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRl9UcG9kSEJqVnkwMXV0UG51RUwweEthRlA2ZUQxQUJtOW5mSVNkYjJ0WFFYZWZQMklFY0FOdllkWHU5Y0xKenNxYkg0ZVg1YWtXRG12M3diSHRrZ09icHNHOXBvMzFUS21KUnJTLXdQNXhRN0J6V19WMDVhRnFrdUtCZGI?oc=5",
+   "ts": "Mon, 23 Nov 2026 16:00:42 GMT"
   },
   {
    "src": "gnews",
-   "title": "Remembering the dog he never had - Humane World for Animals",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2pNb0dobHVqSjhSbFhHSjlMRVlGVndlTk92QXhGc0VueUMzVjhpVGdDbnl2WkJURzJMSWp2YnZGcU5PNFl3Qk9GWGRXQ2pYbm1pZnFNZTRDR3B1VEp2clB5Q0hQakl3cktqX2lwZG83T0xPbHNYR2Z1MnJpOXpFV0JnYktyLXJ5aEdR?oc=5",
-   "ts": "Mon, 23 Nov 2026 03:01:18 GMT"
+   "title": "Trump impersonator joins Canadian PM. Here's the latest on the trade war - USA Today",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWHBwUm5fRzNaeklPVWpKcUd2TnNIS2hxcUR5VTMzV1NNR1c4aEttM29vQlYzM0U4dmx4YTAtTVFvekZzTVprY0RYQ1l5RGRZQTAwLUROWklqWElzM3Q1X0lFSnBHbW94TUhwd0k0bnVaNDF2dFlXTE5TTWJKSTBMbEx5UjBESWFfZGlKRTcwZnRIQ1RvaFk5WG9SNktJOUpzTGNPUFFQa2NsRUZfeml4cGU1UQ?oc=5",
+   "ts": "Mon, 23 Nov 2026 20:00:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzM5ZFZDbURpMG5EY0pPQXJONkRWeDJlaG1VWWE1S0diX3lNSFNqeExrdGt4QnFJSm9xdjZHUWEyQ3phdXIzNXhUcXJZako3aG9BR0RBZnlnSmQ2TG4yS3NFV1YxQ3Y1d1h2YVpaY2pYM2Fqd0x4TU85TXRNRGZud01icm1jaF9hV3VBc1dLRGFoQ010TUoyNGR2b25ZRTdjaV8yQk04RzJVR3Fu0gGyAUFVX3lxTE93czY5bjBIUldGbXZ0Vm91aXp5N1ZrWXlPemNxMllKaVRHcW1LcHBQN0RlYWtYallYMjVHemIwZmV1LVBRN0tmTjMtQjFNRFRtdk5IcEdZdHA1QmEyZUtqYkUwTGRvc01rRmU0QW40cHpzeERwajl2eC1XTXhXLWVidkJQUXJWWVZkb01TNG9QYTJiVGdyaWJwMlpoNWItZFNkZnFjRG11NmphMlVjNHN2VXc?oc=5",
-   "ts": "Sat, 21 Nov 2026 19:36:53 GMT"
+   "title": "Legislative Update: China, Clothing, Enforcement, Semiconductors, Exports, Product Safety - Sandler, Travis & Rosenberg, P.A.",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQXFKcHM1MzBmczFMcVdMaXhFc2w2UHJHOXF5cTMzM0RBMElvdWtFVW5rR1JlUE1PVDlraEsxMXlwNHBBcmF5b3Q3ZHF5R0ZEQmFSbW84c2J4RU9xX0lFR0QwQUVRd2ZGbTJXQnQyWmpGd1BtdVh1ZEZUaWhNeFVNY0I4cjVoS2xfZ1VHM1FzYVg1OFJJcldvd0dwVVE0alNKTGlmUFhndG80Z293NnJhbmQ3MUJsNGFwQ2hDNEY5dUZuQno0RWtmZWlzOGt1aTdEdDZQNEFxUFZhSnpzcURZcHYtMWlxZmhzcEtj?oc=5",
+   "ts": "Mon, 23 Nov 2026 18:04:16 GMT"
   },
   {
    "src": "gnews",
-   "title": "How Carney’s Shift Toward China Could Become Leverage in Stalled U.S. Trade Talks - Time Magazine",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMExCZjI3M2txVy1tMm90TTg5VmpnTWtoUUxGZFN4OTRoSHN3OUNYQXp6QUJjR2lEa0pJNE5EeFJ3Qkxad0E0NlIwMHhmWUhCTjRYVV9BeGQ2UGQwU1JpYzgycDh5YTZtY3N1dUdwSGJKUTJzWWtPMGt5YXBicVhrekxYTjdfNER0V1RybC1GcjZYOXMtRkhGenBLOHBLMGh0NlE?oc=5",
-   "ts": "Fri, 20 Nov 2026 20:59:33 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Top Democrat Tells Carney to Strike Trump Trade Deal Now - Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEZ2Q0NJdmpwcnJtaUVXWWdyXy1feDZ2UXJ1aDdpdUZLODEtZ01sSVUxbjZ3ZEwtckRhNlNJQUl5M0UyOFBqVkNpQTJCVWVYQkllYlhrX2pGVFo2bTB5UGduTjVTQUJqNVpFSUdrd240aG1zZFFlU210QlVRU2JnUHpxUVN2QU9wWnl1ZUtR?oc=5",
-   "ts": "Sat, 21 Nov 2026 14:19:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "In China’s tech mecca, Trump and Xi touted AI cooperation. Now comes the harsh reality - CNN",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWXQ2YmRXMWcxSG5FQ0s4LXBFNnZwb3A2ZVVXQkFsLUFKcXI3RjJDSnRsakI5V3JzcXNFMFhac2x0d1M4S1BfOUxhT2hHN293aXlNd3RHSTUyYTZCVzRPV0V0eUdtS05TaUhVUV9VSTlhN0lXTkd4ZEYxNGI3d2llTg?oc=5",
-   "ts": "Sun, 22 Nov 2026 05:01:15 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Six Experts on the Significance of Trump, Xi, and Putin’s First Trilateral Meeting - Council on Foreign Relations",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbkdfb09WTFZKX1p2YmdocmZhS2FISUFwTmVuZlBEYWRSaU9WU1d1X1ZBblFKNFQtMVRndmIzLXJSc0VtTXc2LVJFVTh5ZXZWaEN1N1N1bU1BV2ttMlZnR0hsQ2c3aXo0aGVvdmtVNE8yNGZLbUNaY3hJTmNnc1o5SUMwUlN2NTAzbVE4WEFXdUZmdXRTQmc?oc=5",
-   "ts": "Thu, 19 Nov 2026 20:13:32 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "APEC 2026 in Shenzhen: What the Leaders’ Meeting and Trump-Xi Talks Mean for Business - China Briefing",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOamxlU19pODktRktfNmluMUlTazBkS1B6RjlPRVZwUXZrbDVZOHJKUjlsMTlnOWVhbzFDenJqNHZ3dV9ULVBaSXlDSHhIZjdjMHNYaHNNWUhWcnBrbEo2LWxqVzBfYkxIWElKRHdHcndWMDNyWVVJdkQ5a0ZuVUh1dVdsTTNZNzYtQlpONDUtN096VVphamlJZGZ0ckZKal9xUXBuaFlpYnR4RThVYmlxSjluM3hzeVkwSmRtdg?oc=5",
-   "ts": "Fri, 20 Nov 2026 10:18:58 GMT"
+   "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
+   "ts": "Tue, 17 Nov 2026 23:01:15 GMT"
   },
   {
    "src": "gnews",
@@ -448,135 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "Taiwan warns Canada against deeper China trade ties as Carney seeks to diversify - Euronews",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMWFZemNXU2VySklHdnJkMmlxR2czZUxVWVZkbFpleTBOd3Naa3lIVGRYZlh4MmpESHB5OTlJQUU5RWQ0ZUIwQ0NFTVRvd1dGdlpZYUtKNW9uWjVtWml2MzZrZ0pYZUlrcTM4NHYxMmpzbV9KQnlkT2YwUld0ei15dC1FWE5sWVJ2ay1kLWpoZ2wwN2Q1eFBUOFNaT0dUZTllUjJyRm9rRmF4bjZyZkJxYVVoempJNVU?oc=5",
-   "ts": "Mon, 23 Nov 2026 05:27:13 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China, EU officials discuss exchange rates as central bank chief Pan urges cooperation - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUWNYVlZ3cS13LVJjUDh4bHJiNHB1NGNvR1pTREJFTUJqU245dEsxV1JSMTlVdmE4Yk1KUVhfVDJlYVhUeVU0ZGhlc2FfejgwN2RFVUUxX3dMeVdwMldlSDA1RDFmRTkySjFQVVJQV0QxVW9jRkpjb2doa0V0TUkwQUgyXzJrbnhPQVhnU2RLdUtJZ2NtTTREY0x2cERBeTVJVGNRZXZpUUJ4YmtNVzNIVy03VHEySnhTdkhBNDZmNEQ?oc=5",
    "ts": "Mon, 23 Nov 2026 13:03:43 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "How Kim Jong Un gets away with building nukes and ghosting Trump",
-   "url": "https://www.livemint.com/global/how-kim-jong-un-gets-away-with-building-nukes-and-ghosting-trump-11795397191350.html",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US President Trump - North Korean leader Kim summit still possible despite APEC setback , but major hurdles persist : analysts",
-   "url": "https://asianews.network/us-president-trump-north-korean-leader-kim-summit-still-possible-despite-apec-setback-but-major-hurdles-persist-analysts/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Incidencia de la Ley de Rescate Económico en la formalidad y en los costos laborales del mercado de trabajo colombiano",
-   "url": "https://razonpublica.com/incidencia-de-la-ley-de-rescate-economico-en-la-formalidad-y-en-los-costos-laborales-del-mercado-de-trabajo-colombiano/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "中 배터리 수출 혜택 끊고 EU는 현지 생산 압박⋯K배터리 반격 기회",
-   "url": "http://inews24.com/view/2029020",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "تجاهلتم تحذيراتي بشأن إيران والديمقراطيين .. ترامب يهاجم الأمريكيين بعد خسارة الجمهوريين",
-   "url": "https://akhbaregy.com/2026/11/23/%D8%AA%D8%AC%D8%A7%D9%87%D9%84%D8%AA%D9%85-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Демократ Габбард победил Фокс после пересчёта голосов в США",
-   "url": "https://unn.ua/ru/news/demokrat-gabbard-pobedil-foks-posle-pereschyota-golosov-v-ssha",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Stock market outlook today , 23 Nov : Sensex , Nifty prediction - DJIA , S & P , NASDAQ , GIFT Nifty , Kospi , Nikkei , Taiwan cues",
-   "url": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-23-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cues-11795394068928.html",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Spy in touch with China during affair with Nvidia chief",
-   "url": "https://www.bendigoadvertiser.com.au/story/9396499/spy-in-touch-with-china-during-affair-with-nvidia-chief/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "金氏 「 友好的な国と協力 」 米国の敵視政策念頭か｜全国のニュース｜Web東奥",
-   "url": "https://www.toonippo.co.jp/articles/-/2409063",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Carney , opposition leaders trade comedic jabs at press gallery dinner",
-   "url": "https://www.cinaradio.com/2026/11/22/carney-opposition-leaders-trade-comedic-jabs-at-press-gallery-dinner/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Spy in touch with China during affair with Nvidia chief",
-   "url": "https://www.newcastleherald.com.au/story/9396499/spy-in-touch-with-china-during-affair-with-nvidia-chief/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "The fault lines threatening democracy",
-   "url": "https://www.livemint.com/opinion/columns/the-fault-lines-threatening-democracy-11795359705968.html",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Single - digit inflation : Nigeria test after 14 . 06 % October",
-   "url": "https://punchng.com/single-digit-test-of-dropping-inflation/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Is the AI Stock Market Boom Coming to an End ? ",
-   "url": "https://newsonjapan.com/article/151486.php",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US Army plans to invoke emergency provisions to detonate bomb - making chemicals in Iowa",
-   "url": "https://www.wyff4.com/article/des-moines-area-army-emergency-bomb-chemical-blast/74502722",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "FULL SPEECH | Carney roasts opposition , Trump at press gallery dinner",
-   "url": "https://www.cinaradio.com/2026/11/22/full-speech-carney-roasts-opposition-trump-at-press-gallery-dinner/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Spy in touch with China during affair with Nvidia chief",
-   "url": "https://www.naroomanewsonline.com.au/story/9396499/spy-in-touch-with-china-during-affair-with-nvidia-chief/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Thanksgiving turkeys arrive at Willard Hotel ahead of White House pardon",
-   "url": "https://upnorthlive.com/news/nation-world/thanksgiving-turkeys-arrive-willard-hotel-pardon-ceremony-president-donald-trump-white-house-south-lawn",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Poor Nancy Pelosi : Former speaker laments her villainhood status",
-   "url": "https://worldtribune.com/poor-nancy-pelosi-former-speaker-laments-her-villainhood-status/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Pregnant workers could lose workplace protections after appeals court strikes down law",
-   "url": "https://www.fox5atlanta.com/news/pregnant-workers-workplace-protections-appeals-court",
-   "ts": "20261123T033000Z"
   }
  ]
 }

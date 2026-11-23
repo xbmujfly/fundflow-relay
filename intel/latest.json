@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-23T10:16:05Z",
+ "ts": "2026-11-23T10:31:07Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -347,6 +347,12 @@
   },
   {
    "src": "gnews",
+   "title": "Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFZzdnVBMkZsMW5oa0gzM2NSakFMYWVkQ2U3bVdKQU9rdUh2eG1QTENaWTQ1RlhJTFUxNl9CR1VkM1JzRU5Vd1N4Qzg0ajNKZTEwdVctTG0wQ3IwNkdETTlsLUlCcl80YzZGc3lmTlVMNHlEZEJITXpfclNZb2lWTmxjR0VpZWVzMW9DcXBhLVZpZG1kZEQxUUN4VjFXOHByN1NHUFd5X3pPcWVSVV9r?oc=5",
+   "ts": "Mon, 23 Nov 2026 10:00:20 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
    "ts": "Fri, 20 Nov 2026 13:16:47 GMT"
@@ -356,18 +362,6 @@
    "title": "Trump touts Asia trade deal wins, but US agricultural exports disappoint - Reuters",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX1NxamhacExiOUlPV3RKN2RGTmNzN2gySzZ1Wnl5d0xEUjdud1IyRE5aTk5sUWZRUzRDLTdjblQ0MmNWa1B3Nld0RGhRbDZqbEpfWkpFWlhwOUhPeTJqVkxvNkhReU9iaUlabjJfeVFnNFVrem14RGRVdG9EZHhxcVNFd1dhTkJBR3ljdzZmejE3TkY3bE1zZGJRTG5DRGFTS3k3SDJpRGZWWkdIcTBoYkNB?oc=5",
    "ts": "Fri, 20 Nov 2026 12:32:09 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFZzdnVBMkZsMW5oa0gzM2NSakFMYWVkQ2U3bVdKQU9rdUh2eG1QTENaWTQ1RlhJTFUxNl9CR1VkM1JzRU5Vd1N4Qzg0ajNKZTEwdVctTG0wQ3IwNkdETTlsLUlCcl80YzZGc3lmTlVMNHlEZEJITXpfclNZb2lWTmxjR0VpZWVzMW9DcXBhLVZpZG1kZEQxUUN4VjFXOHByN1NHUFd5X3pPcWVSVV9r?oc=5",
-   "ts": "Sun, 22 Nov 2026 23:00:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China Calls on Switzerland to Help Resolve EU Trade Rift, Oppose 'Taiwan Independence' - U.S. News & World Report",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc2JpMDRick4zeWdwV0tHaGdlQUxfa1RKU0xHMFU4d3J2VEdIVVZlQnBSOUo2Q25Fc1MwaFMyLWdSQUkzRWliS1RNTmhaUmt1Mmg4SFlENFNNWWtldmxnRmpWNnJxaEtnMHRQOHVoZ0w0SUw1SWxMM1JSMHJHV09XUGZObElYY29RNUlzWDVXeHJWV2otb2lLVE4waHpob1pkTV9HR0pkYnR0Qm1ZZjNHNW1oTm04RUtSdnhsYmM2ZV9iakVBZG0wRDdEa0otZVNtRldv?oc=5",
-   "ts": "Mon, 23 Nov 2026 09:52:00 GMT"
   },
   {
    "src": "gnews",
@@ -437,6 +431,18 @@
   },
   {
    "src": "gnews",
+   "title": "China calls on Switzerland to help resolve EU trade rift, oppose 'Taiwan independence' - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU0pwbkJPVTFZbU1zXzlVRlVjc3ljalJncnFvMS03d2REeGJzMG1kZDBRUFYzaVdUSDg5b0ptenlScXhFWGhIdHVmT0dybWtPN2RrWVMybUdKV3VzNENMemtuX1JpRVg1WURkTjJzUTM2d242SHJueGVxR3F5OUctMnJHeUxSOHQ2Z1o3UDVmMUV0U0w4RUlOdllFdTl2SjJvUnFTc3J6NEVzclgwVUZMaXFWSVVtMnZkNFVteElaUUFuSWs?oc=5",
+   "ts": "Mon, 23 Nov 2026 09:53:43 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Armenia Begins Trump-Backed Project Boosting Regional Trade Ties - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ1JOc1lnbUVZcURuVzduWUR4eWxmOEVTb3E2VFdRYTEzeWdZcG9PMlROVlB0QTVibDBfdDIzTWZqVGNfV1EwSzNzUGRUSWxkRG5McmdHd1V4Uk0tNG82dklrZXlieDc0MFRFXzZ5eHJSQWxyRkJIdVpwR1pIekVRbWpCamYxTUEyUWVCZWh1WWRyaDZSMzhjV0tfQ3lBdUFhZDV1MjFoV19vd1JKblhwcW8wbXVMQQ?oc=5",
+   "ts": "Mon, 23 Nov 2026 09:56:23 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal - CNBC",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa1JwdmY0aEYyNHRwSEJ2UVI3a0RBd0NnTDdLbnZxN3o2SlZfRHJHS0dkWURKczBRczZ2dXdfX1FrQi05Q0FzNi1FTVEwQ2tiYnpyTHc3M1VSVjk3elEyb3Q1MlhNWldyUmZNQ0ZfLS1OdmJ5c3d5OUtwc2REajJGY2ZlcGnSAYoBQVVfeXFMTWlMMENRZ1hNNVlfcWZkcktZTWJ4TjdYRzBfRlQxWDIwUmdKNndBZmhGaVM0RkY4V01Ud2RneG93bTcxTk9FYmlMdVU4cUx6UV90VU5uR1l5MVR6THhqRTlhWFdPRGlBTjM4UlBVaWFaSHhvVkJYMm1LLVJQWEpGZEcxNG0ybGhzSnRn?oc=5",
    "ts": "Thu, 19 Nov 2026 02:54:00 GMT"
@@ -452,12 +458,6 @@
    "title": "Chinese exchanges ease margin trading requirements to aid stock markets - Reuters",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVHZKRlQ0Y0pzZDRaTzJIdHRfX2dkZkVVUUh4YXotTkpLQTdrQ0NPTzVXTzVjczF2aUdKYTRtTHg5Wl9GLU1VbjFkREJ0bXY5S2RDdXphbnowRFdsUldyVGZsZFVIY1N0VTg0Q3RYOWp6TDVlb2lhOEhpM3M2d1NFZDhtdExWcERBS3BmVFNiVEprV0swRWhORV94MG1rcWhYUGpEQnR5akI5cXN0ZEhr?oc=5",
    "ts": "Sun, 22 Nov 2026 13:09:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Top Democrat Tells Carney to Strike Trump Trade Deal Now - Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEZ2Q0NJdmpwcnJtaUVXWWdyXy1feDZ2UXJ1aDdpdUZLODEtZ01sSVUxbjZ3ZEwtckRhNlNJQUl5M0UyOFBqVkNpQTJCVWVYQkllYlhrX2pGVFo2bTB5UGduTjVTQUJqNVpFSUdrd240aG1zZFFlU210QlVRU2JnUHpxUVN2QU9wWnl1ZUtR?oc=5",
-   "ts": "Sat, 21 Nov 2026 14:19:00 GMT"
   }
  ]
 }

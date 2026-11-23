@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-23T03:01:12Z",
+ "ts": "2026-11-23T03:16:02Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -365,6 +365,12 @@
   },
   {
    "src": "gnews",
+   "title": "Remembering the dog he never had - Humane World for Animals",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2pNb0dobHVqSjhSbFhHSjlMRVlGVndlTk92QXhGc0VueUMzVjhpVGdDbnl2WkJURzJMSWp2YnZGcU5PNFl3Qk9GWGRXQ2pYbm1pZnFNZTRDR3B1VEp2clB5Q0hQakl3cktqX2lwZG83T0xPbHNYR2Z1MnJpOXpFV0JnYktyLXJ5aEdR?oc=5",
+   "ts": "Mon, 23 Nov 2026 03:01:18 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Experts React: Takeaways from President Trump’s Trip to Asia - CSIS | Center for Strategic and International Studies",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzVEeHFJQ0VKTHNQcDVhWElPR3pvVkg2MWYtYlZmUHRWNDNyZzdkSUd3MEF1bXZQQmdNUk43VzZkLUZDazJWZWE3M09JaXdRRUdySFV1VC1UNGxOanU1UThYRnR0NE9EQW9PTERtd3M3RjRKd0pkWUUyN1VxM25QR3FzQTZIN28?oc=5",
    "ts": "Fri, 20 Nov 2026 18:14:09 GMT"
@@ -422,12 +428,6 @@
    "title": "Top Democrat Tells Carney to Strike Trump Trade Deal Now - Newsweek",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEZ2Q0NJdmpwcnJtaUVXWWdyXy1feDZ2UXJ1aDdpdUZLODEtZ01sSVUxbjZ3ZEwtckRhNlNJQUl5M0UyOFBqVkNpQTJCVWVYQkllYlhrX2pGVFo2bTB5UGduTjVTQUJqNVpFSUdrd240aG1zZFFlU210QlVRU2JnUHpxUVN2QU9wWnl1ZUtR?oc=5",
    "ts": "Sat, 21 Nov 2026 14:19:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
-   "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
   },
   {
    "src": "gnews",

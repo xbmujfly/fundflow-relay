@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-23T07:16:03Z",
+ "ts": "2026-11-23T07:31:06Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -346,15 +347,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump touts Asia trade deal wins, but US agricultural exports disappoint - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX1NxamhacExiOUlPV3RKN2RGTmNzN2gySzZ1Wnl5d0xEUjdud1IyRE5aTk5sUWZRUzRDLTdjblQ0MmNWa1B3Nld0RGhRbDZqbEpfWkpFWlhwOUhPeTJqVkxvNkhReU9iaUlabjJfeVFnNFVrem14RGRVdG9EZHhxcVNFd1dhTkJBR3ljdzZmejE3TkY3bE1zZGJRTG5DRGFTS3k3SDJpRGZWWkdIcTBoYkNB?oc=5",
-   "ts": "Fri, 20 Nov 2026 12:32:09 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
    "ts": "Fri, 20 Nov 2026 13:16:47 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
+   "ts": "Tue, 17 Nov 2026 23:01:15 GMT"
   },
   {
    "src": "gnews",
@@ -370,21 +371,15 @@
   },
   {
    "src": "gnews",
+   "title": "Carney and Xi Announce Trade Pact Ahead of Asia Summit - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
+   "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Taiwan warns Canada against deeper China trade ties as Carney seeks to diversify - Euronews",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMWFZemNXU2VySklHdnJkMmlxR2czZUxVWVZkbFpleTBOd3Naa3lIVGRYZlh4MmpESHB5OTlJQUU5RWQ0ZUIwQ0NFTVRvd1dGdlpZYUtKNW9uWjVtWml2MzZrZ0pYZUlrcTM4NHYxMmpzbV9KQnlkT2YwUld0ei15dC1FWE5sWVJ2ay1kLWpoZ2wwN2Q1eFBUOFNaT0dUZTllUjJyRm9rRmF4bjZyZkJxYVVoempJNVU?oc=5",
    "ts": "Mon, 23 Nov 2026 05:27:13 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "How Carney’s Shift Toward China Could Become Leverage in Stalled U.S. Trade Talks - Time Magazine",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMExCZjI3M2txVy1tMm90TTg5VmpnTWtoUUxGZFN4OTRoSHN3OUNYQXp6QUJjR2lEa0pJNE5EeFJ3Qkxad0E0NlIwMHhmWUhCTjRYVV9BeGQ2UGQwU1JpYzgycDh5YTZtY3N1dUdwSGJKUTJzWWtPMGt5YXBicVhrekxYTjdfNER0V1RybC1GcjZYOXMtRkhGenBLOHBLMGh0NlE?oc=5",
-   "ts": "Fri, 20 Nov 2026 20:59:33 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Experts React: Takeaways from President Trump’s Trip to Asia - CSIS | Center for Strategic and International Studies",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzVEeHFJQ0VKTHNQcDVhWElPR3pvVkg2MWYtYlZmUHRWNDNyZzdkSUd3MEF1bXZQQmdNUk43VzZkLUZDazJWZWE3M09JaXdRRUdySFV1VC1UNGxOanU1UThYRnR0NE9EQW9PTERtd3M3RjRKd0pkWUUyN1VxM25QR3FzQTZIN28?oc=5",
-   "ts": "Fri, 20 Nov 2026 18:14:09 GMT"
   },
   {
    "src": "gnews",
@@ -394,9 +389,15 @@
   },
   {
    "src": "gnews",
-   "title": "Kazakhstan Handles 84% of China-Central Asia Freight as Regional Trade Nearly Triples - The Astana Times",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNajMxMElwYW43dTFKX0cyOTFwOHgtcXBoSXhfRk1hODBibUpaMTZ3VmYzQ2dwYzZjN0RNZnhHZUxqQUpSLVNBQ0R1a2NRMnNIeHp5LUxwVUpDdlphMFpfQkxGLXhKVnVIYmlQWW1jUkU3NXU5Z2Q5MEtZa1p5TTZ0RkhlQUFYZmJseHlwZFo5WlMyTDhZenVtZEVITnBZOWxUaTZXaEp2N0k3cGs2YWZPSS1jMl9wRnJy?oc=5",
-   "ts": "Mon, 23 Nov 2026 04:51:04 GMT"
+   "title": "Experts React: Takeaways from President Trump’s Trip to Asia - CSIS | Center for Strategic and International Studies",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzVEeHFJQ0VKTHNQcDVhWElPR3pvVkg2MWYtYlZmUHRWNDNyZzdkSUd3MEF1bXZQQmdNUk43VzZkLUZDazJWZWE3M09JaXdRRUdySFV1VC1UNGxOanU1UThYRnR0NE9EQW9PTERtd3M3RjRKd0pkWUUyN1VxM25QR3FzQTZIN28?oc=5",
+   "ts": "Fri, 20 Nov 2026 18:14:09 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "How Carney’s Shift Toward China Could Become Leverage in Stalled U.S. Trade Talks - Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMExCZjI3M2txVy1tMm90TTg5VmpnTWtoUUxGZFN4OTRoSHN3OUNYQXp6QUJjR2lEa0pJNE5EeFJ3Qkxad0E0NlIwMHhmWUhCTjRYVV9BeGQ2UGQwU1JpYzgycDh5YTZtY3N1dUdwSGJKUTJzWWtPMGt5YXBicVhrekxYTjdfNER0V1RybC1GcjZYOXMtRkhGenBLOHBLMGh0NlE?oc=5",
+   "ts": "Fri, 20 Nov 2026 20:59:33 GMT"
   },
   {
    "src": "gnews",
@@ -418,39 +419,33 @@
   },
   {
    "src": "gnews",
-   "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
-   "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Top Democrat Tells Carney to Strike Trump Trade Deal Now - Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEZ2Q0NJdmpwcnJtaUVXWWdyXy1feDZ2UXJ1aDdpdUZLODEtZ01sSVUxbjZ3ZEwtckRhNlNJQUl5M0UyOFBqVkNpQTJCVWVYQkllYlhrX2pGVFo2bTB5UGduTjVTQUJqNVpFSUdrd240aG1zZFFlU210QlVRU2JnUHpxUVN2QU9wWnl1ZUtR?oc=5",
-   "ts": "Sat, 21 Nov 2026 14:19:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Canadian winery considers shifting business to China as Trump tariffs raise concerns for New York economy - Spectrum News",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWluSVNRLUt6RFRXWExqbEJrUEJ2Sm84b1NMdWw2LWxLX3E0QUUyU3BLNEE4SlJHUElDVkRXdXY0WlRNUDJqNmhSaUYtc1hyTEhKVVg4RXV6TjFvZEVEUFJhWFZRSUtHRTB0OW1BVnViVkhXeDJYSmN1SnVuUjdYT3F1NnQxNTNrVHRRc2JwN0JvYWdWdVpneE5VWG5DdnFtOTV0R2FzOUgtYzhfeFd4ekpvZw?oc=5",
    "ts": "Fri, 20 Nov 2026 01:00:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Business opportunity or security threat? Nvidia case raises questions about China - NPR",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZFM4UXRMNVBPNHhuMlNGOURHa0pvRWNCc3BmcGlXV2VqUlRsU0hsQmRHRUx3ZUJfeE1nSFBobUhaY2hHMkhxQVBfVFBhclJmckJEeTIzc29CM3pMcV9uajFyX2NCaEdpSTdGanNTYjVocjBZejBwV2Z6ZWg0T2ZwQWx1WDRDV2ZiVVNteklMQm1wNk9SXzJidlVRSXBoYTI4NHBNQ1J5cEx2MXBVX2JWTXpXZ1hhaFZWeHhJZGh6dlRqVVk?oc=5",
-   "ts": "Fri, 20 Nov 2026 09:42:24 GMT"
+   "title": "Kazakhstan Handles 84% of China-Central Asia Freight as Regional Trade Nearly Triples - The Astana Times",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNajMxMElwYW43dTFKX0cyOTFwOHgtcXBoSXhfRk1hODBibUpaMTZ3VmYzQ2dwYzZjN0RNZnhHZUxqQUpSLVNBQ0R1a2NRMnNIeHp5LUxwVUpDdlphMFpfQkxGLXhKVnVIYmlQWW1jUkU3NXU5Z2Q5MEtZa1p5TTZ0RkhlQUFYZmJseHlwZFo5WlMyTDhZenVtZEVITnBZOWxUaTZXaEp2N0k3cGs2YWZPSS1jMl9wRnJy?oc=5",
+   "ts": "Mon, 23 Nov 2026 04:51:04 GMT"
   },
   {
    "src": "gnews",
-   "title": "South Korea says China trade agreement to boost tourism, entertainment sectors - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
-   "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
+   "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
+   "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa1JwdmY0aEYyNHRwSEJ2UVI3a0RBd0NnTDdLbnZxN3o2SlZfRHJHS0dkWURKczBRczZ2dXdfX1FrQi05Q0FzNi1FTVEwQ2tiYnpyTHc3M1VSVjk3elEyb3Q1MlhNWldyUmZNQ0ZfLS1OdmJ5c3d5OUtwc2REajJGY2ZlcGnSAYoBQVVfeXFMTWlMMENRZ1hNNVlfcWZkcktZTWJ4TjdYRzBfRlQxWDIwUmdKNndBZmhGaVM0RkY4V01Ud2RneG93bTcxTk9FYmlMdVU4cUx6UV90VU5uR1l5MVR6THhqRTlhWFdPRGlBTjM4UlBVaWFaSHhvVkJYMm1LLVJQWEpGZEcxNG0ybGhzSnRn?oc=5",
-   "ts": "Thu, 19 Nov 2026 02:54:00 GMT"
+   "title": "Trump touts Asia trade deal wins, but US agricultural exports disappoint - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX1NxamhacExiOUlPV3RKN2RGTmNzN2gySzZ1Wnl5d0xEUjdud1IyRE5aTk5sUWZRUzRDLTdjblQ0MmNWa1B3Nld0RGhRbDZqbEpfWkpFWlhwOUhPeTJqVkxvNkhReU9iaUlabjJfeVFnNFVrem14RGRVdG9EZHhxcVNFd1dhTkJBR3ljdzZmejE3TkY3bE1zZGJRTG5DRGFTS3k3SDJpRGZWWkdIcTBoYkNB?oc=5",
+   "ts": "Fri, 20 Nov 2026 12:32:09 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
+   "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
   },
   {
    "src": "gnews",
@@ -459,124 +454,10 @@
    "ts": "Sun, 22 Nov 2026 13:09:00 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "How Kim Jong Un gets away with building nukes and ghosting Trump",
-   "url": "https://www.livemint.com/global/how-kim-jong-un-gets-away-with-building-nukes-and-ghosting-trump-11795397191350.html",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US President Trump - North Korean leader Kim summit still possible despite APEC setback , but major hurdles persist : analysts",
-   "url": "https://asianews.network/us-president-trump-north-korean-leader-kim-summit-still-possible-despite-apec-setback-but-major-hurdles-persist-analysts/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Incidencia de la Ley de Rescate Económico en la formalidad y en los costos laborales del mercado de trabajo colombiano",
-   "url": "https://razonpublica.com/incidencia-de-la-ley-de-rescate-economico-en-la-formalidad-y-en-los-costos-laborales-del-mercado-de-trabajo-colombiano/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "中 배터리 수출 혜택 끊고 EU는 현지 생산 압박⋯K배터리 반격 기회",
-   "url": "http://inews24.com/view/2029020",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "تجاهلتم تحذيراتي بشأن إيران والديمقراطيين .. ترامب يهاجم الأمريكيين بعد خسارة الجمهوريين",
-   "url": "https://akhbaregy.com/2026/11/23/%D8%AA%D8%AC%D8%A7%D9%87%D9%84%D8%AA%D9%85-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Демократ Габбард победил Фокс после пересчёта голосов в США",
-   "url": "https://unn.ua/ru/news/demokrat-gabbard-pobedil-foks-posle-pereschyota-golosov-v-ssha",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Stock market outlook today , 23 Nov : Sensex , Nifty prediction - DJIA , S & P , NASDAQ , GIFT Nifty , Kospi , Nikkei , Taiwan cues",
-   "url": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-23-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cues-11795394068928.html",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Spy in touch with China during affair with Nvidia chief",
-   "url": "https://www.bendigoadvertiser.com.au/story/9396499/spy-in-touch-with-china-during-affair-with-nvidia-chief/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "金氏 「 友好的な国と協力 」 米国の敵視政策念頭か｜全国のニュース｜Web東奥",
-   "url": "https://www.toonippo.co.jp/articles/-/2409063",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Carney , opposition leaders trade comedic jabs at press gallery dinner",
-   "url": "https://www.cinaradio.com/2026/11/22/carney-opposition-leaders-trade-comedic-jabs-at-press-gallery-dinner/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Spy in touch with China during affair with Nvidia chief",
-   "url": "https://www.newcastleherald.com.au/story/9396499/spy-in-touch-with-china-during-affair-with-nvidia-chief/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "The fault lines threatening democracy",
-   "url": "https://www.livemint.com/opinion/columns/the-fault-lines-threatening-democracy-11795359705968.html",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Single - digit inflation : Nigeria test after 14 . 06 % October",
-   "url": "https://punchng.com/single-digit-test-of-dropping-inflation/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Is the AI Stock Market Boom Coming to an End ? ",
-   "url": "https://newsonjapan.com/article/151486.php",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US Army plans to invoke emergency provisions to detonate bomb - making chemicals in Iowa",
-   "url": "https://www.wyff4.com/article/des-moines-area-army-emergency-bomb-chemical-blast/74502722",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "FULL SPEECH | Carney roasts opposition , Trump at press gallery dinner",
-   "url": "https://www.cinaradio.com/2026/11/22/full-speech-carney-roasts-opposition-trump-at-press-gallery-dinner/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Spy in touch with China during affair with Nvidia chief",
-   "url": "https://www.naroomanewsonline.com.au/story/9396499/spy-in-touch-with-china-during-affair-with-nvidia-chief/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Thanksgiving turkeys arrive at Willard Hotel ahead of White House pardon",
-   "url": "https://upnorthlive.com/news/nation-world/thanksgiving-turkeys-arrive-willard-hotel-pardon-ceremony-president-donald-trump-white-house-south-lawn",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Poor Nancy Pelosi : Former speaker laments her villainhood status",
-   "url": "https://worldtribune.com/poor-nancy-pelosi-former-speaker-laments-her-villainhood-status/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Pregnant workers could lose workplace protections after appeals court strikes down law",
-   "url": "https://www.fox5atlanta.com/news/pregnant-workers-workplace-protections-appeals-court",
-   "ts": "20261123T033000Z"
+   "src": "gnews",
+   "title": "South Korea says China trade agreement to boost tourism, entertainment sectors - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
+   "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
   }
  ]
 }

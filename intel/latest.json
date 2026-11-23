@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-23T23:31:00Z",
+ "ts": "2026-11-23T23:45:56Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -38,6 +38,12 @@
   }
  },
  "items": [
+  {
+   "src": "whitehouse",
+   "title": "Expeditious Enforcement of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/",
+   "ts": "Mon, 23 Nov 2026 23:36:12 +0000"
+  },
   {
    "src": "whitehouse",
    "title": "NATIONAL ADOPTION MONTH, 2026",
@@ -151,12 +157,6 @@
    "title": "Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
    "url": "https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/",
    "ts": "Sat, 17 Oct 2026 00:34:24 +0000"
-  },
-  {
-   "src": "whitehouse",
-   "title": "Establishment of a Committee of Inquiry to Investigate Allegations of False Statements by Lisa DeNell Cook",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/establishment-of-a-committee-of-inquiry-to-investigate-allegations-of-false-statements-by-lisa-denell-cook/",
-   "ts": "Thu, 08 Oct 2026 01:00:00 +0000"
   },
   {
    "src": "ustr",
@@ -424,15 +424,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump and Newsom Trade Barbs Over California’s Death Row - LAmag",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3ZpNUZNN21CUXZpc0NGSkRxWEkxWDJ0WW0tYy1MbjI3TUJXYUlETmZsdDc3RUJjSklvcUFfTmJTci11bE5BeDRpNjZueFVUaUpFS0hBNU01RGROQU9FNlpzRVM2MlNoWmVOY0tsOEZZcFRNZlZ4N25sOEgyMzNfa3J0SDk2aWdPZTk4?oc=5",
-   "ts": "Mon, 23 Nov 2026 23:01:19 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Marcelo Ebrard, Wang Wentao Agree Working Group To Boost Mexico-China Trade: 6 outlets compared - NewsCord",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOalRELUtwQmM0dVNrTVAzbkFGYTAtS09xNmJLeERSUGhqb2s4SUtXeF9iMnFYY0c1OWI0SU9LOGF3RGpyM19aVlpWTG5jT25zRkVaUzdRSEU2TmlNNXRvZTV4NnBCMXlINWxNdmZHOWFKdUxBMFBHa1VjOUkyYjlLTlMwTkNXcUVYQ3AzdWcydnI1WVh6dDFoYkR1eEE0SW1ydWYwT3h1Z2ZmTEM3VG82NlF3VGpNUUhpUk9vYnlMa1BRLUlBMmFzVUQ2aXdMNjNVYzVvWVhFOXM5LWVESENjSnZR?oc=5",
    "ts": "Mon, 23 Nov 2026 17:25:22 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump and Newsom Trade Barbs Over California’s Death Row - LAmag",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3ZpNUZNN21CUXZpc0NGSkRxWEkxWDJ0WW0tYy1MbjI3TUJXYUlETmZsdDc3RUJjSklvcUFfTmJTci11bE5BeDRpNjZueFVUaUpFS0hBNU01RGROQU9FNlpzRVM2MlNoWmVOY0tsOEZZcFRNZlZ4N25sOEgyMzNfa3J0SDk2aWdPZTk4?oc=5",
+   "ts": "Mon, 23 Nov 2026 23:01:19 GMT"
   },
   {
    "src": "gnews",
@@ -442,15 +442,15 @@
   },
   {
    "src": "gnews",
-   "title": "Legislative Update: China, Clothing, Enforcement, Semiconductors, Exports, Product Safety - Sandler, Travis & Rosenberg, P.A.",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQXFKcHM1MzBmczFMcVdMaXhFc2w2UHJHOXF5cTMzM0RBMElvdWtFVW5rR1JlUE1PVDlraEsxMXlwNHBBcmF5b3Q3ZHF5R0ZEQmFSbW84c2J4RU9xX0lFR0QwQUVRd2ZGbTJXQnQyWmpGd1BtdVh1ZEZUaWhNeFVNY0I4cjVoS2xfZ1VHM1FzYVg1OFJJcldvd0dwVVE0alNKTGlmUFhndG80Z293NnJhbmQ3MUJsNGFwQ2hDNEY5dUZuQno0RWtmZWlzOGt1aTdEdDZQNEFxUFZhSnpzcURZcHYtMWlxZmhzcEtj?oc=5",
-   "ts": "Mon, 23 Nov 2026 18:04:16 GMT"
+   "title": "Trump Hints at Soybean Trade Deal, Leaves Buyer Unnamed - Ag Bull Trading",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRl9UcG9kSEJqVnkwMXV0UG51RUwweEthRlA2ZUQxQUJtOW5mSVNkYjJ0WFFYZWZQMklFY0FOdllkWHU5Y0xKenNxYkg0ZVg1YWtXRG12M3diSHRrZ09icHNHOXBvMzFUS21KUnJTLXdQNXhRN0J6V19WMDVhRnFrdUtCZGI?oc=5",
+   "ts": "Mon, 23 Nov 2026 16:00:42 GMT"
   },
   {
    "src": "gnews",
-   "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
-   "ts": "Tue, 17 Nov 2026 23:01:15 GMT"
+   "title": "Legislative Update: China, Clothing, Enforcement, Semiconductors, Exports, Product Safety - Sandler, Travis & Rosenberg, P.A.",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQXFKcHM1MzBmczFMcVdMaXhFc2w2UHJHOXF5cTMzM0RBMElvdWtFVW5rR1JlUE1PVDlraEsxMXlwNHBBcmF5b3Q3ZHF5R0ZEQmFSbW84c2J4RU9xX0lFR0QwQUVRd2ZGbTJXQnQyWmpGd1BtdVh1ZEZUaWhNeFVNY0I4cjVoS2xfZ1VHM1FzYVg1OFJJcldvd0dwVVE0alNKTGlmUFhndG80Z293NnJhbmQ3MUJsNGFwQ2hDNEY5dUZuQno0RWtmZWlzOGt1aTdEdDZQNEFxUFZhSnpzcURZcHYtMWlxZmhzcEtj?oc=5",
+   "ts": "Mon, 23 Nov 2026 18:04:16 GMT"
   },
   {
    "src": "gnews",

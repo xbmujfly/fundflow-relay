@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-23T02:46:01Z",
+ "ts": "2026-11-23T03:01:12Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -365,21 +365,9 @@
   },
   {
    "src": "gnews",
-   "title": "Carney and Xi Announce Trade Pact Ahead of Asia Summit - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEY2ZTltbjNhU0hQMjFPdnpzdDNjekkxWTg1UWZXMkhIMGxMa1EtbXRhZmxHMXRKejF3c2xNY1F4ODN1YXkzSENrOTB1eFM3eWVLb0dpeU9zc2x2eTRjU1RDMVdWR3h0SHVRT2otbjRkRVRpdFdUdzlaMk1zYjZ4amNZeXJ4dw?oc=5",
-   "ts": "Tue, 17 Nov 2026 09:46:43 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Experts React: Takeaways from President Trump’s Trip to Asia - CSIS | Center for Strategic and International Studies",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzVEeHFJQ0VKTHNQcDVhWElPR3pvVkg2MWYtYlZmUHRWNDNyZzdkSUd3MEF1bXZQQmdNUk43VzZkLUZDazJWZWE3M09JaXdRRUdySFV1VC1UNGxOanU1UThYRnR0NE9EQW9PTERtd3M3RjRKd0pkWUUyN1VxM25QR3FzQTZIN28?oc=5",
    "ts": "Fri, 20 Nov 2026 18:14:09 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "In China’s tech mecca, Trump and Xi touted AI cooperation. Now comes the harsh reality - CNN",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWXQ2YmRXMWcxSG5FQ0s4LXBFNnZwb3A2ZVVXQkFsLUFKcXI3RjJDSnRsakI5V3JzcXNFMFhac2x0d1M4S1BfOUxhT2hHN293aXlNd3RHSTUyYTZCVzRPV0V0eUdtS05TaUhVUV9VSTlhN0lXTkd4ZEYxNGI3d2llTg?oc=5",
-   "ts": "Sun, 22 Nov 2026 05:01:15 GMT"
   },
   {
    "src": "gnews",
@@ -389,15 +377,15 @@
   },
   {
    "src": "gnews",
-   "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzM5ZFZDbURpMG5EY0pPQXJONkRWeDJlaG1VWWE1S0diX3lNSFNqeExrdGt4QnFJSm9xdjZHUWEyQ3phdXIzNXhUcXJZako3aG9BR0RBZnlnSmQ2TG4yS3NFV1YxQ3Y1d1h2YVpaY2pYM2Fqd0x4TU85TXRNRGZud01icm1jaF9hV3VBc1dLRGFoQ010TUoyNGR2b25ZRTdjaV8yQk04RzJVR3Fu0gGyAUFVX3lxTE93czY5bjBIUldGbXZ0Vm91aXp5N1ZrWXlPemNxMllKaVRHcW1LcHBQN0RlYWtYallYMjVHemIwZmV1LVBRN0tmTjMtQjFNRFRtdk5IcEdZdHA1QmEyZUtqYkUwTGRvc01rRmU0QW40cHpzeERwajl2eC1XTXhXLWVidkJQUXJWWVZkb01TNG9QYTJiVGdyaWJwMlpoNWItZFNkZnFjRG11NmphMlVjNHN2VXc?oc=5",
-   "ts": "Sat, 21 Nov 2026 19:36:53 GMT"
+   "title": "In China’s tech mecca, Trump and Xi touted AI cooperation. Now comes the harsh reality - CNN",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWXQ2YmRXMWcxSG5FQ0s4LXBFNnZwb3A2ZVVXQkFsLUFKcXI3RjJDSnRsakI5V3JzcXNFMFhac2x0d1M4S1BfOUxhT2hHN293aXlNd3RHSTUyYTZCVzRPV0V0eUdtS05TaUhVUV9VSTlhN0lXTkd4ZEYxNGI3d2llTg?oc=5",
+   "ts": "Sun, 22 Nov 2026 05:01:15 GMT"
   },
   {
    "src": "gnews",
-   "title": "Top Democrat Tells Carney to Strike Trump Trade Deal Now - Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEZ2Q0NJdmpwcnJtaUVXWWdyXy1feDZ2UXJ1aDdpdUZLODEtZ01sSVUxbjZ3ZEwtckRhNlNJQUl5M0UyOFBqVkNpQTJCVWVYQkllYlhrX2pGVFo2bTB5UGduTjVTQUJqNVpFSUdrd240aG1zZFFlU210QlVRU2JnUHpxUVN2QU9wWnl1ZUtR?oc=5",
-   "ts": "Sat, 21 Nov 2026 14:19:00 GMT"
+   "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzM5ZFZDbURpMG5EY0pPQXJONkRWeDJlaG1VWWE1S0diX3lNSFNqeExrdGt4QnFJSm9xdjZHUWEyQ3phdXIzNXhUcXJZako3aG9BR0RBZnlnSmQ2TG4yS3NFV1YxQ3Y1d1h2YVpaY2pYM2Fqd0x4TU85TXRNRGZud01icm1jaF9hV3VBc1dLRGFoQ010TUoyNGR2b25ZRTdjaV8yQk04RzJVR3Fu0gGyAUFVX3lxTE93czY5bjBIUldGbXZ0Vm91aXp5N1ZrWXlPemNxMllKaVRHcW1LcHBQN0RlYWtYallYMjVHemIwZmV1LVBRN0tmTjMtQjFNRFRtdk5IcEdZdHA1QmEyZUtqYkUwTGRvc01rRmU0QW40cHpzeERwajl2eC1XTXhXLWVidkJQUXJWWVZkb01TNG9QYTJiVGdyaWJwMlpoNWItZFNkZnFjRG11NmphMlVjNHN2VXc?oc=5",
+   "ts": "Sat, 21 Nov 2026 19:36:53 GMT"
   },
   {
    "src": "gnews",
@@ -425,6 +413,24 @@
   },
   {
    "src": "gnews",
+   "title": "Business opportunity or security threat? Nvidia case raises questions about China - NPR",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZFM4UXRMNVBPNHhuMlNGOURHa0pvRWNCc3BmcGlXV2VqUlRsU0hsQmRHRUx3ZUJfeE1nSFBobUhaY2hHMkhxQVBfVFBhclJmckJEeTIzc29CM3pMcV9uajFyX2NCaEdpSTdGanNTYjVocjBZejBwV2Z6ZWg0T2ZwQWx1WDRDV2ZiVVNteklMQm1wNk9SXzJidlVRSXBoYTI4NHBNQ1J5cEx2MXBVX2JWTXpXZ1hhaFZWeHhJZGh6dlRqVVk?oc=5",
+   "ts": "Fri, 20 Nov 2026 09:42:24 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Top Democrat Tells Carney to Strike Trump Trade Deal Now - Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEZ2Q0NJdmpwcnJtaUVXWWdyXy1feDZ2UXJ1aDdpdUZLODEtZ01sSVUxbjZ3ZEwtckRhNlNJQUl5M0UyOFBqVkNpQTJCVWVYQkllYlhrX2pGVFo2bTB5UGduTjVTQUJqNVpFSUdrd240aG1zZFFlU210QlVRU2JnUHpxUVN2QU9wWnl1ZUtR?oc=5",
+   "ts": "Sat, 21 Nov 2026 14:19:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail - AP News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
+   "ts": "Mon, 16 Nov 2026 21:21:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump touts Asia trade deal wins, but US agricultural exports disappoint - Reuters",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX1NxamhacExiOUlPV3RKN2RGTmNzN2gySzZ1Wnl5d0xEUjdud1IyRE5aTk5sUWZRUzRDLTdjblQ0MmNWa1B3Nld0RGhRbDZqbEpfWkpFWlhwOUhPeTJqVkxvNkhReU9iaUlabjJfeVFnNFVrem14RGRVdG9EZHhxcVNFd1dhTkJBR3ljdzZmejE3TkY3bE1zZGJRTG5DRGFTS3k3SDJpRGZWWkdIcTBoYkNB?oc=5",
    "ts": "Fri, 20 Nov 2026 12:32:09 GMT"
@@ -440,12 +446,6 @@
    "title": "Trump says Board of Trade has brought 'greater balance' to US-China ties - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0VUY0prRXhtQVNrWEEyblJwRE5RdTk0ajdzSXBaNlJZcWF3YTNGbWFmMzdvSnJwWmc3ZS1ScHd4Q2tuVXA5SVJKbWFYNmxoSmdqT0VJM2FFS2Z1U3NYU0ZKbzRPSXhadEplSFQ1cDkyT1htZmdmRC1UTDgzQktfMXZqRDJiNnpTWnpHc1J2MThYazVyeTVpVFp5cW1PYTRzMjE5YnpkV0hlUQ?oc=5",
    "ts": "Thu, 19 Nov 2026 18:00:33 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
-   "ts": "Tue, 17 Nov 2026 09:29:43 GMT"
   },
   {
    "src": "gnews",

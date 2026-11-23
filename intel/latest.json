@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-23T10:46:04Z",
+ "ts": "2026-11-23T11:01:08Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -34,8 +34,9 @@
    "err": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -338,126 +339,6 @@
    "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
    "ts": "Fri, 2 Oct 2026 20:00:00 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "How Kim Jong Un gets away with building nukes and ghosting Trump",
-   "url": "https://www.livemint.com/global/how-kim-jong-un-gets-away-with-building-nukes-and-ghosting-trump-11795397191350.html",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US President Trump - North Korean leader Kim summit still possible despite APEC setback , but major hurdles persist : analysts",
-   "url": "https://asianews.network/us-president-trump-north-korean-leader-kim-summit-still-possible-despite-apec-setback-but-major-hurdles-persist-analysts/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Incidencia de la Ley de Rescate Económico en la formalidad y en los costos laborales del mercado de trabajo colombiano",
-   "url": "https://razonpublica.com/incidencia-de-la-ley-de-rescate-economico-en-la-formalidad-y-en-los-costos-laborales-del-mercado-de-trabajo-colombiano/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "中 배터리 수출 혜택 끊고 EU는 현지 생산 압박⋯K배터리 반격 기회",
-   "url": "http://inews24.com/view/2029020",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "تجاهلتم تحذيراتي بشأن إيران والديمقراطيين .. ترامب يهاجم الأمريكيين بعد خسارة الجمهوريين",
-   "url": "https://akhbaregy.com/2026/11/23/%D8%AA%D8%AC%D8%A7%D9%87%D9%84%D8%AA%D9%85-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Демократ Габбард победил Фокс после пересчёта голосов в США",
-   "url": "https://unn.ua/ru/news/demokrat-gabbard-pobedil-foks-posle-pereschyota-golosov-v-ssha",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Stock market outlook today , 23 Nov : Sensex , Nifty prediction - DJIA , S & P , NASDAQ , GIFT Nifty , Kospi , Nikkei , Taiwan cues",
-   "url": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-23-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cues-11795394068928.html",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Spy in touch with China during affair with Nvidia chief",
-   "url": "https://www.bendigoadvertiser.com.au/story/9396499/spy-in-touch-with-china-during-affair-with-nvidia-chief/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "金氏 「 友好的な国と協力 」 米国の敵視政策念頭か｜全国のニュース｜Web東奥",
-   "url": "https://www.toonippo.co.jp/articles/-/2409063",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Carney , opposition leaders trade comedic jabs at press gallery dinner",
-   "url": "https://www.cinaradio.com/2026/11/22/carney-opposition-leaders-trade-comedic-jabs-at-press-gallery-dinner/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Spy in touch with China during affair with Nvidia chief",
-   "url": "https://www.newcastleherald.com.au/story/9396499/spy-in-touch-with-china-during-affair-with-nvidia-chief/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "The fault lines threatening democracy",
-   "url": "https://www.livemint.com/opinion/columns/the-fault-lines-threatening-democracy-11795359705968.html",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Single - digit inflation : Nigeria test after 14 . 06 % October",
-   "url": "https://punchng.com/single-digit-test-of-dropping-inflation/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Is the AI Stock Market Boom Coming to an End ? ",
-   "url": "https://newsonjapan.com/article/151486.php",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US Army plans to invoke emergency provisions to detonate bomb - making chemicals in Iowa",
-   "url": "https://www.wyff4.com/article/des-moines-area-army-emergency-bomb-chemical-blast/74502722",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "FULL SPEECH | Carney roasts opposition , Trump at press gallery dinner",
-   "url": "https://www.cinaradio.com/2026/11/22/full-speech-carney-roasts-opposition-trump-at-press-gallery-dinner/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Spy in touch with China during affair with Nvidia chief",
-   "url": "https://www.naroomanewsonline.com.au/story/9396499/spy-in-touch-with-china-during-affair-with-nvidia-chief/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Thanksgiving turkeys arrive at Willard Hotel ahead of White House pardon",
-   "url": "https://upnorthlive.com/news/nation-world/thanksgiving-turkeys-arrive-willard-hotel-pardon-ceremony-president-donald-trump-white-house-south-lawn",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Poor Nancy Pelosi : Former speaker laments her villainhood status",
-   "url": "https://worldtribune.com/poor-nancy-pelosi-former-speaker-laments-her-villainhood-status/",
-   "ts": "20261123T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Pregnant workers could lose workplace protections after appeals court strikes down law",
-   "url": "https://www.fox5atlanta.com/news/pregnant-workers-workplace-protections-appeals-court",
-   "ts": "20261123T033000Z"
   }
  ]
 }

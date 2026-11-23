@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-23T01:16:02Z",
+ "ts": "2026-11-23T01:31:08Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -376,15 +377,15 @@
   },
   {
    "src": "gnews",
-   "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
-   "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks - ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzM5ZFZDbURpMG5EY0pPQXJONkRWeDJlaG1VWWE1S0diX3lNSFNqeExrdGt4QnFJSm9xdjZHUWEyQ3phdXIzNXhUcXJZako3aG9BR0RBZnlnSmQ2TG4yS3NFV1YxQ3Y1d1h2YVpaY2pYM2Fqd0x4TU85TXRNRGZud01icm1jaF9hV3VBc1dLRGFoQ010TUoyNGR2b25ZRTdjaV8yQk04RzJVR3Fu0gGyAUFVX3lxTE93czY5bjBIUldGbXZ0Vm91aXp5N1ZrWXlPemNxMllKaVRHcW1LcHBQN0RlYWtYallYMjVHemIwZmV1LVBRN0tmTjMtQjFNRFRtdk5IcEdZdHA1QmEyZUtqYkUwTGRvc01rRmU0QW40cHpzeERwajl2eC1XTXhXLWVidkJQUXJWWVZkb01TNG9QYTJiVGdyaWJwMlpoNWItZFNkZnFjRG11NmphMlVjNHN2VXc?oc=5",
    "ts": "Sat, 21 Nov 2026 19:36:53 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Carney says Trump’s trade war is giving China an edge on EVs - Politico",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
+   "ts": "Wed, 18 Nov 2026 17:24:00 GMT"
   },
   {
    "src": "gnews",
@@ -412,6 +413,12 @@
   },
   {
    "src": "gnews",
+   "title": "Top Democrat Tells Carney to Strike Trump Trade Deal Now - Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEZ2Q0NJdmpwcnJtaUVXWWdyXy1feDZ2UXJ1aDdpdUZLODEtZ01sSVUxbjZ3ZEwtckRhNlNJQUl5M0UyOFBqVkNpQTJCVWVYQkllYlhrX2pGVFo2bTB5UGduTjVTQUJqNVpFSUdrd240aG1zZFFlU210QlVRU2JnUHpxUVN2QU9wWnl1ZUtR?oc=5",
+   "ts": "Sat, 21 Nov 2026 14:19:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "APEC 2026 in Shenzhen: What the Leaders’ Meeting and Trump-Xi Talks Mean for Business - China Briefing",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOamxlU19pODktRktfNmluMUlTazBkS1B6RjlPRVZwUXZrbDVZOHJKUjlsMTlnOWVhbzFDenJqNHZ3dV9ULVBaSXlDSHhIZjdjMHNYaHNNWUhWcnBrbEo2LWxqVzBfYkxIWElKRHdHcndWMDNyWVVJdkQ5a0ZuVUh1dVdsTTNZNzYtQlpONDUtN096VVphamlJZGZ0ckZKal9xUXBuaFlpYnR4RThVYmlxSjluM3hzeVkwSmRtdg?oc=5",
    "ts": "Fri, 20 Nov 2026 10:18:58 GMT"
@@ -436,12 +443,6 @@
   },
   {
    "src": "gnews",
-   "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFM5M0lfajByTmNXWHhadkRCd19qQUJGU1FUM0ZUQnBXdVhDQU42NVF1X2RuUHJXUUt4QW41UWpnWS12aHNsX1JZU0RtSTBacFZTU0dncHpmOTRTLWJMbGRwY2pSeHFOTTI3dFFmcXJlRnQwcnRQSjlMSTh1a1pjdkRNQ1dCQlJlSGZPcXZQRk9MdUJBaWlUVFBzT2xCaUV2cUtQTXVCVVY0S0xDWFJEMQ?oc=5",
-   "ts": "Sun, 22 Nov 2026 00:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump says Board of Trade has brought 'greater balance' to US-China ties - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0VUY0prRXhtQVNrWEEyblJwRE5RdTk0ajdzSXBaNlJZcWF3YTNGbWFmMzdvSnJwWmc3ZS1ScHd4Q2tuVXA5SVJKbWFYNmxoSmdqT0VJM2FFS2Z1U3NYU0ZKbzRPSXhadEplSFQ1cDkyT1htZmdmRC1UTDgzQktfMXZqRDJiNnpTWnpHc1J2MThYazVyeTVpVFp5cW1PYTRzMjE5YnpkV0hlUQ?oc=5",
    "ts": "Thu, 19 Nov 2026 18:00:33 GMT"
@@ -457,126 +458,6 @@
    "title": "South Korea says China trade agreement to boost tourism, entertainment sectors - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
    "ts": "Wed, 18 Nov 2026 09:43:34 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "The collapse of UN climate talks , over fossil fuels , was years in the making",
-   "url": "https://www.wsls.com/news/world/2026/11/22/the-collapse-of-un-climate-talks-over-fossil-fuels-was-years-in-the-making/",
-   "ts": "20261123T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "newsroomamerica . com",
-   "url": "https://newsroomamerica.com/?before=123927",
-   "ts": "20261123T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "内塔尼亚胡被曝正考虑单独对伊朗动武",
-   "url": "https://world.qianlong.com/2026/1123/8754279.shtml",
-   "ts": "20261123T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Pregnant workers could lose workplace protections after appeals court strikes down law",
-   "url": "https://www.fox32chicago.com/news/pregnant-workers-workplace-protections-appeals-court",
-   "ts": "20261123T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "一周展望 ： 感恩节前数据扎堆 ， 10月核心PCE携美联储褐皮书拷问加息预期 ！ ",
-   "url": "https://stock.jrj.com.cn/2026/11/23074359227179.shtml",
-   "ts": "20261123T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "トランプ氏 、 イラン再攻撃に言及 交渉停滞でいら立ち｜山形新聞",
-   "url": "https://www.yamagata-np.jp/news_core/index_pr.php?kate=World&no=2026112301000142",
-   "ts": "20261123T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Русия не планира нови посланици във Великобритания и Франция",
-   "url": "https://news.bg/int-politics/rusiya-ne-planira-novi-poslanitsi-vav-velikobritaniya-i-frantsiya.html",
-   "ts": "20261123T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Says Working With Schumer Would Be Difficult",
-   "url": "https://newsradio967.iheart.com/content/2026-11-22-trump-says-working-with-schumer-would-be-difficult/",
-   "ts": "20261123T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ついに起きた 「 ブルーウエーブ 」… 薄霧が晴れたその先は アメリカ民主党は生まれ変われるのか ： 東京新聞デジタル",
-   "url": "https://www.tokyo-np.co.jp:443/article/529630",
-   "ts": "20261123T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "特朗普将美股蒸发6万亿美元归咎于民主党 ！ 贝森特却称抛售由多重因素推动",
-   "url": "https://stock.jrj.com.cn/2026/11/23074359227180.shtml",
-   "ts": "20261123T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Says Working With Schumer Would Be Difficult",
-   "url": "https://newsradio540.iheart.com/content/2026-11-22-trump-says-working-with-schumer-would-be-difficult/",
-   "ts": "20261123T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " 【 早报 】 稳股市  组合拳来了 ， 三项新政发布 ； 韩国已准备好立即部署市场稳定基金 _ 基金动态 _ 基金 _ 中金在线",
-   "url": "http://fund.cnfol.com/jijindongtai/20261123/32429333.shtml",
-   "ts": "20261123T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Let weigh the cons and pros of this market to find a way forward",
-   "url": "https://www.cnbc.com/investingclub/2026/11/22/lets-weigh-the-cons-and-pros-of-this-market-to-find-a-way-forward.html",
-   "ts": "20261123T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Appeals court says federal law requiring accommodations for pregnant workers is unconstitutional",
-   "url": "https://www.clickondetroit.com/business/2026/11/22/appeals-court-says-federal-law-requiring-accommodations-for-pregnant-workers-is-unconstitutional/",
-   "ts": "20261123T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Says Working With Schumer Would Be Difficult",
-   "url": "https://1190talkradio.iheart.com/content/2026-11-22-trump-says-working-with-schumer-would-be-difficult/",
-   "ts": "20261123T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Donald Trump hosts third meme coin gala as token value plunges below $1",
-   "url": "http://www.jpost.com/international/article-915759",
-   "ts": "20261123T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "The collapse of UN climate talks , over fossil fuels , was years in the making",
-   "url": "https://www.clickondetroit.com/news/world/2026/11/22/the-collapse-of-un-climate-talks-over-fossil-fuels-was-years-in-the-making/",
-   "ts": "20261123T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Europe Laments - The COP31 Global Climate Change Assembly Ends Without a Draft Agreement",
-   "url": "https://theconservativetreehouse.com/blog/2026/11/22/europe-laments-the-cop31-global-climate-change-assembly-ends-without-a-draft-agreement/",
-   "ts": "20261123T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US Democrats clinch historic majority of House seats",
-   "url": "https://www.illawarramercury.com.au/story/9396114/us-democrats-clinch-historic-majority-of-house-seats/",
-   "ts": "20261123T003000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "8点1氪丨黄仁勋遭董事会罢免主要原因曝光 ； 零跑汽车回应  A10后备厢被几箱啤酒压穿底 ； PS5 Pro涨至1 . 6万元|安本正义|埃隆 _ 马斯克",
-   "url": "https://www.163.com/dy/article/LCDG8BH005118DFD.html",
-   "ts": "20261123T003000Z"
   }
  ]
 }

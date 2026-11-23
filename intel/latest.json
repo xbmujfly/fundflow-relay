@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-23T06:01:09Z",
+ "ts": "2026-11-23T06:16:03Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -347,15 +347,15 @@
   },
   {
    "src": "gnews",
-   "title": "Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFZzdnVBMkZsMW5oa0gzM2NSakFMYWVkQ2U3bVdKQU9rdUh2eG1QTENaWTQ1RlhJTFUxNl9CR1VkM1JzRU5Vd1N4Qzg0ajNKZTEwdVctTG0wQ3IwNkdETTlsLUlCcl80YzZGc3lmTlVMNHlEZEJITXpfclNZb2lWTmxjR0VpZWVzMW9DcXBhLVZpZG1kZEQxUUN4VjFXOHByN1NHUFd5X3pPcWVSVV9r?oc=5",
-   "ts": "Sun, 22 Nov 2026 23:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump touts Asia trade deal wins, but US agricultural exports disappoint - Reuters",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX1NxamhacExiOUlPV3RKN2RGTmNzN2gySzZ1Wnl5d0xEUjdud1IyRE5aTk5sUWZRUzRDLTdjblQ0MmNWa1B3Nld0RGhRbDZqbEpfWkpFWlhwOUhPeTJqVkxvNkhReU9iaUlabjJfeVFnNFVrem14RGRVdG9EZHhxcVNFd1dhTkJBR3ljdzZmejE3TkY3bE1zZGJRTG5DRGFTS3k3SDJpRGZWWkdIcTBoYkNB?oc=5",
    "ts": "Fri, 20 Nov 2026 12:32:09 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFZzdnVBMkZsMW5oa0gzM2NSakFMYWVkQ2U3bVdKQU9rdUh2eG1QTENaWTQ1RlhJTFUxNl9CR1VkM1JzRU5Vd1N4Qzg0ajNKZTEwdVctTG0wQ3IwNkdETTlsLUlCcl80YzZGc3lmTlVMNHlEZEJITXpfclNZb2lWTmxjR0VpZWVzMW9DcXBhLVZpZG1kZEQxUUN4VjFXOHByN1NHUFd5X3pPcWVSVV9r?oc=5",
+   "ts": "Sun, 22 Nov 2026 23:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -371,6 +371,12 @@
   },
   {
    "src": "gnews",
+   "title": "Taiwan warns Canada against deeper China trade ties as Carney seeks to diversify - Euronews",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMWFZemNXU2VySklHdnJkMmlxR2czZUxVWVZkbFpleTBOd3Naa3lIVGRYZlh4MmpESHB5OTlJQUU5RWQ0ZUIwQ0NFTVRvd1dGdlpZYUtKNW9uWjVtWml2MzZrZ0pYZUlrcTM4NHYxMmpzbV9KQnlkT2YwUld0ei15dC1FWE5sWVJ2ay1kLWpoZ2wwN2Q1eFBUOFNaT0dUZTllUjJyRm9rRmF4bjZyZkJxYVVoempJNVU?oc=5",
+   "ts": "Mon, 23 Nov 2026 05:27:13 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "How Carney’s Shift Toward China Could Become Leverage in Stalled U.S. Trade Talks - Time Magazine",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMExCZjI3M2txVy1tMm90TTg5VmpnTWtoUUxGZFN4OTRoSHN3OUNYQXp6QUJjR2lEa0pJNE5EeFJ3Qkxad0E0NlIwMHhmWUhCTjRYVV9BeGQ2UGQwU1JpYzgycDh5YTZtY3N1dUdwSGJKUTJzWWtPMGt5YXBicVhrekxYTjdfNER0V1RybC1GcjZYOXMtRkhGenBLOHBLMGh0NlE?oc=5",
    "ts": "Fri, 20 Nov 2026 20:59:33 GMT"
@@ -383,21 +389,15 @@
   },
   {
    "src": "gnews",
-   "title": "Kazakhstan Handles 84% of China-Central Asia Freight as Regional Trade Nearly Triples - The Astana Times",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNajMxMElwYW43dTFKX0cyOTFwOHgtcXBoSXhfRk1hODBibUpaMTZ3VmYzQ2dwYzZjN0RNZnhHZUxqQUpSLVNBQ0R1a2NRMnNIeHp5LUxwVUpDdlphMFpfQkxGLXhKVnVIYmlQWW1jUkU3NXU5Z2Q5MEtZa1p5TTZ0RkhlQUFYZmJseHlwZFo5WlMyTDhZenVtZEVITnBZOWxUaTZXaEp2N0k3cGs2YWZPSS1jMl9wRnJy?oc=5",
-   "ts": "Mon, 23 Nov 2026 04:51:04 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks - ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzM5ZFZDbURpMG5EY0pPQXJONkRWeDJlaG1VWWE1S0diX3lNSFNqeExrdGt4QnFJSm9xdjZHUWEyQ3phdXIzNXhUcXJZako3aG9BR0RBZnlnSmQ2TG4yS3NFV1YxQ3Y1d1h2YVpaY2pYM2Fqd0x4TU85TXRNRGZud01icm1jaF9hV3VBc1dLRGFoQ010TUoyNGR2b25ZRTdjaV8yQk04RzJVR3Fu0gGyAUFVX3lxTE93czY5bjBIUldGbXZ0Vm91aXp5N1ZrWXlPemNxMllKaVRHcW1LcHBQN0RlYWtYallYMjVHemIwZmV1LVBRN0tmTjMtQjFNRFRtdk5IcEdZdHA1QmEyZUtqYkUwTGRvc01rRmU0QW40cHpzeERwajl2eC1XTXhXLWVidkJQUXJWWVZkb01TNG9QYTJiVGdyaWJwMlpoNWItZFNkZnFjRG11NmphMlVjNHN2VXc?oc=5",
    "ts": "Sat, 21 Nov 2026 19:36:53 GMT"
   },
   {
    "src": "gnews",
-   "title": "Taiwan warns Canada against deeper China trade ties as Carney seeks to diversify - Euronews",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMWFZemNXU2VySklHdnJkMmlxR2czZUxVWVZkbFpleTBOd3Naa3lIVGRYZlh4MmpESHB5OTlJQUU5RWQ0ZUIwQ0NFTVRvd1dGdlpZYUtKNW9uWjVtWml2MzZrZ0pYZUlrcTM4NHYxMmpzbV9KQnlkT2YwUld0ei15dC1FWE5sWVJ2ay1kLWpoZ2wwN2Q1eFBUOFNaT0dUZTllUjJyRm9rRmF4bjZyZkJxYVVoempJNVU?oc=5",
-   "ts": "Mon, 23 Nov 2026 05:27:13 GMT"
+   "title": "Kazakhstan Handles 84% of China-Central Asia Freight as Regional Trade Nearly Triples - The Astana Times",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNajMxMElwYW43dTFKX0cyOTFwOHgtcXBoSXhfRk1hODBibUpaMTZ3VmYzQ2dwYzZjN0RNZnhHZUxqQUpSLVNBQ0R1a2NRMnNIeHp5LUxwVUpDdlphMFpfQkxGLXhKVnVIYmlQWW1jUkU3NXU5Z2Q5MEtZa1p5TTZ0RkhlQUFYZmJseHlwZFo5WlMyTDhZenVtZEVITnBZOWxUaTZXaEp2N0k3cGs2YWZPSS1jMl9wRnJy?oc=5",
+   "ts": "Mon, 23 Nov 2026 04:51:04 GMT"
   },
   {
    "src": "gnews",
@@ -437,9 +437,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump says Board of Trade has brought 'greater balance' to US-China ties - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0VUY0prRXhtQVNrWEEyblJwRE5RdTk0ajdzSXBaNlJZcWF3YTNGbWFmMzdvSnJwWmc3ZS1ScHd4Q2tuVXA5SVJKbWFYNmxoSmdqT0VJM2FFS2Z1U3NYU0ZKbzRPSXhadEplSFQ1cDkyT1htZmdmRC1UTDgzQktfMXZqRDJiNnpTWnpHc1J2MThYazVyeTVpVFp5cW1PYTRzMjE5YnpkV0hlUQ?oc=5",
-   "ts": "Thu, 19 Nov 2026 18:00:33 GMT"
+   "title": "Chinese exchanges ease margin trading requirements to aid stock markets - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVHZKRlQ0Y0pzZDRaTzJIdHRfX2dkZkVVUUh4YXotTkpLQTdrQ0NPTzVXTzVjczF2aUdKYTRtTHg5Wl9GLU1VbjFkREJ0bXY5S2RDdXphbnowRFdsUldyVGZsZFVIY1N0VTg0Q3RYOWp6TDVlb2lhOEhpM3M2d1NFZDhtdExWcERBS3BmVFNiVEprV0swRWhORV94MG1rcWhYUGpEQnR5akI5cXN0ZEhr?oc=5",
+   "ts": "Sun, 22 Nov 2026 13:09:00 GMT"
   },
   {
    "src": "gnews",
@@ -449,9 +449,9 @@
   },
   {
    "src": "gnews",
-   "title": "Chinese exchanges ease margin trading requirements to aid stock markets - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVHZKRlQ0Y0pzZDRaTzJIdHRfX2dkZkVVUUh4YXotTkpLQTdrQ0NPTzVXTzVjczF2aUdKYTRtTHg5Wl9GLU1VbjFkREJ0bXY5S2RDdXphbnowRFdsUldyVGZsZFVIY1N0VTg0Q3RYOWp6TDVlb2lhOEhpM3M2d1NFZDhtdExWcERBS3BmVFNiVEprV0swRWhORV94MG1rcWhYUGpEQnR5akI5cXN0ZEhr?oc=5",
-   "ts": "Sun, 22 Nov 2026 13:09:00 GMT"
+   "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFM5M0lfajByTmNXWHhadkRCd19qQUJGU1FUM0ZUQnBXdVhDQU42NVF1X2RuUHJXUUt4QW41UWpnWS12aHNsX1JZU0RtSTBacFZTU0dncHpmOTRTLWJMbGRwY2pSeHFOTTI3dFFmcXJlRnQwcnRQSjlMSTh1a1pjdkRNQ1dCQlJlSGZPcXZQRk9MdUJBaWlUVFBzT2xCaUV2cUtQTXVCVVY0S0xDWFJEMQ?oc=5",
+   "ts": "Sun, 22 Nov 2026 00:00:00 GMT"
   },
   {
    "src": "gnews",

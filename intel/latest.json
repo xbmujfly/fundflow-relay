@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-24T08:45:58Z",
+ "ts": "2026-11-24T09:01:10Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -370,27 +371,27 @@
   },
   {
    "src": "gnews",
+   "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
+   "ts": "Fri, 20 Nov 2026 13:16:47 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Optical Transceiver Trade Restrictions Won’t Solve America’s China Dependency | Blogs | Nov 23, 2026 - Information Technology and Innovation Foundation",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY25Ra3RFb0J0Y3k1QnRUeTYxdXRPQ0FFeGFQYWlfVXpzcVBpdWtjVzI4UG80ZkxkRUtReXVEUktQLWJEb2xyRGtqVG9STzVIOTNPMVo4STRHZHpEYnh4ZGpwVWJsWHhraG1QeEhDVEdQRldUb1o2dmZqeWo1dkRPY2p1TzE3dkRtSVJIT1pVSzVPbFdfVTgyS0N6Wmt2dnlJc0FnM1NVSWR4aldLcXNIZEdpT2xhVGdrRFBj?oc=5",
    "ts": "Mon, 23 Nov 2026 20:56:21 GMT"
   },
   {
    "src": "gnews",
+   "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
+   "ts": "Tue, 24 Nov 2026 05:39:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "How Value-Added in Trade Complicates the Tariff Picture - Tax Foundation",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jOVZQT0lvQ1ljTFRpa0trX0tuRXpNc1ZIUGk4VFcxYmpGcEZPdTdXOGJzdnVtdldMSjRWS3A1YVRzMUpDb0lOTzZVLUlpS2pQSnZCX3NLYlZvMGE2dUd1N2tEckNQTHVqbVVyY2lqZWlzZ1BnOW1IQTlR?oc=5",
    "ts": "Mon, 23 Nov 2026 18:48:19 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
-   "ts": "Tue, 24 Nov 2026 04:17:14 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
-   "ts": "Fri, 20 Nov 2026 13:16:47 GMT"
   },
   {
    "src": "gnews",
@@ -412,9 +413,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump and Newsom clash over California death penalty and presidential pardons - Sacramento Bee",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81WWI4V3FrdkFIcTd6T192eHlPZEpLbWU3STlQRTI1VEY2ek1qYW05akRNVkZESGNOVnROQnpMTjlubGRkQ28wZW1pclF1SS1RSURXS1RwMVNLdlpLbXk1Nm9EdFp3aE3SAWdBVV95cUxQeTJLMnZKRFZ2WkdWZkFIcnkzR0tIZ2RGcU9rWGUxTFUweXBXV18xaFh6M01lQkI5UDRxOS0xQk10QlVnMmduQXFaWWRHd3lwbzJYc0VVa19reWtYTmNDUHl6Wjk5R2xF?oc=5",
-   "ts": "Mon, 23 Nov 2026 23:58:40 GMT"
+   "title": "Trump Puts a Floor Under AI Trade With Push for Huang’s Return - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdE1JTGhDNm9rQ2pIaGh6SGx4X0hkbWlTTHk1OEtRN2NrMDlPSFdHQkIwUDIzZFVTaDVnTnJXcERReF9vRVhHcHl3YnA3VEwwcGV3NEd2N0VWRHExSEczM0Y5dFRGZGFwOExDTFY3T0g5ZVVQV3RtSE9vYWxWWkM5NW0yRWdxSlZFYkJxWXVGcjFPVEZmVTMxcngtS3hXSXVrUFhjTmtzWW4wd2VxZHZoeklqUQ?oc=5",
+   "ts": "Mon, 23 Nov 2026 21:29:12 GMT"
   },
   {
    "src": "gnews",
@@ -430,15 +431,21 @@
   },
   {
    "src": "gnews",
-   "title": "Trump thinks China will buy another 250 Boeing airplanes - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVTRDX1g3YlY5UEgxMzJ3OTdhU0VUdU1ubmRRXzZwaDVibmRycVllN2hQSUhyeEFfNWpwc1VWQ1hKR3NSeTVmZHpSQ1hLeW5pUFpoNW15MGljX1BXUkdRX0hxeEdUMzkyNFVFYzlpb2ZNN09IN1FDXzIxblBEVjgtS3hlNTZRcnRWN2ZQOW8tYmtKeXlwTDI0bW9rSXpJZ2cxcU9wazcyMGZ1RFFaM01SRUd3QkYwN000dVFJ?oc=5",
-   "ts": "Mon, 23 Nov 2026 17:44:34 GMT"
+   "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
+   "ts": "Tue, 17 Nov 2026 23:01:15 GMT"
   },
   {
    "src": "gnews",
    "title": "‘Trump put’ revived the AI trade. What’s this investor’s next big bet? - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHBuZF9wdFVNOThUM3V3eVh0dF9vODJvMElybzRnMDNnQTdnWjY3XzJKVW1YOGdxaUphMVpNUktHdGZ0X29oX2VUakFDVUZpS0E0SzBUOU9mMVNRRTFoMk43dG5PSTFUUHhraWZDY3gwOEhBY0NoNThBR211eDFndy1NZURhV0FERDNBUF9jc19tSGplWkZ1ckVqYzNKUi1MR1JWdG5SdU5rTms?oc=5",
    "ts": "Tue, 24 Nov 2026 06:36:56 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump thinks China will buy another 250 Boeing airplanes - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVTRDX1g3YlY5UEgxMzJ3OTdhU0VUdU1ubmRRXzZwaDVibmRycVllN2hQSUhyeEFfNWpwc1VWQ1hKR3NSeTVmZHpSQ1hLeW5pUFpoNW15MGljX1BXUkdRX0hxeEdUMzkyNFVFYzlpb2ZNN09IN1FDXzIxblBEVjgtS3hlNTZRcnRWN2ZQOW8tYmtKeXlwTDI0bW9rSXpJZ2cxcU9wazcyMGZ1RFFaM01SRUd3QkYwN000dVFJ?oc=5",
+   "ts": "Mon, 23 Nov 2026 17:44:34 GMT"
   },
   {
    "src": "gnews",
@@ -451,132 +458,6 @@
    "title": "We can't be sure that chip trade will be open to China: BofA - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWU5yR3piRU9NOURReXRPUnNfY3dtR1VwdDF0VlBnb3dienZfZ0Q2NUdvZERXemE4ZDBRZmctZkxTTU5EWDhpc1ZrXzVZX0tBWENJY296bUNBV3FCOGE3RFAxRm5MeXVJTHJTRDJoYlhsQlJDRWZaWFFaaHZuOHFPTk9zR0ZGTWo2NTZHTTVHMGxNRVlQQld1Q3VfbXJ0UURsVFNOaklJRGxINFl1dko1YWZXcw?oc=5",
    "ts": "Tue, 24 Nov 2026 03:28:05 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
-   "ts": "Tue, 17 Nov 2026 23:01:15 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "逸语道破 ： 黄仁勋复职 ， 然后呢 ？ 有两个重要观察窗口",
-   "url": "https://www.163.com/dy/article/LCGQ1210051481US.html",
-   "ts": "20261124T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Чего ожидать от Трампа после выборов ? Европа должна быть готова к его выходкам из - за уязвленного тщеславия ( Lidovky , Чехия ) ",
-   "url": "https://inosmi.ru/20261124/tramp-281355107.html",
-   "ts": "20261124T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "खानेपानी पूर्वाधार निर्माणमा रत्ननगर",
-   "url": "https://www.gorkhapatraonline.com/news/230196",
-   "ts": "20261124T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "TRUMP 币腰斩 99 % 后 ， 特朗普邀顶级持有者晚宴",
-   "url": "https://www.163.com/dy/article/LCGQGIVL05198UNI.html",
-   "ts": "20261124T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "马来西亚总理 ： 中国从未向我们施压 ， 与中国打交道比与美国更容易",
-   "url": "https://news.ifeng.com/c/8yJVy25fOP4",
-   "ts": "20261124T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Asian stocks rally after Wall Street rebound as Jensen Huang returns as Nvidia CEO",
-   "url": "https://mymotherlode.com/news/national/11335708/asian-stocks-rally-after-wall-street-rebound-as-jensen-huang-returns-as-nvidias-ceo.html",
-   "ts": "20261124T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Elezioni , Carmelo Burgio :  Via Area B e C a Milano , mezzi più economici e stretta sui biglietti  ",
-   "url": "https://www.milanotoday.it/politica/elezioni-comunali-2027/carmelo-burgio-triennale-programma-area-c-b.html",
-   "ts": "20261124T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "32 مليار دولار في يوم واحد .. قفزة جنونية في ثروة مؤسس إنفيديا",
-   "url": "https://www.albayan.ae/economy/business/companies/1567271",
-   "ts": "20261124T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump to offer Thanksgiving pardons for turkeys Freedom and Feather at the White House",
-   "url": "https://www.wfmz.com/news/trump-to-offer-thanksgiving-pardons-for-turkeys-freedom-and-feather-at-the-white-house/article_f8204289-9e71-5890-92f2-82344824647c.html",
-   "ts": "20261124T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US recession fears rise as falling household wealth and market turmoil point to 25 % risk : Report",
-   "url": "http://www.greekherald.com/news/279451643/us-recession-fears-rise-as-falling-household-wealth-and-market-turmoil-point-to-25-risk-report",
-   "ts": "20261124T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "워터게이트 특종 기자  트럼프 , 닉슨보다 훨씬 나쁘다  ",
-   "url": "https://ichannela.com/news/detail/000000561430.do",
-   "ts": "20261124T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  GTA 6 खेलने के लिए दिया था इस्तीफा , एनवीडिया में जेनसन हुआंग की वापसी को लेकर इंटरनेट पर आई मीम्स की बाढ़ - jensen huang gta 6 internet best memes cheering the nvidia ceo comeback",
-   "url": "https://www.jagran.com/world/america-jensen-huang-gta-6-internet-best-memes-cheering-the-nvidia-ceo-comeback-40446649.html",
-   "ts": "20261124T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Σκάνδαλο Nvidia : Η επιστροφή του Τζένσεν Χουάνγκ ως επίδειξη ισχύος από τον Τραμπ – Το παρασκήνιο και τα αναπάντητα ερωτήματα",
-   "url": "https://www.inewsgr.com/97/skandalo-Nvidia-i-epistrofi-tou-tzensen-chouangk-os-epideixi-ischyos-apo-ton-trab--to-paraskinio-kai-ta-anapantita-erotimata.htm",
-   "ts": "20261124T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Nvidia comeback bet : Why Jensen Huang return calmed markets , for now",
-   "url": "https://www.stcatharinesstandard.ca/business/nvidia-s-comeback-bet-why-jensen-huang-s-return-calmed-markets-for-now/article_ce5a14e5-645b-5fd6-a212-35bbe422cfd9.html",
-   "ts": "20261124T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "अलपत्र सडकको काम थालिने",
-   "url": "https://www.gorkhapatraonline.com/news/230194",
-   "ts": "20261124T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "До января еще далеко , а Вэнсом уже занялись : в Сенате проверят его чистую совесть",
-   "url": "https://www.9tv.co.il/item/309105",
-   "ts": "20261124T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Контуры великого поворота ? ( Myśl Polska , Польша ) ",
-   "url": "https://inosmi.ru/20261124/rossiya_ssha-281349772.html",
-   "ts": "20261124T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "LendingUSA 联手 Cross River 推 25 万刀 BTC 贷",
-   "url": "https://www.163.com/dy/article/LCGQGJ4M05198UNI.html",
-   "ts": "20261124T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Federal judges in Colorado are fed up with ICE re - arresting the same immigrants",
-   "url": "https://www.interlochenpublicradio.org/2026-11-23/federal-judges-in-colorado-are-fed-up-with-ice-re-arresting-the-same-immigrants",
-   "ts": "20261124T074500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Rain clears but flood risk remains high after storms swamp Southwest",
-   "url": "https://www.coloradohometownweekly.com/2026/11/02/extreme-weather-southwest-flooding/",
-   "ts": "20261124T074500Z"
   }
  ]
 }

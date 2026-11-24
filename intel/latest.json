@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-24T00:15:55Z",
+ "ts": "2026-11-24T00:30:58Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -395,6 +394,12 @@
   },
   {
    "src": "gnews",
+   "title": "Trump and Newsom clash over California death penalty and presidential pardons - Sacramento Bee",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81WWI4V3FrdkFIcTd6T192eHlPZEpLbWU3STlQRTI1VEY2ek1qYW05akRNVkZESGNOVnROQnpMTjlubGRkQ28wZW1pclF1SS1RSURXS1RwMVNLdlpLbXk1Nm9EdFp3aE3SAWdBVV95cUxQeTJLMnZKRFZ2WkdWZkFIcnkzR0tIZ2RGcU9rWGUxTFUweXBXV18xaFh6M01lQkI5UDRxOS0xQk10QlVnMmduQXFaWWRHd3lwbzJYc0VVa19reWtYTmNDUHl6Wjk5R2xF?oc=5",
+   "ts": "Mon, 23 Nov 2026 23:58:40 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Mexico and China Set Up Working Group to Boost Trade and Expand Mexican Exports - The China-Global South Project",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmYwejlrZDhGQXFCQm0zWmQ1RkxPVHlzNlIzUVJHU0JYVnZEY1ZrajZQNFVKWUtqbEM0dHFHcmdsb2xFXzF2WEpLcEVvNG5SWUJfUzJtNURLbzBaaTJQakVRb3J6d2YtQTVvSFZ6NUFFdnpxYkZLS1NPdlVJX3VCNEljR3VWbGQyUUg4NmFJSEFRRm9XQlZ0RmVGcw?oc=5",
    "ts": "Mon, 23 Nov 2026 18:02:05 GMT"
@@ -416,12 +421,6 @@
    "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner - BBC",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mTWVNVnJqN0QzRHlBbnBNMEpZY3IyblBXQjQwczFhU3d0U2pOTnJBa2UzNnA4T0NmRHM0SVd3YXBnQWVEd3VDM1M0M2xfQjlTaktBZUVGRXQtZnc?oc=5",
    "ts": "Mon, 23 Nov 2026 17:14:50 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump impersonator joins Canadian PM. Here's the latest on the trade war - USA Today",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWHBwUm5fRzNaeklPVWpKcUd2TnNIS2hxcUR5VTMzV1NNR1c4aEttM29vQlYzM0U4dmx4YTAtTVFvekZzTVprY0RYQ1l5RGRZQTAwLUROWklqWElzM3Q1X0lFSnBHbW94TUhwd0k0bnVaNDF2dFlXTE5TTWJKSTBMbEx5UjBESWFfZGlKRTcwZnRIQ1RvaFk5WG9SNktJOUpzTGNPUFFQa2NsRUZfeml4cGU1UQ?oc=5",
-   "ts": "Mon, 23 Nov 2026 20:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +457,126 @@
    "title": "China calls on Switzerland to help resolve EU trade rift, oppose 'Taiwan independence' - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU0pwbkJPVTFZbU1zXzlVRlVjc3ljalJncnFvMS03d2REeGJzMG1kZDBRUFYzaVdUSDg5b0ptenlScXhFWGhIdHVmT0dybWtPN2RrWVMybUdKV3VzNENMemtuX1JpRVg1WURkTjJzUTM2d242SHJueGVxR3F5OUctMnJHeUxSOHQ2Z1o3UDVmMUV0U0w4RUlOdllFdTl2SjJvUnFTc3J6NEVzclgwVUZMaXFWSVVtMnZkNFVteElaUUFuSWs?oc=5",
    "ts": "Mon, 23 Nov 2026 09:53:43 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Washoe County Republican chair opposes Rosen bill to limit ICE at airports",
+   "url": "https://www.kolotv.com/2026/11/23/washoe-county-republican-chair-opposes-rosen-bill-limit-ice-airports/",
+   "ts": "20261123T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  Outrageous ,  reckless ,  wow : Here what politicians are saying about Jensen Huang return to Nvidia",
+   "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+   "ts": "20261123T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company HQ",
+   "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+   "ts": "20261123T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Iowa lead detonation : Potential health and environmental impacts – NBC Chicago",
+   "url": "https://www.nbcchicago.com/news/local/potential-health-and-environmental-impacts-of-the-iowa-lead-detonation/4020404/",
+   "ts": "20261123T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Enerji güvenliğinde öncelik : tasfiyedeki 131 fonda bakanlığın parası yok",
+   "url": "http://www.haberport.com/haber/enerji-guvenliginde-oncelik-tasfiyedeki-131-fonda-bakanligin-parasi-yok/75158",
+   "ts": "20261123T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "北朝鮮 、 高市政権の動向探る意図か ： 時事ドットコム",
+   "url": "https://www.jiji.com/jc/article?k=2026112300310&g=int",
+   "ts": "20261123T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Nvidia : To παρασκήνιο της παρέμβασης Τραμπ για τη « διάσωση » του Χουάνγκ",
+   "url": "https://kathimerini.com.cy/gr/kosmos/nvidia-to-paraskinio-tis-parembasis-tramp-gia-ti-diasosi-toy-xoyangk",
+   "ts": "20261123T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Documents In Search Ilhan Omar Home To Be Released",
+   "url": "https://945wpti.iheart.com/content/2026-11-23-documents-in-search-ilhan-omars-home-to-be-released/",
+   "ts": "20261123T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump claims credit as Jensen Huang returns to Nvidia",
+   "url": "https://www.kzyx.org/npr-news/2026-11-23/trump-claims-credit-as-jensen-huang-returns-to-nvidia",
+   "ts": "20261123T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "IMO faces tough compromise on shipping emissions rules amid US opposition | Hellenic Shipping News Worldwide",
+   "url": "https://www.hellenicshippingnews.com/imo-faces-tough-compromise-on-shipping-emissions-rules-amid-us-opposition/",
+   "ts": "20261123T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Im Sure Jensen Huang Reinstatement Has Nothing to Do with His $25 Million Donation to Trump Ballroom",
+   "url": "https://www.esquire.com/news-politics/politics/a74510795/jensen-huang-nvidia-trump/",
+   "ts": "20261123T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Άξονας της κακεντρέχειας : Κίνα , Ρωσία , Ιράν , Β . Κορέα",
+   "url": "https://sofokleous10.gr/2026/11/24/axonas-kakentrecheias-kina-rosia-iran-voreia-korea-senzen/",
+   "ts": "20261123T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "НАТО чи  щось подібне . У Вашингтоні та Берліні реагують на пропозицію Кушнера",
+   "url": "https://www.holosameryky.com/a/8227026.html",
+   "ts": "20261123T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump orders the Army not to detonate bomb - making chemicals in Iowa without court approval",
+   "url": "https://www.journalgazette.net/news/national/trump-orders-the-army-not-to-detonate-bomb-making-chemicals-in-iowa-without-court-approval/article_7698a96c-2eaf-59ef-bc65-fb76ed80c764.html",
+   "ts": "20261123T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Εκρηκτικό ράλι στην Wall Street μετά το comeback του Χουάνγκ - Κέρδη για S & P 500 και Nasdaq",
+   "url": "https://www.iefimerida.gr/oikonomia/ekriktiko-rali-stin-wall-street-meta-comeback-toy-hoyangk-kerdi-gia-sp-500-kai-nasdaq",
+   "ts": "20261123T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Documents In Search Ilhan Omar Home To Be Released",
+   "url": "https://wmrn.iheart.com/content/2026-11-23-documents-in-search-ilhan-omars-home-to-be-released/",
+   "ts": "20261123T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Reportedly Joined NVIDIA Board Call and Convinced Directors to Reinstate Jensen Huang",
+   "url": "https://www.ibtimes.co.uk/trump-helped-nvidia-reinstate-jensen-huang-1834216",
+   "ts": "20261123T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Federal appeals court gives President Donald Trump a path to erasing hush money conviction",
+   "url": "https://www.durangoherald.com/articles/associated-press/federal-appeals-court-gives-president-donald-trump-a-path-to-erasing-hush-money-conviction/",
+   "ts": "20261123T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Crispin Hull | What the Shenzhen summit photo says about Xi , Trump and Putin | The Examiner",
+   "url": "https://www.examiner.com.au/story/9396229/crispin-hull-what-the-shenzhen-summit-photo-says-about-xi-trump-and-putin/",
+   "ts": "20261123T223000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Wind sails , e - methanol and a stalled global deal : Can hard - to - decarbonise shipping go green ? ",
+   "url": "https://www.hellenicshippingnews.com/wind-sails-e-methanol-and-a-stalled-global-deal-can-hard-to-decarbonise-shipping-go-green/",
+   "ts": "20261123T223000Z"
   }
  ]
 }

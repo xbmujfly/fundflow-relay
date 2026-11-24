@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-24T03:15:56Z",
+ "ts": "2026-11-24T03:31:02Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -424,15 +425,15 @@
   },
   {
    "src": "gnews",
-   "title": "Tariff-ied! – Temporary Importation Under Bond: What Importers Need to Know - The National Law Review",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcFBOMWxTaURmQWVsZ213WnA4d0RJSHZianJ3TTg1cVRYU1RvcGM1clpwcFU0eC1hWTRsV2EwMEVSRFE2cjdxSWl3WENuYWd2SnRVU0F0MWZDM3BLYkJZb0FYQzFlWFFnYmFiTWlkc3E1YW9FcTluYk5uNzRiTFdNU0h2ampMTVdHcW9saFh6cHBBQXdkazFqMG1nUTVZUVBqSmJR0gGoAUFVX3lxTE5jRFdESlU0bjg5amtGUEZhcEVKbjlkWnJZSkRJUG9BdWNCTmxjVjBGZk5pWGFlSlRKLWhZbUYtY0dsdncybjI4Zno1Yk5IMURmWFBrdjlId2VFNHpmeGVtM0dGRU1TdkZ4TVlJTG51cEZzOXllb0NDcU53Rzd0WElJQnR2NXlMUF9ucVRYNEF4cGFyTFg3UzY5MUZrUVFHM3hTTVdpOEs4OQ?oc=5",
-   "ts": "Mon, 23 Nov 2026 21:07:07 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Farm Bureau’s Houston: China Clarity, North American Trade Top Farm Country’s Wish List - American Ag Network",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVmhvb0lLQ3VfaHg1VWwxb2FjWWlUUUlnSHNyRm92bDctMWxUR2R5dXlzTG9YWkVxZmF2eG1zQk5NanBFM0J4VGRqMWhySmF3c2VtY0c5X3VQRWh1RnJrM2t1VXVYYWZuSGV3N1ZsVFo2TTE2SElQX1hNZHl2WndYaF83MldlcVIxSjI0bTBjZldyeHlUeTgtTFZ5VGFpQXJoMHZhVGp1azdQalpPVTJISjdYR1RBUlR1UXZ0bUpIWjNSd2pPYTFMWQ?oc=5",
    "ts": "Mon, 23 Nov 2026 21:15:50 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Tariff-ied! – Temporary Importation Under Bond: What Importers Need to Know - The National Law Review",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcFBOMWxTaURmQWVsZ213WnA4d0RJSHZianJ3TTg1cVRYU1RvcGM1clpwcFU0eC1hWTRsV2EwMEVSRFE2cjdxSWl3WENuYWd2SnRVU0F0MWZDM3BLYkJZb0FYQzFlWFFnYmFiTWlkc3E1YW9FcTluYk5uNzRiTFdNU0h2ampMTVdHcW9saFh6cHBBQXdkazFqMG1nUTVZUVBqSmJR0gGoAUFVX3lxTE5jRFdESlU0bjg5amtGUEZhcEVKbjlkWnJZSkRJUG9BdWNCTmxjVjBGZk5pWGFlSlRKLWhZbUYtY0dsdncybjI4Zno1Yk5IMURmWFBrdjlId2VFNHpmeGVtM0dGRU1TdkZ4TVlJTG51cEZzOXllb0NDcU53Rzd0WElJQnR2NXlMUF9ucVRYNEF4cGFyTFg3UzY5MUZrUVFHM3hTTVdpOEs4OQ?oc=5",
+   "ts": "Mon, 23 Nov 2026 21:07:07 GMT"
   },
   {
    "src": "gnews",
@@ -448,135 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Legislative Update: China, Clothing, Enforcement, Semiconductors, Exports, Product Safety - Sandler, Travis & Rosenberg, P.A.",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQXFKcHM1MzBmczFMcVdMaXhFc2w2UHJHOXF5cTMzM0RBMElvdWtFVW5rR1JlUE1PVDlraEsxMXlwNHBBcmF5b3Q3ZHF5R0ZEQmFSbW84c2J4RU9xX0lFR0QwQUVRd2ZGbTJXQnQyWmpGd1BtdVh1ZEZUaWhNeFVNY0I4cjVoS2xfZ1VHM1FzYVg1OFJJcldvd0dwVVE0alNKTGlmUFhndG80Z293NnJhbmQ3MUJsNGFwQ2hDNEY5dUZuQno0RWtmZWlzOGt1aTdEdDZQNEFxUFZhSnpzcURZcHYtMWlxZmhzcEtj?oc=5",
-   "ts": "Mon, 23 Nov 2026 18:04:16 GMT"
+   "title": "Jensen Huang’s stunning return in 11 days – 5 key takeaways - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZU90YVhSdXM1WkZmdEYzbXNKYmRfc08wOW5vZmhWRGZtUGdRTm11SEdCdlpGbV9yTUZyU0NuTjcxc0g2d1pUXzNzZWNQdDJiOXZGUVNaMC1pdFRmZTF6LTNxSmFVenFqeDdtcGJfR1p3WE9PdTlzU2N6YW1TT2xUcnozT3NqcWc0bUViLWFRUk5KWXJIZ1NHVDFxZWlnNUZJSnlaVGxuaXVWQzkxSGJJS0xpOTNzb0NOMm95QVFR0gG-AUFVX3lxTE5KR0RWbEVpTEZaZzd3ZkN0Si0zSXZiS2pTbjF2dlBrWGpCa3g0ckRoT2hUZnVKcktPYzk0ZHpsaEhfeHR2ZnBfcURnNUx6YU03S2hxLUh4N2FRQ1I4V05zaDNyaXFZazhKeEdzMDhMaFVydUsxUDNDVEJINnpUNHliYWFkNXg4b0RwdUduaURxTHNGelVIVWFwV0diVXlVaEhjMG5PS21UZUN0WGV3YVlnQnZtLWtwaGhpUEtRWFE?oc=5",
+   "ts": "Mon, 23 Nov 2026 22:06:52 GMT"
   },
   {
    "src": "gnews",
-   "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
-   "ts": "Tue, 17 Nov 2026 23:01:15 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Oil Falls as Trump Signals Iran Talks",
-   "url": "https://www.rigzone.com/news/wire/oil_falls_as_trump_signals_iran_talks-23-nov-2026-185152-article/",
-   "ts": "20261124T024500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Pentagon sharply rebukes Canada over defense spending and the F - 35 fighter jet review",
-   "url": "https://www.dailyherald.com/2026/11/23/canada-us-defense/",
-   "ts": "20261124T024500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ex - staffer for GOP congressman indicted for allegedly faking anti - Trump attack",
-   "url": "https://wjactv.com/news/nation-world/ex-staffer-for-gop-congressman-indicted-for-allegedly-faking-anti-trump-attack-jeff-van-drew-new-jersey-rrt",
-   "ts": "20261124T024500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Criticizes Newsom Death Sentence Commutations",
-   "url": "https://ktsmradio.iheart.com/content/2026-11-23-trump-criticizes-newsoms-death-sentence-commutations/",
-   "ts": "20261124T024500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump finds unlikely Democratic allies in push to cap credit card interest rates at 10 % ",
-   "url": "https://foxreno.com/news/nation-world/trump-finds-unlikely-democratic-allies-in-push-to-cap-credit-card-interest-rates-at-10-bankrate",
-   "ts": "20261124T024500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Federal appeals court gives President Donald Trump a path to erasing hush money conviction",
-   "url": "https://mymotherlode.com/news/national/11334798/federal-appeals-court-gives-president-donald-trump-a-path-to-erasing-hush-money-conviction.html",
-   "ts": "20261124T024500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Indiana gas tax holiday set to expire , Braun will not move to extend",
-   "url": "https://www.wvxu.org/2026-11-23/indiana-gas-tax-holiday-set-to-expire-braun-will-not-move-to-extend",
-   "ts": "20261124T024500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "North Korea will expand diplomacy with foreign nations after Trump snub",
-   "url": "http://www.washingtonexaminer.com/news/world/4812749/kim-jong-un-north-korea-diplomacy-foreign-nations-trump/",
-   "ts": "20261124T024500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ex - staffer for GOP congressman indicted for allegedly faking anti - Trump attack",
-   "url": "https://foxreno.com/news/nation-world/ex-staffer-for-gop-congressman-indicted-for-allegedly-faking-anti-trump-attack-jeff-van-drew-new-jersey-rrt",
-   "ts": "20261124T024500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "开放 、 创新 、 合作 ， 亚太嘉宾这样说 （ 环球热点 ） -- 国际 -- 人民网",
-   "url": "http://world.people.com.cn/n1/2026/1124/c1002-40839299.html",
-   "ts": "20261124T024500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Under Pax Silica , Mindanao mineral - rich communities face danger",
-   "url": "https://davaotoday.com/headline/under-pax-silica-mindanaos-mineral-rich-communities-face-danger/",
-   "ts": "20261124T024500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "What are the various US federal and state probes faced by Nvidia and Jensen Huang ? ",
-   "url": "https://economictimes.indiatimes.com/news/international/world-news/nvidia-and-ceo-jensen-huang-under-investigation-fbi-sec-and-congressional-probes-over-china-ties-and-antitrust-concerns/articleshow/136116962.cms",
-   "ts": "20261124T024500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Court clears Army plan to detonate explosives in Iowa",
-   "url": "https://www.wmur.com/article/trump-iowa-bomb-material-detonation-appeals-court/74510475",
-   "ts": "20261124T024500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  The Fall and Rise of Reggie Dinkin Bobby Moynihan Explains That Unexpected Thanksgiving  Obsession  Crossover",
-   "url": "https://collider.com/fall-and-rise-of-reggie-dinkins-season-2-episode-4-thanksgiving-bobby-moynihan/",
-   "ts": "20261124T024500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump finds unlikely Democratic allies in push to cap credit card interest rates at 10 % ",
-   "url": "https://ktul.com/news/nation-world/trump-finds-unlikely-democratic-allies-in-push-to-cap-credit-card-interest-rates-at-10-bankrate",
-   "ts": "20261124T024500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "美민주 조사예고에 3500억달러 韓 대미투자  안갯속  ",
-   "url": "https://www.heraldk.com/article/2026112318270468455",
-   "ts": "20261124T024500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Experts say failed climate talks could worsen climate inequality , though all progress is not stalled",
-   "url": "https://www.durangoherald.com/articles/associated-press/experts-say-failed-climate-talks-could-worsen-climate-inequality-though-all-progress-is-not-stall/",
-   "ts": "20261124T024500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "States sue HUD over a rule that could cut off housing aid for mixed - status families",
-   "url": "https://mymotherlode.com/news/national/us-government/11334826/states-sue-hud-over-a-rule-that-could-cut-off-housing-aid-for-mixed-status-families.html",
-   "ts": "20261124T024500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "操盤手曝光之際 美調查黃樂和Megaspeed",
-   "url": "https://www.epochtimes.com/b5/26/11/23/n14894009.htm",
-   "ts": "20261124T024500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Gov . Braun announces effort to house those impacted by summer disaster",
-   "url": "https://www.wvxu.org/2026-11-23/gov-braun-announces-effort-to-house-those-impacted-by-summer-disaster",
-   "ts": "20261124T024500Z"
+   "title": "Legislative Update: China, Clothing, Enforcement, Semiconductors, Exports, Product Safety - Sandler, Travis & Rosenberg, P.A.",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQXFKcHM1MzBmczFMcVdMaXhFc2w2UHJHOXF5cTMzM0RBMElvdWtFVW5rR1JlUE1PVDlraEsxMXlwNHBBcmF5b3Q3ZHF5R0ZEQmFSbW84c2J4RU9xX0lFR0QwQUVRd2ZGbTJXQnQyWmpGd1BtdVh1ZEZUaWhNeFVNY0I4cjVoS2xfZ1VHM1FzYVg1OFJJcldvd0dwVVE0alNKTGlmUFhndG80Z293NnJhbmQ3MUJsNGFwQ2hDNEY5dUZuQno0RWtmZWlzOGt1aTdEdDZQNEFxUFZhSnpzcURZcHYtMWlxZmhzcEtj?oc=5",
+   "ts": "Mon, 23 Nov 2026 18:04:16 GMT"
   }
  ]
 }

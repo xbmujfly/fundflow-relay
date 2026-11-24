@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-24T10:15:56Z",
+ "ts": "2026-11-24T10:31:04Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -431,15 +431,15 @@
   },
   {
    "src": "gnews",
-   "title": "U.S.-China détente masks growing risk of tech and trade confrontation in 2027: Expert - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHMHJ6elNYM3V4OWtSOWVKSzdxSE82MTBrM2hTSG9XbERpWVBCa3A5akVKR3VyN2dvYzQzTFUzNTRnZUkxaFlLbGJMdnJnZnhjNmdrYVd0RUgwNDBHYjR6bEZHUjRGTXNYd1FtUjBaWlZJSmVodC1zWlpqb0JGdw?oc=5",
-   "ts": "Tue, 24 Nov 2026 07:07:09 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump thinks China will buy another 250 Boeing airplanes - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVTRDX1g3YlY5UEgxMzJ3OTdhU0VUdU1ubmRRXzZwaDVibmRycVllN2hQSUhyeEFfNWpwc1VWQ1hKR3NSeTVmZHpSQ1hLeW5pUFpoNW15MGljX1BXUkdRX0hxeEdUMzkyNFVFYzlpb2ZNN09IN1FDXzIxblBEVjgtS3hlNTZRcnRWN2ZQOW8tYmtKeXlwTDI0bW9rSXpJZ2cxcU9wazcyMGZ1RFFaM01SRUd3QkYwN000dVFJ?oc=5",
    "ts": "Mon, 23 Nov 2026 17:44:34 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "U.S.-China détente masks growing risk of tech and trade confrontation in 2027: Expert - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHMHJ6elNYM3V4OWtSOWVKSzdxSE82MTBrM2hTSG9XbERpWVBCa3A5akVKR3VyN2dvYzQzTFUzNTRnZUkxaFlLbGJMdnJnZnhjNmdrYVd0RUgwNDBHYjR6bEZHUjRGTXNYd1FtUjBaWlZJSmVodC1zWlpqb0JGdw?oc=5",
+   "ts": "Tue, 24 Nov 2026 07:07:09 GMT"
   },
   {
    "src": "gnews",

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-24T01:45:56Z",
+ "ts": "2026-11-24T02:01:02Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -443,15 +443,15 @@
   },
   {
    "src": "gnews",
-   "title": "Marcelo Ebrard, Wang Wentao Agree Working Group To Boost Mexico-China Trade: 6 outlets compared - NewsCord",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOalRELUtwQmM0dVNrTVAzbkFGYTAtS09xNmJLeERSUGhqb2s4SUtXeF9iMnFYY0c1OWI0SU9LOGF3RGpyM19aVlpWTG5jT25zRkVaUzdRSEU2TmlNNXRvZTV4NnBCMXlINWxNdmZHOWFKdUxBMFBHa1VjOUkyYjlLTlMwTkNXcUVYQ3AzdWcydnI1WVh6dDFoYkR1eEE0SW1ydWYwT3h1Z2ZmTEM3VG82NlF3VGpNUUhpUk9vYnlMa1BRLUlBMmFzVUQ2aXdMNjNVYzVvWVhFOXM5LWVESENjSnZR?oc=5",
-   "ts": "Mon, 23 Nov 2026 17:25:22 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump and Newsom Trade Barbs Over California’s Death Row - LAmag",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3ZpNUZNN21CUXZpc0NGSkRxWEkxWDJ0WW0tYy1MbjI3TUJXYUlETmZsdDc3RUJjSklvcUFfTmJTci11bE5BeDRpNjZueFVUaUpFS0hBNU01RGROQU9FNlpzRVM2MlNoWmVOY0tsOEZZcFRNZlZ4N25sOEgyMzNfa3J0SDk2aWdPZTk4?oc=5",
    "ts": "Mon, 23 Nov 2026 23:01:19 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Marcelo Ebrard, Wang Wentao Agree Working Group To Boost Mexico-China Trade: 6 outlets compared - NewsCord",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOalRELUtwQmM0dVNrTVAzbkFGYTAtS09xNmJLeERSUGhqb2s4SUtXeF9iMnFYY0c1OWI0SU9LOGF3RGpyM19aVlpWTG5jT25zRkVaUzdRSEU2TmlNNXRvZTV4NnBCMXlINWxNdmZHOWFKdUxBMFBHa1VjOUkyYjlLTlMwTkNXcUVYQ3AzdWcydnI1WVh6dDFoYkR1eEE0SW1ydWYwT3h1Z2ZmTEM3VG82NlF3VGpNUUhpUk9vYnlMa1BRLUlBMmFzVUQ2aXdMNjNVYzVvWVhFOXM5LWVESENjSnZR?oc=5",
+   "ts": "Mon, 23 Nov 2026 17:25:22 GMT"
   },
   {
    "src": "gnews",

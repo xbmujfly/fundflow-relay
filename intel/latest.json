@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-24T15:31:05Z",
+ "ts": "2026-11-24T15:45:59Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,27 +341,27 @@
   },
   {
    "src": "gnews",
+   "title": "Is the US-China trade truce unravelling? Nvidia, rare earths, and the consequences for Europe - European Union Institute for Security Studies |",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0JBTFRQT0FabnR2aG9IdGswaDg0bEtBakRRZkZMaDFEeXBMNFprVmJzMG9tSE5laHJjcXI3dFljSG5GR0lpTEhqVmt4SV9EcC1PdkdjSHgxNEVTQ2VLQzVjbFJPeTZLZmtGQWVnakVGQkpUNHpCb3RFUlE5WlIta1VJNVAwZDMyZ1lCZHBUMjV5aUU5OExSdWFSWnVaeXRadHJxWDc5SEtyd2x2WTJRVmRKaVI1cDcyd3FB?oc=5",
+   "ts": "Tue, 24 Nov 2026 15:12:47 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Bumpier U.S.-China Trade Is Coming - China-US Focus",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJNUURnenNwRV9MaTlCUFZOejU2T2xNeTRSTzlOaFBRLTNNcmhrbVdlSjZ6b1g4RDJnSXBuSlJFZ3dzeDdEc3ZlY21ES0lQZFYyWm9TWHBtTm1haUhKaFJnM1JDcjVmRVQyOU5tTmRHM1RzUnl3YXRmM3FVc0RIUzIybw?oc=5",
    "ts": "Tue, 24 Nov 2026 13:02:14 GMT"
   },
   {
    "src": "gnews",
-   "title": "Is the US-China trade truce ? Nvidia, rare earths, and the consequences for Europe - European Union Institute for Security Studies |",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUklYVFE1YWtwYUxsSU1DNEtSdG4xWGVBOW9iRzkyb2J5cW1DZHN5RXNXSmNvRWx6Nnd6UDl3dElST0VjUGhUMGtWeWVIdl9obEM2WjJFTjh0dFdta1l4dk5nekRxT1JOWHljaHE0TnljN0pZUTZySE9zTVF5Q2xhLUppSnR4WXdVQ3pUeWxlVlA4LTBndjFXRTl3UnhKc2R0SGZHNHpXN1NJSU0?oc=5",
-   "ts": "Tue, 24 Nov 2026 08:42:48 GMT"
+   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
+   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
   },
   {
    "src": "gnews",
    "title": "Exclusive | U.S. Prepares to Raise Tariffs on China and Other Countries - WSJ",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRKZFY1SDBYYTNwNWlxcjFqNFdGMmpQdXc3RzEyb0NoWHE3MmZoX3hBMmdnR0doa3JUUmhoN2xaUTR6dUVuajlkX19tZmN3ZHFOTUNkWnJmV3RVaThzRXVWbXZlNWVpb3k1WmNzOFRYUDRCTjg1S1g3YTRaMDZMT3lhVm8wM3VHdG1BaWlvTTZNY2JNMlR1aHNzV3RyQVk5MW44?oc=5",
    "ts": "Tue, 24 Nov 2026 13:08:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
-   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
   },
   {
    "src": "gnews",
@@ -413,15 +413,21 @@
   },
   {
    "src": "gnews",
+   "title": "Next Batch of Trump Tariffs Are Coming Soon as G-20 Looms - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlpweFhXRFFWZ0lEaUtJZWRzU0hUM3FpN2ZCLVl1NnRzVDQ0ellQY1h2Nlc2TW1lNGpabzl0SEZSdTZWYVRqbUNlU3A5TktZaWFaanRUUFhQZUw3Tkp4eEsxeXZ4RGlRR3pDbVZOeGJlNkdhWFRfejZGRy1OWk1oM3FqSFQ5U0hBWFRqQ21fVm9UNWtmb1NhWkVB?oc=5",
+   "ts": "Tue, 24 Nov 2026 12:01:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "US adds Megaspeed to trade blacklist as Nvidia’s Huang returns as CEO - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUzQzaW8ybWpocDRMUXdIRU1XWXk5TmZEa0F4VG10U19qamdObWdpMDFKeFNsdWMtRlI2RDRxUDllUm9WaTEyVlc3MllMZWZueVRIWGtVTTZJdVhyQm1DbnVaNU1YMkRhbHdKQUxRT3FOQ2dXOXR4LXlnNXBNVkpKeE9hQlRzbHhLbWJHdlMydHllMGJMamNCVm04TWwxUUtRTXhhQUZoY3ZONURYVHFpdDliWWRONGR1NHfSAb8BQVVfeXFMTUtjTm5TTXAxUTFsSERQWTlKQ1c2NDd0NVJDa1dBTm1fSEJyZ2hGZTRJX29YamI4TFB1TUJiY0hoTjQtWk41aUpObzFGX0E5QVBCNFZUNzFyNHh6c2JkcU90MWxXZVE3WnpZOFdlR2VCU1MwemJvTGVOZTJLLXZUY201N0hVc0RhYjUyejluZ0U5UDhZZ2MyeU1MbXh6RkpJSUx5dmtub2F5bW9GZFF1Z0JJQTVOeGNvLXk0cHhMam8?oc=5",
    "ts": "Tue, 24 Nov 2026 10:49:39 GMT"
   },
   {
    "src": "gnews",
-   "title": "EU Adopts Cap on Hybrid Cars to Help Curb Chinese Imports - Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnJZcDFUVUFqQm9UemlwNXFEa05tdnNGNmZWRmE5YVd4T25IRW0yTThlNVp5SDJ3bVhVb1M0UkNTNERCNXFJNFRva3lFMjk0TmNETmFsZDZHSnI1NFZnUUp6ZERoNjVMd1pJc3hEQTViWEZRd3VtU3Rod3k2WnJ5cGFfVjNhSnJpN0x0ZDcwVm9hdEFfNmhNUmJuV3ItZkZmV3JlN2l2NFFMS0U0?oc=5",
-   "ts": "Tue, 24 Nov 2026 09:06:37 GMT"
+   "title": "US political coalition calls for US-China trade to be tied to religious freedom - Premier Christian News",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS0Q3OWtMMEhzenZnb2tPZlAyTWZuRGdsRmlySGZkOGZUNS1lMTNBSXVGZ2FoOVZRaFJxdjhXNFNHTjEtM1M1eVRKNVJURWplaC10S2NJRzN1M0JlVlVYWHJVV0NwdjFqbDRRODVxejZkcnZHUXpmVVk0QTRvMFdnUjMtVHZ2dTNWYmgwUl9IN2tTeVZYOFpBcmNoME40eGs?oc=5",
+   "ts": "Tue, 24 Nov 2026 02:30:47 GMT"
   },
   {
    "src": "gnews",
@@ -431,9 +437,9 @@
   },
   {
    "src": "gnews",
-   "title": "US political coalition calls for US-China trade to be tied to religious freedom - Premier Christian News",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS0Q3OWtMMEhzenZnb2tPZlAyTWZuRGdsRmlySGZkOGZUNS1lMTNBSXVGZ2FoOVZRaFJxdjhXNFNHTjEtM1M1eVRKNVJURWplaC10S2NJRzN1M0JlVlVYWHJVV0NwdjFqbDRRODVxejZkcnZHUXpmVVk0QTRvMFdnUjMtVHZ2dTNWYmgwUl9IN2tTeVZYOFpBcmNoME40eGs?oc=5",
-   "ts": "Tue, 24 Nov 2026 02:30:47 GMT"
+   "title": "China to Suspend Some Critical-Material Export Curbs to U.S. Until January - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR0tiam0waURNVF9vU2VYTmx6eGVqWk9NRm9GT2Q2blhiTm1OMTBQQzIxVmJ5WHlEMzNDQzUwSDJnNDBjX1FPQUZBSlVGcGFIeUU3TUZ4c1NhSFE3WnNXYjhBSnVJM2QwUGFuY1NKUzlYOF9BbU1aYlJZWDdrUmR2aWlxaDlFM0JieFFkTEJGQ1NpT0hHU0xOMW9lNjdNZUJCYVUyZW5HekpxYVlNekFpZTJBVElqOTg?oc=5",
+   "ts": "Tue, 24 Nov 2026 11:13:00 GMT"
   },
   {
    "src": "gnews",
@@ -449,15 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "U.S.-China détente masks growing risk of tech and trade confrontation in 2027: Expert - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHMHJ6elNYM3V4OWtSOWVKSzdxSE82MTBrM2hTSG9XbERpWVBCa3A5akVKR3VyN2dvYzQzTFUzNTRnZUkxaFlLbGJMdnJnZnhjNmdrYVd0RUgwNDBHYjR6bEZHUjRGTXNYd1FtUjBaWlZJSmVodC1zWlpqb0JGdw?oc=5",
-   "ts": "Tue, 24 Nov 2026 07:07:09 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump to meet NATO chief ​Mark Rutte on Wednesday, White House says - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnFJU2tabWVwRnU2YnozaFFRTWZ4VWc4TmNseXdPRGZoa25Zc0RXZ251ODdJQ3ZxYl9fWVhlSkwtU0xhajZpeHNRSXQyclM0WUdKT1Y2cHh1OExteDRnVUlfcFVMaXc1X3NnNk15QTczVklYMHR5dVZldGJBcGtnRjhlaDczNFQ0RnZoMWFlRC1rZ1pfWGUwYlNGMmNuNVlXam9peE5xb0NKWTQ?oc=5",
-   "ts": "Tue, 24 Nov 2026 03:48:00 GMT"
+   "title": "EU Adopts Cap on Hybrid Cars to Help Curb Chinese Imports - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnJZcDFUVUFqQm9UemlwNXFEa05tdnNGNmZWRmE5YVd4T25IRW0yTThlNVp5SDJ3bVhVb1M0UkNTNERCNXFJNFRva3lFMjk0TmNETmFsZDZHSnI1NFZnUUp6ZERoNjVMd1pJc3hEQTViWEZRd3VtU3Rod3k2WnJ5cGFfVjNhSnJpN0x0ZDcwVm9hdEFfNmhNUmJuV3ItZkZmV3JlN2l2NFFMS0U0?oc=5",
+   "ts": "Tue, 24 Nov 2026 09:06:37 GMT"
   }
  ]
 }

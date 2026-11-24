@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-24T14:01:02Z",
+ "ts": "2026-11-24T14:15:55Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -353,15 +353,15 @@
   },
   {
    "src": "gnews",
-   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
-   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Exclusive | U.S. Prepares to Raise Tariffs on China and Other Countries - WSJ",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRKZFY1SDBYYTNwNWlxcjFqNFdGMmpQdXc3RzEyb0NoWHE3MmZoX3hBMmdnR0doa3JUUmhoN2xaUTR6dUVuajlkX19tZmN3ZHFOTUNkWnJmV3RVaThzRXVWbXZlNWVpb3k1WmNzOFRYUDRCTjg1S1g3YTRaMDZMT3lhVm8wM3VHdG1BaWlvTTZNY2JNMlR1aHNzV3RyQVk5MW44?oc=5",
    "ts": "Tue, 24 Nov 2026 13:08:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
+   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
   },
   {
    "src": "gnews",
@@ -371,21 +371,15 @@
   },
   {
    "src": "gnews",
+   "title": "China Halts Critical Minerals Ban to Maintain Truce With US - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVl4NjNqN2gwZ0daMjNHNG1lRHU3bmVyQUszYk1BN0U1OXgyYkxJdjcwVjZZSHNQZUZ2VWZYM2g1UjRXTjBPSnpuUlZESWNuMkZHd0tpQnZuT2ZTVDNRR3RuYjlpbWsxWFYzQmxWa2ZMWnU5WUkyNnA4LWk0dHExVWdHRWhhd3J5MnIzNTJYT2pSZmZkaF9CVUVlQjd2OEhQeDZvX1VEb1Q2UzRhZ2I4?oc=5",
+   "ts": "Tue, 24 Nov 2026 12:41:10 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
    "ts": "Fri, 20 Nov 2026 13:16:47 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump administration adds Megaspeed to trade blacklist after Jensen Huang scandal - CBS News",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbjl4VjBtQnpzUHdiT29DQ1Nta25jWHFRSGh3WEk1ZVhsaEdhVUlHRzRUOEpFX2ctV0lYaU12RGZSYks2NWdUd0ZDVHY1dkxjQkJ6N2RCTV85Wm1VY1RDUGVlbjBuSWFxSU9WYnlZQVZZMHFnTGh6bkFXZ3FRVUlLNA?oc=5",
-   "ts": "Mon, 23 Nov 2026 21:55:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Next Batch of Trump Tariffs Are Coming Soon as G-20 Looms - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlpweFhXRFFWZ0lEaUtJZWRzU0hUM3FpN2ZCLVl1NnRzVDQ0ellQY1h2Nlc2TW1lNGpabzl0SEZSdTZWYVRqbUNlU3A5TktZaWFaanRUUFhQZUw3Tkp4eEsxeXZ4RGlRR3pDbVZOeGJlNkdhWFRfejZGRy1OWk1oM3FqSFQ5U0hBWFRqQ21fVm9UNWtmb1NhWkVB?oc=5",
-   "ts": "Tue, 24 Nov 2026 12:01:00 GMT"
   },
   {
    "src": "gnews",
@@ -395,9 +389,21 @@
   },
   {
    "src": "gnews",
+   "title": "Trump administration adds Megaspeed to trade blacklist after Jensen Huang scandal - CBS News",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbjl4VjBtQnpzUHdiT29DQ1Nta25jWHFRSGh3WEk1ZVhsaEdhVUlHRzRUOEpFX2ctV0lYaU12RGZSYks2NWdUd0ZDVHY1dkxjQkJ6N2RCTV85Wm1VY1RDUGVlbjBuSWFxSU9WYnlZQVZZMHFnTGh6bkFXZ3FRVUlLNA?oc=5",
+   "ts": "Mon, 23 Nov 2026 21:55:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Optical Transceiver Trade Restrictions Won’t Solve America’s China Dependency | Blogs | Nov 23, 2026 - Information Technology and Innovation Foundation",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY25Ra3RFb0J0Y3k1QnRUeTYxdXRPQ0FFeGFQYWlfVXpzcVBpdWtjVzI4UG80ZkxkRUtReXVEUktQLWJEb2xyRGtqVG9STzVIOTNPMVo4STRHZHpEYnh4ZGpwVWJsWHhraG1QeEhDVEdQRldUb1o2dmZqeWo1dkRPY2p1TzE3dkRtSVJIT1pVSzVPbFdfVTgyS0N6Wmt2dnlJc0FnM1NVSWR4aldLcXNIZEdpT2xhVGdrRFBj?oc=5",
    "ts": "Mon, 23 Nov 2026 20:56:21 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
+   "ts": "Tue, 24 Nov 2026 05:39:00 GMT"
   },
   {
    "src": "gnews",
@@ -407,21 +413,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
-   "ts": "Tue, 24 Nov 2026 04:17:14 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China extends pause in controls on critical mineral exports to US - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXh2WUNSYmVSZkJLcmJoenphclhBTmJiMGZfOHBXQmhkRXE4UklsLXNoS254QU96QWdDTHFBSkZCQUc2M1JRWF96N3p3a29ka2E5SzlpcDFEb0lLM3ZwVF9PTzJLcm9SOXRaQUhFTzZCR2xNQU9pNDNKSjBVVHoySHoxOG0?oc=5",
    "ts": "Tue, 24 Nov 2026 10:21:16 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "US political coalition calls for US-China trade to be tied to religious freedom - Premier Christian News",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS0Q3OWtMMEhzenZnb2tPZlAyTWZuRGdsRmlySGZkOGZUNS1lMTNBSXVGZ2FoOVZRaFJxdjhXNFNHTjEtM1M1eVRKNVJURWplaC10S2NJRzN1M0JlVlVYWHJVV0NwdjFqbDRRODVxejZkcnZHUXpmVVk0QTRvMFdnUjMtVHZ2dTNWYmgwUl9IN2tTeVZYOFpBcmNoME40eGs?oc=5",
-   "ts": "Tue, 24 Nov 2026 02:30:47 GMT"
   },
   {
    "src": "gnews",
@@ -431,9 +425,21 @@
   },
   {
    "src": "gnews",
-   "title": "China Halts Critical Minerals Ban to Maintain Truce With US - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVl4NjNqN2gwZ0daMjNHNG1lRHU3bmVyQUszYk1BN0U1OXgyYkxJdjcwVjZZSHNQZUZ2VWZYM2g1UjRXTjBPSnpuUlZESWNuMkZHd0tpQnZuT2ZTVDNRR3RuYjlpbWsxWFYzQmxWa2ZMWnU5WUkyNnA4LWk0dHExVWdHRWhhd3J5MnIzNTJYT2pSZmZkaF9CVUVlQjd2OEhQeDZvX1VEb1Q2UzRhZ2I4?oc=5",
-   "ts": "Tue, 24 Nov 2026 12:41:10 GMT"
+   "title": "China and Singapore expand yuan financing as Beijing pushes currency’s global use - Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTBGSXkyQW83ZHVINjI0QVhpN1d6QlJhS1YwWWtSY2dWNGpOZGFBVlJOVmJuYU9CaHNWMTdXa2hIYWhjVkQyWmxra2VLSVYtcm1Zc3doRXpZZ3U2YXhiazJXWUZQcU5tQ04tLWJ0Zy1GUWxwUWZvd2hqNXkzWURKX1FUUVJZMG9vOTNvdlgyWQ?oc=5",
+   "ts": "Tue, 24 Nov 2026 13:04:30 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US political coalition calls for US-China trade to be tied to religious freedom - Premier Christian News",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS0Q3OWtMMEhzenZnb2tPZlAyTWZuRGdsRmlySGZkOGZUNS1lMTNBSXVGZ2FoOVZRaFJxdjhXNFNHTjEtM1M1eVRKNVJURWplaC10S2NJRzN1M0JlVlVYWHJVV0NwdjFqbDRRODVxejZkcnZHUXpmVVk0QTRvMFdnUjMtVHZ2dTNWYmgwUl9IN2tTeVZYOFpBcmNoME40eGs?oc=5",
+   "ts": "Tue, 24 Nov 2026 02:30:47 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Next Batch of Trump Tariffs Are Coming Soon as G-20 Looms - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlpweFhXRFFWZ0lEaUtJZWRzU0hUM3FpN2ZCLVl1NnRzVDQ0ellQY1h2Nlc2TW1lNGpabzl0SEZSdTZWYVRqbUNlU3A5TktZaWFaanRUUFhQZUw3Tkp4eEsxeXZ4RGlRR3pDbVZOeGJlNkdhWFRfejZGRy1OWk1oM3FqSFQ5U0hBWFRqQ21fVm9UNWtmb1NhWkVB?oc=5",
+   "ts": "Tue, 24 Nov 2026 12:01:00 GMT"
   },
   {
    "src": "gnews",
@@ -452,12 +458,6 @@
    "title": "EU Adopts Cap on Hybrid Cars to Help Curb Chinese Imports - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnJZcDFUVUFqQm9UemlwNXFEa05tdnNGNmZWRmE5YVd4T25IRW0yTThlNVp5SDJ3bVhVb1M0UkNTNERCNXFJNFRva3lFMjk0TmNETmFsZDZHSnI1NFZnUUp6ZERoNjVMd1pJc3hEQTViWEZRd3VtU3Rod3k2WnJ5cGFfVjNhSnJpN0x0ZDcwVm9hdEFfNmhNUmJuV3ItZkZmV3JlN2l2NFFMS0U0?oc=5",
    "ts": "Tue, 24 Nov 2026 09:06:37 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "‘Trump put’ revived the AI trade. What’s this investor’s next big bet? - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHBuZF9wdFVNOThUM3V3eVh0dF9vODJvMElybzRnMDNnQTdnWjY3XzJKVW1YOGdxaUphMVpNUktHdGZ0X29oX2VUakFDVUZpS0E0SzBUOU9mMVNRRTFoMk43dG5PSTFUUHhraWZDY3gwOEhBY0NoNThBR211eDFndy1NZURhV0FERDNBUF9jc19tSGplWkZ1ckVqYzNKUi1MR1JWdG5SdU5rTms?oc=5",
-   "ts": "Tue, 24 Nov 2026 06:45:13 GMT"
   }
  ]
 }

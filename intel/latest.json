@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-24T11:31:07Z",
+ "ts": "2026-11-24T11:45:57Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -413,15 +413,15 @@
   },
   {
    "src": "gnews",
-   "title": "EU Adopts Cap on Hybrid Cars to Help Curb Chinese Imports - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnJZcDFUVUFqQm9UemlwNXFEa05tdnNGNmZWRmE5YVd4T25IRW0yTThlNVp5SDJ3bVhVb1M0UkNTNERCNXFJNFRva3lFMjk0TmNETmFsZDZHSnI1NFZnUUp6ZERoNjVMd1pJc3hEQTViWEZRd3VtU3Rod3k2WnJ5cGFfVjNhSnJpN0x0ZDcwVm9hdEFfNmhNUmJuV3ItZkZmV3JlN2l2NFFMS0U0?oc=5",
-   "ts": "Tue, 24 Nov 2026 09:06:37 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China extends pause in controls on critical mineral exports to US - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXh2WUNSYmVSZkJLcmJoenphclhBTmJiMGZfOHBXQmhkRXE4UklsLXNoS254QU96QWdDTHFBSkZCQUc2M1JRWF96N3p3a29ka2E5SzlpcDFEb0lLM3ZwVF9PTzJLcm9SOXRaQUhFTzZCR2xNQU9pNDNKSjBVVHoySHoxOG0?oc=5",
    "ts": "Tue, 24 Nov 2026 10:21:16 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "EU Adopts Cap on Hybrid Cars to Help Curb Chinese Imports - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnJZcDFUVUFqQm9UemlwNXFEa05tdnNGNmZWRmE5YVd4T25IRW0yTThlNVp5SDJ3bVhVb1M0UkNTNERCNXFJNFRva3lFMjk0TmNETmFsZDZHSnI1NFZnUUp6ZERoNjVMd1pJc3hEQTViWEZRd3VtU3Rod3k2WnJ5cGFfVjNhSnJpN0x0ZDcwVm9hdEFfNmhNUmJuV3ItZkZmV3JlN2l2NFFMS0U0?oc=5",
+   "ts": "Tue, 24 Nov 2026 09:06:37 GMT"
   },
   {
    "src": "gnews",

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-24T07:15:58Z",
+ "ts": "2026-11-24T07:31:01Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
   }
  },
  "items": [
@@ -359,21 +359,15 @@
   },
   {
    "src": "gnews",
-   "title": "Optical Transceiver Trade Restrictions Won’t Solve America’s China Dependency | Blogs | Nov 23, 2026 - Information Technology and Innovation Foundation",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY25Ra3RFb0J0Y3k1QnRUeTYxdXRPQ0FFeGFQYWlfVXpzcVBpdWtjVzI4UG80ZkxkRUtReXVEUktQLWJEb2xyRGtqVG9STzVIOTNPMVo4STRHZHpEYnh4ZGpwVWJsWHhraG1QeEhDVEdQRldUb1o2dmZqeWo1dkRPY2p1TzE3dkRtSVJIT1pVSzVPbFdfVTgyS0N6Wmt2dnlJc0FnM1NVSWR4aldLcXNIZEdpT2xhVGdrRFBj?oc=5",
-   "ts": "Mon, 23 Nov 2026 20:56:21 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
    "ts": "Fri, 20 Nov 2026 13:16:47 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
-   "ts": "Tue, 24 Nov 2026 05:39:00 GMT"
+   "title": "Optical Transceiver Trade Restrictions Won’t Solve America’s China Dependency | Blogs | Nov 23, 2026 - Information Technology and Innovation Foundation",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY25Ra3RFb0J0Y3k1QnRUeTYxdXRPQ0FFeGFQYWlfVXpzcVBpdWtjVzI4UG80ZkxkRUtReXVEUktQLWJEb2xyRGtqVG9STzVIOTNPMVo4STRHZHpEYnh4ZGpwVWJsWHhraG1QeEhDVEdQRldUb1o2dmZqeWo1dkRPY2p1TzE3dkRtSVJIT1pVSzVPbFdfVTgyS0N6Wmt2dnlJc0FnM1NVSWR4aldLcXNIZEdpT2xhVGdrRFBj?oc=5",
+   "ts": "Mon, 23 Nov 2026 20:56:21 GMT"
   },
   {
    "src": "gnews",
@@ -383,21 +377,27 @@
   },
   {
    "src": "gnews",
-   "title": "Trump to meet NATO chief ​Mark Rutte on Wednesday, White House says - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnFJU2tabWVwRnU2YnozaFFRTWZ4VWc4TmNseXdPRGZoa25Zc0RXZ251ODdJQ3ZxYl9fWVhlSkwtU0xhajZpeHNRSXQyclM0WUdKT1Y2cHh1OExteDRnVUlfcFVMaXc1X3NnNk15QTczVklYMHR5dVZldGJBcGtnRjhlaDczNFQ0RnZoMWFlRC1rZ1pfWGUwYlNGMmNuNVlXam9peE5xb0NKWTQ?oc=5",
-   "ts": "Tue, 24 Nov 2026 03:48:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump administration adds Megaspeed to trade blacklist after Jensen Huang scandal - CBS News",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbjl4VjBtQnpzUHdiT29DQ1Nta25jWHFRSGh3WEk1ZVhsaEdhVUlHRzRUOEpFX2ctV0lYaU12RGZSYks2NWdUd0ZDVHY1dkxjQkJ6N2RCTV85Wm1VY1RDUGVlbjBuSWFxSU9WYnlZQVZZMHFnTGh6bkFXZ3FRVUlLNA?oc=5",
    "ts": "Mon, 23 Nov 2026 21:55:00 GMT"
   },
   {
    "src": "gnews",
+   "title": "Trump to meet NATO chief ​Mark Rutte on Wednesday, White House says - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnFJU2tabWVwRnU2YnozaFFRTWZ4VWc4TmNseXdPRGZoa25Zc0RXZ251ODdJQ3ZxYl9fWVhlSkwtU0xhajZpeHNRSXQyclM0WUdKT1Y2cHh1OExteDRnVUlfcFVMaXc1X3NnNk15QTczVklYMHR5dVZldGJBcGtnRjhlaDczNFQ0RnZoMWFlRC1rZ1pfWGUwYlNGMmNuNVlXam9peE5xb0NKWTQ?oc=5",
+   "ts": "Tue, 24 Nov 2026 03:48:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "US political coalition calls for US-China trade to be tied to religious freedom - Premier Christian News",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS0Q3OWtMMEhzenZnb2tPZlAyTWZuRGdsRmlySGZkOGZUNS1lMTNBSXVGZ2FoOVZRaFJxdjhXNFNHTjEtM1M1eVRKNVJURWplaC10S2NJRzN1M0JlVlVYWHJVV0NwdjFqbDRRODVxejZkcnZHUXpmVVk0QTRvMFdnUjMtVHZ2dTNWYmgwUl9IN2tTeVZYOFpBcmNoME40eGs?oc=5",
    "ts": "Tue, 24 Nov 2026 02:30:47 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
+   "ts": "Tue, 24 Nov 2026 04:17:14 GMT"
   },
   {
    "src": "gnews",
@@ -425,15 +425,15 @@
   },
   {
    "src": "gnews",
-   "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner - BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mTWVNVnJqN0QzRHlBbnBNMEpZY3IyblBXQjQwczFhU3d0U2pOTnJBa2UzNnA4T0NmRHM0SVd3YXBnQWVEd3VDM1M0M2xfQjlTaktBZUVGRXQtZnc?oc=5",
-   "ts": "Mon, 23 Nov 2026 17:14:50 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Legislative Update: China, Clothing, Enforcement, Semiconductors, Exports, Product Safety - Sandler, Travis & Rosenberg, P.A.",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQXFKcHM1MzBmczFMcVdMaXhFc2w2UHJHOXF5cTMzM0RBMElvdWtFVW5rR1JlUE1PVDlraEsxMXlwNHBBcmF5b3Q3ZHF5R0ZEQmFSbW84c2J4RU9xX0lFR0QwQUVRd2ZGbTJXQnQyWmpGd1BtdVh1ZEZUaWhNeFVNY0I4cjVoS2xfZ1VHM1FzYVg1OFJJcldvd0dwVVE0alNKTGlmUFhndG80Z293NnJhbmQ3MUJsNGFwQ2hDNEY5dUZuQno0RWtmZWlzOGt1aTdEdDZQNEFxUFZhSnpzcURZcHYtMWlxZmhzcEtj?oc=5",
    "ts": "Mon, 23 Nov 2026 18:04:16 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "U.S.-China détente masks growing risk of tech and trade confrontation in 2027: Expert - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHMHJ6elNYM3V4OWtSOWVKSzdxSE82MTBrM2hTSG9XbERpWVBCa3A5akVKR3VyN2dvYzQzTFUzNTRnZUkxaFlLbGJMdnJnZnhjNmdrYVd0RUgwNDBHYjR6bEZHUjRGTXNYd1FtUjBaWlZJSmVodC1zWlpqb0JGdw?oc=5",
+   "ts": "Tue, 24 Nov 2026 07:07:09 GMT"
   },
   {
    "src": "gnews",
@@ -443,21 +443,21 @@
   },
   {
    "src": "gnews",
-   "title": "We can't be sure that chip trade will be open to China: BofA - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWU5yR3piRU9NOURReXRPUnNfY3dtR1VwdDF0VlBnb3dienZfZ0Q2NUdvZERXemE4ZDBRZmctZkxTTU5EWDhpc1ZrXzVZX0tBWENJY296bUNBV3FCOGE3RFAxRm5MeXVJTHJTRDJoYlhsQlJDRWZaWFFaaHZuOHFPTk9zR0ZGTWo2NTZHTTVHMGxNRVlQQld1Q3VfbXJ0UURsVFNOaklJRGxINFl1dko1YWZXcw?oc=5",
-   "ts": "Tue, 24 Nov 2026 03:28:05 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "‘Trump put’ revived the AI trade. What’s this investor’s next big bet? - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHBuZF9wdFVNOThUM3V3eVh0dF9vODJvMElybzRnMDNnQTdnWjY3XzJKVW1YOGdxaUphMVpNUktHdGZ0X29oX2VUakFDVUZpS0E0SzBUOU9mMVNRRTFoMk43dG5PSTFUUHhraWZDY3gwOEhBY0NoNThBR211eDFndy1NZURhV0FERDNBUF9jc19tSGplWkZ1ckVqYzNKUi1MR1JWdG5SdU5rTms?oc=5",
    "ts": "Tue, 24 Nov 2026 06:36:56 GMT"
   },
   {
    "src": "gnews",
-   "title": "U.S.-China détente masks growing risk of tech and trade confrontation in 2027: Expert - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHMHJ6elNYM3V4OWtSOWVKSzdxSE82MTBrM2hTSG9XbERpWVBCa3A5akVKR3VyN2dvYzQzTFUzNTRnZUkxaFlLbGJMdnJnZnhjNmdrYVd0RUgwNDBHYjR6bEZHUjRGTXNYd1FtUjBaWlZJSmVodC1zWlpqb0JGdw?oc=5",
-   "ts": "Tue, 24 Nov 2026 07:07:09 GMT"
+   "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
+   "ts": "Tue, 17 Nov 2026 23:01:15 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "We can't be sure that chip trade will be open to China: BofA - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWU5yR3piRU9NOURReXRPUnNfY3dtR1VwdDF0VlBnb3dienZfZ0Q2NUdvZERXemE4ZDBRZmctZkxTTU5EWDhpc1ZrXzVZX0tBWENJY296bUNBV3FCOGE3RFAxRm5MeXVJTHJTRDJoYlhsQlJDRWZaWFFaaHZuOHFPTk9zR0ZGTWo2NTZHTTVHMGxNRVlQQld1Q3VfbXJ0UURsVFNOaklJRGxINFl1dko1YWZXcw?oc=5",
+   "ts": "Tue, 24 Nov 2026 03:28:05 GMT"
   }
  ]
 }

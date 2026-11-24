@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-24T13:45:56Z",
+ "ts": "2026-11-24T14:01:02Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -383,6 +383,12 @@
   },
   {
    "src": "gnews",
+   "title": "Next Batch of Trump Tariffs Are Coming Soon as G-20 Looms - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlpweFhXRFFWZ0lEaUtJZWRzU0hUM3FpN2ZCLVl1NnRzVDQ0ellQY1h2Nlc2TW1lNGpabzl0SEZSdTZWYVRqbUNlU3A5TktZaWFaanRUUFhQZUw3Tkp4eEsxeXZ4RGlRR3pDbVZOeGJlNkdhWFRfejZGRy1OWk1oM3FqSFQ5U0hBWFRqQ21fVm9UNWtmb1NhWkVB?oc=5",
+   "ts": "Tue, 24 Nov 2026 12:01:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump made up to $15m on Nvidia stock after Huang’s return - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRUF3TVZCQlVITFBZeEFsTjRHODhTQ3p5cXBUT0FQRUhNaUg0NmxqTEh1MThHY3RLTXREZmtVZ01TVzM5SUptSnNNZlNJOVNnNXJsOGVHUmZMNkRvT09GaERueHk4NjR0bDJYUUY5Y2hZODA0QzJXQmV6dU9sSW1nbXBZNkFIcDlsdThzWFI5RWY4LXhSN2pTdFdTLVpweV9aeGJuOA?oc=5",
    "ts": "Tue, 24 Nov 2026 08:18:00 GMT"
@@ -395,21 +401,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
-   "ts": "Tue, 24 Nov 2026 05:39:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "EU Adopts Cap on Hybrid Cars to Help Curb Chinese Imports - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnJZcDFUVUFqQm9UemlwNXFEa05tdnNGNmZWRmE5YVd4T25IRW0yTThlNVp5SDJ3bVhVb1M0UkNTNERCNXFJNFRva3lFMjk0TmNETmFsZDZHSnI1NFZnUUp6ZERoNjVMd1pJc3hEQTViWEZRd3VtU3Rod3k2WnJ5cGFfVjNhSnJpN0x0ZDcwVm9hdEFfNmhNUmJuV3ItZkZmV3JlN2l2NFFMS0U0?oc=5",
-   "ts": "Tue, 24 Nov 2026 09:06:37 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "How Value-Added in Trade Complicates the Tariff Picture - Tax Foundation",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jOVZQT0lvQ1ljTFRpa0trX0tuRXpNc1ZIUGk4VFcxYmpGcEZPdTdXOGJzdnVtdldMSjRWS3A1YVRzMUpDb0lOTzZVLUlpS2pQSnZCX3NLYlZvMGE2dUd1N2tEckNQTHVqbVVyY2lqZWlzZ1BnOW1IQTlR?oc=5",
    "ts": "Mon, 23 Nov 2026 18:48:19 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
+   "ts": "Tue, 24 Nov 2026 04:17:14 GMT"
   },
   {
    "src": "gnews",
@@ -431,9 +431,9 @@
   },
   {
    "src": "gnews",
-   "title": "Why China needs more income taxation - Peterson Institute for International Economics",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVEFISEhwTEdLWHNNOEN0bUhoS2E2U2h2QXI1cHRDNmc5YnlsVmIwaGppem1OdHlkd3FETmN2OG5NSnJiNmVuR2ttUGg2QVFyclFXU3Q5LWN3MnZ0T0w2SmZDYVduaDdjSmpkbnZHT0xpMTE5bHBENFlEamxKWkt0VlRQVk05SjNfaDB3b2U3SUY?oc=5",
-   "ts": "Mon, 23 Nov 2026 14:00:00 GMT"
+   "title": "China Halts Critical Minerals Ban to Maintain Truce With US - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVl4NjNqN2gwZ0daMjNHNG1lRHU3bmVyQUszYk1BN0U1OXgyYkxJdjcwVjZZSHNQZUZ2VWZYM2g1UjRXTjBPSnpuUlZESWNuMkZHd0tpQnZuT2ZTVDNRR3RuYjlpbWsxWFYzQmxWa2ZMWnU5WUkyNnA4LWk0dHExVWdHRWhhd3J5MnIzNTJYT2pSZmZkaF9CVUVlQjd2OEhQeDZvX1VEb1Q2UzRhZ2I4?oc=5",
+   "ts": "Tue, 24 Nov 2026 12:41:10 GMT"
   },
   {
    "src": "gnews",
@@ -449,9 +449,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump thinks China will buy another 250 Boeing airplanes - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVTRDX1g3YlY5UEgxMzJ3OTdhU0VUdU1ubmRRXzZwaDVibmRycVllN2hQSUhyeEFfNWpwc1VWQ1hKR3NSeTVmZHpSQ1hLeW5pUFpoNW15MGljX1BXUkdRX0hxeEdUMzkyNFVFYzlpb2ZNN09IN1FDXzIxblBEVjgtS3hlNTZRcnRWN2ZQOW8tYmtKeXlwTDI0bW9rSXpJZ2cxcU9wazcyMGZ1RFFaM01SRUd3QkYwN000dVFJ?oc=5",
-   "ts": "Mon, 23 Nov 2026 17:44:34 GMT"
+   "title": "EU Adopts Cap on Hybrid Cars to Help Curb Chinese Imports - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnJZcDFUVUFqQm9UemlwNXFEa05tdnNGNmZWRmE5YVd4T25IRW0yTThlNVp5SDJ3bVhVb1M0UkNTNERCNXFJNFRva3lFMjk0TmNETmFsZDZHSnI1NFZnUUp6ZERoNjVMd1pJc3hEQTViWEZRd3VtU3Rod3k2WnJ5cGFfVjNhSnJpN0x0ZDcwVm9hdEFfNmhNUmJuV3ItZkZmV3JlN2l2NFFMS0U0?oc=5",
+   "ts": "Tue, 24 Nov 2026 09:06:37 GMT"
   },
   {
    "src": "gnews",

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-24T01:01:03Z",
+ "ts": "2026-11-24T01:15:56Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -407,6 +407,12 @@
   },
   {
    "src": "gnews",
+   "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
+   "ts": "Mon, 23 Nov 2026 21:07:02 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "US political coalition calls for US-China trade to be tied to religious freedom - Premier Christian News",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS0Q3OWtMMEhzenZnb2tPZlAyTWZuRGdsRmlySGZkOGZUNS1lMTNBSXVGZ2FoOVZRaFJxdjhXNFNHTjEtM1M1eVRKNVJURWplaC10S2NJRzN1M0JlVlVYWHJVV0NwdjFqbDRRODVxejZkcnZHUXpmVVk0QTRvMFdnUjMtVHZ2dTNWYmgwUl9IN2tTeVZYOFpBcmNoME40eGs?oc=5",
    "ts": "Mon, 23 Nov 2026 20:31:46 GMT"
@@ -443,21 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Farm Bureau’s Houston: China Clarity, North American Trade Top Farm Country’s Wish List - American Ag Network",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVmhvb0lLQ3VfaHg1VWwxb2FjWWlUUUlnSHNyRm92bDctMWxUR2R5dXlzTG9YWkVxZmF2eG1zQk5NanBFM0J4VGRqMWhySmF3c2VtY0c5X3VQRWh1RnJrM2t1VXVYYWZuSGV3N1ZsVFo2TTE2SElQX1hNZHl2WndYaF83MldlcVIxSjI0bTBjZldyeHlUeTgtTFZ5VGFpQXJoMHZhVGp1azdQalpPVTJISjdYR1RBUlR1UXZ0bUpIWjNSd2pPYTFMWQ?oc=5",
-   "ts": "Mon, 23 Nov 2026 21:15:50 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Legislative Update: China, Clothing, Enforcement, Semiconductors, Exports, Product Safety - Sandler, Travis & Rosenberg, P.A.",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQXFKcHM1MzBmczFMcVdMaXhFc2w2UHJHOXF5cTMzM0RBMElvdWtFVW5rR1JlUE1PVDlraEsxMXlwNHBBcmF5b3Q3ZHF5R0ZEQmFSbW84c2J4RU9xX0lFR0QwQUVRd2ZGbTJXQnQyWmpGd1BtdVh1ZEZUaWhNeFVNY0I4cjVoS2xfZ1VHM1FzYVg1OFJJcldvd0dwVVE0alNKTGlmUFhndG80Z293NnJhbmQ3MUJsNGFwQ2hDNEY5dUZuQno0RWtmZWlzOGt1aTdEdDZQNEFxUFZhSnpzcURZcHYtMWlxZmhzcEtj?oc=5",
    "ts": "Mon, 23 Nov 2026 18:04:16 GMT"
   },
   {
    "src": "gnews",
-   "title": "China calls on Switzerland to help resolve EU trade rift, oppose 'Taiwan independence' - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU0pwbkJPVTFZbU1zXzlVRlVjc3ljalJncnFvMS03d2REeGJzMG1kZDBRUFYzaVdUSDg5b0ptenlScXhFWGhIdHVmT0dybWtPN2RrWVMybUdKV3VzNENMemtuX1JpRVg1WURkTjJzUTM2d242SHJueGVxR3F5OUctMnJHeUxSOHQ2Z1o3UDVmMUV0U0w4RUlOdllFdTl2SjJvUnFTc3J6NEVzclgwVUZMaXFWSVVtMnZkNFVteElaUUFuSWs?oc=5",
-   "ts": "Mon, 23 Nov 2026 09:53:43 GMT"
+   "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
+   "ts": "Tue, 17 Nov 2026 23:01:15 GMT"
   }
  ]
 }

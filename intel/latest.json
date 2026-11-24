@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-24T06:16:02Z",
+ "ts": "2026-11-24T06:31:02Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -29,9 +29,8 @@
    "err": "HTTPError: HTTP Error 403: Forbidden"
   },
   "gnews": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 25
   },
   "gdelt": {
    "ok": false,
@@ -339,6 +338,126 @@
    "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
    "ts": "Fri, 2 Oct 2026 20:00:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
+   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "January 2027 U.S.-China trade deadlines: 4 risks to model - Thomson Reuters tax",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlU0E0SzZocmlwbmxWMWhQVHg2MWNBSHJBSzYtV09VWE5zZ2FIZGlBdXcwWExPWWFVSWVqU3l1aklFZ2p2bmxZNmY1OW5tanR5QXU4djlpRTB3b25zaGlLbEpmUE9JY1dQTlVUR3VRc3hRenFlUTlSNERhbGtBUEE?oc=5",
+   "ts": "Mon, 23 Nov 2026 18:29:17 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Administration Shifts Pacific Islands Policy Toward Trade - Legis1",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rcjRyNnBySjluWTFzTndVS1NkMXpieXF0VmR3aDBJZExIYTRCUk9mN2NidEZWOUZsaF9TdHViR0d4ZXhkQ0pwN0NTVW5RLXJmUG8ySl9yRmZmUVBfNm9mcFRqeklwQnhFODRFX215TThKNmtNM25Zak1n?oc=5",
+   "ts": "Mon, 23 Nov 2026 19:46:44 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Optical Transceiver Trade Restrictions Won’t Solve America’s China Dependency | Blogs | Nov 23, 2026 - Information Technology and Innovation Foundation",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY25Ra3RFb0J0Y3k1QnRUeTYxdXRPQ0FFeGFQYWlfVXpzcVBpdWtjVzI4UG80ZkxkRUtReXVEUktQLWJEb2xyRGtqVG9STzVIOTNPMVo4STRHZHpEYnh4ZGpwVWJsWHhraG1QeEhDVEdQRldUb1o2dmZqeWo1dkRPY2p1TzE3dkRtSVJIT1pVSzVPbFdfVTgyS0N6Wmt2dnlJc0FnM1NVSWR4aldLcXNIZEdpT2xhVGdrRFBj?oc=5",
+   "ts": "Mon, 23 Nov 2026 20:56:21 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
+   "ts": "Fri, 20 Nov 2026 13:16:47 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
+   "ts": "Tue, 24 Nov 2026 05:39:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "How Value-Added in Trade Complicates the Tariff Picture - Tax Foundation",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jOVZQT0lvQ1ljTFRpa0trX0tuRXpNc1ZIUGk4VFcxYmpGcEZPdTdXOGJzdnVtdldMSjRWS3A1YVRzMUpDb0lOTzZVLUlpS2pQSnZCX3NLYlZvMGE2dUd1N2tEckNQTHVqbVVyY2lqZWlzZ1BnOW1IQTlR?oc=5",
+   "ts": "Mon, 23 Nov 2026 18:48:19 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump to meet NATO chief ​Mark Rutte on Wednesday, White House says - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnFJU2tabWVwRnU2YnozaFFRTWZ4VWc4TmNseXdPRGZoa25Zc0RXZ251ODdJQ3ZxYl9fWVhlSkwtU0xhajZpeHNRSXQyclM0WUdKT1Y2cHh1OExteDRnVUlfcFVMaXc1X3NnNk15QTczVklYMHR5dVZldGJBcGtnRjhlaDczNFQ0RnZoMWFlRC1rZ1pfWGUwYlNGMmNuNVlXam9peE5xb0NKWTQ?oc=5",
+   "ts": "Tue, 24 Nov 2026 03:48:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump administration adds Megaspeed to trade blacklist after Jensen Huang scandal - CBS News",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbjl4VjBtQnpzUHdiT29DQ1Nta25jWHFRSGh3WEk1ZVhsaEdhVUlHRzRUOEpFX2ctV0lYaU12RGZSYks2NWdUd0ZDVHY1dkxjQkJ6N2RCTV85Wm1VY1RDUGVlbjBuSWFxSU9WYnlZQVZZMHFnTGh6bkFXZ3FRVUlLNA?oc=5",
+   "ts": "Mon, 23 Nov 2026 21:55:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US political coalition calls for US-China trade to be tied to religious freedom - Premier Christian News",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS0Q3OWtMMEhzenZnb2tPZlAyTWZuRGdsRmlySGZkOGZUNS1lMTNBSXVGZ2FoOVZRaFJxdjhXNFNHTjEtM1M1eVRKNVJURWplaC10S2NJRzN1M0JlVlVYWHJVV0NwdjFqbDRRODVxejZkcnZHUXpmVVk0QTRvMFdnUjMtVHZ2dTNWYmgwUl9IN2tTeVZYOFpBcmNoME40eGs?oc=5",
+   "ts": "Tue, 24 Nov 2026 02:30:47 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFZzdnVBMkZsMW5oa0gzM2NSakFMYWVkQ2U3bVdKQU9rdUh2eG1QTENaWTQ1RlhJTFUxNl9CR1VkM1JzRU5Vd1N4Qzg0ajNKZTEwdVctTG0wQ3IwNkdETTlsLUlCcl80YzZGc3lmTlVMNHlEZEJITXpfclNZb2lWTmxjR0VpZWVzMW9DcXBhLVZpZG1kZEQxUUN4VjFXOHByN1NHUFd5X3pPcWVSVV9r?oc=5",
+   "ts": "Mon, 23 Nov 2026 10:00:20 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump and Newsom clash over California death penalty and presidential pardons - Sacramento Bee",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81WWI4V3FrdkFIcTd6T192eHlPZEpLbWU3STlQRTI1VEY2ek1qYW05akRNVkZESGNOVnROQnpMTjlubGRkQ28wZW1pclF1SS1RSURXS1RwMVNLdlpLbXk1Nm9EdFp3aE3SAWdBVV95cUxQeTJLMnZKRFZ2WkdWZkFIcnkzR0tIZ2RGcU9rWGUxTFUweXBXV18xaFh6M01lQkI5UDRxOS0xQk10QlVnMmduQXFaWWRHd3lwbzJYc0VVa19reWtYTmNDUHl6Wjk5R2xF?oc=5",
+   "ts": "Mon, 23 Nov 2026 23:58:40 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump and Newsom Trade Barbs Over California’s Death Row - LAmag",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3ZpNUZNN21CUXZpc0NGSkRxWEkxWDJ0WW0tYy1MbjI3TUJXYUlETmZsdDc3RUJjSklvcUFfTmJTci11bE5BeDRpNjZueFVUaUpFS0hBNU01RGROQU9FNlpzRVM2MlNoWmVOY0tsOEZZcFRNZlZ4N25sOEgyMzNfa3J0SDk2aWdPZTk4?oc=5",
+   "ts": "Mon, 23 Nov 2026 23:01:37 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner - BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mTWVNVnJqN0QzRHlBbnBNMEpZY3IyblBXQjQwczFhU3d0U2pOTnJBa2UzNnA4T0NmRHM0SVd3YXBnQWVEd3VDM1M0M2xfQjlTaktBZUVGRXQtZnc?oc=5",
+   "ts": "Mon, 23 Nov 2026 17:14:50 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Mexico and China Set Up Working Group to Boost Trade and Expand Mexican Exports - The China-Global South Project",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmYwejlrZDhGQXFCQm0zWmQ1RkxPVHlzNlIzUVJHU0JYVnZEY1ZrajZQNFVKWUtqbEM0dHFHcmdsb2xFXzF2WEpLcEVvNG5SWUJfUzJtNURLbzBaaTJQakVRb3J6d2YtQTVvSFZ6NUFFdnpxYkZLS1NPdlVJX3VCNEljR3VWbGQyUUg4NmFJSEFRRm9XQlZ0RmVGcw?oc=5",
+   "ts": "Mon, 23 Nov 2026 18:02:05 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Marcelo Ebrard, Wang Wentao Agree Working Group To Boost Mexico-China Trade: 6 outlets compared - NewsCord",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOalRELUtwQmM0dVNrTVAzbkFGYTAtS09xNmJLeERSUGhqb2s4SUtXeF9iMnFYY0c1OWI0SU9LOGF3RGpyM19aVlpWTG5jT25zRkVaUzdRSEU2TmlNNXRvZTV4NnBCMXlINWxNdmZHOWFKdUxBMFBHa1VjOUkyYjlLTlMwTkNXcUVYQ3AzdWcydnI1WVh6dDFoYkR1eEE0SW1ydWYwT3h1Z2ZmTEM3VG82NlF3VGpNUUhpUk9vYnlMa1BRLUlBMmFzVUQ2aXdMNjNVYzVvWVhFOXM5LWVESENjSnZR?oc=5",
+   "ts": "Mon, 23 Nov 2026 17:25:22 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Farm Bureau’s Houston: China Clarity, North American Trade Top Farm Country’s Wish List - American Ag Network",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVmhvb0lLQ3VfaHg1VWwxb2FjWWlUUUlnSHNyRm92bDctMWxUR2R5dXlzTG9YWkVxZmF2eG1zQk5NanBFM0J4VGRqMWhySmF3c2VtY0c5X3VQRWh1RnJrM2t1VXVYYWZuSGV3N1ZsVFo2TTE2SElQX1hNZHl2WndYaF83MldlcVIxSjI0bTBjZldyeHlUeTgtTFZ5VGFpQXJoMHZhVGp1azdQalpPVTJISjdYR1RBUlR1UXZ0bUpIWjNSd2pPYTFMWQ?oc=5",
+   "ts": "Mon, 23 Nov 2026 21:15:50 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Legislative Update: China, Clothing, Enforcement, Semiconductors, Exports, Product Safety - Sandler, Travis & Rosenberg, P.A.",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQXFKcHM1MzBmczFMcVdMaXhFc2w2UHJHOXF5cTMzM0RBMElvdWtFVW5rR1JlUE1PVDlraEsxMXlwNHBBcmF5b3Q3ZHF5R0ZEQmFSbW84c2J4RU9xX0lFR0QwQUVRd2ZGbTJXQnQyWmpGd1BtdVh1ZEZUaWhNeFVNY0I4cjVoS2xfZ1VHM1FzYVg1OFJJcldvd0dwVVE0alNKTGlmUFhndG80Z293NnJhbmQ3MUJsNGFwQ2hDNEY5dUZuQno0RWtmZWlzOGt1aTdEdDZQNEFxUFZhSnpzcURZcHYtMWlxZmhzcEtj?oc=5",
+   "ts": "Mon, 23 Nov 2026 18:04:16 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Mexico, China agree to create working group to boost trade - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGQzdEcwdnZKUC05dU4zQWZFRkRKV0tmVTM1d0oxeU5ldlM0Ukk4RVhlZTNPZXZtQ2tGejdIa1V1SEdvLUx5VHJ6dGxDWlhya041NE9MckZkOEFzbjNneGhwMzFDOXhrWGx3c0JFMFg1NnhnaURuYVNpRWRIakNqbWxueHlYeU1zY3ZLYkVtZTVoX1JEV2N0Ug?oc=5",
+   "ts": "Mon, 23 Nov 2026 16:47:48 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "We can't be sure that chip trade will be open to China: BofA - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWU5yR3piRU9NOURReXRPUnNfY3dtR1VwdDF0VlBnb3dienZfZ0Q2NUdvZERXemE4ZDBRZmctZkxTTU5EWDhpc1ZrXzVZX0tBWENJY296bUNBV3FCOGE3RFAxRm5MeXVJTHJTRDJoYlhsQlJDRWZaWFFaaHZuOHFPTk9zR0ZGTWo2NTZHTTVHMGxNRVlQQld1Q3VfbXJ0UURsVFNOaklJRGxINFl1dko1YWZXcw?oc=5",
+   "ts": "Tue, 24 Nov 2026 03:28:05 GMT"
   }
  ]
 }

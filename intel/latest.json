@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-24T01:15:56Z",
+ "ts": "2026-11-24T01:30:59Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -389,6 +389,12 @@
   },
   {
    "src": "gnews",
+   "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
+   "ts": "Mon, 23 Nov 2026 23:18:58 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFZzdnVBMkZsMW5oa0gzM2NSakFMYWVkQ2U3bVdKQU9rdUh2eG1QTENaWTQ1RlhJTFUxNl9CR1VkM1JzRU5Vd1N4Qzg0ajNKZTEwdVctTG0wQ3IwNkdETTlsLUlCcl80YzZGc3lmTlVMNHlEZEJITXpfclNZb2lWTmxjR0VpZWVzMW9DcXBhLVZpZG1kZEQxUUN4VjFXOHByN1NHUFd5X3pPcWVSVV9r?oc=5",
    "ts": "Mon, 23 Nov 2026 10:00:20 GMT"
@@ -404,12 +410,6 @@
    "title": "Mexico and China Set Up Working Group to Boost Trade and Expand Mexican Exports - The China-Global South Project",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmYwejlrZDhGQXFCQm0zWmQ1RkxPVHlzNlIzUVJHU0JYVnZEY1ZrajZQNFVKWUtqbEM0dHFHcmdsb2xFXzF2WEpLcEVvNG5SWUJfUzJtNURLbzBaaTJQakVRb3J6d2YtQTVvSFZ6NUFFdnpxYkZLS1NPdlVJX3VCNEljR3VWbGQyUUg4NmFJSEFRRm9XQlZ0RmVGcw?oc=5",
    "ts": "Mon, 23 Nov 2026 18:02:05 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
-   "ts": "Mon, 23 Nov 2026 21:07:02 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
-   "ts": "Tue, 17 Nov 2026 23:01:15 GMT"
+   "title": "China, EU officials discuss exchange rates as central bank chief Pan urges cooperation - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUWNYVlZ3cS13LVJjUDh4bHJiNHB1NGNvR1pTREJFTUJqU245dEsxV1JSMTlVdmE4Yk1KUVhfVDJlYVhUeVU0ZGhlc2FfejgwN2RFVUUxX3dMeVdwMldlSDA1RDFmRTkySjFQVVJQV0QxVW9jRkpjb2doa0V0TUkwQUgyXzJrbnhPQVhnU2RLdUtJZ2NtTTREY0x2cERBeTVJVGNRZXZpUUJ4YmtNVzNIVy03VHEySnhTdkhBNDZmNEQ?oc=5",
+   "ts": "Mon, 23 Nov 2026 13:03:43 GMT"
   }
  ]
 }

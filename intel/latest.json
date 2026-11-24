@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-24T13:01:05Z",
+ "ts": "2026-11-24T13:16:08Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
   }
  },
  "items": [
@@ -341,6 +341,12 @@
   },
   {
    "src": "gnews",
+   "title": "Bumpier U.S.-China Trade Is Coming - China-US Focus",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJNUURnenNwRV9MaTlCUFZOejU2T2xNeTRSTzlOaFBRLTNNcmhrbVdlSjZ6b1g4RDJnSXBuSlJFZ3dzeDdEc3ZlY21ES0lQZFYyWm9TWHBtTm1haUhKaFJnM1JDcjVmRVQyOU5tTmRHM1RzUnl3YXRmM3FVc0RIUzIybw?oc=5",
+   "ts": "Tue, 24 Nov 2026 13:02:14 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Is the US-China trade truce unravelling? Nvidia, rare earths, and the consequences for Europe - European Union Institute for Security Studies |",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0JBTFRQT0FabnR2aG9IdGswaDg0bEtBakRRZkZMaDFEeXBMNFprVmJzMG9tSE5laHJjcXI3dFljSG5GR0lpTEhqVmt4SV9EcC1PdkdjSHgxNEVTQ2VLQzVjbFJPeTZLZmtGQWVnakVGQkpUNHpCb3RFUlE5WlIta1VJNVAwZDMyZ1lCZHBUMjV5aUU5OExSdWFSWnVaeXRadHJxWDc5SEtyd2x2WTJRVmRKaVI1cDcyd3FB?oc=5",
    "ts": "Tue, 24 Nov 2026 09:12:46 GMT"
@@ -362,6 +368,12 @@
    "title": "Trump Administration Shifts Pacific Islands Policy Toward Trade - Legis1",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rcjRyNnBySjluWTFzTndVS1NkMXpieXF0VmR3aDBJZExIYTRCUk9mN2NidEZWOUZsaF9TdHViR0d4ZXhkQ0pwN0NTVW5RLXJmUG8ySl9yRmZmUVBfNm9mcFRqeklwQnhFODRFX215TThKNmtNM25Zak1n?oc=5",
    "ts": "Mon, 23 Nov 2026 19:46:44 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump administration adds Megaspeed to trade blacklist after Jensen Huang scandal - CBS News",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbjl4VjBtQnpzUHdiT29DQ1Nta25jWHFRSGh3WEk1ZVhsaEdhVUlHRzRUOEpFX2ctV0lYaU12RGZSYks2NWdUd0ZDVHY1dkxjQkJ6N2RCTV85Wm1VY1RDUGVlbjBuSWFxSU9WYnlZQVZZMHFnTGh6bkFXZ3FRVUlLNA?oc=5",
+   "ts": "Mon, 23 Nov 2026 21:55:00 GMT"
   },
   {
    "src": "gnews",
@@ -389,27 +401,15 @@
   },
   {
    "src": "gnews",
-   "title": "China Halts Critical Minerals Ban to Maintain Truce With US - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVl4NjNqN2gwZ0daMjNHNG1lRHU3bmVyQUszYk1BN0U1OXgyYkxJdjcwVjZZSHNQZUZ2VWZYM2g1UjRXTjBPSnpuUlZESWNuMkZHd0tpQnZuT2ZTVDNRR3RuYjlpbWsxWFYzQmxWa2ZMWnU5WUkyNnA4LWk0dHExVWdHRWhhd3J5MnIzNTJYT2pSZmZkaF9CVUVlQjd2OEhQeDZvX1VEb1Q2UzRhZ2I4?oc=5",
-   "ts": "Tue, 24 Nov 2026 10:19:56 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "How Value-Added in Trade Complicates the Tariff Picture - Tax Foundation",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jOVZQT0lvQ1ljTFRpa0trX0tuRXpNc1ZIUGk4VFcxYmpGcEZPdTdXOGJzdnVtdldMSjRWS3A1YVRzMUpDb0lOTzZVLUlpS2pQSnZCX3NLYlZvMGE2dUd1N2tEckNQTHVqbVVyY2lqZWlzZ1BnOW1IQTlR?oc=5",
    "ts": "Mon, 23 Nov 2026 18:48:19 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump administration adds Megaspeed to trade blacklist after Jensen Huang scandal - CBS News",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbjl4VjBtQnpzUHdiT29DQ1Nta25jWHFRSGh3WEk1ZVhsaEdhVUlHRzRUOEpFX2ctV0lYaU12RGZSYks2NWdUd0ZDVHY1dkxjQkJ6N2RCTV85Wm1VY1RDUGVlbjBuSWFxSU9WYnlZQVZZMHFnTGh6bkFXZ3FRVUlLNA?oc=5",
-   "ts": "Mon, 23 Nov 2026 21:55:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
-   "ts": "Tue, 17 Nov 2026 23:01:15 GMT"
+   "title": "EU Adopts Cap on Hybrid Cars to Help Curb Chinese Imports - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnJZcDFUVUFqQm9UemlwNXFEa05tdnNGNmZWRmE5YVd4T25IRW0yTThlNVp5SDJ3bVhVb1M0UkNTNERCNXFJNFRva3lFMjk0TmNETmFsZDZHSnI1NFZnUUp6ZERoNjVMd1pJc3hEQTViWEZRd3VtU3Rod3k2WnJ5cGFfVjNhSnJpN0x0ZDcwVm9hdEFfNmhNUmJuV3ItZkZmV3JlN2l2NFFMS0U0?oc=5",
+   "ts": "Tue, 24 Nov 2026 09:06:37 GMT"
   },
   {
    "src": "gnews",
@@ -425,27 +425,27 @@
   },
   {
    "src": "gnews",
+   "title": "Trump to meet NATO chief ​Mark Rutte on Wednesday, White House says - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnFJU2tabWVwRnU2YnozaFFRTWZ4VWc4TmNseXdPRGZoa25Zc0RXZ251ODdJQ3ZxYl9fWVhlSkwtU0xhajZpeHNRSXQyclM0WUdKT1Y2cHh1OExteDRnVUlfcFVMaXc1X3NnNk15QTczVklYMHR5dVZldGJBcGtnRjhlaDczNFQ0RnZoMWFlRC1rZ1pfWGUwYlNGMmNuNVlXam9peE5xb0NKWTQ?oc=5",
+   "ts": "Tue, 24 Nov 2026 03:48:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Why China needs more income taxation - Peterson Institute for International Economics",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVEFISEhwTEdLWHNNOEN0bUhoS2E2U2h2QXI1cHRDNmc5YnlsVmIwaGppem1OdHlkd3FETmN2OG5NSnJiNmVuR2ttUGg2QVFyclFXU3Q5LWN3MnZ0T0w2SmZDYVduaDdjSmpkbnZHT0xpMTE5bHBENFlEamxKWkt0VlRQVk05SjNfaDB3b2U3SUY?oc=5",
+   "ts": "Mon, 23 Nov 2026 14:00:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Legislative Update: China, Clothing, Enforcement, Semiconductors, Exports, Product Safety - Sandler, Travis & Rosenberg, P.A.",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQXFKcHM1MzBmczFMcVdMaXhFc2w2UHJHOXF5cTMzM0RBMElvdWtFVW5rR1JlUE1PVDlraEsxMXlwNHBBcmF5b3Q3ZHF5R0ZEQmFSbW84c2J4RU9xX0lFR0QwQUVRd2ZGbTJXQnQyWmpGd1BtdVh1ZEZUaWhNeFVNY0I4cjVoS2xfZ1VHM1FzYVg1OFJJcldvd0dwVVE0alNKTGlmUFhndG80Z293NnJhbmQ3MUJsNGFwQ2hDNEY5dUZuQno0RWtmZWlzOGt1aTdEdDZQNEFxUFZhSnpzcURZcHYtMWlxZmhzcEtj?oc=5",
    "ts": "Mon, 23 Nov 2026 18:04:16 GMT"
   },
   {
    "src": "gnews",
-   "title": "EU Adopts Cap on Hybrid Cars to Help Curb Chinese Imports - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnJZcDFUVUFqQm9UemlwNXFEa05tdnNGNmZWRmE5YVd4T25IRW0yTThlNVp5SDJ3bVhVb1M0UkNTNERCNXFJNFRva3lFMjk0TmNETmFsZDZHSnI1NFZnUUp6ZERoNjVMd1pJc3hEQTViWEZRd3VtU3Rod3k2WnJ5cGFfVjNhSnJpN0x0ZDcwVm9hdEFfNmhNUmJuV3ItZkZmV3JlN2l2NFFMS0U0?oc=5",
-   "ts": "Tue, 24 Nov 2026 09:06:37 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "U.S.-China détente masks growing risk of tech and trade confrontation in 2027: Expert - CNBC",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHMHJ6elNYM3V4OWtSOWVKSzdxSE82MTBrM2hTSG9XbERpWVBCa3A5akVKR3VyN2dvYzQzTFUzNTRnZUkxaFlLbGJMdnJnZnhjNmdrYVd0RUgwNDBHYjR6bEZHUjRGTXNYd1FtUjBaWlZJSmVodC1zWlpqb0JGdw?oc=5",
    "ts": "Tue, 24 Nov 2026 07:07:09 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump to meet NATO chief ​Mark Rutte on Wednesday, White House says - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnFJU2tabWVwRnU2YnozaFFRTWZ4VWc4TmNseXdPRGZoa25Zc0RXZ251ODdJQ3ZxYl9fWVhlSkwtU0xhajZpeHNRSXQyclM0WUdKT1Y2cHh1OExteDRnVUlfcFVMaXc1X3NnNk15QTczVklYMHR5dVZldGJBcGtnRjhlaDczNFQ0RnZoMWFlRC1rZ1pfWGUwYlNGMmNuNVlXam9peE5xb0NKWTQ?oc=5",
-   "ts": "Tue, 24 Nov 2026 03:48:00 GMT"
   },
   {
    "src": "gnews",

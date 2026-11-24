@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-24T00:45:56Z",
+ "ts": "2026-11-24T01:01:03Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -377,15 +377,15 @@
   },
   {
    "src": "gnews",
-   "title": "Mexico, China agree to create working group to boost trade - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGQzdEcwdnZKUC05dU4zQWZFRkRKV0tmVTM1d0oxeU5ldlM0Ukk4RVhlZTNPZXZtQ2tGejdIa1V1SEdvLUx5VHJ6dGxDWlhya041NE9MckZkOEFzbjNneGhwMzFDOXhrWGx3c0JFMFg1NnhnaURuYVNpRWRIakNqbWxueHlYeU1zY3ZLYkVtZTVoX1JEV2N0Ug?oc=5",
-   "ts": "Mon, 23 Nov 2026 16:47:48 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump administration adds Megaspeed to trade blacklist after Jensen Huang scandal - CBS News",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbjl4VjBtQnpzUHdiT29DQ1Nta25jWHFRSGh3WEk1ZVhsaEdhVUlHRzRUOEpFX2ctV0lYaU12RGZSYks2NWdUd0ZDVHY1dkxjQkJ6N2RCTV85Wm1VY1RDUGVlbjBuSWFxSU9WYnlZQVZZMHFnTGh6bkFXZ3FRVUlLNA?oc=5",
    "ts": "Mon, 23 Nov 2026 21:55:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Mexico, China agree to create working group to boost trade - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGQzdEcwdnZKUC05dU4zQWZFRkRKV0tmVTM1d0oxeU5ldlM0Ukk4RVhlZTNPZXZtQ2tGejdIa1V1SEdvLUx5VHJ6dGxDWlhya041NE9MckZkOEFzbjNneGhwMzFDOXhrWGx3c0JFMFg1NnhnaURuYVNpRWRIakNqbWxueHlYeU1zY3ZLYkVtZTVoX1JEV2N0Ug?oc=5",
+   "ts": "Mon, 23 Nov 2026 16:47:48 GMT"
   },
   {
    "src": "gnews",
@@ -431,6 +431,12 @@
   },
   {
    "src": "gnews",
+   "title": "Jensen Huang’s stunning return in 11 days – 5 key takeaways - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZU90YVhSdXM1WkZmdEYzbXNKYmRfc08wOW5vZmhWRGZtUGdRTm11SEdCdlpGbV9yTUZyU0NuTjcxc0g2d1pUXzNzZWNQdDJiOXZGUVNaMC1pdFRmZTF6LTNxSmFVenFqeDdtcGJfR1p3WE9PdTlzU2N6YW1TT2xUcnozT3NqcWc0bUViLWFRUk5KWXJIZ1NHVDFxZWlnNUZJSnlaVGxuaXVWQzkxSGJJS0xpOTNzb0NOMm95QVFR0gG-AUFVX3lxTE5KR0RWbEVpTEZaZzd3ZkN0Si0zSXZiS2pTbjF2dlBrWGpCa3g0ckRoT2hUZnVKcktPYzk0ZHpsaEhfeHR2ZnBfcURnNUx6YU03S2hxLUh4N2FRQ1I4V05zaDNyaXFZazhKeEdzMDhMaFVydUsxUDNDVEJINnpUNHliYWFkNXg4b0RwdUduaURxTHNGelVIVWFwV0diVXlVaEhjMG5PS21UZUN0WGV3YVlnQnZtLWtwaGhpUEtRWFE?oc=5",
+   "ts": "Mon, 23 Nov 2026 22:06:52 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump and Newsom Trade Barbs Over California’s Death Row - LAmag",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3ZpNUZNN21CUXZpc0NGSkRxWEkxWDJ0WW0tYy1MbjI3TUJXYUlETmZsdDc3RUJjSklvcUFfTmJTci11bE5BeDRpNjZueFVUaUpFS0hBNU01RGROQU9FNlpzRVM2MlNoWmVOY0tsOEZZcFRNZlZ4N25sOEgyMzNfa3J0SDk2aWdPZTk4?oc=5",
    "ts": "Mon, 23 Nov 2026 23:01:19 GMT"
@@ -452,12 +458,6 @@
    "title": "China calls on Switzerland to help resolve EU trade rift, oppose 'Taiwan independence' - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU0pwbkJPVTFZbU1zXzlVRlVjc3ljalJncnFvMS03d2REeGJzMG1kZDBRUFYzaVdUSDg5b0ptenlScXhFWGhIdHVmT0dybWtPN2RrWVMybUdKV3VzNENMemtuX1JpRVg1WURkTjJzUTM2d242SHJueGVxR3F5OUctMnJHeUxSOHQ2Z1o3UDVmMUV0U0w4RUlOdllFdTl2SjJvUnFTc3J6NEVzclgwVUZMaXFWSVVtMnZkNFVteElaUUFuSWs?oc=5",
    "ts": "Mon, 23 Nov 2026 09:53:43 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China, EU officials discuss exchange rates as central bank chief Pan urges cooperation - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUWNYVlZ3cS13LVJjUDh4bHJiNHB1NGNvR1pTREJFTUJqU245dEsxV1JSMTlVdmE4Yk1KUVhfVDJlYVhUeVU0ZGhlc2FfejgwN2RFVUUxX3dMeVdwMldlSDA1RDFmRTkySjFQVVJQV0QxVW9jRkpjb2doa0V0TUkwQUgyXzJrbnhPQVhnU2RLdUtJZ2NtTTREY0x2cERBeTVJVGNRZXZpUUJ4YmtNVzNIVy03VHEySnhTdkhBNDZmNEQ?oc=5",
-   "ts": "Mon, 23 Nov 2026 13:03:43 GMT"
   }
  ]
 }

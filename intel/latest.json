@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-25T10:15:55Z",
+ "ts": "2026-11-25T10:30:57Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -400,15 +401,15 @@
   },
   {
    "src": "gnews",
-   "title": "Bumpier U.S.-China Trade Is Coming - China-US Focus",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJNUURnenNwRV9MaTlCUFZOejU2T2xNeTRSTzlOaFBRLTNNcmhrbVdlSjZ6b1g4RDJnSXBuSlJFZ3dzeDdEc3ZlY21ES0lQZFYyWm9TWHBtTm1haUhKaFJnM1JDcjVmRVQyOU5tTmRHM1RzUnl3YXRmM3FVc0RIUzIybw?oc=5",
-   "ts": "Tue, 24 Nov 2026 13:02:14 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "US ready to slap tariffs on China, EU and others over subsidized production, AP sources say - WRAL",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRFo0SWJrenR6QVh4ckh5UHhyQl9zUnI1MzFqbWFEVTdDcU5fa1l2NVdlbEVVS2ZUN0lKWFgyMlRfT2VTaHM3MGtQd0pHR0FmemFCOGpwY1hBbU1OUmVpMUZJOVMyVmhmMWtXSlZmS2hGSlItWFE1VldsWGpQTEl0RE41eWFyUXdNX2QxU2dMRTdyTnoyS1lGSlRhWUFQWDduaEhXYmRwLUpmU2Y0SlJ3ZWZFMzllaERsY3BkdFhFM2Fud2s?oc=5",
    "ts": "Wed, 25 Nov 2026 06:30:15 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Bumpier U.S.-China Trade Is Coming - China-US Focus",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJNUURnenNwRV9MaTlCUFZOejU2T2xNeTRSTzlOaFBRLTNNcmhrbVdlSjZ6b1g4RDJnSXBuSlJFZ3dzeDdEc3ZlY21ES0lQZFYyWm9TWHBtTm1haUhKaFJnM1JDcjVmRVQyOU5tTmRHM1RzUnl3YXRmM3FVc0RIUzIybw?oc=5",
+   "ts": "Tue, 24 Nov 2026 13:02:14 GMT"
   },
   {
    "src": "gnews",
@@ -436,15 +437,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump's next Section 301 tariffs raise stakes for US-China trade truce deadline - digitimes",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSFl2TS1hRF8tTkRJT1VrZlZ5STIxeE1kVmRvQzQzNWFtcDNDdmdUX2NGM1ZqY2p5Z203S3U4bEc2MDVPQmtmUjRmMkF0MldWSl8weDQxck9LWVdxTUwxQnNPVnJSTDFPS0hCTDBXTHlpVzNKWWd2dlpwTzJvdDl2VzNXT1lsb3VKbWlLTDJSc0oxLTdnTWZZbXB3?oc=5",
-   "ts": "Wed, 25 Nov 2026 03:35:31 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "January 2027 U.S.-China trade deadlines: 4 risks to model - Thomson Reuters tax",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlU0E0SzZocmlwbmxWMWhQVHg2MWNBSHJBSzYtV09VWE5zZ2FIZGlBdXcwWExPWWFVSWVqU3l1aklFZ2p2bmxZNmY1OW5tanR5QXU4djlpRTB3b25zaGlLbEpmUE9JY1dQTlVUR3VRc3hRenFlUTlSNERhbGtBUEE?oc=5",
-   "ts": "Mon, 23 Nov 2026 18:29:17 GMT"
+   "title": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business - CNN",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUV1kzeXRETGd2Z016cUVXUm50cE1RTW14Nmp2empqQ2Y3d2laSFBWN1dZSkQxeGpaamNLaTRYd1d3ZFE2TVN4cW4tc2I2ZXpSamg2MG1JZXpHeHdBVUdKbzhrMmFwOXh3MTJQTkdoamdDRFI5NU5MSUF0V190MUE?oc=5",
+   "ts": "Wed, 25 Nov 2026 01:22:00 GMT"
   },
   {
    "src": "gnews",
@@ -459,124 +454,10 @@
    "ts": "Fri, 20 Nov 2026 13:16:47 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "  Staggering  increase in energy price cap sees call for  urgent  action",
-   "url": "https://www.sloughobserver.co.uk/news/national/26760322.staggering-increase-energy-price-cap-sees-call-urgent-action/",
-   "ts": "20261125T093000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " « Εκανα τρομερά λάθη »: Παραδέχθηκε νέες εξωσυζυγικές σχέσεις ο Τζένσεν Χουάνγκ της Nvidia - Οι αναταράξεις στη Γουολ Στριτ και οι αντιδράσεις για την επιστροφή του",
-   "url": "https://www.huffingtonpost.gr/diethnes/jensen-huang-nvidia/",
-   "ts": "20261125T093000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "网传马斯克带娃赴英伟达总部给黄仁勋站台 本人转发帖子",
-   "url": "https://original.ifeng.com/c/8yLEK0ro5tP",
-   "ts": "20261125T093000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US DOJ charges over 800 defendants in 400 cases in global anti - scam crackdown",
-   "url": "http://www.zimbabwestar.com/news/279453166/us-doj-charges-over-800-defendants-in-400-cases-in-global-anti-scam-crackdown",
-   "ts": "20261125T064500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Businesses are barely hanging on retaliatory tariffs are just making it worse - The Hill Times",
-   "url": "https://www.hilltimes.com/2026/11/23/businesses-are-barely-hanging-on-retaliatory-tariffs-are-just-making-it-worse/527209/",
-   "ts": "20261125T064500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Kilmar Abrego Garcia , who fought his mistaken deportation , leaves the US voluntarily for Spain",
-   "url": "https://www.2news.com/news/national/kilmar-abrego-garcia-who-fought-his-mistaken-deportation-leaves-the-us-voluntarily-for-spain/article_4b705656-1293-5380-94e7-da8af8da3fec.html",
-   "ts": "20261125T064500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Separating fact from political fantasy not as easy as it seems - The Hill Times",
-   "url": "https://www.hilltimes.com/2026/11/25/separating-fact-from-political-fantasy-not-as-easy-as-it-seems/527372/",
-   "ts": "20261125T064500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Kütahyada kadınların eğitim ve istihdamı için koordinasyon toplantısı yapıldı",
-   "url": "https://www.haberler.com/yerel/kutahya-da-kadinlarin-egitim-ve-istihdami-icin-20459955-haberi/",
-   "ts": "20261125T064500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Germany braces for possible US troop cuts as Pentagon nears decision",
-   "url": "https://www.politico.eu/article/germany-us-troop-cut-pentagon-decision/",
-   "ts": "20261125T064500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Latest YouGov Poll Shows Majority Of Americas Still Support Mass Deportations",
-   "url": "https://www.zerohedge.com/political/latest-yougov-poll-shows-majority-americas-still-support-mass-deportations",
-   "ts": "20261125T064500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "加防长回击五角大楼指责 捍卫加拿大主权 _ 军事频道 _ 中华网",
-   "url": "https://military.china.com/news/13004177/20261125/49906152.html",
-   "ts": "20261125T064500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Praises El - Sayed After Medicare for All Twist :  He a Smart Guy  ",
-   "url": "https://www.newsweek.com/trump-praises-el-sayed-after-medicare-for-all-twist-hes-a-smart-guy-12765887",
-   "ts": "20261125T064500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "The Army says there no reason to panic over controlled ammunition detonation in Iowa",
-   "url": "https://www.apr.org/2026-11-24/the-army-says-theres-no-reason-to-panic-over-controlled-ammunition-detonation-in-iowa",
-   "ts": "20261125T064500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Кибератака удари ЦРУ , TikTok се срина ,  Код червено  в Microsoft",
-   "url": "https://www.actualno.com/america/kiberataka-udari-cru-tiktok-se-srina-kod-cherveno-v-microsoft-news_2666689.html",
-   "ts": "20261125T064500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Gold price prediction today : Is there any end to gold price fall ? Check November 25 , 2026 outlook",
-   "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-india-where-is-gold-silver-rate-headed-on-november-25-2026-mcx-gold-futures-outlook-us-iran-war-middle-east-tensions-federal-reserve/articleshow/136150452.cms",
-   "ts": "20261125T064500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Wekdienst 25 / 11 : NAVO - chef Rutte praat met Trump • Strafeis mishandeling Plein Den Haag",
-   "url": "https://nos.nl/artikel/2640913-wekdienst-25-11-navo-chef-rutte-praat-met-trump-strafeis-mishandeling-plein-den-haag",
-   "ts": "20261125T064500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Pentagon hires conservative contractors to audit military base schools and pilot  classical  PE",
-   "url": "http://www.hngnews.com/nation_world/pentagon-hires-conservative-contractors-to-audit-military-base-schools-and-pilot-classical-pe/article_61ccd039-74ca-5d80-abbf-4446591fe4f6.html",
-   "ts": "20261125T054500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Американська розвідка зазнала кібератаки : що потрапило до мережі",
-   "url": "https://glavcom.ua/world/world-politics/amerikanska-rozvidka-zaznala-kiberataki-shcho-potrapilo-do-merezhi-1157833.html",
-   "ts": "20261125T054500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Трамп высказался о возможности помилования Хуанга",
-   "url": "https://lenta.ru/news/2026/11/25/tramp-vyskazalsya-o-vozmozhnosti-pomilovaniya-huanga/",
-   "ts": "20261125T054500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "AP News in Brief at 12 : 04 a . m . EST",
-   "url": "http://www.hngnews.com/nation_world/ap-news-in-brief-at-12-04-a-m-est/article_46e11ebc-3cc7-5956-a826-4d19cf4207ea.html",
-   "ts": "20261125T054500Z"
+   "src": "gnews",
+   "title": "Trump's next Section 301 tariffs raise stakes for US-China trade truce deadline - digitimes",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSFl2TS1hRF8tTkRJT1VrZlZ5STIxeE1kVmRvQzQzNWFtcDNDdmdUX2NGM1ZqY2p5Z203S3U4bEc2MDVPQmtmUjRmMkF0MldWSl8weDQxck9LWVdxTUwxQnNPVnJSTDFPS0hCTDBXTHlpVzNKWWd2dlpwTzJvdDl2VzNXT1lsb3VKbWlLTDJSc0oxLTdnTWZZbXB3?oc=5",
+   "ts": "Wed, 25 Nov 2026 03:35:31 GMT"
   }
  ]
 }

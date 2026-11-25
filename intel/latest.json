@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-25T08:46:00Z",
+ "ts": "2026-11-25T09:00:58Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -341,21 +340,15 @@
   },
   {
    "src": "gnews",
+   "title": "Exclusive | U.S. Prepares to Raise Tariffs on China and Other Countries - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRKZFY1SDBYYTNwNWlxcjFqNFdGMmpQdXc3RzEyb0NoWHE3MmZoX3hBMmdnR0doa3JUUmhoN2xaUTR6dUVuajlkX19tZmN3ZHFOTUNkWnJmV3RVaThzRXVWbXZlNWVpb3k1WmNzOFRYUDRCTjg1S1g3YTRaMDZMT3lhVm8wM3VHdG1BaWlvTTZNY2JNMlR1aHNzV3RyQVk5MW44?oc=5",
+   "ts": "Tue, 24 Nov 2026 13:08:58 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Is the US-China trade truce unravelling? Nvidia, rare earths, and the consequences for Europe - European Union Institute for Security Studies |",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0JBTFRQT0FabnR2aG9IdGswaDg0bEtBakRRZkZMaDFEeXBMNFprVmJzMG9tSE5laHJjcXI3dFljSG5GR0lpTEhqVmt4SV9EcC1PdkdjSHgxNEVTQ2VLQzVjbFJPeTZLZmtGQWVnakVGQkpUNHpCb3RFUlE5WlIta1VJNVAwZDMyZ1lCZHBUMjV5aUU5OExSdWFSWnVaeXRadHJxWDc5SEtyd2x2WTJRVmRKaVI1cDcyd3FB?oc=5",
    "ts": "Tue, 24 Nov 2026 21:12:47 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
-   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump administration tees up tariff hikes on EU, China, others - Politico",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHdmanQya1ZpbmtJaGc1SHh1NFItcHdxWXlLX2VGZG9NLUlDeV9RYWRVek5GWVlxdXpfNFRmRmlLMnpBZl9fWDVmTkx4ZFd0TnlGanhsbFA1XzJ3SjM3di1wMFl0MzREQ1RYWGJ5SDAtbmVYNm01YllCS29qN0ZfenB2N05OVXoxNVJFX1oxRkV1TFIwZ2U1RA?oc=5",
-   "ts": "Tue, 24 Nov 2026 16:18:00 GMT"
   },
   {
    "src": "gnews",
@@ -365,9 +358,9 @@
   },
   {
    "src": "gnews",
-   "title": "Exclusive | U.S. Prepares to Raise Tariffs on China and Other Countries - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRKZFY1SDBYYTNwNWlxcjFqNFdGMmpQdXc3RzEyb0NoWHE3MmZoX3hBMmdnR0doa3JUUmhoN2xaUTR6dUVuajlkX19tZmN3ZHFOTUNkWnJmV3RVaThzRXVWbXZlNWVpb3k1WmNzOFRYUDRCTjg1S1g3YTRaMDZMT3lhVm8wM3VHdG1BaWlvTTZNY2JNMlR1aHNzV3RyQVk5MW44?oc=5",
-   "ts": "Tue, 24 Nov 2026 13:08:00 GMT"
+   "title": "Trump administration tees up tariff hikes on EU, China, others - Politico",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHdmanQya1ZpbmtJaGc1SHh1NFItcHdxWXlLX2VGZG9NLUlDeV9RYWRVek5GWVlxdXpfNFRmRmlLMnpBZl9fWDVmTkx4ZFd0TnlGanhsbFA1XzJ3SjM3di1wMFl0MzREQ1RYWGJ5SDAtbmVYNm01YllCS29qN0ZfenB2N05OVXoxNVJFX1oxRkV1TFIwZ2U1RA?oc=5",
+   "ts": "Tue, 24 Nov 2026 16:18:00 GMT"
   },
   {
    "src": "gnews",
@@ -395,12 +388,6 @@
   },
   {
    "src": "gnews",
-   "title": "China, US Set for ‘New Chapter’ of Trade Talks, Ex-Official Says - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXNHUkhmNU9qNlc5SUphend6U184Y1FWa1AtemhrWlBhRUw0elViZG1YTVFxMHZkME03YXlqUk9LSFVaMGI5enZwelJZVlhHWDdFcXEwLVYwMUZEOW5COURWMG5VcWhIbERGcUVrWWtlN181TEdpcGNJZkpqSUhuY2c5OXh4SW9DYlJ2XzNFRjVYS0FjNlRsM3FhNkFfZms5enA0V0h5TFNGOVduY2pLdA?oc=5",
-   "ts": "Wed, 25 Nov 2026 06:59:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Tariffs are Trump's 'primary tool' in his America First trade policy: Expert - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KSmhnQjA5d3RuX1p5TkxEbXhyby1ITkt5ZFlJa1BaUWV3VnlXQlNWMzlpenZ0MXJRRVB0SENYX050X1dtbi14d3lvN3M2c09TUzZ3aU9QdVVtQmdGeGJiNmxkYzQ?oc=5",
    "ts": "Wed, 25 Nov 2026 06:54:08 GMT"
@@ -416,6 +403,12 @@
    "title": "China issues list of demands to Brussels over EU trade talks - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbmc5T051a1RjaVVFXzVfLXoyWEVleUlvdjlvbVZBdF9BSExmYy1kRUZFUWc2VWdZYVpFY1FFWnpPX1RiNWprMzl0NU9fcU1aRFBtcUItXzVZM1czR0pmTTdwX2VnaHlWNGNCU0RZY3dwalQ1Q3VqSExac21xa3J4T0FSYlo?oc=5",
    "ts": "Wed, 25 Nov 2026 06:04:54 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China, US Set for ‘New Chapter’ of Trade Talks, Ex-Official Says - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXNHUkhmNU9qNlc5SUphend6U184Y1FWa1AtemhrWlBhRUw0elViZG1YTVFxMHZkME03YXlqUk9LSFVaMGI5enZwelJZVlhHWDdFcXEwLVYwMUZEOW5COURWMG5VcWhIbERGcUVrWWtlN181TEdpcGNJZkpqSUhuY2c5OXh4SW9DYlJ2XzNFRjVYS0FjNlRsM3FhNkFfZms5enA0V0h5TFNGOVduY2pLdA?oc=5",
+   "ts": "Wed, 25 Nov 2026 08:26:54 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +451,132 @@
    "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
    "ts": "Fri, 20 Nov 2026 13:16:47 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China urges Britain to support free trade, provide favourable business environment - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT2otaUM0a09JTlpaVGx6ek9ySzBBRW5seUhvMldlc2tmN0ZxczExZFhNTTlzeGJXa2dUbHE3R3J5c19xWEIyUGRnZjZaZWxMaE55TzZrR1VGNG0ycVBWUm5wYlE4QlNKQjRtQVpFWUFRY3ZLMXg3Rkg4RXpsYnZESG56U0E1UFo3LWR5RkhPYURibk1Ga3d6bG9wV3RZb3FRMldxZ1plRl9nSHBnZEdRMUlteEVfZ3RPaGVGSG94Ujk?oc=5",
+   "ts": "Tue, 24 Nov 2026 15:03:43 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "US DOJ charges over 800 defendants in 400 cases in global anti - scam crackdown",
+   "url": "http://www.zimbabwestar.com/news/279453166/us-doj-charges-over-800-defendants-in-400-cases-in-global-anti-scam-crackdown",
+   "ts": "20261125T064500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Businesses are barely hanging on retaliatory tariffs are just making it worse - The Hill Times",
+   "url": "https://www.hilltimes.com/2026/11/23/businesses-are-barely-hanging-on-retaliatory-tariffs-are-just-making-it-worse/527209/",
+   "ts": "20261125T064500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Kilmar Abrego Garcia , who fought his mistaken deportation , leaves the US voluntarily for Spain",
+   "url": "https://www.2news.com/news/national/kilmar-abrego-garcia-who-fought-his-mistaken-deportation-leaves-the-us-voluntarily-for-spain/article_4b705656-1293-5380-94e7-da8af8da3fec.html",
+   "ts": "20261125T064500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Separating fact from political fantasy not as easy as it seems - The Hill Times",
+   "url": "https://www.hilltimes.com/2026/11/25/separating-fact-from-political-fantasy-not-as-easy-as-it-seems/527372/",
+   "ts": "20261125T064500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Kütahyada kadınların eğitim ve istihdamı için koordinasyon toplantısı yapıldı",
+   "url": "https://www.haberler.com/yerel/kutahya-da-kadinlarin-egitim-ve-istihdami-icin-20459955-haberi/",
+   "ts": "20261125T064500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Germany braces for possible US troop cuts as Pentagon nears decision",
+   "url": "https://www.politico.eu/article/germany-us-troop-cut-pentagon-decision/",
+   "ts": "20261125T064500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Latest YouGov Poll Shows Majority Of Americas Still Support Mass Deportations",
+   "url": "https://www.zerohedge.com/political/latest-yougov-poll-shows-majority-americas-still-support-mass-deportations",
+   "ts": "20261125T064500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "加防长回击五角大楼指责 捍卫加拿大主权 _ 军事频道 _ 中华网",
+   "url": "https://military.china.com/news/13004177/20261125/49906152.html",
+   "ts": "20261125T064500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Praises El - Sayed After Medicare for All Twist :  He a Smart Guy  ",
+   "url": "https://www.newsweek.com/trump-praises-el-sayed-after-medicare-for-all-twist-hes-a-smart-guy-12765887",
+   "ts": "20261125T064500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "The Army says there no reason to panic over controlled ammunition detonation in Iowa",
+   "url": "https://www.apr.org/2026-11-24/the-army-says-theres-no-reason-to-panic-over-controlled-ammunition-detonation-in-iowa",
+   "ts": "20261125T064500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Кибератака удари ЦРУ , TikTok се срина ,  Код червено  в Microsoft",
+   "url": "https://www.actualno.com/america/kiberataka-udari-cru-tiktok-se-srina-kod-cherveno-v-microsoft-news_2666689.html",
+   "ts": "20261125T064500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Gold price prediction today : Is there any end to gold price fall ? Check November 25 , 2026 outlook",
+   "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-india-where-is-gold-silver-rate-headed-on-november-25-2026-mcx-gold-futures-outlook-us-iran-war-middle-east-tensions-federal-reserve/articleshow/136150452.cms",
+   "ts": "20261125T064500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Wekdienst 25 / 11 : NAVO - chef Rutte praat met Trump • Strafeis mishandeling Plein Den Haag",
+   "url": "https://nos.nl/artikel/2640913-wekdienst-25-11-navo-chef-rutte-praat-met-trump-strafeis-mishandeling-plein-den-haag",
+   "ts": "20261125T064500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Le chef dorchestre dAngoulême Jacques Marot tire sa révérence dun coup de baguette",
+   "url": "https://www.charentelibre.fr/culture-et-loisirs/le-chef-d-orchestre-d-angouleme-jacques-marot-tire-sa-reverence-d-un-coup-de-baguette-31589339.php",
+   "ts": "20261125T054500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": " 【 和合共生 】 习言道｜习近平在深圳的这四个比喻意涵深远",
+   "url": "http://www.legaldaily.com.cn/index_article/content/2026-11/25/content_9497231.html",
+   "ts": "20261125T054500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Kiinalainen teknologiajätti Huawei tuomittiin Yhdysvalloissa liikesalaisuuksien varastamisesta",
+   "url": "https://www.kymensanomat.fi/uutissuomalainen/9983591",
+   "ts": "20261125T054500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "4 Investigates prompts Congresswoman to tour VA , says leadership change is coming",
+   "url": "https://www.kob.com/new-mexico/4-investigates-prompts-congresswoman-to-tour-va-says-leadership-change-is-coming/",
+   "ts": "20261125T054500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Fort Hood Shooter Files Motion To Delay Execution",
+   "url": "https://newstalk1230.iheart.com/content/2026-11-24-fort-hood-shooter-files-motion-to-delay-execution/",
+   "ts": "20261125T054500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Saudi Arabia : సనాపై సౌదీ వైమానిక దాడులు .. యెమెన్‌లో తీవ్ర ఉద్రిక్తత",
+   "url": "https://vaartha.com/international/saudi-coalition-launches-airstrikes-on-sanaa-in-retaliation-for-riyadh-drone-attack/809885/",
+   "ts": "20261125T054500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Nvidia - topman Jensen Huang excuseert zich bij personeel en volgt dagelijks therapie",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/25/jensen-huang-excuseert-zich-en-volgt-therapie/",
+   "ts": "20261125T054500Z"
   }
  ]
 }

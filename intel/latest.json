@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-25T12:45:54Z",
+ "ts": "2026-11-25T13:00:58Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -341,12 +341,6 @@
   },
   {
    "src": "gnews",
-   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
-   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Is the US-China trade truce unravelling? Nvidia, rare earths, and the consequences for Europe - European Union Institute for Security Studies |",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0JBTFRQT0FabnR2aG9IdGswaDg0bEtBakRRZkZMaDFEeXBMNFprVmJzMG9tSE5laHJjcXI3dFljSG5GR0lpTEhqVmt4SV9EcC1PdkdjSHgxNEVTQ2VLQzVjbFJPeTZLZmtGQWVnakVGQkpUNHpCb3RFUlE5WlIta1VJNVAwZDMyZ1lCZHBUMjV5aUU5OExSdWFSWnVaeXRadHJxWDc5SEtyd2x2WTJRVmRKaVI1cDcyd3FB?oc=5",
    "ts": "Tue, 24 Nov 2026 21:12:47 GMT"
@@ -383,27 +377,21 @@
   },
   {
    "src": "gnews",
-   "title": "Why the US-China Truce Holds, for Now - The US-China Business Council",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xS0FZdWVRa2VoMk1JX0NXRFU5THFLZElvTV9XZG1RMVd1R3NKczFqUldUaU54VFBRcm9nSFhDOVRwaXQ4blh0ZWNtZWdWdG92czlTNnVSZFY5NFlyLUtDZC0xQzlQOWRIWnFxQkdOWmhnSkJBcTBSQnhB?oc=5",
-   "ts": "Tue, 24 Nov 2026 20:31:18 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties - Time Magazine",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEpCVDBTbmUyM2hOckpXSFNPMVQyM3p1MkFxWVlZbXVuMDVMbFZZOFVfVTNkQTNsb29NdFZ2d2hzN2lxX05VU0FHbzFNb0JOcFhDek1ia0NRYTR5dTJ3UTRiWFdfU2otdHpiYU5hMGN5MW5tTHhOOFZDbDVvczRPbjNld1g0SmE0bHM3Vlk1SDJqZFhPaHdBbg?oc=5",
    "ts": "Wed, 25 Nov 2026 09:30:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Will Trump Impose New Tariffs on 16 Trading Partners to Replace Court-Blocked Duties? - Modern Diplomacy",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObzRaYl9Rbm1teTZscFQwVHVxWm9MdVk2b1k4LWt6QzZNcWVoZ2RtbXlLVV9ZNm02cThEeGVYSHI2YzluLUFrVXdnRVltN1VtZTJSeWFMWVo1QUVXV2JUMUpJemdZbnM1UGgzTjV1UC1KRGJCRmhBUERhZGxwZDZMV094bnNNN0xCVVRQTzUxR2NZSkhFQzU0WE9JY1FMMHp0cFVyanFNVi1RSDUydF9acTJZdTRzSHdsS3RnS0FvNlM?oc=5",
-   "ts": "Wed, 25 Nov 2026 08:14:00 GMT"
+   "title": "Why the US-China Truce Holds, for Now - The US-China Business Council",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xS0FZdWVRa2VoMk1JX0NXRFU5THFLZElvTV9XZG1RMVd1R3NKczFqUldUaU54VFBRcm9nSFhDOVRwaXQ4blh0ZWNtZWdWdG92czlTNnVSZFY5NFlyLUtDZC0xQzlQOWRIWnFxQkdOWmhnSkJBcTBSQnhB?oc=5",
+   "ts": "Tue, 24 Nov 2026 20:31:18 GMT"
   },
   {
    "src": "gnews",
-   "title": "The Frantic White House Push to Get Jensen Huang Back - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pRUxrRllGQzRjbm1mbkxwWi1pcGVDREtMYVFlTWt0c2RaMm4zSFZ0UTFIOHc3eVpiaS1xODducUx5T013ekU4czVXaUVmR2JUblZPNS03Qy1yNW9wNloyaGdWeHVBQUI1VVR5NTdfRUxfNTdvdG1pSA?oc=5",
-   "ts": "Wed, 25 Nov 2026 12:38:53 GMT"
+   "title": "Will Trump Impose New Tariffs on 16 Trading Partners to Replace Court-Blocked Duties? - Modern Diplomacy",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObzRaYl9Rbm1teTZscFQwVHVxWm9MdVk2b1k4LWt6QzZNcWVoZ2RtbXlLVV9ZNm02cThEeGVYSHI2YzluLUFrVXdnRVltN1VtZTJSeWFMWVo1QUVXV2JUMUpJemdZbnM1UGgzTjV1UC1KRGJCRmhBUERhZGxwZDZMV094bnNNN0xCVVRQTzUxR2NZSkhFQzU0WE9JY1FMMHp0cFVyanFNVi1RSDUydF9acTJZdTRzSHdsS3RnS0FvNlM?oc=5",
+   "ts": "Wed, 25 Nov 2026 08:14:00 GMT"
   },
   {
    "src": "gnews",
@@ -431,6 +419,12 @@
   },
   {
    "src": "gnews",
+   "title": "Exclusive | U.S. Prepares to Raise Tariffs on China and Other Countries - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRKZFY1SDBYYTNwNWlxcjFqNFdGMmpQdXc3RzEyb0NoWHE3MmZoX3hBMmdnR0doa3JUUmhoN2xaUTR6dUVuajlkX19tZmN3ZHFOTUNkWnJmV3RVaThzRXVWbXZlNWVpb3k1WmNzOFRYUDRCTjg1S1g3YTRaMDZMT3lhVm8wM3VHdG1BaWlvTTZNY2JNMlR1aHNzV3RyQVk5MW44?oc=5",
+   "ts": "Tue, 24 Nov 2026 13:08:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "US ready to slap tariffs on China, EU and others over subsidized production, AP sources say - WRAL",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRFo0SWJrenR6QVh4ckh5UHhyQl9zUnI1MzFqbWFEVTdDcU5fa1l2NVdlbEVVS2ZUN0lKWFgyMlRfT2VTaHM3MGtQd0pHR0FmemFCOGpwY1hBbU1OUmVpMUZJOVMyVmhmMWtXSlZmS2hGSlItWFE1VldsWGpQTEl0RE41eWFyUXdNX2QxU2dMRTdyTnoyS1lGSlRhWUFQWDduaEhXYmRwLUpmU2Y0SlJ3ZWZFMzllaERsY3BkdFhFM2Fud2s?oc=5",
    "ts": "Wed, 25 Nov 2026 06:30:15 GMT"
@@ -443,15 +437,21 @@
   },
   {
    "src": "gnews",
-   "title": "China, US discuss farm trade, market access at agriculture talks - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdUxvUmxNeWJ6T0U4T21RMTYtdklRbVZlYzBjTDBXbHNranNWd3dGU0pUQ3hDUUYzZW9mSTJwbm9laTRVUjh5N0xLMmNMMHlsNlJ3MmVicXVoVkd1OU5xeU9tZ24xUnpLU1AxOU5tOXpOVTZUaE9KMlNyaEJhLXlrUEkyNm01WWttVWxfb0hsakVRdzMtY2ROODNhczlJc1hBOGJaMkx4aVQ3Y0FBRHVsVE00eTBVdw?oc=5",
-   "ts": "Wed, 25 Nov 2026 05:24:00 GMT"
+   "title": "Meat exporter: Trump trade policy interferes with business relationships - The Fence Post",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRFVjYUowaUQzUjdGNjFIMllaYi1ReWJYTlZjNTM5ZTRscVZmZThRd3dYTmlJR3JidndObkFEXzBLbHR1bTdkaXVuZWFNbE9nWjVWeER4NXBUU0hpRUtJT2hhVHpfWWZuaHE1bXp5NjR4ZzhoalZkRGVVR20wT0pZT0ZvQXY0QmtkOU9fM0JoSmRtbEs3bUFUT2d5dHllM1lHQnAyX2I2ellaZw?oc=5",
+   "ts": "Tue, 24 Nov 2026 15:55:47 GMT"
   },
   {
    "src": "gnews",
-   "title": "Exclusive | U.S. Prepares to Raise Tariffs on China and Other Countries - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRKZFY1SDBYYTNwNWlxcjFqNFdGMmpQdXc3RzEyb0NoWHE3MmZoX3hBMmdnR0doa3JUUmhoN2xaUTR6dUVuajlkX19tZmN3ZHFOTUNkWnJmV3RVaThzRXVWbXZlNWVpb3k1WmNzOFRYUDRCTjg1S1g3YTRaMDZMT3lhVm8wM3VHdG1BaWlvTTZNY2JNMlR1aHNzV3RyQVk5MW44?oc=5",
-   "ts": "Tue, 24 Nov 2026 13:08:00 GMT"
+   "title": "January 2027 U.S.-China trade deadlines: 4 risks to model - Thomson Reuters tax",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlU0E0SzZocmlwbmxWMWhQVHg2MWNBSHJBSzYtV09VWE5zZ2FIZGlBdXcwWExPWWFVSWVqU3l1aklFZ2p2bmxZNmY1OW5tanR5QXU4djlpRTB3b25zaGlLbEpmUE9JY1dQTlVUR3VRc3hRenFlUTlSNERhbGtBUEE?oc=5",
+   "ts": "Mon, 23 Nov 2026 18:29:17 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China, US discuss farm trade, market access at agriculture talks - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdUxvUmxNeWJ6T0U4T21RMTYtdklRbVZlYzBjTDBXbHNranNWd3dGU0pUQ3hDUUYzZW9mSTJwbm9laTRVUjh5N0xLMmNMMHlsNlJ3MmVicXVoVkd1OU5xeU9tZ24xUnpLU1AxOU5tOXpOVTZUaE9KMlNyaEJhLXlrUEkyNm01WWttVWxfb0hsakVRdzMtY2ROODNhczlJc1hBOGJaMkx4aVQ3Y0FBRHVsVE00eTBVdw?oc=5",
+   "ts": "Wed, 25 Nov 2026 05:24:00 GMT"
   },
   {
    "src": "gnews",

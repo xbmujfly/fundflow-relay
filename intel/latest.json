@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-25T07:45:57Z",
+ "ts": "2026-11-25T08:00:59Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -373,7 +373,7 @@
    "src": "gnews",
    "title": "Exclusive | U.S. Prepares to Raise Tariffs on China and Other Countries - WSJ",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRKZFY1SDBYYTNwNWlxcjFqNFdGMmpQdXc3RzEyb0NoWHE3MmZoX3hBMmdnR0doa3JUUmhoN2xaUTR6dUVuajlkX19tZmN3ZHFOTUNkWnJmV3RVaThzRXVWbXZlNWVpb3k1WmNzOFRYUDRCTjg1S1g3YTRaMDZMT3lhVm8wM3VHdG1BaWlvTTZNY2JNMlR1aHNzV3RyQVk5MW44?oc=5",
-   "ts": "Tue, 24 Nov 2026 13:08:58 GMT"
+   "ts": "Tue, 24 Nov 2026 13:08:00 GMT"
   },
   {
    "src": "gnews",
@@ -395,15 +395,21 @@
   },
   {
    "src": "gnews",
-   "title": "Meat exporter: Trump trade policy interferes with business relationships - The Fence Post",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRFVjYUowaUQzUjdGNjFIMllaYi1ReWJYTlZjNTM5ZTRscVZmZThRd3dYTmlJR3JidndObkFEXzBLbHR1bTdkaXVuZWFNbE9nWjVWeER4NXBUU0hpRUtJT2hhVHpfWWZuaHE1bXp5NjR4ZzhoalZkRGVVR20wT0pZT0ZvQXY0QmtkOU9fM0JoSmRtbEs3bUFUT2d5dHllM1lHQnAyX2I2ellaZw?oc=5",
-   "ts": "Tue, 24 Nov 2026 15:55:47 GMT"
+   "title": "India news: Trump administration set to unveil new tariffs after probe - DW.com",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb2dTWUpPVTVVZXE2QUVrQTRXcEtOM05qNFlpRXhWQVBpR0h0aDRUREdVdjlaNTRRS0hGR2dIYnVxWlZicU1ZTEFvMlpoZl9GZ2tvaVpxb3J1bkhNSHQ1NDJFcTNMZGpSbXNkQVJZNTNSNlliUnhvenlPOWk1bUsxNWJ1eHk5UHZXTkRwUFpKcXNwdw?oc=5",
+   "ts": "Wed, 25 Nov 2026 04:51:11 GMT"
   },
   {
    "src": "gnews",
    "title": "Tariffs are Trump's 'primary tool' in his America First trade policy: Expert - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KSmhnQjA5d3RuX1p5TkxEbXhyby1ITkt5ZFlJa1BaUWV3VnlXQlNWMzlpenZ0MXJRRVB0SENYX050X1dtbi14d3lvN3M2c09TUzZ3aU9QdVVtQmdGeGJiNmxkYzQ?oc=5",
    "ts": "Wed, 25 Nov 2026 06:54:08 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Meat exporter: Trump trade policy interferes with business relationships - The Fence Post",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRFVjYUowaUQzUjdGNjFIMllaYi1ReWJYTlZjNTM5ZTRscVZmZThRd3dYTmlJR3JidndObkFEXzBLbHR1bTdkaXVuZWFNbE9nWjVWeER4NXBUU0hpRUtJT2hhVHpfWWZuaHE1bXp5NjR4ZzhoalZkRGVVR20wT0pZT0ZvQXY0QmtkOU9fM0JoSmRtbEs3bUFUT2d5dHllM1lHQnAyX2I2ellaZw?oc=5",
+   "ts": "Tue, 24 Nov 2026 15:55:47 GMT"
   },
   {
    "src": "gnews",
@@ -440,12 +446,6 @@
    "title": "Trump Is Bringing Tariffs Back, and China Will Likely Get Hit Hardest: WSJ - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMTkwck9aVXRkSFRvWlVoM1NSVjlXTlcwc2pmOGRZb0xwVXVQV1dZUTFpdlhibjJVRnpXUkpzYW9fUU4xbklFY3VYbUgyZHlJZ2R3ekd3bTQtRGdXYy0tZ0w4V0JBVHg4STFmVWZKVXBHemo1WGJMamp2TGFEYjRNZl9Gam9mbWZ0eGtfLXRobm5yVlN0cWZjS3NqR0dLVXc?oc=5",
    "ts": "Tue, 24 Nov 2026 13:47:52 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "US shelves plans for business deals with Russia to end Ukraine war, FT says - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFZhN2w2ckJtVC03TWJPb2FwbDlrZzdDd0tRUWRmeGh0WXJBeWZjelhNMFNlMjNPTzJZVjB2MVhtZzhqSE9rdzZkbE5kZW5HbDdxeVVhd1g0aUExaHZGMm5oVy1YTkcyMmdaN0s5aG9kNERVZWl0OHpVaFRNVkFaNVQwTnFKMjAwWFMtenFJU002WlBIbWVqRVZHTWlWa19BXzNDaDJVVmUyRExDUXBHZnVmTHMwV01iSHRPallncHNkT09hNnc?oc=5",
-   "ts": "Wed, 25 Nov 2026 05:16:00 GMT"
   },
   {
    "src": "gnews",

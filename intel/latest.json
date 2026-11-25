@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-25T02:45:57Z",
+ "ts": "2026-11-25T03:01:06Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -371,15 +370,15 @@
   },
   {
    "src": "gnews",
-   "title": "Why the US-China Truce Holds, for Now - The US-China Business Council",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xS0FZdWVRa2VoMk1JX0NXRFU5THFLZElvTV9XZG1RMVd1R3NKczFqUldUaU54VFBRcm9nSFhDOVRwaXQ4blh0ZWNtZWdWdG92czlTNnVSZFY5NFlyLUtDZC0xQzlQOWRIWnFxQkdOWmhnSkJBcTBSQnhB?oc=5",
-   "ts": "Tue, 24 Nov 2026 20:31:18 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Bumpier U.S.-China Trade Is Coming - China-US Focus",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJNUURnenNwRV9MaTlCUFZOejU2T2xNeTRSTzlOaFBRLTNNcmhrbVdlSjZ6b1g4RDJnSXBuSlJFZ3dzeDdEc3ZlY21ES0lQZFYyWm9TWHBtTm1haUhKaFJnM1JDcjVmRVQyOU5tTmRHM1RzUnl3YXRmM3FVc0RIUzIybw?oc=5",
    "ts": "Tue, 24 Nov 2026 13:02:14 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Why the US-China Truce Holds, for Now - The US-China Business Council",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xS0FZdWVRa2VoMk1JX0NXRFU5THFLZElvTV9XZG1RMVd1R3NKczFqUldUaU54VFBRcm9nSFhDOVRwaXQ4blh0ZWNtZWdWdG92czlTNnVSZFY5NFlyLUtDZC0xQzlQOWRIWnFxQkdOWmhnSkJBcTBSQnhB?oc=5",
+   "ts": "Tue, 24 Nov 2026 20:31:18 GMT"
   },
   {
    "src": "gnews",
@@ -425,15 +424,15 @@
   },
   {
    "src": "gnews",
-   "title": "Pentagon sharply criticizes Canada over modernizing military - PBS",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZUZiNk1SMHh6dGJ1M2NTOW9HanFXekFFc19iM21URmpwYVFUNnhNRTFHLTNWdjhoNWlWMlN4QWp6ajRUVlc2cW53VDl1eEFqNmtla2dqUDNfeFdQcExubFhLWkVGSE9DNEZBZXFNbzdJamlfS1g1aUhydXkxcng5akJmTHJ6UFcwMjduX2RfOEd0akt3N0IxUFYwRdIBoAFBVV95cUxNdm5yN2VCSGpkZmphZ2c1NU1EX0UwbkpiVlhrNFQxV1RreURNWEdxOFNkZ2w3cWF0Y2pDSnVfQ0NZc0tJcXFHMkxmYnptOG1Ld242dF9CZGt4M0JRVE1lMXVQRGt0ck9yVk5nWlhlZGFkSDRhRFNxRF81T25aZ1R3Y3o0RzY1MUgxMENCd0dlN1JudGFhVGV4cVQxREJ2TmV3?oc=5",
-   "ts": "Tue, 24 Nov 2026 20:42:20 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Democrats target Trump tariffs as midterms cloud manufacturing trade agenda - Plastics News",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWmJqQWtraWRUR18yazZqczY2NVdUalFReUQtS04zQS0zLWQyT2RuSVNUVC0yVW1NSFgtTWxzZ1JtcG9aLUp1VktRNmhfekVjbFBfVXA0S3oyNmJVdFVYR0Z6TnBndC1zR3NadVI3ZkNLZDNSb3NYUk5aVHJVMlc1OVdEWnM1d204alRZSlB1QTNaTkQ2cG5udDJn?oc=5",
    "ts": "Tue, 24 Nov 2026 17:12:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Pentagon sharply criticizes Canada over modernizing military - PBS",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZUZiNk1SMHh6dGJ1M2NTOW9HanFXekFFc19iM21URmpwYVFUNnhNRTFHLTNWdjhoNWlWMlN4QWp6ajRUVlc2cW53VDl1eEFqNmtla2dqUDNfeFdQcExubFhLWkVGSE9DNEZBZXFNbzdJamlfS1g1aUhydXkxcng5akJmTHJ6UFcwMjduX2RfOEd0akt3N0IxUFYwRdIBoAFBVV95cUxNdm5yN2VCSGpkZmphZ2c1NU1EX0UwbkpiVlhrNFQxV1RreURNWEdxOFNkZ2w3cWF0Y2pDSnVfQ0NZc0tJcXFHMkxmYnptOG1Ld242dF9CZGt4M0JRVE1lMXVQRGt0ck9yVk5nWlhlZGFkSDRhRFNxRF81T25aZ1R3Y3o0RzY1MUgxMENCd0dlN1JudGFhVGV4cVQxREJ2TmV3?oc=5",
+   "ts": "Tue, 24 Nov 2026 20:42:20 GMT"
   },
   {
    "src": "gnews",
@@ -443,21 +442,141 @@
   },
   {
    "src": "gnews",
+   "title": "Donald Trump readies raft of new tariffs on major economies - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZHc3TDUxWVRLbmRUa1hzMWJseUNEMUQzOUtfajgxMVFlM2NoWDNyRlZYWUVfZEgwbWctWm5FakVubjdZT25mcUtzU3JfcjVQcVFDUXFtWEdISDJuSFdUZGQ3VG1wODYtZzFJT0NpZV8xLUxoMFlLbThuN3VZUGhrNTJXek0?oc=5",
+   "ts": "Tue, 24 Nov 2026 16:30:35 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China urges Britain to support free trade, provide favourable business environment - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT2otaUM0a09JTlpaVGx6ek9ySzBBRW5seUhvMldlc2tmN0ZxczExZFhNTTlzeGJXa2dUbHE3R3J5c19xWEIyUGRnZjZaZWxMaE55TzZrR1VGNG0ycVBWUm5wYlE4QlNKQjRtQVpFWUFRY3ZLMXg3Rkg4RXpsYnZESG56U0E1UFo3LWR5RkhPYURibk1Ga3d6bG9wV3RZb3FRMldxZ1plRl9nSHBnZEdRMUlteEVfZ3RPaGVGSG94Ujk?oc=5",
    "ts": "Tue, 24 Nov 2026 15:03:43 GMT"
   },
   {
    "src": "gnews",
-   "title": "China to Suspend Some Critical-Material Export Curbs to U.S. Until January - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR0tiam0waURNVF9vU2VYTmx6eGVqWk9NRm9GT2Q2blhiTm1OMTBQQzIxVmJ5WHlEMzNDQzUwSDJnNDBjX1FPQUZBSlVGcGFIeUU3TUZ4c1NhSFE3WnNXYjhBSnVJM2QwUGFuY1NKUzlYOF9BbU1aYlJZWDdrUmR2aWlxaDlFM0JieFFkTEJGQ1NpT0hHU0xOMW9lNjdNZUJCYVUyZW5HekpxYVlNekFpZTJBVElqOTg?oc=5",
-   "ts": "Tue, 24 Nov 2026 11:13:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China's Huawei convicted in sprawling US criminal trial over Iran business - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5",
    "ts": "Tue, 24 Nov 2026 20:16:00 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Kilmar Abrego Garcia to leave U . S . for Europe following deportation mishap : report",
+   "url": "https://nbcmontana.com/news/nation-world/kilmar-abrego-garcia-to-leave-us-for-europe-report-deport-deportation-el-salvador-prison-immigration-judge-trump-administration",
+   "ts": "20261125T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Navy wont rename Doris Miller aircraft carrier after Trump",
+   "url": "https://www.wbkb11.com/news/national/navy-wont-rename-doris-miller-aircraft-carrier-after-trump/article_4b53d18c-a6b2-5c3f-98f9-22a895740b16.html",
+   "ts": "20261125T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Роман Хуанга з китайською шпигункою - Трамп готовий його помилувати – ZN . ua",
+   "url": "https://zn.ua/ukr/usa/tramp-vzhe-hotovij-pomiluvati-dzhensena-khuanha-shche-do-zvinuvachen.html",
+   "ts": "20261125T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Bước ngoặt lịch sử hay ván cờ biểu tượng của các siêu cường ? ",
+   "url": "https://baomoi.com/buoc-ngoat-lich-su-hay-van-co-bieu-tuong-cua-cac-sieu-cuong-c56594136.epi",
+   "ts": "20261125T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "The Army Story About the Iowa Lead Azide Detonation Makes No Sense",
+   "url": "https://newrepublic.com/article/218344/here-doesnt-add-iowa-lead-azide-detonation",
+   "ts": "20261125T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "ABŞ Çin və bir sıra digər ölkələrdən idxal olunan mallara tarifləri artıra bilər",
+   "url": "https://az.trend.az/other/world/4250390.html",
+   "ts": "20261125T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "В Европарламенте назвали условия для гарантий безопасности Украины",
+   "url": "https://lenta.ru/news/2026/11/25/v-evroparlamente-nazvali-usloviya-dlya-garantiy-bezopasnosti-ukrainy/",
+   "ts": "20261125T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "בכיר בצה  ל מזהיר : נשק כימי באיראן -  איום שקשה יהיה לתת לו מענה  ",
+   "url": "https://www.ynet.co.il/news/article/yokra14969600",
+   "ts": "20261125T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US prepares new tariffs on China , EU and others , sources say",
+   "url": "https://www.wtae.com/article/us-new-tariffs-china-eu-subsidized-production/74525712",
+   "ts": "20261125T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  눈물의 길  건너 주지사로 … 미국 최초 원주민 출신 여성 주지사 당선 의미는 ? ",
+   "url": "https://www.pressian.com/pages/articles/2026112314405089747",
+   "ts": "20261125T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Labor seeks to defuse US tensions on online safety bill",
+   "url": "https://www.edenmagnet.com.au/story/9397901/labor-seeks-to-defuse-us-tensions-on-online-safety-bill/",
+   "ts": "20261125T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Maps show Iowa lead dust plume drifting southwest into Missouri Wednesday after detonation , Army shares",
+   "url": "https://www.cbsnews.com/chicago/news/maps-show-how-far-lead-dust-from-about-5-tons-of-iowa-explosives-could-spread/",
+   "ts": "20261125T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Kilmar Abrego Garcia Seeks Sanctuary in Spain",
+   "url": "https://www.dailykos.com/stories/2026/11/24/800133593/community/kilmar-abrego-garcia-seeks-sanctuary-in-spain/",
+   "ts": "20261125T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Nonfiction Views : PEN America internal dissent , plus the week notable new nonfiction",
+   "url": "https://www.dailykos.com/stories/2026/11/24/800132690/community/nonfiction-views-november-24th-2026/",
+   "ts": "20261125T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Will the Fed trigger a recession with more interest rate hikes ? ",
+   "url": "https://www.aol.com/articles/fed-trigger-recession-more-interest-223305000.html",
+   "ts": "20261125T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "New documents reveal what led to search warrant of Rep . Ilhan Omar home",
+   "url": "https://weartv.com/news/nation-world/new-documents-reveal-what-led-to-search-warrant-of-rep-ilhan-omars-home-doj",
+   "ts": "20261125T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Unpacking President Trump financial stake in Nvidia",
+   "url": "https://www.upr.org/npr-news/2026-11-24/unpacking-president-trumps-financial-stake-in-nvidia",
+   "ts": "20261125T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Gobierno de EEUU se alista para imponer nuevos aranceles a China , UE y otros , dicen fuentes de AP",
+   "url": "https://santamariatimes.com/ap/business/gobierno-de-eeuu-se-alista-para-imponer-nuevos-aranceles-a-china-ue-y-otros-dicen/article_a8991894-88a1-5b7f-9b50-9a7f9e3b34dd.html",
+   "ts": "20261125T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Fort Hood shooter Nidal Hasan asks court to delay firing - squad execution so he can fight sentence",
+   "url": "http://www.idahostatejournal.com/news/national/fort-hood-shooter-nidal-hasan-asks-court-to-delay-firing-squad-execution-so-he-can/article_c844e330-91f7-56dd-9b4e-afe73ca65bbb.html",
+   "ts": "20261125T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "New documents reveal what led to search warrant of Rep . Ilhan Omar home",
+   "url": "https://nbcmontana.com/news/nation-world/new-documents-reveal-what-led-to-search-warrant-of-rep-ilhan-omars-home-doj",
+   "ts": "20261125T023000Z"
   }
  ]
 }

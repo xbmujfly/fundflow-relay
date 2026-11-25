@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-25T03:16:06Z",
+ "ts": "2026-11-25T03:31:02Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -365,6 +365,12 @@
   },
   {
    "src": "gnews",
+   "title": "U.S. ready to slap tariffs on China, EU and others over sub­si­dized pro­duction, AP sources say - Spectrum News",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONXFVSWZjQUJXZFNzdHFlX2hDdHlwRnA3S1d0UGhxRFVwczNMSmVXQ21xRHZ0SVNuWlRISXJNQjJidm8yVmNobEY2RU9jZ1ZPcTFEc2NpR29VSi16eHphQWlPOGRaT0lrZnBkVlZaYlRaX3U1MDFtMFN0TWJISWxzN1M5ekNHeVY4NVRrQTNFSVVMbXdhQ05INnBKVTZZelpIdnVj?oc=5",
+   "ts": "Wed, 25 Nov 2026 01:25:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
    "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
@@ -401,15 +407,15 @@
   },
   {
    "src": "gnews",
-   "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbDNsb3gyVkJQMDFVT0p3QTJtV2tKdEhQbXpad0xXWlViLUNnWHJ1ODJJTE8xOFpjTHV2ZTU3MjRpMmt5MW5zNGhTdWU1SUxrei1aSDNhQmFROEFyUXR6OVU4SUFfb0dZSDlTbjF4dEFsRHlUM25YZ0h1OVlxV3JITjZYM1ZpcVQtU3BnSy1PN3RMR0w1LTkzb3ZJX1I5azdvNW9BR1JQVElYNXJnWlo3VzZVVFFac2gyc1B5NNIBwgFBVV95cUxPTDV0Y2ZVY0tMZEh4R29qbTdPUGUxYWtJelNLZlJrYUIwT3lJV2RPM2dnc0dldjRMT2U1dUN5djZkUFNGMlg3NTU4OVlsTlJCREJoRnNqcU5MbWxHbDFvc3BPOGRGb2p4YzZYOG1RN2VSTUVYZWVWVlZvUWhXckxEUUdsRm9Nb2JZQm9DU1M4OUR6VVNIcy13MVJqbjR0Tnd5RkZNSDN6akVUX3BtalZzU1lhZ2tVMmdHOVBObE1UTmlmUQ?oc=5",
-   "ts": "Tue, 24 Nov 2026 21:51:57 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
    "ts": "Fri, 20 Nov 2026 13:16:47 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbDNsb3gyVkJQMDFVT0p3QTJtV2tKdEhQbXpad0xXWlViLUNnWHJ1ODJJTE8xOFpjTHV2ZTU3MjRpMmt5MW5zNGhTdWU1SUxrei1aSDNhQmFROEFyUXR6OVU4SUFfb0dZSDlTbjF4dEFsRHlUM25YZ0h1OVlxV3JITjZYM1ZpcVQtU3BnSy1PN3RMR0w1LTkzb3ZJX1I5azdvNW9BR1JQVElYNXJnWlo3VzZVVFFac2gyc1B5NNIBwgFBVV95cUxPTDV0Y2ZVY0tMZEh4R29qbTdPUGUxYWtJelNLZlJrYUIwT3lJV2RPM2dnc0dldjRMT2U1dUN5djZkUFNGMlg3NTU4OVlsTlJCREJoRnNqcU5MbWxHbDFvc3BPOGRGb2p4YzZYOG1RN2VSTUVYZWVWVlZvUWhXckxEUUdsRm9Nb2JZQm9DU1M4OUR6VVNIcy13MVJqbjR0Tnd5RkZNSDN6akVUX3BtalZzU1lhZ2tVMmdHOVBObE1UTmlmUQ?oc=5",
+   "ts": "Tue, 24 Nov 2026 21:51:57 GMT"
   },
   {
    "src": "gnews",
@@ -440,12 +446,6 @@
    "title": "What to Expect in U.S. Tariff Policy Following the 2026 Midterm Elections - Davis Wright Tremaine",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYjYtY3NjVzFfTmFKMUNJTUVtQXQ0d1F5RmF4TE12N1lKZFBYTUdBM0ZLY05oWEwxeUJEUlpOR2NrczZRbElTeFdqa3BrTjhsM29wbVRiMkxNM21IMjVTN1JzcmdxTm5pUGU1SmNMQmxaRk11V1FUSnBqYkE3ZUNjdTRjWW1uZG1fNEE?oc=5",
    "ts": "Mon, 23 Nov 2026 23:55:27 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "In post-election press conference, Trump hails UAW, Teamsters support for his trade wars - World Socialist Web Site",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84REZFR25uNkFia2NFS2NHRmRfYThjME1oNnpGdk5UNkhqWVFGWkNrckQwS1dMTV9CTlQ5U3MwWHF4N3FrNVQ4Z0Z3OVh3MHR2aWJYaWVzTGVra1h6Vmh5dGxuNDNnYVQ4?oc=5",
-   "ts": "Wed, 25 Nov 2026 01:41:11 GMT"
   },
   {
    "src": "gnews",

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-25T13:15:58Z",
+ "ts": "2026-11-25T13:30:55Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -167,6 +167,12 @@
   },
   {
    "src": "ustr",
+   "title": "USTR Invites Public Comment on Proposed Modifications of the Section 301 Action Regarding Brazil’s Unreasonable Acts, Policies, and Practices",
+   "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-invites-public-comment-proposed-modifications-section-301-action-regarding-brazils-unreasonable",
+   "ts": "Wed, 25 Nov 2026 11:40:40 +0000"
+  },
+  {
+   "src": "ustr",
    "title": "United States Seeks Mexico’s Review of Alleged Denial of Workers’ Rights at Polygroup Industrias México",
    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-polygroup-industrias-mexico",
    "ts": "Thu, 19 Nov 2026 21:12:37 +0000"
@@ -212,12 +218,6 @@
    "title": "Ambassador Greer Issues Statement on President Trump’s Intent to Terminate Rwanda and South Africa from the AGOA Trade Preference Program",
    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ambassador-greer-issues-statement-president-trumps-intent-terminate-rwanda-and-south-africa-agoa",
    "ts": "Mon, 02 Nov 2026 16:41:12 +0000"
-  },
-  {
-   "src": "ustr",
-   "title": "America First Seafood Strategy Charts Course to Restoring U.S. Seafood Dominance",
-   "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/america-first-seafood-strategy-charts-course-restoring-us-seafood-dominance",
-   "ts": "Wed, 28 Oct 2026 13:39:42 +0000"
   },
   {
    "src": "fed",
@@ -359,15 +359,33 @@
   },
   {
    "src": "gnews",
+   "title": "Trump prepares new round of tariffs on China, other U.S. trading partners - Axios",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zLTBLcVRHTWZCNy11bHI0NEl4S0FiYVoydFZHQVJ6VUxSNUNqR2hLQ0NoQ05ZSEJxX3I1ZjhQZFJ1R2VPcWF2eXlreU1wZWpmMFRiQjJpeTVRUVVfN3h4akhB?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:20:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNndyR0VJNnlJZm5UR2tJRjUzalBvR1E0R245TVNfU0xWT3NxNk1pOU1SZkRJd2ZaTkY4T1RzZ1VLZ0V3SmpQZDZpeGhwcmVVRFFsekl0RE9pUkJ3Q2t5UUpXZkhRWkRlM2hzUVgtaE5GRDlfUWVZODR0cmlJamFQMHNkZXp0RFJQeHlFQ0tiTjlkcWczdjJ4ZVlzQXRxYjVfQ0VMX01sWQ?oc=5",
    "ts": "Wed, 25 Nov 2026 07:42:00 GMT"
   },
   {
    "src": "gnews",
+   "title": "China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties - Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEpCVDBTbmUyM2hOckpXSFNPMVQyM3p1MkFxWVlZbXVuMDVMbFZZOFVfVTNkQTNsb29NdFZ2d2hzN2lxX05VU0FHbzFNb0JOcFhDek1ia0NRYTR5dTJ3UTRiWFdfU2otdHpiYU5hMGN5MW5tTHhOOFZDbDVvczRPbjNld1g0SmE0bHM3Vlk1SDJqZFhPaHdBbg?oc=5",
+   "ts": "Wed, 25 Nov 2026 09:30:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China, US Set for ‘New Chapter’ of Trade Talks, Ex-Official Says - Bloomberg",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXNHUkhmNU9qNlc5SUphend6U184Y1FWa1AtemhrWlBhRUw0elViZG1YTVFxMHZkME03YXlqUk9LSFVaMGI5enZwelJZVlhHWDdFcXEwLVYwMUZEOW5COURWMG5VcWhIbERGcUVrWWtlN181TEdpcGNJZkpqSUhuY2c5OXh4SW9DYlJ2XzNFRjVYS0FjNlRsM3FhNkFfZms5enA0V0h5TFNGOVduY2pLdA?oc=5",
    "ts": "Wed, 25 Nov 2026 08:26:54 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Will Trump Impose New Tariffs on 16 Trading Partners to Replace Court-Blocked Duties? - Modern Diplomacy",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObzRaYl9Rbm1teTZscFQwVHVxWm9MdVk2b1k4LWt6QzZNcWVoZ2RtbXlLVV9ZNm02cThEeGVYSHI2YzluLUFrVXdnRVltN1VtZTJSeWFMWVo1QUVXV2JUMUpJemdZbnM1UGgzTjV1UC1KRGJCRmhBUERhZGxwZDZMV094bnNNN0xCVVRQTzUxR2NZSkhFQzU0WE9JY1FMMHp0cFVyanFNVi1RSDUydF9acTJZdTRzSHdsS3RnS0FvNlM?oc=5",
+   "ts": "Wed, 25 Nov 2026 08:14:00 GMT"
   },
   {
    "src": "gnews",
@@ -383,33 +401,15 @@
   },
   {
    "src": "gnews",
-   "title": "China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties - Time Magazine",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEpCVDBTbmUyM2hOckpXSFNPMVQyM3p1MkFxWVlZbXVuMDVMbFZZOFVfVTNkQTNsb29NdFZ2d2hzN2lxX05VU0FHbzFNb0JOcFhDek1ia0NRYTR5dTJ3UTRiWFdfU2otdHpiYU5hMGN5MW5tTHhOOFZDbDVvczRPbjNld1g0SmE0bHM3Vlk1SDJqZFhPaHdBbg?oc=5",
-   "ts": "Wed, 25 Nov 2026 09:30:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Why the US-China Truce Holds, for Now - The US-China Business Council",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xS0FZdWVRa2VoMk1JX0NXRFU5THFLZElvTV9XZG1RMVd1R3NKczFqUldUaU54VFBRcm9nSFhDOVRwaXQ4blh0ZWNtZWdWdG92czlTNnVSZFY5NFlyLUtDZC0xQzlQOWRIWnFxQkdOWmhnSkJBcTBSQnhB?oc=5",
    "ts": "Tue, 24 Nov 2026 20:31:18 GMT"
   },
   {
    "src": "gnews",
-   "title": "Will Trump Impose New Tariffs on 16 Trading Partners to Replace Court-Blocked Duties? - Modern Diplomacy",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObzRaYl9Rbm1teTZscFQwVHVxWm9MdVk2b1k4LWt6QzZNcWVoZ2RtbXlLVV9ZNm02cThEeGVYSHI2YzluLUFrVXdnRVltN1VtZTJSeWFMWVo1QUVXV2JUMUpJemdZbnM1UGgzTjV1UC1KRGJCRmhBUERhZGxwZDZMV094bnNNN0xCVVRQTzUxR2NZSkhFQzU0WE9JY1FMMHp0cFVyanFNVi1RSDUydF9acTJZdTRzSHdsS3RnS0FvNlM?oc=5",
-   "ts": "Wed, 25 Nov 2026 08:14:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump prepares a new round of targeted tariffs - Axios",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IOXZTRnJTd1pRNzd0dUhFN0pGM3p5Vmcyc2kzT1BmZDMyNmxNWUV5RWFYUmNMdE5OblIxRFZyODdiaFdmWnFBWTdjYzMwX2c0d0NSSXNsSlhlTDl4S2xXTXJON1hkbDczcEw2RXFTZjROdGxO?oc=5",
-   "ts": "Wed, 25 Nov 2026 06:10:19 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China issues list of demands to Brussels over EU trade talks - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbmc5T051a1RjaVVFXzVfLXoyWEVleUlvdjlvbVZBdF9BSExmYy1kRUZFUWc2VWdZYVpFY1FFWnpPX1RiNWprMzl0NU9fcU1aRFBtcUItXzVZM1czR0pmTTdwX2VnaHlWNGNCU0RZY3dwalQ1Q3VqSExac21xa3J4T0FSYlo?oc=5",
-   "ts": "Wed, 25 Nov 2026 06:04:54 GMT"
+   "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
+   "ts": "Fri, 20 Nov 2026 13:16:47 GMT"
   },
   {
    "src": "gnews",
@@ -419,15 +419,9 @@
   },
   {
    "src": "gnews",
-   "title": "Tariffs are Trump's 'primary tool' in his America First trade policy: Expert - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KSmhnQjA5d3RuX1p5TkxEbXhyby1ITkt5ZFlJa1BaUWV3VnlXQlNWMzlpenZ0MXJRRVB0SENYX050X1dtbi14d3lvN3M2c09TUzZ3aU9QdVVtQmdGeGJiNmxkYzQ?oc=5",
-   "ts": "Wed, 25 Nov 2026 06:33:12 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Exclusive | U.S. Prepares to Raise Tariffs on China and Other Countries - WSJ",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRKZFY1SDBYYTNwNWlxcjFqNFdGMmpQdXc3RzEyb0NoWHE3MmZoX3hBMmdnR0doa3JUUmhoN2xaUTR6dUVuajlkX19tZmN3ZHFOTUNkWnJmV3RVaThzRXVWbXZlNWVpb3k1WmNzOFRYUDRCTjg1S1g3YTRaMDZMT3lhVm8wM3VHdG1BaWlvTTZNY2JNMlR1aHNzV3RyQVk5MW44?oc=5",
-   "ts": "Tue, 24 Nov 2026 13:08:58 GMT"
+   "ts": "Tue, 24 Nov 2026 13:08:00 GMT"
   },
   {
    "src": "gnews",
@@ -437,15 +431,15 @@
   },
   {
    "src": "gnews",
-   "title": "China, US hold farm trade talks as Beijing decries any new tariffs - Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObEJvNVVWT2dYYWxqSGxJMEFtWWlrVDRhbGxGcnBvQVhBN1k1Y0NpSVpBbkEyQkQwMUZ2czNEQm9aTmFabHZLSVBZTElpMEVlRDhZa3ZkWG01V1VMbEd1LUJ0X2dWdVUxZDZmSWRlNTNuOGpMR3QzTElsNTVoS3I0bkFyTHRSczkyejBsNUFDeDdQR3g2YTJyeDJnU1MwVFU4cThpTVFQOTBxM3VuZXNCbQ?oc=5",
-   "ts": "Wed, 25 Nov 2026 09:28:15 GMT"
+   "title": "Trump prepares a new round of targeted tariffs - Axios",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IOXZTRnJTd1pRNzd0dUhFN0pGM3p5Vmcyc2kzT1BmZDMyNmxNWUV5RWFYUmNMdE5OblIxRFZyODdiaFdmWnFBWTdjYzMwX2c0d0NSSXNsSlhlTDl4S2xXTXJON1hkbDczcEw2RXFTZjROdGxO?oc=5",
+   "ts": "Wed, 25 Nov 2026 06:10:19 GMT"
   },
   {
    "src": "gnews",
-   "title": "January 2027 U.S.-China trade deadlines: 4 risks to model - Thomson Reuters tax",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlU0E0SzZocmlwbmxWMWhQVHg2MWNBSHJBSzYtV09VWE5zZ2FIZGlBdXcwWExPWWFVSWVqU3l1aklFZ2p2bmxZNmY1OW5tanR5QXU4djlpRTB3b25zaGlLbEpmUE9JY1dQTlVUR3VRc3hRenFlUTlSNERhbGtBUEE?oc=5",
-   "ts": "Mon, 23 Nov 2026 18:29:17 GMT"
+   "title": "Tariffs are Trump's 'primary tool' in his America First trade policy: Expert - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KSmhnQjA5d3RuX1p5TkxEbXhyby1ITkt5ZFlJa1BaUWV3VnlXQlNWMzlpenZ0MXJRRVB0SENYX050X1dtbi14d3lvN3M2c09TUzZ3aU9QdVVtQmdGeGJiNmxkYzQ?oc=5",
+   "ts": "Wed, 25 Nov 2026 06:33:12 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
-   "ts": "Fri, 20 Nov 2026 13:16:47 GMT"
+   "title": "US proposes new tariffs on 14 trading partners to fight excess factory capacity - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:25:09 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China, US hold farm trade talks as Beijing decries any new tariffs - Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObEJvNVVWT2dYYWxqSGxJMEFtWWlrVDRhbGxGcnBvQVhBN1k1Y0NpSVpBbkEyQkQwMUZ2czNEQm9aTmFabHZLSVBZTElpMEVlRDhZa3ZkWG01V1VMbEd1LUJ0X2dWdVUxZDZmSWRlNTNuOGpMR3QzTElsNTVoS3I0bkFyTHRSczkyejBsNUFDeDdQR3g2YTJyeDJnU1MwVFU4cThpTVFQOTBxM3VuZXNCbQ?oc=5",
+   "ts": "Wed, 25 Nov 2026 09:28:15 GMT"
   }
  ]
 }

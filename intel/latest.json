@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-25T03:01:06Z",
+ "ts": "2026-11-25T03:16:06Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -370,15 +371,15 @@
   },
   {
    "src": "gnews",
-   "title": "Bumpier U.S.-China Trade Is Coming - China-US Focus",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJNUURnenNwRV9MaTlCUFZOejU2T2xNeTRSTzlOaFBRLTNNcmhrbVdlSjZ6b1g4RDJnSXBuSlJFZ3dzeDdEc3ZlY21ES0lQZFYyWm9TWHBtTm1haUhKaFJnM1JDcjVmRVQyOU5tTmRHM1RzUnl3YXRmM3FVc0RIUzIybw?oc=5",
-   "ts": "Tue, 24 Nov 2026 13:02:14 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Why the US-China Truce Holds, for Now - The US-China Business Council",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xS0FZdWVRa2VoMk1JX0NXRFU5THFLZElvTV9XZG1RMVd1R3NKczFqUldUaU54VFBRcm9nSFhDOVRwaXQ4blh0ZWNtZWdWdG92czlTNnVSZFY5NFlyLUtDZC0xQzlQOWRIWnFxQkdOWmhnSkJBcTBSQnhB?oc=5",
    "ts": "Tue, 24 Nov 2026 20:31:18 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Bumpier U.S.-China Trade Is Coming - China-US Focus",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJNUURnenNwRV9MaTlCUFZOejU2T2xNeTRSTzlOaFBRLTNNcmhrbVdlSjZ6b1g4RDJnSXBuSlJFZ3dzeDdEc3ZlY21ES0lQZFYyWm9TWHBtTm1haUhKaFJnM1JDcjVmRVQyOU5tTmRHM1RzUnl3YXRmM3FVc0RIUzIybw?oc=5",
+   "ts": "Tue, 24 Nov 2026 13:02:14 GMT"
   },
   {
    "src": "gnews",
@@ -400,19 +401,19 @@
   },
   {
    "src": "gnews",
-   "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
-   "ts": "Fri, 20 Nov 2026 13:16:47 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbDNsb3gyVkJQMDFVT0p3QTJtV2tKdEhQbXpad0xXWlViLUNnWHJ1ODJJTE8xOFpjTHV2ZTU3MjRpMmt5MW5zNGhTdWU1SUxrei1aSDNhQmFROEFyUXR6OVU4SUFfb0dZSDlTbjF4dEFsRHlUM25YZ0h1OVlxV3JITjZYM1ZpcVQtU3BnSy1PN3RMR0w1LTkzb3ZJX1I5azdvNW9BR1JQVElYNXJnWlo3VzZVVFFac2gyc1B5NNIBwgFBVV95cUxPTDV0Y2ZVY0tMZEh4R29qbTdPUGUxYWtJelNLZlJrYUIwT3lJV2RPM2dnc0dldjRMT2U1dUN5djZkUFNGMlg3NTU4OVlsTlJCREJoRnNqcU5MbWxHbDFvc3BPOGRGb2p4YzZYOG1RN2VSTUVYZWVWVlZvUWhXckxEUUdsRm9Nb2JZQm9DU1M4OUR6VVNIcy13MVJqbjR0Tnd5RkZNSDN6akVUX3BtalZzU1lhZ2tVMmdHOVBObE1UTmlmUQ?oc=5",
    "ts": "Tue, 24 Nov 2026 21:51:57 GMT"
   },
   {
    "src": "gnews",
-   "title": "China’s Huawei convicted of deceiving banks about business in Iran and stealing US trade secrets - The Guardian",
+   "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
+   "ts": "Fri, 20 Nov 2026 13:16:47 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s Huawei convicted of stealing US trade secrets - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmRRaEFuMEkxY0ltVXJpRmpUampjSWVsTVJ2S2JNdGlzaFBHOVRqbHUyQUJrb3ZvREJOWW1wYUZDbFBSRk9UaG44aGZBZ2VHdE5HVUxOMDF1Vjh4RjV5S1JHTUEtTVJVVDJDUGNfZEJ2WTJjT092cUNMTVpDR0FLQ2ZHRWh4Yk1NYnoweXNLRTFrSFVsVU9IRGFYMDdvTmJtamZpSFNRMnZjZWZzQzQyNmxySjlBZw?oc=5",
    "ts": "Tue, 24 Nov 2026 21:11:00 GMT"
   },
@@ -442,9 +443,9 @@
   },
   {
    "src": "gnews",
-   "title": "Donald Trump readies raft of new tariffs on major economies - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZHc3TDUxWVRLbmRUa1hzMWJseUNEMUQzOUtfajgxMVFlM2NoWDNyRlZYWUVfZEgwbWctWm5FakVubjdZT25mcUtzU3JfcjVQcVFDUXFtWEdISDJuSFdUZGQ3VG1wODYtZzFJT0NpZV8xLUxoMFlLbThuN3VZUGhrNTJXek0?oc=5",
-   "ts": "Tue, 24 Nov 2026 16:30:35 GMT"
+   "title": "In post-election press conference, Trump hails UAW, Teamsters support for his trade wars - World Socialist Web Site",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84REZFR25uNkFia2NFS2NHRmRfYThjME1oNnpGdk5UNkhqWVFGWkNrckQwS1dMTV9CTlQ5U3MwWHF4N3FrNVQ4Z0Z3OVh3MHR2aWJYaWVzTGVra1h6Vmh5dGxuNDNnYVQ4?oc=5",
+   "ts": "Wed, 25 Nov 2026 01:41:11 GMT"
   },
   {
    "src": "gnews",
@@ -457,126 +458,6 @@
    "title": "China's Huawei convicted in sprawling US criminal trial over Iran business - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5",
    "ts": "Tue, 24 Nov 2026 20:16:00 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Kilmar Abrego Garcia to leave U . S . for Europe following deportation mishap : report",
-   "url": "https://nbcmontana.com/news/nation-world/kilmar-abrego-garcia-to-leave-us-for-europe-report-deport-deportation-el-salvador-prison-immigration-judge-trump-administration",
-   "ts": "20261125T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Navy wont rename Doris Miller aircraft carrier after Trump",
-   "url": "https://www.wbkb11.com/news/national/navy-wont-rename-doris-miller-aircraft-carrier-after-trump/article_4b53d18c-a6b2-5c3f-98f9-22a895740b16.html",
-   "ts": "20261125T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Роман Хуанга з китайською шпигункою - Трамп готовий його помилувати – ZN . ua",
-   "url": "https://zn.ua/ukr/usa/tramp-vzhe-hotovij-pomiluvati-dzhensena-khuanha-shche-do-zvinuvachen.html",
-   "ts": "20261125T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Bước ngoặt lịch sử hay ván cờ biểu tượng của các siêu cường ? ",
-   "url": "https://baomoi.com/buoc-ngoat-lich-su-hay-van-co-bieu-tuong-cua-cac-sieu-cuong-c56594136.epi",
-   "ts": "20261125T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "The Army Story About the Iowa Lead Azide Detonation Makes No Sense",
-   "url": "https://newrepublic.com/article/218344/here-doesnt-add-iowa-lead-azide-detonation",
-   "ts": "20261125T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ABŞ Çin və bir sıra digər ölkələrdən idxal olunan mallara tarifləri artıra bilər",
-   "url": "https://az.trend.az/other/world/4250390.html",
-   "ts": "20261125T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "В Европарламенте назвали условия для гарантий безопасности Украины",
-   "url": "https://lenta.ru/news/2026/11/25/v-evroparlamente-nazvali-usloviya-dlya-garantiy-bezopasnosti-ukrainy/",
-   "ts": "20261125T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "בכיר בצה  ל מזהיר : נשק כימי באיראן -  איום שקשה יהיה לתת לו מענה  ",
-   "url": "https://www.ynet.co.il/news/article/yokra14969600",
-   "ts": "20261125T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US prepares new tariffs on China , EU and others , sources say",
-   "url": "https://www.wtae.com/article/us-new-tariffs-china-eu-subsidized-production/74525712",
-   "ts": "20261125T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  눈물의 길  건너 주지사로 … 미국 최초 원주민 출신 여성 주지사 당선 의미는 ? ",
-   "url": "https://www.pressian.com/pages/articles/2026112314405089747",
-   "ts": "20261125T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Labor seeks to defuse US tensions on online safety bill",
-   "url": "https://www.edenmagnet.com.au/story/9397901/labor-seeks-to-defuse-us-tensions-on-online-safety-bill/",
-   "ts": "20261125T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Maps show Iowa lead dust plume drifting southwest into Missouri Wednesday after detonation , Army shares",
-   "url": "https://www.cbsnews.com/chicago/news/maps-show-how-far-lead-dust-from-about-5-tons-of-iowa-explosives-could-spread/",
-   "ts": "20261125T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Kilmar Abrego Garcia Seeks Sanctuary in Spain",
-   "url": "https://www.dailykos.com/stories/2026/11/24/800133593/community/kilmar-abrego-garcia-seeks-sanctuary-in-spain/",
-   "ts": "20261125T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Nonfiction Views : PEN America internal dissent , plus the week notable new nonfiction",
-   "url": "https://www.dailykos.com/stories/2026/11/24/800132690/community/nonfiction-views-november-24th-2026/",
-   "ts": "20261125T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Will the Fed trigger a recession with more interest rate hikes ? ",
-   "url": "https://www.aol.com/articles/fed-trigger-recession-more-interest-223305000.html",
-   "ts": "20261125T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "New documents reveal what led to search warrant of Rep . Ilhan Omar home",
-   "url": "https://weartv.com/news/nation-world/new-documents-reveal-what-led-to-search-warrant-of-rep-ilhan-omars-home-doj",
-   "ts": "20261125T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Unpacking President Trump financial stake in Nvidia",
-   "url": "https://www.upr.org/npr-news/2026-11-24/unpacking-president-trumps-financial-stake-in-nvidia",
-   "ts": "20261125T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Gobierno de EEUU se alista para imponer nuevos aranceles a China , UE y otros , dicen fuentes de AP",
-   "url": "https://santamariatimes.com/ap/business/gobierno-de-eeuu-se-alista-para-imponer-nuevos-aranceles-a-china-ue-y-otros-dicen/article_a8991894-88a1-5b7f-9b50-9a7f9e3b34dd.html",
-   "ts": "20261125T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Fort Hood shooter Nidal Hasan asks court to delay firing - squad execution so he can fight sentence",
-   "url": "http://www.idahostatejournal.com/news/national/fort-hood-shooter-nidal-hasan-asks-court-to-delay-firing-squad-execution-so-he-can/article_c844e330-91f7-56dd-9b4e-afe73ca65bbb.html",
-   "ts": "20261125T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "New documents reveal what led to search warrant of Rep . Ilhan Omar home",
-   "url": "https://nbcmontana.com/news/nation-world/new-documents-reveal-what-led-to-search-warrant-of-rep-ilhan-omars-home-doj",
-   "ts": "20261125T023000Z"
   }
  ]
 }

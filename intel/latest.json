@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-25T12:30:55Z",
+ "ts": "2026-11-25T12:45:54Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -389,9 +389,21 @@
   },
   {
    "src": "gnews",
+   "title": "China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties - Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEpCVDBTbmUyM2hOckpXSFNPMVQyM3p1MkFxWVlZbXVuMDVMbFZZOFVfVTNkQTNsb29NdFZ2d2hzN2lxX05VU0FHbzFNb0JOcFhDek1ia0NRYTR5dTJ3UTRiWFdfU2otdHpiYU5hMGN5MW5tTHhOOFZDbDVvczRPbjNld1g0SmE0bHM3Vlk1SDJqZFhPaHdBbg?oc=5",
+   "ts": "Wed, 25 Nov 2026 09:30:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Will Trump Impose New Tariffs on 16 Trading Partners to Replace Court-Blocked Duties? - Modern Diplomacy",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObzRaYl9Rbm1teTZscFQwVHVxWm9MdVk2b1k4LWt6QzZNcWVoZ2RtbXlLVV9ZNm02cThEeGVYSHI2YzluLUFrVXdnRVltN1VtZTJSeWFMWVo1QUVXV2JUMUpJemdZbnM1UGgzTjV1UC1KRGJCRmhBUERhZGxwZDZMV094bnNNN0xCVVRQTzUxR2NZSkhFQzU0WE9JY1FMMHp0cFVyanFNVi1RSDUydF9acTJZdTRzSHdsS3RnS0FvNlM?oc=5",
    "ts": "Wed, 25 Nov 2026 08:14:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "The Frantic White House Push to Get Jensen Huang Back - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pRUxrRllGQzRjbm1mbkxwWi1pcGVDREtMYVFlTWt0c2RaMm4zSFZ0UTFIOHc3eVpiaS1xODducUx5T013ekU4czVXaUVmR2JUblZPNS03Qy1yNW9wNloyaGdWeHVBQUI1VVR5NTdfRUxfNTdvdG1pSA?oc=5",
+   "ts": "Wed, 25 Nov 2026 12:38:53 GMT"
   },
   {
    "src": "gnews",
@@ -404,12 +416,6 @@
    "title": "China issues list of demands to Brussels over EU trade talks - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbmc5T051a1RjaVVFXzVfLXoyWEVleUlvdjlvbVZBdF9BSExmYy1kRUZFUWc2VWdZYVpFY1FFWnpPX1RiNWprMzl0NU9fcU1aRFBtcUItXzVZM1czR0pmTTdwX2VnaHlWNGNCU0RZY3dwalQ1Q3VqSExac21xa3J4T0FSYlo?oc=5",
    "ts": "Wed, 25 Nov 2026 06:04:54 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Exclusive | U.S. Prepares to Raise Tariffs on China and Other Countries - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRKZFY1SDBYYTNwNWlxcjFqNFdGMmpQdXc3RzEyb0NoWHE3MmZoX3hBMmdnR0doa3JUUmhoN2xaUTR6dUVuajlkX19tZmN3ZHFOTUNkWnJmV3RVaThzRXVWbXZlNWVpb3k1WmNzOFRYUDRCTjg1S1g3YTRaMDZMT3lhVm8wM3VHdG1BaWlvTTZNY2JNMlR1aHNzV3RyQVk5MW44?oc=5",
-   "ts": "Tue, 24 Nov 2026 13:08:00 GMT"
   },
   {
    "src": "gnews",
@@ -437,21 +443,15 @@
   },
   {
    "src": "gnews",
-   "title": "Meat exporter: Trump trade policy interferes with business relationships - The Fence Post",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRFVjYUowaUQzUjdGNjFIMllaYi1ReWJYTlZjNTM5ZTRscVZmZThRd3dYTmlJR3JidndObkFEXzBLbHR1bTdkaXVuZWFNbE9nWjVWeER4NXBUU0hpRUtJT2hhVHpfWWZuaHE1bXp5NjR4ZzhoalZkRGVVR20wT0pZT0ZvQXY0QmtkOU9fM0JoSmRtbEs3bUFUT2d5dHllM1lHQnAyX2I2ellaZw?oc=5",
-   "ts": "Tue, 24 Nov 2026 15:55:47 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Bumpier U.S.-China Trade Is Coming - China-US Focus",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJNUURnenNwRV9MaTlCUFZOejU2T2xNeTRSTzlOaFBRLTNNcmhrbVdlSjZ6b1g4RDJnSXBuSlJFZ3dzeDdEc3ZlY21ES0lQZFYyWm9TWHBtTm1haUhKaFJnM1JDcjVmRVQyOU5tTmRHM1RzUnl3YXRmM3FVc0RIUzIybw?oc=5",
-   "ts": "Tue, 24 Nov 2026 13:02:14 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China, US discuss farm trade, market access at agriculture talks - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdUxvUmxNeWJ6T0U4T21RMTYtdklRbVZlYzBjTDBXbHNranNWd3dGU0pUQ3hDUUYzZW9mSTJwbm9laTRVUjh5N0xLMmNMMHlsNlJ3MmVicXVoVkd1OU5xeU9tZ24xUnpLU1AxOU5tOXpOVTZUaE9KMlNyaEJhLXlrUEkyNm01WWttVWxfb0hsakVRdzMtY2ROODNhczlJc1hBOGJaMkx4aVQ3Y0FBRHVsVE00eTBVdw?oc=5",
    "ts": "Wed, 25 Nov 2026 05:24:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Exclusive | U.S. Prepares to Raise Tariffs on China and Other Countries - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRKZFY1SDBYYTNwNWlxcjFqNFdGMmpQdXc3RzEyb0NoWHE3MmZoX3hBMmdnR0doa3JUUmhoN2xaUTR6dUVuajlkX19tZmN3ZHFOTUNkWnJmV3RVaThzRXVWbXZlNWVpb3k1WmNzOFRYUDRCTjg1S1g3YTRaMDZMT3lhVm8wM3VHdG1BaWlvTTZNY2JNMlR1aHNzV3RyQVk5MW44?oc=5",
+   "ts": "Tue, 24 Nov 2026 13:08:00 GMT"
   },
   {
    "src": "gnews",

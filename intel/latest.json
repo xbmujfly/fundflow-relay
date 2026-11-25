@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-25T04:30:59Z",
+ "ts": "2026-11-25T04:45:55Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -359,15 +359,15 @@
   },
   {
    "src": "gnews",
-   "title": "U.S. ready to slap tariffs on China, EU and others over sub­si­dized pro­duction, AP sources say - Spectrum News",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONXFVSWZjQUJXZFNzdHFlX2hDdHlwRnA3S1d0UGhxRFVwczNMSmVXQ21xRHZ0SVNuWlRISXJNQjJidm8yVmNobEY2RU9jZ1ZPcTFEc2NpR29VSi16eHphQWlPOGRaT0lrZnBkVlZaYlRaX3U1MDFtMFN0TWJISWxzN1M5ekNHeVY4NVRrQTNFSVVMbXdhQ05INnBKVTZZelpIdnVj?oc=5",
-   "ts": "Wed, 25 Nov 2026 01:25:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
    "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "U.S. ready to slap tariffs on China, EU and others over sub­si­dized pro­duction, AP sources say - Spectrum News",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONXFVSWZjQUJXZFNzdHFlX2hDdHlwRnA3S1d0UGhxRFVwczNMSmVXQ21xRHZ0SVNuWlRISXJNQjJidm8yVmNobEY2RU9jZ1ZPcTFEc2NpR29VSi16eHphQWlPOGRaT0lrZnBkVlZaYlRaX3U1MDFtMFN0TWJISWxzN1M5ekNHeVY4NVRrQTNFSVVMbXdhQ05INnBKVTZZelpIdnVj?oc=5",
+   "ts": "Wed, 25 Nov 2026 01:25:00 GMT"
   },
   {
    "src": "gnews",
@@ -407,15 +407,15 @@
   },
   {
    "src": "gnews",
-   "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
-   "ts": "Fri, 20 Nov 2026 13:16:47 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s Huawei convicted of stealing US trade secrets - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmRRaEFuMEkxY0ltVXJpRmpUampjSWVsTVJ2S2JNdGlzaFBHOVRqbHUyQUJrb3ZvREJOWW1wYUZDbFBSRk9UaG44aGZBZ2VHdE5HVUxOMDF1Vjh4RjV5S1JHTUEtTVJVVDJDUGNfZEJ2WTJjT092cUNMTVpDR0FLQ2ZHRWh4Yk1NYnoweXNLRTFrSFVsVU9IRGFYMDdvTmJtamZpSFNRMnZjZWZzQzQyNmxySjlBZw?oc=5",
    "ts": "Tue, 24 Nov 2026 21:11:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
+   "ts": "Fri, 20 Nov 2026 13:16:47 GMT"
   },
   {
    "src": "gnews",
@@ -431,6 +431,12 @@
   },
   {
    "src": "gnews",
+   "title": "Could Trump’s Auto Tariffs Push Canada into China’s Arms? - Autoweek",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZDRLVm1CVlE0ZWRCR3V2NnpYT3J6TVVucmpuYTlMVHJnRHNiVVZvaThUTlRtQTRqRlpsckUwNkd4Vno4NkxIYzRlZjFSQkdtWHh2THVqNmQ3aENTbVBZZ1FldG9Ic0dfa1U0bmhZUkxOaWJ6czRnem15dHVvcnd1N2Z0SXd1Qk0?oc=5",
+   "ts": "Tue, 24 Nov 2026 23:01:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump's next Section 301 tariffs raise stakes for US-China trade truce deadline - digitimes",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQnZlVTlQamlIdXF4N1NodXNNci14WHI5Z3p2Z0FobnRpNGpScy1CdGR0cS1oelBzc0FPRks2RGVGRnYyd3ZlRDhkVWdTWW4xVnpEQUxvZ3RJLW9SYWZVNDRQTERpS2hLbTNyRWt6NDlWalVUN1U0NnR3YXh2ZHBYNUFqeV90SVQ3VVBKUFoyQlpSUFhiU2lPQ0I4RHhRcUJJNF9Hcg?oc=5",
    "ts": "Wed, 25 Nov 2026 03:35:31 GMT"
@@ -440,12 +446,6 @@
    "title": "What to Expect in U.S. Tariff Policy Following the 2026 Midterm Elections - Davis Wright Tremaine",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYjYtY3NjVzFfTmFKMUNJTUVtQXQ0d1F5RmF4TE12N1lKZFBYTUdBM0ZLY05oWEwxeUJEUlpOR2NrczZRbElTeFdqa3BrTjhsM29wbVRiMkxNM21IMjVTN1JzcmdxTm5pUGU1SmNMQmxaRk11V1FUSnBqYkE3ZUNjdTRjWW1uZG1fNEE?oc=5",
    "ts": "Mon, 23 Nov 2026 23:55:27 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Democrats target Trump tariffs as midterms cloud manufacturing trade agenda - Plastics News",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWmJqQWtraWRUR18yazZqczY2NVdUalFReUQtS04zQS0zLWQyT2RuSVNUVC0yVW1NSFgtTWxzZ1JtcG9aLUp1VktRNmhfekVjbFBfVXA0S3oyNmJVdFVYR0Z6TnBndC1zR3NadVI3ZkNLZDNSb3NYUk5aVHJVMlc1OVdEWnM1d204alRZSlB1QTNaTkQ2cG5udDJn?oc=5",
-   "ts": "Tue, 24 Nov 2026 17:12:00 GMT"
   },
   {
    "src": "gnews",

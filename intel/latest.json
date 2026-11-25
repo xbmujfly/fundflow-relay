@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-25T08:30:54Z",
+ "ts": "2026-11-25T08:46:00Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -377,15 +377,15 @@
   },
   {
    "src": "gnews",
-   "title": "Bumpier U.S.-China Trade Is Coming - China-US Focus",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJNUURnenNwRV9MaTlCUFZOejU2T2xNeTRSTzlOaFBRLTNNcmhrbVdlSjZ6b1g4RDJnSXBuSlJFZ3dzeDdEc3ZlY21ES0lQZFYyWm9TWHBtTm1haUhKaFJnM1JDcjVmRVQyOU5tTmRHM1RzUnl3YXRmM3FVc0RIUzIybw?oc=5",
-   "ts": "Tue, 24 Nov 2026 13:02:14 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Grains Mixed Sorting Through New China Trade Deal vs. New Tariffs - AgWeb",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjM2LUwxdG5SaFNJaHA2VzFqcGhxaXd0U00xc0Y3TzVnamFRMjJCOTdKVkVLTnV4YXlKQTNmNUp6amdQdjhnQmhnc2d4aUhqY1dJRkFxbW1YZHpWS1laQ0hESWE0Y29RMkVPRTJ0TUZEUTV3UjE1SjE4eFVoYS1kZVo3RnNoTFJfb21uMmlvNm1pbUx5RnpIdUhn?oc=5",
    "ts": "Tue, 24 Nov 2026 17:04:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Bumpier U.S.-China Trade Is Coming - China-US Focus",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJNUURnenNwRV9MaTlCUFZOejU2T2xNeTRSTzlOaFBRLTNNcmhrbVdlSjZ6b1g4RDJnSXBuSlJFZ3dzeDdEc3ZlY21ES0lQZFYyWm9TWHBtTm1haUhKaFJnM1JDcjVmRVQyOU5tTmRHM1RzUnl3YXRmM3FVc0RIUzIybw?oc=5",
+   "ts": "Tue, 24 Nov 2026 13:02:14 GMT"
   },
   {
    "src": "gnews",
@@ -437,7 +437,7 @@
   },
   {
    "src": "gnews",
-   "title": "January 2027 U.S.-China trade deadlines: Four risks to model now - Thomson Reuters tax",
+   "title": "January 2027 U.S.-China trade deadlines: 4 risks to model - Thomson Reuters tax",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlU0E0SzZocmlwbmxWMWhQVHg2MWNBSHJBSzYtV09VWE5zZ2FIZGlBdXcwWExPWWFVSWVqU3l1aklFZ2p2bmxZNmY1OW5tanR5QXU4djlpRTB3b25zaGlLbEpmUE9JY1dQTlVUR3VRc3hRenFlUTlSNERhbGtBUEE?oc=5",
    "ts": "Mon, 23 Nov 2026 18:29:17 GMT"
   },
@@ -449,9 +449,9 @@
   },
   {
    "src": "gnews",
-   "title": "US shelves plans for business deals with Russia to end Ukraine war, FT says - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFZhN2w2ckJtVC03TWJPb2FwbDlrZzdDd0tRUWRmeGh0WXJBeWZjelhNMFNlMjNPTzJZVjB2MVhtZzhqSE9rdzZkbE5kZW5HbDdxeVVhd1g0aUExaHZGMm5oVy1YTkcyMmdaN0s5aG9kNERVZWl0OHpVaFRNVkFaNVQwTnFKMjAwWFMtenFJU002WlBIbWVqRVZHTWlWa19BXzNDaDJVVmUyRExDUXBHZnVmTHMwV01iSHRPallncHNkT09hNnc?oc=5",
-   "ts": "Wed, 25 Nov 2026 05:16:00 GMT"
+   "title": "China, US discuss farm trade, market access at agriculture talks - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdUxvUmxNeWJ6T0U4T21RMTYtdklRbVZlYzBjTDBXbHNranNWd3dGU0pUQ3hDUUYzZW9mSTJwbm9laTRVUjh5N0xLMmNMMHlsNlJ3MmVicXVoVkd1OU5xeU9tZ24xUnpLU1AxOU5tOXpOVTZUaE9KMlNyaEJhLXlrUEkyNm01WWttVWxfb0hsakVRdzMtY2ROODNhczlJc1hBOGJaMkx4aVQ3Y0FBRHVsVE00eTBVdw?oc=5",
+   "ts": "Wed, 25 Nov 2026 05:24:00 GMT"
   },
   {
    "src": "gnews",

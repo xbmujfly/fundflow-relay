@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-25T23:16:02Z",
+ "ts": "2026-11-25T23:30:54Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -371,15 +371,15 @@
   },
   {
    "src": "gnews",
-   "title": "Why Trump’s newest tariffs are made to stick - Atlantic Council",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVkpGMkxqSGRGRTJWU3hIQVZHdW1SdTNBUGtFdmZlV1lPR0tGTERCcFBNdjhTWmxFeWs0dzZpakI1dGxQbUZndUthWXZFQno0aVlNU180QXJtSm5OQXNPWUQtUDlGRWZjWndHbnRuX0FiTnlKMkNJRVhtSWpKcFQ3a1h3TzZ1MTdLV2hLdUxYNEZOcXRDTUZhUUtfbmtiTkcxaFZSTjR5dw?oc=5",
-   "ts": "Wed, 25 Nov 2026 18:57:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump proposing new tariffs on 14 partners including China and EU - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzJkNEt0SmxFczJuc25uRFpYRjc1bDBVZ191T1p5TnFTbjRxeHA0QTk2TE1VM0FJMlI1ems4N1ItOGRFcHhma3ZLdEJKT01NSF9yVjFTaTc4SmlpQk5iSnRfdjRBZ2VCdDlLM0JEbFAtYkVjNXF1a0NqTG9OazJPaWFmamQ?oc=5",
    "ts": "Wed, 25 Nov 2026 21:15:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Why Trump’s newest tariffs are made to stick - Atlantic Council",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVkpGMkxqSGRGRTJWU3hIQVZHdW1SdTNBUGtFdmZlV1lPR0tGTERCcFBNdjhTWmxFeWs0dzZpakI1dGxQbUZndUthWXZFQno0aVlNU180QXJtSm5OQXNPWUQtUDlGRWZjWndHbnRuX0FiTnlKMkNJRVhtSWpKcFQ3a1h3TzZ1MTdLV2hLdUxYNEZOcXRDTUZhUUtfbmtiTkcxaFZSTjR5dw?oc=5",
+   "ts": "Wed, 25 Nov 2026 18:57:00 GMT"
   },
   {
    "src": "gnews",
@@ -395,15 +395,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump administration to raise tariffs on China, EU, Brazil and others - PBS",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREI5MGdkdjJzeW5XNHoyWGZoZnNzOXNEaDNxSl84RGJCdmIzUWduS0JHYTdIVW4zVTVWUkpnSUYtODIxVWxsTnJ4ZWl3c3BiLUU2bnF6amlLQUVlLUtQaGdLc1NiUjJLakdYd2l6ZzI5R0FJVGMxWjl3Y3FLSS1fbWVCV2k1Z3ZiY2hvZmFpVUc4dHhJMUFMaGJuZFZJVFJnQVVTX21TejY?oc=5",
-   "ts": "Wed, 25 Nov 2026 16:37:24 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump prepares new round of tariffs on China, other U.S. trading partners - Axios",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zLTBLcVRHTWZCNy11bHI0NEl4S0FiYVoydFZHQVJ6VUxSNUNqR2hLQ0NoQ05ZSEJxX3I1ZjhQZFJ1R2VPcWF2eXlreU1wZWpmMFRiQjJpeTVRUVVfN3h4akhB?oc=5",
    "ts": "Wed, 25 Nov 2026 16:59:48 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump administration to raise tariffs on China, EU, Brazil and others - PBS",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREI5MGdkdjJzeW5XNHoyWGZoZnNzOXNEaDNxSl84RGJCdmIzUWduS0JHYTdIVW4zVTVWUkpnSUYtODIxVWxsTnJ4ZWl3c3BiLUU2bnF6amlLQUVlLUtQaGdLc1NiUjJLakdYd2l6ZzI5R0FJVGMxWjl3Y3FLSS1fbWVCV2k1Z3ZiY2hvZmFpVUc4dHhJMUFMaGJuZFZJVFJnQVVTX21TejY?oc=5",
+   "ts": "Wed, 25 Nov 2026 16:37:24 GMT"
   },
   {
    "src": "gnews",
@@ -437,15 +437,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump set to add new sweeping tariffs, undeterred by midterms defeat - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNndyR0VJNnlJZm5UR2tJRjUzalBvR1E0R245TVNfU0xWT3NxNk1pOU1SZkRJd2ZaTkY4T1RzZ1VLZ0V3SmpQZDZpeGhwcmVVRFFsekl0RE9pUkJ3Q2t5UUpXZkhRWkRlM2hzUVgtaE5GRDlfUWVZODR0cmlJamFQMHNkZXp0RFJQeHlFQ0tiTjlkcWczdjJ4ZVlzQXRxYjVfQ0VMX01sWQ?oc=5",
-   "ts": "Wed, 25 Nov 2026 17:08:31 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "US to cap India tariff at 17% if trade deal is reached, USTR says - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
    "ts": "Wed, 25 Nov 2026 18:26:10 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump set to add new sweeping tariffs, undeterred by midterms defeat - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNndyR0VJNnlJZm5UR2tJRjUzalBvR1E0R245TVNfU0xWT3NxNk1pOU1SZkRJd2ZaTkY4T1RzZ1VLZ0V3SmpQZDZpeGhwcmVVRFFsekl0RE9pUkJ3Q2t5UUpXZkhRWkRlM2hzUVgtaE5GRDlfUWVZODR0cmlJamFQMHNkZXp0RFJQeHlFQ0tiTjlkcWczdjJ4ZVlzQXRxYjVfQ0VMX01sWQ?oc=5",
+   "ts": "Wed, 25 Nov 2026 17:08:31 GMT"
   },
   {
    "src": "gnews",

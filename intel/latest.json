@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-25T08:15:56Z",
+ "ts": "2026-11-25T08:30:54Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -365,12 +365,6 @@
   },
   {
    "src": "gnews",
-   "title": "U.S. ready to slap tariffs on China, EU and others over sub­si­dized pro­duction, AP sources say - Spectrum News",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONXFVSWZjQUJXZFNzdHFlX2hDdHlwRnA3S1d0UGhxRFVwczNMSmVXQ21xRHZ0SVNuWlRISXJNQjJidm8yVmNobEY2RU9jZ1ZPcTFEc2NpR29VSi16eHphQWlPOGRaT0lrZnBkVlZaYlRaX3U1MDFtMFN0TWJISWxzN1M5ekNHeVY4NVRrQTNFSVVMbXdhQ05INnBKVTZZelpIdnVj?oc=5",
-   "ts": "Wed, 25 Nov 2026 01:25:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Exclusive | U.S. Prepares to Raise Tariffs on China and Other Countries - WSJ",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRKZFY1SDBYYTNwNWlxcjFqNFdGMmpQdXc3RzEyb0NoWHE3MmZoX3hBMmdnR0doa3JUUmhoN2xaUTR6dUVuajlkX19tZmN3ZHFOTUNkWnJmV3RVaThzRXVWbXZlNWVpb3k1WmNzOFRYUDRCTjg1S1g3YTRaMDZMT3lhVm8wM3VHdG1BaWlvTTZNY2JNMlR1aHNzV3RyQVk5MW44?oc=5",
    "ts": "Tue, 24 Nov 2026 13:08:00 GMT"
@@ -395,15 +389,9 @@
   },
   {
    "src": "gnews",
-   "title": "India news: Trump administration set to unveil new tariffs after probe - DW.com",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb2dTWUpPVTVVZXE2QUVrQTRXcEtOM05qNFlpRXhWQVBpR0h0aDRUREdVdjlaNTRRS0hGR2dIYnVxWlZicU1ZTEFvMlpoZl9GZ2tvaVpxb3J1bkhNSHQ1NDJFcTNMZGpSbXNkQVJZNTNSNlliUnhvenlPOWk1bUsxNWJ1eHk5UHZXTkRwUFpKcXNwdw?oc=5",
-   "ts": "Wed, 25 Nov 2026 04:51:11 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Tariffs are Trump's 'primary tool' in his America First trade policy: Expert - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KSmhnQjA5d3RuX1p5TkxEbXhyby1ITkt5ZFlJa1BaUWV3VnlXQlNWMzlpenZ0MXJRRVB0SENYX050X1dtbi14d3lvN3M2c09TUzZ3aU9QdVVtQmdGeGJiNmxkYzQ?oc=5",
-   "ts": "Wed, 25 Nov 2026 06:54:08 GMT"
+   "title": "Will Trump Impose New Tariffs on 16 Trading Partners to Replace Court-Blocked Duties? - Modern Diplomacy",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObzRaYl9Rbm1teTZscFQwVHVxWm9MdVk2b1k4LWt6QzZNcWVoZ2RtbXlLVV9ZNm02cThEeGVYSHI2YzluLUFrVXdnRVltN1VtZTJSeWFMWVo1QUVXV2JUMUpJemdZbnM1UGgzTjV1UC1KRGJCRmhBUERhZGxwZDZMV094bnNNN0xCVVRQTzUxR2NZSkhFQzU0WE9JY1FMMHp0cFVyanFNVi1RSDUydF9acTJZdTRzSHdsS3RnS0FvNlM?oc=5",
+   "ts": "Wed, 25 Nov 2026 08:14:00 GMT"
   },
   {
    "src": "gnews",
@@ -413,21 +401,21 @@
   },
   {
    "src": "gnews",
+   "title": "Tariffs are Trump's 'primary tool' in his America First trade policy: Expert - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KSmhnQjA5d3RuX1p5TkxEbXhyby1ITkt5ZFlJa1BaUWV3VnlXQlNWMzlpenZ0MXJRRVB0SENYX050X1dtbi14d3lvN3M2c09TUzZ3aU9QdVVtQmdGeGJiNmxkYzQ?oc=5",
+   "ts": "Wed, 25 Nov 2026 06:54:08 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Meat exporter: Trump trade policy interferes with business relationships - The Fence Post",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRFVjYUowaUQzUjdGNjFIMllaYi1ReWJYTlZjNTM5ZTRscVZmZThRd3dYTmlJR3JidndObkFEXzBLbHR1bTdkaXVuZWFNbE9nWjVWeER4NXBUU0hpRUtJT2hhVHpfWWZuaHE1bXp5NjR4ZzhoalZkRGVVR20wT0pZT0ZvQXY0QmtkOU9fM0JoSmRtbEs3bUFUT2d5dHllM1lHQnAyX2I2ellaZw?oc=5",
    "ts": "Tue, 24 Nov 2026 15:55:47 GMT"
   },
   {
    "src": "gnews",
-   "title": "Will Trump Impose New Tariffs on 16 Trading Partners to Replace Court-Blocked Duties? - Modern Diplomacy",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObzRaYl9Rbm1teTZscFQwVHVxWm9MdVk2b1k4LWt6QzZNcWVoZ2RtbXlLVV9ZNm02cThEeGVYSHI2YzluLUFrVXdnRVltN1VtZTJSeWFMWVo1QUVXV2JUMUpJemdZbnM1UGgzTjV1UC1KRGJCRmhBUERhZGxwZDZMV094bnNNN0xCVVRQTzUxR2NZSkhFQzU0WE9JY1FMMHp0cFVyanFNVi1RSDUydF9acTJZdTRzSHdsS3RnS0FvNlM?oc=5",
-   "ts": "Wed, 25 Nov 2026 08:14:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China issues list of demands to Brussels over EU trade talks - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbmc5T051a1RjaVVFXzVfLXoyWEVleUlvdjlvbVZBdF9BSExmYy1kRUZFUWc2VWdZYVpFY1FFWnpPX1RiNWprMzl0NU9fcU1aRFBtcUItXzVZM1czR0pmTTdwX2VnaHlWNGNCU0RZY3dwalQ1Q3VqSExac21xa3J4T0FSYlo?oc=5",
-   "ts": "Wed, 25 Nov 2026 06:00:02 GMT"
+   "ts": "Wed, 25 Nov 2026 06:04:54 GMT"
   },
   {
    "src": "gnews",
@@ -446,6 +434,18 @@
    "title": "US preparing to raise tariffs on China, EU and a dozen other countries - EL PAÍS English",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb1hGZllMX3hJd0QyV3k3aVJ1eVhYMnY4M3JLQzN4blkwdDM0YzJGRjRfNENEdlc3akt5dDdFSk1ZTVczNjlxdGtyNkJ5QmZidFFLbDM2OWs3QzdrbDZJVmthNkZQRS03di0tYlJ1dVVsYmNkeW1jVEp2d0doN0IzTTJVYVVjakVQYXBoNzUwQUhKeEROWlVvOEtFVm53MV9STUZkSHVuUFdNeE5aWlZpODBRRHg3UnNheVVqbjhTVVowNDBNUzhodjlKRVJDd9IB4gFBVV95cUxQX1VXTW5NVHdydjFTb3BEVzNtVWlNNW9HUGJYTHhSVjhsQzFnRmVNS0JqUTJuTUxBVk5mQkZhV2NMOG5BX3Fiek82X0VHQlFDbUVjOFR3OEVhWXRMZEN0YVIzWEJ3QU9ySmNZSTZkV3I2TTF1Z2J1eV9iSWFMbENUWkhfLW4xcHpaeU9sbjVsYnBGOFRka29iZjRfa21EWEZVdFpnUVJfclAyWWsxNi1LWG50dmJqVFR4S2ZRdmdUdmVWNk9PM3czZ3VzcTJlOU9OWTZHekZFZGRJSF9VTENHbjhn?oc=5",
    "ts": "Tue, 24 Nov 2026 18:33:06 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "January 2027 U.S.-China trade deadlines: Four risks to model now - Thomson Reuters tax",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlU0E0SzZocmlwbmxWMWhQVHg2MWNBSHJBSzYtV09VWE5zZ2FIZGlBdXcwWExPWWFVSWVqU3l1aklFZ2p2bmxZNmY1OW5tanR5QXU4djlpRTB3b25zaGlLbEpmUE9JY1dQTlVUR3VRc3hRenFlUTlSNERhbGtBUEE?oc=5",
+   "ts": "Mon, 23 Nov 2026 18:29:17 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Is Bringing Tariffs Back, and China Will Likely Get Hit Hardest: WSJ - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMTkwck9aVXRkSFRvWlVoM1NSVjlXTlcwc2pmOGRZb0xwVXVQV1dZUTFpdlhibjJVRnpXUkpzYW9fUU4xbklFY3VYbUgyZHlJZ2R3ekd3bTQtRGdXYy0tZ0w4V0JBVHg4STFmVWZKVXBHemo1WGJMamp2TGFEYjRNZl9Gam9mbWZ0eGtfLXRobm5yVlN0cWZjS3NqR0dLVXc?oc=5",
+   "ts": "Tue, 24 Nov 2026 13:47:52 GMT"
   },
   {
    "src": "gnews",

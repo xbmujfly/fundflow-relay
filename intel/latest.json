@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-25T04:45:55Z",
+ "ts": "2026-11-25T05:01:00Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -343,7 +342,7 @@
    "src": "gnews",
    "title": "Exclusive | U.S. Prepares to Raise Tariffs on China and Other Countries - WSJ",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRKZFY1SDBYYTNwNWlxcjFqNFdGMmpQdXc3RzEyb0NoWHE3MmZoX3hBMmdnR0doa3JUUmhoN2xaUTR6dUVuajlkX19tZmN3ZHFOTUNkWnJmV3RVaThzRXVWbXZlNWVpb3k1WmNzOFRYUDRCTjg1S1g3YTRaMDZMT3lhVm8wM3VHdG1BaWlvTTZNY2JNMlR1aHNzV3RyQVk5MW44?oc=5",
-   "ts": "Tue, 24 Nov 2026 13:08:00 GMT"
+   "ts": "Tue, 24 Nov 2026 13:08:58 GMT"
   },
   {
    "src": "gnews",
@@ -401,21 +400,33 @@
   },
   {
    "src": "gnews",
-   "title": "Trump prepares a new round of targeted tariffs - Axios",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IOXZTRnJTd1pRNzd0dUhFN0pGM3p5Vmcyc2kzT1BmZDMyNmxNWUV5RWFYUmNMdE5OblIxRFZyODdiaFdmWnFBWTdjYzMwX2c0d0NSSXNsSlhlTDl4S2xXTXJON1hkbDczcEw2RXFTZjROdGxO?oc=5",
-   "ts": "Tue, 24 Nov 2026 20:56:46 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China’s Huawei convicted of stealing US trade secrets - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmRRaEFuMEkxY0ltVXJpRmpUampjSWVsTVJ2S2JNdGlzaFBHOVRqbHUyQUJrb3ZvREJOWW1wYUZDbFBSRk9UaG44aGZBZ2VHdE5HVUxOMDF1Vjh4RjV5S1JHTUEtTVJVVDJDUGNfZEJ2WTJjT092cUNMTVpDR0FLQ2ZHRWh4Yk1NYnoweXNLRTFrSFVsVU9IRGFYMDdvTmJtamZpSFNRMnZjZWZzQzQyNmxySjlBZw?oc=5",
    "ts": "Tue, 24 Nov 2026 21:11:00 GMT"
   },
   {
    "src": "gnews",
+   "title": "Trump prepares a new round of targeted tariffs - Axios",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IOXZTRnJTd1pRNzd0dUhFN0pGM3p5Vmcyc2kzT1BmZDMyNmxNWUV5RWFYUmNMdE5OblIxRFZyODdiaFdmWnFBWTdjYzMwX2c0d0NSSXNsSlhlTDl4S2xXTXJON1hkbDczcEw2RXFTZjROdGxO?oc=5",
+   "ts": "Tue, 24 Nov 2026 20:56:46 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump's next Section 301 tariffs raise stakes for US-China trade truce deadline - digitimes",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSFl2TS1hRF8tTkRJT1VrZlZ5STIxeE1kVmRvQzQzNWFtcDNDdmdUX2NGM1ZqY2p5Z203S3U4bEc2MDVPQmtmUjRmMkF0MldWSl8weDQxck9LWVdxTUwxQnNPVnJSTDFPS0hCTDBXTHlpVzNKWWd2dlpwTzJvdDl2VzNXT1lsb3VKbWlLTDJSc0oxLTdnTWZZbXB3?oc=5",
+   "ts": "Wed, 25 Nov 2026 03:35:31 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
    "ts": "Fri, 20 Nov 2026 13:16:47 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Is Bringing Tariffs Back, and China Will Likely Get Hit Hardest: WSJ - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMTkwck9aVXRkSFRvWlVoM1NSVjlXTlcwc2pmOGRZb0xwVXVQV1dZUTFpdlhibjJVRnpXUkpzYW9fUU4xbklFY3VYbUgyZHlJZ2R3ekd3bTQtRGdXYy0tZ0w4V0JBVHg4STFmVWZKVXBHemo1WGJMamp2TGFEYjRNZl9Gam9mbWZ0eGtfLXRobm5yVlN0cWZjS3NqR0dLVXc?oc=5",
+   "ts": "Tue, 24 Nov 2026 13:47:52 GMT"
   },
   {
    "src": "gnews",
@@ -437,18 +448,6 @@
   },
   {
    "src": "gnews",
-   "title": "Trump's next Section 301 tariffs raise stakes for US-China trade truce deadline - digitimes",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQnZlVTlQamlIdXF4N1NodXNNci14WHI5Z3p2Z0FobnRpNGpScy1CdGR0cS1oelBzc0FPRks2RGVGRnYyd3ZlRDhkVWdTWW4xVnpEQUxvZ3RJLW9SYWZVNDRQTERpS2hLbTNyRWt6NDlWalVUN1U0NnR3YXh2ZHBYNUFqeV90SVQ3VVBKUFoyQlpSUFhiU2lPQ0I4RHhRcUJJNF9Hcg?oc=5",
-   "ts": "Wed, 25 Nov 2026 03:35:31 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "What to Expect in U.S. Tariff Policy Following the 2026 Midterm Elections - Davis Wright Tremaine",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYjYtY3NjVzFfTmFKMUNJTUVtQXQ0d1F5RmF4TE12N1lKZFBYTUdBM0ZLY05oWEwxeUJEUlpOR2NrczZRbElTeFdqa3BrTjhsM29wbVRiMkxNM21IMjVTN1JzcmdxTm5pUGU1SmNMQmxaRk11V1FUSnBqYkE3ZUNjdTRjWW1uZG1fNEE?oc=5",
-   "ts": "Mon, 23 Nov 2026 23:55:27 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China urges Britain to support free trade, provide favourable business environment - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT2otaUM0a09JTlpaVGx6ek9ySzBBRW5seUhvMldlc2tmN0ZxczExZFhNTTlzeGJXa2dUbHE3R3J5c19xWEIyUGRnZjZaZWxMaE55TzZrR1VGNG0ycVBWUm5wYlE4QlNKQjRtQVpFWUFRY3ZLMXg3Rkg4RXpsYnZESG56U0E1UFo3LWR5RkhPYURibk1Ga3d6bG9wV3RZb3FRMldxZ1plRl9nSHBnZEdRMUlteEVfZ3RPaGVGSG94Ujk?oc=5",
    "ts": "Tue, 24 Nov 2026 15:03:43 GMT"
@@ -458,6 +457,126 @@
    "title": "China's Huawei convicted in sprawling US criminal trial over Iran business - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5",
    "ts": "Tue, 24 Nov 2026 20:16:00 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "World Insights : The U . S . midterms are done , but the political battles are heating up - Xinhua",
+   "url": "https://english.news.cn/20261125/125c85425ac14cc189256ded4b04a0d4/c.html",
+   "ts": "20261125T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "وزير الخارجية الأردني : علاقاتنا مع مصر تسير في الاتجاه الصحيح ونعمل على تعزيز تعاوننا الثنائي",
+   "url": "https://www.shorouknews.com/news/view.aspx?cdate=25112026&id=11edb78e-f19f-47a0-8d07-540645c07ab0",
+   "ts": "20261125T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Boris Johnson attacks  putrid  Trump praise for Putin and urges Nato troops in Ukraine",
+   "url": "https://www.lbc.co.uk/article/boris-johnson-attacks-putrid-trump-praise-for-putin-5HjdnWR_2/",
+   "ts": "20261125T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "newsroomamerica . com",
+   "url": "https://newsroomamerica.com/?before=124530",
+   "ts": "20261125T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Media : Salvadoraanse migrant Abrego Garcia verlaat VS vrijwillig",
+   "url": "https://drimble.nl/binnenlands-nieuws/108705462/media-salvadoraanse-migrant-abrego-garcia-verlaat-vs-vrijwillig.html",
+   "ts": "20261125T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Почему Киев продолжает бить по российским НПЗ , объяснил Хазин",
+   "url": "https://deita.ru/article/593484",
+   "ts": "20261125T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Rep . Emmer on election results , Iran war :  We did not listen to the American people  ",
+   "url": "https://www.fox9.com/news/rep-emmer-midterms-iran-war-republican-agenda-nov-24-2026",
+   "ts": "20261125T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "How tariffs , fuel and fertilizer costs are squeezing the U . S . biggest apple region",
+   "url": "https://news.prairiepublic.org/news-from-npr/2026-11-24/how-tariffs-fuel-and-fertilizer-costs-are-squeezing-the-u-s-s-biggest-apple-region",
+   "ts": "20261125T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "按下SOS却欠费停机 ， 车载紧急呼叫该收费吗 ？_ 央广网",
+   "url": "https://auto.cnr.cn/2015xc/20261125/t20261125_527882432.shtml",
+   "ts": "20261125T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Texa first review of college DEI ban doesnt answer key questions about its impact | Higher Education",
+   "url": "https://dentonrc.com/education/higher_education/texas-first-review-of-college-dei-ban-doesn-t-answer-key-questions-about-its-impact/article_eeb12aec-b1eb-4be0-bd6e-a894900dee6b.html",
+   "ts": "20261125T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Kilmar Abrego Garcia will leave U . S , voluntarily to avoid deportation",
+   "url": "https://www.inquirer.com/news/nation-world/kilmar-abrego-garcia-immirgation-case-el-salvador-efrica-self-deport-costa-rica-20261124.html",
+   "ts": "20261125T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Chia lại bậc thang điện : Công bằng hơn hay chỉ là phép dời bậc ? ",
+   "url": "https://baomoi.com/chia-lai-bac-thang-dien-cong-bang-hon-hay-chi-la-phep-doi-bac-c56595032.epi",
+   "ts": "20261125T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Exclusive : FAA probe zeros in on culprit of nationwide ground stop , but agency still faces tough questions",
+   "url": "https://www.kten.com/news/politics/exclusive-faa-probe-zeros-in-on-culprit-of-nationwide-ground-stop-but-agency-still-faces/article_a09b0888-d217-5af2-8d77-f55df32dfdbf.html",
+   "ts": "20261125T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "特朗普表示必要時願赦免黃仁勳",
+   "url": "https://portal.sina.com.hk/news-intl/sina/2026/11/25/1997217/%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E7%A4%BA%E5%BF%85%E8%A6%81%E6%99%82%E9%A1%98%E8%B5%A6%E5%85%8D%E9%BB%83%E4%BB%81%E5%8B%B3/",
+   "ts": "20261125T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Operation Metro Surge : Betty McCollum to introduce bill that seeks federal info sharing",
+   "url": "https://www.fox9.com/news/operation-metro-surge-minnesota-bill-seeks-federal-info-sharing",
+   "ts": "20261125T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "11月25日财经早餐 ： 美联储鹰派预期压制 ， 金价再测3550关口 ， 油价创近三个月新低 ， 供应过剩预期压制反弹 _ 汇市观察 _ 外汇 _ 中金在线",
+   "url": "http://forex.cnfol.com/jingjiyaowen/20261125/32431551.shtml",
+   "ts": "20261125T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  Long way to go : Partisan divide shadows childhood vaccine support , Gallup poll finds",
+   "url": "https://bakersfieldnow.com/news/nation-world/long-way-to-go-partisan-divide-shadows-childhood-vaccine-support-gallup-poll-finds",
+   "ts": "20261125T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Salvadoran migrant Kilmar Abrego Garcia to leave U . S . for Spain",
+   "url": "https://www.staradvertiser.com/2026/11/24/breaking-news/salvadoran-migrant-kilmar-abrego-garcia-to-leave-u-s-for-spain/",
+   "ts": "20261125T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Donald Trump का भारत , चीन समेत 16 देशों पर नए टैरिफ लगाने का प्लान , जांच के बाद अमेरिका उठाएगा बड़ा कदम",
+   "url": "https://hindi.oneindia.com/news/international/donald-trump-new-tariffs-india-china-16-countries-us-trade-probe-1691153.html",
+   "ts": "20261125T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  Long way to go : Partisan divide shadows childhood vaccine support , Gallup poll finds",
+   "url": "https://cbs12.com/news/nation-world/long-way-to-go-partisan-divide-shadows-childhood-vaccine-support-gallup-poll-finds",
+   "ts": "20261125T041500Z"
   }
  ]
 }

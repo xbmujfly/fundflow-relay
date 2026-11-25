@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-25T04:00:59Z",
+ "ts": "2026-11-25T04:15:55Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -29,13 +29,13 @@
    "err": "HTTPError: HTTP Error 403: Forbidden"
   },
   "gnews": {
+   "ok": true,
+   "n": 25
+  },
+  "gdelt": {
    "ok": false,
    "n": 0,
    "err": "HTTPError: HTTP Error 429: Too Many Requests"
-  },
-  "gdelt": {
-   "ok": true,
-   "n": 30
   }
  },
  "items": [
@@ -340,124 +340,124 @@
    "ts": "Fri, 2 Oct 2026 20:45:00 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "Nvidia board faces scrutiny after reversing decision to reinstate Huang",
-   "url": "https://www.business-standard.com/world-news/nvidia-board-faces-scrutiny-after-reversing-decision-to-reinstate-huang-126112500051_1.html",
-   "ts": "20261125T033000Z"
+   "src": "gnews",
+   "title": "Exclusive | U.S. Prepares to Raise Tariffs on China and Other Countries - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRKZFY1SDBYYTNwNWlxcjFqNFdGMmpQdXc3RzEyb0NoWHE3MmZoX3hBMmdnR0doa3JUUmhoN2xaUTR6dUVuajlkX19tZmN3ZHFOTUNkWnJmV3RVaThzRXVWbXZlNWVpb3k1WmNzOFRYUDRCTjg1S1g3YTRaMDZMT3lhVm8wM3VHdG1BaWlvTTZNY2JNMlR1aHNzV3RyQVk5MW44?oc=5",
+   "ts": "Tue, 24 Nov 2026 13:08:58 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "राष्ट्रपति ट्रंप ने दो टर्की पक्षियों को दिया जीवनदान , व्हाइट हाउस की सालाना परंपरा निभाई",
-   "url": "https://www.tarunmitra.in/international/president-trump-gave-life-to-two-turkey-birds-and-followed/article-173597",
-   "ts": "20261125T033000Z"
+   "src": "gnews",
+   "title": "Is the US-China trade truce unravelling? Nvidia, rare earths, and the consequences for Europe - European Union Institute for Security Studies |",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0JBTFRQT0FabnR2aG9IdGswaDg0bEtBakRRZkZMaDFEeXBMNFprVmJzMG9tSE5laHJjcXI3dFljSG5GR0lpTEhqVmt4SV9EcC1PdkdjSHgxNEVTQ2VLQzVjbFJPeTZLZmtGQWVnakVGQkpUNHpCb3RFUlE5WlIta1VJNVAwZDMyZ1lCZHBUMjV5aUU5OExSdWFSWnVaeXRadHJxWDc5SEtyd2x2WTJRVmRKaVI1cDcyd3FB?oc=5",
+   "ts": "Tue, 24 Nov 2026 21:12:47 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "New documents reveal what led to search warrant of Rep . Ilhan Omar home",
-   "url": "https://foxreno.com/news/nation-world/new-documents-reveal-what-led-to-search-warrant-of-rep-ilhan-omars-home-doj",
-   "ts": "20261125T033000Z"
+   "src": "gnews",
+   "title": "Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNklFaE54bEV6OGdKT29ScUxHUlZwRDNyREJ0MzBSZzZGdnptTkVxaXNHeWx2WjFWYVMzMzdMeU92dC1PVmYyZ1BTT3lCTWVRVnJ5ODFEb0NXYWpDd1ZQUlg4bkZ5QVAyck9KQUhMbldjY2FqMmtsZGs3MTFUY0xLZm9wMWRRTFAyS3VvZUZ6Wnk0VzlxTjR3VS1GSkJ1S3VCU2xmZ09FX1E5dUVjTUhfR21wMG1pcktxdGc?oc=5",
+   "ts": "Tue, 24 Nov 2026 18:48:05 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "低风险理财回撤 ， 理财公司集体发声 ！ 后市这样看 _ 财富号 _ 东方财富网",
-   "url": "https://caifuhao.eastmoney.com/news/20261125092816832422300",
-   "ts": "20261125T033000Z"
+   "src": "gnews",
+   "title": "Trump administration tees up tariff hikes on EU, China, others - Politico",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHdmanQya1ZpbmtJaGc1SHh1NFItcHdxWXlLX2VGZG9NLUlDeV9RYWRVek5GWVlxdXpfNFRmRmlLMnpBZl9fWDVmTkx4ZFd0TnlGanhsbFA1XzJ3SjM3di1wMFl0MzREQ1RYWGJ5SDAtbmVYNm01YllCS29qN0ZfenB2N05OVXoxNVJFX1oxRkV1TFIwZ2U1RA?oc=5",
+   "ts": "Tue, 24 Nov 2026 16:18:00 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "US ready to slap tariffs on China , EU and others over subsidized production , AP sources say",
-   "url": "https://www.clickondetroit.com/news/politics/2026/11/25/us-ready-to-slap-tariffs-on-china-eu-and-others-over-subsidized-production-ap-sources-say/",
-   "ts": "20261125T033000Z"
+   "src": "gnews",
+   "title": "U.S. ready to slap tariffs on China, EU and others over sub­si­dized pro­duction, AP sources say - Spectrum News",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONXFVSWZjQUJXZFNzdHFlX2hDdHlwRnA3S1d0UGhxRFVwczNMSmVXQ21xRHZ0SVNuWlRISXJNQjJidm8yVmNobEY2RU9jZ1ZPcTFEc2NpR29VSi16eHphQWlPOGRaT0lrZnBkVlZaYlRaX3U1MDFtMFN0TWJISWxzN1M5ekNHeVY4NVRrQTNFSVVMbXdhQ05INnBKVTZZelpIdnVj?oc=5",
+   "ts": "Wed, 25 Nov 2026 01:25:00 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO",
-   "url": "https://www.santafenewmexican.com/ap/business/nvidia-board-joins-jensen-huang-under-scrutiny-after-reinstating-embattled-ceo/article_ac61a1f4-4500-515d-9692-78831c98d8fc.html",
-   "ts": "20261125T033000Z"
+   "src": "gnews",
+   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
+   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "",
-   "url": "https://mp.weixin.qq.com/s/Y3qsWkmx08dS2GQ8tRY82Q",
-   "ts": "20261125T033000Z"
+   "src": "gnews",
+   "title": "Bumpier U.S.-China Trade Is Coming - China-US Focus",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJNUURnenNwRV9MaTlCUFZOejU2T2xNeTRSTzlOaFBRLTNNcmhrbVdlSjZ6b1g4RDJnSXBuSlJFZ3dzeDdEc3ZlY21ES0lQZFYyWm9TWHBtTm1haUhKaFJnM1JDcjVmRVQyOU5tTmRHM1RzUnl3YXRmM3FVc0RIUzIybw?oc=5",
+   "ts": "Tue, 24 Nov 2026 13:02:14 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "An unclassified CIA system was breached in a cyberattack , AP source says",
-   "url": "https://www.knopnews2.com/2026/11/24/an-unclassified-cia-system-was-breached-cyberattack-ap-source-says/",
-   "ts": "20261125T033000Z"
+   "src": "gnews",
+   "title": "Why the US-China Truce Holds, for Now - The US-China Business Council",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xS0FZdWVRa2VoMk1JX0NXRFU5THFLZElvTV9XZG1RMVd1R3NKczFqUldUaU54VFBRcm9nSFhDOVRwaXQ4blh0ZWNtZWdWdG92czlTNnVSZFY5NFlyLUtDZC0xQzlQOWRIWnFxQkdOWmhnSkJBcTBSQnhB?oc=5",
+   "ts": "Tue, 24 Nov 2026 20:31:18 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "حققنا الفوز | « ترامب » يكشف موعد انتهاء تمويل حرب إيران .. ويخشى قيود الكونجرس",
-   "url": "https://akhbaregy.com/2026/11/25/%D8%AD%D9%82%D9%82%D9%86%D8%A7-%D8%A7%D9%84%D9%81%D9%88%D8%B2-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%83%D8%B4%D9%81-%D9%85%D9%88%D8%B9%D8%AF-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1-%D8%AA/",
-   "ts": "20261125T033000Z"
+   "src": "gnews",
+   "title": "Grains Mixed Sorting Through New China Trade Deal vs. New Tariffs - AgWeb",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjM2LUwxdG5SaFNJaHA2VzFqcGhxaXd0U00xc0Y3TzVnamFRMjJCOTdKVkVLTnV4YXlKQTNmNUp6amdQdjhnQmhnc2d4aUhqY1dJRkFxbW1YZHpWS1laQ0hESWE0Y29RMkVPRTJ0TUZEUTV3UjE1SjE4eFVoYS1kZVo3RnNoTFJfb21uMmlvNm1pbUx5RnpIdUhn?oc=5",
+   "ts": "Tue, 24 Nov 2026 17:04:00 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "  It always an option but ...: Trump on whether hell pardon Nvidia CEO Jensen Huang",
-   "url": "https://www.businesstoday.in/technology/news/story/its-always-an-option-but-trump-on-whether-hell-pardon-nvidia-ceo-jensen-huang-569271-2026-11-25",
-   "ts": "20261125T033000Z"
+   "src": "gnews",
+   "title": "Meat exporter: Trump trade policy interferes with business relationships - The Fence Post",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRFVjYUowaUQzUjdGNjFIMllaYi1ReWJYTlZjNTM5ZTRscVZmZThRd3dYTmlJR3JidndObkFEXzBLbHR1bTdkaXVuZWFNbE9nWjVWeER4NXBUU0hpRUtJT2hhVHpfWWZuaHE1bXp5NjR4ZzhoalZkRGVVR20wT0pZT0ZvQXY0QmtkOU9fM0JoSmRtbEs3bUFUT2d5dHllM1lHQnAyX2I2ellaZw?oc=5",
+   "ts": "Tue, 24 Nov 2026 15:55:47 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "Trump says Jensen Huang pardon is  always an option , mulls US govt stake in Nvidia",
-   "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-jensen-huang-pardon-is-always-an-option-floats-us-stake-in-nvidia/articleshow/136145963.cms",
-   "ts": "20261125T033000Z"
+   "src": "gnews",
+   "title": "Trump prepares a new round of targeted tariffs - Axios",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IOXZTRnJTd1pRNzd0dUhFN0pGM3p5Vmcyc2kzT1BmZDMyNmxNWUV5RWFYUmNMdE5OblIxRFZyODdiaFdmWnFBWTdjYzMwX2c0d0NSSXNsSlhlTDl4S2xXTXJON1hkbDczcEw2RXFTZjROdGxO?oc=5",
+   "ts": "Tue, 24 Nov 2026 20:56:46 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "Putin says Ukraine hits Russian oil plants despite Trump requests , promises retaliation",
-   "url": "https://bdnews24.com/world/europe/jetofbk2mf",
-   "ts": "20261125T033000Z"
+   "src": "gnews",
+   "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
+   "ts": "Fri, 20 Nov 2026 13:16:47 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "黄仁勋归来难改量化基金趋势 ？ 华尔街警示更多CTA抛压在后头 ！ _ 东方财富网",
-   "url": "https://finance.eastmoney.com/a/202611253939387095.html",
-   "ts": "20261125T033000Z"
+   "src": "gnews",
+   "title": "China’s Huawei convicted of stealing US trade secrets - The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmRRaEFuMEkxY0ltVXJpRmpUampjSWVsTVJ2S2JNdGlzaFBHOVRqbHUyQUJrb3ZvREJOWW1wYUZDbFBSRk9UaG44aGZBZ2VHdE5HVUxOMDF1Vjh4RjV5S1JHTUEtTVJVVDJDUGNfZEJ2WTJjT092cUNMTVpDR0FLQ2ZHRWh4Yk1NYnoweXNLRTFrSFVsVU9IRGFYMDdvTmJtamZpSFNRMnZjZWZzQzQyNmxySjlBZw?oc=5",
+   "ts": "Tue, 24 Nov 2026 21:11:00 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "Kilmar Abrego Garcia Voluntarily Leaving U . S . ",
-   "url": "https://710wor.iheart.com/content/2026-11-24-kilmar-abrego-garcia-voluntarily-leaving-us/",
-   "ts": "20261125T033000Z"
+   "src": "gnews",
+   "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbDNsb3gyVkJQMDFVT0p3QTJtV2tKdEhQbXpad0xXWlViLUNnWHJ1ODJJTE8xOFpjTHV2ZTU3MjRpMmt5MW5zNGhTdWU1SUxrei1aSDNhQmFROEFyUXR6OVU4SUFfb0dZSDlTbjF4dEFsRHlUM25YZ0h1OVlxV3JITjZYM1ZpcVQtU3BnSy1PN3RMR0w1LTkzb3ZJX1I5azdvNW9BR1JQVElYNXJnWlo3VzZVVFFac2gyc1B5NNIBwgFBVV95cUxPTDV0Y2ZVY0tMZEh4R29qbTdPUGUxYWtJelNLZlJrYUIwT3lJV2RPM2dnc0dldjRMT2U1dUN5djZkUFNGMlg3NTU4OVlsTlJCREJoRnNqcU5MbWxHbDFvc3BPOGRGb2p4YzZYOG1RN2VSTUVYZWVWVlZvUWhXckxEUUdsRm9Nb2JZQm9DU1M4OUR6VVNIcy13MVJqbjR0Tnd5RkZNSDN6akVUX3BtalZzU1lhZ2tVMmdHOVBObE1UTmlmUQ?oc=5",
+   "ts": "Tue, 24 Nov 2026 21:51:57 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "Jensen Huang controversial return to Nvidia poses the question – what the point of a board ? ",
-   "url": "https://theconversation.com/jensen-huangs-controversial-return-to-nvidia-poses-the-question-whats-the-point-of-a-board-297386",
-   "ts": "20261125T033000Z"
+   "src": "gnews",
+   "title": "January 2027 U.S.-China trade deadlines: Four risks to model now - Thomson Reuters tax",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlU0E0SzZocmlwbmxWMWhQVHg2MWNBSHJBSzYtV09VWE5zZ2FIZGlBdXcwWExPWWFVSWVqU3l1aklFZ2p2bmxZNmY1OW5tanR5QXU4djlpRTB3b25zaGlLbEpmUE9JY1dQTlVUR3VRc3hRenFlUTlSNERhbGtBUEE?oc=5",
+   "ts": "Mon, 23 Nov 2026 18:29:17 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "DC insider lays out GOP nightmare and  final repudiation of MAGA  ",
-   "url": "https://www.alternet.org/trump-corruption-republican-party-brand/",
-   "ts": "20261125T033000Z"
+   "src": "gnews",
+   "title": "Trump's next Section 301 tariffs raise stakes for US-China trade truce deadline - digitimes",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQnZlVTlQamlIdXF4N1NodXNNci14WHI5Z3p2Z0FobnRpNGpScy1CdGR0cS1oelBzc0FPRks2RGVGRnYyd3ZlRDhkVWdTWW4xVnpEQUxvZ3RJLW9SYWZVNDRQTERpS2hLbTNyRWt6NDlWalVUN1U0NnR3YXh2ZHBYNUFqeV90SVQ3VVBKUFoyQlpSUFhiU2lPQ0I4RHhRcUJJNF9Hcg?oc=5",
+   "ts": "Wed, 25 Nov 2026 03:35:31 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "Trump DOJ Attacks Federal Judges Amid Ramped - Up Deportation Push",
-   "url": "https://www.newsweek.com/trumps-doj-attacks-federal-judges-amid-ramped-up-deportation-push-12765819",
-   "ts": "20261125T033000Z"
+   "src": "gnews",
+   "title": "Democrats target Trump tariffs as midterms cloud manufacturing trade agenda - Plastics News",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWmJqQWtraWRUR18yazZqczY2NVdUalFReUQtS04zQS0zLWQyT2RuSVNUVC0yVW1NSFgtTWxzZ1JtcG9aLUp1VktRNmhfekVjbFBfVXA0S3oyNmJVdFVYR0Z6TnBndC1zR3NadVI3ZkNLZDNSb3NYUk5aVHJVMlc1OVdEWnM1d204alRZSlB1QTNaTkQ2cG5udDJn?oc=5",
+   "ts": "Tue, 24 Nov 2026 17:12:00 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "Judge orders Trump to cough up secret records on $100K Truth Social access",
-   "url": "https://www.alternet.org/trump-truth-social-api-inside-knowledge/",
-   "ts": "20261125T033000Z"
+   "src": "gnews",
+   "title": "What to Expect in U.S. Tariff Policy Following the 2026 Midterm Elections - Davis Wright Tremaine",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYjYtY3NjVzFfTmFKMUNJTUVtQXQ0d1F5RmF4TE12N1lKZFBYTUdBM0ZLY05oWEwxeUJEUlpOR2NrczZRbElTeFdqa3BrTjhsM29wbVRiMkxNM21IMjVTN1JzcmdxTm5pUGU1SmNMQmxaRk11V1FUSnBqYkE3ZUNjdTRjWW1uZG1fNEE?oc=5",
+   "ts": "Mon, 23 Nov 2026 23:55:27 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "Donald Trump intervention in Jensen Huang reinstatement puts Nvidia under scrutiny",
-   "url": "https://www.hindustantimes.com/world-news/donald-trumps-intervention-in-jensen-huangs-reinstatement-puts-nvidia-under-scrutiny-101795568629317.html",
-   "ts": "20261125T033000Z"
+   "src": "gnews",
+   "title": "China urges Britain to support free trade, provide favourable business environment - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT2otaUM0a09JTlpaVGx6ek9ySzBBRW5seUhvMldlc2tmN0ZxczExZFhNTTlzeGJXa2dUbHE3R3J5c19xWEIyUGRnZjZaZWxMaE55TzZrR1VGNG0ycVBWUm5wYlE4QlNKQjRtQVpFWUFRY3ZLMXg3Rkg4RXpsYnZESG56U0E1UFo3LWR5RkhPYURibk1Ga3d6bG9wV3RZb3FRMldxZ1plRl9nSHBnZEdRMUlteEVfZ3RPaGVGSG94Ujk?oc=5",
+   "ts": "Tue, 24 Nov 2026 15:03:43 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "Kilmar Ábrego Garcia reportedly self - deporting to Spain after legal fights",
-   "url": "https://www.wtxl.com/politics/immigration/kilmar-abrego-garcia-mistakenly-deported-maryland-man-reportedly-self-deporting-to-spain-after-legal-fights",
-   "ts": "20261125T033000Z"
+   "src": "gnews",
+   "title": "China's Huawei convicted in sprawling US criminal trial over Iran business - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5",
+   "ts": "Tue, 24 Nov 2026 20:16:00 GMT"
   }
  ]
 }

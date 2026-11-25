@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-25T00:15:55Z",
+ "ts": "2026-11-25T00:31:00Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -457,126 +458,6 @@
    "title": "China's Huawei convicted in sprawling US criminal trial over Iran business - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5",
    "ts": "Tue, 24 Nov 2026 23:06:36 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Министр торговли США сделал агентов по экспорту чипов телохранителями :: Новости дня / ВЗГЛЯД",
-   "url": "https://vz.ru/news/2026/11/25/1480231.html",
-   "ts": "20261124T234500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Companies are getting less accurate data on extreme weather just when they need it the most",
-   "url": "http://www.advocateanddemocrat.com/news/national/article_d211de4c-8a70-5327-a3b4-61ff9ae2497d.html",
-   "ts": "20261124T234500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "东方财富财经早餐 11月25日周三 _ 东方财富网",
-   "url": "https://finance.eastmoney.com/a/202611243938774940.html",
-   "ts": "20261124T234500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "My Turn : Midterm elections and Thanksgiving - Greenfield Recorder",
-   "url": "https://recorder.com/2026/11/24/columnist-richard-fein-midterm-elections-and-thanksgiving/",
-   "ts": "20261124T234500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "CDC director draws doubts from employees and ire from legislators",
-   "url": "https://www.republicanherald.com/2026/11/24/cdc-director-erica-schwartz-scrutiny/",
-   "ts": "20261124T234500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Groups sue Trump administration after changes made to Philadelphia slavery exhibit",
-   "url": "https://www.sandiegouniontribune.com/2026/11/24/slavery-exhibit-removed-lawsuit/",
-   "ts": "20261124T234500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Câmara adia novamente votao do projeto de lei de mercados digitais",
-   "url": "https://www.em.com.br/politica/2026/11/7543716-camara-adia-novamente-votacao-do-projeto-de-lei-de-mercados-digitais.html",
-   "ts": "20261124T234500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "New HUD Rule Threatens Housing For Immigrants , Contra Costa Lawmakers React",
-   "url": "https://patch.com/california/concord-ca/new-hud-rule-threatens-housing-immigrants-contra-costa-lawmakers-react",
-   "ts": "20261124T234500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "How Secret Prison Romance Saved Lost Solzhenitsyn Novel",
-   "url": "https://www.realclearpolitics.com/the-media-free-press/links/how-secret-prison-romance-saved-lost-solzhenitsyn-novel-2026-11-24",
-   "ts": "20261124T234500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump grants pardons for Thanksgiving turkeys",
-   "url": "https://www.mandurahmail.com.au/story/9397739/trump-grants-pardons-for-thanksgiving-turkeys/",
-   "ts": "20261124T234500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "黄仁勋出轨风波 ， 上演终极大反转",
-   "url": "https://www.163.com/dy/article/LCIHN40N0519DLR9.html",
-   "ts": "20261124T234500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US officials debate assassinating senior Iranian leaders",
-   "url": "https://www.middle-east-online.com/en/us-officials-debate-assassinating-senior-iranian-leaders",
-   "ts": "20261124T234500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump grants Thanksgiving pardons for turkeys at White House",
-   "url": "https://www.theargus.co.uk/news/national/26759910.trump-grants-thanksgiving-pardons-turkeys-white-house/",
-   "ts": "20261124T234500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Salvadoran migrant Kilmar Abrego Garcia to leave US voluntarily , US media reports",
-   "url": "https://whbl.com/2026/11/24/salvadoran-migrant-kilmar-abrego-garcia-to-leave-us-voluntarily-us-media-reports/",
-   "ts": "20261124T234500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "WindAction | Trump Administration reevaluates permit for New Jersey wind farm",
-   "url": "https://www.windaction.org/posts/57116",
-   "ts": "20261124T234500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "CIA system breached in cyberattack , sources say",
-   "url": "https://www.theglobeandmail.com/world/article-cia-breach-cyberattack-hack/",
-   "ts": "20261124T234500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "How Jensen Huang return may cost Nvidia | National News",
-   "url": "https://www.mykxlg.com/news/national/how-jensen-huang-s-return-may-cost-nvidia/article_53c2dd69-aeb9-5795-b95b-c5c3449d0e78.html",
-   "ts": "20261124T234500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Groups sue Trump administration after changes made to Philadelphia slavery exhibit",
-   "url": "https://www.republicanherald.com/2026/11/24/slavery-exhibit-removed-lawsuit/",
-   "ts": "20261124T234500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Galatasarayda Okan Buruk , Aston Villa zaferini değerlendirdi !  Bizim için önemli bir gece  ",
-   "url": "https://www.tgrthaber.com/spor/galatasarayda-okan-buruk-aston-villa-zaferini-degerlendirdi-bizim-icin-onemli-bir-gec-3373303",
-   "ts": "20261124T234500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Mike McNeill Diary for Tuesday , November 24 , 2026 : Flu and COVID reports | Mike McNeill Diary",
-   "url": "https://www.magnoliareporter.com/news_and_business/mike_mcneills_diary/article_8b7a7e37-4400-4f9a-82c5-a8c729520cd5.html",
-   "ts": "20261124T234500Z"
   }
  ]
 }

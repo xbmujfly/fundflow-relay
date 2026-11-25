@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-25T08:00:59Z",
+ "ts": "2026-11-25T08:15:56Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -407,15 +407,21 @@
   },
   {
    "src": "gnews",
+   "title": "China, US Set for ‘New Chapter’ of Trade Talks, Ex-Official Says - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXNHUkhmNU9qNlc5SUphend6U184Y1FWa1AtemhrWlBhRUw0elViZG1YTVFxMHZkME03YXlqUk9LSFVaMGI5enZwelJZVlhHWDdFcXEwLVYwMUZEOW5COURWMG5VcWhIbERGcUVrWWtlN181TEdpcGNJZkpqSUhuY2c5OXh4SW9DYlJ2XzNFRjVYS0FjNlRsM3FhNkFfZms5enA0V0h5TFNGOVduY2pLdA?oc=5",
+   "ts": "Wed, 25 Nov 2026 06:59:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Meat exporter: Trump trade policy interferes with business relationships - The Fence Post",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRFVjYUowaUQzUjdGNjFIMllaYi1ReWJYTlZjNTM5ZTRscVZmZThRd3dYTmlJR3JidndObkFEXzBLbHR1bTdkaXVuZWFNbE9nWjVWeER4NXBUU0hpRUtJT2hhVHpfWWZuaHE1bXp5NjR4ZzhoalZkRGVVR20wT0pZT0ZvQXY0QmtkOU9fM0JoSmRtbEs3bUFUT2d5dHllM1lHQnAyX2I2ellaZw?oc=5",
    "ts": "Tue, 24 Nov 2026 15:55:47 GMT"
   },
   {
    "src": "gnews",
-   "title": "China, US Set for ‘New Chapter’ of Trade Talks, Ex-Official Says - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXNHUkhmNU9qNlc5SUphend6U184Y1FWa1AtemhrWlBhRUw0elViZG1YTVFxMHZkME03YXlqUk9LSFVaMGI5enZwelJZVlhHWDdFcXEwLVYwMUZEOW5COURWMG5VcWhIbERGcUVrWWtlN181TEdpcGNJZkpqSUhuY2c5OXh4SW9DYlJ2XzNFRjVYS0FjNlRsM3FhNkFfZms5enA0V0h5TFNGOVduY2pLdA?oc=5",
-   "ts": "Wed, 25 Nov 2026 06:59:00 GMT"
+   "title": "Will Trump Impose New Tariffs on 16 Trading Partners to Replace Court-Blocked Duties? - Modern Diplomacy",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObzRaYl9Rbm1teTZscFQwVHVxWm9MdVk2b1k4LWt6QzZNcWVoZ2RtbXlLVV9ZNm02cThEeGVYSHI2YzluLUFrVXdnRVltN1VtZTJSeWFMWVo1QUVXV2JUMUpJemdZbnM1UGgzTjV1UC1KRGJCRmhBUERhZGxwZDZMV094bnNNN0xCVVRQTzUxR2NZSkhFQzU0WE9JY1FMMHp0cFVyanFNVi1RSDUydF9acTJZdTRzSHdsS3RnS0FvNlM?oc=5",
+   "ts": "Wed, 25 Nov 2026 08:14:00 GMT"
   },
   {
    "src": "gnews",
@@ -443,21 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Is Bringing Tariffs Back, and China Will Likely Get Hit Hardest: WSJ - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMTkwck9aVXRkSFRvWlVoM1NSVjlXTlcwc2pmOGRZb0xwVXVQV1dZUTFpdlhibjJVRnpXUkpzYW9fUU4xbklFY3VYbUgyZHlJZ2R3ekd3bTQtRGdXYy0tZ0w4V0JBVHg4STFmVWZKVXBHemo1WGJMamp2TGFEYjRNZl9Gam9mbWZ0eGtfLXRobm5yVlN0cWZjS3NqR0dLVXc?oc=5",
-   "ts": "Tue, 24 Nov 2026 13:47:52 GMT"
+   "title": "US shelves plans for business deals with Russia to end Ukraine war, FT says - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFZhN2w2ckJtVC03TWJPb2FwbDlrZzdDd0tRUWRmeGh0WXJBeWZjelhNMFNlMjNPTzJZVjB2MVhtZzhqSE9rdzZkbE5kZW5HbDdxeVVhd1g0aUExaHZGMm5oVy1YTkcyMmdaN0s5aG9kNERVZWl0OHpVaFRNVkFaNVQwTnFKMjAwWFMtenFJU002WlBIbWVqRVZHTWlWa19BXzNDaDJVVmUyRExDUXBHZnVmTHMwV01iSHRPallncHNkT09hNnc?oc=5",
+   "ts": "Wed, 25 Nov 2026 05:16:00 GMT"
   },
   {
    "src": "gnews",
    "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
    "ts": "Fri, 20 Nov 2026 13:16:47 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China urges Britain to support free trade, provide favourable business environment - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT2otaUM0a09JTlpaVGx6ek9ySzBBRW5seUhvMldlc2tmN0ZxczExZFhNTTlzeGJXa2dUbHE3R3J5c19xWEIyUGRnZjZaZWxMaE55TzZrR1VGNG0ycVBWUm5wYlE4QlNKQjRtQVpFWUFRY3ZLMXg3Rkg4RXpsYnZESG56U0E1UFo3LWR5RkhPYURibk1Ga3d6bG9wV3RZb3FRMldxZ1plRl9nSHBnZEdRMUlteEVfZ3RPaGVGSG94Ujk?oc=5",
-   "ts": "Tue, 24 Nov 2026 15:03:43 GMT"
   }
  ]
 }

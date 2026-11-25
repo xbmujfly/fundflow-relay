@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-25T14:01:00Z",
+ "ts": "2026-11-25T14:15:57Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -172,6 +172,12 @@
   },
   {
    "src": "ustr",
+   "title": "USTR Makes Determinations and Proposes Actions in 14 Section 301 Investigations Relating to Structural Excess Capacity and Production in Manufacturing Sectors",
+   "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+   "ts": "Wed, 25 Nov 2026 11:19:59 +0000"
+  },
+  {
+   "src": "ustr",
    "title": "United States Seeks Mexico’s Review of Alleged Denial of Workers’ Rights at Polygroup Industrias México",
    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-polygroup-industrias-mexico",
    "ts": "Thu, 19 Nov 2026 21:12:37 +0000"
@@ -211,12 +217,6 @@
    "title": "United States and Mexico Announce Memorandum of Understanding at Industrias Tecnos Facility",
    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-and-mexico-announce-memorandum-understanding-industrias-tecnos-facility",
    "ts": "Mon, 02 Nov 2026 20:13:43 +0000"
-  },
-  {
-   "src": "ustr",
-   "title": "Ambassador Greer Issues Statement on President Trump’s Intent to Terminate Rwanda and South Africa from the AGOA Trade Preference Program",
-   "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ambassador-greer-issues-statement-president-trumps-intent-terminate-rwanda-and-south-africa-agoa",
-   "ts": "Mon, 02 Nov 2026 16:41:12 +0000"
   },
   {
    "src": "fed",
@@ -340,6 +340,12 @@
   },
   {
    "src": "gnews",
+   "title": "Trump proposes new tariffs on China, Europe and other trade partners - The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRG9IZXZjbjBEQ2tzam5pT0FPZWNFc2hac3ZURjRUaTJITlQwQmt4RElZVGlnM0luQndHeXdRaGRwTUVVbHVqQlcyZC01OC1adzBLT3JWWlNadmw2N01zR3JZT1VwWG1mVVNaSkNUSWExNTlYRWtCejNRUE1KSXk0TFpjaUt5X0Z4LUFLMzB1c3QtRXNpUVc5UzNMeHY4d2paMjVEVGpveFlpM1BvZWRlZzFR?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:48:13 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "US announces new tariffs on host of countries including China - BBC",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5",
    "ts": "Wed, 25 Nov 2026 13:19:41 GMT"
@@ -352,15 +358,15 @@
   },
   {
    "src": "gnews",
-   "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MeWZxZF9LSEQtWThHY3lxNm81dzVSbFZqaU9XVGdaX0hycUlWc2NKWm9zamxtVF9zd2ZwTlJNenYwWXRSUTVuQjJwQ0pOMEVYMW40MTF4MkdVNEU4TkVKSzhIaW1RS0h1TXhLVkJHWVdHUk3SAXhBVV95cUxOZnBfeEVLaTREWmhNMEZESE9FS2pjYkpiNGk4ZFl1QURIV3Z5UXR5SVBLNHZtMzBrR3hsZTFOTGkzWGdvTUdpR3N4VXY0X05VREZ1cEtiY0hGN0NSTDNIMmg4bVVKa1pwNThKenIyOFdQbjhpdkRFUGI?oc=5",
-   "ts": "Wed, 25 Nov 2026 13:11:09 GMT"
+   "title": "US threatens double-digit tariffs on EU, China, 12 others after investigation - Politico",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2J0SV9QNWhqNGwzNWFQeHpaY3BKQ0JUMFdPY2daVHdPV29HNUR2V1g0STd2U0FDZnF6YUdJR2NHS09KNUtlSERJME9qU3AzMU80Sy1wUVB2UzRWWTZGXzQ1SGJPTEo2WkRUamc3azN3YXhrd29VdXUwVEpZOTVuSlg3UWxYeDNkNjI3MGczcFFJaWRGZGFXUDB3Nm5Jai1idVRqaWd0ZTk3Vnd3WjhCRTZGdEo1R1U?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:40:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump proposes new tariffs on China, Europe and other trade partners - The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRG9IZXZjbjBEQ2tzam5pT0FPZWNFc2hac3ZURjRUaTJITlQwQmt4RElZVGlnM0luQndHeXdRaGRwTUVVbHVqQlcyZC01OC1adzBLT3JWWlNadmw2N01zR3JZT1VwWG1mVVNaSkNUSWExNTlYRWtCejNRUE1KSXk0TFpjaUt5X0Z4LUFLMzB1c3QtRXNpUVc5UzNMeHY4d2paMjVEVGpveFlpM1BvZWRlZzFR?oc=5",
-   "ts": "Wed, 25 Nov 2026 13:48:13 GMT"
+   "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MeWZxZF9LSEQtWThHY3lxNm81dzVSbFZqaU9XVGdaX0hycUlWc2NKWm9zamxtVF9zd2ZwTlJNenYwWXRSUTVuQjJwQ0pOMEVYMW40MTF4MkdVNEU4TkVKSzhIaW1RS0h1TXhLVkJHWVdHUk3SAXhBVV95cUxOZnBfeEVLaTREWmhNMEZESE9FS2pjYkpiNGk4ZFl1QURIV3Z5UXR5SVBLNHZtMzBrR3hsZTFOTGkzWGdvTUdpR3N4VXY0X05VREZ1cEtiY0hGN0NSTDNIMmg4bVVKa1pwNThKenIyOFdQbjhpdkRFUGI?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:11:09 GMT"
   },
   {
    "src": "gnews",
@@ -370,15 +376,9 @@
   },
   {
    "src": "gnews",
-   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
-   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "US threatens double-digit tariffs on EU, China, 12 others after investigation - Politico",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2J0SV9QNWhqNGwzNWFQeHpaY3BKQ0JUMFdPY2daVHdPV29HNUR2V1g0STd2U0FDZnF6YUdJR2NHS09KNUtlSERJME9qU3AzMU80Sy1wUVB2UzRWWTZGXzQ1SGJPTEo2WkRUamc3azN3YXhrd29VdXUwVEpZOTVuSlg3UWxYeDNkNjI3MGczcFFJaWRGZGFXUDB3Nm5Jai1idVRqaWd0ZTk3Vnd3WjhCRTZGdEo1R1U?oc=5",
-   "ts": "Wed, 25 Nov 2026 13:40:00 GMT"
+   "title": "Could potential US tariffs put the US-China trade truce at risk? - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2c2Y1A4a095TUY0T21rYVAyV3k3a1VkS3Y0TTJEQll1RUxVZUR4MTViaUJZR2gzcUVpQ1NmQklkZnFWakNSMVMtYmpBVXBtdm1GaERwbUdTb0c5dUl1Z3BTWTd6Ny1Ld3ZqOFVVVXZJcW1jVThiSG4wYTZ0SDlFcGRDT295YUlQR2FCUzBfT0hycVZIOXdmbUx3R1hhdXhPcWVmTnEwWFhncVlPdHlLbGtQamdBRknSAbcBQVVfeXFMTUE4aUJvMXROQ2hGMVFRbkt5ZDZuNnBVMXdvdmphc3hWQk1DbjR1cVgtd2VBSWJObnY3OWNGeEVaQ2ZqRGRZbXp2RWpnek8yNFVIcERCMHVVbkdpV2x4OEdMYU9YOVdlYXJDZWZJVFhhaFUzWG5BR2FwR01MdHNyQVN6bEl6UGxmamdIZkFmZjdKdURCSFhtcVRDY053TU9pbWtQOFNXNEtuQjNPaUJreEVXQy1IVGVV?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:39:44 GMT"
   },
   {
    "src": "gnews",
@@ -394,27 +394,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump targets China in new round of tariffs - CNN",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5maU9qZ1VMR3l0TDI5UlgyQzBBLUF5a2UwYUUyQjFtZDY4QXdyTXg0cjNSajdVSThyS2xuSEIzMkZ4WEdRaHNTcjFnMjFYNXlmWEtvYjFYdWRjcWlUZUN2bXIweHlyaU0?oc=5",
-   "ts": "Wed, 25 Nov 2026 13:14:55 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Could potential US tariffs put the US-China trade truce at risk? - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2c2Y1A4a095TUY0T21rYVAyV3k3a1VkS3Y0TTJEQll1RUxVZUR4MTViaUJZR2gzcUVpQ1NmQklkZnFWakNSMVMtYmpBVXBtdm1GaERwbUdTb0c5dUl1Z3BTWTd6Ny1Ld3ZqOFVVVXZJcW1jVThiSG4wYTZ0SDlFcGRDT295YUlQR2FCUzBfT0hycVZIOXdmbUx3R1hhdXhPcWVmTnEwWFhncVlPdHlLbGtQamdBRknSAbcBQVVfeXFMTUE4aUJvMXROQ2hGMVFRbkt5ZDZuNnBVMXdvdmphc3hWQk1DbjR1cVgtd2VBSWJObnY3OWNGeEVaQ2ZqRGRZbXp2RWpnek8yNFVIcERCMHVVbkdpV2x4OEdMYU9YOVdlYXJDZWZJVFhhaFUzWG5BR2FwR01MdHNyQVN6bEl6UGxmamdIZkFmZjdKdURCSFhtcVRDY053TU9pbWtQOFNXNEtuQjNPaUJreEVXQy1IVGVV?oc=5",
-   "ts": "Wed, 25 Nov 2026 13:39:44 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNndyR0VJNnlJZm5UR2tJRjUzalBvR1E0R245TVNfU0xWT3NxNk1pOU1SZkRJd2ZaTkY4T1RzZ1VLZ0V3SmpQZDZpeGhwcmVVRFFsekl0RE9pUkJ3Q2t5UUpXZkhRWkRlM2hzUVgtaE5GRDlfUWVZODR0cmlJamFQMHNkZXp0RFJQeHlFQ0tiTjlkcWczdjJ4ZVlzQXRxYjVfQ0VMX01sWQ?oc=5",
    "ts": "Wed, 25 Nov 2026 07:42:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties - Time Magazine",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEpCVDBTbmUyM2hOckpXSFNPMVQyM3p1MkFxWVlZbXVuMDVMbFZZOFVfVTNkQTNsb29NdFZ2d2hzN2lxX05VU0FHbzFNb0JOcFhDek1ia0NRYTR5dTJ3UTRiWFdfU2otdHpiYU5hMGN5MW5tTHhOOFZDbDVvczRPbjNld1g0SmE0bHM3Vlk1SDJqZFhPaHdBbg?oc=5",
-   "ts": "Wed, 25 Nov 2026 09:30:00 GMT"
+   "title": "Trump targets China in new round of tariffs - CNN",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5maU9qZ1VMR3l0TDI5UlgyQzBBLUF5a2UwYUUyQjFtZDY4QXdyTXg0cjNSajdVSThyS2xuSEIzMkZ4WEdRaHNTcjFnMjFYNXlmWEtvYjFYdWRjcWlUZUN2bXIweHlyaU0?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:14:55 GMT"
   },
   {
    "src": "gnews",
@@ -424,15 +412,21 @@
   },
   {
    "src": "gnews",
+   "title": "Will Trump Impose New Tariffs on 16 Trading Partners to Replace Court-Blocked Duties? - Modern Diplomacy",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObzRaYl9Rbm1teTZscFQwVHVxWm9MdVk2b1k4LWt6QzZNcWVoZ2RtbXlLVV9ZNm02cThEeGVYSHI2YzluLUFrVXdnRVltN1VtZTJSeWFMWVo1QUVXV2JUMUpJemdZbnM1UGgzTjV1UC1KRGJCRmhBUERhZGxwZDZMV094bnNNN0xCVVRQTzUxR2NZSkhFQzU0WE9JY1FMMHp0cFVyanFNVi1RSDUydF9acTJZdTRzSHdsS3RnS0FvNlM?oc=5",
+   "ts": "Wed, 25 Nov 2026 08:14:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China, US Set for ‘New Chapter’ of Trade Talks, Ex-Official Says - Bloomberg",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXNHUkhmNU9qNlc5SUphend6U184Y1FWa1AtemhrWlBhRUw0elViZG1YTVFxMHZkME03YXlqUk9LSFVaMGI5enZwelJZVlhHWDdFcXEwLVYwMUZEOW5COURWMG5VcWhIbERGcUVrWWtlN181TEdpcGNJZkpqSUhuY2c5OXh4SW9DYlJ2XzNFRjVYS0FjNlRsM3FhNkFfZms5enA0V0h5TFNGOVduY2pLdA?oc=5",
    "ts": "Wed, 25 Nov 2026 08:26:54 GMT"
   },
   {
    "src": "gnews",
-   "title": "Will Trump Impose New Tariffs on 16 Trading Partners to Replace Court-Blocked Duties? - Modern Diplomacy",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObzRaYl9Rbm1teTZscFQwVHVxWm9MdVk2b1k4LWt6QzZNcWVoZ2RtbXlLVV9ZNm02cThEeGVYSHI2YzluLUFrVXdnRVltN1VtZTJSeWFMWVo1QUVXV2JUMUpJemdZbnM1UGgzTjV1UC1KRGJCRmhBUERhZGxwZDZMV094bnNNN0xCVVRQTzUxR2NZSkhFQzU0WE9JY1FMMHp0cFVyanFNVi1RSDUydF9acTJZdTRzSHdsS3RnS0FvNlM?oc=5",
-   "ts": "Wed, 25 Nov 2026 08:14:00 GMT"
+   "title": "China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties - Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEpCVDBTbmUyM2hOckpXSFNPMVQyM3p1MkFxWVlZbXVuMDVMbFZZOFVfVTNkQTNsb29NdFZ2d2hzN2lxX05VU0FHbzFNb0JOcFhDek1ia0NRYTR5dTJ3UTRiWFdfU2otdHpiYU5hMGN5MW5tTHhOOFZDbDVvczRPbjNld1g0SmE0bHM3Vlk1SDJqZFhPaHdBbg?oc=5",
+   "ts": "Wed, 25 Nov 2026 09:30:00 GMT"
   },
   {
    "src": "gnews",
@@ -444,7 +438,13 @@
    "src": "gnews",
    "title": "US announces new tariffs of up to 20% on China, the EU, and 12 other nations - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUU1FZDY5UnlETEhNeFdMUGJEOUpJWUh2TTRVU2pYa1NIaWJPZmIxZTVOZ3MyOU1kUmk4RXluQThXd0lnbWJJcGNPbzlLYnFrZHI4R094VnB2UHVCdjFDRmNleVNZT1pxTUJxdzFWdWkzS29senQ0WGRRZmxKcjZ3NThMemZSQzJEX2JxcVRrczF4ZlpHOUt0TGlMSGVPSE1seWo2bXluSjhJME1oa2Ytd0l6N0UxWXB5S3E4X2RaZDV3V2RpbVNicUR3?oc=5",
-   "ts": "Wed, 25 Nov 2026 13:18:02 GMT"
+   "ts": "Wed, 25 Nov 2026 14:01:16 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump administration tees up tariff hikes on EU, China, others - Politico",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHdmanQya1ZpbmtJaGc1SHh1NFItcHdxWXlLX2VGZG9NLUlDeV9RYWRVek5GWVlxdXpfNFRmRmlLMnpBZl9fWDVmTkx4ZFd0TnlGanhsbFA1XzJ3SjM3di1wMFl0MzREQ1RYWGJ5SDAtbmVYNm01YllCS29qN0ZfenB2N05OVXoxNVJFX1oxRkV1TFIwZ2U1RA?oc=5",
+   "ts": "Tue, 24 Nov 2026 16:18:00 GMT"
   },
   {
    "src": "gnews",
@@ -454,9 +454,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump administration tees up tariff hikes on EU, China, others - Politico",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHdmanQya1ZpbmtJaGc1SHh1NFItcHdxWXlLX2VGZG9NLUlDeV9RYWRVek5GWVlxdXpfNFRmRmlLMnpBZl9fWDVmTkx4ZFd0TnlGanhsbFA1XzJ3SjM3di1wMFl0MzREQ1RYWGJ5SDAtbmVYNm01YllCS29qN0ZfenB2N05OVXoxNVJFX1oxRkV1TFIwZ2U1RA?oc=5",
-   "ts": "Tue, 24 Nov 2026 16:18:00 GMT"
+   "title": "Trump administration plans new wave of tariffs on 14 trading partners - CBS News",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczFLRXU2LXkzSXFlSVNTSHNiV0FVM2p2SURNQVRqLURpd0RmWTJPeDE4UDJybklVTmtXdFp6b2ZmUWhtY3lKb2MyX3RGd1RCbWdYY3AxSHg0SktaT3VfQzRDNzhnNW9JRlJRYnFQV0ZRalVJRXV1d1MtQ3ZvNllsM1g2N28?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:37:00 GMT"
   },
   {
    "src": "gdelt",

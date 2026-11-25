@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-25T10:00:57Z",
+ "ts": "2026-11-25T10:15:55Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -346,6 +346,18 @@
   },
   {
    "src": "gnews",
+   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
+   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "US preparing to unveil plan for new tariffs on global trading partners - BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5",
+   "ts": "Wed, 25 Nov 2026 00:38:01 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump administration set to unveil new tariffs on 16 global trading partners - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNklFaE54bEV6OGdKT29ScUxHUlZwRDNyREJ0MzBSZzZGdnptTkVxaXNHeWx2WjFWYVMzMzdMeU92dC1PVmYyZ1BTT3lCTWVRVnJ5ODFEb0NXYWpDd1ZQUlg4bkZ5QVAyck9KQUhMbldjY2FqMmtsZGs3MTFUY0xLZm9wMWRRTFAyS3VvZUZ6Wnk0VzlxTjR3VS1GSkJ1S3VCU2xmZ09FX1E5dUVjTUhfR21wMG1pcktxdGc?oc=5",
    "ts": "Tue, 24 Nov 2026 16:19:00 GMT"
@@ -433,18 +445,6 @@
    "title": "January 2027 U.S.-China trade deadlines: 4 risks to model - Thomson Reuters tax",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlU0E0SzZocmlwbmxWMWhQVHg2MWNBSHJBSzYtV09VWE5zZ2FIZGlBdXcwWExPWWFVSWVqU3l1aklFZ2p2bmxZNmY1OW5tanR5QXU4djlpRTB3b25zaGlLbEpmUE9JY1dQTlVUR3VRc3hRenFlUTlSNERhbGtBUEE?oc=5",
    "ts": "Mon, 23 Nov 2026 18:29:17 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "US preparing to raise tariffs on China, EU and a dozen other countries - EL PAÍS English",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb1hGZllMX3hJd0QyV3k3aVJ1eVhYMnY4M3JLQzN4blkwdDM0YzJGRjRfNENEdlc3akt5dDdFSk1ZTVczNjlxdGtyNkJ5QmZidFFLbDM2OWs3QzdrbDZJVmthNkZQRS03di0tYlJ1dVVsYmNkeW1jVEp2d0doN0IzTTJVYVVjakVQYXBoNzUwQUhKeEROWlVvOEtFVm53MV9STUZkSHVuUFdNeE5aWlZpODBRRHg3UnNheVVqbjhTVVowNDBNUzhodjlKRVJDd9IB4gFBVV95cUxQX1VXTW5NVHdydjFTb3BEVzNtVWlNNW9HUGJYTHhSVjhsQzFnRmVNS0JqUTJuTUxBVk5mQkZhV2NMOG5BX3Fiek82X0VHQlFDbUVjOFR3OEVhWXRMZEN0YVIzWEJ3QU9ySmNZSTZkV3I2TTF1Z2J1eV9iSWFMbENUWkhfLW4xcHpaeU9sbjVsYnBGOFRka29iZjRfa21EWEZVdFpnUVJfclAyWWsxNi1LWG50dmJqVFR4S2ZRdmdUdmVWNk9PM3czZ3VzcTJlOU9OWTZHekZFZGRJSF9VTENHbjhn?oc=5",
-   "ts": "Tue, 24 Nov 2026 18:33:06 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China’s Huawei convicted of stealing US trade secrets - The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmRRaEFuMEkxY0ltVXJpRmpUampjSWVsTVJ2S2JNdGlzaFBHOVRqbHUyQUJrb3ZvREJOWW1wYUZDbFBSRk9UaG44aGZBZ2VHdE5HVUxOMDF1Vjh4RjV5S1JHTUEtTVJVVDJDUGNfZEJ2WTJjT092cUNMTVpDR0FLQ2ZHRWh4Yk1NYnoweXNLRTFrSFVsVU9IRGFYMDdvTmJtamZpSFNRMnZjZWZzQzQyNmxySjlBZw?oc=5",
-   "ts": "Tue, 24 Nov 2026 21:11:00 GMT"
   },
   {
    "src": "gnews",

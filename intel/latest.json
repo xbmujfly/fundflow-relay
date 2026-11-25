@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-25T02:01:07Z",
+ "ts": "2026-11-25T02:15:58Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -29,9 +29,8 @@
    "err": "HTTPError: HTTP Error 403: Forbidden"
   },
   "gnews": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 25
   },
   "gdelt": {
    "ok": false,
@@ -339,6 +338,126 @@
    "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
    "ts": "Fri, 2 Oct 2026 20:45:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Exclusive | U.S. Prepares to Raise Tariffs on China and Other Countries - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRKZFY1SDBYYTNwNWlxcjFqNFdGMmpQdXc3RzEyb0NoWHE3MmZoX3hBMmdnR0doa3JUUmhoN2xaUTR6dUVuajlkX19tZmN3ZHFOTUNkWnJmV3RVaThzRXVWbXZlNWVpb3k1WmNzOFRYUDRCTjg1S1g3YTRaMDZMT3lhVm8wM3VHdG1BaWlvTTZNY2JNMlR1aHNzV3RyQVk5MW44?oc=5",
+   "ts": "Tue, 24 Nov 2026 13:08:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Is the US-China trade truce unravelling? Nvidia, rare earths, and the consequences for Europe - European Union Institute for Security Studies |",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0JBTFRQT0FabnR2aG9IdGswaDg0bEtBakRRZkZMaDFEeXBMNFprVmJzMG9tSE5laHJjcXI3dFljSG5GR0lpTEhqVmt4SV9EcC1PdkdjSHgxNEVTQ2VLQzVjbFJPeTZLZmtGQWVnakVGQkpUNHpCb3RFUlE5WlIta1VJNVAwZDMyZ1lCZHBUMjV5aUU5OExSdWFSWnVaeXRadHJxWDc5SEtyd2x2WTJRVmRKaVI1cDcyd3FB?oc=5",
+   "ts": "Tue, 24 Nov 2026 21:12:47 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNklFaE54bEV6OGdKT29ScUxHUlZwRDNyREJ0MzBSZzZGdnptTkVxaXNHeWx2WjFWYVMzMzdMeU92dC1PVmYyZ1BTT3lCTWVRVnJ5ODFEb0NXYWpDd1ZQUlg4bkZ5QVAyck9KQUhMbldjY2FqMmtsZGs3MTFUY0xLZm9wMWRRTFAyS3VvZUZ6Wnk0VzlxTjR3VS1GSkJ1S3VCU2xmZ09FX1E5dUVjTUhfR21wMG1pcktxdGc?oc=5",
+   "ts": "Tue, 24 Nov 2026 18:48:05 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump administration tees up tariff hikes on EU, China, others - Politico",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHdmanQya1ZpbmtJaGc1SHh1NFItcHdxWXlLX2VGZG9NLUlDeV9RYWRVek5GWVlxdXpfNFRmRmlLMnpBZl9fWDVmTkx4ZFd0TnlGanhsbFA1XzJ3SjM3di1wMFl0MzREQ1RYWGJ5SDAtbmVYNm01YllCS29qN0ZfenB2N05OVXoxNVJFX1oxRkV1TFIwZ2U1RA?oc=5",
+   "ts": "Tue, 24 Nov 2026 16:18:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
+   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Why the US-China Truce Holds, for Now - The US-China Business Council",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xS0FZdWVRa2VoMk1JX0NXRFU5THFLZElvTV9XZG1RMVd1R3NKczFqUldUaU54VFBRcm9nSFhDOVRwaXQ4blh0ZWNtZWdWdG92czlTNnVSZFY5NFlyLUtDZC0xQzlQOWRIWnFxQkdOWmhnSkJBcTBSQnhB?oc=5",
+   "ts": "Tue, 24 Nov 2026 20:31:18 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Bumpier U.S.-China Trade Is Coming - China-US Focus",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJNUURnenNwRV9MaTlCUFZOejU2T2xNeTRSTzlOaFBRLTNNcmhrbVdlSjZ6b1g4RDJnSXBuSlJFZ3dzeDdEc3ZlY21ES0lQZFYyWm9TWHBtTm1haUhKaFJnM1JDcjVmRVQyOU5tTmRHM1RzUnl3YXRmM3FVc0RIUzIybw?oc=5",
+   "ts": "Tue, 24 Nov 2026 13:02:14 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "U.S. ready to slap tariffs on China, EU and others over sub­si­dized pro­duction, AP sources say - Spectrum News",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONXFVSWZjQUJXZFNzdHFlX2hDdHlwRnA3S1d0UGhxRFVwczNMSmVXQ21xRHZ0SVNuWlRISXJNQjJidm8yVmNobEY2RU9jZ1ZPcTFEc2NpR29VSi16eHphQWlPOGRaT0lrZnBkVlZaYlRaX3U1MDFtMFN0TWJISWxzN1M5ekNHeVY4NVRrQTNFSVVMbXdhQ05INnBKVTZZelpIdnVj?oc=5",
+   "ts": "Wed, 25 Nov 2026 01:25:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Grains Mixed Sorting Through New China Trade Deal vs. New Tariffs - AgWeb",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjM2LUwxdG5SaFNJaHA2VzFqcGhxaXd0U00xc0Y3TzVnamFRMjJCOTdKVkVLTnV4YXlKQTNmNUp6amdQdjhnQmhnc2d4aUhqY1dJRkFxbW1YZHpWS1laQ0hESWE0Y29RMkVPRTJ0TUZEUTV3UjE1SjE4eFVoYS1kZVo3RnNoTFJfb21uMmlvNm1pbUx5RnpIdUhn?oc=5",
+   "ts": "Tue, 24 Nov 2026 17:04:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Meat exporter: Trump trade policy interferes with business relationships - The Fence Post",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRFVjYUowaUQzUjdGNjFIMllaYi1ReWJYTlZjNTM5ZTRscVZmZThRd3dYTmlJR3JidndObkFEXzBLbHR1bTdkaXVuZWFNbE9nWjVWeER4NXBUU0hpRUtJT2hhVHpfWWZuaHE1bXp5NjR4ZzhoalZkRGVVR20wT0pZT0ZvQXY0QmtkOU9fM0JoSmRtbEs3bUFUT2d5dHllM1lHQnAyX2I2ellaZw?oc=5",
+   "ts": "Tue, 24 Nov 2026 15:55:47 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump prepares a new round of targeted tariffs - Axios",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IOXZTRnJTd1pRNzd0dUhFN0pGM3p5Vmcyc2kzT1BmZDMyNmxNWUV5RWFYUmNMdE5OblIxRFZyODdiaFdmWnFBWTdjYzMwX2c0d0NSSXNsSlhlTDl4S2xXTXJON1hkbDczcEw2RXFTZjROdGxO?oc=5",
+   "ts": "Tue, 24 Nov 2026 20:56:46 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
+   "ts": "Fri, 20 Nov 2026 13:16:47 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbDNsb3gyVkJQMDFVT0p3QTJtV2tKdEhQbXpad0xXWlViLUNnWHJ1ODJJTE8xOFpjTHV2ZTU3MjRpMmt5MW5zNGhTdWU1SUxrei1aSDNhQmFROEFyUXR6OVU4SUFfb0dZSDlTbjF4dEFsRHlUM25YZ0h1OVlxV3JITjZYM1ZpcVQtU3BnSy1PN3RMR0w1LTkzb3ZJX1I5azdvNW9BR1JQVElYNXJnWlo3VzZVVFFac2gyc1B5NNIBwgFBVV95cUxPTDV0Y2ZVY0tMZEh4R29qbTdPUGUxYWtJelNLZlJrYUIwT3lJV2RPM2dnc0dldjRMT2U1dUN5djZkUFNGMlg3NTU4OVlsTlJCREJoRnNqcU5MbWxHbDFvc3BPOGRGb2p4YzZYOG1RN2VSTUVYZWVWVlZvUWhXckxEUUdsRm9Nb2JZQm9DU1M4OUR6VVNIcy13MVJqbjR0Tnd5RkZNSDN6akVUX3BtalZzU1lhZ2tVMmdHOVBObE1UTmlmUQ?oc=5",
+   "ts": "Tue, 24 Nov 2026 21:51:57 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "January 2027 U.S.-China trade deadlines: Four risks to model now - Thomson Reuters tax",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlU0E0SzZocmlwbmxWMWhQVHg2MWNBSHJBSzYtV09VWE5zZ2FIZGlBdXcwWExPWWFVSWVqU3l1aklFZ2p2bmxZNmY1OW5tanR5QXU4djlpRTB3b25zaGlLbEpmUE9JY1dQTlVUR3VRc3hRenFlUTlSNERhbGtBUEE?oc=5",
+   "ts": "Mon, 23 Nov 2026 18:29:17 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China’s Huawei convicted of deceiving banks about business in Iran and stealing US trade secrets - The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmRRaEFuMEkxY0ltVXJpRmpUampjSWVsTVJ2S2JNdGlzaFBHOVRqbHUyQUJrb3ZvREJOWW1wYUZDbFBSRk9UaG44aGZBZ2VHdE5HVUxOMDF1Vjh4RjV5S1JHTUEtTVJVVDJDUGNfZEJ2WTJjT092cUNMTVpDR0FLQ2ZHRWh4Yk1NYnoweXNLRTFrSFVsVU9IRGFYMDdvTmJtamZpSFNRMnZjZWZzQzQyNmxySjlBZw?oc=5",
+   "ts": "Tue, 24 Nov 2026 21:11:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Pentagon sharply criticizes Canada over modernizing military - PBS",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZUZiNk1SMHh6dGJ1M2NTOW9HanFXekFFc19iM21URmpwYVFUNnhNRTFHLTNWdjhoNWlWMlN4QWp6ajRUVlc2cW53VDl1eEFqNmtla2dqUDNfeFdQcExubFhLWkVGSE9DNEZBZXFNbzdJamlfS1g1aUhydXkxcng5akJmTHJ6UFcwMjduX2RfOEd0akt3N0IxUFYwRdIBoAFBVV95cUxNdm5yN2VCSGpkZmphZ2c1NU1EX0UwbkpiVlhrNFQxV1RreURNWEdxOFNkZ2w3cWF0Y2pDSnVfQ0NZc0tJcXFHMkxmYnptOG1Ld242dF9CZGt4M0JRVE1lMXVQRGt0ck9yVk5nWlhlZGFkSDRhRFNxRF81T25aZ1R3Y3o0RzY1MUgxMENCd0dlN1JudGFhVGV4cVQxREJ2TmV3?oc=5",
+   "ts": "Tue, 24 Nov 2026 20:42:20 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Democrats target Trump tariffs as midterms cloud manufacturing trade agenda - Plastics News",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWmJqQWtraWRUR18yazZqczY2NVdUalFReUQtS04zQS0zLWQyT2RuSVNUVC0yVW1NSFgtTWxzZ1JtcG9aLUp1VktRNmhfekVjbFBfVXA0S3oyNmJVdFVYR0Z6TnBndC1zR3NadVI3ZkNLZDNSb3NYUk5aVHJVMlc1OVdEWnM1d204alRZSlB1QTNaTkQ2cG5udDJn?oc=5",
+   "ts": "Tue, 24 Nov 2026 17:12:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "What to Expect in U.S. Tariff Policy Following the 2026 Midterm Elections - Davis Wright Tremaine",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYjYtY3NjVzFfTmFKMUNJTUVtQXQ0d1F5RmF4TE12N1lKZFBYTUdBM0ZLY05oWEwxeUJEUlpOR2NrczZRbElTeFdqa3BrTjhsM29wbVRiMkxNM21IMjVTN1JzcmdxTm5pUGU1SmNMQmxaRk11V1FUSnBqYkE3ZUNjdTRjWW1uZG1fNEE?oc=5",
+   "ts": "Mon, 23 Nov 2026 23:55:27 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China urges Britain to support free trade, provide favourable business environment - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT2otaUM0a09JTlpaVGx6ek9ySzBBRW5seUhvMldlc2tmN0ZxczExZFhNTTlzeGJXa2dUbHE3R3J5c19xWEIyUGRnZjZaZWxMaE55TzZrR1VGNG0ycVBWUm5wYlE4QlNKQjRtQVpFWUFRY3ZLMXg3Rkg4RXpsYnZESG56U0E1UFo3LWR5RkhPYURibk1Ga3d6bG9wV3RZb3FRMldxZ1plRl9nSHBnZEdRMUlteEVfZ3RPaGVGSG94Ujk?oc=5",
+   "ts": "Tue, 24 Nov 2026 15:03:43 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China's Huawei convicted in sprawling US criminal trial over Iran business - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5",
+   "ts": "Tue, 24 Nov 2026 20:16:00 GMT"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-26T23:00:28Z",
+ "ts": "2026-11-26T23:15:27Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -365,9 +364,9 @@
   },
   {
    "src": "gnews",
-   "title": "Watch How Canada May Be Winning Trump’s Trade War - Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNzJ3STJlSnpxSTZLaWJfNFoxazBkSGpTUFhJMmd3d1JjUDNMZVNMUmRWRUxQYXZ4OU9uemhoSmNwQ1ZqYTZ0d2pnTUltY3g5aUZUSXBMZzZYYTdsbHAteDEyYnlMYTNMY1NfYW0xZGlUVkV3cURQd3dsZ3ppbDNfX3lqRjNuemVPTTZyTEsxVEotRk5sMzFtQ3V5UnkzY28?oc=5",
-   "ts": "Thu, 26 Nov 2026 22:04:18 GMT"
+   "title": "Why Trump’s Trade War May Benefit Canada in the Long Run - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUUpCVmZTdFlpRHVKQUMtR3VjUXRxUXprOFlFanpJa0xrY1FqRGVnMjlnOG00TkhVdmt1elBLUmJ5dUZGMVNnV0FsUlJnS3lHdlFkYWROWGktUjVTT19fZVV1NFp5eEhXdlU0NWtOLXpQakdnYXlyRXlMUWVwMTFFX0laeVl1MXNyaUJSU0VKaFdVcVpNTHVUWHB1T3RrTURDN3JmelRYTHR6cXc?oc=5",
+   "ts": "Thu, 26 Nov 2026 22:22:43 GMT"
   },
   {
    "src": "gnews",
@@ -377,15 +376,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump proposes a new wave of tariffs on China, E.U. and other trade partners - NBC News",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEhIWkhHU2FmSW5HZm1STUdfNlgzRWF6TXR1Njc2cDZ5SXF0RmVSY2NyS2tIQmJxWHlTZTJxVTg1bmI5YzcxemluVXFFdVZEUW1xUHZuTXhQN2ZaTjVtMzl0bEdwcGFNTFR5aU0wLTY3cDVJbnpXMjVQVWItMUoyOGVQakp1OHpocUlJWmc3ZWxZM1NHUWFiT2NsMXA2TXM?oc=5",
-   "ts": "Wed, 25 Nov 2026 13:58:10 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China, others bash Trump’s latest tariff gambit: ‘Trade wars serve no one’s interests’ - The Hill",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR0FwRFprd3NQTTRNT3o4YnpQQ3UwVVpuRWplc3A4eHN0QnRqcVY5cHpfek1IU2JUV0pyd3ozTndHdC1yUlNPNzhka3JTbTRWN1JDLW9wNEwxS0gyVENiTHBoWFVKdVZzTC11eDRhdUxTU1cybWI4bHI3Z0kxYUVCSWZra0RWSHNwN2JaaEd3T213b3RiaFhyQdIBngFBVV95cUxPY1RoTjh5ODJaOTRHY2txY1RhSUNONkxBcUxMLWVwOFBPNEliYVg5RldJSy1iZ2dEMVJMMENKR1g0QzBZdXN6bTEwcGNzYVB3V29ZNVNFYWhhYTJqczZLbWZkTHJmRzZ4dVJwbUh0WTRnalhfSW9YdnJyejRoNFhDb19rQmFfV2VzYmNNeXJHUXNnZjYyeVBoYXAxQzJKZw?oc=5",
    "ts": "Thu, 26 Nov 2026 15:44:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump proposes a new wave of tariffs on China, E.U. and other trade partners - NBC News",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEhIWkhHU2FmSW5HZm1STUdfNlgzRWF6TXR1Njc2cDZ5SXF0RmVSY2NyS2tIQmJxWHlTZTJxVTg1bmI5YzcxemluVXFFdVZEUW1xUHZuTXhQN2ZaTjVtMzl0bEdwcGFNTFR5aU0wLTY3cDVJbnpXMjVQVWItMUoyOGVQakp1OHpocUlJWmc3ZWxZM1NHUWFiT2NsMXA2TXM?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:58:10 GMT"
   },
   {
    "src": "gnews",
@@ -425,9 +424,9 @@
   },
   {
    "src": "gnews",
-   "title": "Japan and China trade accusations over ships incident - Taipei Times",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxdzBPeGpMbUZuLXJtZlNZNGYwTms2RWRJZTA2c3FyeGE2Mlo2UXVJTjNmZm9RRU45U3FUNTd1cjhYLWZ4eTR5dGc5WE8zcWNZb3B4NndiOWw1SnA0NGY0blV1NmM5bTJMalBQWDZhZVdvVWlNb3lKSA?oc=5",
-   "ts": "Thu, 26 Nov 2026 16:00:00 GMT"
+   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
+   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
   },
   {
    "src": "gnews",
@@ -437,15 +436,15 @@
   },
   {
    "src": "gnews",
-   "title": "Why Trump’s Trade War May Benefit Canada in the Long Run - Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUUpCVmZTdFlpRHVKQUMtR3VjUXRxUXprOFlFanpJa0xrY1FqRGVnMjlnOG00TkhVdmt1elBLUmJ5dUZGMVNnV0FsUlJnS3lHdlFkYWROWGktUjVTT19fZVV1NFp5eEhXdlU0NWtOLXpQakdnYXlyRXlMUWVwMTFFX0laeVl1MXNyaUJSU0VKaFdVcVpNTHVUWHB1T3RrTURDN3JmelRYTHR6cXc?oc=5",
-   "ts": "Thu, 26 Nov 2026 22:22:43 GMT"
+   "title": "Watch How Canada May Be Winning Trump’s Trade War - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNzJ3STJlSnpxSTZLaWJfNFoxazBkSGpTUFhJMmd3d1JjUDNMZVNMUmRWRUxQYXZ4OU9uemhoSmNwQ1ZqYTZ0d2pnTUltY3g5aUZUSXBMZzZYYTdsbHAteDEyYnlMYTNMY1NfYW0xZGlUVkV3cURQd3dsZ3ppbDNfX3lqRjNuemVPTTZyTEsxVEotRk5sMzFtQ3V5UnkzY28?oc=5",
+   "ts": "Thu, 26 Nov 2026 22:04:18 GMT"
   },
   {
    "src": "gnews",
-   "title": "Mexico urges Asian trade partners to crack down on tariff dodging - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHhmUFduZ0tRbWFBQ2xIRmtIZDU0S012anU5bEx3SGVzOXVmV1JkNGxIZkNXV0RYTWJlNEVqUTFoS0tnQ1QtcXI0bVlJT25XQ1Y4TFZvczVTbTFPWTc3eUF6MzF6M0swR3JYTGR0ZjNwZVhhb2dWUjNBSjBod1ZfWU4zajFXMnBYUU1YY3pNQXNDWlRQa2VILWVJc25tcnJpV3ljRW95RjViUXM?oc=5",
-   "ts": "Thu, 26 Nov 2026 17:09:43 GMT"
+   "title": "Trump announces new trade tariffs: Which countries are affected? - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEJUV292VEZ6TjdJalc2UkRBWGVDaUVVa1ZyMFZGbE5kakN2VTA2bnNuSUFsNVJSZE9jMTdnVDFEZExLbEhLcy1oTHRkbV9GYzdzV05vREFrNXM5RWRTS1lGdTZzMUhTQzRoQ2FqNW9oakZNT0l0R3RyTjZrMkZkeDlKVjFiaFB2a09wRWp4Q050eXNib1M1U3hLNndVQW12cE9KbFBtYWRyaGJj0gGyAUFVX3lxTE1zaEVXa2ZXOGhyOHJ1Yk1SSENISGhHZVpwekNrMGpkaENvVTNuT1lmN01ESWZSeUVCelJKbGlEV203eWRXLTdjRGU3Ny1vOG85OVBOSklDN1dPRWdpSHRrQ2JmWlNxR2FNYTF4V19mRjhPemsxcnJsZkJqU2haVkRoNzNkdFFRdkI5YzRRcVBVbV9VUzRmVFdPaThCQVNHTXdxaGFkVmJJLWNMOXRqZzN5UXc?oc=5",
+   "ts": "Wed, 25 Nov 2026 15:00:52 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +454,129 @@
   },
   {
    "src": "gnews",
-   "title": "Trump announces new trade tariffs: Which countries are affected? - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEJUV292VEZ6TjdJalc2UkRBWGVDaUVVa1ZyMFZGbE5kakN2VTA2bnNuSUFsNVJSZE9jMTdnVDFEZExLbEhLcy1oTHRkbV9GYzdzV05vREFrNXM5RWRTS1lGdTZzMUhTQzRoQ2FqNW9oakZNT0l0R3RyTjZrMkZkeDlKVjFiaFB2a09wRWp4Q050eXNib1M1U3hLNndVQW12cE9KbFBtYWRyaGJj0gGyAUFVX3lxTE1zaEVXa2ZXOGhyOHJ1Yk1SSENISGhHZVpwekNrMGpkaENvVTNuT1lmN01ESWZSeUVCelJKbGlEV203eWRXLTdjRGU3Ny1vOG85OVBOSklDN1dPRWdpSHRrQ2JmWlNxR2FNYTF4V19mRjhPemsxcnJsZkJqU2haVkRoNzNkdFFRdkI5YzRRcVBVbV9VUzRmVFdPaThCQVNHTXdxaGFkVmJJLWNMOXRqZzN5UXc?oc=5",
-   "ts": "Wed, 25 Nov 2026 15:00:52 GMT"
+   "title": "Bumpier U.S.-China Trade Is Coming - China-US Focus",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJNUURnenNwRV9MaTlCUFZOejU2T2xNeTRSTzlOaFBRLTNNcmhrbVdlSjZ6b1g4RDJnSXBuSlJFZ3dzeDdEc3ZlY21ES0lQZFYyWm9TWHBtTm1haUhKaFJnM1JDcjVmRVQyOU5tTmRHM1RzUnl3YXRmM3FVc0RIUzIybw?oc=5",
+   "ts": "Tue, 24 Nov 2026 13:02:14 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Why Australia should ban NDAs that silence workers : opinion | Cootamundra Herald",
+   "url": "https://www.cootamundraherald.com.au/story/9398666/why-australia-should-ban-ndas-that-silence-workers-opinion/",
+   "ts": "20261126T224500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Extreme waves flatten portion of California Pacifica Pier",
+   "url": "https://news.crossmap.com/2026/11/26/extreme-waves-flatten-portion-of-california-s-pacifica-pier/",
+   "ts": "20261126T224500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Thanksgiving Message Targets Opponents | Newsradio WFLA Orlando",
+   "url": "https://wflaorlando.iheart.com/content/2026-11-26-trumps-thanksgiving-message-targets-opponents/",
+   "ts": "20261126T224500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "AAA says Thanksgiving travel numbers drop , still reporting near - record numbers",
+   "url": "https://news.crossmap.com/2026/11/26/aaa-says-thanksgiving-travel-numbers-drop-still-reporting-near-record-numbers/",
+   "ts": "20261126T224500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "New trade war could be brewing following tariff proposal",
+   "url": "https://abc6onyourside.com/news/nation-world/new-trade-war-could-be-brewing-following-tariff-proposal-china-eu-india-japan",
+   "ts": "20261126T224500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Βαθαίνει η διπλωματική κρίση Βραζιλίας - Αργεντινής : Ο Μιλέι εκτός της ορκωμοσίας του Λούλα",
+   "url": "https://www.madata.gr/epikairotita/world/997521-vathainei-i-diplomatiki-krisi-vrazilias-argentinis-o-milei-ektos-tis-orkomosias-toy-loyla.html",
+   "ts": "20261126T224500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump administration expands anti - cartel campaign as legal challenges mount",
+   "url": "https://myfox28columbus.com/news/nation-world/trump-administration-expands-anti-cartel-campaign-as-legal-challenges-mount-traficking",
+   "ts": "20261126T224500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Графики отключений электроэнергии на 27 ноября сколько очередей ввело « Укрэнерго » Фокус",
+   "url": "https://focus.ua/economics/776227-grafiki-otklyucheniy-elektroenergii-na-27-noyabrya-skolko-ocheredey-vvelo-ukrenergo-fokus",
+   "ts": "20261126T224500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump ambassador Callista Gingrich , who is married to former House Speaker , is mercilessly mocked for her flawlessly airbrushed complexion in Thanksgiving message",
+   "url": "https://www.dailymail.com/news/article-16325087/Trump-ambassador-Callista-Gingrich-complexion-Thanksgiving-message.html",
+   "ts": "20261126T224500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Thanksgiving Message Targets Opponents",
+   "url": "https://kprcradio.iheart.com/content/2026-11-26-trumps-thanksgiving-message-targets-opponents/",
+   "ts": "20261126T224500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Дмитриев назвал использование соцсетей администрацией Байдена тайным злом",
+   "url": "https://aif.ru/politics/world/dmitriev-nazval-ispolzovanie-socsetey-administraciey-baydena-taynym-zlom",
+   "ts": "20261126T224500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Thanks  Murderers , Drug Dealers , and Criminals  ",
+   "url": "https://politicalwire.com/2026/11/26/trump-thanks-murderers-drug-dealers-and-criminals/",
+   "ts": "20261126T224500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Strobe Talbott , former Time magazine reporter and deputy secretary of state , has died",
+   "url": "https://www.wjcl.com/article/strobe-talbott-time-magazine-deputy-secretary-of-state-died/74543858",
+   "ts": "20261126T224500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump Did Not Start Fracking On Public Lands , Obama Did",
+   "url": "https://science20.com/hank_campbell/trump_did_not_start_fracking_on_public_lands_obama_did-246742",
+   "ts": "20261126T224500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "СМИ сообщили о тайном визите Зеленского",
+   "url": "https://ria.ru/20261127/ukraina-2134260627.html",
+   "ts": "20261126T224500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Don Jr . Flips Out at Netflix Over Women Kissing",
+   "url": "https://politicalwire.com/2026/11/26/don-jr-flips-out-at-netflix-over-women-kissing/",
+   "ts": "20261126T224500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump says he asked Putin to  pull back  military aggression throughout Europe",
+   "url": "https://www.breakingnews.ie/world/trump-says-he-asked-putin-to-pull-back-military-aggression-throughout-europe-1960258.html",
+   "ts": "20261126T224500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Give Thanks , Today and Every Day",
+   "url": "https://wcbm.com/national-headline/give-thanks-today-and-every-day/",
+   "ts": "20261126T224500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Democratic majorities vow to take on political corruption . How will they do it ? ",
+   "url": "https://bakersfieldnow.com/news/nation-world/democratic-majorities-vow-to-take-on-political-corruption-how-will-they-do-it-trump-white-house",
+   "ts": "20261126T224500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ovo austrijsko selo zovu Mocartovim , a slavni kompozitor ga nikada nije posetio",
+   "url": "https://bizportal.rs/Turizam/101091914/ovo-austrijsko-selo-zovu-mocartovim-a-slavni-kompozitor-ga-nikada-nije-posetio.html",
+   "ts": "20261126T224500Z"
   }
  ]
 }

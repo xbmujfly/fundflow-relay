@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-26T03:15:54Z",
+ "ts": "2026-11-26T03:30:55Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -413,6 +412,12 @@
   },
   {
    "src": "gnews",
+   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
+   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump administration to introduce new tariffs on China, EU and 12 other major trading partners - CBS News",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczFLRXU2LXkzSXFlSVNTSHNiV0FVM2p2SURNQVRqLURpd0RmWTJPeDE4UDJybklVTmtXdFp6b2ZmUWhtY3lKb2MyX3RGd1RCbWdYY3AxSHg0SktaT3VfQzRDNzhnNW9JRlJRYnFQV0ZRalVJRXV1d1MtQ3ZvNllsM1g2N28?oc=5",
    "ts": "Wed, 25 Nov 2026 13:37:00 GMT"
@@ -437,27 +442,141 @@
   },
   {
    "src": "gnews",
-   "title": "Trump’s Incoherent Tariffs - The American Prospect",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc29ETWdybkcwSC1iNHRLb2FUQmdQN081WjE5ekFUMVRRTDdSeFZ5SzVVSTJySUZVUTlibnRvQXFnaERQdmJtLXBNN1FvUnVUWTVPcUJhSWpsaUZ4emhmVHZBUkhuS1VhZHpCWnRlaXktalNXRnBZQ2w1WmRiYmtfS3NwWE54YThWeGFZU2NB?oc=5",
-   "ts": "Wed, 25 Nov 2026 20:00:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "US to cap India tariff at 17% if trade deal is reached, USTR says - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
    "ts": "Wed, 25 Nov 2026 18:26:10 GMT"
   },
   {
    "src": "gnews",
-   "title": "The Frantic White House Push to Get Jensen Huang Back - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pRUxrRllGQzRjbm1mbkxwWi1pcGVDREtMYVFlTWt0c2RaMm4zSFZ0UTFIOHc3eVpiaS1xODducUx5T013ekU4czVXaUVmR2JUblZPNS03Qy1yNW9wNloyaGdWeHVBQUI1VVR5NTdfRUxfNTdvdG1pSA?oc=5",
-   "ts": "Thu, 26 Nov 2026 03:14:06 GMT"
+   "title": "Bumpier U.S.-China Trade Is Coming - China-US Focus",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJNUURnenNwRV9MaTlCUFZOejU2T2xNeTRSTzlOaFBRLTNNcmhrbVdlSjZ6b1g4RDJnSXBuSlJFZ3dzeDdEc3ZlY21ES0lQZFYyWm9TWHBtTm1haUhKaFJnM1JDcjVmRVQyOU5tTmRHM1RzUnl3YXRmM3FVc0RIUzIybw?oc=5",
+   "ts": "Tue, 24 Nov 2026 13:02:14 GMT"
   },
   {
    "src": "gnews",
-   "title": "World reacts to Trump’s new tariffs as US stocks tumble - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2xwNlNFeVhicVplSG9FSUZVd2xjOUxCcHd6QjFfeV9PV0VNTkNmOEVQWkN1S2JRbGd6WXBlZ2czdlRWT3hDcWlWclMzeVA0c09QZzVzRTY0VWhxZEJOMU1BNVhpRTNVLThIczAwODJjSzBka1lXVkFRc1pBWGZjRHRhakwxUTdhdllTYVJXUGg1cE9tbWg2clBQZXFBcWl00gGmAUFVX3lxTE1ManFzV2ItczJsaU1wc2t3Tkc3OXdMTlhsdF9tZVh2c29Ld2lLakRybW1sZEhzOXMwNUh5ZUVLd2prWTFSUFZpbm40alhZcEcxVFBIM1NTUzljU1dzdS1oZ2RxTlp6cGNSUzRTOGlxbE5GNGZORy1Da3diOS1NWExyM1RNQVZrZkJEMkhZREdZY1BickkyNE1pbWIzOHdhRFk3Zng2TWc?oc=5",
-   "ts": "Wed, 25 Nov 2026 19:31:28 GMT"
+   "title": "Trump’s Incoherent Tariffs - The American Prospect",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc29ETWdybkcwSC1iNHRLb2FUQmdQN081WjE5ekFUMVRRTDdSeFZ5SzVVSTJySUZVUTlibnRvQXFnaERQdmJtLXBNN1FvUnVUWTVPcUJhSWpsaUZ4emhmVHZBUkhuS1VhZHpCWnRlaXktalNXRnBZQ2w1WmRiYmtfS3NwWE54YThWeGFZU2NB?oc=5",
+   "ts": "Wed, 25 Nov 2026 20:00:00 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Inflation returns to year highest level ahead of Black Friday ; president proposes new tariffs",
+   "url": "https://www.wjcl.com/article/inflation-returns-to-years-highest-level-ahead-of-black-friday-president-proposes-new-tariffs/74535311",
+   "ts": "20261126T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Dólar cai para R$ 5 , 81 , em meio à discussão de nomes para Fazenda",
+   "url": "https://www.jmonline.com.br/geral/dolar-cai-para-r-5-81-em-meio-a-discuss-o-de-nomes-para-fazenda-1.687919",
+   "ts": "20261126T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Australia strikes deal on online safety law despite US objections",
+   "url": "http://www.nepalnational.com/news/279452545/australia-strikes-deal-on-online-safety-law-despite-us-objections",
+   "ts": "20261126T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Трамп назвал Путина другом – почему сближение президентов США и России опасно для Украины",
+   "url": "https://24tv.ua/ru/tramp-nazval-putina-drugom-pochemu-sblizhenie-prezidentov-ssha-i-rossii-opasno-dlja-ukrainy_n3214064",
+   "ts": "20261126T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Judge blocks FCC early review of ABC licenses , citing likely First Amendment violation",
+   "url": "https://fox17.com/news/nation-world/judge-blocks-federal-communications-commissions-early-review-of-abc-news-broadcast-licenses-citing-likely-first-amendment-violation-trump-administration-free-speech-legal-law-retaliation",
+   "ts": "20261126T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": " 【 和合共生 】 习言道｜习近平在深圳的这四个比喻意涵深远 -- 时政 -- 人民网",
+   "url": "http://politics.people.com.cn/n1/2026/1126/c461001-40840718.html",
+   "ts": "20261126T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Judge blocks FCC early review of ABC licenses , citing likely First Amendment violation",
+   "url": "https://kfdm.com/news/nation-world/judge-blocks-federal-communications-commissions-early-review-of-abc-news-broadcast-licenses-citing-likely-first-amendment-violation-trump-administration-free-speech-legal-law-retaliation",
+   "ts": "20261126T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Conrad : Pillen  trying to distract  from  huge political problem  ",
+   "url": "https://www.knopnews2.com/2026/11/26/conrad-pillen-trying-distract-huge-political-problem/",
+   "ts": "20261126T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ed Dowd : AI Bust , China , Debt , War , & Voter - Fraud Mean Chaos",
+   "url": "https://www.zerohedge.com/markets/ed-dowd-ai-bust-china-debt-war-voter-fraud-mean-chaos",
+   "ts": "20261126T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "From Record Lows To  Good Riddance  For Pennsylvania Sen . Fetterman : CNN Analyst Maps Bipartisan Collapse",
+   "url": "https://www.aol.com/articles/record-lows-good-riddance-pennsylvania-221018000.html",
+   "ts": "20261126T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Judge blocks FCC early review of ABC licenses , citing likely First Amendment violation",
+   "url": "https://wach.com/news/nation-world/judge-blocks-federal-communications-commissions-early-review-of-abc-news-broadcast-licenses-citing-likely-first-amendment-violation-trump-administration-free-speech-legal-law-retaliation",
+   "ts": "20261126T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "송영길  우리가 죽기 전에 남북철도 뚫자  ",
+   "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288528&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
+   "ts": "20261126T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Judge declines to issue a long - term ban on taxpayer - funded , pro - Trump ads",
+   "url": "https://www.wjcl.com/article/judge-declines-issue-long-term-ban-taxpayer-funded-pro-trump-ads-critics-called-propaganda/74536289",
+   "ts": "20261126T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "젠슨 황 복귀 두고 행정부 내 격론 있었다",
+   "url": "https://biz.heraldcorp.com/article/10950219",
+   "ts": "20261126T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "トランプ政権の新関税 、 日本は12 . 5 ％ から最大15 ％ にアップ 20 ％ になる恐れも",
+   "url": "https://www.sankei.com/article/20261126-AGHYK432P5MQDAFGRYB44IK5IA/",
+   "ts": "20261126T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Breitbart Business Digest : Tight Labor Markets and the Secret Origin of Thanksgiving",
+   "url": "https://www.breitbart.com/economy/2026/11/25/breitbart-business-digest-tight-labor-markets-and-the-secret-origin-of-thanksgiving/",
+   "ts": "20261126T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Трамп назвав Путіна другом – чому зближення президентів США та Росії небезпечне для України",
+   "url": "https://24tv.ua/tramp-nazvav-putina-drugom-chomu-zblizhennya-prezidentiv-ssha_n3214060",
+   "ts": "20261126T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "बिल क्लिंटन से जेनसन हुआंग तक : अमेरिका में ताकतवर पुरुषों की अय्याशियों पर आखिर इतनी मेहरबानी क्यों ? ",
+   "url": "https://hindi.webdunia.com/international-hindi-news/bill-clinton-to-jensen-huang-powerful-men-personal-controversies-accountability-in-america-126112500057_1.html",
+   "ts": "20261126T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "North Korea Kim vows to build more nuclear weapons after ignoring Trump overture",
+   "url": "http://www.sitkasentinel.com/stories/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture,189022",
+   "ts": "20261126T030000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ahead of Jensen Huang Congress grilling , JD Vance shrugs off Nvidia CEO pardon - 26 - Nov - 2026",
+   "url": "https://home.nzcity.co.nz/news/article.aspx?id=458762&fm=psp,tst",
+   "ts": "20261126T030000Z"
   }
  ]
 }

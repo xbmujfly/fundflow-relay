@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-26T01:45:55Z",
+ "ts": "2026-11-26T02:00:57Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -425,27 +425,15 @@
   },
   {
    "src": "gnews",
-   "title": "US threatens double-digit tariffs on EU, China, 12 others after investigation - Politico",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2J0SV9QNWhqNGwzNWFQeHpaY3BKQ0JUMFdPY2daVHdPV29HNUR2V1g0STd2U0FDZnF6YUdJR2NHS09KNUtlSERJME9qU3AzMU80Sy1wUVB2UzRWWTZGXzQ1SGJPTEo2WkRUamc3azN3YXhrd29VdXUwVEpZOTVuSlg3UWxYeDNkNjI3MGczcFFJaWRGZGFXUDB3Nm5Jai1idVRqaWd0ZTk3Vnd3WjhCRTZGdEo1R1U?oc=5",
-   "ts": "Wed, 25 Nov 2026 19:05:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Post-Election Trade Outlook: Tariff Authority And Congressional Scrutiny - Legal 500",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcmplVEtHOGpZX2liem1hd3pnRHpfSERUMTUxaUp2amJPNElJeHl6TENlR18yMG5nUEMyaDctbF96UTd4N09nNDRtTVplYlRBaHRQRlBtWUdmVl9tMTdvOHFxS3ZBNkh0d3ZEdjE0WmszY21MVEV4Wk9HSlhFcUZXSzBYRHpod0UxbUd1Y1pVV0liRUFvV0FPckFNWVgwYWFwdGxGbEI0WnRhZnZZYzJLdEcyNjNPSTZwQ0ZsYjdQaWxydlJ4Rk9nZ2pvNjJ1SXJmR203b29JTkM?oc=5",
    "ts": "Thu, 26 Nov 2026 00:25:28 GMT"
   },
   {
    "src": "gnews",
-   "title": "US to hike tariffs on China, EU, Brazil and others over subsidized factories - AP News",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWJ0MDE3ZEJzV2tVdThRbXdzcGxXN0phLUpNTHAyVWlEQV9JNzVUWlpsRXp6ZHFTNnY1dnpKMHJjNExkUnZxTlRXdzZNTUFOeXhkUTk5XzF0ZW55b1lZcnhJYTkyYUt5N1lvdm5TZ3QyZDh5UkNsVmtHMmhuNm5xcGc3VmVUcV9fellldEtWcTdaYWJpRUlBcm5R?oc=5",
-   "ts": "Wed, 25 Nov 2026 22:06:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "US to cap India tariff at 17% if trade deal is reached, USTR says - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
-   "ts": "Wed, 25 Nov 2026 18:26:10 GMT"
+   "title": "US threatens double-digit tariffs on EU, China, 12 others after investigation - Politico",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2J0SV9QNWhqNGwzNWFQeHpaY3BKQ0JUMFdPY2daVHdPV29HNUR2V1g0STd2U0FDZnF6YUdJR2NHS09KNUtlSERJME9qU3AzMU80Sy1wUVB2UzRWWTZGXzQ1SGJPTEo2WkRUamc3azN3YXhrd29VdXUwVEpZOTVuSlg3UWxYeDNkNjI3MGczcFFJaWRGZGFXUDB3Nm5Jai1idVRqaWd0ZTk3Vnd3WjhCRTZGdEo1R1U?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:40:00 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +443,21 @@
   },
   {
    "src": "gnews",
+   "title": "US to cap India tariff at 17% if trade deal is reached, USTR says - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
+   "ts": "Wed, 25 Nov 2026 18:26:10 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "World reacts to Trump’s new tariffs as US stocks tumble - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2xwNlNFeVhicVplSG9FSUZVd2xjOUxCcHd6QjFfeV9PV0VNTkNmOEVQWkN1S2JRbGd6WXBlZ2czdlRWT3hDcWlWclMzeVA0c09QZzVzRTY0VWhxZEJOMU1BNVhpRTNVLThIczAwODJjSzBka1lXVkFRc1pBWGZjRHRhakwxUTdhdllTYVJXUGg1cE9tbWg2clBQZXFBcWl00gGmAUFVX3lxTE1ManFzV2ItczJsaU1wc2t3Tkc3OXdMTlhsdF9tZVh2c29Ld2lLakRybW1sZEhzOXMwNUh5ZUVLd2prWTFSUFZpbm40alhZcEcxVFBIM1NTUzljU1dzdS1oZ2RxTlp6cGNSUzRTOGlxbE5GNGZORy1Da3diOS1NWExyM1RNQVZrZkJEMkhZREdZY1BickkyNE1pbWIzOHdhRFk3Zng2TWc?oc=5",
    "ts": "Wed, 25 Nov 2026 19:31:28 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Could potential US tariffs put the US-China trade truce at risk? - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2c2Y1A4a095TUY0T21rYVAyV3k3a1VkS3Y0TTJEQll1RUxVZUR4MTViaUJZR2gzcUVpQ1NmQklkZnFWakNSMVMtYmpBVXBtdm1GaERwbUdTb0c5dUl1Z3BTWTd6Ny1Ld3ZqOFVVVXZJcW1jVThiSG4wYTZ0SDlFcGRDT295YUlQR2FCUzBfT0hycVZIOXdmbUx3R1hhdXhPcWVmTnEwWFhncVlPdHlLbGtQamdBRknSAbcBQVVfeXFMTUE4aUJvMXROQ2hGMVFRbkt5ZDZuNnBVMXdvdmphc3hWQk1DbjR1cVgtd2VBSWJObnY3OWNGeEVaQ2ZqRGRZbXp2RWpnek8yNFVIcERCMHVVbkdpV2x4OEdMYU9YOVdlYXJDZWZJVFhhaFUzWG5BR2FwR01MdHNyQVN6bEl6UGxmamdIZkFmZjdKdURCSFhtcVRDY053TU9pbWtQOFNXNEtuQjNPaUJreEVXQy1IVGVV?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:39:44 GMT"
   }
  ]
 }

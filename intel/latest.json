@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-26T15:00:30Z",
+ "ts": "2026-11-26T15:15:36Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -10,8 +10,9 @@
    "n": 10
   },
   "fed": {
-   "ok": true,
-   "n": 20
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 404: Not Found"
   },
   "reuters": {
    "ok": false,
@@ -33,8 +34,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -219,126 +221,6 @@
    "ts": "Mon, 02 Nov 2026 20:27:17 +0000"
   },
   {
-   "src": "fed",
-   "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
-   "ts": "Wed, 25 Nov 2026 20:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
-   "ts": "Wed, 25 Nov 2026 20:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
-   "ts": "Tue, 24 Nov 2026 19:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve announces College Fed Challenge winners",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
-   "ts": "Fri, 20 Nov 2026 21:15:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
-   "ts": "Fri, 20 Nov 2026 15:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
-   "ts": "Thu, 19 Nov 2026 16:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
-   "ts": "Wed, 18 Nov 2026 19:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Agencies extend comment period for proposed third-party risk management guidance",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
-   "ts": "Fri, 13 Nov 2026 21:15:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check ",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-   "ts": "Thu, 12 Nov 2026 18:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-   "ts": "Thu, 12 Nov 2026 17:45:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
-   "ts": "Thu, 12 Nov 2026 16:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-   "ts": "Mon, 9 Nov 2026 21:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
-   "ts": "Thu, 5 Nov 2026 16:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
-   "ts": "Thu, 29 Oct 2026 20:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve issues FOMC statement",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-   "ts": "Wed, 28 Oct 2026 18:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
-   "ts": "Fri, 16 Oct 2026 15:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-   "ts": "Tue, 13 Oct 2026 18:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-   "ts": "Fri, 9 Oct 2026 14:00:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity rel",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-   "ts": "Thu, 8 Oct 2026 20:30:00 GMT"
-  },
-  {
-   "src": "fed",
-   "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-   "ts": "Wed, 7 Oct 2026 18:00:00 GMT"
-  },
-  {
    "src": "gnews",
    "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals? - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWVQTU9Bem1UcHdtT2s5T005dlJvaDZfMTZ3aTQ1UHpDVUNMbERrRTFpQ0pKNFI0alRqWWp6ODBNYTJuSVNIX2JBMEpDRFh2RmlvYkNISXByQlJrR0dvb1BvQ0hxZmlPSXhtY3FfZjB6eUl0S0dtb2hxcHJwZ2U3X3ZudWpyMFRodlVackNmbU5DOVJENVhmS0s5bzQ2Z3BSMEdyZNIBqgFBVV95cUxPc2NjTE95RV9JMXdFTy1CdVNSdm1mRUt3cGxydjdid21HVFAza2pLcGRiY2FzOEUxeHhKNHZRcjdFeHRxQ0h5ZjYzZHRFWWhMSTFqSnJmVU9BNnB5WnB4VGpYN2Z3RU5vT24wVlhQeXpqYURoWnlXLW5QbXNvWS1DSzd5VGVNM0dPcnkyQkE1NEJCRlROejRDaE0tSXR0aXFYakJyMVNQYkRyZw?oc=5",
@@ -406,7 +288,7 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Aims to Keep Leverage Over Xi With 40% China Tariff Threat - Bloomberg.com",
+   "title": "Trump Aims to Keep Leverage Over Xi With 40% China Tariff Threat - Bloomberg",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcTVMWExHUXNZQS1TWHdON1BLSjgydFhicUlOeWo0dXZ4cVBxYm4zUk9ydG5YXy1oNlVNMDB4TlU1ZjRoaDdGMlJieE5XSlJsenNFZ3ZDWGtvVEt0V0IyaGNwRnYyRGNJdXlBaGs0MEdsUjhPZ1FwNFV2NlVfZ21Ldk9DLTk3Wk1lWF9FenVEZHdselN5X2ktUHItdUpMZVM4eldXMnNiM2pqWExNMUotWGdjYw?oc=5",
    "ts": "Thu, 26 Nov 2026 08:41:53 GMT"
   },
@@ -418,15 +300,15 @@
   },
   {
    "src": "gnews",
-   "title": "How Trump's newest tariffs could impact Americans and the economy - PBS",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV3QyRGktREcxdDFwR0lJdlo4VWZtVlFZamtGcnpscFJTZU5fYm56bURqV214SHEyc1ZwWHB2Ti1kWVJOaHlKRWxfTGU1S3hrWUJUWG5oN05nOU94M1hnM01MeHRHWTdhTl9lTU5ta1BTNF85a2pDcnlMTmFNUU41TVlvRWp5VVctQjRyRlk4UXlsOGxUai0tS1VlRi1nSzg?oc=5",
-   "ts": "Wed, 25 Nov 2026 23:50:40 GMT"
+   "title": "Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN05tSHVLN1V3cFRSaUY1d0l6MGkyY1dhRnN6R08tWW5uSm91eXlXQ1VHXzhnMEZpNHQtR0QzYWI5NHlFcjg4bFBhN0ZyMXZZQU9oQUJlVzNwUERxRFFWQThTOXMzM1laQjQzSXNjeXNlUnNGT3Zv?oc=5",
+   "ts": "Wed, 25 Nov 2026 15:58:36 GMT"
   },
   {
    "src": "gnews",
-   "title": "Can Trump’s New Tariffs Weaken China’s Grip on Global Trade? - Modern Diplomacy",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNXJNZDBjLWFnYmNhVTdfTElROVktT0ZZQTlPNTdHcGdURUxWYXRIc3dBWkptY0tMQmxVTkU0djE0R0dLRjdJSkVyT3lRcXp6cEpTRXRGWVh3aXFPTUZtQ2FUbjc5MGd1SmgwV2dvREIyUDNjWU5wYkZWdHdEd1ZqM0dSQmYxOVN4N2I0MDBWZm12dDhjcFRuMmZ4OFNtQ2FkSWZpZGdUWll1QmdXOFRTZWdXS01RdWR4WWhtN2ZNdjF2YlZrRFlWN1Z1dnNSNTJCSmc?oc=5",
-   "ts": "Thu, 26 Nov 2026 07:22:55 GMT"
+   "title": "How Trump's newest tariffs could impact Americans and the economy - PBS",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV3QyRGktREcxdDFwR0lJdlo4VWZtVlFZamtGcnpscFJTZU5fYm56bURqV214SHEyc1ZwWHB2Ti1kWVJOaHlKRWxfTGU1S3hrWUJUWG5oN05nOU94M1hnM01MeHRHWTdhTl9lTU5ta1BTNF85a2pDcnlMTmFNUU41TVlvRWp5VVctQjRyRlk4UXlsOGxUai0tS1VlRi1nSzg?oc=5",
+   "ts": "Wed, 25 Nov 2026 23:50:40 GMT"
   },
   {
    "src": "gnews",
@@ -436,7 +318,7 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’ - Bloomberg.com",
+   "title": "Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’ - Bloomberg",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalFybkwxanpDZHdLeGlnSHN6dTBsUnoxS0Zrc3FjaDJ1ZDhGS3Y4Y09qRnNEMmhMazJfeXRlMVdnNy1RM2RoenR0VDlCOWpfZTdWME5pY19lcFlkbzIzUDgwYkN0RXVlcTRET0dEMGNpUnFUcnhkUDQ0a1dzZGpzaXByMnRvTGFMQlZZRVlMOHlBdDRfNUV2VlBPZklRdmFyeTZRWC1lZGdGX1R4MmdGRU1R?oc=5",
    "ts": "Thu, 26 Nov 2026 08:42:23 GMT"
   },
@@ -448,135 +330,15 @@
   },
   {
    "src": "gnews",
-   "title": "Watch Trump’s China Tariffs Threaten Fresh Trade Tensions - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaGdtSnItLVVFWENtbHltMDdEVGNkZkUtOTcwZzdwMm4yQlVURHhSVEVqQWMzb3dlZGNQVUJibHFiOWtweDVCV2xZQi1JYVUxVjh4ODhuSU5LMlVUTkhHMEZCLWg1Q3NYdm8zSHlzNG1zdUxCRTFzU0Q1NDNyUndGeGR5bWpMS0Q5ZXpMLUVkVGRFcWwyQnZxZjJKUGc?oc=5",
-   "ts": "Thu, 26 Nov 2026 12:24:29 GMT"
+   "title": "Trading Partners Wince at Trump’s Latest US Tariff Plan - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNczZySnhjRzBBQldfVFRuNE5hemdXWU1PZnhleE5WVm9jOVFwVW1FeUtYZU9ZemEzZjNEcGlaVkNVYkM2Yy1xbFhJVS1CMGZ1dHZyMlVIUGxvMGV2RkQzQ3Z0azNVZlNXYUlRNTM2S0lndV9JZjkwS3luM2RTRFlKY1ZkRTlBNzA0R1RSQVFPZGc4SFBTczhXRTgtRXFYckJ1TWc?oc=5",
+   "ts": "Thu, 26 Nov 2026 12:00:01 GMT"
   },
   {
    "src": "gnews",
    "title": "Trump announces new trade tariffs: Which countries are affected? - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEJUV292VEZ6TjdJalc2UkRBWGVDaUVVa1ZyMFZGbE5kakN2VTA2bnNuSUFsNVJSZE9jMTdnVDFEZExLbEhLcy1oTHRkbV9GYzdzV05vREFrNXM5RWRTS1lGdTZzMUhTQzRoQ2FqNW9oakZNT0l0R3RyTjZrMkZkeDlKVjFiaFB2a09wRWp4Q050eXNib1M1U3hLNndVQW12cE9KbFBtYWRyaGJj0gGyAUFVX3lxTE1zaEVXa2ZXOGhyOHJ1Yk1SSENISGhHZVpwekNrMGpkaENvVTNuT1lmN01ESWZSeUVCelJKbGlEV203eWRXLTdjRGU3Ny1vOG85OVBOSklDN1dPRWdpSHRrQ2JmWlNxR2FNYTF4V19mRjhPemsxcnJsZkJqU2haVkRoNzNkdFFRdkI5YzRRcVBVbV9VUzRmVFdPaThCQVNHTXdxaGFkVmJJLWNMOXRqZzN5UXc?oc=5",
    "ts": "Wed, 25 Nov 2026 15:00:52 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Texas Democrats are about to take power in Austin : Here what to expect",
-   "url": "https://marshallnewsmessenger.com/2026/11/26/texas-democrats-are-about-to-take-power-in-austin-heres-what-to-expect/",
-   "ts": "20261126T124500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Winter Fuel Payment  not enough  as pensioners left to shiver",
-   "url": "https://www.northwaleschronicle.co.uk/news/26764700.winter-fuel-payment-not-enough-pensioners-left-shiver/",
-   "ts": "20261126T124500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "The unspoken reason Trump and MAGA are trying to erase history",
-   "url": "https://www.alternet.org/alternet-exclusives/trump-history-2678529177/",
-   "ts": "20261126T124500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Rogers Sugar Reports Profitability Growth in 2026 , Driven by Strong Execution in a Challenging Market",
-   "url": "https://www.northernnews.ca/press-releases/globe-newswire/rogers-sugar-reports-profitability-growth-in-2026-driven-by-strong-execution-in-a-challenging-market/",
-   "ts": "20261126T124500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Morning news brief",
-   "url": "https://www.wkyufm.org/2026-11-26/morning-news-brief",
-   "ts": "20261126T124500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "UK households with central or electric heating given warning",
-   "url": "https://www.readingchronicle.co.uk/news/26764230.uk-households-central-electric-heating-given-warning/",
-   "ts": "20261126T124500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Stock markets rally for 2nd day on foreign fund inflows , buying in IT shares",
-   "url": "https://www.tribuneindia.com/news/business/stock-markets-rally-for-2nd-day-on-foreign-fund-inflows-buying-in-it-shares/",
-   "ts": "20261126T124500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " « إمبراير » في مرمى رسوم ترامب .. ومخاوف من ارتفاع تكاليف الطيران الأمريكي",
-   "url": "https://www.elwatannews.com/news/details/8404490",
-   "ts": "20261126T124500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "美制裁ICC如何影响杜特尔特案 审判或延期 _ 军事频道 _ 中华网",
-   "url": "https://military.china.com/news/13004177/20261126/49911066.html",
-   "ts": "20261126T124500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Judge blocks FCC attempt to get early review of ABC broadcast licences | News",
-   "url": "https://www.c21media.net/news/judge-blocks-fccs-attempt-to-get-early-review-of-abcs-broadcast-licences/",
-   "ts": "20261126T124500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " ( China Economic Roundtable ) China foreign trade weathers headwinds via market diversification , product upgrading - Xinhua",
-   "url": "https://english.news.cn/20261126/3e6dde0da20c4980990de462b4f4ea07/c.html",
-   "ts": "20261126T124500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Трампу байдуже , хто може постраждати . Корпорація  Автократія  виходить на ринок мікрочипів – Енн Епплбом",
-   "url": "https://ipress.ua/articles/trampu_bayduzhe_hto_mozhe_postrazhdaty_korporatsiya_avtokratiya_vyhodyt_na_rynok_mikrochypiv__enn_epplbom_393106.html",
-   "ts": "20261126T124500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  韓 쿠팡 과징금 , 국가 간 약속 어긴 행위  [ 美  과잉생산 관세  압박 ] ",
-   "url": "https://www.segye.com:443/newsView/20261126516953",
-   "ts": "20261126T124500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Second Judge Blocks Trump Birthright Citizenship Order",
-   "url": "https://talkradio1059.iheart.com/content/2026-11-26-second-judge-blocks-trumps-birthright-citizenship-order/",
-   "ts": "20261126T124500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "China and other U . S . trading partners hit back at Trump new tariff plans",
-   "url": "https://www.kcra.com/article/trump-administration-new-tariffs-china-japan-trade-partners/74540001",
-   "ts": "20261126T124500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Oporba i HDZ prepirali se oko izbora ustavnih sudaca",
-   "url": "https://www.telegram.hr/politika-kriminal/rat-hdz-a-i-oporbe-oko-ustavnih-sudaca-pa-vi-predlazete-zenu-koja-je-zalila-sto-nisu-ubili-trumpa/",
-   "ts": "20261126T124500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Second Judge Blocks Trump Birthright Citizenship Order | WJBO Newsradio 1150 AM & 98 . 7 FM",
-   "url": "https://wjbo.iheart.com/content/2026-11-26-second-judge-blocks-trumps-birthright-citizenship-order/",
-   "ts": "20261126T124500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump welcomes Thanksgiving with reckless posting tirade",
-   "url": "https://www.alternet.org/trump-thanksgiving-post/",
-   "ts": "20261126T124500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "FDR Thanksgiving Proclamations Made the Moral Case for Taming Capitalism",
-   "url": "https://www.thenation.com/article/politics/fdr-thanksgiving-capitalism-abdul-el-sayed/",
-   "ts": "20261126T124500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "SpaceX sai luvan miljoonan satelliitin laukaisuille",
-   "url": "https://www.esaimaa.fi/uutissuomalainen/9988196",
-   "ts": "20261126T124500Z"
   }
  ]
 }

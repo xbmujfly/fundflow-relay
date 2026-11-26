@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-26T10:30:33Z",
+ "ts": "2026-11-26T10:45:31Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -340,6 +341,12 @@
   },
   {
    "src": "gnews",
+   "title": "How Trump's proposed tariffs for India compare with rival nations - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazJTSjI3dk40ZnhoM2ZJR2N2eXp0NUFoaWUxNUI4NW9wV19YWEtpd24tS0t5YnFHV2YzSkRmSXdiTnR6cjRuMTROY1d1VlQ2NUR3UjNNMUJkeU5XQVBOeUQ1VnVTQmtQU3BVOUNndHdyeUhvWDcxdmRHMGtheVJCREs4UzdCWS1VVDQwcmdQYWtILXltMHRhN1UxeTVtdGhuMFhpemlOdDRkLTB5?oc=5",
+   "ts": "Thu, 26 Nov 2026 09:33:45 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals - CNBC",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNbWY3Z2hNLWJsb3dsYmdKakJjZEVaU21VaTV3WEFZV196bldhMGJEeUlFMHJlSjV2UHU5eFhrTS1BQldGTTdKemhscThySFJfLW55ZE1PUGpFeHN0bUtjaDR5MzNHZ3RVODBhU0IxTnBuNmdySG400gF8QVVfeXFMTkRUVDZGZkdHZ1VDMWpGcWtvc01hVlJwd0lwdDJUYU9OZXV2NjdYRFNTUmprbFRuWEkxd1lrOFJfR1NVbXE3S0dMMXBLNk9qTGlsSFBDVEtqYWxuOXc4WTMzUHFZTENRQlFLeDM3cldOTHpxVlYzR2NNRC1BcQ?oc=5",
    "ts": "Thu, 26 Nov 2026 07:58:19 GMT"
@@ -373,12 +380,6 @@
    "title": "Trump proposes a new wave of tariffs on China, E.U. and other trade partners - NBC News",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEhIWkhHU2FmSW5HZm1STUdfNlgzRWF6TXR1Njc2cDZ5SXF0RmVSY2NyS2tIQmJxWHlTZTJxVTg1bmI5YzcxemluVXFFdVZEUW1xUHZuTXhQN2ZaTjVtMzl0bEdwcGFNTFR5aU0wLTY3cDVJbnpXMjVQVWItMUoyOGVQakp1OHpocUlJWmc3ZWxZM1NHUWFiT2NsMXA2TXM?oc=5",
    "ts": "Wed, 25 Nov 2026 13:58:10 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "How Trump's proposed tariffs for India compare with rival nations - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazJTSjI3dk40ZnhoM2ZJR2N2eXp0NUFoaWUxNUI4NW9wV19YWEtpd24tS0t5YnFHV2YzSkRmSXdiTnR6cjRuMTROY1d1VlQ2NUR3UjNNMUJkeU5XQVBOeUQ1VnVTQmtQU3BVOUNndHdyeUhvWDcxdmRHMGtheVJCREs4UzdCWS1VVDQwcmdQYWtILXltMHRhN1UxeTVtdGhuMFhpemlOdDRkLTB5?oc=5",
-   "ts": "Thu, 26 Nov 2026 09:33:45 GMT"
   },
   {
    "src": "gnews",
@@ -448,135 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
-   "ts": "Wed, 25 Nov 2026 13:15:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’ - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalFybkwxanpDZHdLeGlnSHN6dTBsUnoxS0Zrc3FjaDJ1ZDhGS3Y4Y09qRnNEMmhMazJfeXRlMVdnNy1RM2RoenR0VDlCOWpfZTdWME5pY19lcFlkbzIzUDgwYkN0RXVlcTRET0dEMGNpUnFUcnhkUDQ0a1dzZGpzaXByMnRvTGFMQlZZRVlMOHlBdDRfNUV2VlBPZklRdmFyeTZRWC1lZGdGX1R4MmdGRU1R?oc=5",
    "ts": "Thu, 26 Nov 2026 08:42:23 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "Обмен пленными перед праздниками Кушнер анонсировал крупнейший за всю войну",
-   "url": "https://glavred.info/war/tisyachi-polonenih-povernutsya-dodomu-do-svyat-kushner-pro-naybilshiy-obmin-10815518.html",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Asian shares rebound led by AI stocks after Wall Street pares sharp losses – Winnipeg Free Press",
-   "url": "https://www.winnipegfreepress.com/business/2026/11/26/asian-shares-rebound-led-by-ai-stocks-after-wall-street-pares-sharp-losses",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US - led consortium agrees to acquire assets from Russian oil company Lukoil",
-   "url": "https://www.thepeterboroughexaminer.com/business/us-led-consortium-agrees-to-acquire-assets-from-russian-oil-company-lukoil/article_79676cdc-219d-53d7-bfc3-e2062f97cbaa.html",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Israel , Netanyahu aims to be prime minister until 2028 . Eisenkot wants a law to block his way",
-   "url": "https://www.odnako.org/israel-netanyahu-aims-to-be-prime-minister-until-2028-eisenkot-wants-a-law-to-block-his-way/",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Asian shares rebound led by AI stocks after Wall Street pares sharp losses",
-   "url": "https://www.therecord.com/business/asian-shares-rebound-led-by-ai-stocks-after-wall-street-pares-sharp-losses/article_8270cc26-5a29-5ca6-a5a7-d7c0db4ae6bd.html",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "川普新版出生公民權限制令 再遭法官叫停",
-   "url": "https://www.epochtimes.com/b5/26/11/26/n14895338.htm",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "iPhone 18 Pro und AirPods Pro 3 im o2 - Tarifbundle im Check",
-   "url": "https://www.ksta.de:443/shoppingwelt/iphone-18-pro-und-airpods-pro-3-im-o2-tarifbundle-im-check-1-1424705",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "अमेरिका ने 14 देशों पर थोपा टैरिफ : भारत पर लगाया अतिरिक्त 17 प्रतिशत , जानिए क्या होगा असर ? ",
-   "url": "https://panchjanya.com/2026/11/26/500253/world/us-imposes-tariffs-on-14-countries-slaps-an-additional-17-percent-on-india-what-will-be-the-impact/",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " 「 気候変動対策の資金が戦争に 」 ネパール人活動家 、 米を暗に非難｜全国のニュース｜Web東奥",
-   "url": "https://www.toonippo.co.jp/articles/-/2411378",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ο Τζάρεντ Κούσνερ μεταφέρει διαβεβαιώσεις Πούτιν για μη χρήση πυρηνικών όπλων",
-   "url": "https://www.madata.gr/epikairotita/world/997303-o-tzarent-koysner-metaferei-diavevaioseis-poytin-gia-mi-chrisi-pyrinikon-oplon.html",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "चीन र युरोपेली संघसहित १४ प्रमुख व्यापार साझेदारमाथि अमेरिकाको नयाँ भन्सार शुल्क घोषणा | Nepal first 24 - hour updated news portal",
-   "url": "https://www.ratopati.com/story/607674/us-announces-new-tariffs-on-14-major-trading-partners-including-china-and-the-european-union",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Η αποκάλυψη κυκλώματος εικονικών αποδείξεων σε ένστολους και δημόσιους υπαλλήλους",
-   "url": "https://www.madata.gr/epikairotita/social/997308-i-apokalypsi-kyklomatos-eikonikon-apodeixeon-se-enstoloys-kai-dimosioys-ypalliloys.html",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "A Chinese consumer advocate is stranded in South Korea as a crackdown in China targets campaigners",
-   "url": "https://www.therecord.com/business/a-chinese-consumer-advocate-is-stranded-in-south-korea-as-a-crackdown-in-china-targets-campaigners/article_825b06b1-b5b3-5d22-b74b-7327958d3147.html",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "GTRI calls US tariff under Section 301 coercive bargaining tool , urges India to reject it",
-   "url": "http://www.newzealandstar.com/news/279454790/gtri-calls-us-tariff-under-section-301-coercive-bargaining-tool-urges-india-to-reject-it",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Govt approves tariffs for Payra , Rampal power plants , clears 4 . 40 lakh tonnes of US wheat imports",
-   "url": "https://www.thedailystar.net/business/news/govt-approves-tariffs-payra-rampal-power-plants-clears-440-lakh-tonnes-us-wheat-imports-4333661",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Letters to the Editor : Nov . 25 , 2026",
-   "url": "https://www.kelownadailycourier.ca/opinion/letters_to_editor/article_7b50b9a7-5d08-4470-9994-d7286134fa66.html",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Rassvet ,  Russia Starlink  is expanding rapidly",
-   "url": "https://www.dw.com/en/can-rassvet-russias-starlink-change-the-course-of-the-war-in-ukraine/a-80052579",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "A Chinese consumer advocate is stranded in South Korea as a crackdown in China targets campaigners",
-   "url": "https://www.thepeterboroughexaminer.com/business/a-chinese-consumer-advocate-is-stranded-in-south-korea-as-a-crackdown-in-china-targets-campaigners/article_a372b567-3fc9-5b7b-981b-0acfbeb28c2f.html",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "США переглядають військову присутність у Європі - країни НАТО очікують , що Вашингтон відкладе рішення – ZN . ua",
-   "url": "https://zn.ua/ukr/europe/krajini-nato-ochikujut-shcho-ssha-vidkladut-rishennja-shchodo-skorochennja-vijskovoji-prisutnosti-v-jevropi-zmi.html",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "FAA issues ground stop at Miami airport after FedEx cargo jet overruns runway",
-   "url": "http://www.heraldglobe.com/news/279454825/faa-issues-ground-stop-at-miami-airport-after-fedex-cargo-jet-overruns-runway",
-   "ts": "20261126T061500Z"
+   "src": "gnews",
+   "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:15:00 GMT"
   }
  ]
 }

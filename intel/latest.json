@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-26T07:33:45Z",
+ "ts": "2026-11-26T07:45:33Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -413,15 +412,21 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Targets China's Global Trade Dominance With New Tariffs, Raising Risk of Wider Trade Tensions - Modern Diplomacy",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNXJNZDBjLWFnYmNhVTdfTElROVktT0ZZQTlPNTdHcGdURUxWYXRIc3dBWkptY0tMQmxVTkU0djE0R0dLRjdJSkVyT3lRcXp6cEpTRXRGWVh3aXFPTUZtQ2FUbjc5MGd1SmgwV2dvREIyUDNjWU5wYkZWdHdEd1ZqM0dSQmYxOVN4N2I0MDBWZm12dDhjcFRuMmZ4OFNtQ2FkSWZpZGdUWll1QmdXOFRTZWdXS01RdWR4WWhtN2ZNdjF2YlZrRFlWN1Z1dnNSNTJCSmc?oc=5",
-   "ts": "Thu, 26 Nov 2026 07:22:55 GMT"
+   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
+   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
   },
   {
    "src": "gnews",
    "title": "Asian trade partners of US hit back at Trump’s latest tariffs - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXdLemg3R0M0SkVKVUhMZHdsQmN0X2t0Tk9lYWY4RzFuYzhWUFFxVHQ0WUxkMDhnQTB4dEhoZDJvQ0gzUmhmelROQmRlS2kxdUpXTkI0TkxFM0pVMElQWlE4RmY2UE1UZjQyLUNtdmVJT3k5OE1xOXJvaURWU1hjZmN5anY?oc=5",
    "ts": "Thu, 26 Nov 2026 06:57:10 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Targets China's Global Trade Dominance With New Tariffs, Raising Risk of Wider Trade Tensions - Modern Diplomacy",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNXJNZDBjLWFnYmNhVTdfTElROVktT0ZZQTlPNTdHcGdURUxWYXRIc3dBWkptY0tMQmxVTkU0djE0R0dLRjdJSkVyT3lRcXp6cEpTRXRGWVh3aXFPTUZtQ2FUbjc5MGd1SmgwV2dvREIyUDNjWU5wYkZWdHdEd1ZqM0dSQmYxOVN4N2I0MDBWZm12dDhjcFRuMmZ4OFNtQ2FkSWZpZGdUWll1QmdXOFRTZWdXS01RdWR4WWhtN2ZNdjF2YlZrRFlWN1Z1dnNSNTJCSmc?oc=5",
+   "ts": "Thu, 26 Nov 2026 07:22:55 GMT"
   },
   {
    "src": "gnews",
@@ -437,15 +442,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump administration to raise tariffs on China, EU, Brazil and others - PBS",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREI5MGdkdjJzeW5XNHoyWGZoZnNzOXNEaDNxSl84RGJCdmIzUWduS0JHYTdIVW4zVTVWUkpnSUYtODIxVWxsTnJ4ZWl3c3BiLUU2bnF6amlLQUVlLUtQaGdLc1NiUjJLakdYd2l6ZzI5R0FJVGMxWjl3Y3FLSS1fbWVCV2k1Z3ZiY2hvZmFpVUc4dHhJMUFMaGJuZFZJVFJnQVVTX21TejY?oc=5",
-   "ts": "Wed, 25 Nov 2026 16:37:24 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "US to cap India tariff at 17% if trade deal is reached, USTR says - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
    "ts": "Wed, 25 Nov 2026 18:26:10 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump administration to raise tariffs on China, EU, Brazil and others - PBS",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREI5MGdkdjJzeW5XNHoyWGZoZnNzOXNEaDNxSl84RGJCdmIzUWduS0JHYTdIVW4zVTVWUkpnSUYtODIxVWxsTnJ4ZWl3c3BiLUU2bnF6amlLQUVlLUtQaGdLc1NiUjJLakdYd2l6ZzI5R0FJVGMxWjl3Y3FLSS1fbWVCV2k1Z3ZiY2hvZmFpVUc4dHhJMUFMaGJuZFZJVFJnQVVTX21TejY?oc=5",
+   "ts": "Wed, 25 Nov 2026 16:37:24 GMT"
   },
   {
    "src": "gnews",
@@ -454,10 +459,124 @@
    "ts": "Wed, 25 Nov 2026 14:59:00 GMT"
   },
   {
-   "src": "gnews",
-   "title": "USTR Proposes Section 301 Tariffs on 14 Economies in Structural Excess Capacity Investigations - Global Trade & Sanctions Law",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUjhaNGpwTFRXdmxqdTR6SnZ2WGp4VG5LUW9fQkhXU2h5MnJGQTcyMnBnN2FkWG1XcnFNR1NMbU4xNXZZeERnVk5qb054RXU4VDkzMV83RWxqUTNZMC1oX0I5TndydXBLX1RLdUktOUdyZTg5TVNZTVhLbVZtbFRvSm9NbjFDNkxGcXRtRDV5Zk1RNUJFM3RjR292anFRdUR5ZW9MdWpPSF9xZ1ljaHZIamR0LWQwNXNJeFk3ejVWcHdRNHhiTS1HRzlqbi1RLXlCSkg1Nw?oc=5",
-   "ts": "Wed, 25 Nov 2026 23:54:01 GMT"
+   "src": "gdelt",
+   "title": "Обмен пленными перед праздниками Кушнер анонсировал крупнейший за всю войну",
+   "url": "https://glavred.info/war/tisyachi-polonenih-povernutsya-dodomu-do-svyat-kushner-pro-naybilshiy-obmin-10815518.html",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Asian shares rebound led by AI stocks after Wall Street pares sharp losses – Winnipeg Free Press",
+   "url": "https://www.winnipegfreepress.com/business/2026/11/26/asian-shares-rebound-led-by-ai-stocks-after-wall-street-pares-sharp-losses",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US - led consortium agrees to acquire assets from Russian oil company Lukoil",
+   "url": "https://www.thepeterboroughexaminer.com/business/us-led-consortium-agrees-to-acquire-assets-from-russian-oil-company-lukoil/article_79676cdc-219d-53d7-bfc3-e2062f97cbaa.html",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Israel , Netanyahu aims to be prime minister until 2028 . Eisenkot wants a law to block his way",
+   "url": "https://www.odnako.org/israel-netanyahu-aims-to-be-prime-minister-until-2028-eisenkot-wants-a-law-to-block-his-way/",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Asian shares rebound led by AI stocks after Wall Street pares sharp losses",
+   "url": "https://www.therecord.com/business/asian-shares-rebound-led-by-ai-stocks-after-wall-street-pares-sharp-losses/article_8270cc26-5a29-5ca6-a5a7-d7c0db4ae6bd.html",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "川普新版出生公民權限制令 再遭法官叫停",
+   "url": "https://www.epochtimes.com/b5/26/11/26/n14895338.htm",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "iPhone 18 Pro und AirPods Pro 3 im o2 - Tarifbundle im Check",
+   "url": "https://www.ksta.de:443/shoppingwelt/iphone-18-pro-und-airpods-pro-3-im-o2-tarifbundle-im-check-1-1424705",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "अमेरिका ने 14 देशों पर थोपा टैरिफ : भारत पर लगाया अतिरिक्त 17 प्रतिशत , जानिए क्या होगा असर ? ",
+   "url": "https://panchjanya.com/2026/11/26/500253/world/us-imposes-tariffs-on-14-countries-slaps-an-additional-17-percent-on-india-what-will-be-the-impact/",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": " 「 気候変動対策の資金が戦争に 」 ネパール人活動家 、 米を暗に非難｜全国のニュース｜Web東奥",
+   "url": "https://www.toonippo.co.jp/articles/-/2411378",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ο Τζάρεντ Κούσνερ μεταφέρει διαβεβαιώσεις Πούτιν για μη χρήση πυρηνικών όπλων",
+   "url": "https://www.madata.gr/epikairotita/world/997303-o-tzarent-koysner-metaferei-diavevaioseis-poytin-gia-mi-chrisi-pyrinikon-oplon.html",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "चीन र युरोपेली संघसहित १४ प्रमुख व्यापार साझेदारमाथि अमेरिकाको नयाँ भन्सार शुल्क घोषणा | Nepal first 24 - hour updated news portal",
+   "url": "https://www.ratopati.com/story/607674/us-announces-new-tariffs-on-14-major-trading-partners-including-china-and-the-european-union",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Η αποκάλυψη κυκλώματος εικονικών αποδείξεων σε ένστολους και δημόσιους υπαλλήλους",
+   "url": "https://www.madata.gr/epikairotita/social/997308-i-apokalypsi-kyklomatos-eikonikon-apodeixeon-se-enstoloys-kai-dimosioys-ypalliloys.html",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "A Chinese consumer advocate is stranded in South Korea as a crackdown in China targets campaigners",
+   "url": "https://www.therecord.com/business/a-chinese-consumer-advocate-is-stranded-in-south-korea-as-a-crackdown-in-china-targets-campaigners/article_825b06b1-b5b3-5d22-b74b-7327958d3147.html",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "GTRI calls US tariff under Section 301 coercive bargaining tool , urges India to reject it",
+   "url": "http://www.newzealandstar.com/news/279454790/gtri-calls-us-tariff-under-section-301-coercive-bargaining-tool-urges-india-to-reject-it",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Govt approves tariffs for Payra , Rampal power plants , clears 4 . 40 lakh tonnes of US wheat imports",
+   "url": "https://www.thedailystar.net/business/news/govt-approves-tariffs-payra-rampal-power-plants-clears-440-lakh-tonnes-us-wheat-imports-4333661",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Letters to the Editor : Nov . 25 , 2026",
+   "url": "https://www.kelownadailycourier.ca/opinion/letters_to_editor/article_7b50b9a7-5d08-4470-9994-d7286134fa66.html",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Rassvet ,  Russia Starlink  is expanding rapidly",
+   "url": "https://www.dw.com/en/can-rassvet-russias-starlink-change-the-course-of-the-war-in-ukraine/a-80052579",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "A Chinese consumer advocate is stranded in South Korea as a crackdown in China targets campaigners",
+   "url": "https://www.thepeterboroughexaminer.com/business/a-chinese-consumer-advocate-is-stranded-in-south-korea-as-a-crackdown-in-china-targets-campaigners/article_a372b567-3fc9-5b7b-981b-0acfbeb28c2f.html",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "США переглядають військову присутність у Європі - країни НАТО очікують , що Вашингтон відкладе рішення – ZN . ua",
+   "url": "https://zn.ua/ukr/europe/krajini-nato-ochikujut-shcho-ssha-vidkladut-rishennja-shchodo-skorochennja-vijskovoji-prisutnosti-v-jevropi-zmi.html",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "FAA issues ground stop at Miami airport after FedEx cargo jet overruns runway",
+   "url": "http://www.heraldglobe.com/news/279454825/faa-issues-ground-stop-at-miami-airport-after-fedex-cargo-jet-overruns-runway",
+   "ts": "20261126T061500Z"
   }
  ]
 }

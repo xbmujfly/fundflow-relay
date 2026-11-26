@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-26T12:00:33Z",
+ "ts": "2026-11-26T12:15:31Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -347,15 +346,15 @@
   },
   {
    "src": "gnews",
-   "title": "How Trump's proposed tariffs for India compare with rival nations - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazJTSjI3dk40ZnhoM2ZJR2N2eXp0NUFoaWUxNUI4NW9wV19YWEtpd24tS0t5YnFHV2YzSkRmSXdiTnR6cjRuMTROY1d1VlQ2NUR3UjNNMUJkeU5XQVBOeUQ1VnVTQmtQU3BVOUNndHdyeUhvWDcxdmRHMGtheVJCREs4UzdCWS1VVDQwcmdQYWtILXltMHRhN1UxeTVtdGhuMFhpemlOdDRkLTB5?oc=5",
-   "ts": "Thu, 26 Nov 2026 11:10:56 GMT"
+   "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals? - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWVQTU9Bem1UcHdtT2s5T005dlJvaDZfMTZ3aTQ1UHpDVUNMbERrRTFpQ0pKNFI0alRqWWp6ODBNYTJuSVNIX2JBMEpDRFh2RmlvYkNISXByQlJrR0dvb1BvQ0hxZmlPSXhtY3FfZjB6eUl0S0dtb2hxcHJwZ2U3X3ZudWpyMFRodlVackNmbU5DOVJENVhmS0s5bzQ2Z3BSMEdyZNIBqgFBVV95cUxPc2NjTE95RV9JMXdFTy1CdVNSdm1mRUt3cGxydjdid21HVFAza2pLcGRiY2FzOEUxeHhKNHZRcjdFeHRxQ0h5ZjYzZHRFWWhMSTFqSnJmVU9BNnB5WnB4VGpYN2Z3RU5vT24wVlhQeXpqYURoWnlXLW5QbXNvWS1DSzd5VGVNM0dPcnkyQkE1NEJCRlROejRDaE0tSXR0aXFYakJyMVNQYkRyZw?oc=5",
+   "ts": "Thu, 26 Nov 2026 11:16:29 GMT"
   },
   {
    "src": "gnews",
-   "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals? - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWVQTU9Bem1UcHdtT2s5T005dlJvaDZfMTZ3aTQ1UHpDVUNMbERrRTFpQ0pKNFI0alRqWWp6ODBNYTJuSVNIX2JBMEpDRFh2RmlvYkNISXByQlJrR0dvb1BvQ0hxZmlPSXhtY3FfZjB6eUl0S0dtb2hxcHJwZ2U3X3ZudWpyMFRodlVackNmbU5DOVJENVhmS0s5bzQ2Z3BSMEdyZNIBqgFBVV95cUxPc2NjTE95RV9JMXdFTy1CdVNSdm1mRUt3cGxydjdid21HVFAza2pLcGRiY2FzOEUxeHhKNHZRcjdFeHRxQ0h5ZjYzZHRFWWhMSTFqSnJmVU9BNnB5WnB4VGpYN2Z3RU5vT24wVlhQeXpqYURoWnlXLW5QbXNvWS1DSzd5VGVNM0dPcnkyQkE1NEJCRlROejRDaE0tSXR0aXFYakJyMVNQYkRyZw?oc=5",
-   "ts": "Thu, 26 Nov 2026 11:10:46 GMT"
+   "title": "How Trump's proposed tariffs for India compare with rival nations - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazJTSjI3dk40ZnhoM2ZJR2N2eXp0NUFoaWUxNUI4NW9wV19YWEtpd24tS0t5YnFHV2YzSkRmSXdiTnR6cjRuMTROY1d1VlQ2NUR3UjNNMUJkeU5XQVBOeUQ1VnVTQmtQU3BVOUNndHdyeUhvWDcxdmRHMGtheVJCREs4UzdCWS1VVDQwcmdQYWtILXltMHRhN1UxeTVtdGhuMFhpemlOdDRkLTB5?oc=5",
+   "ts": "Thu, 26 Nov 2026 11:10:56 GMT"
   },
   {
    "src": "gnews",
@@ -383,9 +382,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump proposes a new wave of tariffs on China, E.U. and other trade partners - NBC News",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEhIWkhHU2FmSW5HZm1STUdfNlgzRWF6TXR1Njc2cDZ5SXF0RmVSY2NyS2tIQmJxWHlTZTJxVTg1bmI5YzcxemluVXFFdVZEUW1xUHZuTXhQN2ZaTjVtMzl0bEdwcGFNTFR5aU0wLTY3cDVJbnpXMjVQVWItMUoyOGVQakp1OHpocUlJWmc3ZWxZM1NHUWFiT2NsMXA2TXM?oc=5",
-   "ts": "Wed, 25 Nov 2026 13:58:10 GMT"
+   "title": "Trump administration proposes new tariffs on goods from major U.S. trading partners - NPR",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOREtlV1RacXpWTkdMNzV4SnY0ZEx2ejd0MDRnbng3Sm1pYm9Tb0lSZ3NrbWF0T2JrTEFpWXRvMHRkSXNqR2lUZENfQnFUTkxnSW8yWjBUVjAxYnRBVzAtaENqUl9RdnNXcWZFUzRMLTZ0X3pXS1Z1MTJVUE9aRnVWU1Z1cFRkY1BqRVhWRUZqUHd4VlVzbVRrY095MHJ0X3YyQ2NYSUYxWG1wdDladUxiQlVzbk9ub0xBdFhGZGpoSHNnUi1ZNlE?oc=5",
+   "ts": "Thu, 26 Nov 2026 11:43:47 GMT"
   },
   {
    "src": "gnews",
@@ -395,9 +394,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump administration proposes new tariffs on goods from major U.S. trading partners - NPR",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOREtlV1RacXpWTkdMNzV4SnY0ZEx2ejd0MDRnbng3Sm1pYm9Tb0lSZ3NrbWF0T2JrTEFpWXRvMHRkSXNqR2lUZENfQnFUTkxnSW8yWjBUVjAxYnRBVzAtaENqUl9RdnNXcWZFUzRMLTZ0X3pXS1Z1MTJVUE9aRnVWU1Z1cFRkY1BqRVhWRUZqUHd4VlVzbVRrY095MHJ0X3YyQ2NYSUYxWG1wdDladUxiQlVzbk9ub0xBdFhGZGpoSHNnUi1ZNlE?oc=5",
-   "ts": "Thu, 26 Nov 2026 11:43:47 GMT"
+   "title": "Trump proposes a new wave of tariffs on China, E.U. and other trade partners - NBC News",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEhIWkhHU2FmSW5HZm1STUdfNlgzRWF6TXR1Njc2cDZ5SXF0RmVSY2NyS2tIQmJxWHlTZTJxVTg1bmI5YzcxemluVXFFdVZEUW1xUHZuTXhQN2ZaTjVtMzl0bEdwcGFNTFR5aU0wLTY3cDVJbnpXMjVQVWItMUoyOGVQakp1OHpocUlJWmc3ZWxZM1NHUWFiT2NsMXA2TXM?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:58:10 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +457,126 @@
    "title": "Brazil blasts ‘unacceptable’ new US tariff proposals - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdGprU3pveUxVMVc1WXVnS0w5TFltSmhBSDUwaW1YMnNwaGxHTTBfMWdMX0xJcUszSU1HZFJ5RjY2eUxRYjRvZWFNSVpyTjlDZEZxQVU2dTg3V0xzb25TS19Xa0FCS1RmeHRFM0ZTcU9QdVBTMzBMYjhoelB0dDYtQno3UFhTcWNRdEoxYkJJTFdJdHc5NkFJ0gGcAUFVX3lxTE5EU19BYVVheFdsUGgwUHMxREJySEdrQ0I2V1hxekthZ0hadTNOU1pHYl9yalJFczlQWXh3ekw1Nl8wV0g4Rl9FUDN5OUtxWjFnNHhMX281bGpqMFNKa2RPSmUzcm9mVnpMc1lvN2hXUHBnTDJBclEyNllKOGJKYVJ0ZHI0Nnl0SjlhR2s3ejVlMnNpZ3J4QWRta2p0Ng?oc=5",
    "ts": "Thu, 26 Nov 2026 04:51:29 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Обмен пленными перед праздниками Кушнер анонсировал крупнейший за всю войну",
+   "url": "https://glavred.info/war/tisyachi-polonenih-povernutsya-dodomu-do-svyat-kushner-pro-naybilshiy-obmin-10815518.html",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Asian shares rebound led by AI stocks after Wall Street pares sharp losses – Winnipeg Free Press",
+   "url": "https://www.winnipegfreepress.com/business/2026/11/26/asian-shares-rebound-led-by-ai-stocks-after-wall-street-pares-sharp-losses",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US - led consortium agrees to acquire assets from Russian oil company Lukoil",
+   "url": "https://www.thepeterboroughexaminer.com/business/us-led-consortium-agrees-to-acquire-assets-from-russian-oil-company-lukoil/article_79676cdc-219d-53d7-bfc3-e2062f97cbaa.html",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Israel , Netanyahu aims to be prime minister until 2028 . Eisenkot wants a law to block his way",
+   "url": "https://www.odnako.org/israel-netanyahu-aims-to-be-prime-minister-until-2028-eisenkot-wants-a-law-to-block-his-way/",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Asian shares rebound led by AI stocks after Wall Street pares sharp losses",
+   "url": "https://www.therecord.com/business/asian-shares-rebound-led-by-ai-stocks-after-wall-street-pares-sharp-losses/article_8270cc26-5a29-5ca6-a5a7-d7c0db4ae6bd.html",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "川普新版出生公民權限制令 再遭法官叫停",
+   "url": "https://www.epochtimes.com/b5/26/11/26/n14895338.htm",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "iPhone 18 Pro und AirPods Pro 3 im o2 - Tarifbundle im Check",
+   "url": "https://www.ksta.de:443/shoppingwelt/iphone-18-pro-und-airpods-pro-3-im-o2-tarifbundle-im-check-1-1424705",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "अमेरिका ने 14 देशों पर थोपा टैरिफ : भारत पर लगाया अतिरिक्त 17 प्रतिशत , जानिए क्या होगा असर ? ",
+   "url": "https://panchjanya.com/2026/11/26/500253/world/us-imposes-tariffs-on-14-countries-slaps-an-additional-17-percent-on-india-what-will-be-the-impact/",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": " 「 気候変動対策の資金が戦争に 」 ネパール人活動家 、 米を暗に非難｜全国のニュース｜Web東奥",
+   "url": "https://www.toonippo.co.jp/articles/-/2411378",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ο Τζάρεντ Κούσνερ μεταφέρει διαβεβαιώσεις Πούτιν για μη χρήση πυρηνικών όπλων",
+   "url": "https://www.madata.gr/epikairotita/world/997303-o-tzarent-koysner-metaferei-diavevaioseis-poytin-gia-mi-chrisi-pyrinikon-oplon.html",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "चीन र युरोपेली संघसहित १४ प्रमुख व्यापार साझेदारमाथि अमेरिकाको नयाँ भन्सार शुल्क घोषणा | Nepal first 24 - hour updated news portal",
+   "url": "https://www.ratopati.com/story/607674/us-announces-new-tariffs-on-14-major-trading-partners-including-china-and-the-european-union",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Η αποκάλυψη κυκλώματος εικονικών αποδείξεων σε ένστολους και δημόσιους υπαλλήλους",
+   "url": "https://www.madata.gr/epikairotita/social/997308-i-apokalypsi-kyklomatos-eikonikon-apodeixeon-se-enstoloys-kai-dimosioys-ypalliloys.html",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "A Chinese consumer advocate is stranded in South Korea as a crackdown in China targets campaigners",
+   "url": "https://www.therecord.com/business/a-chinese-consumer-advocate-is-stranded-in-south-korea-as-a-crackdown-in-china-targets-campaigners/article_825b06b1-b5b3-5d22-b74b-7327958d3147.html",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "GTRI calls US tariff under Section 301 coercive bargaining tool , urges India to reject it",
+   "url": "http://www.newzealandstar.com/news/279454790/gtri-calls-us-tariff-under-section-301-coercive-bargaining-tool-urges-india-to-reject-it",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Govt approves tariffs for Payra , Rampal power plants , clears 4 . 40 lakh tonnes of US wheat imports",
+   "url": "https://www.thedailystar.net/business/news/govt-approves-tariffs-payra-rampal-power-plants-clears-440-lakh-tonnes-us-wheat-imports-4333661",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Letters to the Editor : Nov . 25 , 2026",
+   "url": "https://www.kelownadailycourier.ca/opinion/letters_to_editor/article_7b50b9a7-5d08-4470-9994-d7286134fa66.html",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Rassvet ,  Russia Starlink  is expanding rapidly",
+   "url": "https://www.dw.com/en/can-rassvet-russias-starlink-change-the-course-of-the-war-in-ukraine/a-80052579",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "A Chinese consumer advocate is stranded in South Korea as a crackdown in China targets campaigners",
+   "url": "https://www.thepeterboroughexaminer.com/business/a-chinese-consumer-advocate-is-stranded-in-south-korea-as-a-crackdown-in-china-targets-campaigners/article_a372b567-3fc9-5b7b-981b-0acfbeb28c2f.html",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "США переглядають військову присутність у Європі - країни НАТО очікують , що Вашингтон відкладе рішення – ZN . ua",
+   "url": "https://zn.ua/ukr/europe/krajini-nato-ochikujut-shcho-ssha-vidkladut-rishennja-shchodo-skorochennja-vijskovoji-prisutnosti-v-jevropi-zmi.html",
+   "ts": "20261126T061500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "FAA issues ground stop at Miami airport after FedEx cargo jet overruns runway",
+   "url": "http://www.heraldglobe.com/news/279454825/faa-issues-ground-stop-at-miami-airport-after-fedex-cargo-jet-overruns-runway",
+   "ts": "20261126T061500Z"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-26T02:30:55Z",
+ "ts": "2026-11-26T02:45:55Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -370,9 +370,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
-   "ts": "Wed, 25 Nov 2026 13:15:00 GMT"
+   "title": "US to cap India tariff at 17% if trade deal is reached, USTR says - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
+   "ts": "Wed, 25 Nov 2026 18:26:10 GMT"
   },
   {
    "src": "gnews",
@@ -442,9 +442,15 @@
   },
   {
    "src": "gnews",
-   "title": "US to cap India tariff at 17% if trade deal is reached, USTR says - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
-   "ts": "Wed, 25 Nov 2026 18:26:10 GMT"
+   "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:15:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump’s Incoherent Tariffs - The American Prospect",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc29ETWdybkcwSC1iNHRLb2FUQmdQN081WjE5ekFUMVRRTDdSeFZ5SzVVSTJySUZVUTlibnRvQXFnaERQdmJtLXBNN1FvUnVUWTVPcUJhSWpsaUZ4emhmVHZBUkhuS1VhZHpCWnRlaXktalNXRnBZQ2w1WmRiYmtfS3NwWE54YThWeGFZU2NB?oc=5",
+   "ts": "Wed, 25 Nov 2026 20:00:00 GMT"
   },
   {
    "src": "gnews",
@@ -453,130 +459,124 @@
    "ts": "Wed, 25 Nov 2026 19:31:28 GMT"
   },
   {
-   "src": "gnews",
-   "title": "Bumpier U.S.-China Trade Is Coming - China-US Focus",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJNUURnenNwRV9MaTlCUFZOejU2T2xNeTRSTzlOaFBRLTNNcmhrbVdlSjZ6b1g4RDJnSXBuSlJFZ3dzeDdEc3ZlY21ES0lQZFYyWm9TWHBtTm1haUhKaFJnM1JDcjVmRVQyOU5tTmRHM1RzUnl3YXRmM3FVc0RIUzIybw?oc=5",
-   "ts": "Tue, 24 Nov 2026 13:02:14 GMT"
-  },
-  {
    "src": "gdelt",
-   "title": "黃仁勳復職 ： 美國兩黨背後資本力量的  階段性妥協  - 2026年11月26日 , 俄羅斯衛星通訊社",
-   "url": "https://big5.sputniknews.cn/20261126/1074355874.html",
-   "ts": "20261126T014500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Death of man detained at Adelanto ICE facility might have been prevented with proper medical care , experts say",
-   "url": "https://www.dailybulletin.com/2026/11/25/death-of-man-detained-at-adelanto-ice-facility-might-have-been-prevented-with-proper-medical-care-experts-say/",
-   "ts": "20261126T014500Z"
+   "title": "Veteran movie critic David Thomson bleak reappraisal of cinema :  Films have turned us into helpless voyeurs  ",
+   "url": "https://www.nzherald.co.nz/the-listener/entertainment/veteran-movie-critic-david-thomsons-bleak-reappraisal-of-cinema-films-have-turned-us-into-helpless-voyeurs/premium/ZEHIVENBYFC5FOQ5J4STUJLXAI/",
+   "ts": "20261126T021500Z"
   },
   {
    "src": "gdelt",
    "title": "Trump heads to Arizona next week for a high - stakes expansion of TSMC computer chip factories",
-   "url": "https://www.wral.com/news/ap/cdc7f-trump-heads-to-arizona-next-week-for-a-high-stakes-expansion-of-tsmcs-computer-chip-factories/",
-   "ts": "20261126T014500Z"
+   "url": "https://www.journal-advocate.com/2026/11/25/trump-tsmc/",
+   "ts": "20261126T021500Z"
   },
   {
    "src": "gdelt",
-   "title": "Miljardri ostaa venälisen öljyjätti Lukoilin ulkomaisen omaisuuden",
-   "url": "https://www.is.fi/ulkomaat/art-2000012437932.html",
-   "ts": "20261126T014500Z"
+   "title": "Navy keeps WWII hero Doris Miller name on aircraft carrier :  We are very thrilled , family says – Sterling Journal - Advocate",
+   "url": "https://www.journal-advocate.com/2026/11/25/doris-miller-name-wont-change-family-reaction/",
+   "ts": "20261126T021500Z"
   },
   {
    "src": "gdelt",
-   "title": "North Korea Kim vows to build more nuclear weapons after ignoring Trump overture",
-   "url": "https://www.wral.com/news/ap/78d66-north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture/",
-   "ts": "20261126T014500Z"
+   "title": "Detained families cast new scrutiny on ICE lockup in sworn statements",
+   "url": "https://www.kshb.com/investigations/ice-inc/detained-families-cast-new-scrutiny-on-ice-lockup-in-sworn-statements",
+   "ts": "20261126T021500Z"
   },
   {
    "src": "gdelt",
-   "title": "Judge blocks FCC review of ABC station licenses for now",
-   "url": "https://www.nbcnews.com/business/media/judge-blocks-fcc-review-abc-station-licenses-now-rcna601892",
-   "ts": "20261126T014500Z"
+   "title": "Explained | How China got access to Nvidia AI chips despite rules to stop them",
+   "url": "https://economictimes.indiatimes.com/news/international/business/explained-how-china-got-access-to-nvidias-ai-chips-despite-rules-to-stop-them/articleshow/136175767.cms",
+   "ts": "20261126T021500Z"
   },
   {
    "src": "gdelt",
-   "title": "  Absolutely outrageou : Montana AG criticizes Newsom clemency plan",
-   "url": "https://abc7amarillo.com/news/nation-world/absolutely-outrageous-montana-ag-criticizes-newsoms-clemency-plan-death-row",
-   "ts": "20261126T014500Z"
+   "title": "Fenerbahçenin Shakhtar Donetsk galibiyetinin ardından ülke puanı ... ",
+   "url": "https://ajansspor.com/haber/fenerbahcenin-shakhtar-donetsk-galibiyetinin-ardindan-ulke-puani-739420",
+   "ts": "20261126T021500Z"
   },
   {
    "src": "gdelt",
-   "title": "Vance says Jensen Huang wont need a pardon as scrutiny of Nvidia scandal builds in Washington",
-   "url": "https://www.wboc.com/news/international/vance-says-jensen-huang-wont-need-a-pardon-as-scrutiny-of-nvidia-scandal-builds-in/article_e076b964-948b-5bf9-9371-e22a7dc980d4.html",
-   "ts": "20261126T014500Z"
+   "title": "Report : Kushner pressed Netanyahu to fulfill commitments on Trump Gaza plan",
+   "url": "https://www.israelnationalnews.com/flashes/698600",
+   "ts": "20261126T021500Z"
   },
   {
    "src": "gdelt",
-   "title": "GOP Senator Says Trump Nvidia Intervention Sets  Dangerous Precedent  ",
-   "url": "https://dailycaller.com/2026/11/25/dave-mccormick-trump-nvidia-huang-dangerous-precedent/",
-   "ts": "20261126T014500Z"
+   "title": "U . S .- INFLATION - CORE PCE - OCTOBER - 3 - YEAR HIGH",
+   "url": "http://www.bignewsnetwork.com/news/279454664/us-inflation-core-pce-october-3-year-high",
+   "ts": "20261126T021500Z"
   },
   {
    "src": "gdelt",
-   "title": "Pomerantz LLP Alerts Shareholders to Investor Suit Filed Against NVIDIA ... ",
-   "url": "https://www.pr-inside.com/pomerantz-llp-alerts-shareholders-to-investor-suit-filed-against-nvidia-r5247742.htm",
-   "ts": "20261126T014500Z"
+   "title": "川普新關稅暗藏伏筆 ！ 鞏固課稅法源 、 預留加稅空間 | 美國新聞 | 全球",
+   "url": "https://udn.com/news/story/6813/9902649",
+   "ts": "20261126T021500Z"
   },
   {
    "src": "gdelt",
-   "title": "밴스  젠슨 황 , 법무부 수사 안 받아 … 트럼프  조사  발언과 엇갈려",
-   "url": "https://www.newspim.com/news/view/20261126000384",
-   "ts": "20261126T014500Z"
+   "title": "Joe Rogan curses Trump as he brands president a  liar  ",
+   "url": "https://www.dailymail.com/news/article-16322549/Joe-Rogan-curses-Trump-brands-president-liar.html",
+   "ts": "20261126T021500Z"
   },
   {
    "src": "gdelt",
-   "title": "  Arsonist  Trump bewilders analyst with excuse for toxic problem :  Just making it worse  ",
-   "url": "https://www.rawstory.com/trump-iowa-lead-azide/",
-   "ts": "20261126T014500Z"
+   "title": "U . S . proposes new tariffs on Brazilian imports - Xinhua",
+   "url": "https://english.news.cn/20261126/8f43c73f79b04732aa63f9a83e6bdbff/c.html",
+   "ts": "20261126T021500Z"
   },
   {
    "src": "gdelt",
-   "title": "Новости СВО : новый удар ВСУ придётся по базе РФ в Сирии , « до 2029 года от Украины останутся рожки да ножки » и её « особое членство в НАТО » ",
-   "url": "https://bloknot.ru/v-mire/novosti-svo-novyj-udar-vsu-pridyotsya-po-baze-rf-v-sirii-do-2029-goda-ot-ukrainy-ostanutsya-rozhki-da-nozhki-i-eyo-osoboe-chlenstvo-v-nato-1551577.html",
-   "ts": "20261126T014500Z"
+   "title": "Huang revival raises alarm about misogyny and impunity",
+   "url": "https://www.wgauradio.com/news/business/nvidia-ceos-comeback/5VVSDPDBEI7XJM5JYW44HSM7NE/",
+   "ts": "20261126T021500Z"
   },
   {
    "src": "gdelt",
-   "title": "Last - minute twist yanks FBI - seized ballots from Trump allie grasp : report",
-   "url": "https://www.rawstory.com/fulton-county-ballots-2020/",
-   "ts": "20261126T014500Z"
+   "title": "अमेरिकी टैरिफ प्रस्ताव पर भारत का पलटवार , कहा - देश में नहीं है जरूरत से ज्यादा विनिर्माण क्षमता | India Rejects Us Manufacturing Overcapacity Allegations Ustr Proposes 25 Percent Tariff On Indian Pr",
+   "url": "https://www.patrika.com/world-news/india-rejects-us-manufacturing-overcapacity-allegations-ustr-proposes-25-percent-tariff-on-indian-products-21088214",
+   "ts": "20261126T021500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Dautres tarifs pourront être indexés , dit Alain Therrien",
+   "url": "https://www.lechodelaval.ca/actualites-nationale/la-hausse-des-tarifs-dans-les-cpe-et-les-garderies-subventionnees-sera-limitee-a-3/41877",
+   "ts": "20261126T021500Z"
   },
   {
    "src": "gdelt",
    "title": "Judge declines to issue a long - term ban on taxpayer - funded , pro - Trump ads critics called propaganda",
-   "url": "https://abcnews.com/Business/wireStory/judge-declines-issue-long-term-ban-taxpayer-funded-138456353",
-   "ts": "20261126T014500Z"
+   "url": "https://www.dailylocal.com/2026/11/25/us-election-2026-taxpayer-funded-government-ad/",
+   "ts": "20261126T021500Z"
   },
   {
    "src": "gdelt",
-   "title": "Brasil expresó su  indignación  por la propuesta de Estados Unidos de imponer nuevos aranceles a sus aviones y su azúcar",
-   "url": "https://www.perfil.com/politica/brasil-expreso-su-indignacion-por-la-propuesta-de-estados-unidos-de-imponer-nuevos-aranceles-a-sus-aviones-y-su-azucar-ax04r5v7ZyRY",
-   "ts": "20261126T014500Z"
+   "title": "CBS News investigation finds US - based firms with Chinese owners buying advanced Nvidia most advanced chips",
+   "url": "http://www.cambodiantimes.com/news/279454635/cbs-news-investigation-finds-us-based-firms-with-chinese-owners-buying-advanced-nvidia-most-advanced-chips",
+   "ts": "20261126T021500Z"
   },
   {
    "src": "gdelt",
-   "title": "New York processing tariff relief payments for more than 1 , 300 farms",
-   "url": "https://www.wbng.com/2026/11/25/new-york-processing-tariff-relief-payments-more-than-1300-farms/",
-   "ts": "20261126T014500Z"
+   "title": "  Absolutely outrageou : Montana AG criticizes Newsom clemency plan",
+   "url": "https://wset.com/news/nation-world/absolutely-outrageous-montana-ag-criticizes-newsoms-clemency-plan-death-row",
+   "ts": "20261126T021500Z"
   },
   {
    "src": "gdelt",
-   "title": "Senate Deal Headed To House Could Make Data Centers Pay $55 Billion For Power Lines",
-   "url": "https://dailycaller.com/2026/11/25/data-centers-transmission-costs-baaja-grid-strategies-sheldon-whitehouse-shelley-moore-capito/",
-   "ts": "20261126T014500Z"
+   "title": "North Korea Kim vows to build more nuclear weapons",
+   "url": "https://www.wgauradio.com/news/world/north-koreas-kim/7SXMBO5LT4YBDLVSBE4YKXW5YU/",
+   "ts": "20261126T021500Z"
   },
   {
    "src": "gdelt",
-   "title": " « Заморозка » фронта или сдача Донбасса России в обмен на вступление Украины в НАТО : озвучено два варианта конца СВО",
-   "url": "https://bloknot.ru/v-mire/zamorozka-fronta-ili-sdacha-donbassa-rossii-v-obmen-na-vstuplenie-ukrainy-v-nato-ozvucheno-dva-varianta-kontsa-svo-1551573.html",
-   "ts": "20261126T014500Z"
+   "title": "Giá vàng thế giới chật vật tìm động lực phục hồi",
+   "url": "https://baomoi.com/gia-vang-the-gioi-chat-vat-tim-dong-luc-phuc-hoi-c56602131.epi",
+   "ts": "20261126T021500Z"
   },
   {
    "src": "gdelt",
-   "title": "LA Councilwoman demands answers on LA28 deficit , executive pay – NBC Los Angeles",
-   "url": "https://www.nbclosangeles.com/news/local/los-angeles-councilwoman-demands-answers-on-la28s-reported-deficit-executive-pay/3975199/",
-   "ts": "20261126T014500Z"
+   "title": "AI can help your small business but is it helping your bottom line ? ",
+   "url": "https://www.insightnews.com/business/ai-can-help-your-small-business-but-is-it-helping-your-bottom-line/article_6c322cf5-6757-46fd-b475-387c6a977e44.html",
+   "ts": "20261126T021500Z"
   }
  ]
 }

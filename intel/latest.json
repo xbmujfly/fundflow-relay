@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-26T11:00:33Z",
+ "ts": "2026-11-26T11:15:29Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -364,6 +365,12 @@
   },
   {
    "src": "gnews",
+   "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals? - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWVQTU9Bem1UcHdtT2s5T005dlJvaDZfMTZ3aTQ1UHpDVUNMbERrRTFpQ0pKNFI0alRqWWp6ODBNYTJuSVNIX2JBMEpDRFh2RmlvYkNISXByQlJrR0dvb1BvQ0hxZmlPSXhtY3FfZjB6eUl0S0dtb2hxcHJwZ2U3X3ZudWpyMFRodlVackNmbU5DOVJENVhmS0s5bzQ2Z3BSMEdyZNIBqgFBVV95cUxPc2NjTE95RV9JMXdFTy1CdVNSdm1mRUt3cGxydjdid21HVFAza2pLcGRiY2FzOEUxeHhKNHZRcjdFeHRxQ0h5ZjYzZHRFWWhMSTFqSnJmVU9BNnB5WnB4VGpYN2Z3RU5vT24wVlhQeXpqYURoWnlXLW5QbXNvWS1DSzd5VGVNM0dPcnkyQkE1NEJCRlROejRDaE0tSXR0aXFYakJyMVNQYkRyZw?oc=5",
+   "ts": "Thu, 26 Nov 2026 11:08:29 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump admin proposes new tariffs on China, EU and 12 other trading partners - ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN3dSZHFTVnZVU1IxNk0ydWl4QjJTdUF3dTRuckhxSUNwMGI5enBLWEFyZHVGRGlILTN6OXNibmFnLVNWNGhBcFgtR2Vfd3hUX3Nmc0VjdnJvdEdERktyUnVKRW1tejhHLXVhY056YVFvbzR3Vy1wdGRPLWJYbm5EanBkdHJfdFRrQ2doTkh1SEkzTUVQMWZJ0gGcAUFVX3lxTE5NQ2dvX1lVT2Z3ZXUtUGgxcHdYMUE0VTZQZzNGd3V0amdGOEdMd2hWeEJYMl94dE9KUVRKY3pBQnJ2NzhNZTZQTXFPSjlqamtaenBiRE5FR1VvTEFCV2c1UXFoZk5YbHpsRzY0Z1Vmal9BZ3NxYjVOeXppMVJRd092STNQQjZZLUsxMmVDWWd4b2F4QkJ2ZTlPa1hJUw?oc=5",
    "ts": "Wed, 25 Nov 2026 22:07:22 GMT"
@@ -394,21 +401,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump announces new trade tariffs: Which countries are affected? - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEJUV292VEZ6TjdJalc2UkRBWGVDaUVVa1ZyMFZGbE5kakN2VTA2bnNuSUFsNVJSZE9jMTdnVDFEZExLbEhLcy1oTHRkbV9GYzdzV05vREFrNXM5RWRTS1lGdTZzMUhTQzRoQ2FqNW9oakZNT0l0R3RyTjZrMkZkeDlKVjFiaFB2a09wRWp4Q050eXNib1M1U3hLNndVQW12cE9KbFBtYWRyaGJj0gGyAUFVX3lxTE1zaEVXa2ZXOGhyOHJ1Yk1SSENISGhHZVpwekNrMGpkaENvVTNuT1lmN01ESWZSeUVCelJKbGlEV203eWRXLTdjRGU3Ny1vOG85OVBOSklDN1dPRWdpSHRrQ2JmWlNxR2FNYTF4V19mRjhPemsxcnJsZkJqU2haVkRoNzNkdFFRdkI5YzRRcVBVbV9VUzRmVFdPaThCQVNHTXdxaGFkVmJJLWNMOXRqZzN5UXc?oc=5",
-   "ts": "Wed, 25 Nov 2026 15:00:52 GMT"
+   "title": "Trump Aims to Keep Leverage Over Xi With 40% China Tariff Threat - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcTVMWExHUXNZQS1TWHdON1BLSjgydFhicUlOeWo0dXZ4cVBxYm4zUk9ydG5YXy1oNlVNMDB4TlU1ZjRoaDdGMlJieE5XSlJsenNFZ3ZDWGtvVEt0V0IyaGNwRnYyRGNJdXlBaGs0MEdsUjhPZ1FwNFV2NlVfZ21Ldk9DLTk3Wk1lWF9FenVEZHdselN5X2ktUHItdUpMZVM4eldXMnNiM2pqWExNMUotWGdjYw?oc=5",
+   "ts": "Thu, 26 Nov 2026 08:41:53 GMT"
   },
   {
    "src": "gnews",
    "title": "Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN05tSHVLN1V3cFRSaUY1d0l6MGkyY1dhRnN6R08tWW5uSm91eXlXQ1VHXzhnMEZpNHQtR0QzYWI5NHlFcjg4bFBhN0ZyMXZZQU9oQUJlVzNwUERxRFFWQThTOXMzM1laQjQzSXNjeXNlUnNGT3Zv?oc=5",
    "ts": "Wed, 25 Nov 2026 15:58:36 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump Aims to Keep Leverage Over Xi With 40% China Tariff Threat - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcTVMWExHUXNZQS1TWHdON1BLSjgydFhicUlOeWo0dXZ4cVBxYm4zUk9ydG5YXy1oNlVNMDB4TlU1ZjRoaDdGMlJieE5XSlJsenNFZ3ZDWGtvVEt0V0IyaGNwRnYyRGNJdXlBaGs0MEdsUjhPZ1FwNFV2NlVfZ21Ldk9DLTk3Wk1lWF9FenVEZHdselN5X2ktUHItdUpMZVM4eldXMnNiM2pqWExNMUotWGdjYw?oc=5",
-   "ts": "Thu, 26 Nov 2026 08:41:53 GMT"
   },
   {
    "src": "gnews",
@@ -424,15 +425,9 @@
   },
   {
    "src": "gnews",
-   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
-   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "USTR Announces Affirmative Section 301 Determinations and Proposes New Tariffs on 14 Trading Partners to Address Structural Excess Capacity - Wiley Rein",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMk5kTElfNzJrdXRxYWxJVTFIQ2xLcE5VNFB1aGZHei1NTERyVW9EY0JFZXdjbV93dU5POGNHaWpOa1RPY3IzVHZBSjFKb2hMa0kwbEYzcXNocEJFYW01bXAyZmswNDdaY3NiNzJXZUVaVHZrRUhid21BUHowU0I3TVJkTjFfNEJvMHJyVnFEMThlek13T1dMeGJBcDdrMXA0VzlxV0ZsMlNDb3BLemhVLWEzc043c3FmS2RjZkI3RnFIenpGTk9NNkpwX3l2M3RyaHFRdGxkbjdrQ014WU9Melk2c3JUVEpSNW9jeXZGVzdGWVJYWnZxT0wxNA?oc=5",
-   "ts": "Wed, 25 Nov 2026 20:31:15 GMT"
+   "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless - The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYUJrQ3VzcUs4NmJmXzMtVmx0dUYzaUZ0ZGw0MUM2X29UdG83c2Z1d2ZRR1JIQVYzbC1BQlA5NzgwUnFJUERLTG81aHd1WmptOU43UjFaekpVWGFFeDJtQUtybnpoNUVsUTdYbDV3MF9MME1hN2hvWl9BQ1U4NUd4NmZwR1FlTXBhckdUQTE1c21JMFR5ZHlOQWtR?oc=5",
+   "ts": "Thu, 26 Nov 2026 03:54:00 GMT"
   },
   {
    "src": "gnews",
@@ -442,15 +437,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’ - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalFybkwxanpDZHdLeGlnSHN6dTBsUnoxS0Zrc3FjaDJ1ZDhGS3Y4Y09qRnNEMmhMazJfeXRlMVdnNy1RM2RoenR0VDlCOWpfZTdWME5pY19lcFlkbzIzUDgwYkN0RXVlcTRET0dEMGNpUnFUcnhkUDQ0a1dzZGpzaXByMnRvTGFMQlZZRVlMOHlBdDRfNUV2VlBPZklRdmFyeTZRWC1lZGdGX1R4MmdGRU1R?oc=5",
-   "ts": "Thu, 26 Nov 2026 08:42:23 GMT"
+   "title": "Trump announces new trade tariffs: Which countries are affected? - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEJUV292VEZ6TjdJalc2UkRBWGVDaUVVa1ZyMFZGbE5kakN2VTA2bnNuSUFsNVJSZE9jMTdnVDFEZExLbEhLcy1oTHRkbV9GYzdzV05vREFrNXM5RWRTS1lGdTZzMUhTQzRoQ2FqNW9oakZNT0l0R3RyTjZrMkZkeDlKVjFiaFB2a09wRWp4Q050eXNib1M1U3hLNndVQW12cE9KbFBtYWRyaGJj0gGyAUFVX3lxTE1zaEVXa2ZXOGhyOHJ1Yk1SSENISGhHZVpwekNrMGpkaENvVTNuT1lmN01ESWZSeUVCelJKbGlEV203eWRXLTdjRGU3Ny1vOG85OVBOSklDN1dPRWdpSHRrQ2JmWlNxR2FNYTF4V19mRjhPemsxcnJsZkJqU2haVkRoNzNkdFFRdkI5YzRRcVBVbV9VUzRmVFdPaThCQVNHTXdxaGFkVmJJLWNMOXRqZzN5UXc?oc=5",
+   "ts": "Wed, 25 Nov 2026 15:00:52 GMT"
   },
   {
    "src": "gnews",
-   "title": "Brazil blasts ‘unacceptable’ new US tariff proposals - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdGprU3pveUxVMVc1WXVnS0w5TFltSmhBSDUwaW1YMnNwaGxHTTBfMWdMX0xJcUszSU1HZFJ5RjY2eUxRYjRvZWFNSVpyTjlDZEZxQVU2dTg3V0xzb25TS19Xa0FCS1RmeHRFM0ZTcU9QdVBTMzBMYjhoelB0dDYtQno3UFhTcWNRdEoxYkJJTFdJdHc5NkFJ0gGcAUFVX3lxTE5EU19BYVVheFdsUGgwUHMxREJySEdrQ0I2V1hxekthZ0hadTNOU1pHYl9yalJFczlQWXh3ekw1Nl8wV0g4Rl9FUDN5OUtxWjFnNHhMX281bGpqMFNKa2RPSmUzcm9mVnpMc1lvN2hXUHBnTDJBclEyNllKOGJKYVJ0ZHI0Nnl0SjlhR2s3ejVlMnNpZ3J4QWRta2p0Ng?oc=5",
-   "ts": "Thu, 26 Nov 2026 04:51:29 GMT"
+   "title": "Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’ - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalFybkwxanpDZHdLeGlnSHN6dTBsUnoxS0Zrc3FjaDJ1ZDhGS3Y4Y09qRnNEMmhMazJfeXRlMVdnNy1RM2RoenR0VDlCOWpfZTdWME5pY19lcFlkbzIzUDgwYkN0RXVlcTRET0dEMGNpUnFUcnhkUDQ0a1dzZGpzaXByMnRvTGFMQlZZRVlMOHlBdDRfNUV2VlBPZklRdmFyeTZRWC1lZGdGX1R4MmdGRU1R?oc=5",
+   "ts": "Thu, 26 Nov 2026 08:42:23 GMT"
   },
   {
    "src": "gnews",
@@ -459,124 +454,10 @@
    "ts": "Wed, 25 Nov 2026 13:15:00 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "Обмен пленными перед праздниками Кушнер анонсировал крупнейший за всю войну",
-   "url": "https://glavred.info/war/tisyachi-polonenih-povernutsya-dodomu-do-svyat-kushner-pro-naybilshiy-obmin-10815518.html",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Asian shares rebound led by AI stocks after Wall Street pares sharp losses – Winnipeg Free Press",
-   "url": "https://www.winnipegfreepress.com/business/2026/11/26/asian-shares-rebound-led-by-ai-stocks-after-wall-street-pares-sharp-losses",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US - led consortium agrees to acquire assets from Russian oil company Lukoil",
-   "url": "https://www.thepeterboroughexaminer.com/business/us-led-consortium-agrees-to-acquire-assets-from-russian-oil-company-lukoil/article_79676cdc-219d-53d7-bfc3-e2062f97cbaa.html",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Israel , Netanyahu aims to be prime minister until 2028 . Eisenkot wants a law to block his way",
-   "url": "https://www.odnako.org/israel-netanyahu-aims-to-be-prime-minister-until-2028-eisenkot-wants-a-law-to-block-his-way/",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Asian shares rebound led by AI stocks after Wall Street pares sharp losses",
-   "url": "https://www.therecord.com/business/asian-shares-rebound-led-by-ai-stocks-after-wall-street-pares-sharp-losses/article_8270cc26-5a29-5ca6-a5a7-d7c0db4ae6bd.html",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "川普新版出生公民權限制令 再遭法官叫停",
-   "url": "https://www.epochtimes.com/b5/26/11/26/n14895338.htm",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "iPhone 18 Pro und AirPods Pro 3 im o2 - Tarifbundle im Check",
-   "url": "https://www.ksta.de:443/shoppingwelt/iphone-18-pro-und-airpods-pro-3-im-o2-tarifbundle-im-check-1-1424705",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "अमेरिका ने 14 देशों पर थोपा टैरिफ : भारत पर लगाया अतिरिक्त 17 प्रतिशत , जानिए क्या होगा असर ? ",
-   "url": "https://panchjanya.com/2026/11/26/500253/world/us-imposes-tariffs-on-14-countries-slaps-an-additional-17-percent-on-india-what-will-be-the-impact/",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " 「 気候変動対策の資金が戦争に 」 ネパール人活動家 、 米を暗に非難｜全国のニュース｜Web東奥",
-   "url": "https://www.toonippo.co.jp/articles/-/2411378",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ο Τζάρεντ Κούσνερ μεταφέρει διαβεβαιώσεις Πούτιν για μη χρήση πυρηνικών όπλων",
-   "url": "https://www.madata.gr/epikairotita/world/997303-o-tzarent-koysner-metaferei-diavevaioseis-poytin-gia-mi-chrisi-pyrinikon-oplon.html",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "चीन र युरोपेली संघसहित १४ प्रमुख व्यापार साझेदारमाथि अमेरिकाको नयाँ भन्सार शुल्क घोषणा | Nepal first 24 - hour updated news portal",
-   "url": "https://www.ratopati.com/story/607674/us-announces-new-tariffs-on-14-major-trading-partners-including-china-and-the-european-union",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Η αποκάλυψη κυκλώματος εικονικών αποδείξεων σε ένστολους και δημόσιους υπαλλήλους",
-   "url": "https://www.madata.gr/epikairotita/social/997308-i-apokalypsi-kyklomatos-eikonikon-apodeixeon-se-enstoloys-kai-dimosioys-ypalliloys.html",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "A Chinese consumer advocate is stranded in South Korea as a crackdown in China targets campaigners",
-   "url": "https://www.therecord.com/business/a-chinese-consumer-advocate-is-stranded-in-south-korea-as-a-crackdown-in-china-targets-campaigners/article_825b06b1-b5b3-5d22-b74b-7327958d3147.html",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "GTRI calls US tariff under Section 301 coercive bargaining tool , urges India to reject it",
-   "url": "http://www.newzealandstar.com/news/279454790/gtri-calls-us-tariff-under-section-301-coercive-bargaining-tool-urges-india-to-reject-it",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Govt approves tariffs for Payra , Rampal power plants , clears 4 . 40 lakh tonnes of US wheat imports",
-   "url": "https://www.thedailystar.net/business/news/govt-approves-tariffs-payra-rampal-power-plants-clears-440-lakh-tonnes-us-wheat-imports-4333661",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Letters to the Editor : Nov . 25 , 2026",
-   "url": "https://www.kelownadailycourier.ca/opinion/letters_to_editor/article_7b50b9a7-5d08-4470-9994-d7286134fa66.html",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Rassvet ,  Russia Starlink  is expanding rapidly",
-   "url": "https://www.dw.com/en/can-rassvet-russias-starlink-change-the-course-of-the-war-in-ukraine/a-80052579",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "A Chinese consumer advocate is stranded in South Korea as a crackdown in China targets campaigners",
-   "url": "https://www.thepeterboroughexaminer.com/business/a-chinese-consumer-advocate-is-stranded-in-south-korea-as-a-crackdown-in-china-targets-campaigners/article_a372b567-3fc9-5b7b-981b-0acfbeb28c2f.html",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "США переглядають військову присутність у Європі - країни НАТО очікують , що Вашингтон відкладе рішення – ZN . ua",
-   "url": "https://zn.ua/ukr/europe/krajini-nato-ochikujut-shcho-ssha-vidkladut-rishennja-shchodo-skorochennja-vijskovoji-prisutnosti-v-jevropi-zmi.html",
-   "ts": "20261126T061500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "FAA issues ground stop at Miami airport after FedEx cargo jet overruns runway",
-   "url": "http://www.heraldglobe.com/news/279454825/faa-issues-ground-stop-at-miami-airport-after-fedex-cargo-jet-overruns-runway",
-   "ts": "20261126T061500Z"
+   "src": "gnews",
+   "title": "Brazil blasts ‘unacceptable’ new US tariff proposals - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdGprU3pveUxVMVc1WXVnS0w5TFltSmhBSDUwaW1YMnNwaGxHTTBfMWdMX0xJcUszSU1HZFJ5RjY2eUxRYjRvZWFNSVpyTjlDZEZxQVU2dTg3V0xzb25TS19Xa0FCS1RmeHRFM0ZTcU9QdVBTMzBMYjhoelB0dDYtQno3UFhTcWNRdEoxYkJJTFdJdHc5NkFJ0gGcAUFVX3lxTE5EU19BYVVheFdsUGgwUHMxREJySEdrQ0I2V1hxekthZ0hadTNOU1pHYl9yalJFczlQWXh3ekw1Nl8wV0g4Rl9FUDN5OUtxWjFnNHhMX281bGpqMFNKa2RPSmUzcm9mVnpMc1lvN2hXUHBnTDJBclEyNllKOGJKYVJ0ZHI0Nnl0SjlhR2s3ejVlMnNpZ3J4QWRta2p0Ng?oc=5",
+   "ts": "Thu, 26 Nov 2026 04:51:29 GMT"
   }
  ]
 }

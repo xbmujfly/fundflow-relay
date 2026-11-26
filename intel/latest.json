@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-26T02:00:57Z",
+ "ts": "2026-11-26T02:15:53Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -377,15 +377,15 @@
   },
   {
    "src": "gnews",
-   "title": "Why Trump’s newest tariffs could stick - Atlantic Council",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVkpGMkxqSGRGRTJWU3hIQVZHdW1SdTNBUGtFdmZlV1lPR0tGTERCcFBNdjhTWmxFeWs0dzZpakI1dGxQbUZndUthWXZFQno0aVlNU180QXJtSm5OQXNPWUQtUDlGRWZjWndHbnRuX0FiTnlKMkNJRVhtSWpKcFQ3a1h3TzZ1MTdLV2hLdUxYNEZOcXRDTUZhUUtfbmtiTkcxaFZSTjR5dw?oc=5",
-   "ts": "Wed, 25 Nov 2026 18:57:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump proposing new tariffs on 14 partners including China and EU - The Guardian",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzJkNEt0SmxFczJuc25uRFpYRjc1bDBVZ191T1p5TnFTbjRxeHA0QTk2TE1VM0FJMlI1ems4N1ItOGRFcHhma3ZLdEJKT01NSF9yVjFTaTc4SmlpQk5iSnRfdjRBZ2VCdDlLM0JEbFAtYkVjNXF1a0NqTG9OazJPaWFmamQ?oc=5",
    "ts": "Wed, 25 Nov 2026 21:15:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Why Trump’s newest tariffs could stick - Atlantic Council",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVkpGMkxqSGRGRTJWU3hIQVZHdW1SdTNBUGtFdmZlV1lPR0tGTERCcFBNdjhTWmxFeWs0dzZpakI1dGxQbUZndUthWXZFQno0aVlNU180QXJtSm5OQXNPWUQtUDlGRWZjWndHbnRuX0FiTnlKMkNJRVhtSWpKcFQ3a1h3TzZ1MTdLV2hLdUxYNEZOcXRDTUZhUUtfbmtiTkcxaFZSTjR5dw?oc=5",
+   "ts": "Wed, 25 Nov 2026 18:57:00 GMT"
   },
   {
    "src": "gnews",
@@ -407,21 +407,15 @@
   },
   {
    "src": "gnews",
-   "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MeWZxZF9LSEQtWThHY3lxNm81dzVSbFZqaU9XVGdaX0hycUlWc2NKWm9zamxtVF9zd2ZwTlJNenYwWXRSUTVuQjJwQ0pOMEVYMW40MTF4MkdVNEU4TkVKSzhIaW1RS0h1TXhLVkJHWVdHUk3SAXhBVV95cUxOZnBfeEVLaTREWmhNMEZESE9FS2pjYkpiNGk4ZFl1QURIV3Z5UXR5SVBLNHZtMzBrR3hsZTFOTGkzWGdvTUdpR3N4VXY0X05VREZ1cEtiY0hGN0NSTDNIMmg4bVVKa1pwNThKenIyOFdQbjhpdkRFUGI?oc=5",
-   "ts": "Wed, 25 Nov 2026 13:11:09 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump administration to introduce new tariffs on China, EU and 12 other major trading partners - CBS News",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczFLRXU2LXkzSXFlSVNTSHNiV0FVM2p2SURNQVRqLURpd0RmWTJPeDE4UDJybklVTmtXdFp6b2ZmUWhtY3lKb2MyX3RGd1RCbWdYY3AxSHg0SktaT3VfQzRDNzhnNW9JRlJRYnFQV0ZRalVJRXV1d1MtQ3ZvNllsM1g2N28?oc=5",
    "ts": "Wed, 25 Nov 2026 13:37:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
-   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
+   "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MeWZxZF9LSEQtWThHY3lxNm81dzVSbFZqaU9XVGdaX0hycUlWc2NKWm9zamxtVF9zd2ZwTlJNenYwWXRSUTVuQjJwQ0pOMEVYMW40MTF4MkdVNEU4TkVKSzhIaW1RS0h1TXhLVkJHWVdHUk3SAXhBVV95cUxOZnBfeEVLaTREWmhNMEZESE9FS2pjYkpiNGk4ZFl1QURIV3Z5UXR5SVBLNHZtMzBrR3hsZTFOTGkzWGdvTUdpR3N4VXY0X05VREZ1cEtiY0hGN0NSTDNIMmg4bVVKa1pwNThKenIyOFdQbjhpdkRFUGI?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:11:09 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +452,12 @@
    "title": "Could potential US tariffs put the US-China trade truce at risk? - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2c2Y1A4a095TUY0T21rYVAyV3k3a1VkS3Y0TTJEQll1RUxVZUR4MTViaUJZR2gzcUVpQ1NmQklkZnFWakNSMVMtYmpBVXBtdm1GaERwbUdTb0c5dUl1Z3BTWTd6Ny1Ld3ZqOFVVVXZJcW1jVThiSG4wYTZ0SDlFcGRDT295YUlQR2FCUzBfT0hycVZIOXdmbUx3R1hhdXhPcWVmTnEwWFhncVlPdHlLbGtQamdBRknSAbcBQVVfeXFMTUE4aUJvMXROQ2hGMVFRbkt5ZDZuNnBVMXdvdmphc3hWQk1DbjR1cVgtd2VBSWJObnY3OWNGeEVaQ2ZqRGRZbXp2RWpnek8yNFVIcERCMHVVbkdpV2x4OEdMYU9YOVdlYXJDZWZJVFhhaFUzWG5BR2FwR01MdHNyQVN6bEl6UGxmamdIZkFmZjdKdURCSFhtcVRDY053TU9pbWtQOFNXNEtuQjNPaUJreEVXQy1IVGVV?oc=5",
    "ts": "Wed, 25 Nov 2026 13:39:44 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump set to add new sweeping tariffs, undeterred by midterms defeat - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNndyR0VJNnlJZm5UR2tJRjUzalBvR1E0R245TVNfU0xWT3NxNk1pOU1SZkRJd2ZaTkY4T1RzZ1VLZ0V3SmpQZDZpeGhwcmVVRFFsekl0RE9pUkJ3Q2t5UUpXZkhRWkRlM2hzUVgtaE5GRDlfUWVZODR0cmlJamFQMHNkZXp0RFJQeHlFQ0tiTjlkcWczdjJ4ZVlzQXRxYjVfQ0VMX01sWQ?oc=5",
+   "ts": "Wed, 25 Nov 2026 17:08:31 GMT"
   }
  ]
 }

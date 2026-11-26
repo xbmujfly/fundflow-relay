@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-26T04:30:53Z",
+ "ts": "2026-11-26T04:45:55Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -353,15 +352,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump proposes a new wave of tariffs on China, E.U. and other trade partners - NBC News",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEhIWkhHU2FmSW5HZm1STUdfNlgzRWF6TXR1Njc2cDZ5SXF0RmVSY2NyS2tIQmJxWHlTZTJxVTg1bmI5YzcxemluVXFFdVZEUW1xUHZuTXhQN2ZaTjVtMzl0bEdwcGFNTFR5aU0wLTY3cDVJbnpXMjVQVWItMUoyOGVQakp1OHpocUlJWmc3ZWxZM1NHUWFiT2NsMXA2TXM?oc=5",
-   "ts": "Wed, 25 Nov 2026 13:58:10 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump announces new trade tariffs: Which countries are affected? - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEJUV292VEZ6TjdJalc2UkRBWGVDaUVVa1ZyMFZGbE5kakN2VTA2bnNuSUFsNVJSZE9jMTdnVDFEZExLbEhLcy1oTHRkbV9GYzdzV05vREFrNXM5RWRTS1lGdTZzMUhTQzRoQ2FqNW9oakZNT0l0R3RyTjZrMkZkeDlKVjFiaFB2a09wRWp4Q050eXNib1M1U3hLNndVQW12cE9KbFBtYWRyaGJj0gGyAUFVX3lxTE1zaEVXa2ZXOGhyOHJ1Yk1SSENISGhHZVpwekNrMGpkaENvVTNuT1lmN01ESWZSeUVCelJKbGlEV203eWRXLTdjRGU3Ny1vOG85OVBOSklDN1dPRWdpSHRrQ2JmWlNxR2FNYTF4V19mRjhPemsxcnJsZkJqU2haVkRoNzNkdFFRdkI5YzRRcVBVbV9VUzRmVFdPaThCQVNHTXdxaGFkVmJJLWNMOXRqZzN5UXc?oc=5",
    "ts": "Wed, 25 Nov 2026 15:00:52 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump proposes a new wave of tariffs on China, E.U. and other trade partners - NBC News",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEhIWkhHU2FmSW5HZm1STUdfNlgzRWF6TXR1Njc2cDZ5SXF0RmVSY2NyS2tIQmJxWHlTZTJxVTg1bmI5YzcxemluVXFFdVZEUW1xUHZuTXhQN2ZaTjVtMzl0bEdwcGFNTFR5aU0wLTY3cDVJbnpXMjVQVWItMUoyOGVQakp1OHpocUlJWmc3ZWxZM1NHUWFiT2NsMXA2TXM?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:58:10 GMT"
   },
   {
    "src": "gnews",
@@ -377,15 +376,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
-   "ts": "Wed, 25 Nov 2026 13:15:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump’s China Tariffs Raise Threat of New Test for Trade Truce - Bloomberg",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcTVMWExHUXNZQS1TWHdON1BLSjgydFhicUlOeWo0dXZ4cVBxYm4zUk9ydG5YXy1oNlVNMDB4TlU1ZjRoaDdGMlJieE5XSlJsenNFZ3ZDWGtvVEt0V0IyaGNwRnYyRGNJdXlBaGs0MEdsUjhPZ1FwNFV2NlVfZ21Ldk9DLTk3Wk1lWF9FenVEZHdselN5X2ktUHItdUpMZVM4eldXMnNiM2pqWExNMUotWGdjYw?oc=5",
    "ts": "Thu, 26 Nov 2026 03:45:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:15:00 GMT"
   },
   {
    "src": "gnews",
@@ -410,12 +409,6 @@
    "title": "Trump prepares new round of tariffs on China, other U.S. trading partners - Axios",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zLTBLcVRHTWZCNy11bHI0NEl4S0FiYVoydFZHQVJ6VUxSNUNqR2hLQ0NoQ05ZSEJxX3I1ZjhQZFJ1R2VPcWF2eXlreU1wZWpmMFRiQjJpeTVRUVVfN3h4akhB?oc=5",
    "ts": "Wed, 25 Nov 2026 15:39:58 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
-   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
   },
   {
    "src": "gnews",
@@ -449,6 +442,12 @@
   },
   {
    "src": "gnews",
+   "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCNEVmNUhlTHZVREEzZ01xdzYwNmpBWE1fNEk2WTlKREhuUWtqN2xsVnRTLWtWUkVGQ2d3UmFURW1ORUY1ZV9FV3V1YVpLa19jczZrS21YVWtYLXhBb0dSY2taSzVvWlR0djdYQWlBcjF6UdIBd0FVX3lxTE8xSVBVQVFIMm5qRmN0dDNJeE5XZEk5eVF3ZjgzaWZhUlZTWVhnWC1FLWtwZ3Q2UE5YSEtpalkxb1lidFZMWk1CMU9qa25OcURkdjkzRk4xdEoxdDl0ZEZhTVNzQUxSZFR2aXdXbm5CZE92X0pqaERJ?oc=5",
+   "ts": "Thu, 26 Nov 2026 04:12:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump's trade czar says he's looking to accommodate Canada on some sectoral tariffs - Yahoo! Finance Canada",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMlJ2N0JLbjAyUmZNVlhtYk5CZkppU2FoVG5WdlhwR1JnaW1lcHVxV0VfVklXVkFMQWZCa01HQ182VlhlWXdtNGl4WV9vMHpjZjZqSjc2cXlicmxkVDcwWjcwRFdSaXRQYUNPck9JYjR3aWFGRy1zUzZKQVhlMFV5Rw?oc=5",
    "ts": "Wed, 25 Nov 2026 18:02:04 GMT"
@@ -458,6 +457,126 @@
    "title": "Post-Election Trade Outlook: Tariff Authority And Congressional Scrutiny - Legal 500",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcmplVEtHOGpZX2liem1hd3pnRHpfSERUMTUxaUp2amJPNElJeHl6TENlR18yMG5nUEMyaDctbF96UTd4N09nNDRtTVplYlRBaHRQRlBtWUdmVl9tMTdvOHFxS3ZBNkh0d3ZEdjE0WmszY21MVEV4Wk9HSlhFcUZXSzBYRHpod0UxbUd1Y1pVV0liRUFvV0FPckFNWVgwYWFwdGxGbEI0WnRhZnZZYzJLdEcyNjNPSTZwQ0ZsYjdQaWxydlJ4Rk9nZ2pvNjJ1SXJmR203b29JTkM?oc=5",
    "ts": "Thu, 26 Nov 2026 00:25:28 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "A Chinese consumer advocate is stranded in South Korea as a crackdown in China targets campaigners",
+   "url": "https://www.news4jax.com/news/world/2026/11/26/a-chinese-consumer-advocate-is-stranded-in-south-korea-as-a-crackdown-in-china-targets-campaigners/",
+   "ts": "20261126T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Judge blocks Trump FCC from targeting ABC stations :  This is not a close case  | Business",
+   "url": "https://www.kten.com/news/business/judge-blocks-trump-s-fcc-from-targeting-abc-stations-this-is-not-a-close-case/article_52a09ad7-6d7c-5ba0-bac2-a9dbcb8ec34a.html",
+   "ts": "20261126T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Judge blocks FCC from early license review of ABC",
+   "url": "https://www.wdbo.com/news/business/judge-blocks-fcc/CSLE44LEVAZDVOELCSJVXSPUK4/",
+   "ts": "20261126T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Exclusive - US officials divided over Chinese spying allegations following Jensen Huang return",
+   "url": "https://whbl.com/2026/11/25/exclusive-us-officials-divided-over-chinese-spying-allegations-following-jensen-huangs-return/",
+   "ts": "20261126T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Трамп и Рютте обсудили важность урегулирования конфликта на Украине",
+   "url": "https://ria.ru/20261126/uregulirovanie-2134019512.html",
+   "ts": "20261126T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "JD Vance says Nvidia CEO Jensen Huang is not under investigation , rules out need for Trump pardon",
+   "url": "https://www.livemint.com/news/us-news/jd-vance-says-nvidia-ceo-jensen-huang-is-not-under-investigation-rules-out-need-for-trump-pardon-11795659756810.html",
+   "ts": "20261126T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Moore tells Axios he taking Maryland work national as 2028 buzz grows",
+   "url": "https://wcbm.com/local-story/moore-tells-axios-hes-taking-marylands-work-national-as-2028-buzz-grows/",
+   "ts": "20261126T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Οι ΗΠΑ ενέκριναν την πώληση ανταλλακτικών άνω των 600 εκατ . δολαρίων για τα F - 16 της Ουκρανίας , πληρώνουν τέσσερις ευρωπαϊκές χώρες",
+   "url": "https://www.protothema.gr/world/article/1917137/oi-ipa-enekrinan-tin-polisi-adallaktikon-ano-ton-600-ekat-dolarion-gia-ta-f-16-tis-oukranias/",
+   "ts": "20261126T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Big Tech faces 5 % revenue fines under Australia new safety law",
+   "url": "http://www.britainnews.net/news/279452545/big-tech-faces-5-revenue-fines-under-australia-s-new-safety-law",
+   "ts": "20261126T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Türkiyenin en ucuz suyu artık İzmirde - İzmir Haberleri",
+   "url": "https://www.yeniasir.com.tr/izmir/2026/11/26/turkiyenin-en-ucuz-suyu-artik-izmirde",
+   "ts": "20261126T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US - led consortium agrees to acquire assets from Russian oil company Lukoil",
+   "url": "https://www.news4jax.com/business/2026/11/26/us-led-consortium-agrees-to-acquire-assets-from-russian-oil-company-lukoil/",
+   "ts": "20261126T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Fewer newborns are receiving hepatitis B vaccine",
+   "url": "https://www.wapt.com/article/fewer-newborns-getting-hepatitis-b-vaccine-hesitancy-health/74536102",
+   "ts": "20261126T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Трамп и генсек НАТО провели встречу в Мар - а - Лаго",
+   "url": "https://ria.ru/20261126/vstrecha-2134019639.html",
+   "ts": "20261126T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Exclusive - US officials divided over Chinese spying allegations following Jensen Huang return | HOT 96 | The Tri State # 1 Hit Music Station",
+   "url": "https://hot96.com/2026/11/25/exclusive-us-officials-divided-over-chinese-spying-allegations-following-jensen-huangs-return/",
+   "ts": "20261126T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Judge blocks FCC early review of ABC licenses , citing likely First Amendment violation",
+   "url": "https://fox11online.com/news/nation-world/judge-blocks-federal-communications-commissions-early-review-of-abc-news-broadcast-licenses-citing-likely-first-amendment-violation-trump-administration-free-speech-legal-law-retaliation",
+   "ts": "20261126T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Judge Blocks FCC From Revoking ABC Broadcast Licenses",
+   "url": "https://650keni.iheart.com/content/2026-11-26-judge-blocks-fcc-from-revoking-abc-broadcast-licenses/",
+   "ts": "20261126T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Japan Nikkei rebounds over 1 % as investors snap up beaten - down AI stocks",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-rebounds-over-1-as-investors-snap-up-beaten-down-ai-stocks/articleshow/136177767.cms",
+   "ts": "20261126T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ábrego García , a Salvadoran mistakenly deported by US , goes to Spain but hopes to return after Trump",
+   "url": "https://www.whec.com/ap-top-news/abrego-garcia-a-salvadoran-mistakenly-deported-by-us-goes-to-spain-but-hopes-to-return-after-trump/",
+   "ts": "20261126T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "万斯 ： 黄仁勋未受调查 ， 没有任何犯罪证据 ， 根本不需要赦免",
+   "url": "https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzsii1420185.shtml",
+   "ts": "20261126T041500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Κούσνερ : Όλες οι επιλογές ανοιχτές για το Ιράν – Επιβεβαιώνει επαφές με Ιρανούς αξιωματούχους",
+   "url": "https://www.enikos.gr/international/kousner-oles-oi-epiloges-anoichtes-gia-to-iran-epivevaionei-epafes-me-iranous-axiomatouchous/2682824/",
+   "ts": "20261126T041500Z"
   }
  ]
 }

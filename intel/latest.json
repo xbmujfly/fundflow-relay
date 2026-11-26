@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-26T12:45:30Z",
+ "ts": "2026-11-26T13:00:33Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
   }
  },
  "items": [
@@ -341,12 +341,6 @@
   },
   {
    "src": "gnews",
-   "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNbWY3Z2hNLWJsb3dsYmdKakJjZEVaU21VaTV3WEFZV196bldhMGJEeUlFMHJlSjV2UHU5eFhrTS1BQldGTTdKemhscThySFJfLW55ZE1PUGpFeHN0bUtjaDR5MzNHZ3RVODBhU0IxTnBuNmdySG400gF8QVVfeXFMTkRUVDZGZkdHZ1VDMWpGcWtvc01hVlJwd0lwdDJUYU9OZXV2NjdYRFNTUmprbFRuWEkxd1lrOFJfR1NVbXE3S0dMMXBLNk9qTGlsSFBDVEtqYWxuOXc4WTMzUHFZTENRQlFLeDM3cldOTHpxVlYzR2NNRC1BcQ?oc=5",
-   "ts": "Thu, 26 Nov 2026 07:58:19 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals? - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWVQTU9Bem1UcHdtT2s5T005dlJvaDZfMTZ3aTQ1UHpDVUNMbERrRTFpQ0pKNFI0alRqWWp6ODBNYTJuSVNIX2JBMEpDRFh2RmlvYkNISXByQlJrR0dvb1BvQ0hxZmlPSXhtY3FfZjB6eUl0S0dtb2hxcHJwZ2U3X3ZudWpyMFRodlVackNmbU5DOVJENVhmS0s5bzQ2Z3BSMEdyZNIBqgFBVV95cUxPc2NjTE95RV9JMXdFTy1CdVNSdm1mRUt3cGxydjdid21HVFAza2pLcGRiY2FzOEUxeHhKNHZRcjdFeHRxQ0h5ZjYzZHRFWWhMSTFqSnJmVU9BNnB5WnB4VGpYN2Z3RU5vT24wVlhQeXpqYURoWnlXLW5QbXNvWS1DSzd5VGVNM0dPcnkyQkE1NEJCRlROejRDaE0tSXR0aXFYakJyMVNQYkRyZw?oc=5",
    "ts": "Thu, 26 Nov 2026 11:16:29 GMT"
@@ -356,6 +350,12 @@
    "title": "How Trump's proposed tariffs for India compare with rival nations - Reuters",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazJTSjI3dk40ZnhoM2ZJR2N2eXp0NUFoaWUxNUI4NW9wV19YWEtpd24tS0t5YnFHV2YzSkRmSXdiTnR6cjRuMTROY1d1VlQ2NUR3UjNNMUJkeU5XQVBOeUQ1VnVTQmtQU3BVOUNndHdyeUhvWDcxdmRHMGtheVJCREs4UzdCWS1VVDQwcmdQYWtILXltMHRhN1UxeTVtdGhuMFhpemlOdDRkLTB5?oc=5",
    "ts": "Thu, 26 Nov 2026 11:10:56 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNbWY3Z2hNLWJsb3dsYmdKakJjZEVaU21VaTV3WEFZV196bldhMGJEeUlFMHJlSjV2UHU5eFhrTS1BQldGTTdKemhscThySFJfLW55ZE1PUGpFeHN0bUtjaDR5MzNHZ3RVODBhU0IxTnBuNmdySG400gF8QVVfeXFMTkRUVDZGZkdHZ1VDMWpGcWtvc01hVlJwd0lwdDJUYU9OZXV2NjdYRFNTUmprbFRuWEkxd1lrOFJfR1NVbXE3S0dMMXBLNk9qTGlsSFBDVEtqYWxuOXc4WTMzUHFZTENRQlFLeDM3cldOTHpxVlYzR2NNRC1BcQ?oc=5",
+   "ts": "Thu, 26 Nov 2026 07:58:19 GMT"
   },
   {
    "src": "gnews",
@@ -371,15 +371,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump admin proposes new tariffs on China, EU and 12 other trading partners - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN3dSZHFTVnZVU1IxNk0ydWl4QjJTdUF3dTRuckhxSUNwMGI5enBLWEFyZHVGRGlILTN6OXNibmFnLVNWNGhBcFgtR2Vfd3hUX3Nmc0VjdnJvdEdERktyUnVKRW1tejhHLXVhY056YVFvbzR3Vy1wdGRPLWJYbm5EanBkdHJfdFRrQ2doTkh1SEkzTUVQMWZJ0gGcAUFVX3lxTE5NQ2dvX1lVT2Z3ZXUtUGgxcHdYMUE0VTZQZzNGd3V0amdGOEdMd2hWeEJYMl94dE9KUVRKY3pBQnJ2NzhNZTZQTXFPSjlqamtaenBiRE5FR1VvTEFCV2c1UXFoZk5YbHpsRzY0Z1Vmal9BZ3NxYjVOeXppMVJRd092STNQQjZZLUsxMmVDWWd4b2F4QkJ2ZTlPa1hJUw?oc=5",
-   "ts": "Wed, 25 Nov 2026 22:07:22 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China hits back at Trump tariff threat - Financial Times",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXdLemg3R0M0SkVKVUhMZHdsQmN0X2t0Tk9lYWY4RzFuYzhWUFFxVHQ0WUxkMDhnQTB4dEhoZDJvQ0gzUmhmelROQmRlS2kxdUpXTkI0TkxFM0pVMElQWlE4RmY2UE1UZjQyLUNtdmVJT3k5OE1xOXJvaURWU1hjZmN5anY?oc=5",
    "ts": "Thu, 26 Nov 2026 06:57:10 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump admin proposes new tariffs on China, EU and 12 other trading partners - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN3dSZHFTVnZVU1IxNk0ydWl4QjJTdUF3dTRuckhxSUNwMGI5enBLWEFyZHVGRGlILTN6OXNibmFnLVNWNGhBcFgtR2Vfd3hUX3Nmc0VjdnJvdEdERktyUnVKRW1tejhHLXVhY056YVFvbzR3Vy1wdGRPLWJYbm5EanBkdHJfdFRrQ2doTkh1SEkzTUVQMWZJ0gGcAUFVX3lxTE5NQ2dvX1lVT2Z3ZXUtUGgxcHdYMUE0VTZQZzNGd3V0amdGOEdMd2hWeEJYMl94dE9KUVRKY3pBQnJ2NzhNZTZQTXFPSjlqamtaenBiRE5FR1VvTEFCV2c1UXFoZk5YbHpsRzY0Z1Vmal9BZ3NxYjVOeXppMVJRd092STNQQjZZLUsxMmVDWWd4b2F4QkJ2ZTlPa1hJUw?oc=5",
+   "ts": "Wed, 25 Nov 2026 22:07:22 GMT"
   },
   {
    "src": "gnews",

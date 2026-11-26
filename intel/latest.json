@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-26T05:31:00Z",
+ "ts": "2026-11-26T05:45:55Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -364,15 +365,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN05tSHVLN1V3cFRSaUY1d0l6MGkyY1dhRnN6R08tWW5uSm91eXlXQ1VHXzhnMEZpNHQtR0QzYWI5NHlFcjg4bFBhN0ZyMXZZQU9oQUJlVzNwUERxRFFWQThTOXMzM1laQjQzSXNjeXNlUnNGT3Zv?oc=5",
-   "ts": "Wed, 25 Nov 2026 15:58:36 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters - CNBC",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCNEVmNUhlTHZVREEzZ01xdzYwNmpBWE1fNEk2WTlKREhuUWtqN2xsVnRTLWtWUkVGQ2d3UmFURW1ORUY1ZV9FV3V1YVpLa19jczZrS21YVWtYLXhBb0dSY2taSzVvWlR0djdYQWlBcjF6UdIBd0FVX3lxTE8xSVBVQVFIMm5qRmN0dDNJeE5XZEk5eVF3ZjgzaWZhUlZTWVhnWC1FLWtwZ3Q2UE5YSEtpalkxb1lidFZMWk1CMU9qa25OcURkdjkzRk4xdEoxdDl0ZEZhTVNzQUxSZFR2aXdXbm5CZE92X0pqaERJ?oc=5",
    "ts": "Thu, 26 Nov 2026 04:12:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN05tSHVLN1V3cFRSaUY1d0l6MGkyY1dhRnN6R08tWW5uSm91eXlXQ1VHXzhnMEZpNHQtR0QzYWI5NHlFcjg4bFBhN0ZyMXZZQU9oQUJlVzNwUERxRFFWQThTOXMzM1laQjQzSXNjeXNlUnNGT3Zv?oc=5",
+   "ts": "Wed, 25 Nov 2026 15:58:36 GMT"
   },
   {
    "src": "gnews",
@@ -457,126 +458,6 @@
    "title": "Could potential US tariffs put the US-China trade truce at risk? - South China Morning Post",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2c2Y1A4a095TUY0T21rYVAyV3k3a1VkS3Y0TTJEQll1RUxVZUR4MTViaUJZR2gzcUVpQ1NmQklkZnFWakNSMVMtYmpBVXBtdm1GaERwbUdTb0c5dUl1Z3BTWTd6Ny1Ld3ZqOFVVVXZJcW1jVThiSG4wYTZ0SDlFcGRDT295YUlQR2FCUzBfT0hycVZIOXdmbUx3R1hhdXhPcWVmTnEwWFhncVlPdHlLbGtQamdBRknSAbcBQVVfeXFMTUE4aUJvMXROQ2hGMVFRbkt5ZDZuNnBVMXdvdmphc3hWQk1DbjR1cVgtd2VBSWJObnY3OWNGeEVaQ2ZqRGRZbXp2RWpnek8yNFVIcERCMHVVbkdpV2x4OEdMYU9YOVdlYXJDZWZJVFhhaFUzWG5BR2FwR01MdHNyQVN6bEl6UGxmamdIZkFmZjdKdURCSFhtcVRDY053TU9pbWtQOFNXNEtuQjNPaUJreEVXQy1IVGVV?oc=5",
    "ts": "Wed, 25 Nov 2026 13:39:44 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "US tariffs : How trade partners are responding",
-   "url": "https://www.businesstimes.com.sg/singapore/economy-policy/us-tariffs-how-trade-partners-are-responding",
-   "ts": "20261126T044500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Growth Was Stronger Than We Thought , and Then October Came",
-   "url": "https://pjmedia.com/david-manney/2026/11/25/growth-was-stronger-than-we-thought-then-october-came-n4959719",
-   "ts": "20261126T044500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space . Scientists are skeptical",
-   "url": "https://www.khqa.com/news/nation-world/fcc-says-spacex-can-deploy-1-million-satellites-for-data-centers-in-space-scientists-are/article_26b17370-8247-54b6-a48a-758bdcdea4bc.html",
-   "ts": "20261126T044500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Vincenzo Italiano ilk 11 planını yaptı ! ",
-   "url": "https://www.fotomac.com.tr/besiktas/2026/11/26/tek-yol-zafer",
-   "ts": "20261126T044500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  ਨੋਟਿਸ ਦੀ ਜਾਂਚ ਜਾਰੀ , ਭਾਰਤ  ਤੇ 25 ਫ਼ੀਸਦੀ ਟੈਰਿਫ ਲਗਾਉਣ ਦੇ ਅਮਰੀਕੀ ਪ੍ਰਸਤਾਵ  ਤੇ ਬੋਲੀ ਸਰਕਾਰ - news national notice is under review india refutes trump threat of 25 percent tariffs",
-   "url": "https://www.punjabijagran.com/national/general-news-national-notice-is-under-review-india-refutes-trump-threat-of-25-percent-tariffs-9718976.html",
-   "ts": "20261126T044500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US - led consortium agrees to acquire assets from Russian oil company Lukoil",
-   "url": "http://www.stardem.com/ap/nation/us-led-consortium-agrees-to-acquire-assets-from-russian-oil-company-lukoil/article_61b54531-c5c5-55b4-8d35-9263874645ec.html",
-   "ts": "20261126T044500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Dautres tarifs pourront être indexés , dit Alain Therrien",
-   "url": "https://www.lhebdojournal.com/nouvelles-nationales/dautres-tarifs-pourront-etre-indexes-dit-alain-therrien/",
-   "ts": "20261126T044500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Трамп знайшов причину обвалу фондового ринку США та пояснив , до чого тут його відсутність у виборчих бюлетенях",
-   "url": "https://unn.ua/news/tramp-znaishov-prychynu-obvalu-fondovoho-rynku-ssha-ta-poiasnyv-do-choho-tut-yoho-vidsutnist-u-vyborchykh-biuleteniakh",
-   "ts": "20261126T044500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Too Much , Too Little : Bangladesh Wage Hike Pleases No One",
-   "url": "https://wwd.com/sourcing-journal/sustainability/bangladesh-minimum-wage-increase-garment-workers-1239466520/",
-   "ts": "20261126T044500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "美军方数月未报弹药厂险情 特朗普愤怒 十余机构紧急介入处置",
-   "url": "https://original.ifeng.com/c/8yMd5J9n6fv",
-   "ts": "20261126T044500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Eldridge group agrees to buy Lukoil international assets",
-   "url": "https://www.inquisitr.com/eldridge-lukoil-assets-purchase/",
-   "ts": "20261126T044500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "AI svěřujeme i to , co jinak před ostatními skrýváme , říká Tereza Fridrichovská",
-   "url": "https://www.denik.cz/podnikani/tereza-fridrichovska-expertka-technologie-it-leaders/",
-   "ts": "20261126T044500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Nouveau droits de douane américains : les pays visés sindignent",
-   "url": "https://www.guadeloupe.franceantilles.fr/actualite/international/nouveau-droits-de-douane-americains-les-pays-vises-sindignent-1100932.php",
-   "ts": "20261126T044500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Mortgage rates dip , but homebuyers are paying $325 more a month on average",
-   "url": "https://www.aol.com/articles/mortgage-rates-dip-homebuyers-paying-035020000.html",
-   "ts": "20261126T044500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Judge blocks FCC early review of ABC licenses , citing likely First Amendment violation",
-   "url": "https://abc3340.com/news/nation-world/judge-blocks-federal-communications-commissions-early-review-of-abc-news-broadcast-licenses-citing-likely-first-amendment-violation-trump-administration-free-speech-legal-law-retaliation",
-   "ts": "20261126T044500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Judge Blocks FCC From Revoking ABC Broadcast Licenses",
-   "url": "https://1190talkradio.iheart.com/content/2026-11-26-judge-blocks-fcc-from-revoking-abc-broadcast-licenses/",
-   "ts": "20261126T044500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space . Scientists are skeptical",
-   "url": "https://www.ukiahdailyjournal.com/2026/11/25/spacex-fcc-data-centers/",
-   "ts": "20261126T044500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "特朗普女婿库什纳盛赞普京 ： 他绝对是政治大师 ， 能够留名历史 ； 反指欧洲态度虚伪 ： 在这场战争中支付给俄罗斯的钱比给乌克兰的还要多",
-   "url": "https://www.163.com/dy/article/LCLJGBDJ053469LG.html",
-   "ts": "20261126T044500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "EEUU anuncia nuevos aranceles contra China , Japón y la UE y otras 11 economías",
-   "url": "https://www.lostiempos.com/actualidad/mundo/20261125/eeuu-anuncia-nuevos-aranceles-contra-china-japon-ue-otras-11-economias",
-   "ts": "20261126T044500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Διαβεβαιώσεις Πούτιν στον Τραμπ για μη χρήση πυρηνικών όπλων – Τι αποκάλυψε ο Κούσνερ",
-   "url": "https://www.inewsgr.com/227/diavevaioseis-poutin-ston-trab-gia-mi-chrisi-pyrinikon-oplon--ti-apokalypse-o-kousner.htm",
-   "ts": "20261126T044500Z"
   }
  ]
 }

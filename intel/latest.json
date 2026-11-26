@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-26T11:45:31Z",
+ "ts": "2026-11-26T12:00:33Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
   }
  },
  "items": [
@@ -355,19 +355,19 @@
    "src": "gnews",
    "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals? - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWVQTU9Bem1UcHdtT2s5T005dlJvaDZfMTZ3aTQ1UHpDVUNMbERrRTFpQ0pKNFI0alRqWWp6ODBNYTJuSVNIX2JBMEpDRFh2RmlvYkNISXByQlJrR0dvb1BvQ0hxZmlPSXhtY3FfZjB6eUl0S0dtb2hxcHJwZ2U3X3ZudWpyMFRodlVackNmbU5DOVJENVhmS0s5bzQ2Z3BSMEdyZNIBqgFBVV95cUxPc2NjTE95RV9JMXdFTy1CdVNSdm1mRUt3cGxydjdid21HVFAza2pLcGRiY2FzOEUxeHhKNHZRcjdFeHRxQ0h5ZjYzZHRFWWhMSTFqSnJmVU9BNnB5WnB4VGpYN2Z3RU5vT24wVlhQeXpqYURoWnlXLW5QbXNvWS1DSzd5VGVNM0dPcnkyQkE1NEJCRlROejRDaE0tSXR0aXFYakJyMVNQYkRyZw?oc=5",
-   "ts": "Thu, 26 Nov 2026 11:16:29 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China hits back at Trump tariff threat - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXdLemg3R0M0SkVKVUhMZHdsQmN0X2t0Tk9lYWY4RzFuYzhWUFFxVHQ0WUxkMDhnQTB4dEhoZDJvQ0gzUmhmelROQmRlS2kxdUpXTkI0TkxFM0pVMElQWlE4RmY2UE1UZjQyLUNtdmVJT3k5OE1xOXJvaURWU1hjZmN5anY?oc=5",
-   "ts": "Thu, 26 Nov 2026 06:57:10 GMT"
+   "ts": "Thu, 26 Nov 2026 11:10:46 GMT"
   },
   {
    "src": "gnews",
    "title": "Trump proposes new tariffs on China, Europe and other trade partners - The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRG9IZXZjbjBEQ2tzam5pT0FPZWNFc2hac3ZURjRUaTJITlQwQmt4RElZVGlnM0luQndHeXdRaGRwTUVVbHVqQlcyZC01OC1adzBLT3JWWlNadmw2N01zR3JZT1VwWG1mVVNaSkNUSWExNTlYRWtCejNRUE1KSXk0TFpjaUt5X0Z4LUFLMzB1c3QtRXNpUVc5UzNMeHY4d2paMjVEVGpveFlpM1BvZWRlZzFR?oc=5",
    "ts": "Thu, 26 Nov 2026 01:24:25 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China hits back at Trump tariff threat - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXdLemg3R0M0SkVKVUhMZHdsQmN0X2t0Tk9lYWY4RzFuYzhWUFFxVHQ0WUxkMDhnQTB4dEhoZDJvQ0gzUmhmelROQmRlS2kxdUpXTkI0TkxFM0pVMElQWlE4RmY2UE1UZjQyLUNtdmVJT3k5OE1xOXJvaURWU1hjZmN5anY?oc=5",
+   "ts": "Thu, 26 Nov 2026 06:57:10 GMT"
   },
   {
    "src": "gnews",
@@ -395,6 +395,12 @@
   },
   {
    "src": "gnews",
+   "title": "Trump administration proposes new tariffs on goods from major U.S. trading partners - NPR",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOREtlV1RacXpWTkdMNzV4SnY0ZEx2ejd0MDRnbng3Sm1pYm9Tb0lSZ3NrbWF0T2JrTEFpWXRvMHRkSXNqR2lUZENfQnFUTkxnSW8yWjBUVjAxYnRBVzAtaENqUl9RdnNXcWZFUzRMLTZ0X3pXS1Z1MTJVUE9aRnVWU1Z1cFRkY1BqRVhWRUZqUHd4VlVzbVRrY095MHJ0X3YyQ2NYSUYxWG1wdDladUxiQlVzbk9ub0xBdFhGZGpoSHNnUi1ZNlE?oc=5",
+   "ts": "Thu, 26 Nov 2026 11:43:47 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "New Tariffs on China Risk Undermining Trade Truce With U.S. - WSJ",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUcwQ3JjLUlNWjhSZnFuYWMzVEFGd0RMR2lZT2VmWUdBejNHckpxbWFSb0lsTUNuTzktdm9qTk94eTgxMXFRQkplOTdZZkFDSEVaUkVZcWFfb1lEMTNEVzFHd013bXhoRFU4ajZjOTB0UXFhM1FacVliRVdqcFY5dG11UURVYmFZang5ZEpaZEVCazhBMjFz?oc=5",
    "ts": "Thu, 26 Nov 2026 08:42:00 GMT"
@@ -407,15 +413,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN05tSHVLN1V3cFRSaUY1d0l6MGkyY1dhRnN6R08tWW5uSm91eXlXQ1VHXzhnMEZpNHQtR0QzYWI5NHlFcjg4bFBhN0ZyMXZZQU9oQUJlVzNwUERxRFFWQThTOXMzM1laQjQzSXNjeXNlUnNGT3Zv?oc=5",
-   "ts": "Wed, 25 Nov 2026 15:58:36 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "How Trump's newest tariffs could impact Americans and the economy - PBS",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV3QyRGktREcxdDFwR0lJdlo4VWZtVlFZamtGcnpscFJTZU5fYm56bURqV214SHEyc1ZwWHB2Ti1kWVJOaHlKRWxfTGU1S3hrWUJUWG5oN05nOU94M1hnM01MeHRHWTdhTl9lTU5ta1BTNF85a2pDcnlMTmFNUU41TVlvRWp5VVctQjRyRlk4UXlsOGxUai0tS1VlRi1nSzg?oc=5",
    "ts": "Wed, 25 Nov 2026 23:50:40 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
+   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
   },
   {
    "src": "gnews",
@@ -425,9 +431,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless - The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYUJrQ3VzcUs4NmJmXzMtVmx0dUYzaUZ0ZGw0MUM2X29UdG83c2Z1d2ZRR1JIQVYzbC1BQlA5NzgwUnFJUERLTG81aHd1WmptOU43UjFaekpVWGFFeDJtQUtybnpoNUVsUTdYbDV3MF9MME1hN2hvWl9BQ1U4NUd4NmZwR1FlTXBhckdUQTE1c21JMFR5ZHlOQWtR?oc=5",
-   "ts": "Thu, 26 Nov 2026 03:54:00 GMT"
+   "title": "Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN05tSHVLN1V3cFRSaUY1d0l6MGkyY1dhRnN6R08tWW5uSm91eXlXQ1VHXzhnMEZpNHQtR0QzYWI5NHlFcjg4bFBhN0ZyMXZZQU9oQUJlVzNwUERxRFFWQThTOXMzM1laQjQzSXNjeXNlUnNGT3Zv?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:17:38 GMT"
   },
   {
    "src": "gnews",
@@ -446,12 +452,6 @@
    "title": "Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’ - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalFybkwxanpDZHdLeGlnSHN6dTBsUnoxS0Zrc3FjaDJ1ZDhGS3Y4Y09qRnNEMmhMazJfeXRlMVdnNy1RM2RoenR0VDlCOWpfZTdWME5pY19lcFlkbzIzUDgwYkN0RXVlcTRET0dEMGNpUnFUcnhkUDQ0a1dzZGpzaXByMnRvTGFMQlZZRVlMOHlBdDRfNUV2VlBPZklRdmFyeTZRWC1lZGdGX1R4MmdGRU1R?oc=5",
    "ts": "Thu, 26 Nov 2026 08:42:23 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
-   "ts": "Wed, 25 Nov 2026 13:15:00 GMT"
   },
   {
    "src": "gnews",

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-27T00:45:34Z",
+ "ts": "2026-11-27T01:00:31Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
   }
  },
  "items": [
@@ -358,15 +359,15 @@
   },
   {
    "src": "gnews",
-   "title": "How Trump's proposed tariffs for India compare with rival nations - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazJTSjI3dk40ZnhoM2ZJR2N2eXp0NUFoaWUxNUI4NW9wV19YWEtpd24tS0t5YnFHV2YzSkRmSXdiTnR6cjRuMTROY1d1VlQ2NUR3UjNNMUJkeU5XQVBOeUQ1VnVTQmtQU3BVOUNndHdyeUhvWDcxdmRHMGtheVJCREs4UzdCWS1VVDQwcmdQYWtILXltMHRhN1UxeTVtdGhuMFhpemlOdDRkLTB5?oc=5",
-   "ts": "Thu, 26 Nov 2026 11:10:56 GMT"
+   "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWdwNl9jTnFFSS10Z3BXNVZOWjR6N3ItM3d4MHhIcXZ1TGtyQS03UUV4a0FuYVdMd3FaZ0VVQ09QUTl6d3RDU1RJQW1fcVM3aGZMWURHanZmN3BQanNhT1FVa3Fwb0pUYmtmb3poMm5ZZ0gwelVieGVOQUozVHlXYlkxV1Q4azV5MlNfbEw1T1lSbnFyNndwNjlWUDVBWGFjZkZiUVJLY1dRcU9PU1QwQUZ4V2lnZ3IwNTNGcXMwQldueE5fVWc?oc=5",
+   "ts": "Thu, 26 Nov 2026 23:52:48 GMT"
   },
   {
    "src": "gnews",
-   "title": "Why Trump’s Trade War May Benefit Canada in the Long Run - Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUUpCVmZTdFlpRHVKQUMtR3VjUXRxUXprOFlFanpJa0xrY1FqRGVnMjlnOG00TkhVdmt1elBLUmJ5dUZGMVNnV0FsUlJnS3lHdlFkYWROWGktUjVTT19fZVV1NFp5eEhXdlU0NWtOLXpQakdnYXlyRXlMUWVwMTFFX0laeVl1MXNyaUJSU0VKaFdVcVpNTHVUWHB1T3RrTURDN3JmelRYTHR6cXc?oc=5",
-   "ts": "Thu, 26 Nov 2026 22:22:43 GMT"
+   "title": "How Trump's proposed tariffs for India compare with rival nations - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazJTSjI3dk40ZnhoM2ZJR2N2eXp0NUFoaWUxNUI4NW9wV19YWEtpd24tS0t5YnFHV2YzSkRmSXdiTnR6cjRuMTROY1d1VlQ2NUR3UjNNMUJkeU5XQVBOeUQ1VnVTQmtQU3BVOUNndHdyeUhvWDcxdmRHMGtheVJCREs4UzdCWS1VVDQwcmdQYWtILXltMHRhN1UxeTVtdGhuMFhpemlOdDRkLTB5?oc=5",
+   "ts": "Thu, 26 Nov 2026 11:10:56 GMT"
   },
   {
    "src": "gnews",
@@ -400,33 +401,21 @@
   },
   {
    "src": "gnews",
-   "title": "China hits back at Trump tariff threat - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXdLemg3R0M0SkVKVUhMZHdsQmN0X2t0Tk9lYWY4RzFuYzhWUFFxVHQ0WUxkMDhnQTB4dEhoZDJvQ0gzUmhmelROQmRlS2kxdUpXTkI0TkxFM0pVMElQWlE4RmY2UE1UZjQyLUNtdmVJT3k5OE1xOXJvaURWU1hjZmN5anY?oc=5",
-   "ts": "Thu, 26 Nov 2026 08:19:05 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "US traders fear proposed tariffs on China may weigh on farm trade - S&P Global",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMU11aWxHdGl0T1B2akFxaTV2Z1d3Vkd1clhiS3NJVU5kakNKMGFqZjZWRnZMUkJDOGxYMktLcnlsU3NGQkFKTHZkS1VjWmt4Y1V6VkdQTC1HMHdqS21LcGMtVk00d2dGaHRJSGxBNjFBTC1kQUJvNlhPRjJ3cWVHcnNza0YxcVdPbjBaLVlJa2oxRHBCMlpqaHZmUnppSE1uSmRmYlh2SUdsZkdoTndjQlNsTjVnTWV6Z3RwVTJJNDRQcVg0S01jN2txRTZzRVRSTGpLbDd6bGkyODBidWc?oc=5",
    "ts": "Thu, 26 Nov 2026 16:55:06 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump proposes new tariffs on China, Europe and other trade partners - The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRG9IZXZjbjBEQ2tzam5pT0FPZWNFc2hac3ZURjRUaTJITlQwQmt4RElZVGlnM0luQndHeXdRaGRwTUVVbHVqQlcyZC01OC1adzBLT3JWWlNadmw2N01zR3JZT1VwWG1mVVNaSkNUSWExNTlYRWtCejNRUE1KSXk0TFpjaUt5X0Z4LUFLMzB1c3QtRXNpUVc5UzNMeHY4d2paMjVEVGpveFlpM1BvZWRlZzFR?oc=5",
-   "ts": "Thu, 26 Nov 2026 01:24:25 GMT"
+   "title": "Why Trump’s Trade War May Benefit Canada in the Long Run - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUUpCVmZTdFlpRHVKQUMtR3VjUXRxUXprOFlFanpJa0xrY1FqRGVnMjlnOG00TkhVdmt1elBLUmJ5dUZGMVNnV0FsUlJnS3lHdlFkYWROWGktUjVTT19fZVV1NFp5eEhXdlU0NWtOLXpQakdnYXlyRXlMUWVwMTFFX0laeVl1MXNyaUJSU0VKaFdVcVpNTHVUWHB1T3RrTURDN3JmelRYTHR6cXc?oc=5",
+   "ts": "Thu, 26 Nov 2026 22:22:43 GMT"
   },
   {
    "src": "gnews",
    "title": "Status of Asian nations' trade talks with Trump - Reuters",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3BlMEIyV0IyWU0zTE1xSllodC1Lc1E0VThIaGIxanBOX29CZ1c0alNwOFFXS2VCUWlhTUd4Ylp3TXIyOTZCOVYxMFVYazlPZmd1XzJvdWJkczkzLVl3MkJjMXA0SHNDNnAtMmMxTHplRnRLVTJCdnZQVzNfcVZyODlCQzZPZk02YUd5RDR2bExtdw?oc=5",
    "ts": "Thu, 26 Nov 2026 12:25:47 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Watch How Canada May Be Winning Trump’s Trade War - Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNzJ3STJlSnpxSTZLaWJfNFoxazBkSGpTUFhJMmd3d1JjUDNMZVNMUmRWRUxQYXZ4OU9uemhoSmNwQ1ZqYTZ0d2pnTUltY3g5aUZUSXBMZzZYYTdsbHAteDEyYnlMYTNMY1NfYW0xZGlUVkV3cURQd3dsZ3ppbDNfX3lqRjNuemVPTTZyTEsxVEotRk5sMzFtQ3V5UnkzY28?oc=5",
-   "ts": "Thu, 26 Nov 2026 22:04:18 GMT"
   },
   {
    "src": "gnews",
@@ -442,9 +431,15 @@
   },
   {
    "src": "gnews",
-   "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On - Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWdwNl9jTnFFSS10Z3BXNVZOWjR6N3ItM3d4MHhIcXZ1TGtyQS03UUV4a0FuYVdMd3FaZ0VVQ09QUTl6d3RDU1RJQW1fcVM3aGZMWURHanZmN3BQanNhT1FVa3Fwb0pUYmtmb3poMm5ZZ0gwelVieGVOQUozVHlXYlkxV1Q4azV5MlNfbEw1T1lSbnFyNndwNjlWUDVBWGFjZkZiUVJLY1dRcU9PU1QwQUZ4V2lnZ3IwNTNGcXMwQldueE5fVWc?oc=5",
-   "ts": "Thu, 26 Nov 2026 22:21:40 GMT"
+   "title": "Watch How Canada May Be Winning Trump’s Trade War - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNzJ3STJlSnpxSTZLaWJfNFoxazBkSGpTUFhJMmd3d1JjUDNMZVNMUmRWRUxQYXZ4OU9uemhoSmNwQ1ZqYTZ0d2pnTUltY3g5aUZUSXBMZzZYYTdsbHAteDEyYnlMYTNMY1NfYW0xZGlUVkV3cURQd3dsZ3ppbDNfX3lqRjNuemVPTTZyTEsxVEotRk5sMzFtQ3V5UnkzY28?oc=5",
+   "ts": "Thu, 26 Nov 2026 22:04:18 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Mexico urges Asian trade partners to crack down on tariff dodging - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHhmUFduZ0tRbWFBQ2xIRmtIZDU0S012anU5bEx3SGVzOXVmV1JkNGxIZkNXV0RYTWJlNEVqUTFoS0tnQ1QtcXI0bVlJT25XQ1Y4TFZvczVTbTFPWTc3eUF6MzF6M0swR3JYTGR0ZjNwZVhhb2dWUjNBSjBod1ZfWU4zajFXMnBYUU1YY3pNQXNDWlRQa2VILWVJc25tcnJpV3ljRW95RjViUXM?oc=5",
+   "ts": "Thu, 26 Nov 2026 17:09:43 GMT"
   },
   {
    "src": "gnews",
@@ -454,129 +449,15 @@
   },
   {
    "src": "gnews",
+   "title": "Trump Aims to Keep Leverage Over Xi With 40% China Tariff Threat - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcTVMWExHUXNZQS1TWHdON1BLSjgydFhicUlOeWo0dXZ4cVBxYm4zUk9ydG5YXy1oNlVNMDB4TlU1ZjRoaDdGMlJieE5XSlJsenNFZ3ZDWGtvVEt0V0IyaGNwRnYyRGNJdXlBaGs0MEdsUjhPZ1FwNFV2NlVfZ21Ldk9DLTk3Wk1lWF9FenVEZHdselN5X2ktUHItdUpMZVM4eldXMnNiM2pqWExNMUotWGdjYw?oc=5",
+   "ts": "Thu, 26 Nov 2026 08:41:53 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN05tSHVLN1V3cFRSaUY1d0l6MGkyY1dhRnN6R08tWW5uSm91eXlXQ1VHXzhnMEZpNHQtR0QzYWI5NHlFcjg4bFBhN0ZyMXZZQU9oQUJlVzNwUERxRFFWQThTOXMzM1laQjQzSXNjeXNlUnNGT3Zv?oc=5",
    "ts": "Wed, 25 Nov 2026 15:58:36 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Democratic majorities vow to take on political corruption . How will they do it ? ",
-   "url": "https://cnycentral.com/news/nation-world/democratic-majorities-vow-to-take-on-political-corruption-how-will-they-do-it-trump-white-house",
-   "ts": "20261127T001500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Strobe Talbott , former Time magazine reporter and deputy secretary of state , has died",
-   "url": "https://www.koat.com/article/strobe-talbott-time-magazine-deputy-secretary-of-state-died/74543858",
-   "ts": "20261127T001500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  He cant be a friend : Zelenskyy calls Trump Putin bonhomie  strange ; questions support for Ukraine",
-   "url": "https://timesofindia.indiatimes.com/world/europe/he-cant-be-a-friend-zelensky-calls-trumps-putin-bonhomie-strange-questions-support-for-ukraine/articleshow/136205617.cms",
-   "ts": "20261127T001500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "New trade war could be brewing following tariff proposal",
-   "url": "https://cnycentral.com/news/nation-world/new-trade-war-could-be-brewing-following-tariff-proposal-china-eu-india-japan",
-   "ts": "20261127T001500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Трамп закликав Україну та Росію уникати ескалації війни Політика",
-   "url": "https://tsn.ua/politika/tramp-pidstavyv-riutte-pislia-zustrichi-u-florydi-zminyv-spilnu-zaiavu-i-vpysav-tudy-ukrayinu-3228123.html",
-   "ts": "20261127T001500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Threatened Prison For Sending Evidence To The Hague - By Fransiscus Nanga Roka",
-   "url": "https://www.opinionnigeria.com/trump-threatened-prison-for-sending-evidence-to-the-hague-by-fransiscus-nanga-roka/",
-   "ts": "20261127T001500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Suspect Detained Over Kharkiv Army Major Killing , SBU Alleges Russian Contract",
-   "url": "https://www.kyivpost.com/post/91334",
-   "ts": "20261127T001500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  He cant be a friend : Zelenskyy calls Trump Putin bonhomie  strange ; questions support for Ukraine",
-   "url": "https://timesofindia.indiatimes.com/world/europe/he-cant-be-a-friend-zelensky-calls-trumps-putin-bonhomie-strange/articleshow/136205617.cms",
-   "ts": "20261127T001500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space . Scientists are skeptical",
-   "url": "https://abc7.com/post/fcc-says-spacex-can-deploy-1-million-satellites-data-centers-space-scientists-are-skeptical/20087081/",
-   "ts": "20261127T001500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Adds Ukraine to NATO Escalation Warning",
-   "url": "https://www.kyivpost.com/post/91339",
-   "ts": "20261127T001500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Thanksgiving Message Targets Opponents",
-   "url": "https://1190talkradio.iheart.com/content/2026-11-26-trumps-thanksgiving-message-targets-opponents/",
-   "ts": "20261127T001500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Thanksgiving Message Targets Opponents",
-   "url": "https://newstalk1230.iheart.com/content/2026-11-26-trumps-thanksgiving-message-targets-opponents/",
-   "ts": "20261127T001500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "A new Congress is coming . What does it mean for employers ? ",
-   "url": "https://www.hcamag.com/us/specialization/employment-law/a-new-congress-is-coming-what-does-it-mean-for-employers/599031",
-   "ts": "20261127T001500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Majority of University of Michigan faculty vote in support of pro - Palestine students facing charges",
-   "url": "https://www.middleeasteye.net/news/majority-university-michigan-faculty-vote-support-pro-palestine-students-facing",
-   "ts": "20261127T001500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "If Canada Can Build Fighter Jets , Why Cant We Build Our Own Cars ? : The Canadian Business Daily",
-   "url": "https://www.agoracosmopolitan.com/news/business/2026/11/26/15170-if-canada-can-build-fighter-jets-why-cant-we-build-our-own-cars.html",
-   "ts": "20261127T001500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Zelensky Says He Will Seek More Military Aid From New Dem - Controlled Congress",
-   "url": "http://www.zerohedge.com/geopolitical/zelensky-says-he-will-seek-more-military-aid-new-dem-controlled-congress",
-   "ts": "20261127T001500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Is the AI Boom Built on Shaky Ground ? ",
-   "url": "https://afr.net/podcasts/a-disciples-view-with-todd-herman/2026/november/is-the-ai-boom-built-on-shaky-ground/",
-   "ts": "20261127T001500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Tỷ giá USD hôm nay ( 27 - 11 ): Đồng USD giao dịch ngay dưới mức cao nhất trong năm nay",
-   "url": "https://baomoi.com/ty-gia-usd-hom-nay-27-11-dong-usd-giao-dich-ngay-duoi-muc-cao-nhat-trong-nam-nay-c56610420.epi",
-   "ts": "20261127T001500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "טראמפ : ״ נותנים לאיראן כל הזדמנות להגיע להסכם ״ ",
-   "url": "https://www.walla.co.il:443/news/breaking-news/383963351",
-   "ts": "20261127T001500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "TRADE WARNING : China Threatens Countermeasures Over New Trump Tariff Proposal",
-   "url": "https://www.theyeshivaworld.com/news/general/2628833/trade-warning-china-threatens-countermeasures-over-new-trump-tariff-proposal.html",
-   "ts": "20261127T001500Z"
   }
  ]
 }

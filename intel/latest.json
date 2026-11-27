@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-27T23:30:28Z",
+ "ts": "2026-11-27T23:45:29Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -376,15 +377,15 @@
   },
   {
    "src": "gnews",
-   "title": "Economist labels Trump ‘the biggest loser of any president’ as he shreds key trade policy - The Independent",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1A2WEI5V01wUTVEel9FRTFkRG55MklaTHBZWTdvVHBsZG1EVjhiVUZaZFJBNVByWXRyeVA4TFQ5R0xJemlvQ25zZGEwSlQ4VVV1T2lFbHlVNHZFbFhEOFByZE5OX2MyeTl3VzU0d0RIUnRMOV9yQ1EzTVFOLWFfVWxsaVFVdjd6WVo5TF8xdnlBejRyaVhHMDZOdDFRcDEyWTFXbkdoSEdtNUM4ZUtfNXhmeU5YbGFrZEJXaVQtNA?oc=5",
-   "ts": "Fri, 27 Nov 2026 21:16:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Why Trump’s newest tariffs could stick - Atlantic Council",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVkpGMkxqSGRGRTJWU3hIQVZHdW1SdTNBUGtFdmZlV1lPR0tGTERCcFBNdjhTWmxFeWs0dzZpakI1dGxQbUZndUthWXZFQno0aVlNU180QXJtSm5OQXNPWUQtUDlGRWZjWndHbnRuX0FiTnlKMkNJRVhtSWpKcFQ3a1h3TzZ1MTdLV2hLdUxYNEZOcXRDTUZhUUtfbmtiTkcxaFZSTjR5dw?oc=5",
    "ts": "Wed, 25 Nov 2026 18:57:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Economist labels Trump ‘the biggest loser of any president’ as he shreds key trade policy - The Independent",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1A2WEI5V01wUTVEel9FRTFkRG55MklaTHBZWTdvVHBsZG1EVjhiVUZaZFJBNVByWXRyeVA4TFQ5R0xJemlvQ25zZGEwSlQ4VVV1T2lFbHlVNHZFbFhEOFByZE5OX2MyeTl3VzU0d0RIUnRMOV9yQ1EzTVFOLWFfVWxsaVFVdjd6WVo5TF8xdnlBejRyaVhHMDZOdDFRcDEyWTFXbkdoSEdtNUM4ZUtfNXhmeU5YbGFrZEJXaVQtNA?oc=5",
+   "ts": "Fri, 27 Nov 2026 21:16:00 GMT"
   },
   {
    "src": "gnews",
@@ -436,9 +437,9 @@
   },
   {
    "src": "gnews",
-   "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals? - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWVQTU9Bem1UcHdtT2s5T005dlJvaDZfMTZ3aTQ1UHpDVUNMbERrRTFpQ0pKNFI0alRqWWp6ODBNYTJuSVNIX2JBMEpDRFh2RmlvYkNISXByQlJrR0dvb1BvQ0hxZmlPSXhtY3FfZjB6eUl0S0dtb2hxcHJwZ2U3X3ZudWpyMFRodlVackNmbU5DOVJENVhmS0s5bzQ2Z3BSMEdyZNIBqgFBVV95cUxPc2NjTE95RV9JMXdFTy1CdVNSdm1mRUt3cGxydjdid21HVFAza2pLcGRiY2FzOEUxeHhKNHZRcjdFeHRxQ0h5ZjYzZHRFWWhMSTFqSnJmVU9BNnB5WnB4VGpYN2Z3RU5vT24wVlhQeXpqYURoWnlXLW5QbXNvWS1DSzd5VGVNM0dPcnkyQkE1NEJCRlROejRDaE0tSXR0aXFYakJyMVNQYkRyZw?oc=5",
-   "ts": "Thu, 26 Nov 2026 11:16:29 GMT"
+   "title": "Trump announces new trade tariffs: Which countries are affected? - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEJUV292VEZ6TjdJalc2UkRBWGVDaUVVa1ZyMFZGbE5kakN2VTA2bnNuSUFsNVJSZE9jMTdnVDFEZExLbEhLcy1oTHRkbV9GYzdzV05vREFrNXM5RWRTS1lGdTZzMUhTQzRoQ2FqNW9oakZNT0l0R3RyTjZrMkZkeDlKVjFiaFB2a09wRWp4Q050eXNib1M1U3hLNndVQW12cE9KbFBtYWRyaGJj0gGyAUFVX3lxTE1zaEVXa2ZXOGhyOHJ1Yk1SSENISGhHZVpwekNrMGpkaENvVTNuT1lmN01ESWZSeUVCelJKbGlEV203eWRXLTdjRGU3Ny1vOG85OVBOSklDN1dPRWdpSHRrQ2JmWlNxR2FNYTF4V19mRjhPemsxcnJsZkJqU2haVkRoNzNkdFFRdkI5YzRRcVBVbV9VUzRmVFdPaThCQVNHTXdxaGFkVmJJLWNMOXRqZzN5UXc?oc=5",
+   "ts": "Wed, 25 Nov 2026 15:00:52 GMT"
   },
   {
    "src": "gnews",
@@ -448,135 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump announces new trade tariffs: Which countries are affected? - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEJUV292VEZ6TjdJalc2UkRBWGVDaUVVa1ZyMFZGbE5kakN2VTA2bnNuSUFsNVJSZE9jMTdnVDFEZExLbEhLcy1oTHRkbV9GYzdzV05vREFrNXM5RWRTS1lGdTZzMUhTQzRoQ2FqNW9oakZNT0l0R3RyTjZrMkZkeDlKVjFiaFB2a09wRWp4Q050eXNib1M1U3hLNndVQW12cE9KbFBtYWRyaGJj0gGyAUFVX3lxTE1zaEVXa2ZXOGhyOHJ1Yk1SSENISGhHZVpwekNrMGpkaENvVTNuT1lmN01ESWZSeUVCelJKbGlEV203eWRXLTdjRGU3Ny1vOG85OVBOSklDN1dPRWdpSHRrQ2JmWlNxR2FNYTF4V19mRjhPemsxcnJsZkJqU2haVkRoNzNkdFFRdkI5YzRRcVBVbV9VUzRmVFdPaThCQVNHTXdxaGFkVmJJLWNMOXRqZzN5UXc?oc=5",
-   "ts": "Wed, 25 Nov 2026 15:00:52 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump admin proposes new tariffs on China, EU and 12 other trading partners - ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN3dSZHFTVnZVU1IxNk0ydWl4QjJTdUF3dTRuckhxSUNwMGI5enBLWEFyZHVGRGlILTN6OXNibmFnLVNWNGhBcFgtR2Vfd3hUX3Nmc0VjdnJvdEdERktyUnVKRW1tejhHLXVhY056YVFvbzR3Vy1wdGRPLWJYbm5EanBkdHJfdFRrQ2doTkh1SEkzTUVQMWZJ0gGcAUFVX3lxTE5NQ2dvX1lVT2Z3ZXUtUGgxcHdYMUE0VTZQZzNGd3V0amdGOEdMd2hWeEJYMl94dE9KUVRKY3pBQnJ2NzhNZTZQTXFPSjlqamtaenBiRE5FR1VvTEFCV2c1UXFoZk5YbHpsRzY0Z1Vmal9BZ3NxYjVOeXppMVJRd092STNQQjZZLUsxMmVDWWd4b2F4QkJ2ZTlPa1hJUw?oc=5",
    "ts": "Wed, 25 Nov 2026 22:07:22 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "Fury in Congress over Huang reinstatement as lawmakers move forward with hearings",
-   "url": "https://www.whec.com/ap-top-news/fury-in-congress-over-huangs-reinstatement-as-lawmakers-move-forward-with-hearings/",
-   "ts": "20261127T224500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Objavljujemo koliko je stotina milijuna eura Hrvatska dala za Ukrajinu",
-   "url": "https://www.index.hr/vijesti/clanak/eu-se-svadja-oko-milijardi-za-ukrajinu-objavljujemo-koliko-je-dala-hrvatska/2861809.aspx?index_ref=homepage_comment_box_d&commentId=12592288",
-   "ts": "20261127T224500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " « Συνήγορος της Ρωσίας »: Οργή σε Κίεβο και Ευρώπη για τις δηλώσεις Κούσνερ υπέρ του Πούτιν",
-   "url": "https://www.skai.gr/news/world/synigoros-tis-rosias-orgi-se-kievo-kai-eyropi-gia-tis-diloseis-kousner-yper-tou-poutin",
-   "ts": "20261127T224500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump backs Iraqi PM al - Zaidi efforts to",
-   "url": "http://www.middleeaststar.com/news/279468284/trump-backs-iraqi-pm-al-zaidi-efforts-to-assert-state-authority-throughout-iraq-to-curb-oil-smuggling-end-corruption",
-   "ts": "20261127T224500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Objavljujemo koliko je stotina milijuna eura Hrvatska dala za Ukrajinu",
-   "url": "https://www.index.hr/vijesti/clanak/eu-se-svadja-oko-milijardi-za-ukrajinu-objavljujemo-koliko-je-dala-hrvatska/2861809.aspx?index_ref=homepage_comment_box_d&commentId=12592310",
-   "ts": "20261127T224500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US military says it disabled another ship that tried to breach naval blockade on Iranian ports - WSVN 7News | Miami News , Weather , Sports",
-   "url": "https://wsvn.com/news/us-world/us-military-disables-iranian-blockade-vessel/",
-   "ts": "20261127T224500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " [ ED ] Reinstating Huang was premature - The Korea Times",
-   "url": "https://www.koreatimes.co.kr/opinion/editorial/20261127/ed-reinstating-huang-was-premature",
-   "ts": "20261127T224500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Army deems lead azide detonation a success but criticism lingers over notification",
-   "url": "https://www.bangordailynews.com/2026/11/27/nation/army-deems-lead-azide-detonation-a-success-but-criticism-lingers-over-notification/",
-   "ts": "20261127T224500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Shenzhen summit 3 - way style offensive : But world top leaders tangled on issues of substance – World Tribune : U . S . Politics and Culture , Geostrategy , China , North Korea , Corporate Watch , Me",
-   "url": "https://worldtribune.com/shenzhen-summits-3-way-style-offensive-but-worlds-top-leaders-tangled-on-issues-of-substance/",
-   "ts": "20261127T224500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Nasdaq climbs 544 points Friday as markets finish early for Thanksgiving holiday",
-   "url": "http://www.parisguardian.com/news/279467907/nasdaq-climbs-544-points-friday-as-markets-finish-early-for-thanksgiving-holiday",
-   "ts": "20261127T224500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "U . S . Air Force Reportedly Discovered a Massive Hack . Here Are the Details . ",
-   "url": "https://wcbm.com/national-headline/u-s-air-force-reportedly-discovered-a-massive-hack-here-are-the-details/",
-   "ts": "20261127T224500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US military says it has disabled another ship trying to breach its Iran blockade",
-   "url": "https://www.wtxl.com/world/middle-east/us-military-says-it-has-disabled-another-ship-trying-to-breach-its-iran-blockade",
-   "ts": "20261127T224500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Hackers breach Air Force cloud platform holding personnel and military data",
-   "url": "https://ktul.com/news/nation-world/hackers-breach-air-force-cloud-platform-holding-personnel-and-military-data",
-   "ts": "20261127T224500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Michael Kovrig : Nvidia affair releavs something about CCP",
-   "url": "https://www.stcatharinesstandard.ca/business/i-know-why-the-nvidia-jensen-huang-affair-matters-i-was-china-s-hostage/article_b62b1650-c167-50a4-bff5-d4201e4f631b.html",
-   "ts": "20261127T224500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Zelenskyy Criticizes Trump Over Putin  Friend  Comment",
-   "url": "https://newsradio1470.iheart.com/content/2026-11-27-zelenskyy-criticizes-trump-over-putin-friend-comment/",
-   "ts": "20261127T224500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Hackers breach Air Force cloud platform holding personnel and military data",
-   "url": "https://abcnews4.com/news/nation-world/hackers-breach-air-force-cloud-platform-holding-personnel-and-military-data",
-   "ts": "20261127T224500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Mexico files formal complaint to US over Drug Enforcement Agency tip line for anonymous reports",
-   "url": "https://abc7news.com/post/mexico-files-formal-complaint-us-dea-tip-line/20091323/",
-   "ts": "20261127T224500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "SCOTUS To Hear Case On AR - 15 Bans In Illinois , Connecticut",
-   "url": "https://kprcradio.iheart.com/content/2026-11-27-scotus-to-hear-case-on-ar-15-bans-in-illinois-connecticut/",
-   "ts": "20261127T224500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Gen Z is bringing Black Friday shopping back to stores",
-   "url": "https://www.fox17online.com/life/money/gen-z-is-bringing-black-friday-shopping-back-to-stores-as-higher-prices-squeeze-holiday-budgets",
-   "ts": "20261127T224500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US claims to disable Palau - flagged vessel in Gulf of Oman over blockade violation",
-   "url": "http://www.iranherald.com/news/279468475/us-claims-to-disable-palau-flagged-vessel-in-gulf-of-oman-over-blockade-violation",
-   "ts": "20261127T224500Z"
+   "src": "gnews",
+   "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals? - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWVQTU9Bem1UcHdtT2s5T005dlJvaDZfMTZ3aTQ1UHpDVUNMbERrRTFpQ0pKNFI0alRqWWp6ODBNYTJuSVNIX2JBMEpDRFh2RmlvYkNISXByQlJrR0dvb1BvQ0hxZmlPSXhtY3FfZjB6eUl0S0dtb2hxcHJwZ2U3X3ZudWpyMFRodlVackNmbU5DOVJENVhmS0s5bzQ2Z3BSMEdyZNIBqgFBVV95cUxPc2NjTE95RV9JMXdFTy1CdVNSdm1mRUt3cGxydjdid21HVFAza2pLcGRiY2FzOEUxeHhKNHZRcjdFeHRxQ0h5ZjYzZHRFWWhMSTFqSnJmVU9BNnB5WnB4VGpYN2Z3RU5vT24wVlhQeXpqYURoWnlXLW5QbXNvWS1DSzd5VGVNM0dPcnkyQkE1NEJCRlROejRDaE0tSXR0aXFYakJyMVNQYkRyZw?oc=5",
+   "ts": "Thu, 26 Nov 2026 11:16:29 GMT"
   }
  ]
 }

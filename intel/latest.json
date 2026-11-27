@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-27T01:30:30Z",
+ "ts": "2026-11-27T01:45:28Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -365,21 +364,21 @@
   },
   {
    "src": "gnews",
-   "title": "How Trump's proposed tariffs for India compare with rival nations - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazJTSjI3dk40ZnhoM2ZJR2N2eXp0NUFoaWUxNUI4NW9wV19YWEtpd24tS0t5YnFHV2YzSkRmSXdiTnR6cjRuMTROY1d1VlQ2NUR3UjNNMUJkeU5XQVBOeUQ1VnVTQmtQU3BVOUNndHdyeUhvWDcxdmRHMGtheVJCREs4UzdCWS1VVDQwcmdQYWtILXltMHRhN1UxeTVtdGhuMFhpemlOdDRkLTB5?oc=5",
-   "ts": "Thu, 26 Nov 2026 11:10:56 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump proposes a new wave of tariffs on China, E.U. and other trade partners - NBC News",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEhIWkhHU2FmSW5HZm1STUdfNlgzRWF6TXR1Njc2cDZ5SXF0RmVSY2NyS2tIQmJxWHlTZTJxVTg1bmI5YzcxemluVXFFdVZEUW1xUHZuTXhQN2ZaTjVtMzl0bEdwcGFNTFR5aU0wLTY3cDVJbnpXMjVQVWItMUoyOGVQakp1OHpocUlJWmc3ZWxZM1NHUWFiT2NsMXA2TXM?oc=5",
-   "ts": "Wed, 25 Nov 2026 13:58:10 GMT"
+   "title": "Status of Asian nations' trade talks with Trump - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3BlMEIyV0IyWU0zTE1xSllodC1Lc1E0VThIaGIxanBOX29CZ1c0alNwOFFXS2VCUWlhTUd4Ylp3TXIyOTZCOVYxMFVYazlPZmd1XzJvdWJkczkzLVl3MkJjMXA0SHNDNnAtMmMxTHplRnRLVTJCdnZQVzNfcVZyODlCQzZPZk02YUd5RDR2bExtdw?oc=5",
+   "ts": "Thu, 26 Nov 2026 12:25:47 GMT"
   },
   {
    "src": "gnews",
    "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals - CNBC",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNbWY3Z2hNLWJsb3dsYmdKakJjZEVaU21VaTV3WEFZV196bldhMGJEeUlFMHJlSjV2UHU5eFhrTS1BQldGTTdKemhscThySFJfLW55ZE1PUGpFeHN0bUtjaDR5MzNHZ3RVODBhU0IxTnBuNmdySG400gF8QVVfeXFMTkRUVDZGZkdHZ1VDMWpGcWtvc01hVlJwd0lwdDJUYU9OZXV2NjdYRFNTUmprbFRuWEkxd1lrOFJfR1NVbXE3S0dMMXBLNk9qTGlsSFBDVEtqYWxuOXc4WTMzUHFZTENRQlFLeDM3cldOTHpxVlYzR2NNRC1BcQ?oc=5",
    "ts": "Thu, 26 Nov 2026 07:58:19 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump proposes a new wave of tariffs on China, E.U. and other trade partners - NBC News",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEhIWkhHU2FmSW5HZm1STUdfNlgzRWF6TXR1Njc2cDZ5SXF0RmVSY2NyS2tIQmJxWHlTZTJxVTg1bmI5YzcxemluVXFFdVZEUW1xUHZuTXhQN2ZaTjVtMzl0bEdwcGFNTFR5aU0wLTY3cDVJbnpXMjVQVWItMUoyOGVQakp1OHpocUlJWmc3ZWxZM1NHUWFiT2NsMXA2TXM?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:58:10 GMT"
   },
   {
    "src": "gnews",
@@ -401,9 +400,9 @@
   },
   {
    "src": "gnews",
-   "title": "Bumpier U.S.-China Trade Is Coming - China-US Focus",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJNUURnenNwRV9MaTlCUFZOejU2T2xNeTRSTzlOaFBRLTNNcmhrbVdlSjZ6b1g4RDJnSXBuSlJFZ3dzeDdEc3ZlY21ES0lQZFYyWm9TWHBtTm1haUhKaFJnM1JDcjVmRVQyOU5tTmRHM1RzUnl3YXRmM3FVc0RIUzIybw?oc=5",
-   "ts": "Tue, 24 Nov 2026 13:02:14 GMT"
+   "title": "China's Trade Strategy Could Reshape Global Agriculture and Input Supply Chains - AgroLatam",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd01qT3J5cGdCTTI4X01pUGVYZkpDRGJyVlVXNEp2NndaQmNsam1YZ09UMXVOd1hiUl9qSmpvMWp3VTZkQnR4aXhEZjh6UWpuZDNzQWcyMW5naDNuaU53UzY5dVhFWmtya3VqYXlwRVNIaFFJejVrTThkWHFrdzQ1ekF3QUZxOGtxZ0VPQ01FT0RYYkZnX213SFN3QnJ3SlZULXVxclRYSUY4Z0JLNnl1bnFkUS1FMnRh?oc=5",
+   "ts": "Thu, 26 Nov 2026 17:32:46 GMT"
   },
   {
    "src": "gnews",
@@ -413,21 +412,21 @@
   },
   {
    "src": "gnews",
-   "title": "Status of Asian nations' trade talks with Trump - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3BlMEIyV0IyWU0zTE1xSllodC1Lc1E0VThIaGIxanBOX29CZ1c0alNwOFFXS2VCUWlhTUd4Ylp3TXIyOTZCOVYxMFVYazlPZmd1XzJvdWJkczkzLVl3MkJjMXA0SHNDNnAtMmMxTHplRnRLVTJCdnZQVzNfcVZyODlCQzZPZk02YUd5RDR2bExtdw?oc=5",
-   "ts": "Thu, 26 Nov 2026 12:25:47 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump Administration Unveils New Tariffs for China, the European Union, and More - Time Magazine",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFhtMHlCRmo0RXBTdk9ObEE1X3RickdBOUwydnhxN25sbjBubGM4eE9qZlBaTTBmOW5IbWVQNUw5MXBvVlg0TlduTmJuR1lrLW1zRV9NaXRzcXBaRGlxMHUxS1luN1htcndZaGpBNl9yZU8tU1ptbjA0WG1yV2wwRW03M0ViODMzRHZ2WEY5RnpaTUJYSWk3T0lOdU4?oc=5",
-   "ts": "Wed, 25 Nov 2026 19:02:40 GMT"
+   "title": "How Trump's proposed tariffs for India compare with rival nations - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazJTSjI3dk40ZnhoM2ZJR2N2eXp0NUFoaWUxNUI4NW9wV19YWEtpd24tS0t5YnFHV2YzSkRmSXdiTnR6cjRuMTROY1d1VlQ2NUR3UjNNMUJkeU5XQVBOeUQ1VnVTQmtQU3BVOUNndHdyeUhvWDcxdmRHMGtheVJCREs4UzdCWS1VVDQwcmdQYWtILXltMHRhN1UxeTVtdGhuMFhpemlOdDRkLTB5?oc=5",
+   "ts": "Thu, 26 Nov 2026 11:10:56 GMT"
   },
   {
    "src": "gnews",
    "title": "Trump announces new trade tariffs: Which countries are affected? - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEJUV292VEZ6TjdJalc2UkRBWGVDaUVVa1ZyMFZGbE5kakN2VTA2bnNuSUFsNVJSZE9jMTdnVDFEZExLbEhLcy1oTHRkbV9GYzdzV05vREFrNXM5RWRTS1lGdTZzMUhTQzRoQ2FqNW9oakZNT0l0R3RyTjZrMkZkeDlKVjFiaFB2a09wRWp4Q050eXNib1M1U3hLNndVQW12cE9KbFBtYWRyaGJj0gGyAUFVX3lxTE1zaEVXa2ZXOGhyOHJ1Yk1SSENISGhHZVpwekNrMGpkaENvVTNuT1lmN01ESWZSeUVCelJKbGlEV203eWRXLTdjRGU3Ny1vOG85OVBOSklDN1dPRWdpSHRrQ2JmWlNxR2FNYTF4V19mRjhPemsxcnJsZkJqU2haVkRoNzNkdFFRdkI5YzRRcVBVbV9VUzRmVFdPaThCQVNHTXdxaGFkVmJJLWNMOXRqZzN5UXc?oc=5",
    "ts": "Wed, 25 Nov 2026 15:00:52 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Administration Unveils New Tariffs for China, the European Union, and More - Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFhtMHlCRmo0RXBTdk9ObEE1X3RickdBOUwydnhxN25sbjBubGM4eE9qZlBaTTBmOW5IbWVQNUw5MXBvVlg0TlduTmJuR1lrLW1zRV9NaXRzcXBaRGlxMHUxS1luN1htcndZaGpBNl9yZU8tU1ptbjA0WG1yV2wwRW03M0ViODMzRHZ2WEY5RnpaTUJYSWk3T0lOdU4?oc=5",
+   "ts": "Wed, 25 Nov 2026 19:02:40 GMT"
   },
   {
    "src": "gnews",
@@ -443,9 +442,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea - Bloomberg",
+   "title": "Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
-   "ts": "Fri, 27 Nov 2026 00:01:56 GMT"
+   "ts": "Fri, 27 Nov 2026 01:31:56 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +454,129 @@
   },
   {
    "src": "gnews",
-   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
-   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
+   "title": "Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN05tSHVLN1V3cFRSaUY1d0l6MGkyY1dhRnN6R08tWW5uSm91eXlXQ1VHXzhnMEZpNHQtR0QzYWI5NHlFcjg4bFBhN0ZyMXZZQU9oQUJlVzNwUERxRFFWQThTOXMzM1laQjQzSXNjeXNlUnNGT3Zv?oc=5",
+   "ts": "Wed, 25 Nov 2026 15:58:36 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Omezení provozu Starlinku . Ukrajina se zaměřila na hledání alternativ | 27 . 11 . 2026",
+   "url": "https://www.blisty.cz/art/137719-omezeni-provozu-starlinku-ukrajina-se-zamerila-na-hledani-alternativ.html",
+   "ts": "20261127T011500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump approves Musk plan for data centres in space – Channel 4 News",
+   "url": "https://www.channel4.com/news/trump-approves-musks-plan-for-data-centres-in-space",
+   "ts": "20261127T011500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "原油 ： 布伦特上涨 也门胡塞武装袭击沙特关键炼油厂 - CFi . CN 中财网",
+   "url": "http://www.cfi.net.cn/p20261127000106.html",
+   "ts": "20261127T011500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "EPA expects Iowa lead detonation results soon",
+   "url": "https://www.wboc.com/news/national/epa-expects-iowa-lead-detonation-results-soon/article_e1ad2f17-3042-5678-a506-a09fe869d825.html",
+   "ts": "20261127T011500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "魏建军称车企竞争激烈 ， 董明珠 ： 有些产业害虫该灭就灭 ； 英伟达暂停向东南亚四国出货服务器 ； 腾讯 、 小红书都在招人加码个人智能体",
+   "url": "https://www.163.com/dy/article/LCNRSTEC05118HA4.html",
+   "ts": "20261127T011500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Senate confirms Russellville native Coker to federal bench",
+   "url": "https://www.franklinfavorite.com/russellville/russellville/news/article_1278d0f3-ab56-5c92-a52c-d203f6bf209e.html",
+   "ts": "20261127T011500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Who watching the boss ? | interest . co . nz",
+   "url": "https://www.interest.co.nz/business/141254/jensen-huang%E2%80%99s-controversial-return-nvidia-poses-question-%E2%80%93-what%E2%80%99s-point-%C2%A0board",
+   "ts": "20261127T011500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "HSBC flags $3 , 400 as gold next big test and says it is too early to call a bottom",
+   "url": "https://investinglive.com/commodities/hsbc-flags-3-400-as-gold-s-next-big-test-and-says-it-is-too-early-to-call-a-bottom/",
+   "ts": "20261127T011500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Strobe Talbott , former Time magazine reporter and deputy secretary of state , has died",
+   "url": "https://www.wmur.com/article/strobe-talbott-time-magazine-deputy-secretary-of-state-died/74543858",
+   "ts": "20261127T011500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Shein  paga  el arancel de la UE : sus ingresos se desploman en Europa , que le añade una nueva tasa",
+   "url": "https://www.abc.es/economia/cuentas-corrientes/shein-paga-arancel-ue-ingresos-desploman-europa-20261127013453-nt.html",
+   "ts": "20261127T011500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Gold 37 % slide from record looks overdone , says Saxo Hansen , but $3 , 590 is the test",
+   "url": "https://investinglive.com/commodities/gold-s-37-slide-from-record-looks-overdone-says-saxo-s-hansen-but-3-590-is-the-test/",
+   "ts": "20261127T011500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Prison :  Iranian agent  tried to hire hitmen for assassination of Trump",
+   "url": "https://salinapost.com/posts/5d4f90aa-301f-48d1-9419-724088cf3820",
+   "ts": "20261127T011500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "早报丨美股周五将提前3小时休市 ； 特朗普质疑GDP数据 ， 称将展开调查 ； 英伟达据称已暂停向东南亚交付芯片 ， MINIMAX加快采用华为和阿里AI芯片 ； 美团今日发业绩 _ 东方财富网",
+   "url": "https://finance.eastmoney.com/a/202611273941264437.html",
+   "ts": "20261127T011500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Volkswagen introduce en México el Lamando , su primer sedán importado de China",
+   "url": "https://cincoradio.com.mx/volkswagen-introduce-en-m-xico-el-lamando-su-primer-sed-n-importado-de-china-cr-3eb115c7180ab842712d518eef654b60/",
+   "ts": "20261127T011500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space . Scientists are skeptical",
+   "url": "https://japantoday.com/category/tech/fcc-says-spacex-can-deploy-1-million-satellites-for-data-centers-in-space.-scientists-are-skeptical",
+   "ts": "20261127T011500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Hús á 20 milljónir í Esbjerg og 65 milljónir á Selfossi – hvað stendur eftir af 600 sund króna launum ? – Fréttatíminn",
+   "url": "http://www.frettatiminn.is/frett/hus-a-20-milljonir-i-esbjerg-og-65-milljonir-a-selfossi-hvad-stendur-eftir-af-600-thusund-krona-launum",
+   "ts": "20261127T011500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "TJMT realizará eleies para desembargadores e formao de listas de juristas do TRE - MT no dia 14 de dezembro – CircuitoMT",
+   "url": "https://circuitomt.com.br/tjmt-realizara-eleicoes-para-desembargadores-e-formacao-de-listas-de-juristas-do-tre-mt-no-dia-14-de-dezembro/",
+   "ts": "20261127T011500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "EPA expects Iowa lead detonation results soon",
+   "url": "https://www.yakimaherald.com/news/nation_and_world/nation/epa-expects-iowa-lead-detonation-results-soon/article_ffc7f245-7005-5c10-a6cc-e8d60f258f64.html",
+   "ts": "20261127T011500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Democratic majorities vow to take on political corruption . How will they do it ? ",
+   "url": "https://wcti12.com/news/nation-world/democratic-majorities-vow-to-take-on-political-corruption-how-will-they-do-it-trump-white-house",
+   "ts": "20261127T011500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Strobe Talbott , former Time magazine reporter and deputy secretary of state , has died",
+   "url": "https://www.wfmz.com/news/ap/ap-national/strobe-talbott-former-time-magazine-reporter-and-deputy-secretary-of-state-has-died/article_2bc11658-6891-56b1-8bae-f78e9a99b693.html",
+   "ts": "20261127T011500Z"
   }
  ]
 }

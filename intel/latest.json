@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-27T04:45:32Z",
+ "ts": "2026-11-27T05:00:30Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -406,12 +407,6 @@
   },
   {
    "src": "gnews",
-   "title": "China extends suspension period for its ban on export of critical minerals to US - VOA - Voice of America English News",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcHdQcW5kWW5acVB5V3dlOWZHTXZ3d19kb3Zjd0VnRGJZemVPZFJsUWs3TXBFV3VUZzZSVlR3Y1R2TXBvMmVhSm9NdGpIS0Z2RUxmVV9pUFJTOUlrbGttSzJpOUs1LUZ2RHFaNWhTdWZBSkNiY3YtUFIzLXNudjBnYTc4YW5vQVN6MHp6QXVMSUtwUDhWQXd2Vk4weUtjWnpfSXpJMEJaXzNuVEJKVlZFdTM3ajBudzNXRFNzejdXdWczODAwMTZN0gHKAUFVX3lxTFBlRUFKQi1ldTZNSGZRMkpadnkyUGpYSVo5X05wSVd3NWRVMjJZSE1pWHV2YzJWYjBSakZQcy1GVWszN2dzMHh0ZGF2UEVlV3VNdm9yWTd0UlVic0RSeEg2SU9XdUYtMV9PV1VmekYxalFzallhLU91M09HTmZVWm1jOVRPRHl2U1dWSVFoSzcxd0lkNmM3NTlQOElTZlhQR3JzdWc2VHFpMnkyRWE2QUVsR045QjBmb1lKOGN1OFI3MmpxNVA0c0pxQUE?oc=5",
-   "ts": "Thu, 26 Nov 2026 19:54:44 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Why Trump’s Trade War May Benefit Canada in the Long Run - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUUpCVmZTdFlpRHVKQUMtR3VjUXRxUXprOFlFanpJa0xrY1FqRGVnMjlnOG00TkhVdmt1elBLUmJ5dUZGMVNnV0FsUlJnS3lHdlFkYWROWGktUjVTT19fZVV1NFp5eEhXdlU0NWtOLXpQakdnYXlyRXlMUWVwMTFFX0laeVl1MXNyaUJSU0VKaFdVcVpNTHVUWHB1T3RrTURDN3JmelRYTHR6cXc?oc=5",
    "ts": "Thu, 26 Nov 2026 22:22:43 GMT"
@@ -424,15 +419,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN05tSHVLN1V3cFRSaUY1d0l6MGkyY1dhRnN6R08tWW5uSm91eXlXQ1VHXzhnMEZpNHQtR0QzYWI5NHlFcjg4bFBhN0ZyMXZZQU9oQUJlVzNwUERxRFFWQThTOXMzM1laQjQzSXNjeXNlUnNGT3Zv?oc=5",
-   "ts": "Wed, 25 Nov 2026 13:17:38 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump announces new trade tariffs: Which countries are affected? - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEJUV292VEZ6TjdJalc2UkRBWGVDaUVVa1ZyMFZGbE5kakN2VTA2bnNuSUFsNVJSZE9jMTdnVDFEZExLbEhLcy1oTHRkbV9GYzdzV05vREFrNXM5RWRTS1lGdTZzMUhTQzRoQ2FqNW9oakZNT0l0R3RyTjZrMkZkeDlKVjFiaFB2a09wRWp4Q050eXNib1M1U3hLNndVQW12cE9KbFBtYWRyaGJj0gGyAUFVX3lxTE1zaEVXa2ZXOGhyOHJ1Yk1SSENISGhHZVpwekNrMGpkaENvVTNuT1lmN01ESWZSeUVCelJKbGlEV203eWRXLTdjRGU3Ny1vOG85OVBOSklDN1dPRWdpSHRrQ2JmWlNxR2FNYTF4V19mRjhPemsxcnJsZkJqU2haVkRoNzNkdFFRdkI5YzRRcVBVbV9VUzRmVFdPaThCQVNHTXdxaGFkVmJJLWNMOXRqZzN5UXc?oc=5",
    "ts": "Wed, 25 Nov 2026 15:00:52 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN05tSHVLN1V3cFRSaUY1d0l6MGkyY1dhRnN6R08tWW5uSm91eXlXQ1VHXzhnMEZpNHQtR0QzYWI5NHlFcjg4bFBhN0ZyMXZZQU9oQUJlVzNwUERxRFFWQThTOXMzM1laQjQzSXNjeXNlUnNGT3Zv?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:17:38 GMT"
   },
   {
    "src": "gnews",
@@ -448,135 +443,21 @@
   },
   {
    "src": "gnews",
+   "title": "Mexico urges Asian trade partners to crack down on tariff dodging - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHhmUFduZ0tRbWFBQ2xIRmtIZDU0S012anU5bEx3SGVzOXVmV1JkNGxIZkNXV0RYTWJlNEVqUTFoS0tnQ1QtcXI0bVlJT25XQ1Y4TFZvczVTbTFPWTc3eUF6MzF6M0swR3JYTGR0ZjNwZVhhb2dWUjNBSjBod1ZfWU4zajFXMnBYUU1YY3pNQXNDWlRQa2VILWVJc25tcnJpV3ljRW95RjViUXM?oc=5",
+   "ts": "Thu, 26 Nov 2026 17:09:43 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
    "ts": "Fri, 27 Nov 2026 04:31:56 GMT"
   },
   {
    "src": "gnews",
-   "title": "Mexico urges Asian trade partners to crack down on tariff dodging - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHhmUFduZ0tRbWFBQ2xIRmtIZDU0S012anU5bEx3SGVzOXVmV1JkNGxIZkNXV0RYTWJlNEVqUTFoS0tnQ1QtcXI0bVlJT25XQ1Y4TFZvczVTbTFPWTc3eUF6MzF6M0swR3JYTGR0ZjNwZVhhb2dWUjNBSjBod1ZfWU4zajFXMnBYUU1YY3pNQXNDWlRQa2VILWVJc25tcnJpV3ljRW95RjViUXM?oc=5",
-   "ts": "Thu, 26 Nov 2026 17:09:43 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump calls GDP figures  fake  ",
-   "url": "https://www.wyff4.com/article/trump-demands-investigation-of-commerce-department/74544791",
-   "ts": "20261127T043000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Fed duy trì lập trường cứng rắn trước những biến động của thị trường chứng khoán",
-   "url": "https://www.tinnhanhchungkhoan.vn/fed-duy-tri-lap-truong-cung-ran-truoc-nhung-bien-dong-cua-thi-truong-chung-khoan-post402150.html",
-   "ts": "20261127T043000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says US has",
-   "url": "http://www.malaysiasun.com/news/279463498/trump-says-us-has-victory-at-hand-in-iran-war-offers-tehran-chance-for-deal",
-   "ts": "20261127T043000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Houthis strike Saudi oil infrastructure as Riyadh intensifies attacks on Yemen",
-   "url": "https://kesq.com/news/national-world/cnn-world/2026/11/26/houthis-strike-saudi-oil-infrastructure-as-riyadh-intensifies-attacks-on-yemen/",
-   "ts": "20261127T043000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Post - Midterm Power Play – Sri Lanka Guardian",
-   "url": "https://slguardian.org/trumps-post-midterm-power-play/",
-   "ts": "20261127T043000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Test results from samples taken after Iowa lead detonation are expected soon , EPA says",
-   "url": "https://www.news4jax.com/news/national/2026/11/26/epa-expects-iowa-lead-detonation-results-soon/",
-   "ts": "20261127T043000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump signs major disaster declaration for Florida flooding , unlocking FEMA relief funds",
-   "url": "https://wlos.com/news/nation-world/trump-signs-major-disaster-declaration-for-florida-flooding-unlocking-fema-relief-funds",
-   "ts": "20261127T043000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Musk pledges two SpaceX shares for every US child in $18bn AI charm offensive",
-   "url": "https://bdnews24.com/business/9az5t77l24",
-   "ts": "20261127T043000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Atlantic Council попередив про ризики посилення влади Трампа після втрати більшості в Конгресі Світ",
-   "url": "https://tsn.ua/svit/putin-moze-skorystatysia-svarkoiu-trampa-z-konhresom-u-ssha-poperedyly-pro-nebezpechnyy-stsenariy-dlia-ukrayiny-3228159.html",
-   "ts": "20261127T043000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ukraine war briefing : Kyiv launched more long - range strikes in 2026 than rest of war combined , data shows",
-   "url": "https://www.aol.co.uk/articles/ukraine-war-briefing-kyiv-launched-030532000.html",
-   "ts": "20261127T043000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Zelensky questions Trump  strange  friendship with Putin after bizarre change to NATO statement",
-   "url": "https://www.aol.co.uk/articles/zelensky-questions-trumps-strange-friendship-034421000.html",
-   "ts": "20261127T043000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trumpin mukaan Nvidian toimitusjohtaja Huang ei ole turvallisuusuhka",
-   "url": "https://www.ess.fi/uutissuomalainen/9990522",
-   "ts": "20261127T043000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "川普普京习近平深圳会晤 核战不能打 核武未削减",
-   "url": "https://www.wenxuecity.com/news/2026/11/26/126848325.html",
-   "ts": "20261127T043000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Test results from samples taken after Iowa lead detonation are expected soon , EPA says",
-   "url": "https://www.wsls.com/news/national/2026/11/26/epa-expects-iowa-lead-detonation-results-soon/",
-   "ts": "20261127T043000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Asian shares mostly rise ahead of Wall Street reopening after the Thanksgiving holiday",
-   "url": "http://www.gazettextra.com/news/nation_world/asian-shares-mostly-rise-ahead-of-wall-streets-reopening-after-the-thanksgiving-holiday/article_69a18a0a-e558-55c3-bc04-e80cf33b58b5.html",
-   "ts": "20261127T043000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "タラップの段差や花束なし … 高市首相への 「 滑稽な冷遇 」 は中国の恐れの表れ 米ワシントン ・ グローバル戦略研究所フレッド ・ フライツ所長寄稿",
-   "url": "https://www.sankei.com/article/20261127-WOXE34JB25LUHARJF5ZBYXTA4Y/",
-   "ts": "20261127T043000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "美国又要发起新一轮关税战吗 贸易政策再度转向 _ 新闻频道 _ 中华网",
-   "url": "https://news.china.com/socialgd/10000169/20261127/49912931.html",
-   "ts": "20261127T043000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Donald Trump : హువాంగ్ రెండో ఇన్నింగ్స్‌కు ట్రంప్ మద్దతు .. - Andhra Prabha | Telugu News Daily , Latest Telugu News , Latest తెలుగు వార్తలు and LIVE Updates | Breaking News in AP and Telangana",
-   "url": "https://prabhanews.com/trump-defends-jensen-huang-return-as-nvidia-ceo-second-term/",
-   "ts": "20261127T043000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "화웨이 런정페이  고맙다 트럼프 ... 中 , 미국 추월은 시간문제일 뿐  ",
-   "url": "https://www.newspim.com/news/view/20261127000755",
-   "ts": "20261127T043000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " ¿ Cuándo bajarán de precio las consolas ? Analista proyecta cambios favorables para 2028 , aunque la IA podría arruinarlo todo",
-   "url": "https://www.levelup.com/noticias/cuando-bajaran-de-precio-las-consolas-analista-proyecta-cambios-favorables-para-2028-aunque-la-ia-podria-arruinarlo-todo/",
-   "ts": "20261127T043000Z"
+   "title": "China extends suspension period for its ban on export of critical minerals to US - VOA - Voice of America English News",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcHdQcW5kWW5acVB5V3dlOWZHTXZ3d19kb3Zjd0VnRGJZemVPZFJsUWs3TXBFV3VUZzZSVlR3Y1R2TXBvMmVhSm9NdGpIS0Z2RUxmVV9pUFJTOUlrbGttSzJpOUs1LUZ2RHFaNWhTdWZBSkNiY3YtUFIzLXNudjBnYTc4YW5vQVN6MHp6QXVMSUtwUDhWQXd2Vk4weUtjWnpfSXpJMEJaXzNuVEJKVlZFdTM3ajBudzNXRFNzejdXdWczODAwMTZN0gHKAUFVX3lxTFBlRUFKQi1ldTZNSGZRMkpadnkyUGpYSVo5X05wSVd3NWRVMjJZSE1pWHV2YzJWYjBSakZQcy1GVWszN2dzMHh0ZGF2UEVlV3VNdm9yWTd0UlVic0RSeEg2SU9XdUYtMV9PV1VmekYxalFzallhLU91M09HTmZVWm1jOVRPRHl2U1dWSVFoSzcxd0lkNmM3NTlQOElTZlhQR3JzdWc2VHFpMnkyRWE2QUVsR045QjBmb1lKOGN1OFI3MmpxNVA0c0pxQUE?oc=5",
+   "ts": "Thu, 26 Nov 2026 19:54:44 GMT"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-27T13:00:30Z",
+ "ts": "2026-11-27T13:15:29Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -35,7 +35,7 @@
   "gdelt": {
    "ok": false,
    "n": 0,
-   "err": "URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -347,15 +347,21 @@
   },
   {
    "src": "gnews",
-   "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan? - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXRrMjFFcHlmR0hqa0dhQ3UzLTlXZi1BdEphd1VMYVQ2Um1rMlp1bzVtNmFGcWNqdEZlZ3o0bTRLMEJoa3E5MTZRRkdITmhxQlpOM19QbnNhZ2RUZ1F1ZGdNSWdBVDk3SDRJQTc0ZHV4Z2ljU1ZRTUFUdm4zRmZiYmZoamtuYWt0cFRCWElNLVY2T2V1clVlVWdMLXltWThmZGtQZWJ2OElxd3BvTS1sSzl2Xy1ma2Zm0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5",
-   "ts": "Fri, 27 Nov 2026 12:54:12 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China and Brazil Lead Pushback Against Trump’s ‘Unacceptable’ Tariff Threats - Time Magazine",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd0o3Tl9wSlp6TkNJeGc2VW5oT1hPeHR2dGZpcnIzSkF2N3R2REt1WTZxZXNoeGVOZjZUZWo5dVNzQ0RFUVVLOXM3cmVRX0tIY3ZfU09KSXBhY3NqNzlHaHJzUUk5MmdsbEE4cW5SN3k3Nk0yRUt1bUJLV1UwXzhodkNYTXFUZDZmc0x4bg?oc=5",
    "ts": "Thu, 26 Nov 2026 18:42:35 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan? - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXRrMjFFcHlmR0hqa0dhQ3UzLTlXZi1BdEphd1VMYVQ2Um1rMlp1bzVtNmFGcWNqdEZlZ3o0bTRLMEJoa3E5MTZRRkdITmhxQlpOM19QbnNhZ2RUZ1F1ZGdNSWdBVDk3SDRJQTc0ZHV4Z2ljU1ZRTUFUdm4zRmZiYmZoamtuYWt0cFRCWElNLVY2T2V1clVlVWdMLXltWThmZGtQZWJ2OElxd3BvTS1sSzl2Xy1ma2Zm0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5",
+   "ts": "Fri, 27 Nov 2026 12:56:15 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump - Alabama Daily News",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNTBlQVlsRTBQT2JGbGN5Qm1QNlAyT3I0a2RlQ01pekszWnpWUGxDUE1UY0Zpb3NDZ05QYjF0dmwtX3pWSm1MczJhWXlZS1JqbF82bF81dVZHVjlBekRaWGlISUREcUVHRU9LaWVTQjVTUzhlWlJidm9tZGluQTdyUmRObVd0TDROM3FMQy11SzNFV0ROc1ZKX2daWGJsNFVk?oc=5",
+   "ts": "Fri, 27 Nov 2026 11:06:03 GMT"
   },
   {
    "src": "gnews",
@@ -383,18 +389,6 @@
   },
   {
    "src": "gnews",
-   "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
-   "ts": "Wed, 25 Nov 2026 13:15:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Why Trump’s new tariff threats may spur Southeast Asia to rethink US trade deals - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcXloVXhLNjA1X3hIMFhVNmczVnlpazN0MS05bDhWeWFGeTYtaXpIRFlVZlFMUFNXZ0tYbU9JaWd1bHZDeXVLWHVkRWdxckdiNW8teHZaWFA4Z3hGNDB1WjFoZDJWSjRweFdUdHVQZ1BhOTBZSVhfU1V0bjc1RWJydkgxM3I2eGxGTXBPQkNBZ2RMMWVVcXVxT21sTEFsS3AwS0dxUElnWU0zaFNMLXhHb1dhd0ZvZDRJb05ZRjd2WnAxNlVxVFY2WlhGVGVaQdIBzgFBVV95cUxOZ3l6WGRldnR5SFdMNGJNYXRWY0NjeE94MDlqc0RDbTUtVmhoajV5cDlYR1RQRTZWckxVY0tVMUE3OEhIa2dxcTlpMGFwT1BtV3ZnUHZpdWw5cGVycmk5bWwtaDdVTGJrNGxIejJmbFZkNzhFODdlTHZDTXFiek8ycndqQkkwb2gwOTVSdHZpaU1HSWZxM3Q2eTkxX3dGZHR4TXhZMzFNT1R0MVA2bDc5bWJ5VC1jQ0VVbXc5WGwzZWpaT0l0ZzlnbEhGdDZSdw?oc=5",
-   "ts": "Fri, 27 Nov 2026 10:00:09 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump proposes new tariffs on China, Europe and other trade partners - The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRG9IZXZjbjBEQ2tzam5pT0FPZWNFc2hac3ZURjRUaTJITlQwQmt4RElZVGlnM0luQndHeXdRaGRwTUVVbHVqQlcyZC01OC1adzBLT3JWWlNadmw2N01zR3JZT1VwWG1mVVNaSkNUSWExNTlYRWtCejNRUE1KSXk0TFpjaUt5X0Z4LUFLMzB1c3QtRXNpUVc5UzNMeHY4d2paMjVEVGpveFlpM1BvZWRlZzFR?oc=5",
    "ts": "Thu, 26 Nov 2026 01:24:25 GMT"
@@ -407,9 +401,15 @@
   },
   {
    "src": "gnews",
-   "title": "Netherlands ‘will not be dictated to’ by US over chip exports to China, trade minister says - Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTnc2MnF0djJEcWNWWmQ3QXhQeWVPbzdKdDNTdUJHVzVIUnMzZnhlVEtWZ0ZjQzJORUF0d3J1M0JWdkRaWEFaOVdaUWY0YzIzMUdzTXNSNmFhWUwzQTZFdmpwT1ljVkpNZUdOc2FvNjJaZFFRWGlacnVibE81MDc4OFBpbXloMXI0U2FZdC1EdlRLdDFuQm0tRHNIZE5BbFNsOWU5WUNHMUdZMW04ZUZWNVB5ajgzLThYOTJlbXBBekRCUnZLdWo0?oc=5",
-   "ts": "Fri, 27 Nov 2026 11:08:43 GMT"
+   "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:15:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Why Trump’s new tariff threats may spur Southeast Asia to rethink US trade deals - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcXloVXhLNjA1X3hIMFhVNmczVnlpazN0MS05bDhWeWFGeTYtaXpIRFlVZlFMUFNXZ0tYbU9JaWd1bHZDeXVLWHVkRWdxckdiNW8teHZaWFA4Z3hGNDB1WjFoZDJWSjRweFdUdHVQZ1BhOTBZSVhfU1V0bjc1RWJydkgxM3I2eGxGTXBPQkNBZ2RMMWVVcXVxT21sTEFsS3AwS0dxUElnWU0zaFNMLXhHb1dhd0ZvZDRJb05ZRjd2WnAxNlVxVFY2WlhGVGVaQdIBzgFBVV95cUxOZ3l6WGRldnR5SFdMNGJNYXRWY0NjeE94MDlqc0RDbTUtVmhoajV5cDlYR1RQRTZWckxVY0tVMUE3OEhIa2dxcTlpMGFwT1BtV3ZnUHZpdWw5cGVycmk5bWwtaDdVTGJrNGxIejJmbFZkNzhFODdlTHZDTXFiek8ycndqQkkwb2gwOTVSdHZpaU1HSWZxM3Q2eTkxX3dGZHR4TXhZMzFNT1R0MVA2bDc5bWJ5VC1jQ0VVbXc5WGwzZWpaT0l0ZzlnbEhGdDZSdw?oc=5",
+   "ts": "Fri, 27 Nov 2026 10:00:09 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "Trump set to add new sweeping tariffs, undeterred by midterms defeat - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNklFaE54bEV6OGdKT29ScUxHUlZwRDNyREJ0MzBSZzZGdnptTkVxaXNHeWx2WjFWYVMzMzdMeU92dC1PVmYyZ1BTT3lCTWVRVnJ5ODFEb0NXYWpDd1ZQUlg4bkZ5QVAyck9KQUhMbldjY2FqMmtsZGs3MTFUY0xLZm9wMWRRTFAyS3VvZUZ6Wnk0VzlxTjR3VS1GSkJ1S3VCU2xmZ09FX1E5dUVjTUhfR21wMG1pcktxdGc?oc=5",
-   "ts": "Wed, 25 Nov 2026 12:07:49 GMT"
+   "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNbWY3Z2hNLWJsb3dsYmdKakJjZEVaU21VaTV3WEFZV196bldhMGJEeUlFMHJlSjV2UHU5eFhrTS1BQldGTTdKemhscThySFJfLW55ZE1PUGpFeHN0bUtjaDR5MzNHZ3RVODBhU0IxTnBuNmdySG400gF8QVVfeXFMTkRUVDZGZkdHZ1VDMWpGcWtvc01hVlJwd0lwdDJUYU9OZXV2NjdYRFNTUmprbFRuWEkxd1lrOFJfR1NVbXE3S0dMMXBLNk9qTGlsSFBDVEtqYWxuOXc4WTMzUHFZTENRQlFLeDM3cldOTHpxVlYzR2NNRC1BcQ?oc=5",
+   "ts": "Thu, 26 Nov 2026 07:58:19 GMT"
   }
  ]
 }

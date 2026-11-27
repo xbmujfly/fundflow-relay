@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-27T03:00:31Z",
+ "ts": "2026-11-27T03:15:28Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -394,33 +395,21 @@
   },
   {
    "src": "gnews",
-   "title": "Bumpier U.S.-China Trade Is Coming - China-US Focus",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJNUURnenNwRV9MaTlCUFZOejU2T2xNeTRSTzlOaFBRLTNNcmhrbVdlSjZ6b1g4RDJnSXBuSlJFZ3dzeDdEc3ZlY21ES0lQZFYyWm9TWHBtTm1haUhKaFJnM1JDcjVmRVQyOU5tTmRHM1RzUnl3YXRmM3FVc0RIUzIybw?oc=5",
-   "ts": "Tue, 24 Nov 2026 13:02:14 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "China extends suspension period for its ban on export of critical minerals to US - VOA - Voice of America English News",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcHdQcW5kWW5acVB5V3dlOWZHTXZ3d19kb3Zjd0VnRGJZemVPZFJsUWs3TXBFV3VUZzZSVlR3Y1R2TXBvMmVhSm9NdGpIS0Z2RUxmVV9pUFJTOUlrbGttSzJpOUs1LUZ2RHFaNWhTdWZBSkNiY3YtUFIzLXNudjBnYTc4YW5vQVN6MHp6QXVMSUtwUDhWQXd2Vk4weUtjWnpfSXpJMEJaXzNuVEJKVlZFdTM3ajBudzNXRFNzejdXdWczODAwMTZN0gHKAUFVX3lxTFBlRUFKQi1ldTZNSGZRMkpadnkyUGpYSVo5X05wSVd3NWRVMjJZSE1pWHV2YzJWYjBSakZQcy1GVWszN2dzMHh0ZGF2UEVlV3VNdm9yWTd0UlVic0RSeEg2SU9XdUYtMV9PV1VmekYxalFzallhLU91M09HTmZVWm1jOVRPRHl2U1dWSVFoSzcxd0lkNmM3NTlQOElTZlhQR3JzdWc2VHFpMnkyRWE2QUVsR045QjBmb1lKOGN1OFI3MmpxNVA0c0pxQUE?oc=5",
    "ts": "Thu, 26 Nov 2026 19:54:44 GMT"
   },
   {
    "src": "gnews",
-   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
-   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
+   "title": "Why Trump’s newest tariffs could stick - Atlantic Council",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVkpGMkxqSGRGRTJWU3hIQVZHdW1SdTNBUGtFdmZlV1lPR0tGTERCcFBNdjhTWmxFeWs0dzZpakI1dGxQbUZndUthWXZFQno0aVlNU180QXJtSm5OQXNPWUQtUDlGRWZjWndHbnRuX0FiTnlKMkNJRVhtSWpKcFQ3a1h3TzZ1MTdLV2hLdUxYNEZOcXRDTUZhUUtfbmtiTkcxaFZSTjR5dw?oc=5",
+   "ts": "Wed, 25 Nov 2026 18:57:00 GMT"
   },
   {
    "src": "gnews",
    "title": "Watch How Canada May Be Winning Trump’s Trade War - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNzJ3STJlSnpxSTZLaWJfNFoxazBkSGpTUFhJMmd3d1JjUDNMZVNMUmRWRUxQYXZ4OU9uemhoSmNwQ1ZqYTZ0d2pnTUltY3g5aUZUSXBMZzZYYTdsbHAteDEyYnlMYTNMY1NfYW0xZGlUVkV3cURQd3dsZ3ppbDNfX3lqRjNuemVPTTZyTEsxVEotRk5sMzFtQ3V5UnkzY28?oc=5",
    "ts": "Thu, 26 Nov 2026 22:04:18 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump Administration Unveils New Tariffs for China, the European Union, and More - Time Magazine",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFhtMHlCRmo0RXBTdk9ObEE1X3RickdBOUwydnhxN25sbjBubGM4eE9qZlBaTTBmOW5IbWVQNUw5MXBvVlg0TlduTmJuR1lrLW1zRV9NaXRzcXBaRGlxMHUxS1luN1htcndZaGpBNl9yZU8tU1ptbjA0WG1yV2wwRW03M0ViODMzRHZ2WEY5RnpaTUJYSWk3T0lOdU4?oc=5",
-   "ts": "Wed, 25 Nov 2026 19:02:40 GMT"
   },
   {
    "src": "gnews",
@@ -436,6 +425,12 @@
   },
   {
    "src": "gnews",
+   "title": "Trump Administration Unveils New Tariffs for China, the European Union, and More - Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFhtMHlCRmo0RXBTdk9ObEE1X3RickdBOUwydnhxN25sbjBubGM4eE9qZlBaTTBmOW5IbWVQNUw5MXBvVlg0TlduTmJuR1lrLW1zRV9NaXRzcXBaRGlxMHUxS1luN1htcndZaGpBNl9yZU8tU1ptbjA0WG1yV2wwRW03M0ViODMzRHZ2WEY5RnpaTUJYSWk3T0lOdU4?oc=5",
+   "ts": "Wed, 25 Nov 2026 19:02:40 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Status of Asian nations' trade talks with Trump - Reuters",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3BlMEIyV0IyWU0zTE1xSllodC1Lc1E0VThIaGIxanBOX29CZ1c0alNwOFFXS2VCUWlhTUd4Ylp3TXIyOTZCOVYxMFVYazlPZmd1XzJvdWJkczkzLVl3MkJjMXA0SHNDNnAtMmMxTHplRnRLVTJCdnZQVzNfcVZyODlCQzZPZk02YUd5RDR2bExtdw?oc=5",
    "ts": "Thu, 26 Nov 2026 12:25:47 GMT"
@@ -448,135 +443,21 @@
   },
   {
    "src": "gnews",
-   "title": "Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
-   "ts": "Fri, 27 Nov 2026 01:31:56 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Mexico urges Asian trade partners to crack down on tariff dodging - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHhmUFduZ0tRbWFBQ2xIRmtIZDU0S012anU5bEx3SGVzOXVmV1JkNGxIZkNXV0RYTWJlNEVqUTFoS0tnQ1QtcXI0bVlJT25XQ1Y4TFZvczVTbTFPWTc3eUF6MzF6M0swR3JYTGR0ZjNwZVhhb2dWUjNBSjBod1ZfWU4zajFXMnBYUU1YY3pNQXNDWlRQa2VILWVJc25tcnJpV3ljRW95RjViUXM?oc=5",
    "ts": "Thu, 26 Nov 2026 17:09:43 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "Трамп : сохранение России в G8 могло бы предотвратить конфликт на Украине",
-   "url": "https://www.vesti.ru/ns/tramp-sokhranenie-rossii-v-g8-moglo-by-predotvratit-konflikt-na-ukraine",
-   "ts": "20261127T023000Z"
+   "src": "gnews",
+   "title": "Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
+   "ts": "Fri, 27 Nov 2026 03:01:56 GMT"
   },
   {
-   "src": "gdelt",
-   "title": "EPA expects Iowa lead detonation results soon",
-   "url": "http://www.bozemandailychronicle.com/wire/news/epa-expects-iowa-lead-detonation-results-soon/article_6d668f0b-7806-5f33-8705-de41fccc8e2a.html",
-   "ts": "20261127T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says Huang excited about his  second term  at Nvidia",
-   "url": "https://www.businesstimes.com.sg/international/trump-says-huang-excited-about-his-second-term-nvidia",
-   "ts": "20261127T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Трамп назвал посмешищем отставание США от России по ледоколам",
-   "url": "https://news.mail.ru/politics/73254907/",
-   "ts": "20261127T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Budget 2027 : Sri Lanka is running out of time . Trade agreements alone wont save the economy",
-   "url": "https://www.ft.lk/columns/Budget-2027-Sri-Lanka-is-running-out-of-time-Trade-agreements-alone-won-t-save-the-economy/4-800657",
-   "ts": "20261127T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump signs major disaster declaration for Florida flooding , unlocking FEMA relief funds",
-   "url": "https://wsbt.com/news/nation-world/trump-signs-major-disaster-declaration-for-florida-flooding-unlocking-fema-relief-funds",
-   "ts": "20261127T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Heavy rain , wind and flooding hit much of the US on Thanksgiving",
-   "url": "https://www.marinij.com/2026/11/26/heavy-rain-wind-and-flooding-hit-much-of-the-us-on-thanksgiving/",
-   "ts": "20261127T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ex - GOP strategist predicts how long Trump GOP will pay for MAGA",
-   "url": "https://www.alternet.org/trump-maga-movement-2678540113/",
-   "ts": "20261127T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Трамп словом « посмешище » оценил разницу в ледоколах России и США",
-   "url": "https://lenta.ru/news/2026/11/27/tramp-slovom-posmeshische-otsenil-raznitsu-v-ledokolah-rossii-i-ssha/",
-   "ts": "20261127T023000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Трамп звинуватив департамент торгівлі у поразці на виборах",
-   "url": "https://lb.ua/world/2026/11/27/784050_tramp_zvinuvativ_vlasniy.html",
-   "ts": "20261127T021500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Politico : Трамп без согласования с Рютте изменил их совместное заявление",
-   "url": "https://aif.ru/politics/politico-tramp-bez-soglasovaniya-s-ryutte-izmenil-ih-sovmestnoe-zayavlenie",
-   "ts": "20261127T021500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US envoy Sergio Gor celebrates Thanksgiving with Marine Security Guard Detachment in New Delhi",
-   "url": "http://www.kenyastar.com/news/279462630/us-envoy-sergio-gor-celebrates-thanksgiving-with-marine-security-guard-detachment-in-new-delhi",
-   "ts": "20261127T021500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Nguy cơ Fed duy trì lãi suất cao kéo dài do áp lực thuế quan mới",
-   "url": "https://dantri.com.vn/kinh-doanh/nguy-co-fed-duy-tri-lai-suat-cao-keo-dai-do-ap-luc-thue-quan-moi-20261127050510698.htm",
-   "ts": "20261127T021500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Трамп снова возмутился отставанием США от России по числу ледоколов",
-   "url": "https://ria.ru/20261127/ledokoly-2134270110.html",
-   "ts": "20261127T021500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "What did Trump say at the 2026 turkey pardon ? ",
-   "url": "https://attackofthefanboy.com/news/trump-reminded-the-turkey-pardon-crowd-he-won-west-virginia-by-45-points-then-said-i-dont-know-what-the-h-happened-with-this-last-election/",
-   "ts": "20261127T021500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "New trade war could be brewing following tariff proposal",
-   "url": "https://abc7amarillo.com/newsletter-daily/new-trade-war-could-be-brewing-following-tariff-proposal-china-eu-india-japan",
-   "ts": "20261127T021500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "After Democrat midterm wins , some hope attacks on DEI will ease",
-   "url": "https://www.ksmu.org/2026-11-26/after-democrats-midterm-wins-some-hope-attacks-on-dei-will-ease",
-   "ts": "20261127T021500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump says US has",
-   "url": "http://www.kenyastar.com/news/279463498/trump-says-us-has-victory-at-hand-in-iran-war-offers-tehran-chance-for-deal",
-   "ts": "20261127T021500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "小米宣布人事调整 ； 美团和淘宝闪购取消超时扣款丨新鲜早科技",
-   "url": "https://www.163.com/dy/article/LCNVLHOS05199NPP.html",
-   "ts": "20261127T021500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "After Democrat midterm wins , some hope attacks on DEI will ease",
-   "url": "https://www.klcc.org/npr-politics/2026-11-26/after-democrats-midterm-wins-some-hope-attacks-on-dei-will-ease",
-   "ts": "20261127T021500Z"
+   "src": "gnews",
+   "title": "US traders fear proposed tariffs on China may weigh on farm trade - S&P Global",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMU11aWxHdGl0T1B2akFxaTV2Z1d3Vkd1clhiS3NJVU5kakNKMGFqZjZWRnZMUkJDOGxYMktLcnlsU3NGQkFKTHZkS1VjWmt4Y1V6VkdQTC1HMHdqS21LcGMtVk00d2dGaHRJSGxBNjFBTC1kQUJvNlhPRjJ3cWVHcnNza0YxcVdPbjBaLVlJa2oxRHBCMlpqaHZmUnppSE1uSmRmYlh2SUdsZkdoTndjQlNsTjVnTWV6Z3RwVTJJNDRQcVg0S01jN2txRTZzRVRSTGpLbDd6bGkyODBidWc?oc=5",
+   "ts": "Thu, 26 Nov 2026 16:55:06 GMT"
   }
  ]
 }

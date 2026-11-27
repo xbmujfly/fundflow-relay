@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-27T04:00:29Z",
+ "ts": "2026-11-27T04:15:29Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -394,9 +395,15 @@
   },
   {
    "src": "gnews",
-   "title": "China extends suspension period for its ban on export of critical minerals to US - VOA - Voice of America English News",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcHdQcW5kWW5acVB5V3dlOWZHTXZ3d19kb3Zjd0VnRGJZemVPZFJsUWs3TXBFV3VUZzZSVlR3Y1R2TXBvMmVhSm9NdGpIS0Z2RUxmVV9pUFJTOUlrbGttSzJpOUs1LUZ2RHFaNWhTdWZBSkNiY3YtUFIzLXNudjBnYTc4YW5vQVN6MHp6QXVMSUtwUDhWQXd2Vk4weUtjWnpfSXpJMEJaXzNuVEJKVlZFdTM3ajBudzNXRFNzejdXdWczODAwMTZN0gHKAUFVX3lxTFBlRUFKQi1ldTZNSGZRMkpadnkyUGpYSVo5X05wSVd3NWRVMjJZSE1pWHV2YzJWYjBSakZQcy1GVWszN2dzMHh0ZGF2UEVlV3VNdm9yWTd0UlVic0RSeEg2SU9XdUYtMV9PV1VmekYxalFzallhLU91M09HTmZVWm1jOVRPRHl2U1dWSVFoSzcxd0lkNmM3NTlQOElTZlhQR3JzdWc2VHFpMnkyRWE2QUVsR045QjBmb1lKOGN1OFI3MmpxNVA0c0pxQUE?oc=5",
-   "ts": "Thu, 26 Nov 2026 19:54:44 GMT"
+   "title": "Bumpier U.S.-China Trade Is Coming - China-US Focus",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJNUURnenNwRV9MaTlCUFZOejU2T2xNeTRSTzlOaFBRLTNNcmhrbVdlSjZ6b1g4RDJnSXBuSlJFZ3dzeDdEc3ZlY21ES0lQZFYyWm9TWHBtTm1haUhKaFJnM1JDcjVmRVQyOU5tTmRHM1RzUnl3YXRmM3FVc0RIUzIybw?oc=5",
+   "ts": "Tue, 24 Nov 2026 13:02:14 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
+   "ts": "Fri, 20 Nov 2026 18:52:08 GMT"
   },
   {
    "src": "gnews",
@@ -412,15 +419,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump announces new trade tariffs: Which countries are affected? - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEJUV292VEZ6TjdJalc2UkRBWGVDaUVVa1ZyMFZGbE5kakN2VTA2bnNuSUFsNVJSZE9jMTdnVDFEZExLbEhLcy1oTHRkbV9GYzdzV05vREFrNXM5RWRTS1lGdTZzMUhTQzRoQ2FqNW9oakZNT0l0R3RyTjZrMkZkeDlKVjFiaFB2a09wRWp4Q050eXNib1M1U3hLNndVQW12cE9KbFBtYWRyaGJj0gGyAUFVX3lxTE1zaEVXa2ZXOGhyOHJ1Yk1SSENISGhHZVpwekNrMGpkaENvVTNuT1lmN01ESWZSeUVCelJKbGlEV203eWRXLTdjRGU3Ny1vOG85OVBOSklDN1dPRWdpSHRrQ2JmWlNxR2FNYTF4V19mRjhPemsxcnJsZkJqU2haVkRoNzNkdFFRdkI5YzRRcVBVbV9VUzRmVFdPaThCQVNHTXdxaGFkVmJJLWNMOXRqZzN5UXc?oc=5",
-   "ts": "Wed, 25 Nov 2026 15:00:52 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump Administration Unveils New Tariffs for China, the European Union, and More - Time Magazine",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFhtMHlCRmo0RXBTdk9ObEE1X3RickdBOUwydnhxN25sbjBubGM4eE9qZlBaTTBmOW5IbWVQNUw5MXBvVlg0TlduTmJuR1lrLW1zRV9NaXRzcXBaRGlxMHUxS1luN1htcndZaGpBNl9yZU8tU1ptbjA0WG1yV2wwRW03M0ViODMzRHZ2WEY5RnpaTUJYSWk3T0lOdU4?oc=5",
    "ts": "Wed, 25 Nov 2026 19:02:40 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump announces new trade tariffs: Which countries are affected? - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEJUV292VEZ6TjdJalc2UkRBWGVDaUVVa1ZyMFZGbE5kakN2VTA2bnNuSUFsNVJSZE9jMTdnVDFEZExLbEhLcy1oTHRkbV9GYzdzV05vREFrNXM5RWRTS1lGdTZzMUhTQzRoQ2FqNW9oakZNT0l0R3RyTjZrMkZkeDlKVjFiaFB2a09wRWp4Q050eXNib1M1U3hLNndVQW12cE9KbFBtYWRyaGJj0gGyAUFVX3lxTE1zaEVXa2ZXOGhyOHJ1Yk1SSENISGhHZVpwekNrMGpkaENvVTNuT1lmN01ESWZSeUVCelJKbGlEV203eWRXLTdjRGU3Ny1vOG85OVBOSklDN1dPRWdpSHRrQ2JmWlNxR2FNYTF4V19mRjhPemsxcnJsZkJqU2haVkRoNzNkdFFRdkI5YzRRcVBVbV9VUzRmVFdPaThCQVNHTXdxaGFkVmJJLWNMOXRqZzN5UXc?oc=5",
+   "ts": "Wed, 25 Nov 2026 15:00:52 GMT"
   },
   {
    "src": "gnews",
@@ -442,141 +449,15 @@
   },
   {
    "src": "gnews",
-   "title": "Mexico urges Asian trade partners to crack down on tariff dodging - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHhmUFduZ0tRbWFBQ2xIRmtIZDU0S012anU5bEx3SGVzOXVmV1JkNGxIZkNXV0RYTWJlNEVqUTFoS0tnQ1QtcXI0bVlJT25XQ1Y4TFZvczVTbTFPWTc3eUF6MzF6M0swR3JYTGR0ZjNwZVhhb2dWUjNBSjBod1ZfWU4zajFXMnBYUU1YY3pNQXNDWlRQa2VILWVJc25tcnJpV3ljRW95RjViUXM?oc=5",
-   "ts": "Thu, 26 Nov 2026 17:09:43 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
    "ts": "Fri, 27 Nov 2026 03:01:56 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump proposes new tariffs on China, Europe and other trade partners - The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRG9IZXZjbjBEQ2tzam5pT0FPZWNFc2hac3ZURjRUaTJITlQwQmt4RElZVGlnM0luQndHeXdRaGRwTUVVbHVqQlcyZC01OC1adzBLT3JWWlNadmw2N01zR3JZT1VwWG1mVVNaSkNUSWExNTlYRWtCejNRUE1KSXk0TFpjaUt5X0Z4LUFLMzB1c3QtRXNpUVc5UzNMeHY4d2paMjVEVGpveFlpM1BvZWRlZzFR?oc=5",
-   "ts": "Thu, 26 Nov 2026 01:24:25 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": " « Путін хоче завершити війну »: Трамп пояснив , чому вірить у це",
-   "url": "https://glavcom.ua/world/world-politics/putin-khoche-zavershiti-vijnu-tramp-pojasniv-chomu-virit-u-tse-1158310.html",
-   "ts": "20261127T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "코스피 , 장 초반 보합권 등락 … 코스닥은 4 % 대  점프  ",
-   "url": "http://www.newstomato.com/ReadNews.aspx?no=1322096",
-   "ts": "20261127T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Zelensky kritisch op Amerikaanse steun :  Tekort aan raketten kost levens  ",
-   "url": "https://nos.nl/artikel/2641180-zelensky-kritisch-op-amerikaanse-steun-tekort-aan-raketten-kost-levens",
-   "ts": "20261127T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump signs major disaster declaration for Florida flooding , unlocking FEMA relief funds",
-   "url": "https://bakersfieldnow.com/news/nation-world/trump-signs-major-disaster-declaration-for-florida-flooding-unlocking-fema-relief-funds",
-   "ts": "20261127T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Bolsas europeas crecen ante menor incertidumbre tecnológica",
-   "url": "https://www.lafm.com.co/economia/bolsas-europeas-repuntan-disminuye-incertidumbre-sector-tecnologico-418446",
-   "ts": "20261127T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Трамп назвав причину війни в Україні та згадав виключення Росії з G8",
-   "url": "https://focus.ua/uk/voennye-novosti/776231-tramp-nazvav-prichinu-viyni-v-ukrajini-ta-zgadav-viklyuchennya-rosiji-z-g8",
-   "ts": "20261127T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to  pull back  | Russia - Ukraine war News",
-   "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back",
-   "ts": "20261127T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Shares find footing after bruising month , dollar set for third monthly gain",
-   "url": "https://ksevradio.com/shares-find-footing-after-bruising-month-dollar-set-for-third-monthly-gain/",
-   "ts": "20261127T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
-   "url": "https://srilankamirror.com/2026/11/27/news/hope-for-millions-as-cheaper-hiv-prevention-jab-reaches-africa",
-   "ts": "20261127T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Калужский бестселлер получил полный привод и новый робот : потеснит ли он Haval Jolion",
-   "url": "https://auto.pravda.ru/news/2449752-tenet-t4l-4wd-russia-price/",
-   "ts": "20261127T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Poco Pad M1 : Xiaomi lâche un prix fou pour vous faire oublier liPad et les autres tablettes",
-   "url": "https://www.presse-citron.net/poco-pad-m1-xiaomi-lache-un-prix-fou-pour-vous-faire-oublier-lipad-et-les-autres-tablettes/",
-   "ts": "20261127T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "China industrial firms post faster profit growth as recovery remains uneven",
-   "url": "https://ksevradio.com/chinas-industrial-firms-post-faster-profit-growth-as-recovery-remains-uneven/",
-   "ts": "20261127T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Músico Digo Ferreira dá protagonismo à guitarra no toque do forró jazzístico que pauta o álbum  Baião de cordas  ",
-   "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/27/musico-digo-ferreira-da-protagonismo-a-guitarra-no-toque-do-forro-jazzistico-que-pauta-o-album-baiao-de-cordas.ghtml",
-   "ts": "20261127T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump  most undiplomatic  ambassador faces swelling campaign to send him home : report",
-   "url": "https://www.rawstory.com/trump-canada-2678541973/",
-   "ts": "20261127T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Asian Market Today : AI स्टॉक्स में तेजी से एशियाई बाजारों में तेजी , जापान , दक्षिण कोरिया के बाजार उछले",
-   "url": "https://hindi.moneycontrol.com/news/markets/asian-market-today-asian-markets-rise-on-the-rise-in-ai-stocks-japan-south-korea-markets-jump-2475512.html",
-   "ts": "20261127T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Cet aspi - robot laveur est à - 71 % : Tineco brise la concurrence avec des prix de folie furieuse",
-   "url": "https://www.01net.com/bons-plans/cet-aspi-robot-laveur-est-a-71-tineco-brise-la-concurrence-avec-des-prix-de-folie-furieuse.html",
-   "ts": "20261127T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "זמיר מתנגד , גופמן מתעקש : אם אין ברירה - לתקוף באיראן בלי האמריקנים",
-   "url": "https://www.ynet.co.il/news/article/yokra14971520",
-   "ts": "20261127T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trumpin mukaan Nvidian toimitusjohtaja Huang ei ole turvallisuusuhka",
-   "url": "https://www.esaimaa.fi/uutissuomalainen/9990522",
-   "ts": "20261127T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Gold Price Today : सोने में तेजी की वापसी , मुंबई में ₹124810 पर 24 कैरेट ; दिल्ली में भी चढ़ा भाव",
-   "url": "https://hindi.moneycontrol.com/news/your-money/gold-price-today-on-november-27-sone-ka-bhav-aaj-check-latest-gold-rates-in-delhi-mumbai-hyderabad-jaipur-lucknow-18-22-24-carat-rate-2475514.html",
-   "ts": "20261127T033000Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "China , Mexico agree to set up working group on tariff reduction : commerce ministry",
-   "url": "http://en.people.cn/n3/2026/1127/c90000-20523809.html",
-   "ts": "20261127T033000Z"
+   "title": "China extends suspension period for its ban on export of critical minerals to US - VOA - Voice of America English News",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcHdQcW5kWW5acVB5V3dlOWZHTXZ3d19kb3Zjd0VnRGJZemVPZFJsUWs3TXBFV3VUZzZSVlR3Y1R2TXBvMmVhSm9NdGpIS0Z2RUxmVV9pUFJTOUlrbGttSzJpOUs1LUZ2RHFaNWhTdWZBSkNiY3YtUFIzLXNudjBnYTc4YW5vQVN6MHp6QXVMSUtwUDhWQXd2Vk4weUtjWnpfSXpJMEJaXzNuVEJKVlZFdTM3ajBudzNXRFNzejdXdWczODAwMTZN0gHKAUFVX3lxTFBlRUFKQi1ldTZNSGZRMkpadnkyUGpYSVo5X05wSVd3NWRVMjJZSE1pWHV2YzJWYjBSakZQcy1GVWszN2dzMHh0ZGF2UEVlV3VNdm9yWTd0UlVic0RSeEg2SU9XdUYtMV9PV1VmekYxalFzallhLU91M09HTmZVWm1jOVRPRHl2U1dWSVFoSzcxd0lkNmM3NTlQOElTZlhQR3JzdWc2VHFpMnkyRWE2QUVsR045QjBmb1lKOGN1OFI3MmpxNVA0c0pxQUE?oc=5",
+   "ts": "Thu, 26 Nov 2026 19:54:44 GMT"
   }
  ]
 }

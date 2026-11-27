@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-26T23:45:30Z",
+ "ts": "2026-11-27T00:00:32Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -377,15 +377,15 @@
   },
   {
    "src": "gnews",
-   "title": "China, others bash Trump’s latest tariff gambit: ‘Trade wars serve no one’s interests’ - The Hill",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR0FwRFprd3NQTTRNT3o4YnpQQ3UwVVpuRWplc3A4eHN0QnRqcVY5cHpfek1IU2JUV0pyd3ozTndHdC1yUlNPNzhka3JTbTRWN1JDLW9wNEwxS0gyVENiTHBoWFVKdVZzTC11eDRhdUxTU1cybWI4bHI3Z0kxYUVCSWZra0RWSHNwN2JaaEd3T213b3RiaFhyQdIBngFBVV95cUxPY1RoTjh5ODJaOTRHY2txY1RhSUNONkxBcUxMLWVwOFBPNEliYVg5RldJSy1iZ2dEMVJMMENKR1g0QzBZdXN6bTEwcGNzYVB3V29ZNVNFYWhhYTJqczZLbWZkTHJmRzZ4dVJwbUh0WTRnalhfSW9YdnJyejRoNFhDb19rQmFfV2VzYmNNeXJHUXNnZjYyeVBoYXAxQzJKZw?oc=5",
-   "ts": "Thu, 26 Nov 2026 15:44:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump proposes a new wave of tariffs on China, E.U. and other trade partners - NBC News",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEhIWkhHU2FmSW5HZm1STUdfNlgzRWF6TXR1Njc2cDZ5SXF0RmVSY2NyS2tIQmJxWHlTZTJxVTg1bmI5YzcxemluVXFFdVZEUW1xUHZuTXhQN2ZaTjVtMzl0bEdwcGFNTFR5aU0wLTY3cDVJbnpXMjVQVWItMUoyOGVQakp1OHpocUlJWmc3ZWxZM1NHUWFiT2NsMXA2TXM?oc=5",
    "ts": "Wed, 25 Nov 2026 13:58:10 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China, others bash Trump’s latest tariff gambit: ‘Trade wars serve no one’s interests’ - The Hill",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR0FwRFprd3NQTTRNT3o4YnpQQ3UwVVpuRWplc3A4eHN0QnRqcVY5cHpfek1IU2JUV0pyd3ozTndHdC1yUlNPNzhka3JTbTRWN1JDLW9wNEwxS0gyVENiTHBoWFVKdVZzTC11eDRhdUxTU1cybWI4bHI3Z0kxYUVCSWZra0RWSHNwN2JaaEd3T213b3RiaFhyQdIBngFBVV95cUxPY1RoTjh5ODJaOTRHY2txY1RhSUNONkxBcUxMLWVwOFBPNEliYVg5RldJSy1iZ2dEMVJMMENKR1g0QzBZdXN6bTEwcGNzYVB3V29ZNVNFYWhhYTJqczZLbWZkTHJmRzZ4dVJwbUh0WTRnalhfSW9YdnJyejRoNFhDb19rQmFfV2VzYmNNeXJHUXNnZjYyeVBoYXAxQzJKZw?oc=5",
+   "ts": "Thu, 26 Nov 2026 15:44:00 GMT"
   },
   {
    "src": "gnews",
@@ -407,6 +407,12 @@
   },
   {
    "src": "gnews",
+   "title": "China hits back at Trump tariff threat - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXdLemg3R0M0SkVKVUhMZHdsQmN0X2t0Tk9lYWY4RzFuYzhWUFFxVHQ0WUxkMDhnQTB4dEhoZDJvQ0gzUmhmelROQmRlS2kxdUpXTkI0TkxFM0pVMElQWlE4RmY2UE1UZjQyLUNtdmVJT3k5OE1xOXJvaURWU1hjZmN5anY?oc=5",
+   "ts": "Thu, 26 Nov 2026 08:19:05 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "US traders fear proposed tariffs on China may weigh on farm trade - S&P Global",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMU11aWxHdGl0T1B2akFxaTV2Z1d3Vkd1clhiS3NJVU5kakNKMGFqZjZWRnZMUkJDOGxYMktLcnlsU3NGQkFKTHZkS1VjWmt4Y1V6VkdQTC1HMHdqS21LcGMtVk00d2dGaHRJSGxBNjFBTC1kQUJvNlhPRjJ3cWVHcnNza0YxcVdPbjBaLVlJa2oxRHBCMlpqaHZmUnppSE1uSmRmYlh2SUdsZkdoTndjQlNsTjVnTWV6Z3RwVTJJNDRQcVg0S01jN2txRTZzRVRSTGpLbDd6bGkyODBidWc?oc=5",
    "ts": "Thu, 26 Nov 2026 16:55:06 GMT"
@@ -416,12 +422,6 @@
    "title": "New Tariffs on China Risk Undermining Trade Truce With U.S. - WSJ",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUcwQ3JjLUlNWjhSZnFuYWMzVEFGd0RMR2lZT2VmWUdBejNHckpxbWFSb0lsTUNuTzktdm9qTk94eTgxMXFRQkplOTdZZkFDSEVaUkVZcWFfb1lEMTNEVzFHd013bXhoRFU4ajZjOTB0UXFhM1FacVliRVdqcFY5dG11UURVYmFZang5ZEpaZEVCazhBMjFz?oc=5",
    "ts": "Thu, 26 Nov 2026 08:42:00 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Trump prepares new round of tariffs on China, other U.S. trading partners - Axios",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zLTBLcVRHTWZCNy11bHI0NEl4S0FiYVoydFZHQVJ6VUxSNUNqR2hLQ0NoQ05ZSEJxX3I1ZjhQZFJ1R2VPcWF2eXlreU1wZWpmMFRiQjJpeTVRUVVfN3h4akhB?oc=5",
-   "ts": "Thu, 26 Nov 2026 04:11:20 GMT"
   },
   {
    "src": "gnews",
@@ -455,9 +455,9 @@
   },
   {
    "src": "gnews",
-   "title": "China hits back at Trump tariff threat - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXdLemg3R0M0SkVKVUhMZHdsQmN0X2t0Tk9lYWY4RzFuYzhWUFFxVHQ0WUxkMDhnQTB4dEhoZDJvQ0gzUmhmelROQmRlS2kxdUpXTkI0TkxFM0pVMElQWlE4RmY2UE1UZjQyLUNtdmVJT3k5OE1xOXJvaURWU1hjZmN5anY?oc=5",
-   "ts": "Thu, 26 Nov 2026 06:57:10 GMT"
+   "title": "Trump prepares new round of tariffs on China, other U.S. trading partners - Axios",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zLTBLcVRHTWZCNy11bHI0NEl4S0FiYVoydFZHQVJ6VUxSNUNqR2hLQ0NoQ05ZSEJxX3I1ZjhQZFJ1R2VPcWF2eXlreU1wZWpmMFRiQjJpeTVRUVVfN3h4akhB?oc=5",
+   "ts": "Thu, 26 Nov 2026 04:11:20 GMT"
   }
  ]
 }

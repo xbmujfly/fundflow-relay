@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-28T04:15:26Z",
+ "ts": "2026-11-28T04:30:34Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -458,6 +457,126 @@
    "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals? - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWVQTU9Bem1UcHdtT2s5T005dlJvaDZfMTZ3aTQ1UHpDVUNMbERrRTFpQ0pKNFI0alRqWWp6ODBNYTJuSVNIX2JBMEpDRFh2RmlvYkNISXByQlJrR0dvb1BvQ0hxZmlPSXhtY3FfZjB6eUl0S0dtb2hxcHJwZ2U3X3ZudWpyMFRodlVackNmbU5DOVJENVhmS0s5bzQ2Z3BSMEdyZNIBqgFBVV95cUxPc2NjTE95RV9JMXdFTy1CdVNSdm1mRUt3cGxydjdid21HVFAza2pLcGRiY2FzOEUxeHhKNHZRcjdFeHRxQ0h5ZjYzZHRFWWhMSTFqSnJmVU9BNnB5WnB4VGpYN2Z3RU5vT24wVlhQeXpqYURoWnlXLW5QbXNvWS1DSzd5VGVNM0dPcnkyQkE1NEJCRlROejRDaE0tSXR0aXFYakJyMVNQYkRyZw?oc=5",
    "ts": "Thu, 26 Nov 2026 11:16:29 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "Folha prepara novos formatos de eventos em 2027",
+   "url": "https://c-level.folha.uol.com.br/negocios/2026/11/folha-prepara-novos-formatos-de-eventos-em-2027.shtml",
+   "ts": "20261128T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Pearl Jam Respond to  Inhumane  ICE Incident in Seattle Airport",
+   "url": "https://95rockfm.com/ixp/366/p/pearl-jam-respond-ice-arrest-seattle/",
+   "ts": "20261128T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Cooperativas eléctricas bonaerenses alertan por el atraso tarifario",
+   "url": "http://diariojornada.com.ar/427857/politica/cooperativas_electricas_bonaerenses_alertan_por_el_atraso_tarifario",
+   "ts": "20261128T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Report : 38 % of buy - now - pay - later holiday shoppers expect to fall short on payments",
+   "url": "https://myfox28columbus.com/news/nation-world/report-38-of-buy-now-pay-later-holiday-shoppers-expect-to-fall-short-on-payments-credit-cards",
+   "ts": "20261128T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  Have a wonderful winter : US Treasury Secy Bessent targets Pezeshkian over Iran energy crisis",
+   "url": "http://www.greekherald.com/news/279469054/have-a-wonderful-winter-us-treasury-secy-bessent-targets-pezeshkian-over-iran-energy-crisis",
+   "ts": "20261128T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Acosta : Nvidia Probe Could Prove Trump Is a Threat to National Security",
+   "url": "https://www.breitbart.com/clips/2026/11/27/acosta-nvidia-probe-could-prove-trump-is-a-threat-to-national-security/",
+   "ts": "20261128T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Aneel mantém bandeira verde e conta de luz segue sem taxa",
+   "url": "https://diariodosudoeste.com.br/aneel-mantem-bandeira-verde-e-conta-de-luz-segue-sem-taxa/",
+   "ts": "20261128T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Iran issues new threats as war stalemate drags on",
+   "url": "https://foxreno.com/news/nation-world/iran-issues-new-threats-as-war-stalemate-drags-on",
+   "ts": "20261128T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Hackers reportedly breach US Air Force flagship cloud computing platform : Report",
+   "url": "https://aninews.in/news/world/us/hackers-reportedly-breach-us-air-forces-flagship-cloud-computing-platform-report20261128041926/",
+   "ts": "20261128T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "DeepSeek给智能装上了电表 - 钛媒体官方网站",
+   "url": "https://www.tmtpost.com/8220986.html",
+   "ts": "20261128T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Iran issues new threats as war stalemate drags on",
+   "url": "https://myfox28columbus.com/news/nation-world/iran-issues-new-threats-as-war-stalemate-drags-on",
+   "ts": "20261128T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "JLR prépare un Defender électrique pour 2027 - L  Écho de Maskinongé",
+   "url": "https://www.lechodemaskinonge.com/actualites-automobile/jlr-prepare-un-defender-electrique-pour-2027/",
+   "ts": "20261128T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Too $hort Explains Why He Passed On A Trump - Linked Appearance",
+   "url": "https://allhiphop.com/news/too-hort-explains-why-he-passed-on-a-trump-linked-appearance/",
+   "ts": "20261128T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Controversial anti - Israel ad showing little girl on bicycle that aired during Saturday Night Live Thanksgiving special is pulled off air by NBC",
+   "url": "https://www.dailymail.com/news/article-16327993/nbc-anti-Israel-ad-pulled-snl-saturday-night-live-thanksgiving-palestine.html",
+   "ts": "20261128T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "حماس تعلن نجاة نجل رئيسها خليل الحية من  محاولة إسرائيلية لاغتياله  ",
+   "url": "https://cedarnews.net/bbc/1206353/%D8%AD%D9%85%D8%A7%D8%B3-%D8%AA%D8%B9%D9%84%D9%86-%D9%86%D8%AC%D8%A7%D8%A9-%D9%86%D8%AC%D9%84-%D8%B1%D8%A6%D9%8A%D8%B3%D9%87%D8%A7-%D8%AE%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%AD%D9%8A%D8%A9-%D9%85%D9%86/",
+   "ts": "20261128T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "iPhone連著Wi - Fi卻超卡 ？ 內建1功能有解 但這類人慎開",
+   "url": "https://3c.ltn.com.tw/news/68461",
+   "ts": "20261128T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "The Great Blackout hasnt happened yet but it still could",
+   "url": "https://www.caledonenterprise.com/opinion/columnists/the-great-blackout-did-not-happen-on-tuesday-but-it-might-in-the-future/article_30784fdd-e130-5355-9833-13cb2f8a9995.html",
+   "ts": "20261128T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "ACLU moves court against Trump admin over unmasking ICE critics",
+   "url": "https://www.siasat.com/aclu-moves-court-against-trump-admin-over-unmasking-ice-critics-3588713/",
+   "ts": "20261128T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "DeepSeek给智能装上了电表",
+   "url": "https://www.163.com/dy/article/LCQIQF7005118O92.html",
+   "ts": "20261128T023000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Thumbs - up for nutrition labelling push",
+   "url": "https://timesofindia.indiatimes.com/business/india-business/thumbs-up-for-nutrition-labelling-push/articleshow/136236333.cms",
+   "ts": "20261128T023000Z"
   }
  ]
 }

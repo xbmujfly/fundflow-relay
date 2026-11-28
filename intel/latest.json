@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-28T02:00:28Z",
+ "ts": "2026-11-28T02:15:26Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -353,15 +353,15 @@
   },
   {
    "src": "gnews",
-   "title": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZWpiaWFfMlFaRm0wbWdQNGRyY0g3WmdublpxREhkS0FnSkZIQk5lbDV6cFhjblM2a2RrLVVyNUdqaWNIVFBKcWJPODIyNXdoeVRrR2ViZVNmcmIxd0lFTWNPbXJ3Mzh4WGVESkdYZlk3eDBXdXNaU3hoUTd4ZlhWUFJqNWFpX2hCaDNJelRVdm9MeWx0aG1NZmtxd2dJWWdfc1M5Q1dYSHNZc3hrS0NLWHBVcWlySGhF0gG-AUFVX3lxTE9mOFgxejN3S3J1WVA5ZFFZdHhCYnJUall5aGktMkdPamFLUmRGNTdwdjZtbnlkS21DRGpzcW1FcHpEYU8wTFpYbU1zaXFhcXJwS0xPYzF5QmRLLVI4b1h1QzBkbHNndkF6LW9CNlhiRjhUdllWR3dFOGhwUV9qUGZqNTQ0NWNBSXFCOHNxY3VUSkM3aG5TQUlqMnYyVUV3VnhrWG95MmYxSGZBc29QY3N1Y1E1RTdxeW5YUUQxZHc?oc=5",
-   "ts": "Fri, 27 Nov 2026 16:14:56 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Economist labels Trump ‘the biggest loser of any president’ as he shreds key trade policy - The Independent",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1A2WEI5V01wUTVEel9FRTFkRG55MklaTHBZWTdvVHBsZG1EVjhiVUZaZFJBNVByWXRyeVA4TFQ5R0xJemlvQ25zZGEwSlQ4VVV1T2lFbHlVNHZFbFhEOFByZE5OX2MyeTl3VzU0d0RIUnRMOV9yQ1EzTVFOLWFfVWxsaVFVdjd6WVo5TF8xdnlBejRyaVhHMDZOdDFRcDEyWTFXbkdoSEdtNUM4ZUtfNXhmeU5YbGFrZEJXaVQtNA?oc=5",
    "ts": "Fri, 27 Nov 2026 21:16:00 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China and other U.S. trading partners hit back at Trump's new tariff plans - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdTJwU0R5ZUU5WTEtWFZZc3R4dDUwSDFRYXd0U3dUM2hpTWJkZ2hTbk82ejZvWGJvRmUtRkdTVTBaYUxSeVlXRm83dTFvR1o5bERQN2VUaHBUTENoYkRpS0xHTDVUaHh1WDlNUGhybXQyTVRxNno5UGh1VU1CcGtzRmhTNWsyd2MtMk5LM2Izbm1FVkxwZFhFdXhB0gGfAUFVX3lxTFBkNlBmVGlaMG5Pb3pYdXR4WGRjYXh4cVp6UnU2dy1MTjhpZkc1bHhFZ0R1SzlYSTJCTm1TN3dJTW5EUm8yUkh2WTRsVE1od1ZOcDJ4N3JfWFF3cEhBeVJKeDlOWFdtLTNuckMwdDRYU1FwWFpsd1VURlhqODhuRlB3OUVmYVM4NnZDN0JISF9iWHpQQldrcGRXdFRRLTl5aw?oc=5",
+   "ts": "Thu, 26 Nov 2026 13:31:10 GMT"
   },
   {
    "src": "gnews",
@@ -389,21 +389,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump’s Latest Tariffs Revive Focus on Pressuring China - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1odENQTk1RR0JMbTlRYWhYcnh6cGdvcktJUGVNZURvbUFtTHZ0end3RjhpclNNNEF0ZnZFTDVHTy1Vcy1jMF90U240MEZFUURvdkJDN3I2aE55R193X1VjVW9PaU5sVWZvU1Y4dmt5M3ZmeE1YcVE?oc=5",
-   "ts": "Thu, 26 Nov 2026 14:00:34 GMT"
+   "title": "Trump Administration Unveils New Tariffs for Dozens of Countries, Citing Unfair Practices - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN05tSHVLN1V3cFRSaUY1d0l6MGkyY1dhRnN6R08tWW5uSm91eXlXQ1VHXzhnMEZpNHQtR0QzYWI5NHlFcjg4bFBhN0ZyMXZZQU9oQUJlVzNwUERxRFFWQThTOXMzM1laQjQzSXNjeXNlUnNGT3Zv?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:17:38 GMT"
   },
   {
    "src": "gnews",
    "title": "Trump proposes new tariffs on China, Europe and other trade partners - The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRG9IZXZjbjBEQ2tzam5pT0FPZWNFc2hac3ZURjRUaTJITlQwQmt4RElZVGlnM0luQndHeXdRaGRwTUVVbHVqQlcyZC01OC1adzBLT3JWWlNadmw2N01zR3JZT1VwWG1mVVNaSkNUSWExNTlYRWtCejNRUE1KSXk0TFpjaUt5X0Z4LUFLMzB1c3QtRXNpUVc5UzNMeHY4d2paMjVEVGpveFlpM1BvZWRlZzFR?oc=5",
    "ts": "Thu, 26 Nov 2026 01:24:25 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Bumpier U.S.-China Trade Is Coming - China-US Focus",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJNUURnenNwRV9MaTlCUFZOejU2T2xNeTRSTzlOaFBRLTNNcmhrbVdlSjZ6b1g4RDJnSXBuSlJFZ3dzeDdEc3ZlY21ES0lQZFYyWm9TWHBtTm1haUhKaFJnM1JDcjVmRVQyOU5tTmRHM1RzUnl3YXRmM3FVc0RIUzIybw?oc=5",
-   "ts": "Tue, 24 Nov 2026 13:02:14 GMT"
   },
   {
    "src": "gnews",
@@ -419,33 +413,33 @@
   },
   {
    "src": "gnews",
-   "title": "Why Trump’s trade war may benefit Canada in the long run - TheDailyNewsOnline.com",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPazRIRE1yUHl0bmxDVzFPU1oycElpS2EzbDBWa09UM2VMUlUwNDZOLVVBWGZDWEdNNUZ0OXJXWVpoazNmN0JodzZPVUlLZjNsRmUxVGd3NkY0UnRYZG5FcGptUTE5SUh5SWtEQ0J1MllkeUxGM19EOF9Ydm1XU0ZlU3pPTnRpUG90TGZMUWZmLWQyck1sMEI5ZXNxQUtwamVWZjROVjNLUHRxLWdzZjBVcmxDZDRuOWZQaXd6MnV6R241c1lzNHhxZXNab1hMUUlFTHRrbTZtN1NwS3MtRlNJ?oc=5",
-   "ts": "Fri, 27 Nov 2026 19:00:44 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat - Reuters",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
    "ts": "Wed, 25 Nov 2026 13:15:00 GMT"
   },
   {
    "src": "gnews",
-   "title": "China and other U.S. trading partners hit back at Trump's new tariff plans - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdTJwU0R5ZUU5WTEtWFZZc3R4dDUwSDFRYXd0U3dUM2hpTWJkZ2hTbk82ejZvWGJvRmUtRkdTVTBaYUxSeVlXRm83dTFvR1o5bERQN2VUaHBUTENoYkRpS0xHTDVUaHh1WDlNUGhybXQyTVRxNno5UGh1VU1CcGtzRmhTNWsyd2MtMk5LM2Izbm1FVkxwZFhFdXhB0gGfAUFVX3lxTFBkNlBmVGlaMG5Pb3pYdXR4WGRjYXh4cVp6UnU2dy1MTjhpZkc1bHhFZ0R1SzlYSTJCTm1TN3dJTW5EUm8yUkh2WTRsVE1od1ZOcDJ4N3JfWFF3cEhBeVJKeDlOWFdtLTNuckMwdDRYU1FwWFpsd1VURlhqODhuRlB3OUVmYVM4NnZDN0JISF9iWHpQQldrcGRXdFRRLTl5aw?oc=5",
-   "ts": "Thu, 26 Nov 2026 13:31:10 GMT"
+   "title": "Why Trump’s trade war may benefit Canada in the long run - TheDailyNewsOnline.com",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPazRIRE1yUHl0bmxDVzFPU1oycElpS2EzbDBWa09UM2VMUlUwNDZOLVVBWGZDWEdNNUZ0OXJXWVpoazNmN0JodzZPVUlLZjNsRmUxVGd3NkY0UnRYZG5FcGptUTE5SUh5SWtEQ0J1MllkeUxGM19EOF9Ydm1XU0ZlU3pPTnRpUG90TGZMUWZmLWQyck1sMEI5ZXNxQUtwamVWZjROVjNLUHRxLWdzZjBVcmxDZDRuOWZQaXd6MnV6R241c1lzNHhxZXNab1hMUUlFTHRrbTZtN1NwS3MtRlNJ?oc=5",
+   "ts": "Fri, 27 Nov 2026 19:00:44 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump Administration Unveils New Tariffs for Dozens of Countries, Citing Unfair Practices - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN05tSHVLN1V3cFRSaUY1d0l6MGkyY1dhRnN6R08tWW5uSm91eXlXQ1VHXzhnMEZpNHQtR0QzYWI5NHlFcjg4bFBhN0ZyMXZZQU9oQUJlVzNwUERxRFFWQThTOXMzM1laQjQzSXNjeXNlUnNGT3Zv?oc=5",
-   "ts": "Wed, 25 Nov 2026 13:17:38 GMT"
+   "title": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZWpiaWFfMlFaRm0wbWdQNGRyY0g3WmdublpxREhkS0FnSkZIQk5lbDV6cFhjblM2a2RrLVVyNUdqaWNIVFBKcWJPODIyNXdoeVRrR2ViZVNmcmIxd0lFTWNPbXJ3Mzh4WGVESkdYZlk3eDBXdXNaU3hoUTd4ZlhWUFJqNWFpX2hCaDNJelRVdm9MeWx0aG1NZmtxd2dJWWdfc1M5Q1dYSHNZc3hrS0NLWHBVcWlySGhF0gG-AUFVX3lxTE9mOFgxejN3S3J1WVA5ZFFZdHhCYnJUall5aGktMkdPamFLUmRGNTdwdjZtbnlkS21DRGpzcW1FcHpEYU8wTFpYbU1zaXFhcXJwS0xPYzF5QmRLLVI4b1h1QzBkbHNndkF6LW9CNlhiRjhUdllWR3dFOGhwUV9qUGZqNTQ0NWNBSXFCOHNxY3VUSkM3aG5TQUlqMnYyVUV3VnhrWG95MmYxSGZBc29QY3N1Y1E1RTdxeW5YUUQxZHc?oc=5",
+   "ts": "Fri, 27 Nov 2026 13:33:57 GMT"
   },
   {
    "src": "gnews",
    "title": "Trump announces new trade tariffs: Which countries are affected? - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEJUV292VEZ6TjdJalc2UkRBWGVDaUVVa1ZyMFZGbE5kakN2VTA2bnNuSUFsNVJSZE9jMTdnVDFEZExLbEhLcy1oTHRkbV9GYzdzV05vREFrNXM5RWRTS1lGdTZzMUhTQzRoQ2FqNW9oakZNT0l0R3RyTjZrMkZkeDlKVjFiaFB2a09wRWp4Q050eXNib1M1U3hLNndVQW12cE9KbFBtYWRyaGJj0gGyAUFVX3lxTE1zaEVXa2ZXOGhyOHJ1Yk1SSENISGhHZVpwekNrMGpkaENvVTNuT1lmN01ESWZSeUVCelJKbGlEV203eWRXLTdjRGU3Ny1vOG85OVBOSklDN1dPRWdpSHRrQ2JmWlNxR2FNYTF4V19mRjhPemsxcnJsZkJqU2haVkRoNzNkdFFRdkI5YzRRcVBVbV9VUzRmVFdPaThCQVNHTXdxaGFkVmJJLWNMOXRqZzN5UXc?oc=5",
    "ts": "Wed, 25 Nov 2026 15:00:52 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump’s Latest Tariffs Revive Focus on Pressuring China - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1odENQTk1RR0JMbTlRYWhYcnh6cGdvcktJUGVNZURvbUFtTHZ0end3RjhpclNNNEF0ZnZFTDVHTy1Vcy1jMF90U240MEZFUURvdkJDN3I2aE55R193X1VjVW9PaU5sVWZvU1Y4dmt5M3ZmeE1YcVE?oc=5",
+   "ts": "Thu, 26 Nov 2026 14:00:34 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +452,12 @@
    "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals? - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWVQTU9Bem1UcHdtT2s5T005dlJvaDZfMTZ3aTQ1UHpDVUNMbERrRTFpQ0pKNFI0alRqWWp6ODBNYTJuSVNIX2JBMEpDRFh2RmlvYkNISXByQlJrR0dvb1BvQ0hxZmlPSXhtY3FfZjB6eUl0S0dtb2hxcHJwZ2U3X3ZudWpyMFRodlVackNmbU5DOVJENVhmS0s5bzQ2Z3BSMEdyZNIBqgFBVV95cUxPc2NjTE95RV9JMXdFTy1CdVNSdm1mRUt3cGxydjdid21HVFAza2pLcGRiY2FzOEUxeHhKNHZRcjdFeHRxQ0h5ZjYzZHRFWWhMSTFqSnJmVU9BNnB5WnB4VGpYN2Z3RU5vT24wVlhQeXpqYURoWnlXLW5QbXNvWS1DSzd5VGVNM0dPcnkyQkE1NEJCRlROejRDaE0tSXR0aXFYakJyMVNQYkRyZw?oc=5",
    "ts": "Thu, 26 Nov 2026 11:16:29 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "World reacts to Trump’s new tariffs as US stocks tumble - Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2xwNlNFeVhicVplSG9FSUZVd2xjOUxCcHd6QjFfeV9PV0VNTkNmOEVQWkN1S2JRbGd6WXBlZ2czdlRWT3hDcWlWclMzeVA0c09QZzVzRTY0VWhxZEJOMU1BNVhpRTNVLThIczAwODJjSzBka1lXVkFRc1pBWGZjRHRhakwxUTdhdllTYVJXUGg1cE9tbWg2clBQZXFBcWl00gGmAUFVX3lxTE1ManFzV2ItczJsaU1wc2t3Tkc3OXdMTlhsdF9tZVh2c29Ld2lLakRybW1sZEhzOXMwNUh5ZUVLd2prWTFSUFZpbm40alhZcEcxVFBIM1NTUzljU1dzdS1oZ2RxTlp6cGNSUzRTOGlxbE5GNGZORy1Da3diOS1NWExyM1RNQVZrZkJEMkhZREdZY1BickkyNE1pbWIzOHdhRFk3Zng2TWc?oc=5",
+   "ts": "Wed, 25 Nov 2026 19:31:28 GMT"
   }
  ]
 }

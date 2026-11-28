@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-28T08:15:40Z",
+ "ts": "2026-11-28T08:30:36Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "URLError: <urlopen error [Errno 104] Connection reset by peer>"
   }
  },
  "items": [
@@ -388,21 +389,27 @@
   },
   {
    "src": "gnews",
+   "title": "Bumpier U.S.-China Trade Is Coming - China-US Focus",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJNUURnenNwRV9MaTlCUFZOejU2T2xNeTRSTzlOaFBRLTNNcmhrbVdlSjZ6b1g4RDJnSXBuSlJFZ3dzeDdEc3ZlY21ES0lQZFYyWm9TWHBtTm1haUhKaFJnM1JDcjVmRVQyOU5tTmRHM1RzUnl3YXRmM3FVc0RIUzIybw?oc=5",
+   "ts": "Tue, 24 Nov 2026 13:02:14 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump Administration Unveils New Tariffs for Dozens of Countries, Citing Unfair Practices - The New York Times",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN05tSHVLN1V3cFRSaUY1d0l6MGkyY1dhRnN6R08tWW5uSm91eXlXQ1VHXzhnMEZpNHQtR0QzYWI5NHlFcjg4bFBhN0ZyMXZZQU9oQUJlVzNwUERxRFFWQThTOXMzM1laQjQzSXNjeXNlUnNGT3Zv?oc=5",
    "ts": "Wed, 25 Nov 2026 13:17:38 GMT"
   },
   {
    "src": "gnews",
-   "title": "China Challenges Mexico’s Tariffs as Trade Talks Continue - Mexico Business News",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY3dZaEQ5NlhnNTQ4NEhxZ2lDSXhXbk9LVWFHbHdwckVNY0J2cmplMXZjYUVOMjJycGNlSFZSOEJSQV9ldzducExpSmh6SDJOcTlRZTQtcDdmaW93TEVxUmlvNkVjU1U5VXIwcXVxNXFnaFkxTm1PWmYwcllnVFc3eE9jUG5ZSl82enZwd2lPUUozY0h6c3FDYVpqaUUyZmdlUjN6ZHMtNXVJNFU?oc=5",
-   "ts": "Fri, 27 Nov 2026 22:10:09 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat - Reuters",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
    "ts": "Thu, 26 Nov 2026 01:02:52 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China Challenges Mexico’s Tariffs as Trade Talks Continue - Mexico Business News",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY3dZaEQ5NlhnNTQ4NEhxZ2lDSXhXbk9LVWFHbHdwckVNY0J2cmplMXZjYUVOMjJycGNlSFZSOEJSQV9ldzducExpSmh6SDJOcTlRZTQtcDdmaW93TEVxUmlvNkVjU1U5VXIwcXVxNXFnaFkxTm1PWmYwcllnVFc3eE9jUG5ZSl82enZwd2lPUUozY0h6c3FDYVpqaUUyZmdlUjN6ZHMtNXVJNFU?oc=5",
+   "ts": "Fri, 27 Nov 2026 22:10:09 GMT"
   },
   {
    "src": "gnews",
@@ -451,132 +458,6 @@
    "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals? - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWVQTU9Bem1UcHdtT2s5T005dlJvaDZfMTZ3aTQ1UHpDVUNMbERrRTFpQ0pKNFI0alRqWWp6ODBNYTJuSVNIX2JBMEpDRFh2RmlvYkNISXByQlJrR0dvb1BvQ0hxZmlPSXhtY3FfZjB6eUl0S0dtb2hxcHJwZ2U3X3ZudWpyMFRodlVackNmbU5DOVJENVhmS0s5bzQ2Z3BSMEdyZNIBqgFBVV95cUxPc2NjTE95RV9JMXdFTy1CdVNSdm1mRUt3cGxydjdid21HVFAza2pLcGRiY2FzOEUxeHhKNHZRcjdFeHRxQ0h5ZjYzZHRFWWhMSTFqSnJmVU9BNnB5WnB4VGpYN2Z3RU5vT24wVlhQeXpqYURoWnlXLW5QbXNvWS1DSzd5VGVNM0dPcnkyQkE1NEJCRlROejRDaE0tSXR0aXFYakJyMVNQYkRyZw?oc=5",
    "ts": "Thu, 26 Nov 2026 11:16:29 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "World reacts to Trump’s new tariffs as US stocks tumble - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2xwNlNFeVhicVplSG9FSUZVd2xjOUxCcHd6QjFfeV9PV0VNTkNmOEVQWkN1S2JRbGd6WXBlZ2czdlRWT3hDcWlWclMzeVA0c09QZzVzRTY0VWhxZEJOMU1BNVhpRTNVLThIczAwODJjSzBka1lXVkFRc1pBWGZjRHRhakwxUTdhdllTYVJXUGg1cE9tbWg2clBQZXFBcWl00gGmAUFVX3lxTE1ManFzV2ItczJsaU1wc2t3Tkc3OXdMTlhsdF9tZVh2c29Ld2lLakRybW1sZEhzOXMwNUh5ZUVLd2prWTFSUFZpbm40alhZcEcxVFBIM1NTUzljU1dzdS1oZ2RxTlp6cGNSUzRTOGlxbE5GNGZORy1Da3diOS1NWExyM1RNQVZrZkJEMkhZREdZY1BickkyNE1pbWIzOHdhRFk3Zng2TWc?oc=5",
-   "ts": "Wed, 25 Nov 2026 19:31:28 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Hanson makes splash with voters ... and Santa",
-   "url": "https://www.muswellbrookchronicle.com.au/story/9399780/hanson-makes-splash-with-voters-and-santa/",
-   "ts": "20261128T071500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": " « Στο Ιράν πιστεύεται ότι η επίθεση στο Κουβέιτ πραγματοποιήθηκε από το ουκρανικό καθεστώς » ",
-   "url": "https://www.902.gr/eidisi/kosmos/433950/sto-iran-pisteyetai-oti-i-epithesi-sto-koyveit-pragmatopoiithike-apo-oykraniko",
-   "ts": "20261128T071500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ignore the plámás at Doonbeg : Ireland remains firmly in Washington sights – The Irish Times",
-   "url": "https://www.irishtimes.com/opinion/2026/11/28/cliff-taylor-ignore-the-plamas-at-doonbeg-ireland-remains-firmly-in-washingtons-sights/",
-   "ts": "20261128T071500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Hanson makes splash with voters ... and Santa",
-   "url": "https://www.tenterfieldstar.com.au/story/9399780/hanson-makes-splash-with-voters-and-santa/",
-   "ts": "20261128T071500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Kadıköyde skor baskısı : Fenerbahçe , Erzurumspor FKyı ağırlıyor",
-   "url": "https://www.haberport.com/haber/kadikoyde-skor-baskisi-fenerbahce-erzurumspor-fkyi-agirliyor/78355",
-   "ts": "20261128T071500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Hanson makes splash with voters ... and Santa",
-   "url": "https://www.oberonreview.com.au/story/9399780/hanson-makes-splash-with-voters-and-santa/",
-   "ts": "20261128T071500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "US military reportedly repelled drones at united kingdom air base",
-   "url": "https://www.centralwesterndaily.com.au/story/9399871/us-military-reportedly-repelled-drones-at-uk-air-base/",
-   "ts": "20261128T071500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Hanson makes splash with voters ... and Santa",
-   "url": "https://www.armidaleexpress.com.au/story/9399780/hanson-makes-splash-with-voters-and-santa/",
-   "ts": "20261128T071500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "£100 energy payment : Council tax direct debit rules and how to claim",
-   "url": "https://www.bracknellnews.co.uk/news/26770509.100-energy-payment-council-tax-direct-debit-rules-claim/",
-   "ts": "20261128T071500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Rosja domaga się wycofania Polski z NATO . Grochmalski o niszczeniu państwa przez ekipę Donalda Tuska",
-   "url": "https://niezalezna.pl/polska/rosja-domaga-sie-wycofania-polski-z-nato-grochmalski-o-niszczeniu-panstwa-przez-ekipe-donalda-tuska/585148",
-   "ts": "20261128T071500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "CONRAD BEYERS | AI is creating new worst - case scenarios for entire industries",
-   "url": "https://www.timeslive.co.za/news/sci-tech/2026-11-28-conrad-beyers-ai-is-creating-new-worst-case-scenarios-for-entire-industries/",
-   "ts": "20261128T071500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Os três principais problemas que Trabuco terá que enfrentar na Fazenda no quarto mandato de Lula",
-   "url": "https://www.em.com.br/economia/2026/11/7545922-os-tres-principais-problemas-que-trabuco-tera-que-enfrentar-na-fazenda-no-quarto-mandato-de-lula.html",
-   "ts": "20261128T071500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Chinese business community urges U . S . to withdraw proposed tariffs -- China Economic Net",
-   "url": "http://en.ce.cn/main/latest/202611/t20261128_3311374.shtml",
-   "ts": "20261128T071500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ο αμερικανικός λαϊκισμός τρέχει πιο γρήγορα από τον Τραμπ",
-   "url": "https://www.capital.gr/businessweek/4032500/o-amerikanikos-laikismos-trexei-pio-grigora-apo-ton-tramp/",
-   "ts": "20261128T071500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Customs intensifies anti - smuggling drive ahead of holidays",
-   "url": "https://tribune.net.ph/2026/11/28/customs-intensifies-anti-smuggling-drive-ahead-of-holidays",
-   "ts": "20261128T071500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Gueugnon . Futurs éleveurs , ces étudiants du CFA organisent un ciné - débat sur les défis climatiques dans lagriculture",
-   "url": "https://www.lejsl.com/economie/2026/11/28/futurs-eleveurs-ces-etudiants-du-cfa-organisent-un-cine-debat-sur-les-defis-climatiques-dans-l-agriculture",
-   "ts": "20261128T071500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ACLU accuses Trump of targeting anonymous ICE critics",
-   "url": "https://www.wcvb.com/article/aclu-trump-grand-jury-subpoenas-ice-critics/74552897",
-   "ts": "20261128T071500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "调查越南 、 欧盟 ， 美方报告却满纸  中国  |关税",
-   "url": "https://www.163.com/news/article/LCR2DPVH00019B3E.html",
-   "ts": "20261128T071500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Εκλογές στην Ισπανία : Το μέλλον του Σάντσεθ και η ακροδεξιά",
-   "url": "https://www.philenews.com/kosmos/article/1801839/i-ispania-se-politiko-stavrodromi-krinete-to-mellon-tou-santseth-i-akrodexia-diekdiki-thesi-stin-kivernisi-miso-eona-meta-ton-franko/",
-   "ts": "20261128T071500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "ভারতের ট্রাম্প কার্ড হাসিনা !: Daily Naya Diganta ( দৈনিক নয়া দিগন্ত ) ",
-   "url": "https://www.dailynayadiganta.com/post/other/1073461",
-   "ts": "20261128T071500Z"
   }
  ]
 }

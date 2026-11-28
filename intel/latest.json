@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-28T01:00:27Z",
+ "ts": "2026-11-28T01:15:28Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -365,7 +364,7 @@
   },
   {
    "src": "gnews",
-   "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On - Bloomberg",
+   "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWdwNl9jTnFFSS10Z3BXNVZOWjR6N3ItM3d4MHhIcXZ1TGtyQS03UUV4a0FuYVdMd3FaZ0VVQ09QUTl6d3RDU1RJQW1fcVM3aGZMWURHanZmN3BQanNhT1FVa3Fwb0pUYmtmb3poMm5ZZ0gwelVieGVOQUozVHlXYlkxV1Q4azV5MlNfbEw1T1lSbnFyNndwNjlWUDVBWGFjZkZiUVJLY1dRcU9PU1QwQUZ4V2lnZ3IwNTNGcXMwQldueE5fVWc?oc=5",
    "ts": "Fri, 27 Nov 2026 10:22:48 GMT"
   },
@@ -401,6 +400,12 @@
   },
   {
    "src": "gnews",
+   "title": "China and Brazil Lead Pushback Against Trump’s ‘Unacceptable’ Tariff Threats - Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd0o3Tl9wSlp6TkNJeGc2VW5oT1hPeHR2dGZpcnIzSkF2N3R2REt1WTZxZXNoeGVOZjZUZWo5dVNzQ0RFUVVLOXM3cmVRX0tIY3ZfU09KSXBhY3NqNzlHaHJzUUk5MmdsbEE4cW5SN3k3Nk0yRUt1bUJLV1UwXzhodkNYTXFUZDZmc0x4bg?oc=5",
+   "ts": "Thu, 26 Nov 2026 18:42:35 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump's New Tariffs Raise Concerns Over Farm Costs, Soybean Exports and Global Trade - AgroLatam",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVV91eVVwVXRyZmlDaERkVzUtclhETTlVWmJvRU8zbzRMZnBTN2RjYlpMWS1hZURfMzhoZUNUTGJkOGJQVEREWmJFTGF4M2dKWHFWNnBPYUpVMEdRems1V0RyN1JnVzVTVVNhRGNhZlVZNmFmTXROelM2bVB2cEtFdWNOZE8zUUNmMmVoY0E3NEZsNUdFZDZzemlHVzcyblhOcUJkMEVMX3QtZDBYaG82RkktYXM2LTlhYmc?oc=5",
    "ts": "Fri, 27 Nov 2026 13:55:01 GMT"
@@ -410,12 +415,6 @@
    "title": "Why Trump’s trade war may benefit Canada in the long run - TheDailyNewsOnline.com",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPazRIRE1yUHl0bmxDVzFPU1oycElpS2EzbDBWa09UM2VMUlUwNDZOLVVBWGZDWEdNNUZ0OXJXWVpoazNmN0JodzZPVUlLZjNsRmUxVGd3NkY0UnRYZG5FcGptUTE5SUh5SWtEQ0J1MllkeUxGM19EOF9Ydm1XU0ZlU3pPTnRpUG90TGZMUWZmLWQyck1sMEI5ZXNxQUtwamVWZjROVjNLUHRxLWdzZjBVcmxDZDRuOWZQaXd6MnV6R241c1lzNHhxZXNab1hMUUlFTHRrbTZtN1NwS3MtRlNJ?oc=5",
    "ts": "Fri, 27 Nov 2026 19:00:44 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China and Brazil Lead Pushback Against Trump’s ‘Unacceptable’ Tariff Threats - Time Magazine",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd0o3Tl9wSlp6TkNJeGc2VW5oT1hPeHR2dGZpcnIzSkF2N3R2REt1WTZxZXNoeGVOZjZUZWo5dVNzQ0RFUVVLOXM3cmVRX0tIY3ZfU09KSXBhY3NqNzlHaHJzUUk5MmdsbEE4cW5SN3k3Nk0yRUt1bUJLV1UwXzhodkNYTXFUZDZmc0x4bg?oc=5",
-   "ts": "Thu, 26 Nov 2026 18:42:35 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +457,126 @@
    "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals? - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWVQTU9Bem1UcHdtT2s5T005dlJvaDZfMTZ3aTQ1UHpDVUNMbERrRTFpQ0pKNFI0alRqWWp6ODBNYTJuSVNIX2JBMEpDRFh2RmlvYkNISXByQlJrR0dvb1BvQ0hxZmlPSXhtY3FfZjB6eUl0S0dtb2hxcHJwZ2U3X3ZudWpyMFRodlVackNmbU5DOVJENVhmS0s5bzQ2Z3BSMEdyZNIBqgFBVV95cUxPc2NjTE95RV9JMXdFTy1CdVNSdm1mRUt3cGxydjdid21HVFAza2pLcGRiY2FzOEUxeHhKNHZRcjdFeHRxQ0h5ZjYzZHRFWWhMSTFqSnJmVU9BNnB5WnB4VGpYN2Z3RU5vT24wVlhQeXpqYURoWnlXLW5QbXNvWS1DSzd5VGVNM0dPcnkyQkE1NEJCRlROejRDaE0tSXR0aXFYakJyMVNQYkRyZw?oc=5",
    "ts": "Thu, 26 Nov 2026 11:16:29 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "ACLU seeks court order blocking Trump administration efforts to unmask ICE critics on social media",
+   "url": "https://www.yakimaherald.com/news/nation_and_world/nation/aclu-seeks-court-order-blocking-trump-administrations-efforts-to-unmask-ice-critics-on-social-media/article_c8b939b4-7336-5a51-bd45-ed81cf76fac4.html",
+   "ts": "20261128T001500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US shoppers confront uphill battle in Black Friday discount quest",
+   "url": "https://www.freemalaysiatoday.com/category/business/2026/11/28/us-shoppers-confront-uphill-battle-in-black-friday-discount-quest",
+   "ts": "20261128T001500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Zelenskyy Criticizes Trump Over Putin  Friend  Comment | News Radio 1410 AM & 100 . 9 FM",
+   "url": "https://newsradio1410.iheart.com/content/2026-11-27-zelenskyy-criticizes-trump-over-putin-friend-comment/",
+   "ts": "20261128T001500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Nvidia Blackwell tech used at China site tied to Alice Huang",
+   "url": "https://www.pottsmerc.com/2026/11/27/nvidia-blackwell-processors-china/",
+   "ts": "20261128T001500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Donald Trump set to attend Army - Navy Game for seventh time . Is that the most of any president ? ",
+   "url": "https://www.dailycamera.com/2026/11/27/president-donald-trump-army-navy-game-metlife-stadium/",
+   "ts": "20261128T001500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "A new nuclear space race : U . S ., China and Russia compete to power future moon bases",
+   "url": "https://cbs2iowa.com/news/nation-world/a-new-nuclear-space-race-us-china-and-russia-compete-to-power-future-moon-bases-launch-deployment",
+   "ts": "20261128T001500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Indigenous representation in Congress inches closer to parity",
+   "url": "https://www.cherokeephoenix.org/news/indigenous-representation-in-congress-inches-closer-to-parity/article_fb5f32e6-5495-4714-9712-241d4d053ce5.html",
+   "ts": "20261128T001500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Wall Street ends higher as battered AI stocks gain in volatile week",
+   "url": "https://www.freemalaysiatoday.com/category/business/2026/11/28/wall-street-ends-higher-as-battered-ai-stocks-gain-in-volatile-week",
+   "ts": "20261128T001500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Zelenskyy Criticizes Trump Over Putin  Friend  Comment",
+   "url": "https://790waeb.iheart.com/content/2026-11-27-zelenskyy-criticizes-trump-over-putin-friend-comment/",
+   "ts": "20261128T001500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Zelenskyy Criticizes Trump Over Putin  Friend  Comment",
+   "url": "https://newsradio1290wtks.iheart.com/content/2026-11-27-zelenskyy-criticizes-trump-over-putin-friend-comment/",
+   "ts": "20261128T001500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Report : 38 % of buy - now - pay - later holiday shoppers expect to fall short on payments",
+   "url": "https://wjla.com/news/nation-world/report-38-of-buy-now-pay-later-holiday-shoppers-expect-to-fall-short-on-payments-credit-cards",
+   "ts": "20261128T001500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Some Dems Want To Spend The Next Two Years Relitigating J6 , Restarting Lawfare Campaign",
+   "url": "https://dailycaller.com/2026/11/27/democrats-midterms-win-january-6-capitol-riots-jamie-raskin-donald-trump-mass-pardon-anti-weaponization-fund/",
+   "ts": "20261128T001500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Zelenskyy Criticizes Trump Over Putin  Friend  Comment",
+   "url": "https://koacolorado.iheart.com/content/2026-11-27-zelenskyy-criticizes-trump-over-putin-friend-comment/",
+   "ts": "20261128T001500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Nvidia Blackwell tech used at China site tied to Alice Huang",
+   "url": "https://www.dailyherald.com/2026/11/27/nvidia-blackwell-processors-china/",
+   "ts": "20261128T001500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Deadline",
+   "url": "https://deadline.com/print-article/1237234421/",
+   "ts": "20261128T001500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Zelenskyy Criticizes Trump Over Putin  Friend  Comment",
+   "url": "https://1190talkradio.iheart.com/content/2026-11-27-zelenskyy-criticizes-trump-over-putin-friend-comment/",
+   "ts": "20261128T001500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Tribal nation border wall fight in Arizona leads to Washington , DC",
+   "url": "https://www.azfamily.com/2026/11/27/tribal-nations-border-wall-fight-arizona-leads-washington-dc/",
+   "ts": "20261128T001500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "ACLU seeks court order blocking Trump administration efforts to unmask ICE critics on social media",
+   "url": "http://www.dailyadvance.com/news/national/aclu-seeks-court-order-blocking-trump-administrations-efforts-to-unmask-ice-critics-on-social-media/article_0f12f948-3071-55c8-9a5b-a8bb5b0bfd0f.html",
+   "ts": "20261128T001500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Gold price prediction : Gold rate to touch USD 4 , 500 to USD 5 , 000 again ? What we know so far",
+   "url": "https://economictimes.indiatimes.com/world/business/gold-price-prediction-gold-rate-to-touch-usd-4500-to-usd-5000-again-what-we-know-so-far/articleshow/136235579.cms",
+   "ts": "20261128T001500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Crude Oil Slides As Trump Offers More Time For Diplomacy To Resolve Iran Crisis",
+   "url": "https://www.rttnews.com/story.aspx?Id=3718749",
+   "ts": "20261128T001500Z"
   }
  ]
 }

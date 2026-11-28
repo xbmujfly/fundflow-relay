@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-28T11:15:35Z",
+ "ts": "2026-11-28T11:30:37Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -352,15 +353,15 @@
   },
   {
    "src": "gnews",
-   "title": "Economist labels Trump ‘the biggest loser of any president’ as he shreds key trade policy - The Independent",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1A2WEI5V01wUTVEel9FRTFkRG55MklaTHBZWTdvVHBsZG1EVjhiVUZaZFJBNVByWXRyeVA4TFQ5R0xJemlvQ25zZGEwSlQ4VVV1T2lFbHlVNHZFbFhEOFByZE5OX2MyeTl3VzU0d0RIUnRMOV9yQ1EzTVFOLWFfVWxsaVFVdjd6WVo5TF8xdnlBejRyaVhHMDZOdDFRcDEyWTFXbkdoSEdtNUM4ZUtfNXhmeU5YbGFrZEJXaVQtNA?oc=5",
-   "ts": "Fri, 27 Nov 2026 21:16:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump proposes a new wave of tariffs on China, E.U. and other trade partners - NBC News",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEhIWkhHU2FmSW5HZm1STUdfNlgzRWF6TXR1Njc2cDZ5SXF0RmVSY2NyS2tIQmJxWHlTZTJxVTg1bmI5YzcxemluVXFFdVZEUW1xUHZuTXhQN2ZaTjVtMzl0bEdwcGFNTFR5aU0wLTY3cDVJbnpXMjVQVWItMUoyOGVQakp1OHpocUlJWmc3ZWxZM1NHUWFiT2NsMXA2TXM?oc=5",
    "ts": "Wed, 25 Nov 2026 13:58:10 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Economist labels Trump ‘the biggest loser of any president’ as he shreds key trade policy - The Independent",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1A2WEI5V01wUTVEel9FRTFkRG55MklaTHBZWTdvVHBsZG1EVjhiVUZaZFJBNVByWXRyeVA4TFQ5R0xJemlvQ25zZGEwSlQ4VVV1T2lFbHlVNHZFbFhEOFByZE5OX2MyeTl3VzU0d0RIUnRMOV9yQ1EzTVFOLWFfVWxsaVFVdjd6WVo5TF8xdnlBejRyaVhHMDZOdDFRcDEyWTFXbkdoSEdtNUM4ZUtfNXhmeU5YbGFrZEJXaVQtNA?oc=5",
+   "ts": "Fri, 27 Nov 2026 21:16:00 GMT"
   },
   {
    "src": "gnews",
@@ -457,126 +458,6 @@
    "title": "World reacts to Trump’s new tariffs as US stocks tumble - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2xwNlNFeVhicVplSG9FSUZVd2xjOUxCcHd6QjFfeV9PV0VNTkNmOEVQWkN1S2JRbGd6WXBlZ2czdlRWT3hDcWlWclMzeVA0c09QZzVzRTY0VWhxZEJOMU1BNVhpRTNVLThIczAwODJjSzBka1lXVkFRc1pBWGZjRHRhakwxUTdhdllTYVJXUGg1cE9tbWg2clBQZXFBcWl00gGmAUFVX3lxTE1ManFzV2ItczJsaU1wc2t3Tkc3OXdMTlhsdF9tZVh2c29Ld2lLakRybW1sZEhzOXMwNUh5ZUVLd2prWTFSUFZpbm40alhZcEcxVFBIM1NTUzljU1dzdS1oZ2RxTlp6cGNSUzRTOGlxbE5GNGZORy1Da3diOS1NWExyM1RNQVZrZkJEMkhZREdZY1BickkyNE1pbWIzOHdhRFk3Zng2TWc?oc=5",
    "ts": "Wed, 25 Nov 2026 19:31:28 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "MOV Climate Corner : COP ( out ) 31 - Marietta Times",
-   "url": "https://www.mariettatimes.com/opinion/local-columns/2026/11/mov-climate-corner-copout31/",
-   "ts": "20261128T104500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Kyrgyzstan , Bulgaria explore new freight routes via Black Sea ports",
-   "url": "https://www.trend.az/casia/kyrgyzstan/4251795.html",
-   "ts": "20261128T104500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "The Weekly Close : Wall Street Rally Erases Last Week Losses",
-   "url": "https://www.financial-news.co.uk/the-weekly-close-wall-street-rally-erases-last-weeks-losses/",
-   "ts": "20261128T104500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "New wave of Democratic attorneys general may reshape the justice system",
-   "url": "https://www.iowapublicradio.org/news-from-npr/2026-11-28/new-wave-of-democratic-attorneys-general-may-reshape-the-justice-system",
-   "ts": "20261128T104500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "OnePlus Nord 5 : - 53 % sur ce smartphone , un deal Black Friday  dernière minute  de FOLIE 😱",
-   "url": "https://www.presse-citron.net/oneplus-nord-5-53-sur-ce-smartphone-un-deal-black-friday-derniere-minute-de-folie/",
-   "ts": "20261128T104500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Альтернативы взаимопониманию нет",
-   "url": "https://www.br.az/politics/136635/alternativy-vzaimoponimaniyu-net/",
-   "ts": "20261128T104500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Thankful for the harvest - The Journal",
-   "url": "https://www.nujournal.com/opinion/columns/2026/11/28/thankful-for-the-harvest/",
-   "ts": "20261128T104500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump calls for scrutiny of GDP | The Arkansas Democrat - Gazette - Arkansa Best News Source",
-   "url": "https://www.arkansasonline.com/news/2026/nov/28/trump-calls-for-scrutiny-of-gdp/",
-   "ts": "20261128T104500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Sneg zavejao Zlatiborski okrug : Veje i u gradovima širom Srbije , pahulje i u prestonici",
-   "url": "https://naslovi.net/2026-11-28/mondo/sneg-zavejao-zlatiborski-okrug-veje-i-u-gradovima-sirom-srbije-pahulje-i-u-prestonici/42666264",
-   "ts": "20261128T104500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Republicans consider changing tariff stance | The Arkansas Democrat - Gazette",
-   "url": "https://www.arkansasonline.com/news/2026/nov/28/republicans-consider-changing-tariff-stance/",
-   "ts": "20261128T104500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "డాలర్‌తో పోలిస్తే రూపాయి విలువపై తీవ్ర ఒత్తిడి .. ",
-   "url": "https://www.suryaa.com/telugu-news/business/indian-rupee-under-pressure-against-us-dollar-forex-market-update",
-   "ts": "20261128T104500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "newsroomamerica . com",
-   "url": "https://newsroomamerica.com/?before=125279",
-   "ts": "20261128T104500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "£100 energy payment : Council tax direct debit rules and how to claim",
-   "url": "https://www.hexham-courant.co.uk/news/26771220.100-energy-payment-council-tax-direct-debit-rules-claim/",
-   "ts": "20261128T104500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Asiantuntija Ylellä : Tästä syystä Trump halusi Nvidia - pomon takaisin yhtiön johtoon",
-   "url": "https://www.savonsanomat.fi/uutissuomalainen/9995364",
-   "ts": "20261128T104500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "MICHELLE GOLDBERG : With Jensen Huang , Trump Strikes Another Blow for Billionaire Impunity | The Arkansas Democrat - Gazette",
-   "url": "https://www.arkansasonline.com/news/2026/nov/28/michelle-goldberg-with-jensen-huang-trump-strikes/",
-   "ts": "20261128T104500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "מסומליה ועד פקיסטן : ארדואן ממשיך לחזק את האחיזה סביב ישראל",
-   "url": "https://www.maariv.co.il/news/opinions/article-1392650",
-   "ts": "20261128T104500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Stocks jump to close out strong but erratic week | The Arkansas Democrat - Gazette",
-   "url": "https://www.arkansasonline.com/news/2026/nov/28/stocks-jump-to-close-out-strong-but-erratic-week/",
-   "ts": "20261128T104500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "AP News Summary at 5 : 15 a . m . EST",
-   "url": "http://www.hngnews.com/nation_world/ap-news-summary-at-5-15-a-m-est/article_3956eeff-6a46-59a8-a089-3f9474d6f167.html",
-   "ts": "20261128T104500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Black Friday : Nintendo brade la Switch 2 jusqu  à ce dimanche , après ça ce sera  tarif plein pot  ⚡️",
-   "url": "https://www.presse-citron.net/black-friday-nintendo-brade-la-switch-2-jusqua-ce-dimanche-apres-ca-ce-sera-tarif-plein-pot/",
-   "ts": "20261128T104500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Ukrainian leader calls on US to increase pressure on Russia | The Arkansas Democrat - Gazette",
-   "url": "https://www.arkansasonline.com/news/2026/nov/28/ukrainian-leader-calls-on-us-to-increase-pressure/",
-   "ts": "20261128T104500Z"
   }
  ]
 }

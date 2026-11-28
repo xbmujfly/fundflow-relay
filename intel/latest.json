@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-28T08:45:35Z",
+ "ts": "2026-11-28T09:00:40Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -347,6 +347,12 @@
   },
   {
    "src": "gnews",
+   "title": "Economist labels Trump ‘the biggest loser of any president’ as he shreds key trade policy - The Independent",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1A2WEI5V01wUTVEel9FRTFkRG55MklaTHBZWTdvVHBsZG1EVjhiVUZaZFJBNVByWXRyeVA4TFQ5R0xJemlvQ25zZGEwSlQ4VVV1T2lFbHlVNHZFbFhEOFByZE5OX2MyeTl3VzU0d0RIUnRMOV9yQ1EzTVFOLWFfVWxsaVFVdjd6WVo5TF8xdnlBejRyaVhHMDZOdDFRcDEyWTFXbkdoSEdtNUM4ZUtfNXhmeU5YbGFrZEJXaVQtNA?oc=5",
+   "ts": "Fri, 27 Nov 2026 21:16:00 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China and other US trading partners hit back at Trump's new tariff plans - ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZHEyWGNGaUVkTzJNblpLLTJDVVhCWkJlOXdpNUpVbU5KSlo0SnNqN0pXSTRKQWZGU1dZX0EtakpDWTdPZHhDZkZIaFp1MlRWSG10RkZnLUdoNjAtSksydjZVMExWTUpoOXZLWTdteS1EYTBnbmNqalg1ZktWVGF2aUl4UlotS3BFRnA1a3pvdXNhd9IBlwFBVV95cUxOR3VPUGxOSXRDSzRVT0tjcUdEaFAwSHo2dEZ2aE9VUDZxY283Q2R4SjNVcUpzZmR1RGFWTnBRTzBKWVRKeXo4VHI1eHkyNTl5X1dhcHMtMXRXNHBqVmxhTk82d3VFWThsaHJUOTNQNmtxUnBWNjNNQUwxX2h0TXRDdzFWT0d6QW5kUFJDcE9oUUY2LXVnZ1ZN?oc=5",
    "ts": "Fri, 27 Nov 2026 02:57:26 GMT"
@@ -356,12 +362,6 @@
    "title": "Trump proposes a new wave of tariffs on China, E.U. and other trade partners - NBC News",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEhIWkhHU2FmSW5HZm1STUdfNlgzRWF6TXR1Njc2cDZ5SXF0RmVSY2NyS2tIQmJxWHlTZTJxVTg1bmI5YzcxemluVXFFdVZEUW1xUHZuTXhQN2ZaTjVtMzl0bEdwcGFNTFR5aU0wLTY3cDVJbnpXMjVQVWItMUoyOGVQakp1OHpocUlJWmc3ZWxZM1NHUWFiT2NsMXA2TXM?oc=5",
    "ts": "Wed, 25 Nov 2026 13:58:10 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "Economist labels Trump ‘the biggest loser of any president’ as he shreds key trade policy - The Independent",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1A2WEI5V01wUTVEel9FRTFkRG55MklaTHBZWTdvVHBsZG1EVjhiVUZaZFJBNVByWXRyeVA4TFQ5R0xJemlvQ25zZGEwSlQ4VVV1T2lFbHlVNHZFbFhEOFByZE5OX2MyeTl3VzU0d0RIUnRMOV9yQ1EzTVFOLWFfVWxsaVFVdjd6WVo5TF8xdnlBejRyaVhHMDZOdDFRcDEyWTFXbkdoSEdtNUM4ZUtfNXhmeU5YbGFrZEJXaVQtNA?oc=5",
-   "ts": "Fri, 27 Nov 2026 21:16:00 GMT"
   },
   {
    "src": "gnews",
@@ -413,15 +413,15 @@
   },
   {
    "src": "gnews",
-   "title": "New US tariff proposal puts the fragile Washington-Beijing trade truce under pressure before January 10 - Latin Times",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWHVBUWJQM0NOV3lmZ3N2cjZhRXRXdWpBUmJkdFFrTXZUeDJNc2tPOVdodldXbGxGTk9HQXIyREV1VGV2SXFrRl81YU5wTkFzSkhfLTBXNG9aYXdMb3RrYkhFVGdIaFo3dVJqYWVNbDI0RlAzbHRfcUVsS1plSjdvZGFwbEhYWENN?oc=5",
-   "ts": "Sat, 28 Nov 2026 05:35:20 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Why Trump’s Trade War May Benefit Canada in the Long Run - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUUpCVmZTdFlpRHVKQUMtR3VjUXRxUXprOFlFanpJa0xrY1FqRGVnMjlnOG00TkhVdmt1elBLUmJ5dUZGMVNnV0FsUlJnS3lHdlFkYWROWGktUjVTT19fZVV1NFp5eEhXdlU0NWtOLXpQakdnYXlyRXlMUWVwMTFFX0laeVl1MXNyaUJSU0VKaFdVcVpNTHVUWHB1T3RrTURDN3JmelRYTHR6cXc?oc=5",
    "ts": "Thu, 26 Nov 2026 22:22:43 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "New US tariff proposal puts the fragile Washington-Beijing trade truce under pressure before January 10 - Latin Times",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWHVBUWJQM0NOV3lmZ3N2cjZhRXRXdWpBUmJkdFFrTXZUeDJNc2tPOVdodldXbGxGTk9HQXIyREV1VGV2SXFrRl81YU5wTkFzSkhfLTBXNG9aYXdMb3RrYkhFVGdIaFo3dVJqYWVNbDI0RlAzbHRfcUVsS1plSjdvZGFwbEhYWENN?oc=5",
+   "ts": "Sat, 28 Nov 2026 05:35:20 GMT"
   },
   {
    "src": "gnews",

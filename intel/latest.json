@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-28T10:30:34Z",
+ "ts": "2026-11-28T10:45:35Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -347,15 +346,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump’s Embrace of Xi and Huang Stuns China Critics in Washington - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSmYxX1NoYkZUb0wzQjNfMXdKUWo4Sy1wZ2w5TjVIOXl0YUJ0OEx2dnFvb3JRclVmaFE4Tk9iRW9UY2tWLTdsemNPUkZTdjV5bWRCcGJldmV2VlVGdWJSNHQwUVp2MUo3QWxuR0RuU3Nob1NaV0Q5VGp2SURJWTExRlhCZHk?oc=5",
-   "ts": "Sat, 28 Nov 2026 05:19:36 GMT"
+   "title": "China and other US trading partners hit back at Trump's new tariff plans - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZHEyWGNGaUVkTzJNblpLLTJDVVhCWkJlOXdpNUpVbU5KSlo0SnNqN0pXSTRKQWZGU1dZX0EtakpDWTdPZHhDZkZIaFp1MlRWSG10RkZnLUdoNjAtSksydjZVMExWTUpoOXZLWTdteS1EYTBnbmNqalg1ZktWVGF2aUl4UlotS3BFRnA1a3pvdXNhd9IBlwFBVV95cUxOR3VPUGxOSXRDSzRVT0tjcUdEaFAwSHo2dEZ2aE9VUDZxY283Q2R4SjNVcUpzZmR1RGFWTnBRTzBKWVRKeXo4VHI1eHkyNTl5X1dhcHMtMXRXNHBqVmxhTk82d3VFWThsaHJUOTNQNmtxUnBWNjNNQUwxX2h0TXRDdzFWT0d6QW5kUFJDcE9oUUY2LXVnZ1ZN?oc=5",
+   "ts": "Fri, 27 Nov 2026 02:57:26 GMT"
   },
   {
    "src": "gnews",
-   "title": "New Tariffs on China Risk Undermining Trade Truce With U.S. - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUcwQ3JjLUlNWjhSZnFuYWMzVEFGd0RMR2lZT2VmWUdBejNHckpxbWFSb0lsTUNuTzktdm9qTk94eTgxMXFRQkplOTdZZkFDSEVaUkVZcWFfb1lEMTNEVzFHd013bXhoRFU4ajZjOTB0UXFhM1FacVliRVdqcFY5dG11UURVYmFZang5ZEpaZEVCazhBMjFz?oc=5",
-   "ts": "Thu, 26 Nov 2026 08:42:00 GMT"
+   "title": "Trump’s Embrace of Xi and Huang Stuns China Critics in Washington - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSmYxX1NoYkZUb0wzQjNfMXdKUWo4Sy1wZ2w5TjVIOXl0YUJ0OEx2dnFvb3JRclVmaFE4Tk9iRW9UY2tWLTdsemNPUkZTdjV5bWRCcGJldmV2VlVGdWJSNHQwUVp2MUo3QWxuR0RuU3Nob1NaV0Q5VGp2SURJWTExRlhCZHk?oc=5",
+   "ts": "Sat, 28 Nov 2026 05:19:36 GMT"
   },
   {
    "src": "gnews",
@@ -365,27 +364,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump proposes new tariffs on China, Europe and other trade partners - The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRG9IZXZjbjBEQ2tzam5pT0FPZWNFc2hac3ZURjRUaTJITlQwQmt4RElZVGlnM0luQndHeXdRaGRwTUVVbHVqQlcyZC01OC1adzBLT3JWWlNadmw2N01zR3JZT1VwWG1mVVNaSkNUSWExNTlYRWtCejNRUE1KSXk0TFpjaUt5X0Z4LUFLMzB1c3QtRXNpUVc5UzNMeHY4d2paMjVEVGpveFlpM1BvZWRlZzFR?oc=5",
-   "ts": "Thu, 26 Nov 2026 01:24:25 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "China and other US trading partners hit back at Trump's new tariff plans - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZHEyWGNGaUVkTzJNblpLLTJDVVhCWkJlOXdpNUpVbU5KSlo0SnNqN0pXSTRKQWZGU1dZX0EtakpDWTdPZHhDZkZIaFp1MlRWSG10RkZnLUdoNjAtSksydjZVMExWTUpoOXZLWTdteS1EYTBnbmNqalg1ZktWVGF2aUl4UlotS3BFRnA1a3pvdXNhd9IBlwFBVV95cUxOR3VPUGxOSXRDSzRVT0tjcUdEaFAwSHo2dEZ2aE9VUDZxY283Q2R4SjNVcUpzZmR1RGFWTnBRTzBKWVRKeXo4VHI1eHkyNTl5X1dhcHMtMXRXNHBqVmxhTk82d3VFWThsaHJUOTNQNmtxUnBWNjNNQUwxX2h0TXRDdzFWT0d6QW5kUFJDcE9oUUY2LXVnZ1ZN?oc=5",
-   "ts": "Fri, 27 Nov 2026 02:57:26 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump proposes a new wave of tariffs on China, E.U. and other trade partners - NBC News",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEhIWkhHU2FmSW5HZm1STUdfNlgzRWF6TXR1Njc2cDZ5SXF0RmVSY2NyS2tIQmJxWHlTZTJxVTg1bmI5YzcxemluVXFFdVZEUW1xUHZuTXhQN2ZaTjVtMzl0bEdwcGFNTFR5aU0wLTY3cDVJbnpXMjVQVWItMUoyOGVQakp1OHpocUlJWmc3ZWxZM1NHUWFiT2NsMXA2TXM?oc=5",
    "ts": "Wed, 25 Nov 2026 13:58:10 GMT"
   },
   {
    "src": "gnews",
-   "title": "China and Brazil Lead Pushback Against Trump’s ‘Unacceptable’ Tariff Threats - Time Magazine",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd0o3Tl9wSlp6TkNJeGc2VW5oT1hPeHR2dGZpcnIzSkF2N3R2REt1WTZxZXNoeGVOZjZUZWo5dVNzQ0RFUVVLOXM3cmVRX0tIY3ZfU09KSXBhY3NqNzlHaHJzUUk5MmdsbEE4cW5SN3k3Nk0yRUt1bUJLV1UwXzhodkNYTXFUZDZmc0x4bg?oc=5",
-   "ts": "Thu, 26 Nov 2026 18:42:35 GMT"
+   "title": "New Tariffs on China Risk Undermining Trade Truce With U.S. - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUcwQ3JjLUlNWjhSZnFuYWMzVEFGd0RMR2lZT2VmWUdBejNHckpxbWFSb0lsTUNuTzktdm9qTk94eTgxMXFRQkplOTdZZkFDSEVaUkVZcWFfb1lEMTNEVzFHd013bXhoRFU4ajZjOTB0UXFhM1FacVliRVdqcFY5dG11UURVYmFZang5ZEpaZEVCazhBMjFz?oc=5",
+   "ts": "Thu, 26 Nov 2026 08:42:00 GMT"
   },
   {
    "src": "gnews",
@@ -395,15 +382,21 @@
   },
   {
    "src": "gnews",
-   "title": "Bumpier U.S.-China Trade Is Coming - China-US Focus",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJNUURnenNwRV9MaTlCUFZOejU2T2xNeTRSTzlOaFBRLTNNcmhrbVdlSjZ6b1g4RDJnSXBuSlJFZ3dzeDdEc3ZlY21ES0lQZFYyWm9TWHBtTm1haUhKaFJnM1JDcjVmRVQyOU5tTmRHM1RzUnl3YXRmM3FVc0RIUzIybw?oc=5",
-   "ts": "Tue, 24 Nov 2026 13:02:14 GMT"
+   "title": "Trump proposes new tariffs on China, Europe and other trade partners - The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRG9IZXZjbjBEQ2tzam5pT0FPZWNFc2hac3ZURjRUaTJITlQwQmt4RElZVGlnM0luQndHeXdRaGRwTUVVbHVqQlcyZC01OC1adzBLT3JWWlNadmw2N01zR3JZT1VwWG1mVVNaSkNUSWExNTlYRWtCejNRUE1KSXk0TFpjaUt5X0Z4LUFLMzB1c3QtRXNpUVc5UzNMeHY4d2paMjVEVGpveFlpM1BvZWRlZzFR?oc=5",
+   "ts": "Thu, 26 Nov 2026 01:24:25 GMT"
   },
   {
    "src": "gnews",
-   "title": "New US tariff proposal puts the fragile Washington-Beijing trade truce under pressure before January 10 - Latin Times",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWHVBUWJQM0NOV3lmZ3N2cjZhRXRXdWpBUmJkdFFrTXZUeDJNc2tPOVdodldXbGxGTk9HQXIyREV1VGV2SXFrRl81YU5wTkFzSkhfLTBXNG9aYXdMb3RrYkhFVGdIaFo3dVJqYWVNbDI0RlAzbHRfcUVsS1plSjdvZGFwbEhYWENN?oc=5",
-   "ts": "Sat, 28 Nov 2026 05:35:20 GMT"
+   "title": "China and Brazil Lead Pushback Against Trump’s ‘Unacceptable’ Tariff Threats - Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd0o3Tl9wSlp6TkNJeGc2VW5oT1hPeHR2dGZpcnIzSkF2N3R2REt1WTZxZXNoeGVOZjZUZWo5dVNzQ0RFUVVLOXM3cmVRX0tIY3ZfU09KSXBhY3NqNzlHaHJzUUk5MmdsbEE4cW5SN3k3Nk0yRUt1bUJLV1UwXzhodkNYTXFUZDZmc0x4bg?oc=5",
+   "ts": "Thu, 26 Nov 2026 18:42:35 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
+   "ts": "Thu, 26 Nov 2026 01:02:52 GMT"
   },
   {
    "src": "gnews",
@@ -413,15 +406,15 @@
   },
   {
    "src": "gnews",
-   "title": "Trump administration tees up tariff hikes on EU, China, others - Politico",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHdmanQya1ZpbmtJaGc1SHh1NFItcHdxWXlLX2VGZG9NLUlDeV9RYWRVek5GWVlxdXpfNFRmRmlLMnpBZl9fWDVmTkx4ZFd0TnlGanhsbFA1XzJ3SjM3di1wMFl0MzREQ1RYWGJ5SDAtbmVYNm01YllCS29qN0ZfenB2N05OVXoxNVJFX1oxRkV1TFIwZ2U1RA?oc=5",
-   "ts": "Tue, 24 Nov 2026 16:18:00 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Why Trump’s Trade War May Benefit Canada in the Long Run - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUUpCVmZTdFlpRHVKQUMtR3VjUXRxUXprOFlFanpJa0xrY1FqRGVnMjlnOG00TkhVdmt1elBLUmJ5dUZGMVNnV0FsUlJnS3lHdlFkYWROWGktUjVTT19fZVV1NFp5eEhXdlU0NWtOLXpQakdnYXlyRXlMUWVwMTFFX0laeVl1MXNyaUJSU0VKaFdVcVpNTHVUWHB1T3RrTURDN3JmelRYTHR6cXc?oc=5",
    "ts": "Thu, 26 Nov 2026 22:22:43 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "New US tariff proposal puts the fragile Washington-Beijing trade truce under pressure before January 10 - Latin Times",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWHVBUWJQM0NOV3lmZ3N2cjZhRXRXdWpBUmJkdFFrTXZUeDJNc2tPOVdodldXbGxGTk9HQXIyREV1VGV2SXFrRl81YU5wTkFzSkhfLTBXNG9aYXdMb3RrYkhFVGdIaFo3dVJqYWVNbDI0RlAzbHRfcUVsS1plSjdvZGFwbEhYWENN?oc=5",
+   "ts": "Sat, 28 Nov 2026 05:35:20 GMT"
   },
   {
    "src": "gnews",
@@ -443,21 +436,147 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Administration Unveils New Tariffs for Dozens of Countries, Citing Unfair Practices - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN05tSHVLN1V3cFRSaUY1d0l6MGkyY1dhRnN6R08tWW5uSm91eXlXQ1VHXzhnMEZpNHQtR0QzYWI5NHlFcjg4bFBhN0ZyMXZZQU9oQUJlVzNwUERxRFFWQThTOXMzM1laQjQzSXNjeXNlUnNGT3Zv?oc=5",
-   "ts": "Wed, 25 Nov 2026 13:17:38 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump announces new trade tariffs: Which countries are affected? - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEJUV292VEZ6TjdJalc2UkRBWGVDaUVVa1ZyMFZGbE5kakN2VTA2bnNuSUFsNVJSZE9jMTdnVDFEZExLbEhLcy1oTHRkbV9GYzdzV05vREFrNXM5RWRTS1lGdTZzMUhTQzRoQ2FqNW9oakZNT0l0R3RyTjZrMkZkeDlKVjFiaFB2a09wRWp4Q050eXNib1M1U3hLNndVQW12cE9KbFBtYWRyaGJj0gGyAUFVX3lxTE1zaEVXa2ZXOGhyOHJ1Yk1SSENISGhHZVpwekNrMGpkaENvVTNuT1lmN01ESWZSeUVCelJKbGlEV203eWRXLTdjRGU3Ny1vOG85OVBOSklDN1dPRWdpSHRrQ2JmWlNxR2FNYTF4V19mRjhPemsxcnJsZkJqU2haVkRoNzNkdFFRdkI5YzRRcVBVbV9VUzRmVFdPaThCQVNHTXdxaGFkVmJJLWNMOXRqZzN5UXc?oc=5",
    "ts": "Wed, 25 Nov 2026 15:00:52 GMT"
   },
   {
    "src": "gnews",
+   "title": "Trump Administration Unveils New Tariffs for Dozens of Countries, Citing Unfair Practices - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN05tSHVLN1V3cFRSaUY1d0l6MGkyY1dhRnN6R08tWW5uSm91eXlXQ1VHXzhnMEZpNHQtR0QzYWI5NHlFcjg4bFBhN0ZyMXZZQU9oQUJlVzNwUERxRFFWQThTOXMzM1laQjQzSXNjeXNlUnNGT3Zv?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:17:38 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZWpiaWFfMlFaRm0wbWdQNGRyY0g3WmdublpxREhkS0FnSkZIQk5lbDV6cFhjblM2a2RrLVVyNUdqaWNIVFBKcWJPODIyNXdoeVRrR2ViZVNmcmIxd0lFTWNPbXJ3Mzh4WGVESkdYZlk3eDBXdXNaU3hoUTd4ZlhWUFJqNWFpX2hCaDNJelRVdm9MeWx0aG1NZmtxd2dJWWdfc1M5Q1dYSHNZc3hrS0NLWHBVcWlySGhF0gG-AUFVX3lxTE9mOFgxejN3S3J1WVA5ZFFZdHhCYnJUall5aGktMkdPamFLUmRGNTdwdjZtbnlkS21DRGpzcW1FcHpEYU8wTFpYbU1zaXFhcXJwS0xPYzF5QmRLLVI4b1h1QzBkbHNndkF6LW9CNlhiRjhUdllWR3dFOGhwUV9qUGZqNTQ0NWNBSXFCOHNxY3VUSkM3aG5TQUlqMnYyVUV3VnhrWG95MmYxSGZBc29QY3N1Y1E1RTdxeW5YUUQxZHc?oc=5",
+   "ts": "Fri, 27 Nov 2026 13:33:57 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals? - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWVQTU9Bem1UcHdtT2s5T005dlJvaDZfMTZ3aTQ1UHpDVUNMbERrRTFpQ0pKNFI0alRqWWp6ODBNYTJuSVNIX2JBMEpDRFh2RmlvYkNISXByQlJrR0dvb1BvQ0hxZmlPSXhtY3FfZjB6eUl0S0dtb2hxcHJwZ2U3X3ZudWpyMFRodlVackNmbU5DOVJENVhmS0s5bzQ2Z3BSMEdyZNIBqgFBVV95cUxPc2NjTE95RV9JMXdFTy1CdVNSdm1mRUt3cGxydjdid21HVFAza2pLcGRiY2FzOEUxeHhKNHZRcjdFeHRxQ0h5ZjYzZHRFWWhMSTFqSnJmVU9BNnB5WnB4VGpYN2Z3RU5vT24wVlhQeXpqYURoWnlXLW5QbXNvWS1DSzd5VGVNM0dPcnkyQkE1NEJCRlROejRDaE0tSXR0aXFYakJyMVNQYkRyZw?oc=5",
    "ts": "Thu, 26 Nov 2026 11:16:29 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "ICRA Assigns A+ ( Stable ) Rating to Juniper Green Field Rs . 616 . 73 Crore Term Loan",
+   "url": "https://www.equitybulls.com/news/379777/icra-assigns-stable-rating-juniper-green-field-s",
+   "ts": "20261128T101500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Trump proposes new tariffs on China , EU , 12 others",
+   "url": "https://www.vanguardngr.com/2026/11/trump-proposes-new-tariffs-on-china-eu-12-others/",
+   "ts": "20261128T101500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "USAID website back online with uncut files | Northwest Arkansas Democrat - Gazette",
+   "url": "https://www.nwaonline.com/news/2026/nov/28/usaid-website-back-online-with-uncut-files/",
+   "ts": "20261128T101500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Выборы президента в США : Трамп разрушает шансы Вэнса и Рубио",
+   "url": "https://www.unian.net/world/vybory-prezidenta-v-ssha-tramp-razrushaet-shansy-vensa-i-rubio-13573935.html",
+   "ts": "20261128T101500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Valmont CEO :  We want to preserve our independence  ",
+   "url": "https://www.swissinfo.ch/eng/swiss-industry/valmont-ceo-we-want-to-preserve-our-independence/92434985",
+   "ts": "20261128T101500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "  Активи на $16 млрд – за $3 млрд ! Продаж закордонного бізнесу  Лукойлу  може бути гігантським хабарем Кремля",
+   "url": "https://gordonua.com/ukr/section-worldnews/news-aktyvyi-na-16-mlrd-za-3-mlrd-prodazha-zarubezhnoho-byznesa-lukoyla-mozhet-byit-hyhantskoy-vzyatkoy-kremlya-28-11-2026.html",
+   "ts": "20261128T101500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "If A Stock Market Crash Is Coming , Warren Buffett Says This Is the Smartest Move You Can Make",
+   "url": "https://www.fool.com/investing/2026/11/28/if-a-stock-market-crash-is-coming-warren-buffett-s/?source=iedfolrf0000001",
+   "ts": "20261128T101500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "A week on , Japan remains focused on Shenzhen airport dispute , overlooking the bigger picture",
+   "url": "https://www.globaltimes.cn/page/202611/1375221.shtml",
+   "ts": "20261128T101500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Великобритания се готви за война : Мобилизират 100 000 ветерани",
+   "url": "https://www.novinite.bg/articles/293690/Velikobritaniya-se-gotvi-za-vojna-Mobilizirat-100-000-veterani",
+   "ts": "20261128T101500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Президентські вибори у США : Трамп знищує шанси Венса та Рубіо",
+   "url": "https://www.unian.ua/world/prezidentski-vibori-u-ssha-tramp-znishchuye-shansi-vensa-ta-rubio-13573932.html",
+   "ts": "20261128T101500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Кушнера раскритиковали за высказывания о России : « Выступил в роли адвоката » | Северная Америка",
+   "url": "https://fedpress.ru/news/northern-america/policy/3461599",
+   "ts": "20261128T101500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "U . S . Consumers Press Pause After Strong Spending Last Quarter",
+   "url": "https://www.cpapracticeadvisor.com/2026/11/27/u-s-consumers-press-pause-after-strong-spending-last-quarter/194740/",
+   "ts": "20261128T101500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "إيران : المهل الزمنية التي يحددها الرئيس الأمريكي دونالد ترامب لا نضعها في الاعتبار",
+   "url": "https://www.vetogate.com/5779844",
+   "ts": "20261128T101500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Тръмп одобри Робърт Патинсън за Джеймс Бонд",
+   "url": "https://fakti.bg/life/1105438-donald-tramp-odobri-robart-patinsan-za-novia-djeims-bond",
+   "ts": "20261128T101500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "AKM mourns demise of former MLA L . Yanger",
+   "url": "https://nagalandpost.com/akm-mourns-demise-of-former-mla-l-yanger/",
+   "ts": "20261128T101500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US military reportedly repelled drones at united kingdom air base",
+   "url": "https://www.northerndailyleader.com.au/story/9399871/us-military-reportedly-repelled-drones-at-uk-air-base/",
+   "ts": "20261128T094500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Siracusa , gestione Siam ai raggi X : lunedì attesi gli esiti delle verifiche",
+   "url": "https://www.siracusanews.it/siracusa-gestione-siam-ai-raggi-x-lunedi-attesi-gli-esiti-delle-verifiche/",
+   "ts": "20261128T094500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Gazul pentru populație a devenit mai scump decât pe piața liberă ! Tariful ar putea ajunge la 28 , 2 lei în această iarnă",
+   "url": "https://news.yam.md/ro/story/92229521",
+   "ts": "20261128T094500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Rajnath Singh accuses Congress of undermining democracy , says party  expiry date  over",
+   "url": "http://www.calcuttanews.net/news/279470573/rajnath-singh-accuses-congress-of-undermining-democracy-says-party-expiry-date-over",
+   "ts": "20261128T094500Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "| ParlamentniListy . cz – politika ze všech stran",
+   "url": "https://www.parlamentnilisty.cz/nastaveni-souhlasu?r=%2farena%2fmonitor%2fZasterka-tech-kteri-neunesli-prohru-Zantovsky-rozkryl-rezoluci-Nerudove-a-Zdechovskeho-800091",
+   "ts": "20261128T094500Z"
   }
  ]
 }

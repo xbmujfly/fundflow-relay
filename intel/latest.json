@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-28T07:00:36Z",
+ "ts": "2026-11-28T07:15:35Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,9 +33,8 @@
    "n": 25
   },
   "gdelt": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 30
   }
  },
  "items": [
@@ -343,7 +342,7 @@
    "src": "gnews",
    "title": "New Tariffs on China Risk Undermining Trade Truce With U.S. - WSJ",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUcwQ3JjLUlNWjhSZnFuYWMzVEFGd0RMR2lZT2VmWUdBejNHckpxbWFSb0lsTUNuTzktdm9qTk94eTgxMXFRQkplOTdZZkFDSEVaUkVZcWFfb1lEMTNEVzFHd013bXhoRFU4ajZjOTB0UXFhM1FacVliRVdqcFY5dG11UURVYmFZang5ZEpaZEVCazhBMjFz?oc=5",
-   "ts": "Sat, 28 Nov 2026 05:43:52 GMT"
+   "ts": "Sat, 28 Nov 2026 07:13:52 GMT"
   },
   {
    "src": "gnews",
@@ -383,15 +382,15 @@
   },
   {
    "src": "gnews",
-   "title": "China Challenges Mexico’s Tariffs as Trade Talks Continue - Mexico Business News",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY3dZaEQ5NlhnNTQ4NEhxZ2lDSXhXbk9LVWFHbHdwckVNY0J2cmplMXZjYUVOMjJycGNlSFZSOEJSQV9ldzducExpSmh6SDJOcTlRZTQtcDdmaW93TEVxUmlvNkVjU1U5VXIwcXVxNXFnaFkxTm1PWmYwcllnVFc3eE9jUG5ZSl82enZwd2lPUUozY0h6c3FDYVpqaUUyZmdlUjN6ZHMtNXVJNFU?oc=5",
-   "ts": "Fri, 27 Nov 2026 22:10:09 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Bumpier U.S.-China Trade Is Coming - China-US Focus",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJNUURnenNwRV9MaTlCUFZOejU2T2xNeTRSTzlOaFBRLTNNcmhrbVdlSjZ6b1g4RDJnSXBuSlJFZ3dzeDdEc3ZlY21ES0lQZFYyWm9TWHBtTm1haUhKaFJnM1JDcjVmRVQyOU5tTmRHM1RzUnl3YXRmM3FVc0RIUzIybw?oc=5",
    "ts": "Tue, 24 Nov 2026 13:02:14 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "China Challenges Mexico’s Tariffs as Trade Talks Continue - Mexico Business News",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY3dZaEQ5NlhnNTQ4NEhxZ2lDSXhXbk9LVWFHbHdwckVNY0J2cmplMXZjYUVOMjJycGNlSFZSOEJSQV9ldzducExpSmh6SDJOcTlRZTQtcDdmaW93TEVxUmlvNkVjU1U5VXIwcXVxNXFnaFkxTm1PWmYwcllnVFc3eE9jUG5ZSl82enZwd2lPUUozY0h6c3FDYVpqaUUyZmdlUjN6ZHMtNXVJNFU?oc=5",
+   "ts": "Fri, 27 Nov 2026 22:10:09 GMT"
   },
   {
    "src": "gnews",
@@ -458,6 +457,126 @@
    "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals? - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWVQTU9Bem1UcHdtT2s5T005dlJvaDZfMTZ3aTQ1UHpDVUNMbERrRTFpQ0pKNFI0alRqWWp6ODBNYTJuSVNIX2JBMEpDRFh2RmlvYkNISXByQlJrR0dvb1BvQ0hxZmlPSXhtY3FfZjB6eUl0S0dtb2hxcHJwZ2U3X3ZudWpyMFRodlVackNmbU5DOVJENVhmS0s5bzQ2Z3BSMEdyZNIBqgFBVV95cUxPc2NjTE95RV9JMXdFTy1CdVNSdm1mRUt3cGxydjdid21HVFAza2pLcGRiY2FzOEUxeHhKNHZRcjdFeHRxQ0h5ZjYzZHRFWWhMSTFqSnJmVU9BNnB5WnB4VGpYN2Z3RU5vT24wVlhQeXpqYURoWnlXLW5QbXNvWS1DSzd5VGVNM0dPcnkyQkE1NEJCRlROejRDaE0tSXR0aXFYakJyMVNQYkRyZw?oc=5",
    "ts": "Thu, 26 Nov 2026 11:16:29 GMT"
+  },
+  {
+   "src": "gdelt",
+   "title": "US military says it disabled another ship that tried to breach naval blockade on Iranian ports",
+   "url": "https://www.decaturdaily.com/news/other_news/international/us-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian/article_f3a1f7bb-d335-4c80-9aa5-b1073bc61503.html",
+   "ts": "20261128T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Orange Cheat _ Code Fibre _ 18 _ 26 : la box ultra - rapide à moitié prix pour les moins de 27 ans",
+   "url": "https://www.generation-nt.com/actualites/orange-cheat-code-fibre-18-26-box-pas-cher-etudiants-2085056",
+   "ts": "20261128T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Mexico government is slamming a DEA crime tip line as foreign interference . Others are thrilled . ",
+   "url": "https://www.ksl.com:443/article/51648442/mexicos-government-is-slamming-a-dea-crime-tip-line-as-foreign-interference-others-are-thrilled",
+   "ts": "20261128T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Niagara letters Nov . 28 : It the people money",
+   "url": "https://www.wellandtribune.ca/opinion/letters-to-the-editor/niagara-letters-nov-28-it-s-the-people-s-money/article_6a961d97-f785-50fe-9655-857012b2f4e6.html",
+   "ts": "20261128T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "US goods trade deficit deteriorates further as AI helps to lift imports to record high",
+   "url": "https://www.asiaone.com:443/money/us-goods-trade-deficit-deteriorates-ai-lift-imports-record-high",
+   "ts": "20261128T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Stocks jump to close out an erratic week that was also Wall Street best in more than a year",
+   "url": "https://www.ksl.com:443/article/51648348/stocks-jump-to-close-out-an-erratic-week-that-was-also-wall-streets-best-in-more-than-a-year",
+   "ts": "20261128T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": " ¿ Tiene Chile un plan B ante la caída del precio del cobre ? ",
+   "url": "https://www.elmostrador.cl/noticias/opinion/columnas/2026/11/28/tiene-chile-un-plan-b-ante-la-caida-del-precio-del-cobre/",
+   "ts": "20261128T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Prix des carburants dans les Hauts - de - Seine : voici les stations les moins chères ce samedi 28 novembre",
+   "url": "https://www.leparisien.fr/economie/consommation/prix-des-carburants-dans-les-hauts-de-seine-voici-les-stations-les-moins-cheres-ce-samedi-28-novembre-28-11-2026-YJYEMRGOVVBSBIWFLPMHWSYXRA.php",
+   "ts": "20261128T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "ACLU accuses Trump of targeting anonymous ICE critics",
+   "url": "https://www.wgal.com/article/aclu-trump-grand-jury-subpoenas-ice-critics/74552897",
+   "ts": "20261128T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Ευτυχώς που διαφώνησαν",
+   "url": "https://www.naftemporiki.gr/opinion/2195436/eytychos-poy-diafonisan/",
+   "ts": "20261128T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "中期选举后多名共和党议员表态重新考虑特朗普关税政策",
+   "url": "https://original.ifeng.com/c/8yQ6qQAaD2w",
+   "ts": "20261128T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Progressive Charlestown",
+   "url": "https://www.progressive-charlestown.com/search?updated-max=2026-11-25T09:00:00-05:00&max-results=15",
+   "ts": "20261128T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Новый автобус до площади Лядова могут запустить в Нижнем Новгороде",
+   "url": "https://www.niann.ru/?id=648591",
+   "ts": "20261128T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Prix des carburants dans le Val - dOise : voici les stations les moins chères ce samedi 28 novembre",
+   "url": "https://www.leparisien.fr/economie/consommation/carburants-dans-le-val-doise-ou-faire-le-plein-dessence-ou-de-gazole-au-meilleur-prix-ce-samedi-28-novembre-28-11-2026-NSF3ILP5TZEPZPDM3HY7TPI35E.php",
+   "ts": "20261128T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Commerce Ministry organises outreach programmes to help MSMEs tap global markets through FTAs",
+   "url": "http://www.asiabulletin.com/news/279470176/commerce-ministry-organises-outreach-programmes-to-help-msmes-tap-global-markets-through-ftas",
+   "ts": "20261128T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "خطة ترامب لغزة .. هدنة تتآكل تحت القصف الإسرائيلي",
+   "url": "https://palinfo.com/news/2026/11/28/1125018/",
+   "ts": "20261128T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Mother Nature Exposes Donald Trump Kennedy Center Humiliation",
+   "url": "https://www.thedailybeast.com/mother-nature-exposes-donald-trumps-kennedy-center-humiliation",
+   "ts": "20261128T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "AP News in Brief at 12 : 04 a . m . EST",
+   "url": "http://www.wdtimes.com/news/national/ap-news-in-brief-at-12-04-a-m-est/article_c2104562-9eb5-5b69-b7a7-36169aa9551a.html",
+   "ts": "20261128T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "Угрозы чиновникам США : члены администрации Трампа переехали на военные базы",
+   "url": "https://iz.ru/2209901/2026-11-28/cnn-uznal-o-pereezde-chinovnikov-trampa-na-voennye-bazy-iz-za-ugroz",
+   "ts": "20261128T063000Z"
+  },
+  {
+   "src": "gdelt",
+   "title": "AP News Summary at 12 : 38 a . m . EST",
+   "url": "http://www.wdtimes.com/news/national/ap-news-summary-at-12-38-a-m-est/article_8b7e1aaf-d90f-5780-899a-2a39160782e6.html",
+   "ts": "20261128T063000Z"
   }
  ]
 }

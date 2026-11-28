@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-28T14:15:34Z",
+ "ts": "2026-11-28T14:30:35Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -33,8 +33,9 @@
    "n": 25
   },
   "gdelt": {
-   "ok": true,
-   "n": 30
+   "ok": false,
+   "n": 0,
+   "err": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  },
  "items": [
@@ -457,126 +458,6 @@
    "title": "China Challenges Mexico’s Tariffs as Trade Talks Continue - Mexico Business News",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY3dZaEQ5NlhnNTQ4NEhxZ2lDSXhXbk9LVWFHbHdwckVNY0J2cmplMXZjYUVOMjJycGNlSFZSOEJSQV9ldzducExpSmh6SDJOcTlRZTQtcDdmaW93TEVxUmlvNkVjU1U5VXIwcXVxNXFnaFkxTm1PWmYwcllnVFc3eE9jUG5ZSl82enZwd2lPUUozY0h6c3FDYVpqaUUyZmdlUjN6ZHMtNXVJNFU?oc=5",
    "ts": "Fri, 27 Nov 2026 22:10:09 GMT"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Food Aid Plan Could Cut SNAP for 6 . 3 Million and End Automatic Free School Meals for 1 . 8 Million Kids",
-   "url": "https://www.ibtimes.co.uk/trump-snap-proposal-cut-benefits-free-school-meals-1835354",
-   "ts": "20261128T134500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Підсумки Шеньчженя : не більше спільного фото",
-   "url": "https://wz.lviv.ua/blogs/562427-za-pidsumkamy-tsoho-kytaiskoho-forumu-naibilshe-pryvodiv-nervuvaty-poky-shcho-u-taivaniu",
-   "ts": "20261128T134500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "به گزارش رسانه آمریکایی تعداد بیسابقهای از مقامات ارشد دولت ترامپ در تأسیسات نظامی حفاظتشده در واشینگتن اقامت دارند",
-   "url": "https://sputnik.af/20261128/26799533.html",
-   "ts": "20261128T134500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "一见 · APEC会场之外 ， 外方领导人这样看深圳 -- 时政 -- 人民网",
-   "url": "http://politics.people.com.cn/n1/2026/1128/c461001-40842156.html",
-   "ts": "20261128T134500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Perspective : A hero name lives on",
-   "url": "https://www.kunm.org/npr-news/2026-11-28/perspective-a-heros-name-lives-on",
-   "ts": "20261128T134500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trumpiana : Abracadabra . Spy AI fly high ! ",
-   "url": "https://americanbazaaronline.com/2026/11/28/trumpiana-abracadabra-spy-ai-fly-high-493306/",
-   "ts": "20261128T134500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Gavin Newsom Trump Pardon Criticism Draws  Arsonist Calling for a Ban on Fire  Jab Over 548 Death Sentences",
-   "url": "https://www.ibtimes.co.uk/newsom-accused-hypocrisy-trump-pardon-attack-1835346",
-   "ts": "20261128T134500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Perspective : A hero name lives on",
-   "url": "https://www.wxxinews.org/npr-news/2026-11-28/perspective-a-heros-name-lives-on",
-   "ts": "20261128T134500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "£100 energy payment : Council tax direct debit rules and how to claim",
-   "url": "https://www.nwemail.co.uk/news/26771220.100-energy-payment-council-tax-direct-debit-rules-claim/",
-   "ts": "20261128T134500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  Газпром  на 3 года продлил контракт на поставки газа Турции",
-   "url": "https://www.dw.com/ru/gazprom-na-tri-goda-prodlil-kontrakt-na-postavki-gaza-v-turciu/a-80084844",
-   "ts": "20261128T134500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "New wave of Democratic attorneys general may reshape the justice system",
-   "url": "https://www.kmuw.org/2026-11-28/new-wave-of-democratic-attorneys-general-may-reshape-the-justice-system",
-   "ts": "20261128T134500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "David Brooks Warns of Anti - Israel Trend on the Left During PBS Segment",
-   "url": "https://newsbusters.org/blogs/nb/tim-graham/2026/11/28/pbs-david-brooks-sees-worrying-trend-left-over-jews-support-israel",
-   "ts": "20261128T134500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Clashes erupt in Tirana as protesters call for Prime Minister Edi Rama to resign – Winnipeg Free Press",
-   "url": "https://www.winnipegfreepress.com/world/2026/11/28/clashes-erupt-in-tirana-as-protesters-call-for-prime-minister-edi-rama-to-resign",
-   "ts": "20261128T134500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump Niece Reveals What Happened To Him As A Child That Caused Humiliation Complex",
-   "url": "https://crooksandliars.com/2026/11/trumps-niece-reveals-what-happened-him",
-   "ts": "20261128T134500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "  Trump is panicking : Dem poised to investigate White House says president  lost his mind  ",
-   "url": "https://www.rawstory.com/robert-garcia-trump-lost-mind/",
-   "ts": "20261128T134500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Надежность хранения информации ( часть 5 ) [ 88 ] - Конференция iXBT . com",
-   "url": "https://forum.ixbt.com/topic.cgi?id=11:50300-88",
-   "ts": "20261128T134500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "New wave of Democratic attorneys general may reshape the justice system",
-   "url": "https://www.wclk.com/2026-11-28/new-wave-of-democratic-attorneys-general-may-reshape-the-justice-system",
-   "ts": "20261128T134500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Украинские глубокие удары по России вышли на новый уровень",
-   "url": "https://www.unian.net/war/ukrainskie-glubokie-udary-po-rossii-vyshli-na-novyy-uroven-nyt-raskrylo-masshtab-13574139.html",
-   "ts": "20261128T134500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "Trump DOJ Chief Vows  We Will Not Back Down  but No Major Case Against the President Foes Ever Reaches Trial",
-   "url": "https://www.ibtimes.co.uk/todd-blanche-doj-trump-adversary-cases-legal-setbacks-1835348",
-   "ts": "20261128T134500Z"
-  },
-  {
-   "src": "gdelt",
-   "title": "The Supreme Court will decide whether assault weapons bans violate the Second Amendment – Winnipeg Free Press",
-   "url": "https://www.winnipegfreepress.com/world/2026/11/28/the-supreme-court-will-decide-whether-assault-weapons-bans-violate-the-second-amendment",
-   "ts": "20261128T134500Z"
   }
  ]
 }

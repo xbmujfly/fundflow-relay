@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-28T09:30:35Z",
+ "ts": "2026-11-28T09:45:35Z",
  "sources": {
   "whitehouse": {
    "ok": true,
@@ -347,6 +347,12 @@
   },
   {
    "src": "gnews",
+   "title": "Trump’s Embrace of Xi and Huang Stuns China Critics in Washington - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSmYxX1NoYkZUb0wzQjNfMXdKUWo4Sy1wZ2w5TjVIOXl0YUJ0OEx2dnFvb3JRclVmaFE4Tk9iRW9UY2tWLTdsemNPUkZTdjV5bWRCcGJldmV2VlVGdWJSNHQwUVp2MUo3QWxuR0RuU3Nob1NaV0Q5VGp2SURJWTExRlhCZHk?oc=5",
+   "ts": "Sat, 28 Nov 2026 05:19:36 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "China and other US trading partners hit back at Trump's new tariff plans - ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZHEyWGNGaUVkTzJNblpLLTJDVVhCWkJlOXdpNUpVbU5KSlo0SnNqN0pXSTRKQWZGU1dZX0EtakpDWTdPZHhDZkZIaFp1MlRWSG10RkZnLUdoNjAtSksydjZVMExWTUpoOXZLWTdteS1EYTBnbmNqalg1ZktWVGF2aUl4UlotS3BFRnA1a3pvdXNhd9IBlwFBVV95cUxOR3VPUGxOSXRDSzRVT0tjcUdEaFAwSHo2dEZ2aE9VUDZxY283Q2R4SjNVcUpzZmR1RGFWTnBRTzBKWVRKeXo4VHI1eHkyNTl5X1dhcHMtMXRXNHBqVmxhTk82d3VFWThsaHJUOTNQNmtxUnBWNjNNQUwxX2h0TXRDdzFWT0d6QW5kUFJDcE9oUUY2LXVnZ1ZN?oc=5",
    "ts": "Fri, 27 Nov 2026 02:57:26 GMT"
@@ -389,12 +395,6 @@
   },
   {
    "src": "gnews",
-   "title": "Trump Administration Unveils New Tariffs for Dozens of Countries, Citing Unfair Practices - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN05tSHVLN1V3cFRSaUY1d0l6MGkyY1dhRnN6R08tWW5uSm91eXlXQ1VHXzhnMEZpNHQtR0QzYWI5NHlFcjg4bFBhN0ZyMXZZQU9oQUJlVzNwUERxRFFWQThTOXMzM1laQjQzSXNjeXNlUnNGT3Zv?oc=5",
-   "ts": "Wed, 25 Nov 2026 13:17:38 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat - Reuters",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
    "ts": "Thu, 26 Nov 2026 01:02:52 GMT"
@@ -425,21 +425,27 @@
   },
   {
    "src": "gnews",
+   "title": "Trump Administration Unveils New Tariffs for Dozens of Countries, Citing Unfair Practices - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN05tSHVLN1V3cFRSaUY1d0l6MGkyY1dhRnN6R08tWW5uSm91eXlXQ1VHXzhnMEZpNHQtR0QzYWI5NHlFcjg4bFBhN0ZyMXZZQU9oQUJlVzNwUERxRFFWQThTOXMzM1laQjQzSXNjeXNlUnNGT3Zv?oc=5",
+   "ts": "Wed, 25 Nov 2026 13:17:38 GMT"
+  },
+  {
+   "src": "gnews",
    "title": "Trump admin proposes new tariffs on China, EU and 12 other trading partners - ABC News - Breaking News, Latest News and Videos",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN3dSZHFTVnZVU1IxNk0ydWl4QjJTdUF3dTRuckhxSUNwMGI5enBLWEFyZHVGRGlILTN6OXNibmFnLVNWNGhBcFgtR2Vfd3hUX3Nmc0VjdnJvdEdERktyUnVKRW1tejhHLXVhY056YVFvbzR3Vy1wdGRPLWJYbm5EanBkdHJfdFRrQ2doTkh1SEkzTUVQMWZJ0gGcAUFVX3lxTE5NQ2dvX1lVT2Z3ZXUtUGgxcHdYMUE0VTZQZzNGd3V0amdGOEdMd2hWeEJYMl94dE9KUVRKY3pBQnJ2NzhNZTZQTXFPSjlqamtaenBiRE5FR1VvTEFCV2c1UXFoZk5YbHpsRzY0Z1Vmal9BZ3NxYjVOeXppMVJRd092STNQQjZZLUsxMmVDWWd4b2F4QkJ2ZTlPa1hJUw?oc=5",
    "ts": "Wed, 25 Nov 2026 22:07:22 GMT"
   },
   {
    "src": "gnews",
-   "title": "Trump’s Latest Tariffs Revive Focus on Pressuring China - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1odENQTk1RR0JMbTlRYWhYcnh6cGdvcktJUGVNZURvbUFtTHZ0end3RjhpclNNNEF0ZnZFTDVHTy1Vcy1jMF90U240MEZFUURvdkJDN3I2aE55R193X1VjVW9PaU5sVWZvU1Y4dmt5M3ZmeE1YcVE?oc=5",
-   "ts": "Thu, 26 Nov 2026 14:00:34 GMT"
-  },
-  {
-   "src": "gnews",
    "title": "Trump announces new trade tariffs: Which countries are affected? - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEJUV292VEZ6TjdJalc2UkRBWGVDaUVVa1ZyMFZGbE5kakN2VTA2bnNuSUFsNVJSZE9jMTdnVDFEZExLbEhLcy1oTHRkbV9GYzdzV05vREFrNXM5RWRTS1lGdTZzMUhTQzRoQ2FqNW9oakZNT0l0R3RyTjZrMkZkeDlKVjFiaFB2a09wRWp4Q050eXNib1M1U3hLNndVQW12cE9KbFBtYWRyaGJj0gGyAUFVX3lxTE1zaEVXa2ZXOGhyOHJ1Yk1SSENISGhHZVpwekNrMGpkaENvVTNuT1lmN01ESWZSeUVCelJKbGlEV203eWRXLTdjRGU3Ny1vOG85OVBOSklDN1dPRWdpSHRrQ2JmWlNxR2FNYTF4V19mRjhPemsxcnJsZkJqU2haVkRoNzNkdFFRdkI5YzRRcVBVbV9VUzRmVFdPaThCQVNHTXdxaGFkVmJJLWNMOXRqZzN5UXc?oc=5",
    "ts": "Wed, 25 Nov 2026 15:00:52 GMT"
+  },
+  {
+   "src": "gnews",
+   "title": "Trump’s Latest Tariffs Revive Focus on Pressuring China - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1odENQTk1RR0JMbTlRYWhYcnh6cGdvcktJUGVNZURvbUFtTHZ0end3RjhpclNNNEF0ZnZFTDVHTy1Vcy1jMF90U240MEZFUURvdkJDN3I2aE55R193X1VjVW9PaU5sVWZvU1Y4dmt5M3ZmeE1YcVE?oc=5",
+   "ts": "Thu, 26 Nov 2026 14:00:34 GMT"
   },
   {
    "src": "gnews",
@@ -452,12 +458,6 @@
    "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals? - Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWVQTU9Bem1UcHdtT2s5T005dlJvaDZfMTZ3aTQ1UHpDVUNMbERrRTFpQ0pKNFI0alRqWWp6ODBNYTJuSVNIX2JBMEpDRFh2RmlvYkNISXByQlJrR0dvb1BvQ0hxZmlPSXhtY3FfZjB6eUl0S0dtb2hxcHJwZ2U3X3ZudWpyMFRodlVackNmbU5DOVJENVhmS0s5bzQ2Z3BSMEdyZNIBqgFBVV95cUxPc2NjTE95RV9JMXdFTy1CdVNSdm1mRUt3cGxydjdid21HVFAza2pLcGRiY2FzOEUxeHhKNHZRcjdFeHRxQ0h5ZjYzZHRFWWhMSTFqSnJmVU9BNnB5WnB4VGpYN2Z3RU5vT24wVlhQeXpqYURoWnlXLW5QbXNvWS1DSzd5VGVNM0dPcnkyQkE1NEJCRlROejRDaE0tSXR0aXFYakJyMVNQYkRyZw?oc=5",
    "ts": "Thu, 26 Nov 2026 11:16:29 GMT"
-  },
-  {
-   "src": "gnews",
-   "title": "World reacts to Trump’s new tariffs as US stocks tumble - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2xwNlNFeVhicVplSG9FSUZVd2xjOUxCcHd6QjFfeV9PV0VNTkNmOEVQWkN1S2JRbGd6WXBlZ2czdlRWT3hDcWlWclMzeVA0c09QZzVzRTY0VWhxZEJOMU1BNVhpRTNVLThIczAwODJjSzBka1lXVkFRc1pBWGZjRHRhakwxUTdhdllTYVJXUGg1cE9tbWg2clBQZXFBcWl00gGmAUFVX3lxTE1ManFzV2ItczJsaU1wc2t3Tkc3OXdMTlhsdF9tZVh2c29Ld2lLakRybW1sZEhzOXMwNUh5ZUVLd2prWTFSUFZpbm40alhZcEcxVFBIM1NTUzljU1dzdS1oZ2RxTlp6cGNSUzRTOGlxbE5GNGZORy1Da3diOS1NWExyM1RNQVZrZkJEMkhZREdZY1BickkyNE1pbWIzOHdhRFk3Zng2TWc?oc=5",
-   "ts": "Wed, 25 Nov 2026 19:31:28 GMT"
   }
  ]
 }
